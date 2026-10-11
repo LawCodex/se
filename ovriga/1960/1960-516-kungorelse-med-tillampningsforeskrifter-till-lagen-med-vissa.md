@@ -1,0 +1,37 @@
+---
+title: "Kungörelse (1960:516) med tillämpningsföreskrifter till lagen (1940:176) med vissa bestämmelser om fraktfart med svenska fartyg"
+identifier: "SFS 1960:516"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1960-06-03
+amended_through: "SFS 2023:529"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1960-516.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1960:516"
+retrieved: 2026-10-11
+---
+# Kungörelse (1960:516) med tillämpningsföreskrifter till lagen (1940:176) med vissa bestämmelser om fraktfart med svenska fartyg
+
+### 1 §
+
+Har beredskapslarm getts får resa med registreringspliktigt svenskt fartyg företas endast efter tillstånd enligt 2 § och med iakttagande av de villkor som har förenats med tillståndet.
+
+Första stycket gäller dock inte för fartyg som har ett gällande passagerarfartygscertifikat och vars bruttodräktighet understiger 350, eller bogserfartyg med en maskinstyrka understigande 100 effektiva hästkrafter. Tillstånd behövs inte heller för resa mellan svensk och utländsk ort med fartyg som inte är bogserfartyg och vars bruttodräktighet understiger 100, eller för resa mellan svenska hamnar med fartyg som inte är bogserfartyg och vars bruttodräktighet understiger 350. *Förordning (1993:248)*.
+
+### 2 §
+
+Tillstånd som avses i 1 § meddelas av Transportstyrelsen eller, om Transportstyrelsens beslut inte kan avvaktas utan allvarlig olägenhet, av länsstyrelsen i det län där fartyget befinner sig när resan ska påbörjas. *Förordning (2023:529)*.
+
+### 3 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:927)*.
+
+## Övergångsbestämmelser
+
+**1998:1069**
+
+Denna förordning träder i kraft den 1 oktober 1998. Äldre föreskrifter gäller fortfarande i fråga om överklagande av beslut som har meddelats före ikraftträdandet.

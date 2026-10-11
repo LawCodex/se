@@ -6,6 +6,7 @@ jurisdiction: se
 language: sv
 date: 2026-04-30
 department: "Justitiedepartementet L1"
+entry_into_force: "den dag som regeringen bestämmer"
 status: in_force
 source: "https://data.riksdagen.se/dokument/sfs-2026-484.html"
 consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2026:484"

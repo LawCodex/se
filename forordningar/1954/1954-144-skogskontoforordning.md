@@ -1,0 +1,55 @@
+---
+title: "Skogskontoförordning (1954:144)"
+identifier: "SFS 1954:144"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1954-03-27
+amended_through: "SFS 2026:116"
+department: "Finansdepartementet S1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1954-144.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1954:144"
+retrieved: 2026-10-11
+---
+# Skogskontoförordning (1954:144)
+
+### 1 §
+
+Med skogskonto och naturvårdskonto förstås i denna förordning sådana särskilda konton i ett kreditinstitut som avses i 21 kap. 21 § inkomstskattelagen (1999:1229). Vad som sägs om skogskonto gäller även skogsskadekonto.
+
+*Förordning (2026:116)*.
+
+### 2 §
+
+Har upphävts genom *förordning (2001:1245)*.
+
+### 3 §
+
+Har upphävts genom *förordning (2001:1245)*.
+
+### 4 §
+
+Har upphävts genom *förordning (2001:1245)*.
+
+### 5 §
+
+Om en kontrolluppgift som har lämnats enligt 16 kap. 4 § 1 a skatteförfarandelagen (2011:1244) inte har följts vid ett beslut om avdrag för insättning på ett skogskonto, skogsskadekonto eller naturvårdskonto ska Skatteverket snarast möjligt lämna ett meddelande till kreditinstitutet om beslutet. Ett sådant meddelande ska också lämnas till kreditinstitutet om innestående medel har tagits upp som intäkt i inkomstslaget näringsverksamhet enligt 21 kap. 37 a, 39 eller 40 § inkomstskattelagen (1999:1229). Om den skattskyldige har överklagat beslutet, ska meddelandet lämnas först när beslutet har fått laga kraft. *Förordning (2026:116)*.
+
+### 6 §
+
+Har upphävts genom *förordning (2001:1245)*.
+
+### 7 §
+
+Har upphävts genom *förordning (2001:1245)*.
+
+### 8 §
+
+Har upphävts genom *förordning (2026:116)*.
+
+## Övergångsbestämmelser
+
+**2001:1245**
+
+Denna förordning träder i kraft den 1 januari 2002 och tillämpas första gången vid 2002 års taxering.

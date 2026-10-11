@@ -1,0 +1,16 @@
+---
+title: "Kungörelse (1952:651) om betesreglering inom vissa skogsvårdsområden i Lycksele, Åsele, Fredrika, Dorotea, Stensele och Malå socknar i Västerbottens län"
+identifier: "SFS 1952:651"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1952-10-03
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1952-651.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1952:651"
+retrieved: 2026-10-11
+---
+# Kungörelse (1952:651) om betesreglering inom vissa skogsvårdsområden i Lycksele, Åsele, Fredrika, Dorotea, Stensele och Malå socknar i Västerbottens län
+
+Med stöd av 12 § andra stycket lagen den 2 juni 1933 (nr 269) om ägofred har Kungl. Maj:t, på framställning av skogsvårdsstyrelsen i Västerbottens län, funnit gott förordna, att betesreglering må, på sätt och under villkor som stadgas i 13-19 §§ samma lag, äga rum inom följande skogsvårdsområden i Västerbottens län, nämligen Graned, Granfors, Granselelund, Gäddträsk, Hedmark, Karonsbo, Königslund, Lyckan-Ulriksdal, Norrås och Vänjaurträsk i Lycksele socken, Almsele, Gavsele, Lomsjö, Sörstrand, Söråsele och Tallberg i Åsele socken, Orrberg i Fredrika socken, Harrsjöhöjden i Dorotea socken, Strömsund och Strömsund II i Stensele socken samt Lövberg i Malå socken.

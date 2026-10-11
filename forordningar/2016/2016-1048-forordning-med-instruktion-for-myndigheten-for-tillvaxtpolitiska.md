@@ -7,6 +7,7 @@ language: sv
 date: 2016-11-17
 amended_through: "SFS 2025:695"
 department: "Klimat- och näringslivsdepartementet RSN"
+expires: 2027-01-01
 status: in_force
 source: "https://data.riksdagen.se/dokument/sfs-2016-1048.html"
 consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:1048"

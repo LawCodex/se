@@ -1,0 +1,67 @@
+---
+title: "Kungörelse (1954:555) angående mätbrev för fart genom Suezkanalen"
+identifier: "SFS 1954:555"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1954-06-30
+amended_through: "SFS 2018:925"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1954-555.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1954:555"
+retrieved: 2026-10-11
+---
+# Kungörelse (1954:555) angående mätbrev för fart genom Suezkanalen
+
+1 §
+
+1. På begäran av ägaren till eller befälhavaren i svenskt fartyg äger Transportstyrelsen, efter mätning i nedan angiven ordning, för fartyget utfärda särskilt, på engelska språket avfattat mätbrev för fart genom Suezkanalen (Suez Canal Special Tonnage Certificate).
+
+Sådant mätbrev må jämväl utfärdas för utländskt fartyg, som befinner sig i svensk hamn, därest fartygets ägare eller befälhavare hos Transportstyrelsen det begär.
+
+2. Beträffande svenskt fartyg äger Transportstyrelsen medgiva, att mätning som avses i 1 mom. utföres å utländsk ort av svensk skeppsmätare. Har vederbörande statsmyndighet i det främmande landet på framställning av Transportstyrelsen samtyckt därtill, må mätningen ock kunna utföras genom förstnämnda myndighets försorg.
+
+*Förordning (2008:1173)*.
+
+### 2 §
+
+Mätning och dräktighetsberäkning skola verkställas enligt de närmare föreskrifter, som utfärdas av Transportstyrelsen. Det åligger styrelsen tillse, att föreskrifterna överensstämma med de för Suezkanalen gällande skeppsmätningsreglerna.
+
+Blanketter till mätbevis och mätbrev fastställas av Transportstyrelsen. *Förordning (2008:1173)*.
+
+### 3 §
+
+Har fartyg, sedan det försetts med mätbrev enligt denna kungörelse, genom ombyggnad eller annorledes undergått någon på avgiftsplikten inverkande förändring eller begagnas rum som uteslutits vid beräkningen av bruttodräktigheten eller för vilket avdrag gjorts vid bestämmandet av nettodräktigheten för annat ändamål än som utgjort förutsättning för uteslutningen eller avdraget, skall mätbrevet ofördröjligen återställas till Transportstyrelsen.
+
+På begäran av ägaren eller befälhavaren må fartyg som avses i första stycket, i den utsträckning som prövas erforderlig, mätas om och förses med nytt mätbrev för fart genom Suezkanalen. *Förordning (2008:1173)*.
+
+### 4 §
+
+Transportstyrelsen fastställer avgifter för mätning enligt denna kungörelse. *Förordning (2008:1173)*.
+
+### 5 §
+
+Kommer genom anmälan från Suezkanalbolaget eller eljest till Transportstyrelsens kännedom, att uppgifterna i mätbrev för fart genom Suezkanalen icke överensstämma med de verkliga förhållandena, äger styrelsen vidtaga lämplig åtgärd för vinnande av rättelse.
+
+Mätes fartyget om eller utfärdas nytt mätbrev, skall kostnaden härför stanna på statsverket, såframt icke åtgärden föranletts av omständighet varom i 3 § första stycket förmäles.
+
+*Förordning (2008:1173)*.
+
+### 6 §
+
+Bestämmelserna i 13-15 §§, 27 § andra stycket, 28-30 §§ och 33 § förordningen (1994:1162) om skeppsmätning skall gälla i tillämpliga delar. *Förordning (1995:519)*.
+
+### 7 §
+
+Transportstyrelsens beslut enligt 2 § får överklagas till regeringen.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:925)*.
+
+## Övergångsbestämmelser
+
+**1995:519**
+
+Denna förordning träder i kraft den 1 juli 1995. Beslut som har meddelats före ikraftträdandet överklagas enligt äldre bestämmelser.

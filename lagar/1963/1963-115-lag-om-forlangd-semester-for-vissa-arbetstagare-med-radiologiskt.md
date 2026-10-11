@@ -1,0 +1,57 @@
+---
+title: "Lag (1963:115) om förlängd semester för vissa arbetstagare med radiologiskt arbete"
+identifier: "SFS 1963:115"
+type: act
+jurisdiction: se
+language: sv
+date: 1963-05-17
+amended_through: "SFS 2009:1441"
+department: "Arbetsmarknadsdepartementet ARM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1963-115.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1963:115"
+retrieved: 2026-10-11
+---
+# Lag (1963:115) om förlängd semester för vissa arbetstagare med radiologiskt arbete
+
+### 1 §
+
+En arbetstagare som för arbetsgivarens räkning utför radiologiskt arbete, där arbetstagaren utsätts för joniserande strålning i sådan utsträckning att skadlig inverkan kan befaras, har under villkor som föreskrivs i denna lag rätt till längre semesterledighet än som följer av 4 § semesterlagen (1977:480). För varje kalendermånad av intjänandeåret, under vilken arbetstagaren har utfört sådant arbete minst femton dagar, ska semesterledigheten påföljande semesterår förlängas med fem tolftedels semesterdag. Uppstår vid beräkningen ett brutet dagantal, ska det avrundas till närmast högre hela tal.
+
+Dag, när sådant arbete som avses i första stycket har utförts, ska jämställas med
+
+1) dag, då arbetstagaren varit semesterledig, dock endast om hans eller hennes arbete omedelbart före och omedelbart efter ledigheten varit sådant som avses i första stycket, samt
+
+2) dag, då arbetstagaren har haft ledighet som är semesterlönegrundande enligt 17-17 b §§ semesterlagen, dock inte om sådant arbete, som avses i första stycket, uppenbarligen inte kunnat beredas honom eller henne sådan dag och anledningen till detta varit annan än driftsuppehåll för samtidig semester.
+
+Semesterlön för de semesterdagar som tillkommer enligt första stycket beräknas enligt 16-16 b §§ semesterlagen.
+
+*Lag (2009:1441)*.
+
+### 2 §
+
+På begäran av domstol eller den som saken rör, ska Arbetsmiljöverket avgöra om ett visst arbete är sådant som avses i denna lag.
+
+Om ett mål som handläggs vid domstol, är beroende av en fråga som avses i första stycket, ska domstolen hänskjuta frågan till Arbetsmiljöverket, när en part yrkar det eller domstolen finner att det är nödvändigt. Dom får inte meddelas förrän Arbetsmiljöverkets beslut kommit domstolen till handa.
+
+*Lag (2009:1441)*.
+
+### 3 §
+
+Om semester för arbetstagare som avses i denna lag gäller i övrigt semesterlagen (1977:480). *Lag (2009:1441)*.
+
+## Övergångsbestämmelser
+
+**1963:115**
+
+Denna lag träder i kraft den 1 januari 1964, från och med vilken dag semesterrätt enligt lagen kan förvärvas.
+
+Genom denna lag upphäves lagen den 25 maj 1951 (nr 304) om förlängd semester för vissa arbetstagare med hälsofarligt arbete.
+
+Arbetstagare, som den 1 januari 1964 förvärvat semesterrätt enligt den äldre lagen, skall, i den mån han icke då åtnjutit honom enligt nämnda lag tillkommande förmån, äga åtnjuta semesterförmån enligt föreskrifterna i den nya lagen.
+
+**1977:481**
+
+Denna lag träder i kraft den 1 januari 1978.
+
+Beträffande förlängning av semesteråret den 1 april 1978 - den 31 mars 1979 skall de nya bestämmelserna tillämpas, med iakttagande av att tiden den 1 januari 1977 - den 31 mars 1978 betraktas som intjänandeår. I övrigt skall, i den mån enligt övergångsbestämmelserna till semesterlagen (1977:480) äldre bestämmelser i lag eller avtal skall äga fortsatt giltighet, detsamma gälla på förevarande lags tillämpningsområde.

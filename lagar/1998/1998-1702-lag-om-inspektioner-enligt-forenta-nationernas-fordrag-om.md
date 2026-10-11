@@ -7,6 +7,7 @@ language: sv
 date: 1998-12-17
 amended_through: "SFS 2014:773"
 department: "Utrikesdepartementet"
+entry_into_force: "den dag regeringen bestämmer"
 status: in_force
 source: "https://data.riksdagen.se/dokument/sfs-1998-1702.html"
 consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:1702"

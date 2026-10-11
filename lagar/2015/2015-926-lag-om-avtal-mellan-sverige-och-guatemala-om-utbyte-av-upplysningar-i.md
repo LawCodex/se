@@ -6,6 +6,7 @@ jurisdiction: se
 language: sv
 date: 2015-12-10
 department: "Finansdepartementet S3"
+entry_into_force: "den dag som regeringen bestämmer"
 status: in_force
 source: "https://data.riksdagen.se/dokument/sfs-2015-926.html"
 consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:926"

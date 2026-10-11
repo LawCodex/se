@@ -1,0 +1,51 @@
+---
+title: "Lag (1962:120) om straff i vissa fall för oriktigt ursprungsintyg m.m."
+identifier: "SFS 1962:120"
+type: act
+jurisdiction: se
+language: sv
+date: 1962-04-27
+amended_through: "SFS 2024:716"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1962-120.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1962:120"
+retrieved: 2026-10-11
+---
+# Lag (1962:120) om straff i vissa fall för oriktigt ursprungsintyg m.m.
+
+### 1 §
+
+Den som i ursprungsintyg eller annan handling, som åberopas till bevis för vinnande av förmånsbehandling enligt handelsöverenskommelser som Europeiska unionen (EU) har ingått eller enligt EU:s rättsakter, uppsåtligen lämnat oriktig uppgift ägnad att leda till förmånsbehandling, döms till böter eller fängelse i högst ett år. Till samma straff döms den som i samband med ansökan om ursprungsintyg uppsåtligen lämnat oriktig uppgift ägnad att leda till förmånsbehandling samt den som tillhandahållit en åberopad handling med vetskap om att den innehåller sådan oriktig uppgift. Är brottet att anse som grovt döms till fängelse i högst två år.
+
+Begår någon av grov oaktsamhet gärning som avses i första stycket, döms till böter.
+
+Är brott som avses i denna paragraf att anse som ringa, döms ej till ansvar. *Lag (2010:1018)*.
+
+### 1 a §
+
+Har upphävts genom *lag (1981:436)*.
+
+### 2 §
+
+Den som frivilligt rättar oriktig uppgift skall vara fri från straff.
+
+### 3 §
+
+I tullbefogenhetslagen (2024:710) finns bestämmelser om utredning och lagföring av brott mot denna lag. *Lag (2024:716)*.
+
+### 4 §
+
+Allmänt åtal för brott som avses i denna lag får väckas endast efter medgivande av Tullverket. *Lag (1999:402)*.
+
+### 5 §
+
+Regeringen meddelar närmare föreskrifter om förundersökning rörande brott mot denna lag. *Lag (1981:436)*.
+
+## Övergångsbestämmelser
+
+**1994:1549**
+
+1. Denna lag träder i kraft samtidigt med lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen.
+
+2. Äldre föreskrifter gäller fortfarande beträffande gärning som begåtts före ikraftträdandet.

@@ -1,0 +1,3382 @@
+---
+title: "Föräldrabalk (1949:381)"
+identifier: "SFS 1949:381"
+type: code
+jurisdiction: se
+language: sv
+date: 1949-06-10
+amended_through: "SFS 2026:1603"
+reprinted: "SFS 1995:974"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1949-381.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1949:381"
+retrieved: 2026-10-11
+---
+# Föräldrabalk (1949:381)
+
+## 1 kap. Om faderskapet och moderskapet till barn
+
+### Faderskapspresumtion
+
+#### 1 §
+
+Är vid barns födelse modern gift med en man, ska denne anses som barnets far, om inte annat följer av 2 §. Detsamma gäller, om modern är änka och barnet föds inom sådan tid efter mannens död att barnet kan vara avlat dessförinnan.
+
+*Lag (2009:254)*.
+
+#### 2 §
+
+Rätten ska förklara att mannen i äktenskapet inte är far till barnet, om
+
+1. det är utrett att modern har haft samlag med någon annan än mannen under den tid då barnet kan ha tillkommit och det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom samlaget,
+
+2. det på grund av barnets arvsanlag eller någon annan särskild omständighet kan hållas för visst att mannen inte är barnets far, eller
+
+3. barnet har tillkommit före äktenskapet eller under det att makarna levde åtskilda och det inte är sannolikt att makarna har haft samlag med varandra under den tid då barnet kan ha tillkommit.
+
+Om mannen i äktenskapet skriftligen godkänner någon annans bekräftelse av faderskapet, föräldraskapet enligt 9 § eller moderskapet enligt 14 §, och 4 § har iakttagits i fråga om bekräftelsen, ska det därigenom anses fastställt att mannen i äktenskapet inte är barnets far. Bekräftelsen ska dock i detta fall alltid vara skriftligen godkänd av modern. *Lag (2021:783)*.
+
+### Fastställande av faderskap
+
+#### 3 §
+
+Om det inte är fråga om fall som avses i 1 § eller 9 § första stycket eller om rätten har meddelat förklaring enligt 2 § första stycket eller 9 a § första stycket, fastställs faderskapet genom bekräftelse eller dom. I fall som avses i 9 § andra stycket fastställs i stället föräldraskapet för en kvinna.
+
+Faderskap eller föräldraskap fastställs dock inte om
+
+1. modern har genomgått en insemination eller befruktning utanför kroppen enligt 6 eller 7 kap. lagen (2006:351) om genetisk integritet m.m. eller om modern har genomgått en insemination eller befruktning utanför kroppen vid en behörig inrättning i utlandet och barnet har rätt att ta del av uppgifter om spermiedonatorn,
+
+2. modern vid behandlingen var en ensamstående kvinna enligt 1 kap. 5 § lagen om genetisk integritet m.m., och
+
+3. det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom behandlingen.
+
+Andra stycket hindrar inte att spermiedonatorn bekräftar faderskapet. *Lag (2021:783)*.
+
+#### 4 §
+
+En bekräftelse av faderskap till ett barn som inte har fyllt 18 år görs skriftligen vid ett personligt besök hos socialnämnden. Bekräftelsen ska skriftligen godkännas av socialnämnden och av modern eller en särskilt förordnad vårdnadshavare eller en tillfällig vårdnadshavare för barnet. Socialnämnden får lämna sitt godkännande endast om det kan antas att mannen är far till barnet. Socialnämnden får i enskilda fall medge undantag från kravet på personligt besök, om det finns särskilda skäl.
+
+Bekräftelsen får göras även före barnets födelse.
+
+En bekräftelse av faderskap till ett myndigt barn görs skriftligen och ska bevittnas av två personer. Bekräftelsen ska skriftligen godkännas av barnet självt. *Lag (2021:783)*.
+
+#### 4 a §
+
+Trots 4 § första stycket får en bekräftelse av faderskap göras digitalt i ett särskilt system som tillhandahålls av den myndighet som regeringen bestämmer, om
+
+1. modern och mannen är myndiga och folkbokförda i Sverige vid barnets födelse, och
+
+2. barnet är folkbokfört i Sverige när bekräftelsen lämnas.
+
+Bekräftelsen ska godkännas digitalt av modern.
+
+Bekräftelsen ska lämnas av mannen och godkännas av modern senast 14 dagar efter barnets födelse.
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om hur en digital bekräftelse ska lämnas och godkännas. *Lag (2021:783)*.
+
+#### 4 b §
+
+Om det visar sig att den som har lämnat en bekräftelse enligt 4 eller 4 a § inte är far till barnet, ska rätten förklara att bekräftelsen saknar verkan mot honom.
+
+*Lag (2021:783)*.
+
+#### 5 §
+
+När faderskap ska fastställas genom dom, ska rätten förklara en man vara far om
+
+1. det genom en genetisk undersökning är utrett att han är barnets far,
+
+2. det är utrett att han har haft samlag med barnets mor under den tid då barnet kan ha tillkommit och det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom samlaget, eller
+
+3. det är utrett att en insemination eller befruktning utanför kroppen har utförts med hans spermier under den tid då barnet kan ha tillkommit och det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom behandlingen.
+
+Faderskapet kan inte fastställas genom dom för en man som är spermiedonator enligt 6 eller 7 kap. lagen (2006:351) om genetisk integritet m.m. *Lag (2018:1279)*.
+
+#### 6 §
+
+Har upphävts genom *lag (2018:1279)*.
+
+### Moderskap vid befruktning utanför kroppen
+
+#### 7 §
+
+Om en kvinna föder ett barn som tillkommit genom att ett ägg från en annan kvinna efter befruktning utanför kroppen har förts in i hennes kropp, skall hon anses som barnets moder.
+
+*Lag (2002:251)*.
+
+### Faderskap vid insemination eller befruktning utanför kroppen
+
+#### 8 §
+
+Om modern har genomgått en insemination eller befruktning utanför kroppen med samtycke av en man som var hennes make eller sambo och det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom behandlingen, ska vid tillämpningen av 2-5 §§ den som har lämnat samtycket anses som barnets far.
+
+Vid en behandling som har utförts med spermier från en annan man än moderns make eller sambo gäller första stycket endast om behandlingen har utförts enligt 6 eller 7 kap. lagen (2006:351) om genetisk integritet m.m. eller om behandlingen har utförts vid en behörig inrättning i utlandet och barnet har rätt att ta del av uppgifter om spermiedonatorn.
+
+*Lag (2018:1279)*.
+
+### Föräldraskap vid insemination eller befruktning utanför kroppen
+
+#### 9 §
+
+Om modern är gift med en kvinna eller är registrerad partner vid barnets födelse, ska hennes make eller registrerade partner anses som barnets förälder. Detsamma gäller om modern är änka och barnet föds inom sådan tid efter kvinnans död att barnet kan ha tillkommit dessförinnan.
+
+Om modern har genomgått en insemination eller befruktning utanför kroppen enligt 6 eller 7 kap. lagen (2006:351) om genetisk integritet m.m. med samtycke av en kvinna som var moderns make, registrerade partner eller sambo och det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom behandlingen, ska den som har lämnat samtycket anses som barnets förälder. Detsamma gäller om en insemination eller befruktning utanför kroppen har utförts vid en behörig inrättning i utlandet och barnet har rätt att ta del av uppgifter om spermiedonatorn.
+
+I fall som avses i andra stycket fastställs föräldraskapet genom bekräftelse eller dom. Det som sägs i 4-4 b §§ om bekräftelse av faderskap tillämpas också i fråga om bekräftelse av ett sådant föräldraskap. *Lag (2021:783)*.
+
+#### 9 a §
+
+Rätten ska förklara att en kvinna som ska anses som förälder till ett barn enligt 9 § första stycket inte är barnets förälder, om modern har genomgått en insemination eller befruktning utanför kroppen, men förutsättningarna i 9 § andra stycket inte är uppfyllda, eller om modern inte har genomgått en sådan behandling.
+
+Om en kvinna som ska anses som förälder till ett barn enligt 9 § första stycket skriftligen godkänner någon annans bekräftelse av faderskapet, föräldraskapet enligt 9 § eller moderskapet enligt 14 §, och 4 § har iakttagits i fråga om bekräftelsen, ska det därigenom anses fastställt att kvinnan inte är barnets förälder. Bekräftelsen ska dock i detta fall alltid vara skriftligen godkänd av modern. *Lag (2021:783)*.
+
+### Faderskap och moderskap vid ändrad könstillhörighet
+
+#### 10 §
+
+Om en man föder ett barn gäller 11-14 §§. Föder en kvinna ett barn gäller 11 a-11 d §§ för hennes make, om maken har ändrat könstillhörighet, och 13 och 14 §§ för en annan person om den personen uppfyller villkoren enligt 5 eller 8 § och har ändrat könstillhörighet. *Lag (2021:783)*.
+
+#### 11 §
+
+Om en man föder ett barn, ska han anses som far till barnet. För mannen gäller dock det som i andra kapitel i denna balk och i andra författningar sägs om mor och moderskap. *Lag (2018:1279)*.
+
+#### 11 a §
+
+Om den som har fött barnet är gift med en man vid barnets födelse, ska mannen anses som far till barnet. Detsamma gäller om den som har fött barnet är änka eller änkling och barnet föds inom sådan tid efter mannens död att barnet kan ha tillkommit dessförinnan.
+
+Om den som har fött barnet är gift med en kvinna vid barnets födelse, ska kvinnan anses som mor till barnet. Detsamma gäller om den som har fött barnet är änka eller änkling och barnet föds inom sådan tid efter kvinnans död att barnet kan ha tillkommit dessförinnan. För kvinnan gäller dock det som i andra kapitel i denna balk och i andra författningar sägs om far och faderskap. *Lag (2021:783)*.
+
+#### 11 b §
+
+Rätten ska förklara att den som ska anses som far eller mor till ett barn enligt 11 a § inte är barnets far eller mor, om
+
+1. det är utrett att den som har fött barnet har haft samlag med någon annan än maken under den tid då barnet kan ha tillkommit och det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom samlaget,
+
+2. det på grund av barnets arvsanlag eller annan särskild omständighet kan hållas för visst att maken inte är far eller mor till barnet, eller
+
+3. barnet har tillkommit före äktenskapet eller under det att makarna levde åtskilda och det inte är sannolikt att makarna har haft samlag med varandra under den tid då barnet kan ha tillkommit.
+
+Om den som har fött barnet har genomgått en insemination eller befruktning utanför kroppen, gäller 11 c § i stället för denna paragraf. *Lag (2021:783)*.
+
+#### 11 c §
+
+Rätten ska förklara att den som ska anses som far eller mor till ett barn enligt 11 a § inte är barnets far eller mor, om den som har fött barnet har genomgått en insemination eller befruktning utanför kroppen men villkoren enligt 8 § inte är uppfyllda. Vid tillämpning av 8 § ska det som sägs om en mor gälla för en man enligt 11 §. *Lag (2021:783)*.
+
+#### 11 d §
+
+Om den som ska anses som far eller mor till ett barn enligt 11 a § skriftligen godkänner någon annans bekräftelse av faderskapet, föräldraskapet enligt 9 § eller moderskapet enligt 14 §, och 4 § har iakttagits i fråga om bekräftelsen, ska det därigenom anses fastställt att mannen eller kvinnan inte är far eller mor till barnet. Bekräftelsen ska dock i detta fall alltid vara skriftligen godkänd av den som har fött barnet. *Lag (2021:783)*.
+
+#### 12 §
+
+Om det inte är fråga om fall som avses i 11 a § eller om rätten har meddelat förklaring enligt 11 b eller 11 c §, fastställs faderskapet eller moderskapet enligt 13 eller 14 §.
+
+Om en man föder ett barn ska det inte fastställas något faderskap eller moderskap enligt 13 eller 14 §, om
+
+1. mannen har genomgått en insemination eller befruktning utanför kroppen enligt 6 eller 7 kap. lagen (2006:351) om genetisk integritet m.m. eller om han har genomgått en insemination eller befruktning utanför kroppen vid en behörig inrättning i utlandet och barnet har rätt att ta del av uppgifter om spermiedonatorn,
+
+2. mannen vid behandlingen varken var gift, registrerad partner eller sambo, och
+
+3. det med hänsyn till samtliga omständigheter är sannolikt att barnet har tillkommit genom behandlingen.
+
+Andra stycket hindrar inte att spermiedonatorn bekräftar faderskapet eller moderskapet. *Lag (2021:783)*.
+
+#### 13 §
+
+En man som uppfyller villkoren enligt 5 eller 8 § ska anses som far till barnet.
+
+Ett faderskap enligt första stycket fastställs genom bekräftelse eller dom. Det som sägs i 4-4 b §§ om bekräftelse av faderskap tillämpas även i detta fall.
+
+Vid tillämpningen av 4, 4 a, 5 och 8 §§ ska det som sägs om en mor gälla för en man enligt 11 §. *Lag (2021:783)*.
+
+#### 14 §
+
+En kvinna som uppfyller villkoren enligt 5 eller 8 § ska anses som mor till barnet. För kvinnan gäller dock det som i andra kapitel i denna balk och i andra författningar sägs om far och faderskap.
+
+Ett moderskap enligt första stycket fastställs genom bekräftelse eller dom. Det som sägs i 4-4 b §§ om bekräftelse av faderskap tillämpas också i fråga om bekräftelse av ett sådant moderskap.
+
+Vid tillämpningen av 4, 4 a, 5 och 8 §§ ska det som sägs om en mor gälla för en man enligt 11 §. *Lag (2021:783)*.
+
+### Barnets rätt till upplysning i vissa fall
+
+#### 15 §
+
+Ett barn som har tillkommit genom en sådan insemination eller befruktning utanför kroppen som har utförts med andra könsceller än föräldrarnas egna har rätt att av sina föräldrar få veta det. Föräldrarna ska så snart det är lämpligt upplysa barnet om att han eller hon har tillkommit genom en sådan behandling. *Lag (2018:1279)*.
+
+## 2 kap. Om socialnämnds medverkan vid fastställande av faderskap
+
+#### 1 §
+
+Om inte en viss man eller kvinna på grund av äktenskap eller registrerat partnerskap ska anses som far eller förälder enligt 1 kap. 9 § till ett barn som står under någons vårdnad, är socialnämnden skyldig att försöka utreda vem som är far till barnet och se till att faderskapet fastställs, om barnet har sin hemvist i Sverige.
+
+Om modern är myndig och folkbokförd i Sverige när barnet föds, inträder skyldigheten enligt första stycket först 15 dagar efter barnets födelse. *Lag (2021:783)*.
+
+#### 2 §
+
+Uppgifterna enligt 1 § åligger socialnämnden i den kommun där barnet är folkbokfört. *Lag (1991:487)*.
+
+#### 3 §
+
+Ändras förhållande som anges i 2 § sedan socialnämnden inlett sin utredning, är nämnden ändå skyldig att slutföra sin uppgift.
+
+Socialnämnden kan flytta över ärendet till socialnämnden i annan kommun, om det skulle avsevärt underlätta utredningen. Om sådant beslut skall den andra socialnämnden genast underrättas.
+
+Socialnämndens beslut enligt andra stycket får överklagas hos länsstyrelsen. Länsstyrelsens beslut får överklagas hos allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätten. *Lag (1994:1433)*.
+
+#### 4 §
+
+Socialnämnden skall vid sin utredning inhämta upplysningar från modern och andra personer som kunna lämna uppgifter av betydelse för utredningen.
+
+På nämndens begäran skall socialnämnden i annan kommun lämna biträde vid utredningen. *Lag (1981:26)*.
+
+#### 5 §
+
+Om faderskapsfrågan kan bedömas med tillräcklig säkerhet på grund av socialnämndens utredning, bör nämnden bereda den som antas vara fader till barnet tillfälle att bekräfta faderskapet. *Lag (1990:1526)*.
+
+#### 6 §
+
+Socialnämnden bör verka för att en rättsgenetisk undersökning görs beträffande barnet, modern och den som kan vara far till barnet, om denne begär det eller om det finns anledning att anta att modern har haft samlag med mer än en man under den tid då barnet kan ha tillkommit. *Lag (2021:783)*.
+
+#### 7 §
+
+Socialnämnden får lägga ner en påbörjad utredning om faderskapet, om det
+
+1. visar sig omöjligt att få de upplysningar som behövs för bedömning av faderskapsfrågan,
+
+2. framstår som utsiktslöst att försöka få faderskapet fastställt av domstol,
+
+3. har lämnats ett samtycke av modern eller en särskilt förordnad vårdnadshavare eller en tillfällig vårdnadshavare enligt 4 kap. 8 § till adoption av barnet, eller
+
+4. av särskilda skäl finns anledning att anta att en fortsatt utredning eller en rättegång skulle vara till men för barnet eller utsätta modern för påfrestningar som innebär fara för hennes psykiska hälsa.
+
+Socialnämnden ska lägga ner en påbörjad faderskapsutredning om faderskapet inte ska fastställas enligt 1 kap. 3 eller 12 §.
+
+Socialnämndens beslut att lägga ner en påbörjad faderskapsutredning får överklagas till länsstyrelsen. Länsstyrelsens beslut får överklagas till allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätten. *Lag (2021:783)*.
+
+#### 8 §
+
+Vid socialnämnden skall föras protokoll över vad som förekommer vid utredningen av betydelse för faderskapsfrågan. I protokollet antecknas även sådana uppgifter som kunna ha betydelse för skyldigheten att utge bidrag till barnets underhåll.
+
+Utredningen bör bedrivas skyndsamt. Den skall vara slutförd inom ett år från barnets födelse, om ej särskilda skäl föranleda annat. *Lag (1981:26)*.
+
+#### 8 a §
+
+Om det kan antas att en kvinna ska anses som förälder enligt 1 kap. 9 § andra stycket till ett barn som står under någons vårdnad och som har sin hemvist i Sverige, är socialnämnden skyldig att försöka utreda om sådant föräldraskap föreligger och, om så är fallet, se till att detta fastställs i stället för faderskapet.
+
+Om modern är myndig och folkbokförd i Sverige när barnet föds, inträder skyldigheten enligt första stycket först 15 dagar efter barnets födelse.
+
+Det som sägs i 2-5, 7 och 8 §§ om utredning av faderskap tillämpas också i fråga om föräldraskapet för en kvinna.
+
+*Lag (2021:783)*.
+
+#### 9 §
+
+Om en viss man eller kvinna på grund av äktenskap eller registrerat partnerskap ska anses som far eller förälder enligt 1 kap. 9 § till ett barn som står under någons vårdnad och som har sin hemvist i Sverige, ska socialnämnden, om vårdnadshavaren eller någon av vårdnadshavarna eller mannen eller kvinnan begär det och det är lämpligt, utreda om någon annan kan vara far till barnet eller ska anses som barnets förälder enligt 1 kap. 9 §.
+
+I fråga om utredningen tillämpas 2-6 och 8 §§. Vid utredning av en kvinnas föräldraskap tillämpas dock inte 6 §. Utredningen får läggas ner om det finns skäl som anges i 7 § första stycket 1 eller 4 eller om det annars är lämpligt. Utredningen ska läggas ner om faderskap eller föräldraskap inte ska fastställas enligt 1 kap. 3 eller 12 §.
+
+Socialnämndens beslut att inte påbörja en utredning enligt denna paragraf eller att lägga ner en påbörjad utredning får överklagas till länsstyrelsen. Länsstyrelsens beslut får överklagas till allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätten. *Lag (2021:783)*.
+
+#### 10 §
+
+*/Träder i kraft I:2027-01-01/* Den eller de länsstyrelser som regeringen bestämmer ansvarar för uppgifter enligt detta kapitel. *Lag (2026:1497)*.
+
+## 3 kap. Vissa bestämmelser om rättegången i mål om faderskap
+
+### Mål om hävande av faderskap
+
+#### 1 §
+
+Vill en man som på grund av äktenskap ska anses som far till ett barn att rätten ska förklara att han inte är far till barnet, ska han väcka talan om detta mot barnet eller, om barnet har avlidit, barnets arvingar.
+
+Om mannen är död och han inte varaktigt har sammanbott med barnet och inte heller efter barnets födelse har bekräftat att barnet är hans, har den avlidnes make och var och en som jämte eller näst efter barnet är berättigad till arv efter mannen rätt att väcka talan om att mannen inte är far till barnet. Efterlämnar den avlidne förutom make sådana arvingar som avses i 3 kap. 2 § ärvdabalken, har var och en av dem rätt att väcka talan under samma förutsättningar.
+
+Någon rätt att väcka talan finns inte, om det vid mannens död har gått mer än ett år från det att talan, som grundats på att mannen är far till barnet, har väckts mot honom och han har fått del därav eller om mer än ett år har gått sedan anspråk på samma grund har framställts mot mannens dödsbo. *Lag (2021:783)*.
+
+#### 2 §
+
+Vill ett barn att rätten ska förklara att en viss man som på grund av äktenskap ska anses som barnets far inte är det, ska barnet väcka talan om detta mot mannen eller, om han är död, hans arvingar. Om mannen förutom make efterlämnar sådana arvingar som avses i 3 kap. 2 § ärvdabalken, ska talan, när det gäller dem, riktas mot den eller dem som har den bästa arvsrätten efter mannen när talan väcks. *Lag (2021:783)*.
+
+#### 3 §
+
+En talan som avses i 1 eller 2 § får väckas vid rätten i den ort där barnet har sin hemvist eller, om barnet har avlidit, vid den rätt som har att ta upp tvist om arv efter barnet. Om det inte finns någon annan behörig domstol, ska målet tas upp av Stockholms tingsrätt.
+
+Detsamma gäller en talan enligt 1 kap. 4 b § om att en faderskapsbekräftelse saknar verkan mot den som har lämnat den. *Lag (2021:783)*.
+
+#### 4 §
+
+Är part i mål som avses i 1 eller 2 § underårig, får förmyndaren eller god man, om sådan enligt 11 kap. skall förordnas, föra talan för honom.
+
+Modern skall höras i målet, om det kan ske. *Lag (1988:1251)*.
+
+### Mål om fastställande av faderskap
+
+#### 5 §
+
+En talan om fastställande av faderskap väcks av barnet.
+
+I fall som avses i 2 kap. 1 § förs barnets talan av socialnämnden. Har modern vårdnaden om barnet, får hon alltid föra barnets talan, även om hon inte har uppnått myndig ålder. En talan får vidare alltid föras av en särskilt förordnad vårdnadshavare eller en tillfällig vårdnadshavare för barnet.
+
+*Lag (2021:528)*.
+
+#### 6 §
+
+Är mål om fastställande av faderskap anhängigt, kan frågan om faderskapet till barnet prövas endast i det målet. Talan får i målet föras mot flera män. I avliden mans ställe stämmas de arvingar till den döde som anges i 2 §.
+
+I fall då socialnämnd har att sörja för att faderskap fastställes skall nämnden föra talan mot den man eller de män som enligt nämndens utredning eller vad som framkommit under målets handläggning skäligen kunna komma i fråga som fader till barnet.
+
+På ansökan av svarande skall rätten utfärda stämning på man, som ej redan är instämd i målet, och pröva om mannen är fader till barnet.
+
+Om sådan ansökan gäller i tillämpliga delar vad som är föreskrivet om stämningsansökan. *Lag (1981:26)*.
+
+#### 7 §
+
+I fall då socialnämnd har att sörja för att faderskap fastställes väckes talan vid rätten i den ort där socialnämnden finns. Rätten kan flytta över målet till annan domstol, om det skulle avsevärt underlätta handläggningen av målet.
+
+I andra fall än som avses i första stycket väckes talan om fastställande av faderskap vid den rätt där mannen skall svara i tvistemål i allmänhet eller, om talan föres mot flera män, en av dem har att svara. Talan mot avliden mans arvingar får väckas vid den rätt där dödsboet svarar. Finns ej behörig domstol enligt vad som nu har sagts, upptages målet av Stockholms tingsrätt. *Lag (1981:26)*.
+
+#### 8 §
+
+I samband med att socialnämnden väcker talan skall protokollet över nämndens utredning ges in till rätten. Väckes talan av annan och har socialnämnden gjort utredning i frågan, skall rätten infordra socialnämndens protokoll.
+
+Svarande skall delges protokollet i samband med stämningen.
+
+Rätten kan förelägga socialnämnden att fullständiga utredningen om faderskapet. *Lag (1981:26)*.
+
+#### 9 §
+
+Rätten skall se till att frågan om faderskapet till barnet blir tillbörligen utredd. Var och en som kan föra talan på barnets vägnar skall beredas tillfälle att yttra sig i målet.
+
+Vittnesförhör får ej äga rum i syfte att styrka att vittnet har haft samlag med modern under tid då barnet kan antagas vara avlat.
+
+Talan får ej prövas slutligt före barnets födelse. *Lag (1976:612)*.
+
+#### 10 §
+
+Återkallas talan mot en av flera män, får målet avskrivas i den delen endast om alla samtycka. Avser återkallelse den som har stämts enligt 6 § tredje stycket, krävs samtycke även från barnet.
+
+Samtidigt med att målet avskrives i viss del skall rätten fatta beslut om rättegångskostnaden i den delen. *Lag (1976:612)*.
+
+#### 11 §
+
+I fall då socialnämnd för talan om fastställande av faderskap gälla i fråga om rättegångskostnad andra och tredje styckena i stället för 18 kap. 1-7 §§ rättegångsbalken.
+
+Part skall bära sin rättegångskostnad. Svarande kan dock förpliktas att helt eller delvis ersätta annan part dennes rättegångskostnad, om han har förfarit på sätt som avses i 18 kap. 3 eller 6 § rättegångsbalken eller om annars särskilda skäl föreligga.
+
+Har parts ställföreträdare, ombud eller biträde förfarit på sätt som avses i 18 kap. 3 eller 6 § rättegångsbalken, kan han förpliktas ersätta kostnad som därigenom vållats annan part. Rätten kan besluta härom även utan yrkande. *Lag (1981:26)*.
+
+#### 12 §
+
+Fullföljes talan, skall den högre rätten pröva faderskapsfrågan i hela dess vidd. Erinran härom skall intagas i föreläggande att inkomma med genmäle.
+
+Finner högre rätt att någon som icke är part i målet skäligen kan komma i fråga som fader till barnet, skall domen på yrkande av part undanröjas och målet i dess helhet visas åter till den domstol som först har dömt i målet.
+
+Bestämmelserna i 9 och 10 §§ äga motsvarande tillämpning vid målets handläggning i högre rätt. I fall då socialnämnd för talan äga även 8 § tredje stycket och 11 § motsvarande tillämpning i högre rätt.
+
+*Lag (1981:26)*.
+
+### Förening av mål vid talan om hävande av faderskap
+
+#### 13 §
+
+Även om en viss man på grund av äktenskap ska anses som ett barns far får, under förutsättning att en talan om att mannen inte är barnets far har väckts och ännu inte prövats, talan om fastställande av att en annan man är barnets far väckas vid samma domstol. Målen ska då handläggas i en rättegång.
+
+Bifalls talan i båda målen som avses i första stycket, ska vid prövning i högre rätt frågan om fastställande av faderskapet prövas, även om domen inte har överklagats i den delen.
+
+*Lag (2021:783)*.
+
+Mål om hävande av föräldraskap enligt 1 kap. 9 §
+
+#### 14 §
+
+Vill en kvinna som på grund av äktenskap eller registrerat partnerskap ska anses som förälder enligt 1 kap. 9 § till ett barn att rätten ska förklara att hon inte är förälder till barnet, ska hon väcka talan om detta mot barnet eller, om barnet har avlidit, barnets arvingar.
+
+Om kvinnan är död och hon inte varaktigt har sammanbott med barnet och inte heller efter barnets födelse har bekräftat att barnet är hennes, har den avlidnes make eller registrerade partner och var och en som jämte eller näst efter barnet är berättigad till arv efter kvinnan rätt att väcka talan om att kvinnan inte är förälder till barnet. Efterlämnar den avlidne förutom make eller registrerad partner sådana arvingar som avses i 3 kap. 2 § ärvdabalken, har var och en av dem rätt att väcka talan under samma förutsättningar.
+
+Någon rätt att väcka talan finns inte, om det vid kvinnans död har gått mer än ett år från det att talan, som grundats på att kvinnan är förälder till barnet, har väckts mot henne och hon har fått del därav eller om mer än ett år har gått sedan anspråk på samma grund har framställts mot kvinnans dödsbo.
+
+*Lag (2021:783)*.
+
+#### 15 §
+
+Vill ett barn att rätten ska förklara att en viss kvinna som på grund av äktenskap eller registrerat partnerskap ska anses som barnets förälder enligt 1 kap. 9 § inte är det, ska barnet väcka talan om detta mot kvinnan eller, om hon är död, hennes arvingar. Om kvinnan förutom make eller registrerad partner efterlämnar sådana arvingar som avses i 3 kap. 2 § ärvdabalken, ska talan, när det gäller dem, riktas mot den eller dem som har den bästa arvsrätten efter kvinnan när talan väcks. *Lag (2021:783)*.
+
+#### 16 §
+
+En talan som avses i 14 eller 15 § får väckas vid rätten i den ort där barnet har sin hemvist eller, om barnet har avlidit, vid den rätt som har att ta upp tvist om arv efter barnet. Om det inte finns någon annan behörig domstol, ska målet tas upp av Stockholms tingsrätt.
+
+Detsamma gäller en talan enligt 1 kap. 4 b § om att en bekräftelse av föräldraskap enligt 1 kap. 9 § saknar verkan mot den som har lämnat den. *Lag (2021:783)*.
+
+#### 17 §
+
+Om en part i ett mål som avses i 14 eller 15 § är underårig, får förmyndaren eller en god man, om en sådan ska förordnas enligt 11 kap., föra partens talan.
+
+Modern ska höras i målet, om det kan ske. *Lag (2021:783)*.
+
+Mål om fastställande av föräldraskap enligt 1 kap. 9 §
+
+#### 18 §
+
+En talan om fastställande av föräldraskap enligt 1 kap. 9 § väcks av barnet. I fall som avses i 2 kap. 8 a § förs barnets talan av socialnämnden. Har modern vårdnaden om barnet, får hon alltid föra barnets talan, även om hon inte har uppnått myndig ålder. En talan får vidare alltid föras av en särskilt förordnad vårdnadshavare eller en tillfällig vårdnadshavare för barnet. Det som sägs i 6-13 §§ om fastställande av faderskap tillämpas också i fråga om fastställande av föräldraskap. *Lag (2021:783)*.
+
+Förening av mål vid talan om hävande av föräldraskap enligt 1 kap. 9 §
+
+#### 19 §
+
+Även om en viss kvinna på grund av äktenskap eller registrerat partnerskap ska anses som ett barns förälder enligt 1 kap. 9 § får, under förutsättning att en talan om att kvinnan inte är barnets förälder har väckts och ännu inte prövats, talan om fastställande av att någon annan är far till barnet eller ska anses som barnets förälder enligt 1 kap. 9 § väckas vid samma domstol. Målen ska då handläggas i en rättegång.
+
+Bifalls talan i båda målen som avses i första stycket, ska vid prövning i högre rätt frågan om fastställande av faderskapet eller föräldraskapet prövas, även om domen inte har överklagats i den delen. *Lag (2021:783)*.
+
+## 4 kap. Om adoption
+
+### Adoption av ett barn
+
+#### 1 §
+
+Vid alla frågor som rör adoption av ett barn ska barnets bästa ges störst vikt. *Lag (2018:1288)*.
+
+#### 2 §
+
+Ett barn får adopteras endast om det med beaktande av samtliga omständigheter är lämpligt. *Lag (2018:1288)*.
+
+Vid bedömningen av om en adoption är lämplig ska barnets behov av adoption och sökandens lämplighet att adoptera särskilt beaktas.
+
+#### 3 §
+
+Barnet ska få information och ges möjlighet att framföra sina åsikter i frågor som rör adoptionen.
+
+Barnets åsikter ska tillmätas betydelse i förhållande till barnets ålder och mognad.
+
+I 7 § finns bestämmelser om barnets samtycke. *Lag (2018:1288)*.
+
+### Adoption av en vuxen
+
+#### 4 §
+
+Den som har fyllt 18 år får adopteras endast om det finns särskild anledning till en adoption med hänsyn till det personliga förhållandet mellan sökanden och den som sökanden vill adoptera och om adoptionen även i övrigt är lämplig.
+
+Vid bedömningen av om det finns särskild anledning till en adoption ska det särskilt beaktas om sökanden har uppfostrat den som sökanden vill adoptera eller om adoptionen annars avser att bekräfta en relation som motsvarar den mellan barn och förälder. *Lag (2018:1288)*.
+
+### Vem som får adoptera
+
+#### 5 §
+
+Den som har fyllt 18 år får adoptera. *Lag (2018:1288)*.
+
+#### 6 §
+
+Makar och sambor får endast adoptera gemensamt.
+
+En make eller sambo får dock med sin makes eller sambos samtycke adoptera hans eller hennes barn. I fråga om samtycket tillämpas 8 § andra stycket. En make eller sambo får även i annat fall adoptera ensam om den andra maken eller sambon vistas på okänd ort eller är varaktigt förhindrad att adoptera till följd av en psykisk sjukdom eller något annat liknande förhållande.
+
+Andra än makar och sambor får inte adoptera gemensamt.
+
+*Lag (2018:1288)*.
+
+### Samtycke
+
+#### 7 §
+
+Den som har fyllt 12 år får adopteras endast om han eller hon samtycker till adoptionen.
+
+Något samtycke behövs inte om den som sökanden vill adoptera är varaktigt förhindrad att samtycka till följd av en psykisk sjukdom eller något annat liknande förhållande.
+
+Innan ett samtycke lämnas ska den som sökanden vill adoptera få information om innebörden av en adoption och ett samtycke. *Lag (2018:1288)*.
+
+#### 8 §
+
+Ett barn får inte adopteras utan samtycke från den förälder som är vårdnadshavare.
+
+Något samtycke behövs inte om
+
+1. föräldern är varaktigt förhindrad att samtycka till följd av en psykisk sjukdom eller något annat liknande förhållande,
+
+2. föräldern vistas på okänd ort, eller
+
+3. det finns synnerliga skäl.
+
+Innan ett samtycke lämnas ska föräldern få information om innebörden av en adoption och ett samtycke.
+
+Det som anges om en förälder som är vårdnadshavare i första- tredje styckena gäller även en särskilt förordnad vårdnadshavare, en tillfällig vårdnadshavare eller någon annan som på grund av lag eller sedvänja i en annan stat får anses ha trätt i föräldrarnas ställe. *Lag (2021:528)*.
+
+#### 9 §
+
+Ett samtycke från den som har fött barnet får lämnas först sedan den föräldern har återhämtat sig tillräckligt efter barnets födelse. *Lag (2018:1288)*.
+
+### Förbud mot ersättning
+
+#### 10 §
+
+En ansökan om adoption får inte bifallas, om det från någon sida har getts eller utlovats ersättning eller om det har avtalats om bidrag till barnets underhåll.
+
+Ett avtal om ersättning eller underhåll som avses i första stycket är utan verkan. *Lag (2018:1288)*.
+
+### Adoptionsärenden
+
+#### 11 §
+
+En ansökan om adoption får göras av den eller dem som vill adoptera. *Lag (2018:1288)*.
+
+#### 12 §
+
+En ansökan om adoption görs till tingsrätten i den ort där den som sökanden vill adoptera har sin hemvist. Om den som sökanden vill adoptera inte har sin hemvist i Sverige, görs ansökan till tingsrätten i den ort där sökanden eller någon av sökandena har sin hemvist.
+
+Om det inte finns någon behörig domstol enligt första stycket, görs ansökan till Stockholms tingsrätt.
+
+*Lag (2018:1288)*.
+
+#### 13 §
+
+Rätten ska se till att ett ärende om adoption blir tillräckligt utrett. *Lag (2018:1288)*.
+
+#### 14 §
+
+Om ansökan avser adoption av ett barn, ska rätten uppdra åt socialnämnden att utse någon att genomföra en adoptionsutredning. Uppdraget ska lämnas till socialnämnden i den kommun där barnet har sin hemvist. Om barnet inte har sin hemvist i Sverige, ska uppdraget lämnas till socialnämnden i den kommun där någon av sökandena har sin hemvist.
+
+Om det inte finns någon behörig socialnämnd enligt första stycket, ska uppdraget lämnas till socialnämnden i Stockholms kommun.
+
+Rätten ska bestämma en viss tid inom vilken utredningen ska vara slutförd. Om det behövs, får rätten förlänga denna tid. Rätten ska se till att utredningen bedrivs skyndsamt. Rätten får ange riktlinjer för adoptionsutredningen. *Lag (2018:1288)*.
+
+#### 15 §
+
+Den som genomför en adoptionsutredning ska utreda om förutsättningarna för adoption är uppfyllda. Utredaren ska alltid försöka klarlägga barnets och föräldrarnas inställning.
+
+Utredaren ska redovisa det som har framkommit för rätten och lämna ett förslag till beslut. *Lag (2018:1288)*.
+
+#### 16 §
+
+En socialnämnd som har tillgång till uppgifter som kan vara av betydelse för en adoptionsutredning är, trots sekretess enligt 26 kap. 1 § första stycket offentlighets- och sekretesslagen (2009:400), skyldig att lämna sådana uppgifter på begäran av den socialnämnd som har fått ett uppdrag enligt 14 §. Detsamma gäller när uppgifterna begärs av den som socialnämnden har utsett att genomföra utredningen. *Lag (2018:1288)*.
+
+#### 17 §
+
+Om den som sökanden vill adoptera inte är svensk medborgare och inte heller har permanent uppehållstillstånd eller permanent uppehållsrätt i Sverige, ska rätten inhämta ett yttrande från Migrationsverket, om det inte är obehövligt. *Lag (2018:1288)*.
+
+#### 18 §
+
+Rätten ska ge den som är förälder till den som sökanden vill adoptera tillfälle att yttra sig inom en viss tid.
+
+Första stycket gäller inte om
+
+1. det är uppenbart obehövligt att föräldern får tillfälle att yttra sig,
+
+2. föräldern är varaktigt förhindrad att yttra sig till följd av en psykisk sjukdom eller något annat liknande förhållande,
+
+3. föräldern vistas på okänd ort, eller
+
+4. det finns synnerliga skäl.
+
+Det som anges om en förälder i första och andra styckena gäller även en särskilt förordnad vårdnadshavare, en tillfällig vårdnadshavare eller en förmyndare eller någon annan som på grund av lag eller sedvänja i en annan stat får anses ha trätt i föräldrarnas ställe. *Lag (2021:528)*.
+
+#### 19 §
+
+Rätten ska ge den som sökanden vill adoptera tillfälle att yttra sig inom en viss tid, om han eller hon har fyllt 18 år.
+
+Första stycket gäller inte om det är uppenbart obehövligt att den som sökanden vill adoptera får tillfälle att yttra sig. *Lag (2018:1288)*.
+
+#### 20 §
+
+Vid rättens handläggning av ett ärende om adoption tillämpas i övrigt lagen (1996:242) om domstolsärenden.
+
+*Lag (2018:1288)*.
+
+### Rättsverkningar av en adoption
+
+#### 21 §
+
+Den som har adopterats ska anses som adoptivförälderns barn och inte som barn till sina tidigare föräldrar. Om en make eller sambo har adopterat den andra makens eller sambons barn, ska den som har adopterats dock anses som makarnas eller sambornas gemensamma barn. Lag eller annan författning som tillägger släktskapet mellan barn och förälder rättslig betydelse ska tillämpas på den som har adopterats och hans eller hennes adoptivförälder.
+
+Första stycket gäller inte i den utsträckning något annat är särskilt föreskrivet eller följer av rättsförhållandets natur. *Lag (2018:1288)*.
+
+#### 22 §
+
+Om makar eller sambor gemensamt adopterar ett barn, står barnet under vårdnad av båda makarna eller samborna från den tidpunkt då adoptionsbeslutet får laga kraft. Detsamma gäller om en make eller sambo adopterar den andra makens eller sambons barn. Om en person i annat fall ensam adopterar ett barn, står barnet under vårdnad av adoptivföräldern från den tidpunkt då adoptionsbeslutet får laga kraft. *Lag (2018:1288)*.
+
+### Barnets rätt till upplysning om adoptionen
+
+#### 23 §
+
+Ett barn som är adopterat har rätt att av sina föräldrar få veta det. Föräldrarna ska så snart det är lämpligt upplysa barnet om att han eller hon är adopterad.
+
+*Lag (2018:1288)*.
+
+## 5 kap. Om barnets namn
+
+#### 1 §
+
+Om barnets namn är särskilt stadgat. *Lag (1963:523)*.
+
+#### 2 §
+
+Har upphävts genom *lag (1963:523)*.
+
+#### 3 §
+
+Har upphävts genom *lag (1963:523)*.
+
+## 6 kap. Om vårdnad, boende och umgänge
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Barn har rätt till omvårdnad, trygghet och en god fostran. Barn skall behandlas med aktning för sin person och egenart och får inte utsättas för kroppslig bestraffning eller annan kränkande behandling.
+
+*Lag (1983:47)*.
+
+#### 2 §
+
+Ett barn står under vårdnad av båda föräldrarna eller en av dem, om inte rätten har anförtrott vårdnaden åt en eller två särskilt förordnade vårdnadshavare eller åt en tillfällig vårdnadshavare. Vårdnaden om ett barn består till dess att barnet fyller 18 år.
+
+Den som har vårdnaden om ett barn har ett ansvar för barnets personliga förhållanden och ska se till att barnets behov enligt 1 § blir tillgodosedda. Barnets vårdnadshavare svarar även för att barnet får den tillsyn som behövs med hänsyn till barnets ålder, utveckling och övriga omständigheter samt ska bevaka att barnet får tillfredsställande försörjning och utbildning. I syfte att hindra att barnet orsakar skada för någon annan ska vårdnadshavaren vidare svara för att barnet står under uppsikt eller att andra lämpliga åtgärder vidtas.
+
+Om ansvaret i frågor som gäller barnets ekonomiska förhållanden finns bestämmelser i 9-15 kap. *Lag (2021:528)*.
+
+#### 2 a §
+
+Barnets bästa ska vara avgörande för alla frågor om vårdnad, boende och umgänge.
+
+Vid bedömningen av vad som är bäst för barnet ska det fästas avseende särskilt vid risken för att barnet eller någon annan i familjen utsätts för våld eller annat övergrepp, eller att barnet olovligen förs bort eller hålls kvar eller annars far illa. *Lag (2024:1174)*.
+
+#### 2 b §
+
+Barnet ska få information och ges möjlighet att framföra sina åsikter i frågor om vårdnad, boende och umgänge.
+
+Barnets åsikter ska tillmätas betydelse i förhållande till barnets ålder och mognad. *Lag (2021:528)*.
+
+### Vårdnadshavare
+
+#### 3 §
+
+Barnet står från födelsen under vårdnad av båda föräldrarna, om dessa är gifta med varandra, och i annat fall av modern ensam. Ingår föräldrarna senare äktenskap med varandra, står barnet från den tidpunkten under vårdnad av dem båda, om inte rätten dessförinnan har anförtrott vårdnaden åt en eller två särskilt förordnade vårdnadshavare eller åt en tillfällig vårdnadshavare.
+
+Om det döms till äktenskapsskillnad mellan föräldrarna står barnet även därefter under båda föräldrarnas vårdnad, om inte den gemensamma vårdnaden upplöses enligt 5, 7 eller 8 §. Ska barnet även efter domen på äktenskapsskillnad stå under båda föräldrarnas vårdnad, ska rätten i domen påminna om att vårdnaden fortfarande är gemensam. *Lag (2021:528)*.
+
+#### 4 §
+
+Står barnet under vårdnad av endast en av föräldrarna och vill föräldrarna gemensamt utöva vårdnaden, ska rätten på talan av dem båda besluta i enlighet med deras begäran, om det inte är uppenbart att gemensam vårdnad är oförenlig med barnets bästa.
+
+Om barnet är folkbokfört här i landet, kan föräldrarna få gemensam vårdnad också genom registrering hos Skatteverket efter anmälan av dem båda
+
+1. till socialnämnden i samband med att nämnden ska godkänna en faderskapsbekräftelse eller en bekräftelse av föräldraskap enligt 1 kap. 9 §, eller
+
+2. till Skatteverket under förutsättning att beslut om vårdnaden inte har meddelats tidigare. *Lag (2012:319)*.
+
+#### 5 §
+
+Om barnet står under vårdnad av båda föräldrarna eller en av dem och någon av dem vill få ändring i vårdnaden, ska rätten besluta att föräldrarna ska ha gemensam vårdnad om barnet eller att en av dem ska ha ensam vårdnad.
+
+Vid bedömningen av om föräldrarna ska ha gemensam vårdnad eller om en av dem ska ha ensam vårdnad ska rätten fästa avseende särskilt vid föräldrarnas förmåga att sätta barnets behov främst och ta ett gemensamt ansvar i frågor som rör barnet.
+
+Frågor om ändring i vårdnaden enligt första stycket prövas på talan av en av föräldrarna eller båda. I mål om äktenskapsskillnad får rätten utan yrkande besluta att en av föräldrarna ska ha ensam vårdnad, om det är uppenbart att gemensam vårdnad är oförenlig med barnets bästa.
+
+*Lag (2021:528)*.
+
+#### 6 §
+
+Står barnet under vårdnad av båda föräldrarna eller en av dem, får de avtala att vårdnaden skall vara gemensam eller att en av dem skall ha vårdnaden om barnet. Avtalet skall gälla, om det är skriftligt och socialnämnden godkänner det.
+
+Har föräldrarna avtalat om gemensam vårdnad, skall socialnämnden godkänna avtalet, om det inte är uppenbart att avtalet är oförenligt med barnets bästa. *Lag (2006:458)*.
+
+#### 6 a §
+
+Har upphävts genom *lag (1998:319)*.
+
+#### 7 §
+
+Om en förälder vid utövandet av vårdnaden om ett barn gör sig skyldig till missbruk eller försummelse eller i övrigt brister i omsorgen om barnet på ett sätt som medför bestående fara för barnets hälsa eller utveckling, skall rätten besluta om ändring i vårdnaden.
+
+Står barnet under båda föräldrarnas vårdnad och gäller vad som sägs i första stycket en av dem, skall rätten anförtro vårdnaden åt den andra föräldern ensam. Brister också den föräldern i omsorgen om barnet på det sätt som sägs i första stycket, skall rätten flytta över vårdnaden till en eller två särskilt förordnade vårdnadshavare.
+
+Står barnet under endast en förälders vårdnad, skall rätten i fall som avses i första stycket flytta över vårdnaden till den andra föräldern eller, om det är lämpligare, till en eller två särskilt förordnade vårdnadshavare.
+
+Frågor om ändring i vårdnaden enligt denna paragraf prövas på talan av socialnämnden eller, utan särskilt yrkande, i mål om äktenskapsskillnad mellan föräldrarna eller i andra mål enligt 5 §. *Lag (1998:319)*.
+
+#### 8 §
+
+Om ett barn stadigvarande har vårdats och fostrats i ett annat enskilt hem än föräldrahemmet och det är bäst för barnet att det rådande för-hållandet får bestå och att vårdnaden flyttas över till den eller dem som har tagit emot barnet eller någon av dem, ska rätten utse denne eller dessa att såsom särskilt förordnade vårdnadshavare utöva vårdnaden om barnet.
+
+Vid bedömningen av om det är bäst för barnet att vårdnaden flyttas över ska rätten särskilt beakta
+
+- barnets och familjehemsföräldrarnas inställning till en vårdnadsöverflyttning,
+
+- barnets relation till familjehemsföräldrarna och deras förmåga att tillgodose barnets behov av en trygg och god uppväxt,
+
+- familjehemsföräldrarnas inställning till och förmåga att tillgodose barnets behov av kontakt med sina föräldrar och andra närstående,
+
+- barnets relation till sina föräldrar, och
+
+- barnets sociala situation i övrigt.
+
+Frågor om vårdnadsöverflyttning prövas på talan av socialnämnden. *Lag (2024:1174)*.
+
+#### 8 a §
+
+Står barnet under båda föräldrarnas vårdnad och är en av dem varaktigt förhindrad att utöva vårdnaden, skall rätten anförtro vårdnaden åt den andra föräldern ensam. Om hindret gäller båda föräldrarna, skall rätten flytta över vårdnaden till en eller två särskilt förordnade vårdnadshavare.
+
+Står barnet under endast en förälders vårdnad och är denne varaktigt förhindrad att utöva vårdnaden, skall rätten flytta över vårdnaden till den andra föräldern eller, om det är lämpligare, till en eller två särskilt förordnade vårdnadshavare.
+
+Frågor om ändring i vårdnaden enligt denna paragraf prövas på talan av socialnämnden eller, utan särskilt yrkande, i mål om äktenskapsskillnad mellan föräldrarna eller i andra mål enligt 5 §. *Lag (2005:430)*.
+
+#### 8 b §
+
+En särskilt förordnad vårdnadshavare ska inte utses för ett barn för vilket det ska utses en förmyndare enligt artikel 33.1 i Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU. *Lag (2026:1143)*.
+
+#### 8 c §
+
+Bestämmelserna i denna balk om särskilt förordnad vårdnadshavare gäller även för en sådan förmyndare som avses i artikel 33.1 i Europaparlamentets och rådets förordning (EU) 2024/1347.
+
+I artikel 33.2 i förordningen anges vilka särskilda uppgifter som en förmyndare som har utsetts enligt förordningen ska utföra. *Lag (2026:1143)*.
+
+#### 9 §
+
+Om barnet står under vårdnad av båda föräldrarna och en av dem dör, skall den andra föräldern ensam ha vårdnaden. Om båda föräldrarna dör, skall rätten på anmälan av socialnämnden eller när förhållandet annars blir känt anförtro vårdnaden åt en eller två särskilt förordnade vårdnadshavare.
+
+Om barnet står under vårdnad av endast en av föräldrarna och den föräldern dör, skall rätten på ansökan av den andra föräldern eller på anmälan av socialnämnden anförtro vårdnaden åt den andra föräldern eller, om det är lämpligare, åt en eller två särskilt förordnade vårdnadshavare. *Lag (1994:1433)*.
+
+#### 10 §
+
+Om barnet står under vårdnad av en eller två särskilt förordnade vårdnadshavare eller av en tillfällig vårdnadshavare och om någon av barnets föräldrar eller båda vill få vårdnaden överflyttad till sig, får rätten besluta om detta. Rätten får inte flytta över vårdnaden till föräldrarna gemensamt om båda föräldrarna motsätter sig det.
+
+Frågor om överflyttning av vårdnaden enligt första stycket prövas på talan av båda föräldrarna eller en av dem eller på talan av socialnämnden. *Lag (2021:528)*.
+
+#### 10 a §
+
+Om en särskilt förordnad vårdnadshavare ska utses, ska någon utses som är lämpad att ge barnet omvårdnad, trygghet och en god fostran. Den som är underårig får inte förordnas till vårdnadshavare.
+
+Två personer kan utses att gemensamt utöva vårdnaden, om de är gifta med varandra eller är sambor.
+
+För syskon ska samma person utses till vårdnadshavare, om inte särskilda skäl talar mot det.
+
+Om en vårdnadshavare ska förordnas efter föräldrarnas död och föräldrarna eller en av dem har gett till känna vem de önskar till vårdnadshavare, ska denna person förordnas, om det inte är olämpligt. *Lag (2021:528)*.
+
+#### 10 b §
+
+En särskilt förordnad vårdnadshavare har rätt att på begäran bli entledigad från uppdraget.
+
+Om barnet har två särskilt förordnade vårdnadshavare och någon av dem vill att vårdnaden inte längre skall vara gemensam, skall rätten på talan av en av dem eller båda anförtro vårdnaden åt en av dem. Rätten kan också i mål om äktenskapsskillnad mellan vårdnadshavarna utan yrkande besluta om vårdnaden enligt vad som nu har sagts, om det är uppenbart att gemensam vårdnad är oförenlig med barnets bästa.
+
+*Lag (2006:458)*.
+
+#### 10 c §
+
+En särskilt förordnad vårdnadshavare skall entledigas, om han eller hon vid utövandet av vårdnaden gör sig skyldig till missbruk eller försummelse eller av någon annan orsak inte längre är lämplig som vårdnadshavare.
+
+Om barnet har två särskilt förordnade vårdnadshavare och den ena entledigas eller dör, skall den andra ensam ha vårdnaden. Om båda vårdnadshavarna entledigas eller dör, skall rätten utse en eller två andra personer att vara särskilt förordnade vårdnadshavare.
+
+Frågor om ändring i vårdnaden enligt denna paragraf prövas efter ansökan av socialnämnden. *Lag (1994:1433)*.
+
+#### 10 d §
+
+Om det finns behov av att utse en särskilt förordnad vårdnadshavare för ett barn, men det saknas en lämplig person att förordna för det ändamålet, får rätten, om det finns särskilda skäl, flytta över vårdnaden till en tillfällig vårdnadshavare. I uppdraget som tillfällig vårdnadshavare ingår inte att tillgodose den faktiska vården om barnet.
+
+Till tillfällig vårdnadshavare får den utses som på grund av sina kunskaper och erfarenheter och även i övrigt är särskilt lämplig för uppdraget. Den som är underårig får inte utses till tillfällig vårdnadshavare. För syskon ska samma person utses, om inte särskilda skäl talar mot det.
+
+En talan om att utse en tillfällig vårdnadshavare förs av socialnämnden. *Lag (2021:528)*.
+
+#### 10 e §
+
+När en tillfällig vårdnadshavare har utsetts för ett barn, ska socialnämnden fortsätta att verka för en varaktig lösning av vårdnadsfrågan.
+
+När förutsättningar finns för det ska rätten, på talan av socialnämnden, flytta över vårdnaden från den tillfälliga vårdnadshavaren till en eller två särskilt förordnade vårdnadshavare. *Lag (2021:528)*.
+
+#### 10 f §
+
+En tillfällig vårdnadshavare har rätt till ett skäligt arvode för uppdraget och ersättning för de utgifter som har varit skäligen påkallade för uppdragets fullgörande.
+
+Beslut om arvode och ersättning för utgifter fattas av överförmyndaren.
+
+Arvode och ersättning för utgifter ska betalas av kommunen.
+
+*Lag (2021:528)*.
+
+#### 10 g §
+
+En tillfällig vårdnadshavare har rätt att på begäran bli entledigad från sitt uppdrag.
+
+En tillfällig vårdnadshavare ska även, efter ansökan av socialnämnden, entledigas om han eller hon vid utövandet av vårdnaden gör sig skyldig till missbruk eller försummelse eller av någon annan orsak inte längre är lämplig som vårdnadshavare.
+
+Om en tillfällig vårdnadshavare entledigas eller dör, ska rätten efter ansökan av socialnämnden utse en annan person att vara tillfällig vårdnadshavare. *Lag (2021:528)*.
+
+### Vårdnadens utövande
+
+#### 11 §
+
+Vårdnadshavaren har rätt och skyldighet att bestämma i frågor som rör barnets personliga angelägenheter. Vårdnadshavaren skall därvid i takt med barnets stigande ålder och utveckling ta allt större hänsyn till barnets synpunkter och önskemål. *Lag (1983:47)*.
+
+#### 12 §
+
+Barnet ingår självt avtal om anställning eller annat arbete, men endast om vårdnadshavaren samtycker till avtalet. Barnet får självt säga upp avtalet och, om barnet har fyllt sexton år, utan nytt samtycke avtala om annat arbete av liknande art.
+
+Barnet eller vårdnadshavaren får säga upp avtalet med omedelbar verkan, om det behövs med hänsyn till barnets hälsa, utveckling eller skolgång. Har vårdnadshavaren sagt upp avtalet av detta skäl, får barnet inte därefter träffa nytt avtal utan vårdnadshavarens samtycke.
+
+Om verkan av att barnet ensamt har träffat avtal om arbete utan att ha rätt till det finns bestämmelser i 9 kap. 6 och 7 §§. *Lag (1983:47)*.
+
+#### 13 §
+
+Står barnet under vårdnad av två vårdnadshavare, skall vad som sägs i 11 eller 12 § gälla dem tillsammans.
+
+Är en av vårdnadshavarna till följd av frånvaro, sjukdom eller annan orsak förhindrad att ta del i sådana beslut rörande vårdnaden som inte utan olägenhet kan uppskjutas, bestämmer den andre ensam. Denne får dock inte ensam fatta beslut av ingripande betydelse för barnets framtid, om inte barnets bästa uppenbarligen kräver det.
+
+I 8 a § finns bestämmelser om ändring i vårdnaden när den ena föräldern är varaktigt förhindrad att utöva vårdnaden.
+
+*Lag (2005:430)*.
+
+#### 13 a §
+
+Om barnet står under vårdnad av två vårdnadshavare och endast den ena samtycker till en åtgärd till stöd för barnet, får socialnämnden besluta att åtgärden får vidtas utan den andra vårdnadshavarens samtycke om det krävs med hänsyn till barnets bästa och åtgärden gäller
+
+1. psykiatrisk eller psykologisk utredning eller behandling som omfattas av hälso- och sjukvårdslagen (2017:30),
+
+2. behandling i öppna former som ges med stöd av 11 kap. 1 § socialtjänstlagen (2025:400),
+
+3. utseende av en kontaktperson eller en familj som avses i 13 kap. 7 § första stycket socialtjänstlagen, eller
+
+4. en insats enligt 9 § 4, 5 eller 6 lagen (1993:387) om stöd och service till vissa funktionshindrade.
+
+Ett beslut enligt första stycket får överklagas till allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätt.
+
+Beslut i frågor som avses i första stycket gäller omedelbart. Rätten får dock bestämma att dess beslut ska gälla först sedan det har fått laga kraft.
+
+I lagen (2024:79) om placering av barn i skyddat boende finns bestämmelser om vårdnadshavares bestämmanderätt när ett barn har beviljats skyddat boende. *Lag (2025:402)*.
+
+#### 14 §
+
+Om rätten för barn och vårdnadshavare att få insatser hos socialnämnden finns bestämmelser i socialtjänstlagen (2025:400). Socialnämnden förmedlar kontakter med andra rådgivande samhällsorgan. *Lag (2025:402)*.
+
+### Barnets boende
+
+#### 14 a §
+
+Står barnet under vårdnad av båda föräldrarna, får rätten på talan av en av dem eller båda besluta vem av föräldrarna barnet skall bo tillsammans med.
+
+Föräldrarna får avtala om barnets boende. Avtalet skall gälla, om det är skriftligt och socialnämnden godkänner det.
+
+*Lag (2006:458)*.
+
+### Umgänge
+
+#### 15 §
+
+Barnet ska ha rätt till umgänge med en förälder som det inte bor tillsammans med, utom när det strider mot barnets bästa. Umgänget kan ske genom att barnet och föräldern träffar varandra eller genom att de har annan kontakt.
+
+Barnets föräldrar har ett gemensamt ansvar för att barnets behov av umgänge med en förälder som barnet inte bor tillsammans med så långt möjligt tillgodoses. Särskilt förordnade vårdnadshavare och en tillfällig vårdnadshavare har motsvarande ansvar.
+
+Barnets vårdnadshavare har ett ansvar för att barnets behov av umgänge med någon annan som står det särskilt nära så långt möjligt tillgodoses.
+
+Om barnet står under vårdnad av båda föräldrarna och ska umgås med en förälder som det inte bor tillsammans med, ska den andra föräldern lämna sådana upplysningar om barnet som kan främja umgänget, om inte särskilda skäl talar mot det. Om barnet ska umgås med en förälder som inte är vårdnadshavare eller med någon annan som står barnet särskilt nära, ska upplysningar enligt första meningen lämnas av vårdnadshavaren.
+
+*Lag (2024:1174)*.
+
+#### 15 a §
+
+På talan av en förälder som vill umgås med sitt barn får rätten besluta om umgänge mellan barnet och den föräldern. En sådan talan får också föras av socialnämnden.
+
+På talan av socialnämnden får rätten besluta om umgänge mellan barnet och någon annan än en förälder. Vid bedömningen av om en sådan talan skall föras skall socialnämnden särskilt beakta barnets behov av umgänge med sina morföräldrar och farföräldrar och andra som står barnet särskilt nära.
+
+Står barnet under vårdnad av båda föräldrarna eller en av dem, får de avtala om barnets umgänge med en förälder som barnet inte bor tillsammans med. Avtalet skall gälla, om det är skriftligt och socialnämnden godkänner det.
+
+*Lag (2006:458)*.
+
+#### 15 b §
+
+Om barnet bor tillsammans med endast en förälder, skall den föräldern ta del i kostnaderna för de resor som föranleds av barnets behov av umgänge med den andra föräldern. Det skall ske efter vad som är skäligt med hänsyn till föräldrarnas ekonomiska förmåga och övriga omständigheter.
+
+En dom eller ett avtal om kostnaderna för resor kan jämkas av rätten för tiden efter det att talan har väckts, om ändring i förhållandena föranleder det. *Lag (1998:319)*.
+
+#### 15 c §
+
+När rätten beslutar om umgänge med en förälder som barnet inte bor tillsammans med, får rätten, om barnet har behov av det, besluta att en person som utses av socialnämnden ska medverka vid umgänget (umgängesstöd). Ett beslut om umgängesstöd ska gälla för en viss tid.
+
+Innan ett beslut om umgängesstöd meddelas ska rätten inhämta yttrande från socialnämnden.
+
+Socialnämnden ska efter rättens beslut om umgängesstöd utse en viss person att medverka vid umgänget.
+
+Socialnämnden ska följa upp hur umgänget fungerar och verka för att stödet inte består längre än nödvändigt. *Lag (2010:740)*.
+
+### Förfarandet i mål och ärenden om vårdnad m.m.
+
+#### 16 §
+
+Anmälan enligt 4 § andra stycket om gemensam vårdnad för föräldrar som inte är gifta med varandra prövas av Skatteverket. Anmälan skall göras skriftligen av båda föräldrarna.
+
+Anmälan enligt 4 § andra stycket 2 görs hos Skatteverket eller Försäkringskassan.
+
+Beslut av Skatteverket får överklagas hos den förvaltningsrätt inom vars domkrets barnet är folkbokfört vid tidpunkten för beslutet.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2009:775)*.
+
+#### 17 §
+
+Frågor om vårdnad, boende eller umgänge tas upp av rätten i den ort där barnet har sin hemvist. Sådana frågor får tas upp även i samband med äktenskapsmål.
+
+Om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var barnet har sin hemvist, får frågor om vårdnad, boende eller umgänge tas upp även av rätten i den ort där någon av parterna har sin hemvist. Om det kan antas att sekretess gäller också för de uppgifter som behövs för att avgöra parternas hemvist, får frågorna tas upp även av Stockholms tingsrätt. Detsamma gäller om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra barnets och en parts hemvist och den andra parten saknar hemvist i landet.
+
+Om det inte finns någon behörig domstol enligt första eller andra stycket, tas frågorna upp av Stockholms tingsrätt.
+
+Frågor om vårdnad som avses i 4, 5, 7-8 a och 10 §§, 10 b § andra stycket, 10 d och 10 e §§ samt frågor om boende och umgänge handläggs i den ordning som är föreskriven för tvistemål. Frågan om fördelning av resekostnader enligt 15 b § ska anses som en del av frågan om umgänge. Om barnet står under vårdnad av båda föräldrarna eller en av dem och föräldrarna är överens i saken, får de väcka talan genom gemensam ansökan.
+
+Övriga frågor om vårdnad handläggs i den ordning som gäller för domstolsärenden.
+
+I mål om vårdnad och boende kan underhållsbidrag för barnet yrkas utan stämning. *Lag (2021:528)*.
+
+#### 17 a §
+
+Föräldrar kan enligt 13 kap. 6 § andra stycket socialtjänstlagen (2025:400) få hjälp att träffa avtal om vårdnad, boende och umgänge.
+
+Socialnämnden i den kommun där barnet är folkbokfört prövar om ett avtal mellan föräldrarna enligt 6 §, 14 a § andra stycket eller 15 a § tredje stycket ska godkännas.
+
+Om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var barnet är folkbokfört, får även socialnämnden i en kommun där någon av föräldrarna är folkbokförd pröva om ett avtal som avses i andra stycket ska godkännas. Om det kan antas att sekretess gäller också för de uppgifter som behövs för att avgöra var föräldrarna är folkbokförda, får ett sådant avtal godkännas av socialnämnden i den kommun som föräldrarna väljer. Detsamma gäller om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var barnet och en förälder är folkbokförda och den andra föräldern inte är folkbokförd i landet.
+
+Vid sin prövning av föräldrarnas avtal ska socialnämnden se till att frågor om vårdnad, boende och umgänge blir tillräckligt utredda.
+
+Socialnämndens beslut enligt andra eller tredje stycket får inte överklagas. *Lag (2025:402)*.
+
+#### 17 b §
+
+Har en socialnämnd godkänt ett avtal om vårdnad, skall ett meddelande om avtalets innehåll sändas samma dag till
+
+1. Skatteverket,
+
+2. om avtalet gäller ett barn som har fyllt 15 år: Centrala studiestödsnämnden,
+
+3. Försäkringskassan. *Lag (2004:797)*.
+
+#### 17 c §
+
+För att rätten, när föräldrarna inte är överens i sakfrågan, ska få ta upp ett yrkande om vårdnad, boende eller umgänge till prövning i ett mål enligt 5, 14 a eller 15 a § eller i ett mål om äktenskapsskillnad, ska en förälder som framställer ett sådant yrkande ha deltagit i informationssamtal som avses i 13 kap. 5 § socialtjänstlagen (2025:400). Informationssamtalet ska ha ägt rum inom ett år före det att yrkandet framställs. Kravet på deltagande i informationssamtal gäller inte när ett yrkande om vårdnad, boende eller umgänge redan är upptaget till prövning i målet.
+
+Ett yrkande som enligt första stycket inte får tas upp till prövning får ändå tas upp om det finns särskilda skäl.
+
+Om kravet på deltagande i informationssamtal hindrar att ett yrkande om vårdnad, boende eller umgänge tas upp till prövning, ska rätten avvisa samtliga yrkanden om vårdnad, boende och umgänge i målet. *Lag (2025:402)*.
+
+#### 18 §
+
+Föräldrar kan enligt 13 kap. 6 § första stycket socialtjänstlagen (2025:400) genom samarbetssamtal få hjälp att nå enighet i frågor om vårdnad, boende och umgänge.
+
+I mål om vårdnad, boende eller umgänge får rätten uppdra åt socialnämnden eller något annat organ att i barnets intresse anordna samarbetssamtal i syfte att nå enighet mellan föräldrarna.
+
+Om rätten lämnar uppdrag enligt andra stycket, kan den förklara att målet ska vila under en viss tid. Detsamma gäller om samarbetssamtal redan har inletts och fortsatta samtal kan antas vara till nytta. Om det finns särskilda skäl, kan rätten förlänga den utsatta tiden. *Lag (2025:402)*.
+
+#### 18 a §
+
+Rätten får uppdra åt en medlare att försöka få föräldrarna att nå en samförståndslösning som är förenlig med barnets bästa. En medlare ska ha relevant utbildning och yrkeserfarenhet och vara lämplig för uppdraget. Rätten kan lämna närmare anvisningar till medlaren om vad han eller hon ska iaktta när uppdraget utförs.
+
+Medlaren ska inom den tid som rätten bestämmer lämna en redogörelse för de åtgärder som har vidtagits. Tiden får inte sättas längre än fyra veckor. Rätten får dock förlänga tiden, om det finns förutsättningar att nå en samförståndslösning.
+
+Medlaren har rätt till skälig ersättning för arbete, tidsspillan och utlägg som uppdraget krävt. Rätten beslutar om ersättningen. Ersättningen betalas av allmänna medel.
+
+*Lag (2021:528)*.
+
+#### 18 b §
+
+Bestämmelser om skyldigheten för medlare att vid kännedom eller misstanke om att ett barn far illa genast anmäla det till socialnämnden finns i 19 kap. 1 § socialtjänstlagen (2025:400). *Lag (2025:1490)*.
+
+#### 19 §
+
+Rätten ska se till att frågor om vårdnad, boende och umgänge blir tillräckligt utredda.
+
+Innan rätten avgör ett mål eller ärende om vårdnad, boende eller umgänge ska socialnämnden ges tillfälle att lämna upplysningar. Om nämnden har tillgång till upplysningar som kan ha betydelse för frågans bedömning, är nämnden skyldig att lämna sådana upplysningar till rätten.
+
+Om det behövs utredning utöver vad som sägs i andra stycket, får rätten uppdra åt socialnämnden eller något annat organ att utse någon att utföra den. Rätten får ge riktlinjer för utredningen och ska bestämma en viss tid inom vilken utredningen ska vara slutförd. Tiden får inte sättas längre än fyra månader. Om det finns särskilda skäl för det, får rätten förlänga tiden. Rätten ska se till att utredningen bedrivs skyndsamt.
+
+Om det inte är olämpligt, ska den som utför utredningen höra barnet och redovisa barnets åsikter för rätten samt lämna förslag till beslut.
+
+Barnet får höras inför rätten, om särskilda skäl talar för det och det är uppenbart att barnet inte kan ta skada av att höras. *Lag (2021:528)*.
+
+#### 19 a §
+
+Om det i ett mål eller ärende om vårdnad, boende eller umgänge är nödvändigt för att bedöma risken för att barnet far illa, ska rätten hämta in ett sakkunnigutlåtande från en legitimerad psykolog. *Lag (2024:1174)*.
+
+#### 20 §
+
+I mål eller ärenden om vårdnad, boende eller umgänge får rätten, om det behövs, besluta om vårdnad, boende eller umgänge för tiden till dess att frågan har avgjorts genom en dom eller ett beslut som har fått laga kraft eller föräldrarna har träffat ett avtal om frågan och avtalet har godkänts av socialnämnden.
+
+Innan ett beslut enligt första stycket meddelas ska motparten få tillfälle att yttra sig i frågan. Rätten kan hämta in upplysningar från socialnämnden i frågan. Innan socialnämnden lämnar upplysningar ska den, om det inte är olämpligt, höra föräldrarna och barnet. Om rätten har meddelat ett beslut som ännu gäller när målet eller ärendet ska avgöras, ska rätten ompröva beslutet.
+
+Ett beslut enligt denna paragraf får verkställas på samma sätt som en dom som har fått laga kraft. Beslutet får dock när som helst ändras av rätten. *Lag (2021:528)*.
+
+#### 20 a §
+
+Socialnämnden får, i ett förfarande om vårdnad, boende eller umgänge enligt detta kapitel, höra ett barn utan vårdnadshavarens samtycke och utan att vårdnadshavaren är närvarande. *Lag (2021:528)*.
+
+#### 20 b §
+
+Trots sekretess enligt 26 kap. 1 § första stycket offentlighets- och sekretesslagen (2009:400) är en socialnämnd som har tillgång till uppgifter som kan ha betydelse för bedömningen av en fråga om vårdnad, boende eller umgänge skyldig att lämna sådana uppgifter på begäran av en socialnämnd som enligt 17 a § ska pröva om ett avtal mellan föräldrarna kan godkännas eller som ska lämna upplysningar eller utföra en utredning enligt 19 eller 20 §. Detsamma gäller när uppgifterna begärs av den som socialnämnden har utsett att utföra en utredning enligt 19 §. *Lag (2021:528)*.
+
+#### 20 c §
+
+De som är verksamma i sådana verksamheter som avses i 1 kap. 1 och 2 §§ skollagen (2010:800) är skyldiga att lämna uppgifter som kan ha betydelse för bedömningen av en fråga om vårdnad, boende eller umgänge på begäran av en socialnämnd som ska lämna upplysningar eller utföra en utredning enligt 19 eller 20 §. Detsamma gäller när uppgifterna begärs av den som socialnämnden har utsett att utföra en utredning enligt 19 §.
+
+Uppgiftsskyldighet enligt första stycket gäller inte skolläkare, skolsköterskor, psykologer eller kuratorer inom elevhälsan. *Lag (2025:1490)*.
+
+#### 21 §
+
+I mål eller ärenden om vårdnad, boende eller umgänge kan rätten, i samband med att den meddelar dom eller beslut i saken och om det finns särskilda skäl, på yrkande av en part förelägga motparten vid vite att lämna ifrån sig barnet. Har vite förelagts i samband med beslut som avses i 20 § första stycket, kan rätten förordna att föreläggandet skall gälla omedelbart.
+
+Beslut om föreläggande enligt första stycket får överklagas endast i samband med överklagande av domen eller beslutet om vårdnad, boende eller umgänge.
+
+En fråga om utdömande av förelagt vite prövas av rätten på ansökan av den part som har begärt föreläggandet. Ärendet handläggs enligt lagen (1996:242) om domstolsärenden.
+
+*Lag (2006:458)*.
+
+#### 22 §
+
+I mål eller ärenden om vårdnad, boende eller umgänge gäller i fråga om rättegångskostnader andra och tredje styckena i stället för 18 kap. 1-7 §§ rättegångsbalken.
+
+Vardera parten skall bära sin rättegångskostnad. En part kan dock förpliktas att helt eller delvis ersätta motparten dennes rättegångskostnad, om han eller hon har förfarit på ett sådant sätt som avses i 18 kap. 3 eller 6 § rättegångsbalken eller om det annars finns särskilda skäl.
+
+Skall en part enligt andra stycket helt eller delvis ersätta motpartens rättegångskostnad och har partens ställföreträdare, ombud eller biträde förfarit på ett sådant sätt som avses i 18 kap. 3 eller 6 § rättegångsbalken och därigenom vållat kostnaden helt eller delvis, kan han eller hon förpliktas att tillsammans med parten ersätta kostnaden. Rätten kan besluta om detta även om någon part inte yrkar det.
+
+Denna paragraf tillämpas också när målet eller ärendet handläggs i högre rätt. *Lag (1998:319)*.
+
+## 7 kap. Om underhållsskyldighet
+
+#### 1 §
+
+Föräldrarna skall svara för underhåll åt barnet efter vad som är skäligt med hänsyn till barnets behov och föräldrarnas samlade ekonomiska förmåga. När föräldrarnas underhållsskyldighet bestäms skall hänsyn tas till barnets egna inkomster och tillgångar samt till barnets sociala förmåner under beaktande av vad som följer av föreskrifterna om dessa.
+
+Underhållsskyldigheten upphör när barnet fyller arton år. Går barnet i skolan efter denna tidpunkt, är föräldrarna underhållsskyldiga under den tid som skolgången pågår, dock längst intill dess barnet fyller tjugoett år. Till skolgång räknas studier i grundskolan eller gymnasieskolan och annan jämförlig grundutbildning.
+
+I kostnaderna för barnets underhåll skall föräldrarna sinsemellan ta del var och en efter sin förmåga. *Lag (2001:1136)*.
+
+#### 2 §
+
+En förälder skall fullgöra sin underhållsskyldighet genom att betala underhållsbidrag till barnet, om föräldern
+
+1. inte har vårdnaden om barnet och inte heller varaktigt bor tillsammans med barnet, eller
+
+2. har vårdnaden om barnet gemensamt med den andra föräldern men barnet varaktigt bor tillsammans med endast den andra föräldern.
+
+Underhållsbidrag fastställs genom dom eller avtal.
+
+Vårdnadshavaren får företräda barnet i frågor om underhållsbidrag, även om vårdnadshavaren inte har uppnått myndig ålder. Också förmyndare har rätt att företräda barnet. Avtal om underhållsbidrag kan slutas även före barnets födelse.
+
+I mål om underhåll till barnet skall var och en som enligt tredje stycket får företräda barnet ges tillfälle att yttra sig.
+
+*Lag (1996:1031)*.
+
+#### 2 a §
+
+En förälder som är betalningsskyldig för underhållsstöd enligt 19 kap. socialförsäkringsbalken anses ha fullgjort sin underhållsskyldighet intill det belopp som lämnas i underhållsstöd till barnet. *Lag (2010:1203)*.
+
+#### 3 §
+
+När underhållsbidrag bestäms enligt 2 § får den bidragsskyldige förbehålla sig ett belopp för eget eller annans underhåll enligt andra-fjärde styckena.
+
+Förbehållsbelopp för den bidragsskyldiges eget underhåll innefattar alla vanliga levnadskostnader. Bostadskostnaden beräknas för sig efter vad som är skäligt. De andra levnadskostnaderna beräknas med ledning av ett normalbelopp. För år räknat utgör normalbeloppet 120
+
+```
+procent av gällande   prisbasbelopp enligt 2 kap. 6 och 7 §§
+```
+
+socialförsäkringsbalken.
+
+Om det finns särskilda skäl får ett belopp förbehållas för underhåll åt make som den bidragsskyldige varaktigt bor tillsammans med. Med make jämställs annan som den bidragsskyldige varaktigt bor tillsammans med, om de har barn gemensamt. Förbehållsbeloppet bestäms enligt andra stycket. Normalbeloppet utgör dock 60 procent av prisbasbeloppet.
+
+Oberoende av vad som annars gäller om en förälders underhållsskyldighet mot två eller flera barn får den bidragsskyldige för underhåll åt varje hemmavarande barn förbehålla sig ett belopp som, tillsammans med vad som utges till barnet av den andra föräldern eller för dennas räkning, för år utgör 40 procent av gällande prisbasbelopp.
+
+Rätten kan dock bestämma ett annat förbehållsbelopp om det föranleds av omständigheterna i det särskilda fallet.
+
+*Lag (2010:1203)*.
+
+#### 4 §
+
+Har en förälder som enligt 2 § skall betala underhållsbidrag haft barnet hos sig under en sammanhängande tid av minst fem hela dygn eller under en kalendermånad haft barnet hos sig i minst sex hela dygn, får föräldern vid fullgörande av sin bidragsskyldighet tillgodoräkna sig ett avdrag för varje helt dygn av barnets vistelse med 1/40 av det underhållsbidrag som räknat för kalendermånad gäller under tiden för vistelsen. Något sådant avdrag får dock inte göras på underhållsbidrag som belöper på senare tid än sex månader från utgången av den kalendermånad då vistelsen upphörde. Det sammanlagda avdragsbelopp som tillgodoräknas föräldern vid ett tillfälle skall, om det slutar på örestal, avrundas till närmast lägre krontal.
+
+Vid beräkning av antalet hela dygn enligt första stycket räknas det dygn då barnets vistelse upphör som ett helt dygn. Detta gäller dock inte om vistelsen börjar och upphör under samma dygn.
+
+Om det finns särskilda skäl kan rätten förordna om andra villkor för avdragsrätten än som anges i första och andra styckena. Mot en parts bestridande får ett sådant förordnande dock inte meddelas för tiden innan talan har väckts.
+
+Den bidragsskyldiga föräldern har inte rätt till avdrag när underhållsbidraget har fastställts med beaktande av att han eller hon i väsentlig mån fullgör sin underhållsskyldighet genom att ha barnet hos sig. *Lag (2005:464)*.
+
+#### 5 §
+
+Den som varaktigt bor tillsammans med annans barn och med förälder som har vårdnaden om barnet är underhållsskyldig mot barnet, om han eller hon är gift med föräldern eller har eget barn tillsammans med föräldern. Om det finns särskilda skäl, kvarstår underhållsskyldigheten även sedan barnet har flyttat hemifrån.
+
+Underhållsskyldigheten bestäms på samma sätt som för förälder enligt 1 § men gäller ej till den del barnet kan få underhåll från den förälder som den underhållsskyldige ej bor tillsammans med. *Lag (1978:853)*.
+
+#### 6 §
+
+Om annan än den som enligt 2 § har att betala underhållsbidrag försummar sin underhållsskyldighet, kan rätten ålägga den försumlige att betala underhållsbidrag till barnet. *Lag (1978:853)*.
+
+#### 7 §
+
+Underhållsbidrag betalas i förskott för kalendermånad.
+
+Avtal om att underhållsbidrag för framtiden ska betalas med ett engångsbelopp eller för längre perioder än tre månader är giltigt endast om avtalet är skriftligt och bevittnat av två personer. Är barnet under 18 år ska avtalet dessutom vara godkänt av socialnämnden i den kommun där barnet eller dess vårdnadshavare är varaktigt bosatt eller, om ingen av dem är varaktigt bosatt i Sverige, av socialnämnden i Stockholms kommun.
+
+Rätten får bestämma annat betalningssätt än som anges i första stycket, om det finns särskilda skäl.
+
+Underhållsbidrag i form av ett engångsbelopp ska betalas till socialnämnden om barnet är under 18 år. För det belopp som har betalats in ska nämnden se till att en livränta åt barnet som är anpassad efter underhållsskyldigheten köps in hos en försäkringsgivare, om inte avtalet hindrar det eller nämnden finner att beloppet kan användas på något annat lämpligt sätt för barnets underhåll.
+
+Betalning i strid mot denna paragraf medför inte befrielse från skyldigheten att betala underhållsbidrag på föreskrivet sätt. *Lag (2018:1288)*.
+
+#### 8 §
+
+Talan om att underhållsbidrag skall fastställas får inte bifallas för längre tid tillbaka än tre år före den dag då talan väcktes, om inte den bidragsskyldige medger det. *Lag (1978:853)*.
+
+#### 9 §
+
+Rätten att kräva ut fastställt underhållsbidrag går förlorad fem år efter den ursprungligen gällande förfallodagen, om inte annat följer av andra eller tredje stycket.
+
+Om utmätning för underhållsbidraget har skett före den tidpunkt som anges i första stycket eller om den bidragsskyldige har blivit försatt i konkurs på grund av en ansökan som har gjorts före denna tidpunkt, får betalning för fordran tas ut ur den utmätta egendomen eller erhållas i konkursen även därefter.
+
+Om en ansökan om företagsrekonstruktion har gjorts före den tidpunkt som anges i första stycket, får underhållsbidraget krävas ut inom tre månader från det att beslut om företagsrekonstruktionens upphörande meddelades. Om underhållsbidraget omfattas av en skulduppgörelse i en fastställd rekonstruktionsplan, får fordran krävas ut inom tre månader från det att gäldenärens förpliktelser enligt skulduppgörelsen skulle ha fullgjorts. Om utmätning för underhållsbidraget har skett eller konkursansökan har gjorts inom den tid som nu har angetts, gäller andra stycket.
+
+Avtal som strider mot denna paragraf är ogiltiga. *Lag (2022:966)*.
+
+#### 10 §
+
+Dom eller avtal om underhåll kan jämkas av rätten, om ändring i förhållandena föranleder det. För tiden innan talan har väckts får jämkning dock mot parts bestridande göras endast på så sätt att obetalda bidrag sätts ned eller tas bort.
+
+Avtal om underhåll kan också jämkas av rätten, om avtalet är oskäligt med hänsyn till omständigheterna vid dess tillkomst och förhållandena i övrigt. Beslut om att erhållna bidrag skall betalas tillbaka får dock meddelas endast om det finns särskilda skäl.
+
+Har fastställt underhållsbidrag, som utges fortlöpande, under en tid av sex år inte ändrats till beloppet på annat sätt än som avses i 1 § lagen (1966:680) om ändring av vissa underhållsbidrag, kan rätten för tiden efter det att talan har väckts ompröva vad som har bestämts om underhållet, utan att anledning till jämkning enligt första eller andra stycket behöver åberopas.
+
+Dom eller avtal om underhållsbidrag för tid intill dess barnet har nått en viss ålder utgör inte hinder att pröva frågan om bidrag för tiden därefter. *Lag (1978:853)*.
+
+#### 11 §
+
+har upphävts genom *lag (1996:1031)*.
+
+#### 12 §
+
+En talan om underhåll till barn tas upp av rätten i den ort där svaranden har sin hemvist. En sådan fråga kan väckas även i samband med mål om fastställande av faderskapet till barn, äktenskapsmål, mål om vårdnaden om barn eller mål om barns boende.
+
+Om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra svarandens hemvist, får en talan om underhåll tas upp även av rätten i den ort där käranden har sin hemvist. Om det kan antas att sekretess gäller också för de uppgifter som behövs för att avgöra kärandens hemvist eller om käranden saknar hemvist i landet, får målet tas upp även av Stockholms tingsrätt.
+
+Om det inte finns någon behörig domstol enligt första eller andra stycket, tas målet upp av Stockholms tingsrätt.
+
+*Lag (2021:528)*.
+
+#### 13 §
+
+Två eller flera mål om skyldighet för någon att utge underhållsbidrag till barn får handläggas i en rättegång, om det är till nytta för utredningen eller prövningen. I sådant fall får domstol som enligt 12 § är behörig att uppta ett av målen utan hinder av nämnda paragraf uppta även det eller de andra, om talan i målen väcks vid domstolen och det är lämpligt att målen handläggs där.
+
+Rätten kan besluta att åter särskilja mål som har förenats enligt första stycket.
+
+Har rätten att avgöra vilken av flera män som är far till ett barn, får talan om underhållsbidrag ej prövas slutligt innan faderskapsfrågan har avgjorts genom dom som vunnit laga kraft. *Lag (1978:853)*.
+
+#### 14 §
+
+Underhållsbidrag får bestämmas till olika belopp för särskilda delar av underhållstiden.
+
+Underhåll till barn får ej mot den underhållsskyldiges bestridande bestämmas för tid efter det barnet fyllt arton år, innan det kan tillförlitligt bedömas om underhållsskyldighet föreligger därefter.
+
+*Lag (1996:1031)*.
+
+#### 15 §
+
+I mål om underhåll till barn får rätten, för tiden till dess att frågan har avgjorts genom en dom eller ett beslut som har vunnit laga kraft, besluta om underhållet efter vad som är skäligt. Skyldighet att utge bidrag får dock åläggas någon endast om det finns sannolika skäl för att bidragsskyldighet föreligger. Har fråga om underhåll väckts i samband med mål om fastställande av faderskap till barn, får beslut om skyldighet att utge bidrag inte meddelas, om flera män är instämda i målet.
+
+Innan beslut enligt första stycket meddelas, skall motparten få tillfälle att yttra sig i frågan. Har rätten meddelat ett beslut, skall den ompröva det när målet avgörs.
+
+Ett beslut enligt denna paragraf får verkställas på samma sätt som en dom som har vunnit laga kraft. Beslutet får dock när som helst ändras av rätten. *Lag (2000:174)*.
+
+#### 16 §
+
+Har någon genom skriftlig, av två personer bevittnad handling åtagit sig att till barn för vilket faderskapet skall fastställas utge underhållsbidrag för tid intill dess resultatet av blodundersökning om faderskapet föreligger, gäller i fråga om verkställighet på grund av handlingen vad som är föreskrivet om verkställighet på grund av förbindelse att utge underhåll enligt denna balk.
+
+Beträffande åtagande enligt första stycket skall i övrigt i tillämpliga delar gälla vad som i lag eller annan författning är föreskrivet för fall då rätten enligt 15 § har meddelat förordnande om underhållsbidrag till barn. *Lag (1979:339)*.
+
+#### 17 §
+
+Om rätt för den som har betalt underhållsbidrag att få ersättning av allmänna medel finns bestämmelser i lagen (1969:620) om ersättning i vissa fall för utgivna underhållsbidrag. *Lag (1979:339)*.
+
+#### 18 §
+
+Har en man haft kostnader för ett barns försörjning därför att han har varit att anse som eller antagits vara barnets far, men fastställs att en annan man är far till barnet, har den förstnämnde endast om det finns särskilda skäl rätt till ersättning av den andre för kostnaderna. *Lag (1979:339)*.
+
+#### 19 §
+
+I mål om underhåll till barn gäller följande avvikelser från 18 kap. rättegångsbalken, om barnet förlorar målet.
+
+Om det finns särskilda skäl, får förordnas att vardera parten skall bära sin rättegångskostnad. Finns det inte sådana skäl och har barnet i rättegången företrätts av en förälder som varaktigt bor tillsammans med barnet, skall föräldern i stället för barnet åläggas att ersätta motparten dennes rättegångskostnad. *Lag (1985:358)*.
+
+#### 20 §
+
+Det som sägs i 12, 15 och 16 §§ om fastställande av faderskap gäller även fastställande av föräldraskap enligt 1 kap. 9 §. Det som sägs i 18 § om en man tillämpas också i fråga om en kvinna som skall anses som förälder enligt 1 kap. 9 §.
+
+*Lag (2005:434)*.
+
+## 8 kap. Har upphävts genom lag (1973:802).
+
+## 9 kap. Om underårigs omyndighet
+
+#### 1 §
+
+Den som är under arton år (underårig) är omyndig och får inte själv råda över sin egendom eller åta sig förbindelser i vidare mån än som följer av vad som ska gälla på grund av lag eller villkor vid förvärv genom gåva, testamente eller förmånstagarförordnande vid
+
+- försäkring,
+
+- pensionssparande enligt lagen (1993:931) om individuellt pensionssparande, eller
+
+- sparande i en sådan PEPP-produkt som avses i Europaparlamentets och rådets förordning (EU) 2019/1238 av den 20 juni 2019 om en paneuropeisk privat pensionsprodukt (PEPP- produkt). *Lag (2022:1747)*.
+
+#### 2 §
+
+Om rätt för underårig att själv taga tjänst eller annat arbete stadgas i 6 kap. *Lag (1974:236)*.
+
+#### 2 a §
+
+Underårig med eget hushåll får för den dagliga hushållningen eller uppfostran av barn, som tillhör hushållet, själv ingå sådana rättshandlingar, som sedvanligen företagas för dessa ändamål.
+
+Rättshandling som avses i första stycket är dock ej bindande för den underårige, om den med vilken rättshandlingen slöts insåg eller bort inse, att det som anskaffades genom rättshandlingen ej var erforderligt.
+
+Missbrukar den underårige behörighet, som tillkommer honom enligt första stycket, kan rätten på ansökan av förmyndaren frånkänna honom behörigheten. Sådant beslut kan upphävas på ansökan av förmyndaren eller den omyndige, om ändrade förhållanden inträtt.
+
+Rättens beslut enligt tredje stycket skall ofördröjligen kungöras i Post- och Inrikes Tidningar och ortstidning. *Lag (1977:658)*.
+
+#### 3 §
+
+Underårig äge själv råda över vad han genom eget arbete förvärvat efter det han fyllt sexton år. Detsamma gäller avkastningen av sådan egendom och vad som trätt i egendomens ställe.
+
+Förmyndaren må med överförmyndarens samtycke omhändertaga egendom, varom i första stycket sägs, såvitt det må anses erforderligt med hänsyn till myndlingens uppfostran eller välfärd. Innan samtycke meddelas, skall överförmyndaren bereda myndlingen tillfälle att yttra sig.
+
+#### 3 a §
+
+har upphävts genom *lag (1974:236)*.
+
+#### 4 §
+
+Om en underårig har fått egendom genom gåva, testamente eller förmånstagarförordnande vid försäkring, pensionssparande enligt lagen (1993:931) om individuellt pensionssparande eller sparande i en sådan PEPP-produkt som avses i Europaparlamentets och rådets förordning (EU) 2019/1238, under villkor att den underårige själv ska få råda över egendomen, ska 3 § andra stycket tillämpas också beträffande sådan egendom. Överförmyndarens samtycke krävs dock bara om den underårige har fyllt sexton år. Innan samtycke lämnas ska överförmyndaren ge fångesmannen eller hans eller hennes arvingar tillfälle att yttra sig, om det kan ske utan påtagligt besvär eller större tidsförlust. *Lag (2022:1747)*.
+
+#### 5 §
+
+En underårig som driver rörelse med samtycke enligt 13 kap. 13 § eller 14 kap. 14 § andra stycket, får ingå sådana rättshandlingar som faller inom området för rörelsen. Vad som nu har sagts gäller dock inte i fråga om rättshandlingar som avses i 13 kap. 10 §. *Lag (1994:1433)*.
+
+#### 6 §
+
+Har underårig utan erforderligt samtycke ingått avtal, äge den, med vilken avtalet slöts, frånträda avtalet, så länge det ej blivit godkänt eller behörigen fullgjort. Visste han att avtalet slöts med underårig, må han dock ej, med mindre han hade anledning antaga att den underårige ägde behörighet att sluta avtalet, frånträda detta under den tid som vid dess ingående må hava blivit bestämd för godkännande eller eljest skäligen kunde beräknas åtgå därför. Ej må den, hos vilken underårig tagit tjänst eller annat arbete, frånträda avtalet härom, så länge detta fullgöres av den underårige.
+
+Meddelande, varigenom avtalet frånträdes, må ske jämväl till den underårige själv.
+
+#### 7 §
+
+Varder avtal, som underårig ingått utan erforderligt samtycke, ej gällande, bäre envar åter vad han mottagit eller utgive, om det ej kan ske, ersättning för dess värde. Dock vare den underårige, där ej i andra stycket annorlunda stadgas, icke pliktig att utgiva sådan ersättning i vidare mån än vad han mottagit använts till skäligt underhåll eller eljest finnes hava för honom medfört nytta.
+
+Har den underårige vid avtals ingående genom falska uppgifter om sin behörighet vilselett den, med vilken avtalet slöts, vare han, om avtalet ej blir gällande, pliktig att i den omfattning som prövas skälig utgiva ersättning för den förlust som föranletts av avtalet.
+
+Var förfarandet straffbart, skall ersättning gäldas efter vad i allmänhet gäller om skadestånd på grund av brott.
+
+#### 8 §
+
+Pengar som en omyndig efter det att han eller hon har fyllt sexton år själv har satt in hos en bank får betalas ut till den omyndige. Banken får inte utan den omyndiges samtycke betala ut pengarna till förmyndaren.
+
+Om förmyndaren har fått överförmyndarens tillstånd att omhänderta pengar som avses i första stycket och visat upp bevis på det, får banken betala ut pengarna till förmyndaren men inte till den omyndige.
+
+Första och andra styckena gäller också pengar som har satts in hos ett kreditmarknadsföretag och ett utländskt företag som driver bankrörelse eller finansieringsrörelse från en filial i Sverige. *Lag (2020:1027)*
+
+## 10 kap. Om förmyndare
+
+#### 1 §
+
+Den som är underårig eller som har förvaltare får inte vara förmyndare. *Lag (1988:1251)*.
+
+#### 2 §
+
+För barn som står under vårdnad av bägge föräldrarna är dessa förmyndare. Om någon av föräldrarna inte får vara förmyndare enligt 1 § eller blir entledigad från förmynderskapet, är den andre barnets förmyndare.
+
+För barn som står under vårdnad av endast den ene av sina föräldrar är denne ensam förmyndare. *Lag (1988:1251)*.
+
+#### 3 §
+
+Den eller de som har utsetts till särskilt förordnade vårdnadshavare är också förmyndare för den underårige. Detsamma gäller den som har utsetts till tillfällig vårdnadshavare.
+
+Om särskilda skäl talar för det, ska dock någon annan än den särskilt förordnade vårdnadshavaren eller den tillfälliga vårdnadshavaren förordnas till förmyndare. I ett sådant fall tillämpas 6 och 7 §§.
+
+Det som sägs i denna balk om särskilt förordnade förmyndare ska gälla även den som är förmyndare enligt första stycket. *Lag (2021:528)*.
+
+#### 4 §
+
+har upphävts genom *lag (2014:377)*.
+
+#### 5 §
+
+Har en underårig inte någon förmyndare, skall rätten förordna en sådan.
+
+Har förmyndare förordnats enligt första stycket på grund av att fadern eller modern är underårig, gäller förordnandet till dess fadern eller modern har uppnått myndig ålder. *Lag (1994:1433)*.
+
+#### 6 §
+
+Till förmyndare skall utses en rättrådig, erfaren och i övrigt lämplig man eller kvinna.
+
+För underåriga syskon skall samma person utses till förmyndare, om inte särskilda skäl talar mot det. *Lag (1994:1433)*.
+
+#### 7 §
+
+Skall efter föräldrarnas död förmyndare förordnas för en underårig och har föräldrarna eller en av dem gett till känna vem de önskar till förmyndare, skall denna person förordnas om det inte är olämpligt. *Lag (1994:1433)*.
+
+#### 8 §
+
+När omständigheterna påkallar det, får flera förmyndare förordnas för den underårige.
+
+Kan den eller de som på grund av lag skall vara förmyndare inte lämpligen handha förmynderskapet allena, skall medförmyndare förordnas. *Lag (1988:1251)*.
+
+#### 9 §
+
+En förmyndare har rätt att på begäran bli entledigad från förmynderskapet. Detta gäller dock inte, om förmynderskapet utövas av föräldrarna eller en av dem och särskilda skäl talar mot att förmyndaren entledigas. *Lag (1994:1433)*.
+
+#### 10 §
+
+En förmyndare skall entledigas, om förmyndaren vid utövandet av förmynderskapet gör sig skyldig till missbruk eller försummelse, om förmyndaren kommer på ekonomiskt obestånd och på grund därav är olämplig att vara förmyndare eller om förmyndaren av någon annan orsak inte längre är lämplig som förmyndare. *Lag (1988:1251)*.
+
+#### 11 §
+
+Dör förmyndaren och finns det inte någon som på grund av lag skall vara förmyndare, skall den som har boet i sin vård utan dröjsmål anmäla förhållandet till överförmyndaren för den kommun där den omyndige har sitt hemvist. *Lag (1994:1433)*.
+
+#### 12 §
+
+Har upphävts genom *lag (1994:1433)*.
+
+#### 13 §
+
+Frågor om förordnande eller entledigande av förmyndare tas upp av tingsrätten i den ort där den underårige är folkbokförd.
+
+Om den underårige inte är folkbokförd i Sverige, är tingsrätten i den ort där den underårige vistas behörig domstol.
+
+Om det inte finns någon domstol som är behörig enligt första stycket, är Stockholms tingsrätt behörig. *Lag (2006:557)*.
+
+#### 14 §
+
+I ärende om förordnande av förmyndare skall rätten bereda överförmyndaren tillfälle att lämna förslag på person som är lämplig för uppdraget. *Lag (1988:1251)*.
+
+#### 15 §
+
+Ingen får förordnas till förmyndare eller entledigas från ett förmynderskap utan att ha fått tillfälle att yttra sig. *Lag (1988:1251)*.
+
+#### 16 §
+
+Kan slutligt beslut ej ges omedelbart i ärende om förordnande av förmyndare, får rätten, om den omyndiges angelägenheter kräver omedelbar vård, förordna förmyndare för tiden till dess ärendet avgörs. *Lag (1988:1251)*.
+
+#### 17 §
+
+Uppkommer fråga om att enligt 10 § entlediga en förmyndare och kan slutligt beslut ej ges omedelbart, får rätten, om dröjsmål skulle medföra fara för den underårige, besluta att förmyndaren skall skiljas från sitt uppdrag för tiden till dess ärendet avgörs.
+
+Innan rätten meddelar beslut enligt första stycket, skall förmyndaren beredas tillfälle att yttra sig, om det inte är fara i dröjsmål. *Lag (1988:1251)*.
+
+#### 18 §
+
+En ansökan om att en förmyndare ska förordnas eller entledigas får göras av överförmyndaren, förmyndare, vårdnadshavare, den underårige själv, om han eller hon har fyllt 16 år, samt av hans eller hennes sambo och
+
+närmaste släktingar. Rätten ska självmant ta upp en sådan fråga, när det finns anledning till det.
+
+I ett ärende som avses i första stycket ska rätten ge en underårig som fyllt 16 år tillfälle att yttra sig, om det kan ske. *Lag (2026:490)*.
+
+## 11 kap. Om god man och förvaltare
+
+### Om god man
+
+### God man i förmyndares ställe
+
+#### 1 §
+
+Kan en förmyndare på grund av sjukdom eller av någon annan orsak inte utöva förmynderskapet eller blir förmyndaren enligt 10 kap. 17 § skild från utövningen av det, skall överförmyndaren förordna god man att i förmyndarens ställe vårda den underåriges angelägenheter.
+
+När rätten enligt 10 kap. 17 § skiljer en förmyndare från utövningen av förmynderskapet får rätten förordna god man enligt första stycket.
+
+Om god man för underåriga utländska medborgare och underåriga statslösa personer finns bestämmelser i 4 kap. 3 § lagen (1904:26 s. 1) om vissa internationella rättsförhållanden rörande äktenskap och förmynderskap samt i lagen (2005:429) om god man för ensamkommande barn. *Lag (2005:430)*.
+
+### God man vid intressekonflikt
+
+#### 2 §
+
+Har en förmyndare eller förmyndarens make eller sambo och den underårige del i ett oskiftat dödsbo, skall överförmyndaren förordna god man att vårda den underåriges rätt i boet vid boutredningen liksom vid bodelning och skifte eller ingående av avtal om sammanlevnad i oskiftat bo.
+
+Överförmyndaren skall också förordna god man när den som har en förmyndare, god man eller förvaltare skall företa en rättshandling eller vara part i en rättegång och behöver hjälp men enligt 12 kap. 8 § inte kan företrädas av förmyndaren, den gode mannen eller förvaltaren. Om talan har väckts får rätten förordna god man.
+
+Överförmyndaren skall också i andra fall än som avses i första eller andra stycket förordna god man för den som har vårdnadshavare, förmyndare, god man eller förvaltare, i angelägenheter där den enskilde har ett intresse som strider mot en sådan företrädares eller dennes makes eller sambos intresse. Överförmyndaren skall meddela ett sådant förordnande, om det begärs av vårdnadshavaren, förmyndaren, den gode mannen eller förvaltaren eller den som denne i sådan egenskap företräder eller om det annars är lämpligt. *Lag (1994:1433)*.
+
+### God man för bortavarande och andra
+
+#### 3 §
+
+Överförmyndaren skall förordna god man,
+
+1. om det vid ett dödsfall finns en till namnet känd arvinge som vistas på okänd eller avlägsen ort och därför inte kan bevaka sin rätt i boet och förvalta sin lott i det,
+
+2. om det vid ett dödsfall inte kan utredas, huruvida den döde har efterlämnat någon arvinge som är arvsberättigad före Allmänna arvsfonden eller före eller tillsammans med någon annan känd arvinge, eller också kännedom finns om arvinge efter den döde men kunskap saknas såväl om arvingens namn som om hans vistelseort, och det på grund av sådan omständighet krävs att okänd arvinges rätt bevakas och hans eller hennes lott i boet förvaltas,
+
+3. om en testamentstagare vistas på okänd eller avlägsen ort eller är okänd och hans eller hennes rätt därför behöver iakttas enligt vad som föreskrivs om arvinge,
+
+4. om det i övrigt krävs att en bortavarandes rätt bevakas eller en bortavarandes egendom förvaltas,
+
+5. om det enligt förordnande i testamente eller annan rättshandling beror av en framtida händelse, vem egendom skall tillfalla eller egendom först senare skall tillträdas med äganderätt och det krävs att den blivande ägarens rätt bevakas eller egendomen förvaltas för den blivande ägarens räkning, eller
+
+6. om egendom, enligt vad som särskilt föreskrivs, skall ställas under vård och förvaltning av god man som avses i detta kapitel.
+
+Överförmyndaren skall förordna god man enligt första stycket efter anmälan eller när behovet blir känt på annat sätt. Krävs en god man för den som har rätt i ett dödsbo, skall det anmälas hos överförmyndaren av den som har boet i sin vård.
+
+Rättshandlingar som en god man har företagit med stöd av ett förordnande enligt denna paragraf gäller, även om den egendom som förordnandet avsåg tillfaller någon som den gode mannen inte var förordnad att företräda. *Lag (1994:1433)*.
+
+#### 3 a §
+
+I de fall som anges i 18 kap. 1 § första stycket äktenskapsbalken och 20 kap. 2 § första stycket denna balk skall god man förordnas av rätten. *Lag (1994:1433)*.
+
+### God man vid sjukdom och liknande förhållanden
+
+#### 4 §
+
+Om någon på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något liknande förhållande behöver hjälp med sina ekonomiska eller personliga angelägenheter, ska ett godmanskap anordnas för honom eller henne. Ett godmanskap ska dock inte anordnas om den enskilde kan antas få sitt hjälpbehov tillgodosett på ett mindre ingripande sätt.
+
+För att ett godmanskap ska anordnas krävs att den enskilde samtycker till det. Samtycke krävs dock inte om den enskildes tillstånd hindrar att hans eller hennes mening hämtas in.
+
+Ett godmanskap ska begränsas utifrån den enskildes behov.
+
+*Lag (2026:490)*.
+
+#### 4 a §
+
+En fråga om att anordna ett godmanskap enligt 4 § prövas av överförmyndaren.
+
+Om den enskilde, hans eller hennes förmyndare, make eller sambo eller närmaste släktingar eller en framtidsfullmaktshavare motsätter sig att ett godmanskap anordnas ska överförmyndaren överlämna ärendet till rätten för prövning. Detsamma gäller om överförmyndaren bedömer att ett godmanskap inte bör anordnas.
+
+Om en fråga enligt första stycket uppkommer i ett ärende om förvaltarskap, är rätten också behörig att pröva frågan.
+
+*Lag (2026:490)*.
+
+#### 4 b §
+
+När överförmyndaren eller rätten anordnar ett godmanskap enligt 4 § ska samtidigt en god man förordnas att utföra uppdraget.
+
+Om en god man i något annat fall ska förordnas på grund av ett godmanskap enligt 4 § görs det av överförmyndaren.
+
+*Lag (2026:490)*.
+
+### Den gode mannens behörighet och förhållandet till tredje man
+
+#### 5 §
+
+En rättshandling som en god man har företagit utanför sitt förordnande är inte bindande för den som förordnandet avser. En rättshandling som utan dennes samtycke företagits inom ramen för förordnandet är inte heller bindande för den som förordnandet avser, såvida inte denne på grund av sitt tillstånd varit ur stånd att ge uttryck för sin mening eller denna av annan orsak inte har kunnat inhämtas.
+
+Har den gode mannen inom ramen för förordnandet ingått en rättshandling som sedvanligen företas för den dagliga hushållningen, skall samtycke från den som han företräder anses föreligga, om denne inte före rättshandlingen har gett uttryck för annat till den mot vilken rättshandlingen riktade sig. *Lag (1988:1251)*.
+
+#### 6 §
+
+Om en rättshandling som en god man har företagit inte blir bindande enligt 5 §, är den gode mannen skyldig att ersätta godtroende tredje man skada som denne har tillfogats. Detta gäller dock inte, om rättshandlingen saknar bindande verkan mot den för vars räkning den har företagits till följd av någon särskild omständighet, som den gode mannen inte kände till och som tredje man inte med fog kunde förutsätta att den gode mannen skulle känna till. *Lag (1988:1251)*.
+
+### Om förvaltare
+
+### När ett förvaltarskap ska anordnas
+
+#### 7 §
+
+Om någon som befinner sig i en sådan situation som anges i 4 § är ur stånd att vårda sig eller sin egendom, får rätten besluta att anordna förvaltarskap för honom eller henne. Förvaltarskap får dock inte anordnas, om det är tillräckligt att godmanskap anordnas eller att den enskilde på något annat, mindre ingripande sätt får hjälp.
+
+Förvaltaruppdraget skall anpassas till den enskildes behov i varje särskilt fall och får begränsas till att avse viss egendom eller angelägenhet eller egendom överstigande ett visst värde.
+
+Rätten får överlåta åt överförmyndaren att närmare bestämma uppdragets omfattning.
+
+När rätten meddelar ett beslut enligt första stycket, skall rätten samtidigt förordna en förvaltare att utföra uppdraget. Om en förvaltare i något annat fall skall förordnas på grund av ett beslut enligt första stycket, skall förordnandet meddelas av överförmyndaren. *Lag (1994:1433)*.
+
+### Den enskildes och förvaltarens behörighet
+
+#### 8 §
+
+Trots ett förvaltarförordnande enligt 7 § har den som avses med förordnandet rätt att själv
+
+1. sluta avtal om tjänst eller annat arbete,
+
+2. förfoga över vad han eller hon genom eget arbete har förvärvat efter det att förvaltare har förordnats, liksom avkastningen av sådan egendom och vad som har trätt i egendomens ställe samt
+
+3. förfoga över vad han eller hon efter det att förvaltare har förordnats får genom gåva, testamente eller förmånstagarförordnande vid försäkring, pensionssparande enligt lagen (1993:931) om individuellt pensionssparande eller sparande i en sådan PEPP-produkt som avses i Europaparlamentets och rådets förordning (EU) 2019/1238 under villkor att egendomen inte ska omfattas av förvaltarens rådighet.
+
+Om det finns särskilda skäl för det, får dock rätten föreskriva att förvaltaruppdraget ska omfatta även förhållanden som avses i första stycket. *Lag (2022:1747)*.
+
+#### 9 §
+
+Förvaltaren har inom ramen för förvaltaruppdraget ensam rådighet över den enskildes egendom och företräder denne i alla angelägenheter som omfattas av uppdraget.
+
+Den som har förvaltare är inte behörig att företa rättshandlingar för annans räkning. *Lag (1988:1251)*.
+
+#### 10 §
+
+Med förvaltarens samtycke får den enskilde själv företa rättshandlingar även i en angelägenhet som omfattas av förvaltaruppdraget. Om verkan av avtal som den enskilde har ingått utan samtycke gäller vad som föreskrivs i 9 kap. 6 och 7 §§ för underåriga. *Lag (1988:1251)*.
+
+#### 11 §
+
+Den enskilde är inte bunden av en rättshandling som en förvaltare har företagit utanför sitt förordnande. Förvaltaren är i sådant fall skyldig att ersätta godtroende tredje man skada som denne har tillfogats. *Lag (1988:1251)*.
+
+### Gemensamma bestämmelser
+
+### Kompetens- och lämplighetskrav
+
+#### 12 §
+
+Till god man eller förvaltare ska utses en rättrådig, erfaren och i övrigt lämplig person. Föreslår den enskilde en viss person som god man eller förvaltare, ska den personen förordnas, om han eller hon är lämplig och vill åta sig uppdraget. Detsamma gäller om en god man ska förordnas att bevaka en underårigs eller bortavarandes rätt i ett dödsbo och den avlidne har gett till känna vem den avlidne önskar till god man.
+
+Innan någon förordnas till god man eller förvaltare ska hans eller hennes lämplighet kontrolleras i den utsträckning som behövs.
+
+Den som är underårig eller som själv har förvaltare får inte vara god man eller förvaltare. *Lag (2014:886)*.
+
+#### 12 a §
+
+Den som på grund av sin anställning åtar sig uppdrag som god man eller förvaltare får förordnas som sådan ställföreträdare, om det finns särskilda skäl.
+
+*Lag (2026:490)*.
+
+#### 12 b §
+
+*/Träder i kraft I:2028-01-01/* En person som förordnas till god man enligt 4 § eller förvaltare ska genomgå en utbildning om vad ett sådant ställföreträdarskap innebär. En sådan utbildning ska genomföras senast inom tre månader från dagen för förordnandet. *Lag (2026:490)*.
+
+#### 12 c §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om lämplighetskontrollen och om utbildning för gode män och förvaltare. Föreskrifterna får innehålla undantag från utbildningskravet i 12 b §.
+
+*Lag (2026:490)*.
+
+### Flera gode män eller förvaltare
+
+#### 13 §
+
+När omständigheterna motiverar det, kan flera gode män eller förvaltare förordnas för den enskilde. *Lag (1994:1433)*.
+
+#### 14 §
+
+Om flera gode män eller förvaltare är ansvariga för en skada som har tillfogats tredje man, svarar de solidariskt för ersättningen. Ersättningsansvaret skall slutligt fördelas mellan de ansvariga efter vars och ens grad av vållande. Om någon saknar tillgångar att betala sin andel med, skall de övrigas ansvarighet för bristen bestämmas enligt samma grunder. *Lag (1994:1433)*.
+
+### Handläggningen
+
+#### 15 §
+
+En ansökan om att förordna en god man enligt 1-3 §§, eller att anordna ett godmanskap enligt 4 § eller ett förvaltarskap får göras av en förmyndare, av den som ansökan avser, om han eller hon har fyllt 16 år, och
+
+av hans eller hennes make eller sambo och närmaste släktingar. En ansökan om att anordna ett godmanskap enligt 4 § eller ett förvaltarskap får också göras av en framtidsfullmaktshavare.
+
+En ansökan om att anordna ett förvaltarskap får också göras av överförmyndaren eller en god man som avses i 4 §.
+
+*Lag (2026:490)*.
+
+#### 15 a §
+
+När det finns anledning till det ska överförmyndaren självmant pröva en fråga om att anordna ett godmanskap enligt 4 § eller att förordna en god man eller förvaltare.
+
+Rätten ska, när det finns anledning till det, självmant pröva en fråga om att anordna ett förvaltarskap. Om rätten i ett annat fall än som avses i 4 a § tredje stycket anser att det finns behov av att anordna ett godmanskap enligt 4 §, ska den anmäla det till överförmyndaren. *Lag (2026:490)*.
+
+#### 16 §
+
+I ett ärende om att förordna en god man eller förvaltare eller att anordna ett godmanskap enligt 4 § eller ett förvaltarskap för någon som har fyllt 16 år ska den enskilde ges tillfälle att yttra sig, om det kan ske.
+
+I ett ärende enligt första stycket ska även den enskildes make eller sambo, barn, framtidsfullmaktshavare och vårdinrättningar ges tillfälle att yttra sig, om det inte är obehövligt. Yttranden ska också, om det behövs, inhämtas från andra närstående samt från den eller de kommunala nämnder som fullgör uppgifter inom socialtjänsten och den eller de nämnder som utövar regionens ledning av omsorgsverksamheten. Rätten ska inhämta ett yttrande från överförmyndaren, om det inte är obehövligt.
+
+Myndigheter och inrättningar som anges i andra stycket är skyldiga att lämna sådana uppgifter som kan vara av betydelse i ärendet. *Lag (2026:490)*.
+
+#### 16 a §
+
+Den som en fråga om att anordna ett godmanskap eller förvaltarskap avser ska höras muntligen, om det kan ske utan skada för honom eller henne och det inte är uppenbart att han eller hon inte förstår vad saken gäller. Den enskilde behöver dock inte höras muntligen om han eller hon själv har gjort ansökan eller medgett att ett godmanskap eller förvaltarskap anordnas eller det annars finns särskilda skäl.
+
+*Lag (2026:490)*.
+
+#### 17 §
+
+Innan rätten anordnar ett förvaltarskap ska den inhämta läkarintyg eller annan likvärdig utredning om den enskildes hälsotillstånd. Detsamma gäller överförmyndaren eller rätten i ett ärende om att anordna ett godmanskap enligt 4 §, när den enskilde inte har lämnat sitt samtycke. *Lag (2026:490)*.
+
+#### 17 a §
+
+Rätten får uppdra åt överförmyndaren att inhämta yttranden enligt 16 § andra stycket och utredning enligt 17 §.
+
+På begäran av rätten ska överförmyndaren lämna förslag på god man eller förvaltare, om det inte finns särskilda skäl mot det.
+
+Om en fråga om anordnande av godmanskap enligt 4 § eller förvaltarskap uppkommer hos överförmyndaren, får överförmyndaren inhämta yttranden enligt 16 § andra stycket och utredning enligt 17 §. Om överförmyndaren ansöker om ett sådant anordnande, ska vad som inhämtats ges in till rätten tillsammans med ansökan. Överförmyndaren ska då också lämna förslag på god man eller förvaltare. *Lag (2014:886)*.
+
+#### 17 a §
+
+Om det hos överförmyndaren uppkommer en fråga om huruvida det finns ett behov av att anordna ett förvaltarskap, får överförmyndaren inhämta utredning enligt 17 §.
+
+Om överförmyndaren ansöker hos rätten om att ett förvaltarskap ska anordnas, ska överförmyndaren tillsammans med ansökan ge in de yttranden och den utredning som hämtats in enligt 16 och 17 §§. Överförmyndaren ska också lämna förslag på en förvaltare. *Lag (2026:490)*.
+
+#### 17 b §
+
+Om överförmyndaren enligt 4 a § överlämnar ett ärende om godmanskap till rätten, ska överförmyndaren ge in de yttranden och den utredning som hämtats in enligt 16 och 17 §§. Överförmyndaren ska också lämna förslag på en god man, om inte överförmyndaren själv bedömer att ett godmanskap inte bör anordnas. *Lag (2026:490)*.
+
+#### 17 c §
+
+I ett ärende om att anordna ett förvaltarskap, får rätten uppdra åt överförmyndaren att inhämta yttranden enligt 16 § andra stycket och utredning enligt 17 §. Detsamma gäller i ett ärende om att anordna ett godmanskap enligt 4 § som handläggs av rätten.
+
+På begäran av rätten ska överförmyndaren lämna förslag på en god man eller förvaltare, om det inte finns särskilda skäl mot det. *Lag (2026:490)*.
+
+### Interimistiskt beslut
+
+#### 18 §
+
+Om ett slutligt beslut inte kan meddelas omedelbart i ett ärende om att anordna ett godmanskap enligt 4 § eller ett förvaltarskap, får rätten besluta att anordna ett godmanskap eller förvaltarskap för tiden till dess ärendet slutligt avgörs, om den enskildes angelägenheter kräver omedelbar vård eller ett dröjsmål uppenbarligen skulle medföra fara för den enskildes person eller egendom. Ett sådant beslut om att anordna ett godmanskap enligt 4 § får under samma förutsättningar meddelas av överförmyndaren när den är behörig att besluta i frågan. Ett beslut enligt första eller andra meningen får meddelas även för den som är underårig att gälla från och med den dag då han eller hon fyller 18 år.
+
+Om ett slutligt beslut inte kan meddelas omedelbart i ett ärende om att förordna en god man eller förvaltare, får överförmyndaren förordna en god man eller förvaltare för tiden till dess ärendet slutligt avgörs, under samma förutsättningar som anges i första stycket.
+
+Innan ett beslut enligt första eller andra stycket meddelas ska den enskilde ha fått tillfälle att yttra sig, om det kan ske utan större tidsförlust och utan skada för honom eller henne. *Lag (2026:490)*.
+
+### Upphörande och entledigande
+
+#### 19 §
+
+Om en god man eller förvaltare inte längre behövs, ska godmanskapet eller förvaltarskapet upphöra. Ett godmanskap enligt 4 § ska också upphöra om den enskilde inte samtycker till godmanskapet, om den enskildes tillstånd är sådant att samtycke kan lämnas. *Lag (2026:490)*.
+
+En god man som har förordnats enligt 3 § 1-5 ska entledigas så snart den som förordnandet avser begär det. När en god man eller förvaltare har slutfört sitt uppdrag, ska han eller hon
+
+```
+genast anmäla det till överförmyndaren. 
+```
+
+En god man eller förvaltare har rätt att på begäran bli entledigad från sitt uppdrag. Om godmanskapet eller förvaltarskapet ska fortsätta, är den gode mannen eller förvaltaren dock skyldig att kvarstå till dess en ny god man eller förvaltare har utsetts, om inte annat följer av 19 a §. En ny god man eller förvaltare ska förordnas så snart som möjligt. *Lag (2026:490)*.
+
+#### 19 a §
+
+Skyldigheten enligt 19 § tredje stycket att kvarstå som en god man eller förvaltare gäller inte om en god man som har förordnats enligt 4 § eller en förvaltare har skälig orsak att bli entledigad innan en ny god man eller förvaltare har utsetts.
+
+Sker ett entledigande med stöd av första stycket, ska godmanskapet eller förvaltarskapet upphöra, om överförmyndaren har vidtagit alla rimliga åtgärder för att finna någon annan som är lämplig och som vill åta sig uppdraget. *Lag (2026:490)*.
+
+#### 19 b §
+
+Ett beslut om att ett förvaltarskap ska upphöra meddelas av rätten.
+
+Ett beslut om att ett godmanskap ska upphöra meddelas av överförmyndaren. Om någon av de som anges i 4 a § andra stycket första meningen motsätter sig att ett godmanskap enligt 4 § upphör ska överförmyndaren dock överlämna ärendet till rätten för prövning. Detsamma gäller om överförmyndaren bedömer att ett sådant godmanskap inte bör upphöra. Rätten beslutar också om att ett godmanskap ska upphöra med stöd av 19 a § andra stycket.
+
+Ett beslut om att entlediga en god man eller förvaltare med stöd av 19 a § första stycket meddelas av rätten. I övriga fall beslutar överförmyndaren om entledigande av en god man eller förvaltare. *Lag (2026:490)*.
+
+#### 19 c §
+
+I ett ärende om att ett förvaltarskap ska upphöra, får rätten uppdra åt överförmyndaren att inhämta yttranden enligt 16 § andra stycket och utredning enligt 17 §. Detsamma gäller i ett ärende om upphörande av ett godmanskap enligt 4 § som handläggs av rätten. *Lag (2026:490)*.
+
+#### 20 §
+
+En god man eller förvaltare som gör sig skyldig till missbruk eller försummelse vid utövandet av sitt uppdrag eller som kommer på ekonomiskt obestånd och på grund av detta är olämplig för uppdraget eller som av någon annan orsak inte längre är lämplig att inneha uppdraget, ska entledigas.
+
+Uppkommer en fråga om att enligt första stycket entlediga en god man eller förvaltare och kan ett slutligt beslut inte meddelas omedelbart, får överförmyndaren besluta att den gode mannen eller förvaltaren ska skiljas från sitt uppdrag för tiden till dess ärendet avgörs, om ett dröjsmål skulle medföra fara för den som godmanskapet eller förvaltarskapet avser.
+
+*Lag (2026:490)*.
+
+#### 21 §
+
+En ansökan om entledigande av en god man eller förvaltare och om upphörande av ett godmanskap eller förvaltarskap får göras av någon av de som avses i 15 § första stycket, eller av den gode mannen eller förvaltaren. En ansökan om upphörande av ett förvaltarskap får också göras av överförmyndaren.
+
+Rätten eller överförmyndaren får också självmant ta upp en fråga som avses i första stycket och som de enligt 19 b § är behöriga att avgöra.
+
+I ett ärende enligt denna paragraf ska rätten eller överförmyndaren ge den enskilde tillfälle att yttra sig, om det kan ske. *Lag (2026:490)*.
+
+#### 22 §
+
+Dör en god man eller förvaltare, skall den som har boet i sin vård utan dröjsmål anmäla förhållandet till den överförmyndare som har tillsyn över godmanskapet eller förvaltarskapet. *Lag (1994:1433)*.
+
+### Ändring av ett godmanskap eller förvaltarskap
+
+#### 23 §
+
+Rätten ska pröva om omfattningen av ett förvaltarskap bör ändras om någon av de som anges i 15 § första stycket, överförmyndaren eller förvaltaren ansöker om det. Rätten får också utan ansökan göra en sådan prövning.
+
+Överförmyndaren ska pröva om omfattningen av ett godmanskap bör ändras, om någon av de som anges i 15 § första stycket eller den gode mannen ansöker om det. Överförmyndaren får också utan ansökan göra en sådan prövning. I fråga om ett godmanskap enligt 4 § ska överförmyndaren dock överlämna ärendet till rätten för prövning om någon av de som anges i 4 a § andra stycket första meningen motsätter sig att godmanskapet ändras. Detsamma gäller om överförmyndaren bedömer att ett godmanskap inte bör ändras.
+
+Om en fråga enligt andra stycket uppkommer i ett ärende om förvaltarskap, är rätten också behörig att pröva frågan.
+
+*Lag (2026:490)*.
+
+#### 23 a §
+
+Innan rätten eller överförmyndaren meddelar ett beslut enligt 23 §, ska den gode mannen eller förvaltaren ges tillfälle att yttra sig. Detsamma gäller för den enskilde, om det kan ske. Rätten ska även ge överförmyndaren tillfälle att yttra sig.
+
+Kan ett slutligt beslut inte meddelas omedelbart, får rätten eller överförmyndaren, om överförmyndaren är behörig att besluta i ärendet, besluta i frågan för tiden till dess ärendet avgörs, om ett dröjsmål skulle medföra fara för den enskildes person eller egendom. I fråga om ett sådant beslut tillämpas 18 § tredje stycket.
+
+I ett ärende om att ett förvaltarskap ska ändras, får rätten uppdra åt överförmyndaren att inhämta yttranden enligt 16 § andra stycket och utredning enligt 17 §. Detsamma gäller i ett ärende om att ändra ett godmanskap enligt 4 § som handläggs av rätten. *Lag (2026:490)*.
+
+### Ställföreträdarens yttrande
+
+#### 24 §
+
+Innan rätten eller överförmyndaren förordnar någon till god man eller förvaltare eller entledigar någon från ett sådant uppdrag, skall han eller hon ges tillfälle att yttra sig. Är det fråga om beslut enligt 20 § andra stycket, skall den gode mannen eller förvaltaren ges tillfälle att yttra sig, om det inte är fara i dröjsmål. *Lag (1994:1433)*.
+
+### Behörig överförmyndare och domstol
+
+#### 25 §
+
+Behörig domstol i frågor som gäller godmanskap enligt 4 § eller förvaltarskap är tingsrätten i den ort där den enskilde är folkbokförd. Om den enskilde inte är folkbokförd i Sverige, är tingsrätten i den ort där den enskilde vistas behörig domstol.
+
+Behörig överförmyndare i frågor om godmanskap enligt 1, 2 och 4 §§ eller lagen (2005:429) om god man för ensamkommande barn samt i frågor om förvaltarskap är överförmyndaren för den kommun där den enskilde är folkbokförd. Om den enskilde inte är folkbokförd i Sverige, är överförmyndaren för den kommun där den enskilde vistas behörig överförmyndare.
+
+Om det inte finns någon behörig domstol enligt första stycket eller behörig överförmyndare enligt andra stycket, är Stockholms tingsrätt och överförmyndaren för Stockholms kommun behörig domstol respektive behörig överförmyndare.
+
+*Lag (2006:557)*.
+
+#### 26 §
+
+Uppkommer vid utredning av ett dödsbo frågan om förordnande av god man enligt 3 §, hör ärendet till överförmyndaren för den kommun där den döde hade sitt hemvist eller, om den döde inte hade hemvist i Sverige, till överförmyndaren för Stockholms kommun. Skall god man annars förordnas enligt 3 §, tas ärendet upp av överförmyndaren för den kommun där den för vilken god man skall förordnas har egendom eller där annars behov av god man har visat sig.
+
+Andra frågor som gäller godmanskap enligt 3 § tas upp av den överförmyndare som har förordnat god man. *Lag (1994:1433)*.
+
+### Kungörelse
+
+#### 27 §
+
+Rätten ska genast kungöra ett beslut om anordnande eller upphörande av ett förvaltarskap i Post- och Inrikes Tidningar. En sådan kungörelse ska också ske av beslut om ändring av ett förvaltarskaps omfattning enligt 23 § första stycket eller 23 a § andra stycket. *Lag (2026:490)*.
+
+## 12 kap. Allmänna bestämmelser om förmyndares, gode mäns och förvaltares verksamhet
+
+### Förmyndares skyldigheter
+
+#### 1 §
+
+Förmyndare ska förvalta omyndigas tillgångar och företräda dem i angelägenheter som rör tillgångarna.
+
+Detta gäller inte i fråga om tillgångar som omyndiga enligt lag själva råder över eller som de har förvärvat genom gåva, testamente eller förmånstagarförordnande vid försäkring, pensionssparande enligt lagen (1993:931) om individuellt pensionssparande eller sparande i en sådan PEPP-produkt som avses i Europaparlamentets och rådets förordning (EU) 2019/1238 med villkor att egendomen ska stå under förvaltning av någon annan än förmyndaren, utan bestämmanderätt för förmyndaren, och med angivande av vem som ska utöva förvaltningen (särskild förvaltning). Är särskild förvaltning anordnad, ska den som utövar förvaltningen årligen lämna redovisning över förvaltningen till förmyndaren.
+
+Förmyndaren företräder i övrigt den omyndige när detta inte enligt lag ska göras av någon annan. *Lag (2022:1747)*.
+
+### Gode mäns och förvaltares skyldigheter
+
+#### 2 §
+
+Gode män och förvaltare ska, i den utsträckning det följer av deras förordnande, se till att den enskildes intressen i ekonomiska och personliga angelägenheter tas om hand och bevaka den enskildes rätt i dessa angelägenheter.
+
+Även om det inte framgår av förordnandet, omfattar den gode mannens eller förvaltarens uppdrag inte sådana tillgångar som har ställts under särskild förvaltning. Är särskild förvaltning anordnad, ska den som utövar förvaltningen årligen lämna en redovisning över förvaltningen till den gode mannen eller förvaltaren, om det faller inom ramen för den gode mannens eller förvaltarens uppdrag att ta emot en sådan redovisning.
+
+Gode män och förvaltare är inte behöriga att företräda den enskilde i frågor om att ingå äktenskap, bekräfta faderskap, upprätta testamente eller liknande frågor av utpräglat personlig karaktär. *Lag (2026:490)*.
+
+### Gemensamma bestämmelser
+
+#### 3 §
+
+Förmyndare, gode män och förvaltare ska omsorgsfullt fullgöra sina skyldigheter. De ska beakta den enskildes vilja eller förmodade inställning när uppdraget utförs och alltid handla på det sätt som bäst gagnar den enskilde.
+
+*Lag (2026:490)*.
+
+#### 4 §
+
+Den enskildes medel ska i skälig omfattning användas för hans eller hennes uppehälle, utbildning samt nytta och välbefinnande i övrigt. De medel som inte används för sådana ändamål ska placeras tryggt och så att de ger skälig avkastning.
+
+Närmare bestämmelser om hur förvaltningen ska skötas finns i 13-15 kap. *Lag (2026:490)*.
+
+#### 5 §
+
+Förmyndare, gode män och förvaltare skall fortlöpande föra räkenskaper över sin förvaltning och göra anteckningar om sina åtgärder i övrigt. Föräldrar är dock skyldiga att föra räkenskaper och göra anteckningar endast i den utsträckning som kan anses behövlig med hänsyn till egendomens omfattning och omständigheterna i övrigt. *Lag (1994:1433)*.
+
+#### 6 §
+
+Förmyndare, gode män och förvaltare skall se till att pengar och värdepapper som tillhör den enskilde förvaras så att de inte sammanblandas med tillgångar som ställföreträdaren annars förvaltar.
+
+Om den enskilde äger värdehandlingar eller annars har rättigheter på grund av sådana handlingar, svarar förmyndaren, den gode mannen eller förvaltaren för att behövliga registreringar och anmälningar görs.
+
+*Lag (1994:1433)*.
+
+#### 7 §
+
+I viktiga frågor ska förmyndaren, om det lämpligen kan ske, höra den omyndige, om han eller hon har fyllt 16 år, och den omyndiges sambo.
+
+Gode män och förvaltare har motsvarande skyldigheter i förhållande till den enskilde samt den enskildes make eller sambo. Om betydelsen av samtycke i vissa fall från den som har god man finns bestämmelser i 11 kap. 5 §. *Lag (2014:377)*.
+
+#### 7 a §
+
+Gode män och förvaltare ska löpande hålla den enskilde informerad om uppdraget, om det inte finns särskilda skäl mot det.
+
+Förordnade förmyndare har motsvarande skyldighet i förhållande till omyndiga som har fyllt 16 år. *Lag (2026:490)*.
+
+#### 8 §
+
+Uppstår fråga om rättshandling eller rättegång mellan en omyndig och förmyndaren, förmyndarens make eller sambo eller någon som förmyndaren företräder, har förmyndaren inte rätt att företräda den omyndige. Har syskon samma förmyndare, får förmyndaren dock företräda de omyndiga vid arvskifte mellan dem, om de inte har inbördes stridande intressen.
+
+En god man eller förvaltare har inte rätt att företräda den enskilde, om det uppstår en fråga om rättshandling eller rättegång mellan den enskilde å ena sidan och den gode mannen eller förvaltaren, hans eller hennes make eller sambo eller någon som han eller hon företräder å den andra sidan.
+
+Om en förmyndare, god man eller förvaltare har slutit avtal i strid med första eller andra stycket, tillämpas 9 kap. 7 § första stycket i fråga om återbärings- och ersättningsskyldighet. *Lag (1994:1433)*.
+
+### Överförmyndarens tillsyn
+
+#### 9 §
+
+Förmyndares, gode mäns och förvaltares verksamhet står under överförmyndarens tillsyn.
+
+Förmyndare, gode män och förvaltare är skyldiga att lämna överförmyndaren de handlingar och upplysningar om sin verksamhet som överförmyndaren begär. *Lag (2026:490)*.
+
+#### 9 a §
+
+Förordnade förmyndare, gode män och förvaltare ska före den 1 mars varje år i en årsberättelse till överförmyndaren redogöra för utförandet av uppdraget under föregående år.
+
+Om uppdraget har upphört, ska den avgående ställföreträdaren inom en månad från det att uppdraget upphörde lämna en slutberättelse för det löpande året fram till dess att ställföreträdarskapet upphörde.
+
+Det som sägs i 14 kap. 19 och 20 §§ gäller även i fråga om årsberättelser och slutberättelser. *Lag (2026:490)*.
+
+### Avtal utan överförmyndarens samtycke
+
+#### 10 §
+
+Om en förmyndare, god man eller förvaltare har ingått avtal för den enskildes räkning utan att inhämta samtycke från överförmyndaren, trots att samtycke krävs enligt 13-15 kap., får motparten inte frånträda avtalet, om förmyndaren, gode mannen eller förvaltaren begär överförmyndarens samtycke inom en månad från det att avtalet ingicks och något annat förbehåll inte har gjorts. Om överförmyndaren inte lämnar sitt samtycke, får motparten frånträda avtalet, om inte något annat har överenskommits.
+
+Om en förmyndare, god man eller förvaltare har ingått ett avtal som innebär skuldsättning för den enskilde utan att inhämta samtycke som krävs enligt 13 kap. 12 § första stycket 1 eller 14 kap. 13 § första stycket 1, får motparten inte heller frånträda avtalet sedan det har blivit fullgjort.
+
+*Lag (2008:910)*.
+
+#### 11 §
+
+Om ett avtal som avses i 10 § inte blir gällande, tillämpas 9 kap. 7 § första stycket i fråga om återbärings- och ersättningsskyldighet. *Lag (1994:1433)*.
+
+### Flera förmyndare, gode män eller förvaltare
+
+#### 12 §
+
+Om en persons egendom skall förvaltas av fler än en förmyndare, god man eller förvaltare, skall ställföreträdarna utöva förvaltningen gemensamt. Överförmyndaren kan dock besluta att förvaltningen av tillgångarna skall fördelas på visst sätt mellan ställföreträdarna eller att vissa tillgångar skall förvaltas av en av dem ensam. I samband med att rätten förordnar en ställföreträdare kan även rätten meddela ett sådant beslut.
+
+Om de som utövar förvaltningen gemensamt inte kan enas om en viss åtgärd, gäller den mening som överförmyndaren biträder. Om det är fråga om en åtgärd som kräver överförmyndarens samtycke, kan samtycke ges till åtgärden även om det finns delade meningar. Överförmyndaren skall dock ge alla dem som har del i förvaltningen tillfälle att yttra sig innan överförmyndaren beslutar i saken. *Lag (1994:1433)*.
+
+### Ställande av säkerhet
+
+#### 13 §
+
+Om överförmyndaren finner skäl till det, skall förmyndare, gode män eller förvaltare ställa säkerhet för den förvaltade egendomen.
+
+Överförmyndaren prövar säkerheten och bestämmer hur den skall förvaras. I övrigt tillämpas 2 kap. 25 § utsökningsbalken. *Lag (1994:1433)*.
+
+### Skadestånd
+
+#### 14 §
+
+Förmyndare, gode män och förvaltare är skyldiga att ersätta skada som de uppsåtligen eller av vårdslöshet har orsakat den enskilde.
+
+Om flera förmyndare, gode män eller förvaltare är ansvariga, svarar de solidariskt för ersättningen. Ersättningsansvaret skall slutligt fördelas mellan de ansvariga efter vars och ens grad av vållande. Om någon saknar tillgångar att betala sin andel med, skall de övrigas ansvarighet för bristen bestämmas enligt samma grunder. *Lag (1994:1433)*.
+
+#### 15 §
+
+Talan om ersättning enligt 14 § ska väckas inom tre år från det att handlingar som anges i 16 kap. 8 § har lämnats över till den som är behörig att ta emot redovisning för förvaltningen. Om talan inte väcks inom nämnda tid, är talerätten förlorad. Detta gäller inte, om ställföreträdaren har gjort sig skyldig till brottsligt förfarande.
+
+*Lag (2008:910)*.
+
+### Arvode och ersättning för utgifter
+
+#### 16 §
+
+Förordnade förmyndare, gode män och förvaltare har rätt till ett skäligt arvode för uppdraget och ersättning för de utgifter som har varit skäligen motiverade för att fullgöra uppdraget.
+
+Ersättning för utgifter som varit skäligen motiverade får utan att ställföreträdaren visar underlag beviljas med ett belopp som per år motsvarar högst två procent av prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken. *Lag (2026:490)*.
+
+#### 16 a §
+
+Arvode och ersättning för utgifter, inklusive de avgifter och skatter som utgår på dem, ska betalas med den enskildes medel i den utsträckning som hans eller hennes beräknade inkomst under det år uppdraget utförs överstiger 2,65 gånger prisbasbeloppet enligt 2 kap. 6 och 7 §§ social- försäkringsbalken eller hans eller hennes tillgångar under samma år överstiger två gånger prisbasbeloppet. Detta gäller dock inte om det finns särskilda skäl för något annat.
+
+Arvode och ersättning för utgifter som avser vård av någons rätt i oskiftat dödsbo ska betalas med dödsboets medel, om det inte finns särskilda skäl för något annat.
+
+Arvode och ersättning för utgifter som inte ska betalas med den enskildes eller dödsboets medel ska betalas av kommunen.
+
+*Lag (2026:490)*.
+
+#### 16 b §
+
+Överförmyndaren beslutar om arvode och ersättning för utgifter till förordnade förmyndare, gode män och förvaltare. Överförmyndaren bestämmer dessutom i vilken utsträckning arvode och ersättning för utgifter ska betalas med medel som tillhör den enskilde. *Lag (2026:490)*.
+
+#### 17 §
+
+Föräldrar som är förmyndare har, om det finns särskilda skäl, rätt till arvode med anledning av förvaltningen av den omyndiges egendom. De har också rätt till ersättning för utgifter som har varit skäligen påkallade av förvaltningen.
+
+Beslut om arvode och ersättning för utgifter fattas av överförmyndaren. Beloppen skall betalas med den omyndiges medel eller, om det gäller dödsboförvaltning, med dödsboets tillgångar. *Lag (1994:1433)*.
+
+## 13 kap. Föräldrars förmyndarförvaltning
+
+### Föräldrars rådighet
+
+#### 1 §
+
+När en omyndigs föräldrar är förmyndare, bestämmer de hur tillgångar som står under deras förvaltning skall användas eller placeras, om inte annat följer av denna balk eller annan författning.
+
+Om en av föräldrarna till följd av frånvaro eller sjukdom eller av någon annan orsak är förhindrad att ta del i sådana beslut om förvaltningen som inte kan skjutas upp utan olägenhet, bestämmer den andra föräldern ensam. Denna förälder får dock inte ensam fatta beslut av ingripande betydelse, om inte den omyndiges bästa uppenbarligen kräver det.
+
+Om endast en av föräldrarna är förmyndare, gäller bestämmelserna om föräldrar honom eller henne.
+
+I fråga om vård av en omyndigs rätt i dödsbo eller annat oskiftat bo gäller bestämmelserna i 15 kap. *Lag (1994:1433)*.
+
+### Kontroll av förvaltningen av viss egendom
+
+#### 2 §
+
+När värdet på en omyndigs tillgångar, som ska förvaltas av föräldrarna, genom arv, gåva, värdestegring eller på något annat sätt har kommit att överstiga åtta gånger gällande prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, tillämpas bestämmelserna i 3-7 §§ för förvaltningen.
+
+Dessa bestämmelser gäller även egendom som, under villkor om att förvaltningen av den ska stå under överförmyndarens kontroll (särskild överförmyndarkontroll), har tillfallit den omyndige
+
+1. genom arv eller testamente,
+
+2. genom gåva, under förutsättning att givaren skriftligen har anmält gåvan till överförmyndaren, eller
+
+3. genom förmånstagarförordnande vid
+
+- försäkring med anledning av dödsfall,
+
+- pensionssparande enligt lagen (1993:931) om individuellt pensionssparande, eller
+
+- sparande i en sådan PEPP-produkt som avses i Europaparlamentets och rådets förordning (EU) 2019/1238.
+
+Med egendom som anges i andra stycket jämställs egendom som har trätt i stället för sådan egendom samt avkastning av egendomen. *Lag (2022:1747)*.
+
+#### 3 §
+
+Inom en månad efter det att värdet på en omyndigs tillgångar överstigit det belopp som anges i 2 § första stycket skall föräldrarna ge in en förteckning över den omyndiges egendom till överförmyndaren.
+
+Har egendom tillfallit en omyndig med villkor om särskild överförmyndarkontroll enligt 2 § andra stycket, skall föräldrarna ge in en förteckning över egendomen till överförmyndaren inom en månad därefter.
+
+Förteckningarna skall avges på heder och samvete. *Lag (1994:1433)*.
+
+#### 4 §
+
+Andra värdehandlingar än sådana som nämns i 5 § första stycket skall säljas och fordringar drivas in så snart det lämpligen kan ske, om det inte är till fördel för den omyndige att värdehandlingarna behålls eller att fordringarna förblir utestående.
+
+Annan lös egendom än som nu har nämnts och som inte omfattas av 10 § skall säljas vid en lämplig tidpunkt, om inte egendomen är till nytta eller har särskilt värde för den omyndige eller den omyndiges familj eller egendomen av någon annan särskild anledning bör behållas. *Lag (1994:1433)*.
+
+#### 5 §
+
+Den omyndiges tillgångar får utan samtycke av överförmyndaren placeras i
+
+1. skuldförbindelser som har utfärdats eller garanterats av stat eller kommun,
+
+2. skuldförbindelser som har utfärdats av Svenska skeppshypotekskassan eller av en bank eller av ett kreditmarknadsföretag enligt lagen (2004:297) om bank- och finansieringsrörelse eller av ett utländskt bankföretag eller ett annat utländskt kreditinstitut som är underkastat en offentlig reglering som väsentligen stämmer överens med den som gäller för banker eller andra kreditinstitut här i landet, med undantag för förlagsbevis eller andra skuldförbindelser som medför rätt till betalning först efter utfärdarens övriga fordringsägare, eller
+
+3. andelar i en värdepappersfond som avses i lagen (2004:46) om värdepappersfonder eller i ett utländskt fondföretag som är underkastat en offentlig reglering som väsentligen stämmer överens med den som gäller för värdepappersfonder här i landet.
+
+Den omyndiges tillgångar får vidare utan överförmyndarens samtycke lånas ut mot säkerhet av panträtt på grundval av inteckning i fast egendom inom sextio procent av det senast fastställda taxeringsvärdet. *Lag (2013:562)*.
+
+#### 6 §
+
+Om överförmyndaren samtycker till det, får den omyndiges tillgångar placeras i aktier och även i övrigt placeras på något annat sätt än som anges i 5 §.
+
+I fråga om köp av fast egendom m.m. finns bestämmelser i 10 §. *Lag (1994:1433)*.
+
+#### 7 §
+
+Pengar som inte placeras enligt 5, 6 eller 10 § och som inte heller omedelbart behöver användas ska göras räntebärande genom att sättas in hos bank eller kreditmarknadsföretag. I anslutning till en placering enligt 5 eller 6 § får pengar dock föras över till ett konto hos ett värdepappersbolag, även om någon ränta inte är avtalad. *Lag (2008:910)*.
+
+### Bankmedel
+
+#### 8 §
+
+Pengar som har satts in hos bank eller kreditmarknadsföretag enligt 16 kap. 11 § eller med uppgift till banken eller kreditmarknadsföretaget om att de skall stå under särskild överförmyndarkontroll får inte tas ut utan överförmyndarens samtycke. *Lag (2004:422)*.
+
+### Upphävande av eller lättnader i kontrollen
+
+#### 9 §
+
+Överförmyndaren ska besluta att bestämmelserna i 4-7 §§ inte längre ska tillämpas, om värdet på den omyndiges tillgångar har kommit att sjunka till ett belopp som understiger fyra gånger gällande prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken och det inte finns särskild anledning att låta kontrollen fortgå.
+
+Ett beslut enligt första stycket gäller inte egendom som har tillfallit den omyndige under villkor om särskild överförmyndarkontroll.
+
+Om det med hänsyn till föräldrarnas och den omyndiges förhållanden eller i övrigt finns särskilda skäl, får överförmyndaren helt eller delvis besluta om undantag från 3-7 §§. *Lag (2010:1203)*.
+
+### Fast egendom m.m.
+
+#### 10 §
+
+För den omyndiges räkning får föräldrar endast med överförmyndarens samtycke
+
+1. genom köp, byte eller gåva förvärva fast egendom eller nyttjanderätt till sådan egendom, om det inte gäller övertagande av hyresrätt till en bostadslägenhet,
+
+2. ingå avtal om nyttjanderätt till någon annans fasta egendom, om det inte gäller hyra av en bostadslägenhet eller en tillfällig upplåtelse av ringa ekonomisk betydelse,
+
+3. sälja eller byta bort fast egendom eller nyttjanderätt till sådan egendom, om det inte gäller byte av en bostadslägenhet, eller
+
+4. låta inteckna, hyra ut eller på något annat sätt med nyttjanderätt upplåta fast egendom eller tomträtt.
+
+Samtycke till en åtgärd som avses i första stycket 1 eller 2 skall lämnas, om inte förvärvet eller avtalet kan anses olämpligt med hänsyn till egendomens natur, den omyndiges ålder och framtida behov eller andra omständigheter.
+
+Samtycke till en åtgärd som avses i första stycket 3 eller 4 får lämnas endast om åtgärden är lämplig med hänsyn till egendomens natur samt den omyndiges ålder, framtida behov och samlade tillgångar.
+
+Bestämmelserna om nyttjanderätt gäller även i fråga om servitut och rätt till elektrisk kraft, om rättigheten har upplåtits genom avtal.
+
+Samtycke enligt denna paragraf gäller under sex månader från det att samtycket lämnades. *Lag (1994:1433)*.
+
+### Bortgivande av egendom
+
+#### 11 §
+
+Föräldrar får inte ge bort den omyndiges egendom, om det inte är fråga om personliga presenter vars värde inte står i missförhållande till den omyndiges ekonomiska villkor.
+
+Med överförmyndarens samtycke får föräldrar använda den omyndiges inkomster till understöd åt anhöriga eller andra som står den omyndige nära. *Lag (1994:1433)*.
+
+### Upptagande av lån m.m.
+
+#### 12 §
+
+För den omyndiges räkning får föräldrar endast med överförmyndarens samtycke
+
+1. ta upp lån eller företa någon annan rättshandling som innebär att den omyndige sätts i skuld,
+
+2. ingå borgensförbindelse, eller
+
+3. ställa den omyndiges egendom som säkerhet för den omyndiges eller någon annans förbindelse.
+
+Är det fråga om åtgärder enligt första stycket som faller inom ramen för en rörelse som föräldrarna med överförmyndarens samtycke driver för den omyndiges räkning, behövs samtycke endast i fråga om pantsättning av fast egendom eller tomträtt.
+
+Samtycke behövs inte i fråga om statliga lån som tas upp för att ge den omyndige hjälp till utbildning eller bosättning.
+
+Samtycke får lämnas endast om åtgärden behövs för att trygga den omyndiges övriga egendom eller kan anses nödvändig för den omyndiges utbildning eller uppehälle eller om det annars finns särskilda skäl för åtgärden. *Lag (2008:910)*.
+
+### Rörelse
+
+#### 13 §
+
+Föräldrar får inte låta den som är under sexton år driva rörelse.
+
+Om den omyndige har fyllt sexton år, får föräldrarna endast med överförmyndarens samtycke låta honom eller henne driva en rörelse som medför bokföringsskyldighet enligt bokföringslagen (1999:1078). Utan överförmyndarens samtycke får föräldrarna inte själva driva en sådan rörelse för den omyndiges räkning.
+
+Samtycke får lämnas endast om den omyndiges ekonomiska och personliga förhållanden är sådana att det med beaktande av rörelsens art är lämpligt att samtycke ges. *Lag (1999:1080)*.
+
+### Redovisning av viss egendom
+
+#### 14 §
+
+Föräldrar skall före den 1 mars varje år i en årsräkning till överförmyndaren redogöra för förvaltningen under föregående år av egendom som avses i 2 § samt sådan egendom som omfattas av bestämmelserna om samtycke enligt 10 §. Årsräkningen skall avges på heder och samvete.
+
+I årsräkningen skall anges
+
+1. egendomen och dess värde vid början och slutet av den tid som räkningen avser,
+
+2. skulder som hänför sig till egendomen vid samma tidpunkter, och
+
+3. inkomster av egendomen och utgifter som har betalats med egendomen eller dess avkastning. *Lag (1994:1433)*.
+
+#### 15 §
+
+Har den omyndige fyllt arton år eller har föräldrarna dessförinnan entledigats som förmyndare, skall de inom en månad därefter lämna en sluträkning till överförmyndaren beträffande egendom som avses i 2 § samt sådan egendom som omfattas av bestämmelserna om samtycke enligt 10 §. Sluträkning skall vidare lämnas inom en månad när ett villkor enligt 2 § andra stycket om särskild överförmyndarkontroll återkallats eller överförmyndaren enligt 9 § första stycket beslutat att överförmyndarkontrollen skall upphöra.
+
+Sluträkningen skall innehålla en redogörelse för förvaltningen under det löpande året fram till dess att förmynderskapet upphörde, villkoret om särskild överförmyndarkontroll återkallades eller överförmyndaren beslutade att kontrollen skulle upphöra. Räkningen skall avges på heder och samvete.
+
+Vad som sägs om årsräkning i 14 § andra stycket gäller också i fråga om sluträkning. *Lag (1994:1433)*.
+
+#### 16 §
+
+Om det med hänsyn till föräldrarnas och den omyndiges förhållanden, tillgångarnas art eller värde eller omständigheterna i övrigt finns särskilda skäl, får överförmyndaren befria föräldrarna från skyldigheten att lämna årsräkning eller sluträkning eller besluta att sådana räkningar får lämnas i förenklad form. I fråga om årsräkning får beslut meddelas för ett visst år eller tills vidare.
+
+*Lag (1994:1433)*.
+
+#### 17 §
+
+Anmäler föräldrarna att de är förhindrade att inom föreskriven tid lämna förteckning enligt 3 §, årsräkning eller sluträkning till överförmyndaren, kan överförmyndaren bestämma ny tid för avlämnandet.
+
+*Lag (1994:1433)*.
+
+### Särskilda beslut av överförmyndaren i vissa fall
+
+#### 18 §
+
+Överförmyndaren får förelägga föräldrarna att i årsräkning eller på annat sätt redogöra för sin förvaltning utöver vad som följer av 14 och 15 §§, om den omyndige begär det eller om det annars finns särskilda skäl. *Lag (1994:1433)*.
+
+#### 19 §
+
+Om det av någon särskild anledning behövs för att trygga förvaltningen, får överförmyndaren
+
+1. besluta att 3-7 §§ ska tillämpas även i andra fall än som följer av 2 §,
+
+2. begränsa möjligheten att ta ut pengar som har satts in hos bank, kreditmarknadsföretag eller värdepappersbolag, utöver vad som följer av 8 §,
+
+3. besluta att värdehandlingar ska förvaras och förvaltas av ett värdepappersinstitut enligt lagen (2007:528) om värdepappersmarknaden eller ett motsvarande utländskt institut som är underkastat en offentlig reglering som väsentligen stämmer överens med den som gäller för värdepappersinstitut i Sverige,
+
+4. genom meddelande till en värdepapperscentral, den som för ett register enligt 4 kap. 11 § lagen (2004:46) om värdepappersfonder eller enligt 12 kap. 5 § lagen (2013:561) om förvaltare av alternativa investeringsfonder eller den som har registrerats som förvaltare av finansiella instrument eller andelar i värdepappersfonder eller i specialfonder, begränsa föräldrars möjlighet att förfoga över rättigheter som registreras i avstämningsregister enligt lagen (1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument eller i motsvarande utländskt register eller som avses i lagen om värdepappersfonder eller i lagen om förvaltare av alternativa investeringsfonder, och
+
+5. genom meddelande till den som ska betala pengar till den omyndige besluta att pengarna ska sättas in hos bank eller kreditmarknadsföretag.
+
+Meddelas beslut enligt första stycket 3, ska föräldrarna träffa avtal med ett värdepappersinstitut på villkor som överförmyndaren har godkänt.
+
+Ett värdepappersinstitut är skyldigt att träffa ett sådant avtal om förvaring och förvaltning som avses i andra stycket. Avtalet får inte träffas på sämre villkor än de som värdepappersinstitutet erbjuder andra enskilda personer vid samma typ av avtal. *Lag (2016:43)*.
+
+### Vissa åtgärder vid förvaltningens upphörande
+
+#### 20 §
+
+Om föräldrarnas förvaltning upphör därför att barnet har blivit myndigt, skall föräldrarna genast överlämna de förvaltade tillgångarna till honom eller henne. Om föräldrarnas förvaltning upphör därför att någon annan skall överta förvaltningen, skall föräldrarna genast överlämna de förvaltade tillgångarna till denna person. *Lag (1994:1433)*.
+
+#### 21 §
+
+När föräldrarnas förvaltning upphör, skall de hålla sina räkenskaper och övriga handlingar som rör förvaltningen tillgängliga för granskning. Om det behövs, skall överförmyndaren bestämma tid och plats för en sådan granskning.
+
+Sedan tiden för att väcka talan enligt 12 kap. 15 § har gått ut eller, om talan har väckts, det finns en dom i ersättningsfrågan som vunnit laga kraft, skall räkenskaper och övriga handlingar som rör förvaltningen lämnas över till den som är behörig att ta emot redovisning över förvaltningen. *Lag (1994:1433)*.
+
+### Föräldrars död eller konkurs
+
+#### 22 §
+
+Dör en av föräldrarna, skall dödsboet svara för att den omyndiges egendom redovisas och åtgärder vid förvaltningens upphörande vidtas enligt detta kapitel, om inte förvaltningen skall skötas av den andra föräldern. Vad som nu har sagts om dödsbo gäller konkursförvaltaren, om en av föräldrarna försätts i konkurs. *Lag (1994:1433)*.
+
+## 14 kap. Förordnade förmyndares, gode mäns och förvaltares vård av egendom
+
+### Förteckningar över egendom
+
+#### 1 §
+
+Förordnade förmyndare, gode män och förvaltare skall inom två månader efter förordnandet lämna en förteckning till överförmyndaren över den egendom som de förvaltar. Förteckningen skall avges på heder och samvete.
+
+En förteckning som lämnas av en god man som har förordnats enligt 11 kap. 1 § behöver endast ta upp den lösa egendom som den gode mannen har tagit hand om.
+
+Skyldigheten att lämna en förteckning gäller inte vid byte av förordnad förmyndare, god man eller förvaltare.
+
+I fråga om bevakning av någons rätt i dödsbo eller annat oskiftat bo gäller bestämmelserna i 15 kap. *Lag (1994:1433)*.
+
+#### 2 §
+
+Om en god mans eller förvaltares uppdrag har utvidgats, ska den gode mannen eller förvaltaren inom en månad från beslutet lämna en förteckning till överförmyndaren över den egendom som omfattas av det utvidgade uppdraget. Förteckningen ska lämnas på heder och samvete. *Lag (2026:490)*.
+
+### Förvaltning av egendom
+
+#### 3 §
+
+I fråga om egendom som står under en förordnad förmyndares, god mans eller förvaltares förvaltning gäller 4-11 §§. *Lag (1994:1433)*.
+
+#### 4 §
+
+Andra värdehandlingar än sådana som nämns i 5 § första stycket ska säljas och fordringar drivas in så snart det lämpligen kan ske, om det inte är till fördel för den enskilde att värdehandlingarna behålls eller att fordringarna förblir utestående.
+
+Annan lös egendom som inte omfattas av 11 § ska säljas vid en lämplig tidpunkt, om inte egendomen är till nytta eller har särskilt värde för den enskilde eller den enskildes familj eller egendomen av någon annan särskild anledning bör behållas.
+
+*Lag (2008:910)*.
+
+#### 5 §
+
+Den enskildes tillgångar får utan samtycke av överförmyndaren placeras i
+
+1. skuldförbindelser som har utfärdats eller garanterats av stat eller kommun,
+
+2. skuldförbindelser som har utfärdats av Svenska Skeppshypotekskassan eller av en bank eller av ett kreditmarknadsföretag enligt lagen (2004:297) om bank- och finansieringsrörelse eller av ett utländskt bankföretag eller ett annat utländskt kreditinstitut som är underkastat en offentlig reglering som väsentligen stämmer överens med den som gäller för banker eller andra kreditinstitut här i landet, med undantag för förlagsbevis eller andra skuldförbindelser som medför rätt till betalning först efter utfärdarens övriga fordringsägare, eller
+
+3. andelar i en värdepappersfond som avses i lagen (2004:46) om värdepappersfonder eller i ett utländskt fondföretag som är underkastat en offentlig reglering som väsentligen stämmer överens med den som gäller för värdepappersfonder här i landet.
+
+Den enskildes tillgångar får vidare utan överförmyndarens samtycke lånas ut mot säkerhet av panträtt på grundval av inteckning i fast egendom inom sextio procent av det senast fastställda taxeringsvärdet. *Lag (2013:562)*.
+
+#### 6 §
+
+Om överförmyndaren samtycker till det, får den enskildes tillgångar placeras i aktier och även i övrigt placeras på något annat sätt än som anges i 5 §.
+
+I fråga om köp av fast egendom m.m. finns bestämmelser i 11 §. *Lag (1994:1433)*.
+
+#### 7 §
+
+Pengar som inte placeras enligt 5, 6 eller 11 § och inte heller omedelbart behöver användas ska göras räntebärande genom att sättas in hos bank eller kreditmarknadsföretag. I anslutning till en placering enligt 5 eller 6 § får pengar dock föras över till ett konto hos ett värdepappersbolag, även om någon ränta inte är avtalad. *Lag (2008:910)*.
+
+#### 8 §
+
+Pengar som har satts in hos bank eller kreditmarknadsföretag får tas ut endast efter samtycke från överförmyndaren.
+
+Samtycke krävs dock inte vid uttag av
+
+1. ränta som är upplupen under innevarande och föregående år, eller
+
+2. pengar som behöver hållas tillgängliga för den enskildes uppehälle eller vården av hans eller hennes egendom om den förordnade förmyndaren, gode mannen eller förvaltaren vid insättningen gjort förbehåll om att de får tas ut utan överförmyndarens samtycke. *Lag (2008:910)*.
+
+#### 9 §
+
+Har upphävts genom *lag (2008:910)*.
+
+#### 10 §
+
+Om det finns särskilda skäl, får överförmyndaren helt eller delvis besluta om undantag från 4-8 §§.
+
+*Lag (2008:910)*.
+
+### Fast egendom m.m.
+
+#### 11 §
+
+För den enskildes räkning får en förordnad förmyndare, god man eller förvaltare endast med överförmyndarens samtycke
+
+1. genom köp, byte eller gåva förvärva fast egendom eller nyttjanderätt till sådan egendom, om det inte gäller övertagande av hyresrätt till en bostadslägenhet,
+
+2. ingå avtal om nyttjanderätt till någon annans fasta egendom, om det inte gäller hyra av en bostadslägenhet eller en tillfällig upplåtelse av ringa ekonomisk betydelse,
+
+3. sälja eller byta bort fast egendom eller nyttjanderätt till sådan egendom, om det inte gäller byte av en bostadslägenhet, eller
+
+4. låta inteckna, hyra ut eller på något annat sätt med nyttjanderätt upplåta fast egendom eller tomträtt.
+
+Samtycke till en åtgärd som avses i första stycket 1 eller 2 skall lämnas, om inte förvärvet eller avtalet kan anses olämpligt med hänsyn till egendomens natur eller andra omständigheter.
+
+Samtycke till en åtgärd som avses i första stycket 3 eller 4 får lämnas endast om åtgärden är lämplig med hänsyn till egendomens natur samt den enskildes behov och samlade tillgångar.
+
+Bestämmelserna om nyttjanderätt gäller även i fråga om servitut och rätt till elektrisk kraft, om rättigheten har upplåtits genom avtal.
+
+Samtycke enligt denna paragraf gäller under sex månader från det att samtycket lämnades. *Lag (1994:1433)*.
+
+### Bortgivande av egendom
+
+#### 12 §
+
+En förordnad förmyndare, god man eller förvaltare får inte ge bort den enskildes egendom, om det inte är fråga om personliga presenter vars värde inte står i missförhållande till den enskildes ekonomiska villkor.
+
+Med överförmyndarens samtycke får den enskildes inkomster användas till understöd åt anhöriga eller andra som står den enskilde nära.
+
+*Lag (1994:1433)*.
+
+### Upptagande av lån m.m.
+
+#### 13 §
+
+För den enskildes räkning får en förordnad förmyndare, god man eller förvaltare endast med överförmyndarens samtycke
+
+1. ta upp lån eller företa någon annan rättshandling som innebär att den enskilde sätts i skuld,
+
+2. ingå borgensförbindelse, eller
+
+3. ställa den enskildes egendom som säkerhet för den enskildes eller någon annans förbindelse.
+
+Är det fråga om åtgärder enligt första stycket som faller inom ramen för en rörelse som ställföreträdaren med överförmyndarens samtycke driver för den enskildes räkning, behövs samtycke endast i fråga om pantsättning av fast egendom eller tomträtt.
+
+Samtycke behövs inte i fråga om statliga lån som tas upp för att ge den enskilde hjälp till utbildning eller bosättning.
+
+Samtycke får lämnas endast om åtgärden behövs för att trygga den enskildes övriga egendom eller kan anses nödvändig för hans eller hennes utbildning eller uppehälle eller om det annars finns särskilda skäl för åtgärden. *Lag (2008:910)*.
+
+### Rörelse
+
+#### 14 §
+
+En god man eller förvaltare får endast med överförmyndarens samtycke låta den enskilde driva en rörelse som medför bokföringsskyldighet enligt bokföringslagen (1999:1078). Utan överförmyndarens samtycke får den gode mannen eller förvaltaren inte driva en sådan rörelse för den enskildes räkning. Samtycke får lämnas endast om den enskildes ekonomiska och personliga förhållanden är sådana att det med beaktande av rörelsens art är lämpligt att samtycke ges.
+
+I fråga om förordnade förmyndare tillämpas 13 kap. 13 §.
+
+*Lag (1999:1080)*.
+
+### Redovisning av förvaltad egendom
+
+#### 15 §
+
+Förordnade förmyndare, gode män och förvaltare ska före den 1 mars varje år i en årsräkning till överförmyndaren redogöra för förvaltningen under föregående år av den egendom som har stått under ställföreträdarens förvaltning. Årsräkningen ska lämnas på heder och samvete.
+
+I årsräkningen ska anges den enskildes tillgångar och skulder vid början och slutet av den tid som räkningen avser. Vidare ska en sammanställning göras av inkomster och utgifter under den nämnda tiden. Av årsräkningen ska särskilt framgå hur mycket som har använts för den enskildes uppehälle eller nytta och välbefinnande i övrigt. Om en ställföreträdare har begärt ersättning för utgifter utan att visa underlag enligt 12 kap. 16 § andra stycket ska detta redovisas särskilt i årsräkningen. *Lag (2026:490)*.
+
+#### 16 §
+
+Överförmyndaren får besluta att en förordnad förmyndare, god man eller förvaltare i särskild ordning skall redogöra för den del av den enskildes tillgångar och skulder som inte omfattas av ställföreträdarens förvaltning, i den mån tillgångarna och skulderna är kända för ställföreträdaren. *Lag (1994:1433)*.
+
+#### 17 §
+
+En god man skall hålla överförmyndaren underrättad om sådana åtgärder från den enskildes sida som kan påverka den gode mannens förvaltningsansvar i mera betydande omfattning. *Lag (1994:1433)*.
+
+#### 18 §
+
+Om en förordnad förmyndares, god mans eller förvaltares uppdrag har upphört, ska den som frånträder uppdraget inom en månad därefter lämna en sluträkning till överförmyndaren beträffande den egendom som har stått under hans eller hennes förvaltning. Sluträkningen ska innehålla en redogörelse för förvaltningen under det löpande året fram till dess att ställ- företrädarskapet upphörde. Räkningen ska lämnas på heder och samvete.
+
+Det som sägs om årsräkning i 15 § andra stycket gäller också i fråga om sluträkning.
+
+Om omfattningen av en god mans eller förvaltares uppdrag har inskränkts, ska en sluträkning lämnas för den egendom som inte längre omfattas av uppdraget. *Lag (2026:490)*.
+
+#### 18 a §
+
+Om ett godmanskap enligt 11 kap. 1 § upphör innan tiden för att lämna en årsräkning eller sluträkning som rör förmynderskapet för den omyndige inträffar, får sluträkningen rörande godmanskapet begränsas till att avse en redogörelse endast för de åtgärder som har vidtagits av den gode mannen. I övrigt ska en redogörelse för förvaltningen lämnas av förmyn- daren även för den tid godmanskapet har pågått. *Lag (2026:490)*.
+
+#### 19 §
+
+Överförmyndaren får besluta att en årsräkning eller sluträkning får lämnas i förenklad form, om det är tillräckligt med hänsyn till ställföreträdarens och den enskildes förhållanden, tillgångarnas art eller värde eller omständigheterna i övrigt. I fråga om årsräkningen får ett sådant beslut meddelas för ett visst år eller tills vidare.
+
+*Lag (2026:490)*.
+
+#### 20 §
+
+Anmäler en förordnad förmyndare, god man eller förvaltare att han eller hon är förhindrad att inom föreskriven tid lämna förteckning enligt 1 eller 2 §, årsräkning eller sluträkning till överförmyndaren, kan överförmyndaren bestämma ny tid för avlämnandet.
+
+*Lag (1994:1433)*.
+
+### Särskilda beslut av överförmyndaren i vissa fall
+
+#### 21 §
+
+Om det behövs för att trygga förvaltningen, får överförmyndaren
+
+1. begränsa möjligheten att ta ut pengar som har satts in hos bank, kreditmarknadsföretag eller värdepappersbolag, utöver vad som följer av 8 §,
+
+2. besluta att värdehandlingar ska förvaras och förvaltas av ett värdepappersinstitut enligt lagen (2007:528) om värdepappersmarknaden eller ett motsvarande utländskt institut som är underkastat en offentlig reglering som väsentligen stämmer överens med den som gäller för värdepappersinstitut i Sverige,
+
+3. genom meddelande till den som ska betala pengar till den enskilde besluta att pengarna ska sättas in hos bank eller kreditmarknadsföretag, och
+
+4. genom meddelande till en värdepapperscentral, den som för ett register enligt 4 kap. 11 § lagen (2004:46) om värdepappersfonder eller enligt 12 kap. 5 § lagen (2013:561) om förvaltare av alternativa investeringsfonder eller den som har registrerats som förvaltare av finansiella instrument eller andelar i värdepappersfonder eller i specialfonder, begränsa ställföreträdarens möjlighet att förfoga över rättigheter som registreras i avstämningsregister enligt lagen (1998:1479) om värdepapperscentraler och kontoföring av finansiella instrument eller i motsvarande utländskt register eller som avses i lagen om värdepappersfonder eller i lagen om förvaltare av alternativa investeringsfonder.
+
+Meddelas beslut enligt första stycket 2, ska ställföreträdaren träffa avtal med ett värdepappersinstitut på villkor som överförmyndaren har godkänt.
+
+Ett värdepappersinstitut är skyldigt att träffa ett sådant avtal om förvaring och förvaltning som avses i andra stycket. Avtalet får inte träffas på sämre villkor än de som värdepappersinstitutet erbjuder andra enskilda personer vid samma typ av avtal. *Lag (2016:43)*.
+
+### Vissa åtgärder vid förvaltningens upphörande
+
+#### 22 §
+
+När en förordnad förmyndares, god mans eller förvaltares uppdrag upphör, skall han eller hon genast lämna över de förvaltade tillgångarna till den enskilde eller, om någon annan skall överta förvaltningen, till denna person. *Lag (1994:1433)*.
+
+#### 23 §
+
+När en förordnad förmyndare, god man eller förvaltare frånträder sitt uppdrag, skall han eller hon hålla sina räkenskaper och övriga handlingar som rör förvaltningen tillgängliga för granskning. Om det behövs, skall överförmyndaren bestämma tid och plats för en sådan granskning.
+
+Sedan tiden för att väcka talan enligt 12 kap. 15 § har gått ut eller, om talan har väckts, det finns en dom i ersättningsfrågan som vunnit laga kraft, skall räkenskaper och övriga handlingar som rör förvaltningen lämnas över till den som är behörig att ta emot redovisning över förvaltningen. *Lag (1994:1433)*.
+
+### Ställföreträdares död eller konkurs
+
+#### 24 §
+
+Om en förordnad förmyndare, god man eller förvaltare dör, ska dödsboet ansvara för att den enskildes egendom redovisas och åtgärder vid förvaltningens upphörande vidtas enligt detta kapitel. Om ställföreträdaren försätts i konkurs, ska konkursförvaltaren fullgöra dessa uppgifter.
+
+Överförmyndaren får befria dödsboet från skyldigheten att lämna årsräkning, årsberättelse, sluträkning, eller slutberättelse, eller besluta att sådana handlingar får lämnas i förenklad form, om det med hänsyn till dödsboets och den enskildes förhållanden, tillgångarnas art eller värde eller omständigheterna i övrigt finns särskilda skäl. *Lag (2026:490)*.
+
+#### 25 §
+
+Dödsboet efter en förordnad förmyndare, god man eller förvaltare har rätt till ersättning för de utgifter som har varit skäligen motiverade för att fullgöra de uppgifter som anges i 24 §. För sådan ersättning gäller i övrigt vad som föreskrivs i 12 kap. 16-16 b §§. *Lag (2026:490)*.
+
+## 15 kap. Vård av rätt i dödsbo, m.m.
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Har en omyndig del i ett dödsbo eller något annat oskiftat bo, skall förmyndaren vårda den omyndiges rätt i boet enligt bestämmelserna i detta kapitel.
+
+Bestämmelserna gäller också i fråga om god man och förvaltare, om den som han eller hon företräder har del i ett bo och vården av den enskildes rätt som delägare omfattas av uppdraget.
+
+Är den enskilde ensam delägare eller har samtliga delägare samma förmyndare, god man eller förvaltare och förvaltas boet av ställ-företrädaren, gäller i stället 13 eller 14 kap. *Lag (1994:1433)*.
+
+### Tidpunkt för bodelning och skifte
+
+#### 2 §
+
+Ingås inte avtal om sammanlevnad i oskiftat dödsbo eller upphör ett sådant avtal att gälla, skall förmyndaren, gode mannen eller förvaltaren se till att bodelning och skifte med anledning av dödsfall förrättas så snart som möjligt.
+
+Skall bodelning ske av någon annan anledning än dödsfall, skall förmyndaren, gode mannen eller förvaltaren se till att bodelning förrättas så snart som möjligt. *Lag (1994:1433)*.
+
+#### 3 §
+
+Skiftas inte ett dödsbo inom sex månader från det att bouppteckningen förrättades och har avtal om sammanlevnad i oskiftat dödsbo inte heller ingåtts, skall förmyndaren, gode mannen eller förvaltaren inom denna tid lämna en redogörelse till överförmyndaren om anledningen till att dödsboet inte har skiftats. En sådan redogörelse skall därefter och till dess att dödsboet har skiftats eller ett avtal om sammanlevnad i oskiftat bo ingåtts lämnas var sjätte månad, om inte överförmyndaren bestämmer någon annan tid. *Lag (1994:1433)*.
+
+### Ställföreträdares deltagande i förvaltningen
+
+#### 4 §
+
+En förmyndare, god man eller förvaltare som för den enskildes räkning deltar i en rättshandling vid dödsboförvaltning skall inhämta överförmyndarens samtycke till rättshandlingen i den utsträckning som gäller vid förvaltning enligt 13 eller 14 kap.
+
+Mot borgenärer i dödsboet och andra vars rätt är beroende av utredningen är ställföreträdaren ansvarig enligt ärvdabalkens regler om dödsbodelägares ansvar. *Lag (1994:1433)*.
+
+### Fördelning av egendom vid bodelning och skifte
+
+#### 5 §
+
+En förmyndare, god man eller förvaltare som tar del i en bodelning eller ett skifte för den enskildes räkning skall inhämta överförmyndarens samtycke till egendomens fördelning.
+
+En förmyndare, god man eller förvaltare får endast med överförmyndarens samtycke överlåta den enskildes andel i boet. *Lag (1994:1433)*.
+
+### Avstående från arv eller testamente
+
+#### 6 §
+
+En förmyndare, god man eller förvaltare får inte för den enskildes räkning avstå från arv eller testamente.
+
+Om överförmyndaren samtycker till åtgärden, får dock arv avstås enligt 3 kap. 9 § ärvdabalken. *Lag (1994:1433)*.
+
+### Avtal om sammanlevnad i oskiftat dödsbo
+
+#### 7 §
+
+Avtal om sammanlevnad i oskiftat dödsbo får ingås endast med överförmyndarens samtycke.
+
+Överförmyndaren får häva ett avtal enligt första stycket, om det är påkallat för att ta till vara den enskildes intressen. Om efterlevande make som själv har deltagit i avtalet och som samtidigt är ställföreträdare för den enskilde gifter om sig, skall han eller hon genast anmäla det till överförmyndaren. *Lag (1994:1433)*.
+
+#### 8 §
+
+Ingås avtal om sammanlevnad i oskiftat dödsbo, skall förmyndaren, gode mannen eller förvaltaren före den 1 mars varje år i en årsuppgift till överförmyndaren redogöra för förvaltningen av boet under föregående år. Av årsuppgiften skall framgå boets behållna inkomst och dess sammanlagda tillgångar och skulder vid årets slut.
+
+Anmäler förmyndaren, gode mannen eller förvaltaren att det finns hinder mot att inom föreskriven tid lämna årsuppgift till överförmyndaren, kan överförmyndaren bestämma ny tid för avlämnandet.
+
+*Lag (1994:1433)*.
+
+### Förrättande av bouppteckning i vissa fall
+
+#### 9 §
+
+Skall bodelning ske av annan anledning än dödsfall, är förmyndaren, gode mannen eller förvaltaren skyldig att se till att bouppteckning förrättas så snart som möjligt. Kopia av bouppteckningen skall genast lämnas till överförmyndaren.
+
+*Lag (1994:1433)*.
+
+### Försäljning av viss egendom
+
+#### 10 §
+
+Har egendom i dödsbo vilken har förvaltats av en god man som avses i 11 kap. 3 § tillfallit Allmänna arvsfonden, gäller i fråga om egendomens försäljning lagen (2021:401) om Allmänna arvsfonden. *Lag (2021:402)*.
+
+## 16 kap. Tillsyn över förmyndares, gode mäns och förvaltares verksamhet
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Överförmyndaren ska utöva tillsyn över förmyndares, gode mäns och förvaltares verksamhet.
+
+Vid tillsynen ska överförmyndaren se till att den enskildes tillgångar i skälig omfattning används för hans eller hennes nytta och välbefinnande samt att tillgångarna i övrigt är placerade tryggt och så att de ger skälig avkastning. Överförmyndaren ska också se till att ställföreträdaren även i övrigt utövar sitt uppdrag i enlighet med den enskildes bästa.
+
+*Lag (2026:490)*.
+
+### Behörig överförmyndare
+
+#### 2 §
+
+Tillsynen utövas av överförmyndaren för den kommun där den som har förmyndare, god man eller förvaltare är folkbokförd. Om den enskilde inte är folkbokförd i Sverige, utövas tillsynen av överförmyndaren för den kommun där den enskilde vistas.
+
+Om god man har förordnats enligt 11 kap. 3 § vid utredning av ett dödsbo, utövas tillsynen av överförmyndaren för den kommun där den avlidne hade sitt hemvist. Är det i övrigt fråga om godmanskap enligt 11 kap. 3 §, utövas tillsynen av överförmyndaren för den kommun där den gode mannen är folkbokförd.
+
+Om det inte finns någon behörig överförmyndare enligt första och andra styckena, utövas tillsynen av överförmyndaren för Stockholms kommun. *Lag (2006:557)*.
+
+### Granskning av verksamheten
+
+#### 3 §
+
+Överförmyndaren ska granska förmyndares, gode mäns och förvaltares verksamhet med ledning av de förteckningar, årsberättelser, årsräkningar, slutberättelser, sluträkningar samt andra handlingar och uppgifter angående verksamheten som har lämnats.
+
+Överförmyndaren eller den som överförmyndaren utser har rätt att gå igenom de räkenskaper och anteckningar som avses i 12 kap. 5 § samt de värdehandlingar som ställföreträdaren förvarar med anledning av sitt uppdrag. Ställföreträdaren ska hålla dessa handlingar tillgängliga på den tid och plats som överförmyndaren bestämmer. *Lag (2026:490)*.
+
+#### 4 §
+
+Överförmyndaren ska i akten anteckna att granskningen av förteckningar, årsberättelser, årsräkningar, slutberättelser, sluträkningar och handlingar enligt 15 kap. 3 och 8 §§ är klar. *Lag (2026:490)*.
+
+### Anmärkning mot verksamheten
+
+#### 5 §
+
+Om överförmyndaren vid granskningen eller annars finner anledning att rikta anmärkning mot verksamheten, ska ställföreträdaren ges tillfälle att yttra sig inom den tid som överförmyndaren bestämmer.
+
+Om ett yttrande inte lämnas inom den bestämda tiden eller om överförmyndaren anser att yttrandet inte är tillfredsställande, ska en anteckning om anmärkningen göras i akten. Överförmyndaren ska även genast pröva om ett beslut enligt någon bestämmelse i 13 eller 14 kap. behöver meddelas eller om ställföreträdaren bör entledigas eller någon annan åtgärd vidtas. Ställföreträdaren ska underrättas om en sådan anteckning eller åtgärd. *Lag (2026:490)*.
+
+#### 6 §
+
+Om en anmärkning som har antecknats enligt 5 § innebär att ställföreträdaren kan bli skadeståndsskyldig gentemot den omyndige eller den som uppdraget avser, har ställföreträdaren rätt att väcka talan mot den enskilde om frihet från skadeståndsskyldighet. *Lag (1994:1433)*.
+
+### Anmälan vid misstanke om brott
+
+#### 6 a §
+
+Om överförmyndaren har anledning att anta att en förordnad förmyndare, god man eller förvaltare har begått ett brott mot den enskilde som har samband med verksamheten och för vilket fängelse är föreskrivet, ska överförmyndaren omedelbart anmäla det till Polismyndigheten eller åklagare.
+
+Överförmyndaren ska inte underrätta ställföreträdaren eller den enskilde om att en anmälan har gjorts, om det är olämpligt. *Lag (2026:490)*.
+
+### Rätt att ta del av handlingar
+
+#### 7 §
+
+En omyndig som har fyllt 16 år och den som har en god man eller förvaltare har rätt att ta del av de handlingar som rör ställföreträdarskapet och som förvaras hos överförmyndaren. En sådan rätt har också den enskildes make eller sambo och närmaste släktingar, dock inte om det med hänsyn till den enskildes intressen finns särskilda skäl mot att en sådan person tar del av handlingen. *Lag (2026:490)*.
+
+### Överlämnande av handlingar vid granskningens slut
+
+#### 8 §
+
+Sedan överförmyndaren har granskat förmyndarens, gode mannens eller förvaltarens slutberättelse och sluträkning, ska de handlingarna samt de förteckningar, årsberättelser, årsräkningar och handlingar enligt 15 kap. 3 och 8 §§ som förvaras hos överförmyndaren lämnas över till den som är behörig att ta emot redovisning för verksamheten.
+
+Om en förälder enligt 13 kap. 16 § inte är skyldig att lämna en sluträkning när förmynderskapet upphör, ska överförmyndaren lämna över de övriga handlingar som anges i första stycket till den som är behörig att ta emot redovisning för verksamheten, om han eller hon eller föräldern begär det eller överförmyndaren har gjort en anteckning om anmärkning enligt 5 §. *Lag (2026:490)*.
+
+Om handlingar som avses i första eller andra stycket har lämnats till en ny ställföreträdare, ska han eller hon inom två månader därefter återlämna handlingarna till överförmyndaren. Överförmyndaren ska skriftligen upplysa ställföreträdaren om denna skyldighet när handlingarna lämnas ut. *Lag (2026:490)*.
+
+#### 8 a §
+
+Om en ställföreträdares verksamhet har godkänts av den enskilde eller av en ny ställföreträdare innan han eller hon har fått del av de handlingar som avses i 8 § första eller andra stycket, är godkännandet utan verkan. *Lag (2026:490)*.
+
+### Inhämtande av yttrande m.m.
+
+#### 9 §
+
+Innan överförmyndaren tar ställning till om samtycke skall lämnas till en förvaltningsåtgärd av större vikt, skall den omyndige, om han eller hon har fyllt sexton år, eller den som har god man eller förvaltare samt den enskildes make eller sambo och närmaste släktingar beredas tillfälle att yttra sig, om det kan ske utan avsevärd tidsförlust.
+
+Överförmyndaren får återkalla ett samtycke, om förutsättningar för samtycket inte längre finns. *Lag (1994:1433)*.
+
+#### 10 §
+
+Socialnämnder och andra myndigheter är skyldiga att på begäran lämna överförmyndaren de uppgifter som behövs för överförmyndarens tillsynsverksamhet.
+
+I lag och förordning finns särskilda bestämmelser om skyldighet för myndigheter att underrätta överförmyndaren om förhållanden av betydelse för dennes tillsynsverksamhet.
+
+*Lag (2008:910)*.
+
+#### 10 a §
+
+Banker, kreditmarknadsföretag, värdepappersbolag, svenska värdepapperscentraler, kontoförande institut, fondbolag, AIF-förvaltare, förvaringsinstitut, försäkringsföretag och inkassoföretag är skyldiga att på begäran av överförmyndaren lämna de uppgifter som behövs för överförmyndarens tillsyn. Detsamma gäller för utländska företag som driver motsvarande verksamhet från en filial i Sverige. *Lag (2026:490)*.
+
+### Utbetalning till bank och underrättelse till överförmyndaren i vissa fall
+
+#### 11 §
+
+När en omyndig på grund av arv eller testamente har fått pengar till ett värde som överstiger ett prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken eller med villkor om särskild överförmyndarkontroll, ska den som ombesörjer utbetalningen från dödsboet för den omyndiges räkning sätta in medlen hos bank eller kreditmarknadsföretag, med uppgift om att medlen inte får tas ut utan överförmyndarens tillstånd.
+
+Skyldigheten att sätta in medlen hos bank eller kreditmarknadsföretag gäller även
+
+1. försäkringsgivare vid utbetalning av försäkringsbelopp som den omyndige har rätt till,
+
+2. pensionssparinstitut vid utbetalning enligt lagen (1993:931) om individuellt pensionssparande,
+
+3. PEPP-sparinstitut vid utbetalning från sparande i en sådan PEPP-produkt som avses i Europaparlamentets och rådets förordning (EU) 2019/1238,
+
+4. Brottsoffermyndigheten vid utbetalning av ersättning enligt brottsskadelagen (2014:322),
+
+5. huvudman vid utbetalning av skadestånd enligt 6 kap. 12 § skollagen (2010:800),
+
+6. myndighet som betalar ut ersättning med anledning av skadeståndsanspråk mot staten, och
+
+7. Kronofogdemyndigheten vid utbetalning av influtna medel i mål om utmätning.
+
+Om betalningen avser en periodisk förmån, gäller skyldigheten att sätta in medlen hos bank eller kreditmarknadsföretag endast när den första utbetalningen görs.
+
+När en utbetalning enligt första eller andra stycket görs, ska den som ombesörjer utbetalningen genast göra en anmälan till förmyndaren och överförmyndaren. En sådan anmälan ska också göras om en omyndig på grund av arv eller testamente har fått värdehandlingar till ett värde som överstiger det belopp som anges i första stycket eller med villkor om att värdehandlingarna ska stå under särskild överförmyndarkontroll. *Lag (2026:1205)*.
+
+#### 11 a §
+
+Bestämmelserna i 11 § gäller inte vid utbetalning av medel som den omyndige får förvalta själv. Bestämmelserna i 11 § andra-fjärde styckena gäller inte heller om utbetalning görs från en försäkring som har tagits inom ramen för en rörelse. *Lag (2026:490)*.
+
+#### 11 b §
+
+Bestämmelserna i 11 och 11 a §§ gäller också vid betalning eller utgivande av värdehandlingar till en enskild för vilken det har förordnats en god man med uppgift att se till att hans eller hennes ekonomiska angelägenheter tas om hand eller för vilken det har förordnats en förvaltare.
+
+*Lag (2026:490)*.
+
+### Överförmyndarens handläggning
+
+#### 12 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om skyldighet för överförmyndaren att föra förteckningar och lägga upp akter samt expediera handlingar. *Lag (2026:490)*.
+
+### Vite
+
+#### 13 §
+
+Överförmyndaren får förelägga en förmyndare, god man eller förvaltare att fullgöra sina skyldigheter enligt 3 § andra stycket eller 8 § tredje stycket i detta kapitel eller enligt 12 kap. 9, 9 a eller 13 §, 13 kap. 3, 14, 15 eller 18-21 §, 14 kap. 1, 2, 15, 16, 18, 18 a eller 21-23 § eller 15 kap. 3 eller 8 §. Ett sådant föreläggande får förenas med vite. Innan ett vitesföreläggande beslutas, ska överförmyndaren skriftligen upplysa ställföreträdaren om den skyldighet och de bestämmelser som finns och ge ställföre- trädaren skälig tid att lämna en angiven handling eller rätta sig efter ett beslut.
+
+Frågor om utdömande av vite prövas av tingsrätt. I fråga om föreläggande och utdömande av vite gäller i övrigt lagen (1985:206) om viten.
+
+I anslutning till att ett vite döms ut får rätten besluta om ett nytt föreläggande förenat med vite. *Lag (2026:490)*.
+
+### Tillsyn och utformning av handlingar
+
+#### 14 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om den närmare utformningen av ställföreträdares förteckningar, årsräkningar, årsberättelser, sluträkningar, slutberättelser och handlingar som avses i 15 kap. 3 och 8 §§ samt om överförmyndarens tillsyn över ställföreträdare. *Lag (2026:490)*.
+
+## 17 kap. Anhörigas behörighet att rättshandla i vissa fall
+
+### Innebörden av behörigheten
+
+#### 1 §
+
+Om det är uppenbart att någon på grund av sjukdom, psykisk störning, försvagat hälsotillstånd eller något liknande förhållande inte längre har förmåga att ha hand om sina ekonomiska angelägenheter, är en anhörig behörig att för den enskilde vidta ordinära rättshandlingar med anknytning till dennes dagliga livsföring.
+
+Behörigheten gäller om den situation som avses i första stycket har inträffat sedan den enskilde har fyllt 18 år. Det är den anhörige som ska bedöma om behörigheten gäller.
+
+*Lag (2017:311)*.
+
+### Behöriga anhöriga
+
+#### 2 §
+
+Behörigheten enligt 1 § gäller i tur och ordning för
+
+1. make eller sambo,
+
+2. barn,
+
+3. barnbarn,
+
+4. föräldrar,
+
+5. syskon, och
+
+6. syskonbarn.
+
+Två eller flera anhöriga under samma punkt företräder den enskilde gemensamt. De kan lämna varandra fullmakt.
+
+Den som avböjer uppgiften, inte kan anträffas, är underårig eller har en god man enligt 11 kap. 4 § eller en förvaltare ska inte beaktas vid tillämpningen av denna paragraf. Detsamma gäller den som företräds av en framtidsfullmaktshavare eller som själv är i en sådan situation som avses i 1 §. *Lag (2017:311)*.
+
+### Behörighetens omfattning i vissa fall
+
+#### 3 §
+
+Behörigheten för en anhörig gäller inte i de frågor där den enskilde företräds av en god man enligt 11 kap. 4 §, en förvaltare eller en framtidsfullmaktshavare. *Lag (2017:311)*.
+
+### Skyldigheter för den anhörige
+
+#### 4 §
+
+Den som är behörig enligt 2 § ska vid fullgörandet av uppgiften
+
+1. handla i enlighet med den enskildes intressen och då beakta den enskildes vilja eller förmodade inställning,
+
+2. hålla den enskildes medel avskilda enligt 12 kap. 6 § första stycket, och
+
+3. dokumentera vidtagna åtgärder på ett med hänsyn till omständigheterna lämpligt sätt.
+
+Bestämmelserna i 12 kap. 8 § andra och tredje styckena om jäv tillämpas för den som är behörig enligt 2 §. *Lag (2017:311)*.
+
+### Skadestånd
+
+#### 5 §
+
+En anhörig som har tagit i anspråk sin behörighet är skyldig att ersätta den skada som han eller hon uppsåtligen eller av vårdslöshet har orsakat den enskilde. Om flera anhöriga är ansvariga, tillämpas 12 kap. 14 § andra stycket. *Lag (2017:311)*.
+
+#### 6 §
+
+Om en rättshandling, som en anhörig har vidtagit med åberopande av behörighet enligt detta kapitel, på grund av brist i behörigheten inte blir bindande, är den anhörige skyldig att ersätta en godtroende tredje man den skada som denne därigenom orsakas. Detta gäller dock inte, om rättshandlingen saknar bindande verkan mot den enskilde till följd av någon särskild omständighet, som den anhörige inte kände till och som tredje man inte med fog kunde förutsätta att den anhörige skulle känna till. *Lag (2017:311)*.
+
+## 18 kap. Har upphävts genom lag (1988:1251).
+
+*/Kapitlet träder i kraft I:2028-01-01/*
+
+## 18 kap. Ställföreträdarregistret
+
+### Ett ställföreträdarregister
+
+#### 1 §
+
+Det ska föras ett ställföreträdarregister med uppgifter om förordnade förmyndare, gode män och förvaltare samt om dem som har en sådan ställföreträdare. Ställföreträdarregistret ska föras av den myndighet som regeringen bestämmer (registermyndigheten).
+
+Syftet med ställföreträdarregistret är att tillhandahålla information om det som ingår i registret. *Lag (2026:490)*.
+
+### Förhållandet till annan reglering
+
+#### 2 §
+
+Detta kapitel innehåller bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskydds- förordning.
+
+Vid behandlingen av personuppgifter enligt detta kapitel gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av detta kapitel eller föreskrifter som har meddelats i anslutning till kapitlet. *Lag (2026:490)*.
+
+### Personuppgiftsansvar
+
+#### 3 §
+
+Registermyndigheten är personuppgiftsansvarig för den behandling av personuppgifter som görs i ställföreträdarregistret. *Lag (2026:490)*.
+
+### Ändamålet med behandlingen av personuppgifter
+
+#### 4 §
+
+Personuppgifter i ställföreträdarregistret får behandlas om det är nödvändigt för verksamhet som staten eller en kommun ansvarar för enligt lag eller annan författning och för att tillhandahålla uppgifter om innehållet i registret till den som begär sådana uppgifter.
+
+Personuppgifter som får behandlas enligt första stycket får också behandlas för att fullgöra uppgiftslämnande som sker i överensstämmelse med lag eller förordning. Sådana personuppgifter får även behandlas för framställning av avidentifierad statistik och av registerutdrag. *Lag (2026:490)*.
+
+### Känsliga personuppgifter
+
+#### 5 §
+
+Personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning får behandlas, om det är nödvändigt med hänsyn till ändamålet med behandlingen. *Lag (2026:490)*.
+
+### Sökbegränsningar
+
+#### 6 §
+
+Sökningar i syfte att få fram ett urval av personer grundat på uppgifter om personers hälsa eller på uppgifter om att personerna har en god man eller förvaltare, får endast göras om det är nödvändigt för verksamhet som staten eller en kommun ansvarar för enligt lag eller annan författning.
+
+*Lag (2026:490)*.
+
+### Elektroniskt utlämnande av personuppgifter
+
+#### 7 §
+
+Personuppgifter får lämnas ut elektroniskt om det inte är olämpligt. *Lag (2026:490)*.
+
+### Upplysning om föreskrifter
+
+#### 8 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare föreskrifter om registret och dess innehåll samt om tillgången till registret och registerutdrag. *Lag (2026:490)*.
+
+## 19 kap. Om överförmyndare
+
+### Om överförmyndare och överförmyndarnämnd
+
+#### 1 §
+
+Överförmyndare väljas en för varje kommun, där ej annat följer av vad nedan stadgas.
+
+#### 2 §
+
+En kommun kan besluta att det i stället för överförmyndare skall finnas en överförmyndarnämnd. Vad som någon annanstans än i detta kapitel är föreskrivet om överförmyndare skall tillämpas på en sådan nämnd.
+
+I 16 § finns bestämmelser om gemensam överförmyndarnämnd för flera kommuner. *Lag (2006:557)*.
+
+#### 3 §
+
+Har upphävts genom *lag (1974:1038)*.
+
+### Överförmyndarens verksamhet
+
+#### 3 §
+
+Överförmyndarens verksamhet ska vara av god kvalitet. Kvaliteten i verksamheten ska systematiskt och fortlöpande följas upp, utvecklas och säkras.
+
+Överförmyndaren ska se till att det finns rutiner för att förebygga, upptäcka och åtgärda risker och missförhållanden inom överförmyndarens verksamhetsområde. *Lag (2026:490)*.
+
+#### 4 §
+
+Har upphävts genom *lag (1974:1038)*.
+
+### Val av överförmyndare och ledamöter i överförmyndarnämnd
+
+#### 5 §
+
+Överförmyndare skall väljas av kommunfullmäktige. För överförmyndare skall väljas en ersättare.
+
+Ledamöter och ersättare i överförmyndarnämnden skall väljas av kommunfullmäktige till det antal fullmäktige bestämmer. Antalet ledamöter får dock inte understiga tre.
+
+Valet av ledamöter och ersättare i överförmyndarnämnden skall vara proportionellt, om det begärs av minst så många väljande, som motsvarar det tal som erhålls, om samtliga väljandes antal delas med det antal personer valet avser, ökat med 1. Om förfarandet vid ett sådant proportionellt val finns särskilda bestämmelser.
+
+Om ersättarna i överförmyndarnämnden inte utses genom proportionellt val, skall också den ordning bestämmas i vilken ersättarna skall kallas till tjänstgöring.
+
+Då valet av överförmyndare, ledamöter av överförmyndarnämnden eller ersättare förrättats, skall det genast anmälas till länsstyrelsen.
+
+Har val inte hållits i behörig tid, skall länsstyrelsen se till att valet hålls så snart det kan ske. *Lag (1994:1433)*.
+
+#### 6 §
+
+Har upphävts genom *lag (1974:1038)*.
+
+#### 7 §
+
+Överförmyndare, ledamot i överförmyndarnämnd och ersättare väljs för fyra år, räknade från och med den 1 januari året efter det, då val i hela riket av kommunfullmäktige ägt rum.
+
+Avgår överförmyndare, ersättare för överförmyndare eller ledamot i överförmyndarnämnden, ska fyllnadsval hållas för den återstående delen av tjänstgöringstiden.
+
+Om ledamoten har utsetts vid ett proportionellt val, ska fullmäktige, så långt som det är möjligt, säkerställa att representationen i nämnden inte förändras. *Lag (2022:631)*.
+
+#### 7 a §
+
+Kommunfullmäktige får återkalla uppdragen för överförmyndare och ersättare för överförmyndare vid sådana förändringar i kommunens organisation som innebär att det i stället för överförmyndare ska finnas en överförmyndarnämnd eller en gemensam överförmyndarnämnd. *Lag (2026:490)*.
+
+#### 8 §
+
+En överförmyndare, ledamot i en överförmyndarnämnd och ersättare ska ha rösträtt vid val av kommunfullmäktige och vara folkbokförd i kommunen. Den som är i konkurs eller har förvaltare får inte ha ett sådant uppdrag.
+
+En lagfaren person i tingsrätt får inte vara överförmyndare, ledamot i en överförmyndarnämnd eller ersättare inom domkretsen, om inte regeringen i ett särskilt fall ger tillstånd till det.
+
+Den som har ett uppdrag som överförmyndare, ledamot i en överförmyndarnämnd eller ersättare får avsäga sig uppdraget endast om han eller hon
+
+1. har fullgjort ett sådant uppdrag under de senaste fyra åren,
+
+2. har fyllt sextio år, eller
+
+3. uppger något annat hinder, som godkänns av kommunfullmäktige. *Lag (2018:412)*.
+
+#### 9 §
+
+En överförmyndare, en ledamot i överförmyndarnämnden eller en ersättare kan efter anmälan av länsstyrelsen entledigas av rätten, om det visar sig att han eller hon inte är lämplig. *Lag (1994:1433)*.
+
+#### 10 §
+
+Om såväl överförmyndare som hans eller hennes ersättare är förhindrade att fullgöra sitt uppdrag, får länsstyrelsen förordna tillfällig vikarie. *Lag (1994:1433)*.
+
+#### 11 §
+
+Bland ledamöterna i överförmyndarnämnd utse kommunfullmäktige en ordförande och en vice ordförande att tjänstgöra under den tid för vilken de blivit valda som ledamöter.
+
+Äro både ordföranden och vice ordföranden hindrade att inställa sig till sammanträde med överförmyndarnämnden, skall nämnden utse annan ledamot att för tillfället föra ordet. *Lag (1974:1038)*.
+
+#### 12 §
+
+Har upphävts genom *lag (1986:1143)*.
+
+### Beslut av överförmyndaren och överförmyndarnämnden
+
+#### 13 §
+
+Om det framkommer skiljaktiga meningar i en överförmyndarnämnd i ett ärende enligt denna balk, tillämpas föreskrifterna i 16 kap. rättegångsbalken om omröstning i tvistemål. I 30 § förvaltningslagen (2017:900) finns bestämmelser om rätt att få en avvikande mening antecknad.
+
+*Lag (2026:490)*.
+
+#### 13 a §
+
+Ett protokoll hos överförmyndare eller överförmyndarnämnd i ett annat ärende än enligt denna balk behöver endast innehålla en förteckning över dem som har deltagit i handläggningen samt beslutet i ärendet.
+
+*Lag (2026:490)*.
+
+#### 14 §
+
+Överförmyndarnämnden får uppdra åt en ledamot, en ersättare som har kallats till tjänstgöring eller en kommunal tjänsteman med den kompetens som behövs att på nämndens vägnar avgöra vissa grupper av ärenden. Nämnden skall i sitt beslut ange vilka slag av ärenden som uppdraget omfattar. Överförmyndaren får på motsvarande sätt uppdra åt en kommunal tjänsteman med den kompetens som behövs att avgöra ärenden på överförmyndarens vägnar.
+
+En framställning eller ett yttrande till kommunfullmäktige får dock inte beslutas på något annat sätt än av nämnden samfällt eller av överförmyndaren själv. Detsamma gäller beslut enligt 11 kap. 20 § att entlediga eller skilja en god man eller förvaltare från uppdraget och beslut att häva avtal om sammanlevnad i oskiftat bo eller att förelägga vite.
+
+Finner den som fått ett uppdrag som avses i första stycket att samtycke, tillstånd, förordnande, upphörande eller entledigande i ett visst fall inte bör meddelas eller beslutas, eller anser han eller hon frågan tveksam, skall ärendet hänskjutas till nämnden eller överförmyndaren. Beslut i ett ärende enligt denna balk vilket har fattats på grund av ett uppdrag som avses i första stycket behöver inte anmälas för nämnden eller för överförmyndaren. *Lag (1995:1362)*.
+
+#### 14 a §
+
+Överförmyndarnämnden får uppdra åt ordföranden eller en annan ledamot som nämnden har utsett att besluta på nämndens vägnar i ärenden som är så brådskande att nämndens avgörande inte kan avvaktas. Överförmyndaren får uppdra åt en kommunal tjänsteman med den kompetens som behövs att avgöra sådana ärenden på överförmyndarens vägnar.
+
+Beslutet ska anmälas vid nämndens nästa sammanträde eller till överförmyndaren så snart det kan göras. *Lag (2026:490)*.
+
+### Ekonomiska förmåner
+
+#### 15 §
+
+I fråga om ersättning, arvode, pension och andra ekonomiska förmåner till överförmyndare, ledamot i överförmyndarnämnd och ersättare tillämpas föreskrifterna i 4 kap. 12-18 §§ kommunallagen (2017:725). *Lag (2017:727)*.
+
+### Kommunallagens tillämplighet
+
+#### 16 §
+
+Vad som är föreskrivet om nämnder i kommunallagen (2017:725) gäller, med de avvikelser som följer av detta kapitel, också överförmyndar-nämnd och i tillämpliga delar överförmyndare.
+
+Kommuner får besluta att de ska ha en gemensam överförmyndarnämnd. Föreskrifter om en gemensam nämnd i kommunallagen gäller också en gemensam överförmyndarnämnd.
+
+*Lag (2017:727)*.
+
+### Länsstyrelsens tillsyn
+
+#### 17 §
+
+Länsstyrelsen ska utöva tillsyn över överförmyndares och överförmyndarnämnders verksamhet. *Lag (2026:490)*.
+
+### Tillsynsvägledning
+
+#### 17 a §
+
+Den myndighet som regeringen bestämmer ska
+
+- med råd stödja överförmyndarna och överförmyndarnämnderna i deras verksamhet och främja en enhetlig rättstillämpning, och
+
+- se till att utbildningen av överförmyndarna, ledamöterna i överförmyndarnämnderna och ersättare är tillfredsställande.
+
+*Lag (2026:490)*.
+
+### Överförmyndarens ansvar för utbildning och information
+
+#### 18 §
+
+Överförmyndaren eller överförmyndarnämnden ansvarar för att en god man eller förvaltare genomgår introduktionsutbildning och annan utbildning som ställföreträdaren behöver med anledning av sitt uppdrag.
+
+*Lag (2026:490)*.
+
+#### 18 a §
+
+Innan någon förordnas som förmyndare, god man eller förvaltare ska överförmyndaren informera honom eller henne om vilka uppgifter som kan förväntas ingå i uppdraget. Överförmyndaren ska dokumentera den information som har lämnats.
+
+I samband med förordnandet ska överförmyndaren också lämna information om ställföreträdarskapet till den enskilde. Informationen ska till sättet och innehållet vara anpassad till den enskilde. Information ska också finnas tillgänglig på kommunens webbplats. *Lag (2026:490)*.
+
+#### 19 §
+
+/Upphör att gälla U:2029-01-01 genom *lag (2026:490)*./ Överförmyndaren eller överförmyndarnämnden ska till länsstyrelsen lämna de uppgifter som är nödvändiga för att länsstyrelsen ska kunna föra statistik över överförmyndarnas och överförmyndarnämndernas verksamhet. *Lag (2014:886)*.
+
+#### 20 §
+
+*/Upphör att gälla U:2029-01-01/* Regeringen meddelar föreskrifter om vilken eller vilka länsstyrelser som ansvarar för uppgifter enligt detta kapitel. Regeringen meddelar även närmare föreskrifter om vilka uppgifter överförmyndaren eller överförmyndarnämnden ska lämna för att länsstyrelsen ska kunna föra statistik och vilken statistik länsstyrelsen ska föra. *Lag (2014:886)*.
+
+*/Rubriken träder i kraft I:2029-01-01/*
+
+### Ansvariga länsstyrelser
+
+#### 20 §
+
+*/Träder i kraft I:2029-01-01/* Den eller de länsstyrelser som regeringen bestämmer ansvarar för uppgifter enligt detta kapitel. *Lag (2026:490)*.
+
+## 20 kap. Vissa gemensamma bestämmelser om rättegången
+
+#### 1 §
+
+I mål om faderskap, föräldraskap enligt 1 kap. 9 §, vårdnad, boende, umgänge och underhåll tillämpas 14 kap. 17 och 18 §§ äktenskapsbalken.
+
+Vid handläggning som sker enligt lagen (1996:242) om domstolsärenden består tingsrätten av en lagfaren domare. Om det finns särskilda skäl med hänsyn till ärendets beskaffenhet, får tingsrätten dock bestå av en lagfaren domare och tre nämndemän. *Lag (2005:434)*.
+
+#### 2 §
+
+Vistas den, mot vilken talan enligt denna balk riktas, på okänd ort, skall hans rätt i saken bevakas av god man enligt 11 kap.
+
+Detsamma gäller, om han vistas på känd ort utom riket men stämningen eller andra handlingar i målet ej kan delges honom eller han underlåter att ställa ombud för sig och särskilda skäl föreligger att förordna god man.
+
+I ett ärende om anordnande av förvaltarskap eller utvidgning av ett förvaltarskaps omfattning, där den enskilde uppenbarligen inte förstår vad saken gäller eller skulle lida skada av att få del av handlingarna i ärendet, skall rätten förordna en god man enligt 11 kap. att företräda den enskilde i ärendet och bevaka hans eller hennes rätt.
+
+En god man som avses i första eller andra stycket skall samråda med den för vilken han har förordnats, i den mån det kan ske. *Lag (1994:1433)*.
+
+#### 2 a §
+
+I ett ärende om anordnande av förvaltarskap eller utvidgning av ett förvaltarskaps omfattning, där det inte förordnats god man enligt 2 § andra stycket, skall rätten förordna ett biträde att bevaka den enskildes rätt i ärendet. Ett rättegångsbiträde skall också förordnas, om den som har förvaltare begär att förvaltarskapet skall upphöra eller att dess omfattning skall inskränkas.
+
+Rättegångsbiträde skall inte förordnas, om det är uppenbart att ett biträde inte behövs. *Lag (1994:1433)*.
+
+#### 2 b §
+
+Den som har förordnats till god man enligt 2 § eller rättegångsbiträde enligt 2 a § har efter rättens prövning rätt till skälig ersättning av allmänna medel för arbete, tidsspillan och utlägg som uppdraget har krävt. Kostnaden skall stanna på staten, såvida inte motparten till den, för vilken god man eller rättegångsbiträde har förordnats, skäligen bör åläggas att ersätta staten kostnaden. *Lag (1988:1251)*.
+
+#### 2 c §
+
+Rättegångsbalkens bestämmelser om hämtning av part tillämpas också på den som i annan egenskap än vittne eller sakkunnig skall höras i mål eller ärende som avses i denna balk. *Lag (1988:1251)*.
+
+#### 3 §
+
+Rättens beslut angående förmynderskap, godmanskap eller förvaltarskap får överklagas, förutom av den som beslutet särskilt rör, av var och en som har rätt att göra ansökan i saken. Den i vars ställe god man har förordnats enligt 11 kap. 2 § första eller andra stycket får dock inte överklaga ett beslut om ett sådant förordnande.
+
+Rättens beslut att förelägga vite enligt 16 kap. 13 § tredje stycket får överklagas endast i samband med klagan över beslutet att döma ut vitet. *Lag (1994:1433)*.
+
+#### 4 §
+
+Överförmyndarens samtycke till åtgärd beträffande en enskilds egendom får begäras endast av förmyndaren, den gode mannen eller förvaltaren. Överförmyndarens beslut i ett sådant ärende får överklagas endast av ställföreträdaren. Överförmyndarens beslut enligt 9 kap. 3 eller 4 §, 13 kap. 18 eller 19 § eller 14 kap. 21 § får överklagas endast av ställföreträdaren eller av den enskilde, om han eller hon har fyllt sexton år.
+
+Överförmyndarens beslut i sådana fall som avses i 12 kap. 12 § andra stycket får inte överklagas.
+
+Överförmyndarens beslut att förelägga vite enligt 16 kap. 13 § får överklagas endast i samband med klagan över rättens beslut att döma ut vitet. *Lag (1994:1433)*.
+
+#### 5 §
+
+Har upphävts genom *lag (1994:1433)*.
+
+#### 6 §
+
+Överförmyndarens beslut i ett ärende enligt denna balk överklagas hos rätten. *Lag (1994:1433)*.
+
+#### 7 §
+
+I mål eller ärende, där överförmyndaren fört talan, får rätten, när skäl föreligga, vid målets eller ärendets avgörande tillerkänna överförmyndaren ersättning av allmänna medel för det arbete han nedlagt på målets eller ärendets utförande samt för nödiga utgifter.
+
+Rätten prövar också huruvida ersättningen skall återgäldas av överförmyndarens motpart eller stanna på statsverket.
+
+Överförmyndaren får anlita ombud i mål eller ärende där han för talan. *Lag (1976:612)*.
+
+#### 8 §
+
+Ett beslut som överförmyndaren eller rätten meddelar i ett ärende om förmynderskap, godmanskap eller förvaltarskap enligt denna balk gäller omedelbart även om beslutet överklagas. Detta gäller dock inte överförmyndarens beslut att häva avtal om sammanlevnad i oskiftat bo eller rättens beslut att döma ut vite. *Lag (1994:1433)*.
+
+#### 9 §
+
+I ett mål om överflyttning av vårdnaden till en eller två särskilt förordnade vårdnadshavare enligt 6 kap. 7-8 a §§ eller 10 e § eller i ett ärende hos socialnämnden om sådan vårdnadsöverflyttning ska ett offentligt biträde förordnas för barnet, om det inte måste antas att behov av biträde saknas.
+
+I ett mål eller ärende som anges i första stycket ska offentligt biträde förordnas även för barnets vårdnadshavare, om det inte måste antas att behov av biträde saknas.
+
+*Lag (2024:1174)*.
+
+#### 9 a §
+
+I ett ärende hos socialnämnden prövas frågor om offentligt biträde enligt 9 § av den domstol som är behörig att pröva frågan om överflyttning av vårdnaden. Vid domstolens handläggning tillämpas lagen (1996:242) om domstolsärenden.
+
+*Lag (2025:1289)*.
+
+#### 10 §
+
+Den som är offentligt biträde för barnet ska se till att barnets rätt enligt 6 kap. 2 b § första stycket att få information och möjlighet att framföra sina åsikter tillgodoses.
+
+Barnets offentliga biträde får samtala med barnet utan vårdnadshavarens samtycke och utan att vårdnadshavaren är närvarande. *Lag (2024:1174)*.
+
+#### 10 a §
+
+har upphävts genom *lag (2025:1289)*.
+
+#### 10 b §
+
+I ett mål om överflyttning av vårdnaden ska den som är offentligt biträde för barnet föreläggas att yttra sig skriftligen och kallas till sammanträde som om denne var biträde åt en part. *Lag (2024:1174)*.
+
+#### 10 c §
+
+Den som är offentligt biträde för barnet har rätt att ta del av det som har tillförts ärendet eller målet om överflyttning av vårdnaden. *Lag (2024:1174)*.
+
+#### 11 §
+
+Beslut som tingsrätten har meddelat under rättegången i frågor som avses i 6 kap. 18 a § tredje stycket eller 20 §, 7 kap. 15 §, 10 kap. 16 eller 17 § eller 11 kap. 18 § eller 23 a § andra stycket ska överklagas särskilt.
+
+Ett beslut enligt 6 kap. 17 c § om att ta upp ett yrkande om vårdnad, boende eller umgänge till prövning trots att en förälder inte har deltagit i informationssamtal får inte överklagas. *Lag (2026:490)*.
+
+#### 12 §
+
+Hovrättens dom eller slutliga beslut i mål om underhåll enligt 7 kap. får inte överklagas. Hovrätten får dock tillåta att domen eller beslutet överklagas, om det finns särskilda skäl för en prövning om tillstånd skall ges enligt 54 kap. 10 § första stycket 1 rättegångsbalken.
+
+Första stycket första meningen gäller inte, om någon annan del av domen överklagas.
+
+Hovrättens beslut i frågor som avses i 11 § får aldrig överklagas.
+
+Detsamma gäller ärenden som först har handlagts av överförmyndaren.
+
+*Lag (1989:354)*.
+
+13-41 §§ har upphävts genom *lag (1976:612)*.
+
+## 21 kap. Om verkställighet av domar, beslut eller avtal om vårdnad, boende eller umgänge m.m.
+
+### Verkställighet av domar, beslut eller avtal
+
+#### 1 §
+
+Vid verkställighet ska barnets bästa komma i främsta rummet. Barnets åsikter ska tillmätas betydelse i förhållande till barnets ålder och mognad. *Lag (2021:528)*.
+
+#### 1 a §
+
+Verkställighet av en dom eller ett beslut om vårdnad, boende, umgänge eller överlämnande av barn söks hos tingsrätten i den ort där barnet har sin hemvist.
+
+Om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra barnets hemvist, får verkställighet även sökas hos tingsrätten i den ort där sökanden eller motparten har sin hemvist. Om det kan antas att sekretess gäller också för de uppgifter som behövs för att avgöra parternas hemvist, får verkställighet sökas även hos Stockholms tingsrätt. Detsamma gäller om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra barnets och en parts hemvist och den andra parten saknar hemvist i landet.
+
+Om en annan tingsrätt handlägger ett mål mellan samma parter om vårdnaden, boendet eller umgänget, får verkställighet också sökas hos den tingsrätten.
+
+Om det inte finns någon annan behörig domstol, tas frågan om verkställighet upp av Stockholms tingsrätt. *Lag (2021:528)*.
+
+#### 1 b §
+
+Om en dom eller ett beslut inte har fått laga kraft och det inte är särskilt medgivet att verkställighet ändå får ske, får rätten inte vidta åtgärder enligt 2-4 §§. *Lag (2021:528)*.
+
+#### 1 c §
+
+Det som i detta kapitel föreskrivs om behörig domstol och om verkställighet av en dom eller ett beslut som har fått laga kraft gäller även vid verkställighet av ett avtal enligt 6 kap. 6 §, 14 a § andra stycket och 15 a § tredje stycket.
+
+*Lag (2021:528)*.
+
+#### 2 §
+
+Innan rätten beslutar om verkställighet, får den uppdra åt en ledamot eller suppleant i socialnämnden eller en tjänsteman inom socialtjänsten att verka för att den som har hand om barnet frivilligt skall fullgöra vad som åligger honom eller henne. Ett sådant uppdrag får även lämnas åt någon annan lämplig person.
+
+Den som har fått ett uppdrag enligt första stycket skall inom den tid som rätten bestämmer lämna en redogörelse för de åtgärder som har vidtagits och vad som i övrigt har kommit fram. Tiden får inte sättas längre än två veckor. Rätten får dock förlänga tiden, om det finns förutsättningar för att nå en frivillig fullgörelse. *Lag (2006:458)*.
+
+#### 3 §
+
+Beslutar rätten om verkställighet, får den även utan yrkande förelägga vite eller besluta att barnet ska hämtas genom Polismyndighetens försorg. Hämtning får dock beslutas endast i de fall och under de förutsättningar som anges i andra och tredje styckena.
+
+Är det fråga om en dom eller ett beslut om vårdnad, boende eller överlämnande av barn, får rätten besluta om hämtning av barnet, om verkställighet annars inte kan ske eller om hämtning är nödvändig för att undvika att barnet lider allvarlig skada.
+
+Är det fråga om en dom eller ett beslut om umgänge mellan barnet och en förälder som barnet inte bor tillsammans med, får rätten besluta om hämtning av barnet, om verkställighet annars inte kan ske och barnet har ett särskilt starkt behov av umgänge med föräldern.
+
+Frågor om utdömande av förelagt vite prövas av rätten på ansökan av den part som har begärt verkställigheten.
+
+*Lag (2014:603)*.
+
+#### 4 §
+
+Beslutar rätten om verkställighet, kan den även lämna uppdrag enligt 2 §. Har rätten beslutat att barnet ska hämtas genom Polismyndighetens försorg, ska ett uppdrag enligt 2 § lämnas, om inte särskilda skäl talar mot det.
+
+Om det finns särskilda skäl, får rätten för att underlätta att barnet överflyttas besluta att barnet tillfälligt ska tas om hand av socialnämnden eller på annat lämpligt sätt. Rätten får besluta att omhändertagandet ska verkställas genom Polismyndighetens försorg.
+
+Beslutar rätten om verkställighet av en dom eller ett beslut om umgänge som har vunnit laga kraft, kan rätten komplettera eller ändra vad som har bestämts om de praktiska arrangemangen för utövandet av umgänget, om det är nödvändigt för att umgänget ska kunna ske. *Lag (2014:603)*.
+
+#### 5 §
+
+Har barnet nått en sådan ålder och mognad att dess vilja bör beaktas, får verkställighet inte ske mot barnets vilja utom då rätten finner det nödvändigt av hänsyn till barnets bästa.
+
+*Lag (2006:458)*.
+
+#### 6 §
+
+Rätten skall vägra verkställighet, om det är uppenbart att verkställigheten är oförenlig med barnets bästa.
+
+*Lag (2006:458)*.
+
+### Överflyttning av barn i andra fall
+
+#### 7 §
+
+*/Upphör att gälla U:2027-01-01/* Även om en dom eller ett beslut som avses i 1 a § första stycket inte finns, kan barnets vårdnadshavare, när barnet vistas hos någon annan, begära att rätten beslutar om en åtgärd för att barnet ska flyttas över till vårdnadshavaren.
+
+Rätten kan vägra att vidta den begärda åtgärden, om det av hänsyn till barnets bästa behövs en prövning av frågan om vårdnaden.
+
+En åtgärd enligt första stycket får inte beslutas om ett flyttningsförbud enligt lagen (1990:52) med särskilda bestämmelser om vård av unga gäller i fråga om barnet.
+
+I övrigt gäller 1-6 §§. *Lag (2022:949)*.
+
+#### 7 §
+
+*/Träder i kraft I:2027-01-01/* Även om en dom eller ett beslut som avses i 1 a § första stycket inte finns, kan barnets vårdnadshavare, när barnet vistas hos någon annan, begära att rätten beslutar om en åtgärd för att barnet ska flyttas över till vårdnadshavaren.
+
+Rätten kan vägra att vidta den begärda åtgärden, om det av hänsyn till barnets bästa behövs en prövning av frågan om vårdnaden.
+
+En åtgärd enligt första stycket får inte beslutas om ett flyttningsförbud enligt lagen (2026:1600) om omhändertagande för vård av barn och unga gäller i fråga om barnet.
+
+I övrigt gäller 1-6 §§. *Lag (2026:1603)*.
+
+#### 8 §
+
+Bestämmelserna i 7 § gäller också när föräldrar, adoptivföräldrar eller särskilt förordnade vårdnadshavare gemensamt har vårdnaden och en av dem utan något beaktansvärt skäl egenmäktigt fört bort eller håller kvar barnet samt den andra begär rättelse. *Lag (1994:1433)*.
+
+### Gemensamma bestämmelser
+
+#### 9 §
+
+Hämtning, omhändertagande och andra åtgärder som rör barnet skall utföras på ett sätt som är så skonsamt som möjligt för barnet.
+
+Om barnet på grund av sjukdom inte bör flyttas eller om det finns något annat särskilt hinder, skall åtgärden skjutas upp.
+
+*Lag (2006:458)*.
+
+#### 10 §
+
+Om det är fara för att barnet förs ur landet eller om saken av annan anledning är brådskande, kan rätten omedelbart besluta att barnet ska tas om hand av socialnämnden eller på annat lämpligt sätt. Rätten får besluta att omhändertagandet ska verkställas genom Polismyndighetens försorg.
+
+Kan ett beslut enligt första stycket inte avvaktas, får Polismyndigheten, oavsett om något ärende är anhängigt, vidta sådana omedelbara åtgärder som kan ske utan skada för barnet.
+
+Åtgärden ska genast anmälas till rätten, som utan dröjsmål prövar om den ska bestå.
+
+Har rätten meddelat ett beslut om omhändertagande enligt första eller andra stycket som ännu gäller när ärendet ska avgöras, ska rätten ompröva beslutet. *Lag (2014:603)*.
+
+#### 11 §
+
+Vid hämtning och omhändertagande ska någon som kan vara till stöd för barnet närvara. Finns det en sådan kontaktperson för barnet som avses i socialtjänstlagen (2025:400), bör han eller hon anlitas. I brådskande fall får en åtgärd som krävs för skydd av barnet vidtas utan att en person till stöd för barnet är närvarande.
+
+Om det är möjligt ska en barnläkare, barnpsykiater eller barnpsykolog medverka vid hämtning och omhändertagande.
+
+*Lag (2025:402)*.
+
+#### 12 §
+
+Vid avgörande av ett ärende enligt detta kapitel skall tingsrätten bestå av en lagfaren domare och tre nämndemän. Om rätten anser det tillräckligt att en domare sitter i rätten och parterna samtycker till det eller ärendet är av enkel beskaffenhet, kan det avgöras av en lagfaren domare.
+
+Vid sammanträde får barnet höras inför rätten, om särskilda skäl talar för det och det är uppenbart att barnet inte kan ta skada av att höras.
+
+Uteblir en part från ett sammanträde till vilket han eller hon har kallats vid vite att inställa sig personligen, får rätten besluta att parten skall hämtas till rätten antingen omedelbart eller till en senare dag. *Lag (2006:458)*.
+
+#### 13 §
+
+I fråga om rättegångskostnader ska 18 kap. rättegångsbalken tillämpas. Om ärendet skrivs av på grund av att parterna har nått en samförståndslösning eller om det annars finns särskilda skäl, får rätten besluta att vardera parten ska bära sin kostnad.
+
+Kostnader för utförande av uppdrag enligt 2 § första stycket andra meningen, för hämtning av en part till sammanträde och för hämtning eller omhändertagande av barn betalas av allmänna medel efter beslut av rätten. Rätten får efter vad som är skäligt besluta att en part som har föranlett kostnad för hämtning eller för omhändertagande av barn ska helt eller delvis betala kostnaden till staten. *Lag (2021:528)*.
+
+#### 14 §
+
+Beslut som inte avser utdömande av vite, ersättning för parts kostnader eller parts skyldighet att betala kostnader till staten gäller omedelbart, om inte annat beslutas.
+
+*Lag (2006:458)*.
+
+#### 15 §
+
+Beslut enligt detta kapitel om överflyttning av barn hindrar inte att den fråga som har avgjorts prövas på nytt, när ändrade förhållanden eller något annat särskilt skäl föranleder det. *Lag (1983:485)*.
+
+#### 16 §
+
+Vid rättens handläggning av ärenden enligt detta kapitel tillämpas i övrigt lagen (1996:242) om domstolsärenden.
+
+*Lag (2008:646)*.
+
+## Övergångsbestämmelser
+
+**1976:612**
+
+1. Denna lag träder i kraft den 1 januari 1977, då lagen (1969:618) om fastställande av faderskapet till barn utom äktenskap skall upphöra att gälla.
+
+2. Talan som avses i 3 kap. 1 § får icke väckas, om rätten till motsvarande talan på grund av äldre bestämmelser har gått förlorad före ikraftträdandet av denna lag. _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+5. I mål om fastställande av faderskap till barn kan talan om barnets egenskap av trolovningsbarn enligt äldre rätt upptagas till prövning, om barnet är fött före utgången av år 1969 eller den uppgivne fadern har avlidit dessförinnan.
+
+**1978:853**
+
+1. Denna lag träder i kraft, såvitt avser 6 kap. 7 9, 10 a och 12 §§ samt 20 kap. 9 § den 1 januari 1979, såvitt avser 7 kap. 4 § den 1 januari 1980, och i övrigt den 1 juli 1979.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+5. Bidragsskyldighet som har bestämts enligt äldre bestämmelser skall bestå enligt vad som följer av domen eller avtalet.
+
+6. Bidragsskyldighet som har bestäms enligt äldre bestämmelser skall fullgöras enligt de nya bestämmelserna.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+7. För bidragsskyldighet som har bestämts enligt äldre bestämmelser gäller i fråga om jämkning och omprövning de nya bestämmelserna.
+
+Har någon enligt 7 kap. 7 § andra stycket i dess äldre lydelse slutit avtal om att betala engångsbelopp till barnet, får talan om jämkning enligt 7 kap. 10 § första stycket i dess nya lydelse dock inte föras i fråga om avtalet.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+8. Bestämmelserna i 15 kap. 12 § andra stycket i äldre lydelse tillämpas fortfarande om arvlåtaren har avlidit före ikraftträdandet.
+
+**1984:1139**
+
+Denna lag träder i kraft den 1 mars 1985. Lagen skall dock inte gälla i fråga om inseminationer som har utförts före ikraftträdandet.
+
+Har insemination utförts före lagens ikraftträdande på en kvinna med samtycke av hennes make eller av annan man som bodde tillsammans med henne under äktenskapsliknande förhållanden och är det med hänsyn till samtliga omständigheter sannolikt att barnet har avlats genom inseminationen, får efter utgången av februari månad år 1986 talan inte väckas om förklaring enligt 1 kap. 2 § första stycket om att mannen inte är far till barnet eller enligt 1 kap. 4 § tredje stycket om att ett erkännande av faderskapet som mannen har lämnat saknar verkan mot honom.
+
+**1987:790**
+
+1. Denna lag träder i kraft den 1 januari 1988.
+
+2. Har mannen avlidit före ikraftträdandet, skall 3 kap. 1 och 2 §§ i deras äldre lydelse fortfarande tillämpas.
+
+**1988:712**
+
+Denna lag träder i kraft den 1 januari 1989. Lagen skall dock inte gälla i fråga om befruktning utanför kroppen som har utförts före ikraftträdandet.
+
+Har befruktning av moderns ägg utanför hennes kropp utförts före lagens ikraftträdande med samtycke av hennes make eller sambo och är det med hänsyn till samtliga omständigheter sannolikt att barnet har avlats genom befruktningen, får efter utgången av år 1989 talan inte väckas om förklaring enligt 1 kap. 2 § första stycket om att mannen inte är far till barnet eller enligt 1 kap. 4 § tredje stycket om att ett erkännande av faderskapet som mannen har lämnat saknar verkan mot honom.
+
+**1988:1251**
+
+1. Denna lag träder i kraft den 1 januari 1989.
+
+2. Den som vid ikraftträdandet är omyndigförklarad enligt äldre bestämmelser skall tills vidare anses ha förvaltare enligt 11 kap. 7 § i dess nya lydelse. Härvid skall förmyndaren anses vara förvaltare med uppdrag att vårda den enskildes angelägenheter utan begränsning av uppdraget.
+
+3. Förordnande av god man som har skett enligt äldre bestämmelser skall anses ha meddelats enligt motsvarande nya bestämmelser i 11 kap.
+
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+**1989:354**
+
+Denna lag träder i kraft den 1 juli 1989. Äldre bestämmelser tillämpas dock i fråga om avgöranden av hovrätt som har meddelats före ikraftträdandet.
+
+**1991:487**
+
+1. Denna lag träder i kraft den 1 juli 1991.
+
+2. Anmälan om gemensam vårdnad hos pastorsämbetet som inte har registrerats före ikraftträdandet skall prövas av skattemyndigheten.
+
+I fråga om överklagande av beslut som har meddelats före ikraftträdandet gäller äldre bestämmelser.
+
+**1992:1621**
+
+1. Denna lag träder i kraft den dag regeringen bestämmer. (I kraft den 1 januari 1994, 1993:1646).
+
+2. I fråga om förvärv som gjorts före ikraftträdandet gäller paragrafen i sin äldre lydelse.
+
+**1994:1621**
+
+1. Denna lag träder i kraft den 1 januari 1995.
+
+2. Den nya lydelsen av 19 kap. 8 § skall dock tillämpas första gången efter valet år 1998.
+
+3. Val enligt den nya lydelsen av 19 kap. 7 § skall äga rum första gången år 1998.
+
+4. Löpande tjänstgöringstid för dem som har valts enligt äldre bestämmelser skall vara fyra i stället för tre år.
+
+**1994:1963**
+
+Denna lag träder i kraft den 1 januari 1995 och tillämpas på underhållsbidrag för vilka den ursprungliga förfallodagen inträtt den 31 december 1991 eller senare.
+
+**1994:1433**
+
+1. Denna lag träder i kraft den 1 juli 1995.
+
+2. Den som före ikraftträdandet har förordnats som förmyndare för en omyndig skall, om vårdnad ingår i uppdraget, anses som enligt 6 kap.
+
+särskilt förordnad vårdnadshavare.
+
+3. Har en omyndig före ikraftträdandet fått en gåva som står under förvaltning av föräldrarna eller en av dem, skall gåvomedlen vid tillämpningen av de nya bestämmelserna jämställas med en sådan gåva som avses i 13 kap. 2 § andra stycket 2, om givaren före ikraftträdandet har gjort skriftlig anmälan om gåvan till överförmyndaren.
+
+4. Överförmyndaren får före ikraftträdandet, med verkan från den tidpunkten, meddela beslut som avses i 13 kap. 19 § och 14 kap. 21 §.
+
+Har överförmyndaren meddelat ett sådant beslut är ställföreträdaren och värdepappersinstitutet även före ikraftträdandet skyldiga att enligt angivna bestämmelser träffa avtal om förvaring och förvaltning med verkan från ikraftträdandet.
+
+5. Mål eller ärenden enligt föräldrabalken som vid ikraftträdandet är anhängigt vid en domstol eller annan myndighet som var behörig enligt äldre bestämmelser skall även efter ikraftträdandet handläggas där.
+
+6. Äldre föreskrifter om redovisning och om arvode tillämpas även efter ikraftträdandet, såvitt gäller tiden dessförinnan.
+
+7. Om det i en lag eller en författning som har beslutats av regeringen hänvisas till en föreskrift som har ersatts genom en föreskrift i denna lag, tillämpas i stället den nya föreskriften.
+
+**1996:766**
+
+1. Denna lag träder i kraft den 1 september 1996.
+
+2. Har god man förordnats enligt ackordslagen (1970:847) före ikraftträdandet gäller dock äldre bestämmelser.
+
+**1996:1031**
+
+1. Denna lag träder i kraft den 1 februari 1997.
+
+2. Har talan om underhållsbidrag väckts före ikraftträdandet, tillämpas äldre bestämmelser i fråga om socialnämnds rätt att föra talan för barnet.
+
+**1997:353**
+
+Denna lag träder i kraft den 1 juli 1997. Ärenden som före ikraftträdandet har inletts hos överförmyndaren för Stockholms kommun enligt bestämmelserna i 11 kap. 25 § andra stycket föräldrabalken i dess äldre lydelse skall handläggas där även efter ikraftträdandet.
+
+**1997:990**
+
+Denna lag träder i kraft den 1 januari 1998 men tillämpas inte i de fall där det första beslutet i ärendet fattats dessförinnan. I mål som anhängiggörs hos Regeringsrätten från och med den 1 januari 1998 skall dock Riksskatteverket föra det allmännas talan.
+
+**1999:1080**
+
+Denna lag träder i kraft den 1 januari 2000. Vad som sägs i 13 kap. 13 § och 14 kap. 14 § i deras äldre lydelse om drivande av rörelse som medför bokföringsskyldighet enligt jordbruksbokföringslagen (1979:141) gäller dock även därefter till och med utgången av år 2000.
+
+**2001:1136**
+
+1. Denna lag träder i kraft den 1 januari 2002.
+
+2. Äldre bestämmelser gäller fortfarande för underhållsskyldighet som har upphört slutgiltigt före ikraftträdandet.
+
+**2002:251**
+
+1. Denna lag träder i kraft den 1 januari 2003. Lagen skall dock inte gälla i fråga om befruktning utanför kroppen som har utförts före ikraftträdandet.
+
+2. Har befruktning utanför en kvinnas kropp av ett ägg som kommer från en annan kvinna utförts före lagens ikraftträdande med samtycke av hennes make eller sambo och är det med hänsyn till samtliga omständigheter sannolikt att barnet har avlats genom befruktningen, får efter utgången av år 2003 talan inte väckas om förklaring enligt 1 kap. 2 § första stycket om att mannen inte är far till barnet eller enligt 1 kap. 4 § tredje stycket om att en bekräftelse av faderskapet som mannen har lämnat saknar verkan mot honom.
+
+**2003:645**
+
+Denna lag träder i kraft den 1 januari 2004. Äldre föreskrifter i 6 kap. 16 § gäller fortfarande för överklagande av beslut som har meddelats före ikraftträdandet. I dessa fall skall dock Skatteverket föra det allmännas talan.
+
+**2004:49**
+
+1. Denna lag träder i kraft den 1 april 2004.
+
+2. Vad som sägs i 13 kap. 5 § och 14 kap. 5 § om andelar i en värdepappersfond skall också gälla andelar i en sådan värdepappersfond som förvaltas av fondbolag som med stöd av 3 § lagen (2004:47) om införande av lagen (2004:46) om investeringsfonder driver verksamhet enligt lagen (1990:1114) om värdepappersfonder.
+
+**2004:764**
+
+1. Denna lag träder i kraft den 1 januari 2005.
+
+2. Äldre bestämmelser gäller fortfarande, om äktenskap ingåtts efter hindersprövning som begärts före den 1 januari 2005.
+
+**2005:430**
+
+1. Denna lag träder i kraft den 1 juli 2005.
+
+2. Den som vid utgången av juni 2005 var utsedd till särskilt förordnad vårdnadshavare för ett barn som omfattas av lagen (2005:429) om god man för ensamkommande barn skall även anses vara förmyndare för barnet.
+
+**2005:434**
+
+1. Denna lag träder i kraft den 1 juli 2005.
+
+2. För barn som har avlats före ikraftträdandet gäller 1 kap. 5 § föräldrabalken i sin äldre lydelse.
+
+**2006:458**
+
+1. Denna lag träder i kraft den 1 juli 2006.
+
+2. Äldre bestämmelser i 21 kap. tillämpas i fråga om mål om verkställighet eller överflyttning av barn i annat fall som vid ikraftträdandet är anhängigt vid domstol.
+
+**2006:557**
+
+1. Denna lag träder i kraft den 1 juli 2006.
+
+2. Ärenden om förmynderskap, godmanskap och förvaltarskap som vid ikraftträdandet är anhängiga vid en domstol eller hos en överförmyndare som var behörig enligt äldre bestämmelser skall handläggas där även efter ikraftträdandet.
+
+3. Ärenden inom ramen för en överförmyndares tillsyn som före ikraftträdandet inletts av en överförmyndare som var behörig enligt äldre bestämmelser skall handläggas där även efter ikraftträdandet.
+
+4. Den nya lydelsen av 12 kap. 16 § skall tillämpas vid beslut om i vad mån arvode och ersättning för utgifter som är hänförliga till år 2006 skall betalas med medel som tillhör den enskilde.
+
+**2008:910**
+
+1. Denna lag träder i kraft den 1 januari 2009.
+
+2. I fråga om avtal som har ingåtts före ikraftträdandet gäller 12 kap. 10 § i dess äldre lydelse.
+
+3. Äldre bestämmelser i 12 kap. 15 § om tid för att väcka talan om ersättning ska gälla när handlingar som anges i 16 kap. 8 § har lämnats över till den som är behörig att ta emot redovisningen före ikraftträdandet.
+
+**2010:862**
+
+1. Denna lag träder i kraft den 1 juli 2011.
+
+2. När det gäller huvudmans utbetalning av skadestånd som hänför sig till kommunal vuxenutbildning, vuxenutbildning för utvecklingsstörda och svenskundervisning för invandrare gäller 16 kap. 11 § i dess äldre lydelse till utgången av juni 2012.
+
+**2014:377**
+
+1. Denna lag träder i kraft den 1 juli 2014.
+
+2. Äldre bestämmelser gäller när den omyndige har ingått äktenskap med stöd av ett tillstånd enligt 15 kap. 1 § äktenskapsbalken i dess lydelse före den 1 juli 2014.
+
+**2014:886**
+
+1. Denna lag träder i kraft den 1 januari 2015.
+
+2. Den nya bestämmelsen i 11 kap. 17 a § första stycket ska endast gälla i ärenden som inleds vid tingsrätten efter ikraftträdandet.
+
+**2018:1279**
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. Den upphävda 1 kap. 6 § gäller fortfarande när en insemination har utförts före ikraftträdandet.
+
+3. Den äldre lydelsen av 1 kap. 8 § gäller fortfarande när en befruktning utanför kroppen har utförts före ikraftträdandet.
+
+**2020:1027**
+
+1. Denna lag träder i kraft den 1 januari 2021.
+
+2. Äldre bestämmelser gäller dock fortfarande för aktiebolag och ekonomiska föreningar som omfattas av punkt 2 och 3 i ikraftträdande- och övergångsbestämmelserna till lagen (2020:1026) om upphävande av lagen (2004:299) om inlåningsverksamhet och insättningar i sådana företag.
+
+**2021:528**
+
+Denna lag träder i kraft den 1 mars 2022 i fråga om 6 kap. 17 c § och 20 kap. 11 § och i övrigt den 1 juli 2021.
+
+**2021:783**
+
+1. Denna lag träder i kraft den 1 januari 2022.
+
+2. Äldre föreskrifter gäller fortfarande för en bekräftelse av föräldraskap till ett barn som har fötts före ikraftträdandet.
+
+**2022:631**
+
+1. Denna lag träder i kraft den 1 juli 2022.
+
+2. Äldre bestämmelser gäller fortfarande för ledamöter som valts före ikraftträdandet.
+
+**2022:966**
+
+1. Denna lag träder i kraft den 1 augusti 2022.
+
+2. Äldre föreskrifter gäller fortfarande för ett ackord som kommer till stånd enligt den upphävda lagen (1996:764) om företagsrekonstruktion.
+
+**2026:490**
+
+1. Denna lag träder i kraft
+
+a) den 1 januari 2028 i fråga om 11 kap. 12 b § och 18 kap.,
+
+b) den 1 januari 2029 i fråga om 19 kap. 19 och 20 §§ och
+
+c) i övrigt den 1 juli 2026.
+
+2. Ärenden som har inletts vid tingsrätten före den 1 juli 2026 men ännu inte har avgjorts den dagen ska handläggas enligt äldre föreskrifter.
+
+3. En god man eller förvaltare som har förordnats före den 1 januari 2028 ska genomgå den utbildning som anges i 11 kap. 12 b § senast den 31 december 2028.
+
+4. Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om uppbyggnaden av ställföreträdarregistret.

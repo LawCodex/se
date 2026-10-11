@@ -1,0 +1,63 @@
+---
+title: "Kungörelse (1950:431) med vissa föreskrifter angående taxering och debitering av skatt vid ändring i kommunal indelning, m.m."
+identifier: "SFS 1950:431"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1950-06-29
+amended_through: "SFS 2026:166"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1950-431.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1950:431"
+retrieved: 2026-10-11
+---
+# Kungörelse (1950:431) med vissa föreskrifter angående taxering och debitering av skatt vid ändring i kommunal indelning, m.m.
+
+### 1 §
+
+Har upphävts genom *förordning (2003:898)*.
+
+### 2 §
+
+Har upphävts genom *förordning (1993:1197)*.
+
+### 3 §
+
+Om en ändring i den kommunala indelningen leder till att en del av en kommun överförs till en annan kommun, bildar en egen kommun eller ingår i en nybildad kommun, ska kommunstyrelsen i den kommun till vilken kommundelen hör enligt den nya indelningen på begäran få följande uppgifter från den motsvarande myndigheten i den förstnämnda kommunen:
+
+- de uppgifter som överlämnats från Skatteverkets beskattningsverksamhet, och
+
+- förvaltningsrättens domar om ändring av taxering av fastighet för året närmast före det år då indelningsändringen träder i kraft.
+
+Första stycket ska också tillämpas om en kommun i sin helhet införlivas med en annan kommun eller ingår i en nybildad kommun. *Förordning (2026:166)*.
+
+### 4 §
+
+Har upphävts genom *förordning (1990:1242)*.
+
+### 5 §
+
+Om en del av en kommun genom ändring i den kommunala indelningen överförs till en annan kommun, bildar en egen kommun eller ingår i en nybildad kommun i annat län, ska Skatteverket, så snart det kan ske, tillställa kommunstyrelsen i den kommun till vilken kommundelen hör enligt den nya indelningen uppgift om de sammanlagda beskattningsbara förvärvsinkomsterna i kommundelen i besluten om slutlig skatt enligt 56 kap. 2 § skatteförfarandelagen (2011:1244) året innan indelningsändringen träder i kraft.
+
+Det som sägs i första stycket angående uppgift om de sammanlagda beskattningsbara förvärvsinkomsterna i besluten om slutlig skatt året innan indelningsändringen träder i kraft, gäller också om en annan kommun i sin helhet införlivas med en annan kommun eller ingår i en nybildad kommun. *Förordning (2011:1437)*.
+
+### 6 §
+
+Skatteverket skall också i andra fall än som sägs i 5 § på begäran av kommunstyrelse lämna uppgift om de sammanlagda beskattningsbara förvärvsinkomsterna eller annan uppgift som är tillgänglig för verket om kommun som berörs av ändring i kommunal indelning. *Förordning (2003:898)*.
+
+## Övergångsbestämmelser
+
+**2000:855**
+
+Denna förordning träder i kraft den 1 januari 2001 och tillämpas första gången vid 2002 års taxering.
+
+**2003:898**
+
+Denna förordning träder i kraft den 1 januari 2004. 3 § första stycket i sin äldre lydelse gäller fortfarande för uppgifter som överlämnats från skattemyndigheternas regionala fastighetstaxeringsregister.
+
+**2011:1437**
+
+1. Denna förordning träder i kraft den 1 januari 2012.
+
+2. Äldre bestämmelser gäller fortfarande för 2013 och tidigare års taxeringar.

@@ -1,0 +1,59 @@
+---
+title: "Lag (1962:512) om indrivning i Sverige av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge"
+identifier: "SFS 1962:512"
+type: act
+jurisdiction: se
+language: sv
+date: 1962-09-21
+amended_through: "SFS 2006:681"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1962-512.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1962:512"
+retrieved: 2026-10-11
+---
+# Lag (1962:512) om indrivning i Sverige av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge
+
+## 1 §
+
+Lagakraftvunnen dom, administrativ myndighets beslut eller av sådan myndighet godkänd förbindelse, varigenom i Danmark, Finland, Island eller Norge någon förpliktats eller utfäst sig att betala underhållsbidrag till make, förutvarande make, barn, styvbarn eller barnets mor, skall erkännas här i landet utan någon särskild stadfästelse.
+
+Lagakraftvunnen dom, administrativ myndighets beslut, av sådan myndighet godkänd förbindelse eller annan skriftlig förbindelse, varigenom i Danmark, Finland, Island eller Norge någon förpliktats eller utfäst sig att betala sådant bidrag och som kan verkställas i den staten, skall på begäran omedelbart verkställas här i landet. Detsamma skall gälla sådan ännu icke lagakraftvunnen dom och sådant av rätten eller domaren meddelat beslut som kan verkställas lika med lagakraftvunnen dom.
+
+*Lag (2001:400)*.
+
+## 2 §
+
+Framställning om erhållande av verkställighet göres hos myndighet i den fördragsslutande stat, där sökanden vistas, eller i den stat, där domen eller beslutet meddelades eller förbindelsen ingicks.
+
+Vistas sökanden i Sverige, görs framställningen direkt hos Kronofogdemyndigheten.
+
+Framställning, som gjorts i Danmark, Finland, Island eller Norge, skall av behörig myndighet översändas till Kronofogdemyndigheten.
+
+Myndighet, som i Danmark, Finland, Island eller Norge förskottsvis utbetalat bidrag, får göra framställning om indrivning av bidraget direkt hos Kronofogdemyndigheten.
+
+Handling, som är avfattad på finska eller isländska språket, skall vara åtföljd av bestyrkt översättning i erforderliga delar till svenska, danska eller norska språket.
+
+*Lag (2006:681)*.
+
+## 3 §
+
+Kronofogdemyndigheten får, om så anses nödvändigt, kräva bevis för att domen, beslutet eller förbindelsen uppfyller de villkor för verkställighet som anges i 1 §. Sådant bevis utfärdas, i den stat där domen eller beslutet meddelades eller förbindelsen ingicks, av den myndighet som är behörig att översända en sådan framställning som avses i 2 § tredje stycket.
+
+Har underhållsbidraget icke i domen, beslutet eller förbindelsen fastställts till bestämt belopp eller avser framställning om verkställighet högre belopp än som fastställts, må ock bevis om bidragets storlek krävas enligt vad i första stycket stadgas. *Lag (2006:681)*.
+
+## 4 §
+
+Verkställigheten sker enligt vad som är stadgat om svensk domstols lagakraftvunna dom eller, såvitt angår indrivning på grund av skriftlig förbindelse, för motsvarande fall gäller om här slutet avtal.
+
+Verkställigheten försiggår utan avgift för den berättigade, såframt den ej skall ske i den ordning som gäller beträffande fast egendom. Utgift, för vilken befrielse sålunda njutes, skall gäldas av allmänna medel.
+
+Influtet belopp översändes till sökanden eller till annan, som denne bestämmer.
+
+## 5 §
+
+Vad i denna lag stadgas om underhållsbidrag avser jämväl bidrag till förlossnings- och barnsängskostnader samt till utgifter för barns särskilda utbildning, så ock för dess dop, konfirmation, sjukdom, begravning och dylikt.
+
+## 6 §
+
+Kostnadsersättning, som ålagts den bidragspliktige i anledning av underhållsfrågans prövning, kan indrivas enligt reglerna i denna lag.

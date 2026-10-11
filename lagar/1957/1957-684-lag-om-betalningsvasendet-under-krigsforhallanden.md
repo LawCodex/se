@@ -1,0 +1,57 @@
+---
+title: "Lag (1957:684) om betalningsväsendet under krigsförhållanden"
+identifier: "SFS 1957:684"
+type: act
+jurisdiction: se
+language: sv
+date: 1957-12-20
+amended_through: "SFS 2022:1570"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1957-684.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1957:684"
+retrieved: 2026-10-11
+---
+# Lag (1957:684) om betalningsväsendet under krigsförhållanden
+
+## 1 §
+
+Är Sverige i krig, skall bestämmelserna i 2, 4 och 5 §§ tillämpas.
+
+Är Sverige i krigsfara eller råder det sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen föreskriva att 2, 4 och 5 §§ skall tillämpas.
+
+Föreskrift enligt andra stycket skall underställas riksdagens prövning inom en månad från det den utfärdades. Sker inte underställning eller godkänner riksdagen inte föreskriften inom två månader från det underställningen skedde, upphör föreskriften att gälla.
+
+När bestämmelserna i 2, 4 och 5 §§ tillämpas, gäller inte bestämmelser i lag eller annan författning, om de strider mot dessa bestämmelser eller mot föreskrifter som meddelats med stöd av dem.
+
+*Lag (1994:1628)*.
+
+## 2 §
+
+Är Sverige i krig, får regeringen, efter hörande där så är möjligt av direktionen i Riksbanken, meddela föreskrifter om Riksbankens sedel- och myntutgivning och bankrörelse samt offentliggörande av Riksbankens räkenskaper att gälla i stället för vad som är föreskrivet i lagen (2022:1568) om Sveriges riksbank och i annan lag.
+
+Är Sverige i krigsfara eller råder det sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen, efter framställning av direktionen i Riksbanken, meddela sådana föreskrifter som avses i första stycket. *Lag (2022:1570)*.
+
+## 3 §
+
+har upphävts genom *lag (1989:244)*.
+
+## 3 a §
+
+har upphävts genom *lag (1989:244)*.
+
+## 4 §
+
+Är Sverige i krig, får regeringen, efter hörande där så är möjligt av direktionen i Riksbanken, föreskriva att Riksbanken skall vara skyldig att inlösa utbetalningskort avsedda för postgirorörelsen och direktutbetalningskort, som utfärdats av statlig eller kommunal myndighet eller annan postgirokontoinnehavare, som fått medgivande att göra utbetalning med direktutbetalningskort, samt att sådana kort skall tas emot som betalning till statlig myndighet.
+
+Är Sverige i krigsfara eller råder det sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen, efter hörande av direktionen i Riksbanken, meddela sådana föreskrifter som avses i första stycket. *Lag (2004:800)*.
+
+## 5 §
+
+Kan under krig förbindelsen mellan någon del av riket och riksstyrelsen icke eller allenast med avsevärd svårighet upprätthållas eller föreligger eljest under krig trängande behov av omedelbara åtgärder, äger länsstyrelse i tillämpliga delar utöva befogenhet som enligt denna lag tillkommer Konungen.
+
+## 6 §
+
+Konungen meddelar de närmare föreskrifter, som erfordras för tillämpningen av denna lag.
+
+Konungen äger ock uppdraga åt riksbanken samt åt Konungen underordnad myndighet att meddela de föreskrifter, som erfordras för tillämpningen av denna lag eller med stöd av lagen meddelat förordnande.

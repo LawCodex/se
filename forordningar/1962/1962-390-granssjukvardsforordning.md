@@ -1,0 +1,56 @@
+---
+title: "Gränssjukvårdsförordning (1962:390)"
+identifier: "SFS 1962:390"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1962-05-25
+amended_through: "SFS 2019:1000"
+reprinted: "SFS 1986:435"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1962-390.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1962:390"
+retrieved: 2026-10-11
+---
+# Gränssjukvårdsförordning (1962:390)
+
+### 1 §
+
+Har någon som är försäkrad för bosättningsbaserade förmåner enligt 4 och 5 kap. socialförsäkringsbalken fått behov av läkarvård eller fysioterapeutisk behandling under vistelse inom en svensk kommun vid riksgränsen mot Finland eller Norge och fått sådan vård eller behandling i det angränsande landet, ska Försäkringskassan lämna ersättning för den försäkrades utgift för vården eller behandlingen.
+
+*Förordning (2013:1150)*.
+
+### 2 §
+
+Ersättning för utgift för läkarvård lämnas högst med ett belopp som motsvarar det arvode som en privatpraktiserande läkare med ersättning enligt lagen (1993:1651) om läkarvårdsersättning skulle ha fått tillgodoräkna sig för vården. Utgift för fysioterapi ersätts högst med ett belopp som motsvarar det arvode som en privatpraktiserande fysioterapeut med ersättning enligt lagen (1993:1652) om ersättning för fysioterapi skulle ha fått tillgodoräkna sig för behandlingen.
+
+Från ersättning för utgift för vård eller behandling görs avdrag med ett belopp som motsvarar den patientavgift som gäller för vården eller behandlingen i patientens hemregion.
+
+*Förordning (2019:1000)*.
+
+### 3 §
+
+För resekostnad i samband med vården eller behandlingen utges ersättning enligt föreskrifterna i lagen (1991:419) om resekostnadsersättning vid sjukresor. *Förordning (1991:1646)*.
+
+## Övergångsbestämmelser
+
+**1991:1646**
+
+Denna förordning träder i kraft den 1 januari 1992. Äldre föreskrifter gäller fortfarande i fråga om ersättning som avser tid före ikraftträdandet.
+
+**1993:1666**
+
+1. Denna förordning träder i kraft den 1 januari 1994.
+
+2. Äldre bestämmelser gäller fortfarande i fråga om ersättning som avser tid före ikraftträdandet.
+
+**2010:1649**
+
+Denna förordning träder i kraft den 1 januari 2011. Äldre föreskrifter gäller fortfarande i fråga om ersättning som avser tid före ikraftträdandet.
+
+**2013:1150**
+
+1. Denna förordning träder i kraft den 1 januari 2014.
+
+2. Äldre bestämmelser gäller fortfarande för behandling som har lämnats före ikraftträdandet.

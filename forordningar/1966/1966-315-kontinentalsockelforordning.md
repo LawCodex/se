@@ -1,0 +1,197 @@
+---
+title: "Kontinentalsockelförordning (1966:315)"
+identifier: "SFS 1966:315"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1966-06-03
+amended_through: "SFS 2026:1040"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1966-315.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1966:315"
+retrieved: 2026-10-11
+---
+# Kontinentalsockelförordning (1966:315)
+
+### 1 §
+
+Uttrycken uppgradering, samlokaliserad energilagringsanläggning och verksamhet eller åtgärd för förnybar energi har i denna förordning samma innebörd som i lagen (2026:399) om verksamheter och åtgärder för förnybar energi. *Förordning (2026:1040)*.
+
+### 2 §
+
+Tillsynen över att föreskrifter och villkor för tillstånd enligt lagen (1966:314) om kontinentalsockeln följs utövas av Sveriges geologiska undersökning. Myndigheten ska vid tillsynen samverka med andra myndigheter, vilkas verksamhet berörs av tillståndet.
+
+Sjöfartsverket, Kustbevakningen och Polismyndigheten ska på begäran av Sveriges geologiska undersökning biträda vid tillsynen.
+
+Denna paragraf gäller inte vid tillsyn enligt 15 c § lagen om kontinentalsockeln. *Förordning (2022:660)*.
+
+### 2 a §
+
+Tillsynen över efterlevnaden av 15 a § lagen om kontinentalsockeln och villkor som har meddelats med stöd av den paragrafen utövas av Kustbevakningen. *Förordning (1996:523)*.
+
+### 3 §
+
+Tillstånd enligt lagen om kontinentalsockeln fordras ej för fångst av levande organismer.
+
+Sådant tillstånd fordras ej heller för vetenskaplig undersökning som utföres av svensk vetenskaplig institution, om arbetet kan bedrivas utan förfång för verksamhet som utövas enligt tillstånd. Detsamma gäller i fråga om annan undersökning, som bedrives av svensk fysisk eller juridisk person innanför territorialgränsen, när undersökningen ej avser letning efter salt, olja eller gas eller innefattar sprängning, borrning, inrättande av anläggning eller annat ingrepp i naturen av någon betydelse.
+
+Undersökning som avses i andra stycket skall anmälas skriftligen till Sveriges geologiska undersökning minst fjorton dagar före arbetets början. *Förordning (1982:585)*.
+
+### 4 §
+
+Regeringen prövar frågor om tillstånd att utvinna naturtillgångar från kontinentalsockeln, om inte annat följer av 5 §. Regeringen prövar även frågor om tillstånd till geologisk lagring av koldioxid samt utläggning av undervattenskablar och rörledningar enligt 2 b § lagen (1966:314) om kontinentalsockeln.
+
+En ansökan om tillstånd ska ges in till Regeringskansliet och innehålla
+
+1. uppgift om sökandens hemvist och postadress samt, när sökanden är ett utländskt företag, om den filial som sökanden har eller avser att inrätta i Sverige för den planerade verksamheten,
+
+2. uppgift om den planerade verksamhetens art och omfattning samt om det område och den tid ansökan avser,
+
+3. ett arbetsprogram för verksamheten,
+
+4. de uppgifter som behövs för att bedöma hur de allmänna hänsynsreglerna i 2 kap. miljöbalken följs,
+
+5. uppgift om de åtgärder sökanden anser nödvändiga för att förebygga vattenförorening och intrång på sjöfart, fiske och andra allmänna och enskilda intressen,
+
+6. uppgift om sökandens tekniska och ekonomiska förutsättningar för verksamheten,
+
+7. en karta, upprättad enligt Sveriges geologiska undersöknings anvisningar, tillsammans med en beskrivning över det område som avses med ansökan,
+
+8. intyg som sökanden vill åberopa för att styrka uppgifter som avses i 3-6, och
+
+9. den miljökonsekvensbeskrivning som krävs enligt 3 a § tredje stycket 3 eller 4 lagen om kontinentalsockeln.
+
+*Förordning (2023:279)*.
+
+### 4 a §
+
+Tillstånd enligt 15 a § lagen om kontinentalsockeln meddelas av regeringen.
+
+En ansökan om tillstånd ska ges in till Regeringskansliet och innehålla uppgift om
+
+1. undervattenskabelns eller rörledningens sträckning på kontinentalsockeln, och
+
+2. de åtgärder som sökanden anser behövs för att förhindra, begränsa och kontrollera föroreningar från rörledningen.
+
+*Förordning (2023:279)*.
+
+### 5 §
+
+Sveriges geologiska undersökning prövar frågor om tillstånd till sand-, grus- eller stentäkt på ett område som i sin helhet är beläget inom allmänt vattenområde i havet, om inte regeringen enligt femte stycket ska göra detta.
+
+Ansökan ska ges in till Sveriges geologiska undersökning och ska innehålla de uppgifter som behövs för att bedöma hur de allmänna hänsynsreglerna i 2 kap. miljöbalken följs och den miljökonsekvensbeskrivning som krävs enligt 3 a § lagen (1966:314) om kontinentalsockeln.
+
+Sveriges geologiska undersökning ska i ett tillståndsärende inhämta yttrande från Naturvårdsverket, Havs- och vattenmyndigheten, kommunen och andra berörda myndigheter.
+
+Ett beslut om tillstånd ska gälla för en viss tid, högst tio år, och avse ett visst område. I beslutet ska det anges i vilken omfattning sand, grus eller sten får tas samt de villkor som behövs för att i skälig omfattning tillgodose andra intressen såsom sjöfarten, fisket och naturvården eller som annars aktualiseras av bestämmelserna i havsrättskonventionen. Beslutet ska också innehålla en upplysning om den prövning av verksamheten som kan krävas enligt någon annan författning.
+
+Sveriges geologiska undersökning ska ta ut en avgift för tillstånd enligt 4 b § andra stycket lagen om kontinentalsockeln. En avgift behöver dock inte tas ut om företaget är av ringa omfattning eller om det finns något annat särskilt skäl mot att ta ut avgiften. Avgifterna bestäms av Sveriges geologiska undersökning.
+
+Om en täkt som avses med ansökan är av större omfattning eller kan medföra betydande skadeverkningar eller om Naturvårdsverket eller Havs- och vattenmyndigheten begär det, ska Sveriges geologiska undersökning med eget yttrande överlämna ärendet till regeringen för prövning.
+
+*Förordning (2022:660)*.
+
+### 5 a §
+
+Sveriges geologiska undersökning prövar frågor om tillstånd att utforska kontinentalsockeln, om inte annat följer av fjärde stycket.
+
+Ansökan ska ges in till Sveriges geologiska undersökning och ska innehålla
+
+1. uppgift om sökandens hemvist och postadress samt, när sökanden är ett utländskt företag, om den filial som sökanden har eller avser att inrätta i Sverige för den planerade verksamheten,
+
+2. uppgift om den planerade verksamhetens art och omfattning samt om det område och den tid ansökan avser,
+
+3. ett arbetsprogram för verksamheten,
+
+4. de uppgifter som behövs för att bedöma hur de allmänna hänsynsreglerna i 2 kap. miljöbalken följs,
+
+5. uppgift om de åtgärder sökanden anser nödvändiga för att förebygga vattenförorening och intrång på sjöfart, fiske och andra allmänna och enskilda intressen,
+
+6. uppgift om sökandens tekniska och ekonomiska förutsättningar för verksamheten,
+
+7. en karta, upprättad enligt Sveriges geologiska undersöknings anvisningar, tillsammans med en beskrivning över det område som avses med ansökan,
+
+8. intyg som sökanden vill åberopa för att styrka uppgifter som avses i 3-6, och
+
+9. den miljökonsekvensbeskrivning som krävs enligt 3 a § fjärde stycket 3 eller 4 lagen (1966:314) om kontinentalsockeln.
+
+Sveriges geologiska undersökning ska i ett tillståndsärende inhämta yttrande från Naturvårdsverket, Havs- och vattenmyndigheten, Försvarsmakten och andra berörda myndigheter.
+
+Om en verksamhet som avses med ansökan berör en annan stat, är av större omfattning eller kan medföra betydande skadeverkningar, eller om Naturvårdsverket, Havs- och vattenmyndigheten eller Försvarsmakten begär det, ska Sveriges geologiska undersökning med eget yttrande överlämna ärendet till regeringen för prövning. *Förordning (2022:660)*.
+
+### 5 b §
+
+Den myndighet som tar emot en ansökan om tillstånd enligt 4, 4 a eller 5 a § som avser en verksamhet eller åtgärd för förnybar energi ska, så snart som möjligt och senast 45 dagar efter att ansökan kom in,
+
+1. skicka information till sökanden om att handläggningen av ärendet har påbörjats, eller
+
+2. om ansökan är bristfällig, förelägga sökanden att komplettera ansökan.
+
+När bristerna har avhjälpts ska myndigheten, så snart som möjligt och senast 45 dagar efter att bristerna avhjälptes, skicka information till sökanden om att handläggningen av ärendet har påbörjats. *Förordning (2026:1040)*.
+
+### 5 c §
+
+Ett ärende som avses i 5 b § ska avgöras inom tre år. Tidsfristen börjar löpa den dag myndigheten skickar information till sökanden enligt 5 b § om att handläggningen av ärendet har påbörjats.
+
+Trots första stycket ska ärendet avgöras inom två år, om det avser
+
+1. uppgradering av en anläggning för produktion av förnybar el,
+
+2. uppförande av en anläggning för förnybar el med en lägre installerad elektrisk effekt än 150 kilowatt,
+
+3. uppförande av en samlokaliserad energilagringsanläggning i anslutning till en verksamhet eller åtgärd som avses i 1 eller 2, eller
+
+4. anslutning till ett nät av en anläggning i anslutning till en verksamhet eller åtgärd som avses i 1, 2 eller 3. *Förordning (2026:1040)*.
+
+### 5 d §
+
+En tidsfrist enligt 5 c § första stycket får förlängas en gång med högst sex månader om det
+
+1. efter att tidsfristen har börjat löpa uppstår behov av kompletteringar på grund av nya bestämmelser eller ny information,
+
+2. uppstår en försening vid handläggningen av ärendet och förseningen beror på någon yttre omständighet som myndigheten inte hade kunnat påverka eller förutse när tidsfristen började löpa,
+
+3. är nödvändigt för att en prövning som krävs enligt EU- lagstiftning på miljöområdet ska kunna genomföras, eller
+
+4. finns andra synnerliga skäl än de som anges i 1-3.
+
+En tidsfrist enligt 5 c § andra stycket får förlängas en gång med högst tre månader om det finns sådana skäl som anges i första stycket.
+
+Om en tidsfrist förlängs ska sökanden skriftligen informeras om förlängningen och skälen för den. *Förordning (2026:1040)*.
+
+### 6 §
+
+Arbete för utforskande av kontintentalsockeln eller utvinning av dess naturtillgångar får icke utföras på sådant sätt att undervattensledningar skadas eller otillbörligt intrång göres på sjöfarten, fisket eller havets biologiska tillgångar.
+
+Innehavare av tillstånd enligt lagen om kontintentalsockeln är skyldig tåla att kablar eller rörledningar utläggas eller underhållas inom tillståndsområdet, i den mån arbetet sker utan att tillståndshavarens verksamhet otillbörligt hindras.
+
+Tillståndshavare är vidare skyldig tåla att inom tillståndsområdet bedrives oceanografisk grundforskning eller annan vetenskaplig forskning vars resultat äro avsedda att offentliggöras.
+
+### 7 §
+
+Avgift som avses i 4 b § andra stycket lagen om kontinentalsockeln ska betalas till Sveriges geologiska undersökning. *Förordning (2007:952)*.
+
+### 8 §
+
+Den som underlåter att göra anmälan enligt 3 § tredje stycket dömes till böter.
+
+## Övergångsbestämmelser
+
+**2017:967**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande för handläggningen av ärenden som har inletts före ikraftträdandet.
+
+**2022:660**
+
+1. Denna förordning träder i kraft den 1 juli 2022.
+
+2. Sveriges geologiska undersökning ska efter ikraftträdandet handlägga ärenden om tillstånd att utforska kontinentalsockeln enligt 5 a § som har inletts hos regeringen. Regeringen ska överlämna handlingarna till Sveriges geologiska undersökning.
+
+**2026:1040**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre föreskrifter gäller fortfarande för mål och ärenden som har inletts före ikraftträdandet.

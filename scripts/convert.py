@@ -11,6 +11,7 @@ Reads <raw>/list/*.json (listing) and <raw>/docs/<dok_id>.json (documents) and w
   forordningar/<year>/ ordinances (title "Förordning ..." or "...förordning")
   ovriga/<year>/      other SFS instruments still in force (kungörelser,
                       tillkännagivanden, myndighetsföreskrifter, older forms...)
+Documents without any text (and without an explanatory note) are skipped too.
 Documents flagged as repealed ("Författningen är upphävd") or whose whole-text
 expiry date ("/Upphör att gälla U:YYYY-MM-DD/") has passed are skipped.
 """
@@ -40,7 +41,7 @@ GRUNDLAGAR = {
 # ---------------------------------------------------------------- helpers
 
 def clean_title(t):
-    t = re.sub(r"^\s*/r\d+/\s*", "", t or "")
+    t = re.sub(r"^\s*/?r\d+/\s*", "", t or "")
     t = re.sub(r"\s+", " ", t).strip()
     t = t.rstrip(";").strip()
     return t
@@ -285,7 +286,9 @@ def main():
                     if f.endswith(".md"):
                         os.remove(os.path.join(root, f))
 
-    stats = {"written": 0, "repealed": 0, "expired": 0, "not_sfst": 0, "missing": 0, "empty": 0}
+    stats = {"written": 0, "repealed": 0, "expired": 0, "not_sfst": 0, "missing": 0,
+             "empty_skipped": 0, "empty_kept": 0}
+    skipped_empty = []
     cats = {}
     index = []
     used = set()
@@ -310,23 +313,31 @@ def main():
         text = doc.get("text") or ""
         head = norm_ws(text[:300])
         expires = None
-        m = re.match(r"/Upphör att gälla U:(\d{4}-\d{2}-\d{2})/", head)
+        m = re.match(r"/Upphör att gälla U:(\d{4}-\d{2}-\d{2})", head)
         if m:
             expires = m.group(1)
             if expires <= today:
                 stats["expired"] += 1
                 continue
         starts = None
-        m = re.match(r"/Träder i kraft I:(\d{4}-\d{2}-\d{2})/", head)
+        m = re.match(r"/Träder i kraft I:([^/]{1,60})/", head)
         if m:
-            starts = m.group(1)
+            starts = m.group(1).strip()
 
         body = convert_body(raw_html) if raw_html.strip() else ""
         if not body.strip() and text.strip():
             body = "\n\n".join(md_escape_line(norm_ws(p)) for p in re.split(r"\r?\n\s*\r?\n", text)
                                if p.strip()) + "\n"
         if not body.strip():
-            stats["empty"] += 1
+            # Entries without any text are mostly spent amending acts that the
+            # database never flagged as repealed: skip them, unless the source
+            # carries an explanatory note (e.g. text only in the printed SFS).
+            note0 = norm_ws(up.get("text2") or "")
+            if not note0 or note0.startswith("Utgår"):
+                stats["empty_skipped"] += 1
+                skipped_empty.append((bet, title))
+                continue
+            stats["empty_kept"] += 1
             body = "*(Ingen författningstext tillgänglig i källan.)*\n"
 
         cat, typ = classify(title, bet)
@@ -359,7 +370,7 @@ def main():
         if doc.get("organ"):
             fm.append(f"department: {yaml_str(norm_ws(doc['organ']))}")
         if starts:
-            fm.append(f"entry_into_force: {starts}")
+            fm.append(f"entry_into_force: {starts if re.fullmatch(r'\d{4}-\d{2}-\d{2}', starts) else yaml_str(starts)}")
         if expires:
             fm.append(f"expires: {expires}")
         fm += ["status: in_force",
@@ -382,7 +393,7 @@ def main():
     print(json.dumps(stats, ensure_ascii=False))
     print(json.dumps(cats, ensure_ascii=False))
     with open(os.path.join(a.raw, "index.json"), "w") as f:
-        json.dump({"stats": stats, "cats": cats, "index": index}, f, ensure_ascii=False)
+        json.dump({"stats": stats, "cats": cats, "index": index, "skipped_empty": skipped_empty}, f, ensure_ascii=False)
 
 
 if __name__ == "__main__":

@@ -1,0 +1,44 @@
+---
+title: "Kungörelse (1967:733) om tillämpning av avtal den 15 maj 1962 mellan Sverige och Israel för undvikande av dubbelbeskattning beträffande skatter på kvarlåtenskap"
+identifier: "SFS 1967:733"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1967-12-01
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1967-733.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1967:733"
+retrieved: 2026-10-11
+---
+# Kungörelse (1967:733) om tillämpning av avtal den 15 maj 1962 mellan Sverige och Israel för undvikande av dubbelbeskattning beträffande skatter på kvarlåtenskap
+
+> Bilagor finns inte med här.
+
+### 1 §
+
+Avtalet den 15 maj 1962 mellan Sverige och Israel för undvikande av dubbelbeskattning beträffande skatter på kvarlåtenskap skall lända till efterrättelse för Sveriges del. /n1/
+
+//n1// Ang. avtalets lydelse i engelsk text och svensk översättning se bilaga fogad till 1963:34.
+
+### 2 §
+
+Anstånd enligt 3 § kungörelsen den 1 december 1967 (nr 721) om förfarandet rörande eftergift av arvsskatt eller gåvoskatt vid dubbelbeskattning får medges med högst så stor del av skatten, som vid proportionell fördelning av hela det beräknade skattebeloppet på den egendom, som enligt avtalet skall beskattas i Sverige, och den egendom, som enligt avtalet skall beskattas i Israel, kan antagas belöpa på sistnämnda egendom (jfr art. IV--X).
+
+### 3 §
+
+Om åtgärd av beskattningsmyndighet i Israel medfört beskattning som strider mot avtalets principer, kan den som träffats av beskattningen hos Kungl. Maj:t ansöka om att åtgärd vidtages från svensk sida för att undvika sådan beskattning under förutsättning att den avlidne enligt avtalet skall anses ha varit bosatt i Sverige vid sin död (jfr art.
+
+XIII).
+
+Ansökan bör göras inom två år efter utgången av det kalenderår, då sökanden fick kännedom om beskattningen.
+
+## Övergångsbestämmelser
+
+**1967:733**
+
+Denna kungörelse träder i kraft den 1 januari 1968.
+
+Kungörelsen och bestämmelserna i avtalet tillämpas på dödsbo efter den som avlidit efter den 30 juni 1961.
+
+Genom denna kungörelse upphäves kungörelsen den 1 mars 1963 (nr 34) om tillämpning av ett mellan Sverige och Israel den 15 maj 1962 ingånget avtal för undvikande av dubbelbeskattning beträffande skatter å kvarlåtenskap.

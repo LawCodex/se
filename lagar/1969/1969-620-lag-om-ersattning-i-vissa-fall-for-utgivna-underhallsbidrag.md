@@ -1,0 +1,55 @@
+---
+title: "Lag (1969:620) om ersättning i vissa fall för utgivna underhållsbidrag"
+identifier: "SFS 1969:620"
+type: act
+jurisdiction: se
+language: sv
+date: 1969-12-05
+amended_through: "SFS 2026:1500"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1969-620.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1969:620"
+retrieved: 2026-10-11
+---
+# Lag (1969:620) om ersättning i vissa fall för utgivna underhållsbidrag
+
+## 1 §
+
+Den som på grund av förordnande enligt 7 kap. 15 § föräldrabalken i mål om fastställande av faderskap utgivit underhållsbidrag till barn har rätt att av allmänna medel få ersättning härför om domstolen genom dom eller beslut som vunnit laga kraft skilt målet från sig utan att mannen blivit underhållsskyldig.
+
+Vad som sägs i första stycket om rätt till ersättning av allmänna medel gäller också för det fall att underhållsbidrag utgivits på grund av att mannen i skriftlig, av två personer bevittnad handling åtagit sig att utge underhåll för tid, intill dess resultatet av blodundersökning om faderskapet föreligger, och blodundersökningen visar att han icke kan vara fader till barnet. Är hans faderskap enligt blodundersökningen osannolikt, har han rätt till ersättning för utgivna underhållsbidrag, såvida talan om faderskapet icke väckes mot honom inom sex månader från det utlåtandet över blodundersökningen förelåg. Oavsett resultatet av blodundersökningen föreligger rätt till ersättning, om han genom lagakraftvunnen dom friats från faderskapet eller om annan man på grund av lagakraftvunnen dom eller erkännande är att anse som fader till barnet. *Lag (1979:337)*.
+
+## 2 §
+
+Har en man enligt 1 kap. 1 § föräldrabalken ansetts som far till ett barn eller har en mans faderskap till ett barn fastställts genom bekräftelse eller dom, men frias mannen från faderskapet, har han rätt till ersättning av allmänna medel för underhållsbidrag som han enligt 7 kap. 2 § föräldrabalken utgett till barnet. *Lag (1990:1531)*.
+
+## 3 §
+
+Ersättning enligt 1 eller 2 § skall motsvara vad mannen på grund av dom, beslut eller avtal har erlagt i underhåll för barnet. Om det finns synnerliga skäl får dock ersättningen sättas ner eller vägras.
+
+Utöver ersättning för erlagda underhållsbidrag utgår ränta enligt 5 § räntelagen (1975:635) på varje erlagt belopp från dess betalningsdag.
+
+Kan icke styrkas när underhållsbidragen betalats, beräknas ränta till skäligt belopp. *Lag (1979:338)*.
+
+## 4 §
+
+Föreligger rätt till ersättning enligt denna lag får mannen ej kräva tillbaka vad han har utgett av den som mottagit underhållsbidraget. Ej heller får staten kräva tillbaka utgiven ersättning av den som har mottagit underhållsbidraget.
+
+Fastställs att en annan man är far till barnet får staten, om det finns särskilda skäl, kräva tillbaka utgiven ersättning av denne enligt vad som följer av hans underhållsskyldighet mot barnet. *Lag (1979:338)*.
+
+## 5 §
+
+*/Upphör att gälla U:2027-01-01/* Ansökan om ersättning göres hos länsstyrelsen i det län där mål om faderskapet handlagts eller skulle ha handlagts av underrätt.
+
+## 5 §
+
+*/Träder i kraft I:2027-01-01/* En ansökan om ersättning prövas av länsstyrelsen.
+
+Den eller de länsstyrelser som regeringen bestämmer ansvarar för att pröva ansökningar enligt första stycket.
+
+*Lag (2026:1500)*.
+
+## 6 §
+
+Lagen tillämpas också i fråga om underhållsbidrag som har betalats av en kvinna på grund av hennes föräldraskap enligt 1 kap. 9 § föräldrabalken. *Lag (2005:440)*.

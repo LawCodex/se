@@ -1,0 +1,42 @@
+---
+title: "Kungörelse (1967:730) om tillämpning av avtal den 18 januari 1956 mellan Sverige och Belgien för undvikande av dubbelbeskattning och för reglering av vissa andra frågor beträffande skatter på kvarlåtenskap"
+identifier: "SFS 1967:730"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1967-12-01
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1967-730.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1967:730"
+retrieved: 2026-10-11
+---
+# Kungörelse (1967:730) om tillämpning av avtal den 18 januari 1956 mellan Sverige och Belgien för undvikande av dubbelbeskattning och för reglering av vissa andra frågor beträffande skatter på kvarlåtenskap
+
+> Bilagor finns inte med här.
+
+### 1 §
+
+Avtalet den 18 januari 1956 mellan Sverige och Belgien för undvikande av dubbelbeskattning och för reglering av vissa andra frågor beträffande skatter på kvarlåtenskap skall lända till efterrättelse för Sveriges del /n1/.
+
+//n1// Ang. lydelsen av avtalet och därtill fogat protokoll se bilaga fogad till 1958:180.
+
+### 2 §
+
+Anstånd enligt 3 § kungörelsen den 1 december 1967 (nr 721) om förfarandet rörande eftergift av arvsskatt eller gåvoskatt vid dubbelbeskattning får medges med högst så stor del av skatten, som överskjuter vad som enligt avtalet beräknas högst kunna uttagas i Sverige (jfr art. 2--4).
+
+### 3 §
+
+Om åtgärd av beskattningsmyndighet i Belgien medfört beskattning som strider mot avtalets principer, kan den som träffats av beskattningen hos Kungl. Maj:t ansöka om att åtgärd vidtages från svensk sida för att undvika sådan beskattning under förutsättning att den avlidne enligt artikel 3 § 2 i avtalet skall anses ha varit bosatt i Sverige vid sin död (jfr art. 9).
+
+Ansökan bör göras inom fem år räknat från den 1 januari det år, då skatten i Belgien betalats.
+
+## Övergångsbestämmelser
+
+**1967:730**
+
+Denna kungörelse träder i kraft den 1 januari 1968.
+
+Kungörelsen och bestämmelserna i avtalet tillämpas på dödsbo efter den som avlidit efter den 31 mars 1958.
+
+Genom denna kungörelse upphäves kungörelsen den 11 april 1958 (nr 180) om tillämpning av ett mellan Sverige och Belgien den 18 januari 1956 ingånget avtal för undvikande av dubbelbeskattning och för reglering av vissa andra frågor beträffande skatter å kvarlåtenskap.

@@ -1,0 +1,759 @@
+---
+title: "Lag (1964:167) med särskilda bestämmelser om unga lagöverträdare"
+identifier: "SFS 1964:167"
+type: act
+jurisdiction: se
+language: sv
+date: 1964-03-20
+amended_through: "SFS 2026:1662"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1964-167.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1964:167"
+retrieved: 2026-10-11
+---
+# Lag (1964:167) med särskilda bestämmelser om unga lagöverträdare
+
+### Inledande bestämmelse
+
+#### 1 §
+
+I denna lag finns särskilda bestämmelser om handläggning hos Polismyndigheten, åklagare och domstol av mål och ärenden om brott där den misstänkte inte har fyllt arton år.
+
+I övrigt gäller rättegångsbalkens regler och andra bestämmelser. *Lag (2026:1530)*.
+
+#### 1 a §
+
+/Upphör att gälla U:2031-09-10 genom *lag (2026:1556)*./ I 31-38 d §§ finns bestämmelser om handläggning av mål och ärenden där någon misstänks för att före femton års ålder ha begått ett brott. I fall som avses i 1 kap. 6 § andra stycket brottsbalken tillämpas dock i stället 38 e och 38 f §§. *Lag (2026:1530)*.
+
+### Förundersökning och åtalsprövning m.m.
+
+#### 2 §
+
+En förundersökning mot den som inte har fyllt arton år ska ledas av en åklagare eller en anställd vid Polismyndigheten som myndigheten har förordnat. Undersökningsledaren ska, om det inte möter något hinder, genom intresse och fallenhet för arbete med unga lagöverträdare vara särskilt lämpad för uppgiften.
+
+Har den unge tidigare varit föremål för förundersökning eller utredning enligt 31 §, ska om möjligt samma åklagare och samma anställda vid Polismyndigheten anlitas för att leda och genomföra den nya förundersökningen.
+
+Bestämmelser om att en förundersökning mot den som inte har fyllt arton år i vissa fall får ledas av en tulltjänsteman och att åklagare får begära biträde av Tullverket eller en tulltjänsteman vid en utredning enligt 31 § finns i tullbefogenhetslagen (2024:710). *Lag (2026:968)*.
+
+#### 3 §
+
+Har upphävts genom *lag (2012:47)*.
+
+#### 4 §
+
+En förundersökning mot den som inte har fyllt arton år och som gäller brott på vilket fängelse kan följa ska bedrivas med särskild skyndsamhet. Delgivning enligt 23 kap. 18 § första stycket rättegångsbalken av brottsmisstanke ska ske så snart som möjligt efter det att misstanken har uppkommit under förutsättning att det kan ske utan men för utredningen. Förundersökningen ska avslutas och beslut i åtalsfrågan fattas så snart det kan ske och senast inom sex veckor från dagen för delgivningen av brottsmisstanken.
+
+Tidsfristen får dock överskridas endast om det är nödvändigt med hänsyn till
+
+1. att den misstänkte ska delta i medling enligt lagen (2002:445) om medling med anledning av brott, eller
+
+2. utredningens beskaffenhet eller andra särskilda omständigheter. *Lag (2022:1533)*.
+
+#### 5 §
+
+Om någon som inte har fyllt arton år är skäligen misstänkt för brott, ska vårdnadshavaren eller någon annan som svarar för den unges vård och fostran samt någon annan som har en fostrande roll i förhållande till den unge omedelbart underrättas och kallas till förhör som hålls med den unge. Om den unge har gripits, anhållits eller häktats på grund av brottsmisstanken, ska i första hand en sådan vuxen eller i andra hand någon annan lämplig vuxen person underrättas om detta och om skälen för det samtidigt med underrättelsen om brottsmisstanken eller annars omedelbart efter frihetsberövandet.
+
+Undersökningsledaren får besluta att skjuta upp en underrättelse om brottsmisstanke, en kallelse till förhör eller en underrättelse om frihetsberövande om det är nödvändigt för att sakens utredning inte väsentligen ska försvåras. När det inte längre finns skäl för beslutet ska en underrättelse omedelbart lämnas. Detsamma gäller en kallelse till förhör.
+
+En underrättelse eller kallelse enligt första stycket ska inte göras om det strider mot den unges bästa eller om det finns andra särskilda skäl. En underrättelse om frihetsberövande ska dock alltid lämnas till någon i den krets av vuxna personer som anges i första stycket andra meningen. *Lag (2022:1096)*.
+
+#### 6 §
+
+Om någon som inte har fyllt arton år är skäligen misstänkt för ett brott som kan leda till fängelse, ska socialnämnden genast underrättas. Av underrättelsen ska det framgå huruvida den misstänkte har tillfrågats om han eller hon vill delta i medling enligt lagen (2002:445) om medling med anledning av brott och hur den misstänkte ställt sig till ett deltagande.
+
+Om den unge har gripits, anhållits eller häktats på grund av brottsmisstanken, ska socialnämnden underrättas om detta och om skälen för det samtidigt med underrättelsen om brottsmisstanken eller annars genast efter frihetsberövandet. *Lag (2016:930)*.
+
+#### 6 a §
+
+Den som inte har fyllt arton år och som är gripen, anhållen, hålls kvar enligt 14 § eller är skyldig att stanna kvar för förhör enligt 23 kap. 9 § rättegångsbalken får hållas i förvar i polisarrest endast om det är absolut nödvändigt.
+
+*Lag (2025:861)*.
+
+#### 7 §
+
+Vid förhör med den som inte har fyllt arton år och som är misstänkt för ett brott på vilket fängelse kan följa ska en företrädare för socialtjänsten närvara om det inte finns särskilda skäl mot det och det kan ske utan men för utredningen. *Lag (2023:312)*.
+
+#### 8 §
+
+Om den unge, sedan straffvarning har beslutats enligt 16 §, misstänks för att ha begått annat brott dessförinnan, får åklagaren besluta att inte inleda förundersökning eller att lägga ned en påbörjad förundersökning beträffande detta brott. Detta gäller dock inte, om något väsentligt allmänt eller enskilt intresse åsidosätts genom att förundersökning inte äger rum. *Lag (2015:81)*.
+
+#### 9 §
+
+*/Upphör att gälla U:2027-01-01/* Om någon, som med stöd av 3 § lagen (1990:52) med särskilda bestämmelser om vård av unga har intagits i ett sådant hem som avses i 12 § den lagen, misstänks för att ha begått brott som hör under allmänt åtal, innan vården vid hemmet har avslutats, skall åklagaren pröva om åtal lämpligen bör ske. Innan åtalsfrågan avgörs, skall föreståndaren för hemmet höras, om det inte är obehövligt.
+
+*Lag (1994:1760)*.
+
+#### 9 §
+
+*/Träder i kraft I:2027-01-01/* Om någon, som är omhändertagen på grund av något sådant eget beteende som anges i 3 kap. 3 § lagen (2026:1600) om omhändertagande för vård av barn och unga har intagits i ett sådant hem som avses i 15 kap. 1 § den lagen, misstänks för att ha begått brott som hör under allmänt åtal, innan vården vid hemmet har avslutats, ska åklagaren pröva om åtal lämpligen bör ske. Innan åtalsfrågan avgörs, ska föreståndaren för hemmet höras, om det inte är obehövligt. *Lag (2026:1608)*.
+
+### Personutredning
+
+#### 10 §
+
+Innan talan har väckts vid domstol, får åklagare inhämta yttrande enligt 1 § lagen (1991:2041) om särskild personutredning i brottmål, m.m. i fråga om den som inte har fyllt arton år.
+
+*Lag (1994:1760)*.
+
+#### 11 §
+
+*/Upphör att gälla U:2027-01-01/* I fråga om den som misstänks för att ha begått brott innan han eller hon fyllt arton år ska åklagaren, innan beslut fattas i åtalsfrågan, inhämta yttrande från socialnämnden i den kommun som enligt socialtjänstlagen (2025:400) har ansvaret för den unge, om denne har erkänt gärningen eller det annars finns skälig misstanke att han eller hon har begått brottet och sådant yttrande inte inhämtats under förundersökningen. Yttrande behöver inte inhämtas om brottet är ringa, om det är uppenbart att det finns förutsättningar för straffvarning eller åtalsunderlåtelse eller om det annars är obehövligt.
+
+Om förundersökningen gäller brott på vilket fängelse kan följa, ska, om möjligt, undersökningsledaren begära ett sådant yttrande som avses i första stycket senast i samband med delgivning av brottsmisstanke enligt 23 kap. 18 § första stycket rättegångsbalken.
+
+Ett yttrande ska innehålla en redogörelse för vilka åtgärder som nämnden tidigare har vidtagit i fråga om den unge samt en bedömning av om den unge har ett särskilt behov av åtgärder som syftar till att motverka att han eller hon utvecklas ogynnsamt. Yttrandet ska i förekommande fall även innehålla en redovisning av i vilken utsträckning den unge fullgjort en sådan tidigare utdömd ungdomsvård eller ungdomstjänst som nämnden har uppgift om. Vidare ska yttrandet innehålla en redovisning av de åtgärder som nämnden avser att vidta. Åtgärderna ska redovisas i ett ungdomskontrakt om de vidtas med stöd av socialtjänstlagen och i en vårdplan om de vidtas med stöd av lagen (1990:52) med särskilda bestämmelser om vård av unga. Arten, omfattningen och varaktigheten av åtgärderna ska framgå av kontraktet eller vårdplanen. Yttrandet ska, om undersökningsledaren eller, i de fall som avses i första stycket, åklagaren begär det eller om nämnden finner det nödvändigt, även innehålla en redogörelse för den unges personliga utveckling och levnadsomständigheter i övrigt. Ett yttrande ska också innehålla en bedömning av om ungdomstjänst är en lämplig påföljd med hänsyn till den unges person och övriga omständigheter.
+
+Nämnden ska även utan samband med yttrande lämna den som har ansvar för att inhämta yttrande de upplysningar som denne begär i fråga om den unge. *Lag (2025:405)*.
+
+#### 11 §
+
+*/Träder i kraft I:2027-01-01/**/Upphör att gälla U:2027-01-02/*
+
+I fråga om den som misstänks för att ha begått brott innan han eller hon fyllt arton år ska åklagaren, innan beslut fattas i åtalsfrågan, inhämta yttrande från socialnämnden i den kommun som enligt socialtjänstlagen (2025:400) har ansvaret för den unge, om denne har erkänt gärningen eller det annars finns skälig misstanke att han eller hon har begått brottet och sådant yttrande inte inhämtats under förundersökningen. Yttrande behöver inte inhämtas om brottet är ringa, om det är uppenbart att det finns förutsättningar för straffvarning eller åtalsunderlåtelse eller om det annars är obehövligt.
+
+Om förundersökningen gäller brott på vilket fängelse kan följa, ska, om möjligt, undersökningsledaren begära ett sådant yttrande som avses i första stycket senast i samband med delgivning av brottsmisstanke enligt 23 kap. 18 § första stycket rättegångsbalken.
+
+Ett yttrande ska innehålla en redogörelse för vilka åtgärder som nämnden tidigare har vidtagit i fråga om den unge samt en bedömning av om den unge har ett särskilt behov av åtgärder som syftar till att motverka att han eller hon utvecklas ogynnsamt. Yttrandet ska i förekommande fall även innehålla en redovisning av i vilken utsträckning den unge fullgjort en sådan tidigare utdömd ungdomsvård eller ungdomstjänst som nämnden har uppgift om. Vidare ska yttrandet innehålla en redovisning av de åtgärder som nämnden avser att vidta. Åtgärderna ska redovisas i ett ungdomskontrakt om de vidtas med stöd av socialtjänstlagen och i en vårdplan om de vidtas med stöd av lagen (2026:1600) om omhändertagande för vård av barn och unga. Arten, omfattningen och varaktigheten av åtgärderna ska framgå av kontraktet eller
+
+vårdplanen. Yttrandet ska, om undersökningsledaren eller, i de fall som avses i första stycket, åklagaren begär det eller om nämnden finner det nödvändigt, även innehålla en redogörelse för den unges personliga utveckling och levnadsomständigheter i övrigt. Ett yttrande ska också innehålla en bedömning av om ungdomstjänst är en lämplig påföljd med hänsyn till den unges person och övriga omständigheter.
+
+Nämnden ska även utan samband med yttrande lämna den som har ansvar för att inhämta yttrande de upplysningar som denne begär i fråga om den unge. *Lag (2026:1608)*.
+
+#### 11 §
+
+*/Träder i kraft I:2027-01-02/* I fråga om den som misstänks för att ha begått brott innan han eller hon fyllt arton år ska åklagaren, innan beslut fattas i åtalsfrågan, inhämta yttrande från socialnämnden i den kommun som enligt socialtjänstlagen (2025:400) har ansvaret för den unge, om denne har erkänt gärningen eller det annars finns skälig misstanke att han eller hon har begått brottet och sådant yttrande inte inhämtats under förundersökningen. Yttrande behöver inte inhämtas om brottet är ringa, om det är uppenbart att det finns förutsättningar för straffvarning eller åtalsunderlåtelse eller om det annars är obehövligt.
+
+Om förundersökningen gäller brott på vilket fängelse kan följa, ska, om möjligt, undersökningsledaren begära ett sådant yttrande som avses i första stycket senast i samband med delgivning av brottsmisstanke enligt 23 kap. 18 § första stycket rättegångsbalken.
+
+Ett yttrande ska innehålla en redogörelse för vilka åtgärder som nämnden tidigare har vidtagit i fråga om den unge samt en bedömning av om den unge har ett särskilt behov av åtgärder som syftar till att motverka att han eller hon utvecklas ogynnsamt. Yttrandet ska i förekommande fall även innehålla en redovisning av i vilken utsträckning den unge fullgjort en sådan tidigare utdömd ungdomsvård eller ungdomstjänst som nämnden har uppgift om. Vidare ska yttrandet innehålla en redovisning av de åtgärder som nämnden avser att vidta. Åtgärderna ska redovisas i ett ungdomskontrakt om de vidtas med stöd av socialtjänstlagen, en särskild genomförandeplan om de vidtas med stöd av lagen (2026:1637) om insatser inom socialtjänsten när samtycke saknas och en vårdplan om de vidtas med stöd av lagen (2026:1600) om omhändertagande för vård av barn och unga. Arten, omfattningen och varaktigheten av åtgärderna ska framgå av kontraktet, den särskilda genom- förandeplanen eller vårdplanen. Yttrandet ska, om undersökningsledaren eller, i de fall som avses i första stycket, åklagaren begär det eller om nämnden finner det nöd- vändigt, även innehålla en redogörelse för den unges personliga utveckling och levnadsomständigheter i övrigt. Ett yttrande ska också innehålla en bedömning av om ungdomstjänst är en lämplig påföljd med hänsyn till den unges person och övriga omständigheter.
+
+Nämnden ska även utan samband med yttrande lämna den som har ansvar för att inhämta yttrande de upplysningar som denne begär i fråga om den unge. *Lag (2026:1643)*.
+
+#### 12 §
+
+Den som begär yttrande enligt 11 § ska ange inom vilken tid yttrandet ska lämnas och, om det är lämpligt, ge socialnämnden anvisningar för hur yttrandet kan begränsas. Om nämnden inte kan lämna sitt yttrande inom den föreskrivna tiden, får den som begärt yttrandet medge att det lämnas senare. Yttrandet får lämnas muntligen vid ett sådant sammanträde som avses i 18 §, om det är nödvändigt för att hålla tidsfristen. *Lag (2012:47)*.
+
+### Anmodan att avhjälpa och begränsa skada
+
+#### 13 §
+
+En polisman får uppmana den som har eller kan antas ha fyllt femton men inte arton år att så snart som möjligt vidta åtgärder för att avhjälpa eller begränsa skada på grund av brott, om den unge har erkänt brottet eller det annars med hänsyn till omständigheterna är uppenbart att han eller hon har begått brottet. En sådan uppmaning får dock ges endast om det är lämpligt med hänsyn till omständigheterna. Om det inte är uppenbart obehövligt, ska målsägandens samtycke inhämtas innan uppmaningen ges.
+
+En uppmaning enligt första stycket får även ges av en annan anställd vid Polismyndigheten som myndigheten har utsett.
+
+*Lag (2015:446)*.
+
+### Kvarhållande
+
+#### 14 §
+
+Har någon som inte fyllt arton år gripits och beslutar åklagaren att inte anhålla den unge, får Polismyndigheten hålla kvar den unge för att skyndsamt kunna överlämna honom eller henne till föräldrarna, annan vårdnadshavare, en tjänsteman inom socialtjänsten eller någon annan lämplig vuxen person. Det som nu sagts gäller dock endast om åklagaren funnit att den unge fortfarande är skäligen misstänkt för brott.
+
+För samma ändamål får Polismyndigheten hålla kvar den som inte har fyllt arton år, om den unge har tagits med, följt med, hämtats eller inställt sig till förhör eller har frigetts efter att ha varit anhållen eller häktad. Det som nu sagts gäller endast om den unge är skäligen misstänkt för brott.
+
+Inte i något fall får någon enligt första eller andra stycket hållas kvar längre än sex timmar efter åklagarens beslut, förhöret eller beslutet om frigivning. Den misstänkte får tas i förvar om det är nödvändigt med hänsyn till ordning eller säkerhet. *Lag (2025:861)*.
+
+### Strafföreläggande
+
+#### 15 §
+
+Åklagaren får, trots de begränsningar som gäller enligt 48 kap. 4 § första stycket första meningen rättegångsbalken, utfärda strafföreläggande för brott som har begåtts av någon som inte har fyllt arton
+
+år, om det kan antas att den unge, om åtal hade väckts, skulle ha dömts endast till böter. Därvid skall åklagaren beakta de särskilda regler enligt vilka rätten kan döma till lindrigare straff än det är föreskrivet för brottet. *Lag (1994:1760)*.
+
+### Straffvarning
+
+#### 16 §
+
+Om någon har begått ett brott innan han eller hon har fyllt arton år, får åklagaren besluta att underlåta åtal enligt 17 § (straffvarning).
+
+Bestämmelser om möjligheter för åklagaren att besluta att underlåta åtal finns också i 20 kap. 7 § rättegångsbalken (åtalsunderlåtelse).
+
+I fråga om att underlåta åtal sedan åtal har väckts tillämpas 20 kap. 7 a § rättegångsbalken. *Lag (2015:81)*.
+
+#### 17 §
+
+*/Upphör att gälla U:2027-01-01/* Straffvarning får beslutas, om den unge blir föremål för sådan åtgärd som anges nedan och det med skäl kan antas att därigenom vidtas vad som är lämpligast för den unge:
+
+1. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
+
+2. vård eller annan åtgärd enligt lagen (1990:52) med särskilda bestämmelser om vård av unga, eller
+
+3. annan åtgärd som innebär att den unge får hjälp eller stöd.
+
+Straffvarning får också beslutas, om det är uppenbart att brottet har skett av okynne eller förhastande.
+
+Vid bedömningen av om straffvarning ska beslutas ska åklagaren utöver vad som följer av första och andra styckena särskilt beakta den unges vilja att ersätta målsäganden för skada som uppkommit genom brottet, att avhjälpa eller begränsa skadan, att på annat sätt gottgöra målsäganden eller att medverka till att medling kommer till stånd enligt lagen (2002:445) om medling med anledning av brott.
+
+Straffvarning får inte beslutas, om något väsentligt allmänt eller enskilt intresse därigenom åsidosätts. Vid bedömningen av om något väsentligt allmänt intresse åsidosätts ska det särskilt beaktas om den unge tidigare har gjort sig skyldig till brott. *Lag (2025:405)*.
+
+#### 17 §
+
+*/Träder i kraft I:2027-01-01/**/Upphör att gälla U:2027-01-02/*
+
+Straffvarning får beslutas, om den unge blir föremål för sådan åtgärd som anges nedan och det med skäl kan antas att därigenom vidtas vad som är lämpligast för den unge:
+
+1. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
+
+2. omhändertagande eller annan åtgärd enligt lagen (2026:1600) om omhändertagande för vård av barn och unga, eller
+
+3. annan åtgärd som innebär att den unge får hjälp eller stöd.
+
+Straffvarning får också beslutas, om det är uppenbart att brottet har skett av okynne eller förhastande.
+
+Vid bedömningen av om straffvarning ska beslutas ska åklagaren utöver vad som följer av första och andra styckena särskilt beakta den unges vilja att ersätta målsäganden för skada som uppkommit genom brottet, att avhjälpa eller begränsa skadan, att på annat sätt gottgöra målsäganden eller att medverka till att medling kommer till stånd enligt lagen (2002:445) om medling med anledning av brott.
+
+Straffvarning får inte beslutas, om något väsentligt allmänt eller enskilt intresse därigenom åsidosätts. Vid bedömningen av om något väsentligt allmänt intresse åsidosätts ska det särskilt beaktas om den unge tidigare har gjort sig skyldig till brott. *Lag (2026:1608)*.
+
+#### 17 §
+
+*/Träder i kraft I:2027-01-02/* Straffvarning får beslutas, om den unge blir föremål för sådan åtgärd som anges nedan och det med skäl kan antas att därigenom vidtas vad som är lämpligast för den unge:
+
+1. vård eller annan åtgärd enligt socialtjänstlagen (2025:400),
+
+2. åtgärder enligt lagen (2026:1637) om insatser inom socialtjänsten när samtycke saknas,
+
+3. omhändertagande eller annan åtgärd enligt lagen (2026:1600) om omhändertagande för vård av barn och unga, eller
+
+4. annan åtgärd som innebär att den unge får hjälp eller stöd.
+
+Straffvarning får också beslutas, om det är uppenbart att brottet har skett av okynne eller förhastande.
+
+Vid bedömningen av om straffvarning ska beslutas ska åklagaren utöver vad som följer av första och andra styckena särskilt beakta den unges vilja att ersätta målsäganden för skada som uppkommit genom brottet, att avhjälpa eller begränsa skadan, att på annat sätt gottgöra målsäganden eller att medverka till att medling kommer till stånd enligt lagen (2002:445) om med- ling med anledning av brott.
+
+Straffvarning får inte beslutas, om något väsentligt allmänt eller enskilt intresse därigenom åsidosätts. Vid bedömningen av om något väsentligt allmänt intresse åsidosätts ska det särskilt beaktas om den unge tidigare har gjort sig skyldig till brott. *Lag (2026:1643)*.
+
+#### 18 §
+
+Den unge ska underrättas om ett beslut om straffvarning vid ett personligt möte med åklagaren eller, om det finns skäl för det och det inte är olämpligt, vid ett möte genom ljud- och bildöverföring inom två veckor efter det att beslutet har fattats. Den unges vårdnadshavare eller någon annan som svarar för den unges vård och fostran samt annan som har en fostrande roll i förhållande till den unge ska kallas till mötet, om det inte möter något hinder eller annars finns särskilda skäl mot det. Även företrädare för socialtjänsten bör ges tillfälle att närvara.
+
+Är det uppenbart att ett möte inte kan genomföras inom den tid som anges i första stycket, får mötet äga rum senare. Kan ett möte inte genomföras, ska den unge underrättas skriftligen om beslutet. *Lag (2026:968)*.
+
+#### 19 §
+
+Vid ett möte enligt 18 § ska åklagaren särskilt förklara innebörden av beslutet om straffvarning och det skötsamhetskrav som detta är förenat med och klargöra vilka följderna kan bli av fortsatta lagöverträdelser.
+
+*Lag (2015:81)*.
+
+#### 20 §
+
+Bestämmelserna i 18 och 19 §§ gäller i tillämpliga delar också beslut om åtalsunderlåtelse enligt 20 kap. 7 § första stycket 4 rättegångsbalken, om beslutet avser brott som någon har begått innan han eller hon har fyllt arton år.
+
+*Lag (2026:968)*.
+
+#### 21 §
+
+Socialnämnden skall underrättas om ett beslut enligt 18 §, om någon åtgärd från nämndens sida förutsätts. *Lag (1994:1760)*.
+
+#### 22 §
+
+Den som får straffvarning enligt 17 § ska iaktta skötsamhet.
+
+Ett beslut om straffvarning får återkallas, om särskilda omständigheter föranleder det. Vid bedömningen av om återkallelse ska ske ska det särskilt beaktas om den unge har återfallit i brott inom sex månader från beslutet om straffvarning. *Lag (2015:81)*.
+
+### Anhållande och häktning
+
+#### 23 §
+
+Den som inte har fyllt arton år får anhållas eller häktas endast om det finns synnerliga skäl. *Lag (2021:287)*.
+
+#### 23 a §
+
+För en misstänkt som inte har fyllt arton år när häktningsbeslutet verkställs får den tid som anges i 24 kap. 4 a § rättegångsbalken uppgå till högst tre månader.
+
+*Lag (2021:287)*.
+
+### Offentlig försvarare
+
+#### 24 §
+
+För en misstänkt som inte har fyllt arton år ska en offentlig försvarare förordnas, om det inte är uppenbart att han eller hon saknar behov av försvarare. När en offentlig försvarare ska förordnas, ska undersökningsledaren anmäla det hos rätten.
+
+För en tidigare tilltalad gäller 21 kap. 3 b § och 23 kap. 5 § rättegångsbalken. *Lag (2012:658)*.
+
+### Rättegången
+
+#### 25 §
+
+Mål i tingsrätt och hovrätt mot den som inte har fyllt arton år ska, om det inte möter hinder, handläggas av lagfarna domare som särskilt har utsetts av domstolen att handlägga sådana mål. Detsamma ska gälla i fråga om nämndemän som anlitas för tjänstgöring i sådana mål.
+
+I mål som rör brott på vilket endast böter kan följa får andra än dem som avses i första stycket anlitas. *Lag (2026:1530)*.
+
+#### 26 §
+
+När åtal väcks mot den som inte har fyllt arton år, skall tingsrätten underrätta vårdnadshavaren eller annan som svarar för den unges vård och fostran samt annan som har en fostrande roll i förhållande till den unge om åtalet och om tidpunkten för huvudförhandlingen, om det inte finns särskilda skäl mot det. Motsvarande skyldighet att lämna underrättelse om tidpunkten för huvudförhandlingen gäller även högre rätt.
+
+Om yttrande som avses i 11 § skall lämnas eller har lämnats av socialnämnden, skall rätten underrätta nämnden om tidpunkten för huvudförhandlingen.
+
+Om åtalet avser ett brott på vilket fängelse kan följa, skall vårdnadshavaren eller annan som avses i första stycket, höras i målet, om det kan ske och det inte finns särskilda skäl mot det.
+
+Vårdnadshavare eller annan som hörs enligt tredje stycket har rätt till ersättning och förskott enligt vad som är föreskrivet om vittne. Ersättningen skall betalas av staten.
+
+*Lag (2006:894)*.
+
+#### 27 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Mål mot den som inte har fyllt arton år ska, om målet avser brott på vilket fängelse kan följa, om möjligt sättas ut till handläggning på ett sådant sätt att målet inte drar till sig uppmärksamhet.
+
+Rätten får i mål mot den som inte har fyllt arton år besluta att målet ska handläggas inom stängda dörrar, om offentlighet vid förhandlingen är till uppenbar olägenhet på grund av den uppmärksamhet den tilltalade kan antas bli föremål för. Om rätten anser att ett sådant beslut bör meddelas och om någon som har fyllt arton år också är tilltalad i målet, ska rätten handlägga åtalet mot den som är under arton år som ett särskilt mål, om det kan ske utan att utredningen avsevärt försvåras.
+
+Även om beslut meddelas enligt andra stycket får rättens ordförande tillåta att den tilltalades anhöriga och andra vars närvaro kan väntas bli till nytta får närvara vid handläggningen.
+
+I mål mot den som inte har fyllt arton år ska tingsrätten hålla huvudförhandling även om det inte finns anledning att döma till någon annan påföljd än böter eller villkorlig dom eller sådana påföljder i förening.
+
+#### 27 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Mål mot den som inte har fyllt arton år ska, om målet avser brott på vilket fängelse kan följa, om möjligt sättas ut till handläggning på ett sådant sätt att målet inte drar till sig uppmärksamhet.
+
+Rätten får i mål mot den som inte har fyllt arton år besluta att målet ska handläggas inom stängda dörrar, om offentlighet vid förhandlingen är till uppenbar olägenhet på grund av den uppmärksamhet den tilltalade kan antas bli föremål för. Om rätten anser att ett sådant beslut bör meddelas och om någon som har fyllt arton år också är tilltalad i målet, ska rätten handlägga åtalet mot den som är under arton år som ett särskilt mål, om det kan ske utan att utredningen avsevärt försvåras.
+
+Även om beslut meddelas enligt andra stycket får rättens ordförande tillåta att den tilltalades anhöriga och andra vars närvaro kan väntas bli till nytta får närvara vid handläggningen.
+
+I mål mot den som inte har fyllt arton år ska tingsrätten hålla huvudförhandling även om det inte finns anledning att döma till någon annan påföljd än böter, villkorligt fängelse utan tilläggssanktion eller villkorligt fängelse med dagsböter. *Lag (2026:1662)*.
+
+#### 28 §
+
+Rätten får döma till ungdomsvård endast om det i målet finns ett yttrande av socialnämnden med det innehåll som avses i 11 §. *Lag (2021:1104)*.
+
+#### 29 §
+
+Mål mot den som inte har fyllt arton år ska alltid behandlas skyndsamt. *Lag (2026:1530)*.
+
+Om det väcks allmänt åtal mot den som inte har fyllt arton år för ett brott för vilket det är föreskrivet fängelse i mer än sex månader, ska de tidsfrister iakttas som är föreskrivna för åtgärder i mål där den tilltalade är häktad. Den förlängda tidsfrist som anges i 45 kap. 14 § andra stycket andra meningen rättegångsbalken ska dock inte tillämpas.
+
+Om rätten begär ett yttrande från socialnämnden enligt 28 §, ska nämnden yttra sig inom sådan tid att rätten kan hålla huvudförhandling enligt reglerna i andra stycket. Om ärendets beskaffenhet motiverar det, får yttrandet med rättens medgivande lämnas senare. *Lag (2026:1530)*.
+
+#### 30 §
+
+I mål mot den som inte har fyllt arton år ska, om det inte möter synnerliga hinder, domen avkunnas muntligen vid huvudförhandlingen. I övrigt gäller 30 kap. 7 § rättegångsbalken. *Lag (2026:1530)*.
+
+#### 30 a §
+
+I mål om undanröjande av påföljd enligt 32 kap. 4 § brottsbalken skall 26 och 30 §§ tillämpas, varvid vad som i dessa paragrafer sägs om huvudförhandling skall tillämpas på sammanträde som hålls i målet om undanröjande av påföljd.
+
+*Lag (2006:894)*.
+
+### Varning
+
+#### 30 b §
+
+Om någon som dömts till ungdomsvård eller ungdomstjänst bryter mot vad som gäller för honom eller henne enligt en föreskrift vid ungdomsvård om att följa ett ungdomskontrakt eller enligt en dom på ungdomstjänst får åklagaren besluta om att varning ska meddelas den unge.
+
+Åklagaren får också, i stället för att väcka talan enligt 32 kap. 4 § brottsbalken, besluta om varning om någon som dömts till ungdomsvård, ungdomstjänst eller ungdomsövervakning i väsentlig grad bryter mot vad som gäller för honom eller henne enligt en föreskrift vid ungdomsvård om att följa ett ungdomskontrakt eller enligt en dom på ungdomstjänst eller ungdomsövervakning, om detta bedöms vara en tillräcklig åtgärd.
+
+Varning ska så snart det kan ske meddelas den unge vid ett personligt möte eller, om det finns skäl för det och det inte är olämpligt, vid ett möte genom ljud- och bildöverföring. Den unges vårdnadshavare eller någon annan som svarar för den unges vård och fostran samt annan som har en fostrande roll i förhållande till den unge ska kallas till mötet, om det inte möter hinder eller annars finns särskilda skäl mot det. Även företrädare för socialtjänsten bör ges tillfälle att närvara. Om frågan om varning gäller ungdomsövervakning bör i stället företrädare för Kriminalvården ges tillfälle att närvara. Kan ett möte inte genomföras, ska den unge underrättas skriftligen om beslutet.
+
+Vid mötet ska åklagaren särskilt förklara innebörden av beslutet och klargöra vad följderna kan bli vid fortsatt misskötsamhet. *Lag (2026:1530)*.
+
+### Brott begångna av den som inte har fyllt femton år
+
+#### 31 §
+
+Om någon kan misstänkas för att före femton års ålder ha begått ett brott för vilket det inte är föreskrivet lindrigare straff än fängelse i ett år eller ett straffbelagt försök, en straffbelagd förberedelse eller en straffbelagd stämpling till ett sådant brott ska en utredning om brottet inledas, om inte särskilda skäl talar mot det.
+
+På begäran av socialnämnden får en utredning om brott även inledas i andra fall avseende någon som inte har fyllt femton år, om socialnämnden bedömer att utredningen kan antas ha betydelse för att avgöra behovet av socialtjänstens insatser för den unge. Vid denna bedömning ska det särskilt beaktas om det är fråga om ett brott som innebär att den unge äventyrar sin hälsa eller utveckling eller om brottet kan antas utgöra ett led i en upprepad brottslighet begången av den unge.
+
+I andra fall än som avses i första och andra styckena får en utredning om brott inledas avseende någon som inte har fyllt femton år
+
+1. om det behövs för att klarlägga om någon som får dömas till påföljd har tagit del i brottet,
+
+2. om det behövs för att efterforska gods som har kommits åt genom brottet eller som kan bli föremål för förverkande, eller
+
+3. om det av andra skäl är påkallat med hänsyn till allmänna eller enskilda intressen.
+
+Har den unge inte fyllt tolv år får en utredning enligt andra eller tredje stycket inledas endast om det finns synnerliga skäl. *Lag (2026:1530)*.
+
+#### 32 §
+
+Bestämmelserna om förundersökning i 23 kap. 3, 4, 6-14, 18 b-19, 21, 21 b-21 d och 24 §§ rättegångsbalken ska i tillämpliga delar gälla för en sådan utredning som avses i 31 §. I samband med förhör med den unge ska han eller hon informeras om sin rätt att inte behöva yttra sig över misstanken och inte heller i övrigt behöva medverka till utredningen av sin egen skuld. Efter att förhör hållits med den unge ska bestämmelserna om insyn i 23 kap. 18 § samma balk gälla i tillämpliga delar för en sådan utredning. När utred- ningen är slutförd ska bestämmelserna om insyn i 23 kap. 18 a § samma balk tillämpas. Det som sägs om förundersökning och åtal i den paragrafen ska i stället avse utredning enligt 31 § respektive bevistalan enligt 38 §. Rätten att få en kopia i 23 kap. 21 a § samma balk gäller i de fall då en bevistalan väcks.
+
+En utredning som avses i 31 § ska bedrivas med särskild skyndsamhet och avslutas så snart det är möjligt. Utredningen får inte pågå längre tid än tre månader, om det inte är nödvändigt med hänsyn till utredningens beskaffenhet eller andra särskilda omständigheter.
+
+Utredningen ska ledas av en åklagare eller en anställd vid Polismyndigheten som myndigheten har förordnat. Undersökningsledaren ska, om det inte möter något hinder, genom intresse och fallenhet för arbete med unga lagöverträdare vara särskilt lämpad för uppgiften.
+
+Har den unge tidigare varit föremål för utredning enligt 31 §, ska om möjligt samma åklagare och samma anställda vid Polismyndigheten anlitas för att leda och genomföra den nya utredningen.
+
+I tullbefogenhetslagen (2024:710) finns bestämmelser om att åklagare får begära biträde av Tullverket eller en tulltjänsteman vid en utredning enligt 31 §. *Lag (2026:1530)*.
+
+#### 32 a §
+
+Ett juridiskt biträde ska förordnas för den unge
+
+1. vid en utredning enligt 31 § första stycket, om det inte är uppenbart att den unge saknar behov av det, och
+
+2. vid en utredning enligt 31 § andra eller tredje stycket, om det finns särskilda skäl för det.
+
+En ansökan om ett sådant biträde görs av åklagaren eller den unges vårdnadshavare hos tingsrätten. Bestämmelserna i 21 kap. 5-8 §§, 9 § tredje stycket, 10 § och 10 a § rättegångsbalken ska tillämpas för ett sådant juridiskt biträde.
+
+*Lag (2026:968)*.
+
+#### 32 b §
+
+När en utredning enligt 31 § har inletts eller återupptagits ska lagen (1988:609) om målsägandebiträde och lagen (1999:997) om särskild företrädare för barn gälla. Det som sägs om förundersökning och åtal i de lagarna ska i stället avse utredning enligt 31 § respektive bevistalan enligt 38 §. Bestämmelserna om återbetalningsskyldighet i 8 § lagen om målsägandebiträde och 12 § lagen om särskild företrädare för barn ska dock inte gälla.
+
+Bestämmelserna om anmälan i 23 kap. 5 § rättegångsbalken, om rätten att närvara vid förhör i 23 kap. 10 § samma balk och om rätten att ställa frågor vid förhör i 23 kap. 11 § samma balk ska gälla när ett målsägandebiträde har förordnats.
+
+*Lag (2023:312)*.
+
+#### 33 §
+
+Den unges vårdnadshavare eller annan som svarar för den unges vård och fostran samt annan som har en fostrande roll i förhållande till den unge ska omedelbart underrättas
+
+1. om den unge kan misstänkas för att före femton års ålder ha begått ett brott, och
+
+2. om en utredning enligt 31 § har inletts avseende den unge.
+
+Den som ska underrättas enligt första stycket ska kallas till förhör som hålls med den unge.
+
+Första och andra styckena gäller inte om det är till men för utredningen eller det i övrigt finns särskilda skäl mot det.
+
+*Lag (2010:478)*.
+
+#### 34 §
+
+Socialnämnden ska omedelbart underrättas
+
+1. när någon kan misstänkas för att före femton års ålder ha begått ett brott på vilket fängelse kan följa, och
+
+2. när en utredning enligt 31 § har inletts.
+
+Vid förhör med den unge i en utredning enligt 31 § första eller andra stycket ska en företrädare för socialtjänsten närvara om det inte finns synnerliga skäl mot det. Om det är fråga om en utredning enligt 31 § tredje stycket ska en sådan företrädare närvara vid förhör med den unge om det inte finns särskilda skäl mot det.
+
+I fall som avses i 31 § andra stycket får ingen annan åtgärd än förhör med den unge vidtas innan socialnämnden har begärt att en utredning ska inledas. Om det finns särskilda skäl får dock även andra åtgärder vidtas.
+
+Om brottsmisstanken kvarstår efter förhöret med den unge och efter andra vidtagna åtgärder, ska protokoll över förhöret och åtgärderna omgående sändas till socialnämnden.
+
+*Lag (2023:312)*.
+
+#### 35 §
+
+Har någon före femton års ålder begått ett brott på vilket fängelse skulle ha kunnat följa och anträffas den unge på bar gärning eller på flykt från brottsplatsen, får han eller hon gripas av envar. Om en enskild person har gripit den unge, ska den unge skyndsamt överlämnas till närmaste polisman.
+
+Polismyndigheten eller åklagaren ska omedelbart besluta om den unge ska friges eller hållas kvar för förhör.
+
+Om den unge har gripits eller tagits med, följt med, hämtats eller inställt sig till förhör får han eller hon hållas kvar enligt 14 §, dock inte längre än sex timmar efter beslutet om frigivning eller, om förhör har hållits med den unge, efter att förhöret har avslutats.
+
+Den unge får inte tas i förvar. *Lag (2025:861)*.
+
+#### 35 a §
+
+Mot den som är under femton år får endast de tvångsmedel användas som är angivna i
+
+1. denna lag,
+
+2. 23 kap. 7-9 a §§ och 28 kap. 10 f § rättegångsbalken, eller
+
+3. en annan författning där det uttryckligen föreskrivs att tvångsmedlet får användas mot den som är under femton år.
+
+*Lag (2025:861)*.
+
+#### 36 §
+
+Om någon är misstänkt för att före femton års ålder ha begått ett brott får beslag, husrannsakan, undersökning på annat ställe och kroppsvisitation användas mot den unge enligt bestämmelserna i 27 och 28 kap. rättegångsbalken.
+
+Om det finns särskilda skäl får även följande tvångsmedel användas mot den unge:
+
+1. kvarstad och förvar enligt bestämmelserna i 26 kap. rättegångsbalken,
+
+2. penningbeslag, avspärrning eller andra liknande åtgärder enligt 27 kap. 15 § rättegångsbalken och biometrisk autentisering enligt bestämmelserna i 27 kap. rättegångsbalken,
+
+3. genomsökning på distans enligt bestämmelserna i 28 kap. rättegångsbalken och åtgärder enligt 28 kap. 14 § första stycket 1 rättegångsbalken, och
+
+4. åtgärder enligt 23 kap. 9 a § rättegångsbalken.
+
+Det som i 26 kap. 5 och 6 §§ samt 27 kap. 7 och 8 §§ rättegångsbalken sägs om åtal och om verkan av att åtal inte väcks ska i stället avse bevistalan och talan om förverkande samt verkan av att sådan talan inte väcks. Vid kroppsvisitation som görs enligt 28 kap. rättegångsbalken ska 28 kap. 13 a § rättegångsbalken gälla med den skillnaden att den unge får hållas kvar för ändamålet i högst tre timmar.
+
+*Lag (2026:968)*.
+
+#### 36 a §
+
+Är någon skäligen misstänkt för att före femton års ålder ha begått ett brott för vilket inte är föreskrivet lindrigare straff än fängelse ett år eller ett straffbelagt försök, en straffbelagd förberedelse eller en straffbelagd stämpling till ett sådant brott får kroppsbesiktning företas, om det är av synnerlig vikt för att klarlägga omständigheterna kring brottet. *Lag (2010:478)*.
+
+#### 36 b §
+
+Är någon skäligen misstänkt för att före femton års ålder olovligen ha brukat narkotika får kroppsbesiktning utföras genom att prov tas från kroppen och undersöks, om det kan antas ha betydelse för att avgöra behovet av socialtjänstens insatser för den unge.
+
+Sådan kroppsbesiktning beslutas av åklagare.
+
+Socialnämnden ska omedelbart underrättas om resultatet av en sådan kroppsbesiktning. Detsamma gäller den unges vårdnadshavare eller annan som svarar för den unges vård och fostran samt annan som har en fostrande roll i förhållande till den unge, om det inte finns särskilda skäl mot det.
+
+*Lag (2023:312)*.
+
+#### 36 c §
+
+Den som ska kroppsbesiktigas enligt 36 a § får hållas kvar för ändamålet upp till tre timmar eller, om det finns synnerliga skäl, ytterligare sex timmar.
+
+Den som ska kroppsbesiktigas enligt 36 b § får hållas kvar för ändamålet upp till tre timmar eller, om det finns synnerliga skäl, ytterligare tre timmar. *Lag (2026:968)*.
+
+#### 36 d §
+
+Kroppsbesiktning enligt 36 a eller 36 b § får inte verkställas eller bevittnas av någon annan än en läkare, en legitimerad sjuksköterska eller en person som är av samma kön som den unge. Kroppsbesiktning som enbart innebär att blodprov, alkoholutandningsprov, salivprov för dna-analys eller hårprov tas på den unge, får dock verkställas eller bevittnas av någon som inte är av samma kön som den unge.
+
+*Lag (2025:129)*.
+
+#### 36 e §
+
+Vid kroppsbesiktning enligt 36 a § ska 28 kap. 12 § andra stycket, 13 § första och andra styckena och 13 a § tredje stycket rättegångsbalken gälla i tillämpliga delar.
+
+Vid kroppsbesiktning enligt 36 b § ska 28 kap. 3 a och 9 §§, 12 § andra stycket andra meningen, 13 § andra stycket och 13 a § tredje stycket rättegångsbalken gälla i tillämpliga delar. *Lag (2025:129)*.
+
+#### 36 f §
+
+/Upphör att gälla U:2030-10-01 genom *lag (2026:970)*./ Om någon är skäligen misstänkt för att före femton års ålder ha begått ett brott som anges i andra stycket och åtgärden är av synnerlig vikt för utredningen, får hemlig avlyssning av elektronisk kommunikation, hemlig övervakning av elektronisk kommunikation och hemlig kameraövervakning enligt 27 kap. 18, 19 och 20 a §§ rättegångsbalken användas för att utreda brottet.
+
+Hemliga tvångsmedel enligt denna paragraf får användas vid en utredning om
+
+1. ett brott för vilket det inte är föreskrivet lindrigare straff än fängelse i fyra år,
+
+2. grov utpressning enligt 9 kap. 4 § andra stycket brottsbalken,
+
+3. mordbrand, allmänfarlig ödeläggelse, sabotage eller grovt sabotage enligt 13 kap. 1 § första stycket, 3 § första stycket, 4 § eller 5 § brottsbalken,
+
+4. mordbrand, allmänfarlig ödeläggelse, kapning, sjö- eller luftfartssabotage eller flygplatssabotage enligt 13 kap. 1 § andra stycket, 3 § andra stycket, 5 a § eller 5 b § brottsbalken, om brottet innefattar sabotage enligt 4 § samma kapitel,
+
+5. grovt övergrepp i rättssak enligt 17 kap. 10 § tredje stycket brottsbalken,
+
+6. grovt narkotikabrott enligt 3 § första stycket narkotikastrafflagen (1968:64),
+
+7. grov narkotikasmuggling enligt 6 § tredje stycket lagen (2000:1225) om straff för smuggling,
+
+8. deltagande i en terroristorganisation, samröre med en terroristorganisation, finansiering av terrorism eller särskilt allvarlig brottslighet, offentlig uppmaning till terrorism eller särskilt allvarlig brottslighet, rekrytering till terrorism eller särskilt allvarlig brottslighet, utbildning för terrorism eller särskilt allvarlig brottslighet eller resa för terrorism eller särskilt allvarlig brottslighet enligt 4 a, 5, 6, 7, 8, 9 eller 10 § terroristbrottslagen (2022:666),
+
+9. försök, förberedelse eller stämpling till ett brott som avses i 1-8, om en sådan gärning är belagd med straff, eller
+
+10. ett annat brott, om det kan antas att brottets straffvärde överstiger fängelse i fyra år.
+
+Vid tillämpningen av denna paragraf gäller följande bestämmelser i rättegångsbalken:
+
+- 27 kap. 18 a § tredje stycket och 19 a § tredje stycket om vilket telefonnummer eller annan adress eller viss elektronisk kommunikationsutrustning som ett tillstånd till hemlig avlyssning av elektronisk kommunikation eller hemlig övervakning av elektronisk kommunikation får avse, och
+
+- 27 kap. 20 b § andra och tredje styckena om vilken plats ett tillstånd till hemlig kameraövervakning får avse och när ett sådant tillstånd får avse den skäligen misstänkte i stället för en viss plats. *Lag (2025:861)*.
+
+#### 36 g §
+
+/Upphör att gälla U:2030-10-01 genom *lag (2026:970)*./ Om någon är skäligen misstänkt för att före femton års ålder ha begått ett brott som anges i andra stycket och åtgärden är av synnerlig vikt för utredningen, får hemlig rumsavlyssning enligt 27 kap. 20 d § första stycket rättegångsbalken användas för att utreda brottet.
+
+Hemlig rumsavlyssning enligt denna paragraf får användas vid en utredning om
+
+1. ett brott för vilket det inte är föreskrivet lindrigare straff än fängelse i fem år,
+
+2. människorov enligt 4 kap. 1 § första stycket brottsbalken,
+
+3. grovt vapenbrott enligt 18 kap. 2 § första stycket vapenlagen (2026:408),
+
+4. grov vapensmuggling eller grov smuggling av explosiv vara enligt 6 a § tredje stycket eller 6 b § tredje stycket lagen (2000:1225) om straff för smuggling,
+
+5. grovt brott enligt 29 a § första stycket lagen (2010:1011) om brandfarliga och explosiva varor,
+
+6. terroristbrott enligt 4 § terroristbrottslagen (2022:666),
+
+7. försök, förberedelse eller stämpling till ett brott som avses i 1-6, om en sådan gärning är belagd med straff, eller
+
+8. ett annat brott, om det kan antas att brottets straffvärde överstiger fängelse i fem år.
+
+Vid tillämpningen av denna paragraf gäller bestämmelserna i 27 kap. 20 e § andra och tredje styckena rättegångsbalken om vilken plats ett tillstånd till hemlig rumsavlyssning får avse och när ett sådant tillstånd får avse den skäligen misstänkte i stället för en viss plats. *Lag (2026:412)*.
+
+#### 36 h §
+
+/Upphör att gälla U:2030-10-01 genom *lag (2026:970)*./ I fråga om hemliga tvångsmedel enligt 36 f och 36 g §§ gäller följande bestämmelser i 27 kap. rättegångsbalken:
+
+- 21 och 21 a §§ om tillståndsprövning,
+
+- 21 b-23 §§ om vissa begränsningar vid användning av hemliga tvångsmedel,
+
+- 23 a § om överskottsinformation,
+
+- 24 § om upptagningar och uppteckningar,
+
+- 25 § om tekniska hjälpmedel,
+
+- 25 a § om tillträdestillstånd,
+
+- 26-30 §§ om offentligt ombud och sammanträde,
+
+- 31-33 §§ om underrättelse till enskild,
+
+- 34 § om behörig domstol, och
+
+- 35 § om dokumentation.
+
+Det som i bestämmelserna sägs om förundersökning och åtal ska i stället avse utredning enligt 31 § och bevistalan enligt 38 §. *Lag (2025:861)*.
+
+#### 36 i §
+
+/Upphör att gälla U:2030-10-01 genom *lag (2026:970)*./ En försändelse som väntas komma in till ett befordringsföretag och som enligt 36 § får tas i beslag hos den som misstänks för att före femton års ålder ha begått ett brott som anges i 36 f § andra stycket, får hållas kvar till dess att frågan om beslag har avgjorts.
+
+Vid tillämpningen av denna paragraf gäller bestämmelserna i 27 kap. 9 och 9 a §§ rättegångsbalken om tillståndsprövning, åklagarens interimistiska beslut och verkställighet.
+
+*Lag (2025:861)*.
+
+#### 36 j §
+
+/Upphör att gälla U:2030-10-01 genom *lag (2026:970)*./ När rätten har beslutat i frågor om hemliga tvångsmedel enligt 36 f, 36 g eller 36 i § ska åklagaren skyndsamt underrätta Säkerhets- och integritetsskyddsnämnden vid Myndigheten för säkerhet och integritetsskydd om beslutet.
+
+*Lag (2026:968)*.
+
+#### 36 k §
+
+Om någon är skäligen misstänkt för att före femton års ålder ha begått ett brott får kroppsbesiktning genom salivprov för dna-analys samt upptagning av fingeravtryck, fotografi, video, röstprov och handstilsprov göras på den unge, om
+
+1. det för brottet inte är föreskrivet lindrigare straff än fängelse i fyra år eller ett straffbelagt försök, en straffbelagd förberedelse eller en straffbelagd stämpling till ett sådant brott, och
+
+2. syftet är att registrera underlagen i biometriregistret över misstänkta som förs enligt lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område.
+
+Om ett sådant underlag som avses i första stycket tidigare har tagits upp får en ny kroppsbesiktning eller upptagning göras endast om det finns särskilda skäl.
+
+Kroppsbesiktning och upptagning enligt första stycket beslutas av åklagare. *Lag (2026:968)*.
+
+#### 36 l §
+
+Om någon vid en bevistalan har förklarats ha begått ett brott som anges i 38 § första stycket får kroppsbesiktning genom salivprov för dna-analys samt upptagning av fingeravtryck, fotografi, video, röstprov och handstilsprov göras på den unge, om
+
+1. domen har fått laga kraft, och
+
+2. syftet är att registrera underlagen i biometriregistret över dömda som förs enligt lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område.
+
+Om ett sådant underlag som avses i första stycket tidigare har tagits upp får en ny kroppsbesiktning eller upptagning göras endast om det finns särskilda skäl.
+
+Kroppsbesiktning och upptagning enligt första stycket beslutas av åklagare. *Lag (2026:968)*.
+
+#### 36 m §
+
+Den som ska kroppsbesiktigas eller bli föremål för en annan åtgärd enligt 36 k eller 36 l § får hållas kvar för ändamålet upp till tre timmar eller, om det finns synnerliga skäl, ytterligare tre timmar.
+
+Vid kroppsbesiktning enligt 36 k eller 36 l § ska 28 kap. 3 a och 9 §§, 12 § andra stycket andra meningen och 13 a § tredje stycket rättegångsbalken gälla i tillämpliga delar.
+
+Vid upptagning av fingeravtryck, fotografi, video, röstprov och handstilsprov enligt 36 k eller 36 l § ska 28 kap. 3 a och 9 §§ och 13 a § tredje stycket rättegångsbalken gälla i tillämpliga delar. *Lag (2026:968)*.
+
+#### 37 §
+
+När en utredning enligt 31 § har avslutats ska utredningsprotokollet så snart som möjligt sändas till socialnämnden. *Lag (2010:478)*.
+
+#### 38 §
+
+Åklagaren ska begära prövning i domstol av om den unge har begått ett brott (bevistalan) om
+
+1. brottet har begåtts innan den unge har fyllt femton år,
+
+2. det inte är föreskrivet lindrigare straff än fängelse i fyra år för brottet, eller det är fråga om ett straffbelagt försök, en straffbelagd förberedelse eller en straffbelagd stämpling till ett sådant brott,
+
+3. en utredning enligt 31 § har slutförts om brottet, och
+
+4. det skulle ha funnits tillräckliga skäl för åtal om brottet hade begåtts efter att den unge har fyllt femton år.
+
+Även om det är föreskrivet lindrigare straff än fängelse i fyra år för brottet får en bevistalan väckas om det finns synnerliga skäl för det.
+
+Bevistalan får inte väckas om det finns särskilda omständigheter som talar mot det. *Lag (2026:1530)*.
+
+#### 38 a §
+
+Socialnämnden och Inspektionen för vård och omsorg får göra en framställning hos åklagare om att bevistalan ska väckas. *Lag (2023:312)*.
+
+#### 38 b §
+
+*/Upphör att gälla U:2030-10-01/* Om det inte möter något hinder ska bevistalan föras av en åklagare som genom intresse och fallenhet för arbete med unga lagöverträdare är särskilt lämpad för uppgiften.
+
+Vid en bevistalan tillämpas 25 § första stycket och bestämmelserna om allmänt åtal för brott för vilket det är föreskrivet fängelse i mer än ett år. I fråga om tvångsmedel gäller 35 a-36 i och 36 k-36 m §§.
+
+En offentlig försvarare ska förordnas för den unge när en bevistalan väcks. Sådan rättegångskostnad som avses i 31 kap. 1 § rättegångsbalken ska staten svara för. *Lag (2026:968)*.
+
+#### 38 b §
+
+*/Träder i kraft I:2030-10-01/* Om det inte möter något hinder ska bevistalan föras av en åklagare som genom intresse och fallenhet för arbete med unga lagöverträdare är särskilt lämpad för uppgiften.
+
+Vid en bevistalan tillämpas 25 § första stycket och bestämmelserna om allmänt åtal för brott för vilket det är föreskrivet fängelse i mer än ett år. I fråga om tvångsmedel gäller 35 a-36 e och 36 k-36 m §§.
+
+En offentlig försvarare ska förordnas för den unge när en bevistalan väcks. Sådan rättegångskostnad som avses i 31 kap. 1 § rättegångsbalken ska staten svara för. *Lag (2026:970)*.
+
+#### 38 c §
+
+En dom om bevistalan som har fått laga kraft får undanröjas efter ansökan av åklagaren, om
+
+1. det genom utredning som inte har lagts fram tidigare framgår att den vars skuld prövats hade fyllt femton år vid gärningen, och
+
+2. åklagaren gör sannolikt att han eller hon inte har kunnat åberopa utredningen vid den rätt som har meddelat domen eller genom att överklaga domen, eller om han eller hon annars har haft giltig ursäkt att inte göra det.
+
+Ansökan ska göras skriftligen hos hovrätten om domen har meddelats av en tingsrätt och i annat fall hos Högsta domstolen. Ansökan ska göras inom ett år från det att åklagaren fick kännedom om utredningen. För ansökan gäller 58 kap. 5 § rättegångsbalken. Vid förfarandet gäller bestämmelserna om allmänt åtal för brott i tillämpliga delar.
+
+Om Högsta domstolen prövar frågan om undanröjande, ska ett bifall till ansökan omfatta både tingsrättens och hovrättens dom. *Lag (2023:312)*.
+
+#### 38 d §
+
+Sedan en dom om bevistalan har fått laga kraft, får resning beviljas under samma förutsättningar som gäller enligt 58 kap. 2 och 3 §§ rättegångsbalken. Vid förfarandet gäller 58 kap. 4-10 §§ samma balk i tillämpliga delar. Den unge ska dock inte åläggas att ersätta motparten eller staten för kostnaderna i resningsärendet. Det som sägs om förundersökning i 58 kap. 6 a § samma balk ska i stället avse en utredning enligt 31 §. *Lag (2023:312)*.
+
+*/Rubriken upphör att gälla U:2031-09-10/*
+
+### Allvarliga brott begångna av den som är fjorton år
+
+#### 38 e §
+
+/Upphör att gälla U:2031-09-10 genom *lag (2026:1556)*./ I fall som avses i 1 kap. 6 § andra stycket brottsbalken tillämpas de bestämmelser om handläggning av mål och ärenden om brott som gäller för en person som har fyllt femton år. *Lag (2026:1530)*.
+
+#### 38 f §
+
+/Upphör att gälla U:2031-09-10 genom *lag (2026:1556)*./ Om åtal väcks i ett fall som avses i 1 kap. 6 § andra stycket brottsbalken får åklagaren begära att rätten, för det fall rätten finner att 1 kap. 6 § andra stycket brottsbalken inte är tillämplig, ändå ska pröva om den unge har begått ett brott. Vid bedömningen av om en sådan bevistalan ska väckas tillämpas 38 § andra och tredje styckena.
+
+En bevistalan enligt första stycket ska handläggas i samma rättegång som åtalet. *Lag (2026:1530)*.
+
+### Samverkan
+
+#### 39 §
+
+Kommuner och de myndigheter som handlägger ärenden om unga lagöverträdare ska verka för att lokal samverkan mellan företrädare för kommunerna och myndigheterna regelbundet sker i övergripande frågor om unga lagöverträdare.
+
+*Lag (2015:81)*.
+
+### Resning
+
+#### 40 §
+
+Om en ansökan om resning avser en tilltalad som inte har fyllt arton år ska rätten underrätta vårdnadshavaren eller någon annan som svarar för den unges vård och fostran samt någon annan som har en fostrande roll i förhållande till den unge om ansökan. En underrättelse ska inte lämnas om det strider mot den unges bästa eller om det finns andra särskilda skäl. *Lag (2022:1083)*.
+
+#### 41 §
+
+En ansökan om resning som avser en tilltalad som inte har fyllt arton år ska handläggas skyndsamt. *Lag (2026:1530)*.
+
+## Övergångsbestämmelser
+
+**1994:1760**
+
+Denna lag träder i kraft den 1 mars 1995. Äldre bestämmelser tillämpas i mål och ärenden hos polis- och åklagarmyndighet där förundersökning har inletts före ikraftträdandet. I domstol tillämpas äldre bestämmelser i mål där talan har väckts före ikraftträdandet.
+
+**2006:894**
+
+1. Denna lag träder i kraft den 1 januari 2007.
+
+2. Bestämmelsen i 4 § i sin äldre lydelse skall tillämpas i mål och ärenden hos polis- och åklagarmyndigheter där förundersökning har inletts före ikraftträdandet.
+
+3. Den nya bestämmelsen i 11 § andra stycket skall tillämpas endast i fråga om mål och ärenden hos polis- och åklagarmyndigheter där förundersökning har inletts efter ikraftträdandet.
+
+**2010:478**
+
+1. Denna lag träder i kraft den 1 juli 2010.
+
+2. Bestämmelsen i 32 § andra stycket i sin äldre lydelse gäller för utredningar som har inletts före ikraftträdandet.
+
+**2021:287**
+
+1. Denna lag träder i kraft den 1 juli 2021.
+
+2. Om en misstänkt vid lagens ikraftträdande har varit berövad friheten i Sverige som häktad under en sammanhängande tid som är längre än tre månader utan att åtal har väckts, ska åklagarens begäran enligt 24 kap. 4 a § rättegångsbalken om att få överskrida tiden enligt 23 a § ha kommit in till rätten senast klockan elva den 1 juli 2021. Om en sådan begäran kommer in i rätt tid ska rätten efter det att lagen trätt i kraft hålla förhandling i häktningsfrågan i enlighet med 24 kap. 18 § tredje stycket rättegångsbalken. I annat fall ska rätten omedelbart häva häktningsbeslutet.
+
+**2026:968**
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Den nya bestämmelsen i 36 l § tillämpas inte i fråga om domar som har meddelats före ikraftträdandet.
+
+**2026:1530**
+
+1. Denna lag träder i kraft den 10 september 2026.
+
+2. För förhållanden som inträffat före ikraftträdandet gäller 30 b § första stycket i den äldre lydelsen.
+
+**2026:1556**
+
+1. Denna lag träder i kraft den 10 september 2031.
+
+2. De upphävda paragraferna gäller fortfarande för brott som har begåtts före ikraftträdandet.

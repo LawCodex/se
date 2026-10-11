@@ -7,6 +7,7 @@ language: sv
 date: 2010-03-11
 amended_through: "SFS 2022:235"
 department: "Landsbygds- och infrastrukturdepartementet RSIB US"
+expires: 2027-01-01
 status: in_force
 source: "https://data.riksdagen.se/dokument/sfs-2010-186.html"
 consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:186"

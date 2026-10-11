@@ -1,0 +1,73 @@
+---
+title: "Kungörelse (1962:513) med vissa föreskrifter om indrivning och redovisning av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge"
+identifier: "SFS 1962:513"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1962-09-21
+amended_through: "SFS 2006:752"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1962-513.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1962:513"
+retrieved: 2026-10-11
+---
+# Kungörelse (1962:513) med vissa föreskrifter om indrivning och redovisning av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge
+
+Kungl. Maj:t har, med avseende å verkställighet jämlikt lagen den 21 september 1962 om indrivning i Sverige av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge, ävensom redovisning av influtet belopp, funnit gott förordna som följer.
+
+## Framställning direkt hos Kronofogdemyndigheten
+
+### 1 §
+
+När en framställning om verkställighet görs direkt av sökanden enligt lagen (1962:512) om indrivning i Sverige av underhållsbidrag, fastställda i Danmark, Finland, Island eller Norge, skall Kronofogdemyndigheten skyndsamt vidta alla åtgärder som krävs för indrivningen och som det inte finns något lagligt hinder mot. Anser Kronofogdemyndigheten att det behövs bevis om att dom, beslut eller förbindelse som åberopas uppfyller de villkor för verkställighet som anges i 1 § andra stycket i lagen, skall den, i enlighet med 3 § i lagen, begära sådant bevis hos den berörda myndigheten i den stat där handlingen tillkom. *Förordning (2006:752)*.
+
+### 2 §
+
+Belopp, som influtit vid indrivningen, skall, om det ej lyftes hos Kronofogdemyndigheten, med posten översändas till sökanden eller till annan, som denne bestämmer.
+
+*Förordning (2006:752)*.
+
+### 3 §
+
+När underhållsbidraget eller annat belopp varom fråga är till fullo indrivits, skall Kronofogdemyndigheten återställa handlingarna med besked härom till sökanden. Vad nu sagts skall äga motsvarande tillämpning, om hinder finnes möta för verkställighet här i riket. *Förordning (2006:752)*.
+
+## Framställning genom utländsk myndighet
+
+### 4 §
+
+Behöriga att översända en sådan framställning som avses i 2 § tredje stycket i lagen är
+
+i Danmark: Restanceindrivelsemyndigheden,
+
+i Finland: behörig utmätningsman eller, om det är ovisst vilken utmätningsman som är behörig, Justitieministeriet,
+
+i Island: Justitieministeriet, samt
+
+i Norge: Folketrygdkontoret for utenlandssaker.
+
+*Förordning (2006:752)*.
+
+### 5 §
+
+Vad som sägs i 1 § gäller även när framställning sker genom en utländsk myndighet. *Förordning (2002:90)*.
+
+### 6 §
+
+Belopp, som influtit vid indrivningen, skall redovisas till den utländska myndigheten eller annan, som myndigheten bestämmer. Närmare föreskrifter om redovisningen meddelas av Kronofogdemyndigheten. *Förordning (2006:752)*.
+
+### 7 §
+
+Har upphävts genom *förordning (1975:810)*.
+
+### 8 §
+
+När underhållsbidraget eller annat belopp varom fråga är till fullo indrivits, skall Kronofogdemyndigheten återställa handlingarna med besked härom till den utländska myndigheten.
+
+Vad nu sagts skall äga motsvarande tillämpning, om hinder finnes möta för verkställighet här i riket.
+
+*Förordning (2006:752)*.
+
+### 9 §
+
+Har den utländska myndigheten hemställt, att meddelande i ärendet måtte sändas direkt till den underhållsberättigade eller annan, bör denna begäran efterkommas. Då ärendet avslutats, böra i dylikt fall handlingarna översändas till den som myndigheten sålunda angivit, om ej annat begärts.

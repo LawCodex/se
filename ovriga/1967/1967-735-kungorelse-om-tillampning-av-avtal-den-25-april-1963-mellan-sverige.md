@@ -1,0 +1,42 @@
+---
+title: "Kungörelse (1967:735) om tillämpning av avtal den 25 april 1963 mellan Sverige och Spanien för undvikande av dubbelbeskattning och fastställande av bestämmelser angående ömsesidig handräckning beträffande skatter på kvarlåtenskap"
+identifier: "SFS 1967:735"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1967-12-01
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1967-735.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1967:735"
+retrieved: 2026-10-11
+---
+# Kungörelse (1967:735) om tillämpning av avtal den 25 april 1963 mellan Sverige och Spanien för undvikande av dubbelbeskattning och fastställande av bestämmelser angående ömsesidig handräckning beträffande skatter på kvarlåtenskap
+
+> Bilagor finns inte med här.
+
+### 1 §
+
+Avtalet den 25 april 1963 mellan Sverige och Spanien för undvikande av dubbelbeskattning och fastställande av bestämmelser angående ömsesidig handräckning beträffande skatter på kvarlåtenskap skall lända till efterrättelse för Sveriges del. /n1/
+
+//n1// Ang. avtalets lydelse se bilaga fogad till 1964:97.
+
+### 2 §
+
+Anstånd enligt 3 § kungörelsen den 1 december 1967 (nr 721) om förfarandet rörande eftergift av arvsskatt eller gåvoskatt vid dubbelbeskattning får, i fall som avses i artikel 7 § 3 i avtalet, medges med högst så stor del av skatten, som vid proportionell fördelning av hela det beräknade skattebeloppet på den egendom, som enligt avtalet skall beskattas i Sverige, och den egendom, som enligt avtalet skall beskattas i Spanien, kan antagas belöpa på sistnämnda egendom. I övriga fall får anstånd icke medges med högre belopp än det lägsta av följande belopp, nämligen antingen den spanska skatt, som erlagts eller kan antagas komma att erläggas för egendom som enligt artikel 4 eller 5 i avtalet skall beskattas i Spanien, eller den del av den svenska arvsskatten som vid proportionell fördelning belöper på samma egendom.
+
+### 3 §
+
+Om åtgärd av beskattningsmyndighet i Spanien medfört eller kan komma att medföra beskattning som strider mot avtalets principer, kan den som träffats av beskattningen hos Kungl. Maj:t ansöka om att åtgärd vidtages från svensk sida för att undvika sådan beskattning under förutsättning antingen att han är svensk medborgare eller att den avlidne hade hemvist i Sverige vid sin död (jfr art. 11).
+
+Ansökan bör göras inom två år efter utgången av det kalenderår, då sökanden fick kännedom om beskattningen.
+
+## Övergångsbestämmelser
+
+**1967:735**
+
+Denna kungörelse träder i kraft den 1 januari 1968.
+
+Kungörelsen och bestämmelserna i avtalet tillämpas på dödsbo efter den som avlidit efter den 28 januari 1964.
+
+Genom denna kungörelse upphäves kungörelsen den 10 april 1964 (nr 97) om tillämpning av ett mellan Sverige och Spanien den 25 april 1963 ingånget avtal för undvikande av dubbelbeskattning beträffande skatter å kvarlåtenskap.

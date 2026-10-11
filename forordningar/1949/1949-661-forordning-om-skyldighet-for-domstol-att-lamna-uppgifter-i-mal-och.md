@@ -1,0 +1,155 @@
+---
+title: "Förordning (1949:661) om skyldighet för domstol att lämna uppgifter i mål och ärenden enligt föräldrabalken, m.m."
+identifier: "SFS 1949:661"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1949-12-16
+amended_through: "SFS 2026:668"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1949-661.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1949:661"
+retrieved: 2026-10-11
+---
+# Förordning (1949:661) om skyldighet för domstol att lämna uppgifter i mål och ärenden enligt föräldrabalken, m.m.
+
+### Om tingsrätts uppgiftsskyldighet
+
+### Faderskap m.m.
+
+#### 1 §
+
+Om en tingsrätt har hävt eller fastställt ett faderskap, ska domstolen när avgörandet har fått laga kraft underrätta
+
+1. Skatteverket,
+
+2. socialnämnden i den kommun där barnet är folkbokfört, om barnet inte har fyllt 18 år, och
+
+3. Centrala studiestödsnämnden, om barnet har fyllt 15 men inte 18 år.
+
+Underrättelseskyldigheten enligt första stycket gäller också ett motsvarande avgörande i fråga om föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor eller om moderskap. *Förordning (2022:1325)*.
+
+#### 1 a §
+
+Om en tingsrätt har meddelat ett beslut enligt 9 § lagen (1985:367) om föräldraskap i internationella situationer när det gäller giltigheten i Sverige av ett utländskt avgörande om faderskap eller om föräldraskap för en kvinna som är eller har varit gift eller sambo med barnets mor och beslutet har fått laga kraft, ska domstolen lämna underrättelse om detta på det sätt som anges i 1 §. *Förordning (2022:1325)*.
+
+### Adoption
+
+#### 2 §
+
+Om en tingsrätt har beslutat om adoption, ska domstolen när beslutet har fått laga kraft underrätta
+
+1. Skatteverket,
+
+2. socialnämnden i den kommun där den som har adopterats är folkbokförd, om han eller hon inte har fyllt 18 år, och
+
+3. Centrala studiestödsnämnden, om den som har adopterats har fyllt 15 men inte 18 år. *Förordning (2020:293)*.
+
+### Vårdnad om barn
+
+#### 3 §
+
+Om en tingsrätt har meddelat ett beslut om vårdnaden om barn för tiden intill dess det finns ett avgörande som har fått laga kraft, ska domstolen samma dag underrätta
+
+1. Skatteverket,
+
+2. socialnämnden i den kommun där barnet är folkbokfört, och
+
+3. Centrala studiestödsnämnden, om barnet har fyllt 15 år.
+
+Första stycket gäller dock inte om tingsrättens beslut innebär att ett tidigare vårdnadsavgörande fortfarande ska gälla.
+
+Om en tingsrätt har meddelat en dom eller ett slutligt beslut som rör vårdnaden och avgörandet har fått laga kraft, ska domstolen lämna underrättelse enligt första stycket. Om domen eller beslutet innebär att vårdnaden flyttas över till en eller två särskilt förordnade vårdnadshavare eller till en tillfällig vårdnadshavare, ska domstolen också underrätta överförmyndaren. *Förordning (2021:536)*.
+
+#### 3 a §
+
+En tingsrätt ska lämna underrättelse enligt 3 § första stycket om beslut som avser en fråga om vägran av erkännande eller verkställighet av ett utländskt vårdnadsavgörande i ett förfarande enligt artikel 30.3, artikel 40 eller artikel 59 i rådets förordning (EU) 2019/1111 av den 25 juni 2019 om behörighet, erkännande och verkställighet av avgöranden i äktenskapsmål och mål om föräldraansvar, och om internationella bortföranden av barn (Bryssel II- förordningen). Underrättelsen ska lämnas när beslutet har fått laga kraft. *Förordning (2022:1325)*.
+
+### Frågor rörande förmynderskap, godmanskap och förvaltarskap
+
+#### 4 §
+
+*/Upphör att gälla U:2028-01-01/* En tingsrätt skall underrätta överförmyndaren om tingsrättens eller en högre rätts beslut i ärenden som rör förmynderskap, godmanskap och förvaltarskap. *Förordning (1995:384)*.
+
+#### 4 §
+
+*/Träder i kraft I:2028-01-01/* En tingsrätt ska underrätta överförmyndaren om tingsrättens eller en högre rätts beslut i ärenden som rör förmynderskap, godmanskap och förvaltarskap.
+
+En tingsrätt ska underrätta Myndigheten för familjerätt och föräldraskapsstöd om tingsrättens eller en högre rätts beslut i ärenden som rör förordnade förmynderskap, godmanskap och förvaltarskap och vars innehåll ska registreras enligt 4 kap. 2 § ställföreträdarförordningen (2026:667).
+
+*Förordning (2026:668)*.
+
+#### 5 §
+
+Har en tingsrätt fått kännedom om att egendom har tillfallit någon som är underårig eller som har förvaltare, skall rätten underrätta överförmyndaren om förhållandet, om inte en underrättelse har lämnats enligt 4 §.
+
+*Förordning (2001:424)*.
+
+#### 6 §
+
+Har upphävts genom *förordning (1988:1332)*.
+
+#### 7 §
+
+Har upphävts genom *förordning (1988:1332)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (1988:1332)*.
+
+#### 9 §
+
+Har upphävts genom *förordning (2001:424)*.
+
+### Om överrätts uppgiftsskyldighet
+
+#### 10 §
+
+Om högre rätt har meddelat dom eller beslut i fråga som avses i 1 eller 1 a § och om avgörandet fått laga kraft, ska den rätt som sist handlagt målet sända meddelande enligt 1 §.
+
+Om högre rätt har meddelat dom eller beslut som avses i 2, 3 eller 3 a § eller om den högre rätten i annat fall upphävt eller ändrat lägre rätts dom eller beslut, som den lägre rätten varit skyldig att lämna uppgift om, ska meddelande lämnas om förhållandet enligt vad som är föreskrivet för underrätt. *Förordning (2015:844)*.
+
+#### 11 §
+
+I ärenden rörande förmynderskap, godmanskap och förvaltarskap skall avskrift av beslut, som meddelats av högre rätt, skyndsamt tillställas underrätten för åtgärd enligt 4 §. *Förordning (1988:1332)*.
+
+#### 11 a §
+
+När domstol i mål om underhåll till barn sänder avskrift av domen till parterna, skall upplysning samtidigt lämnas om det huvudsakliga innehållet i 7 kap. 10 § föräldrabalken. Har bidragsskyldighet ålagts part, skall parterna också få upplysning om det huvudsakliga innehållet i 7 kap. 4 och 9 §§ föräldrabalken och i de bestämmelser i lagen (1966:680) om ändring av vissa underhålls bidrag som rör underhåll till barn. *Förordning (1979:976)*.
+
+#### 11 b §
+
+Ny beteckning 1 a § genom *förordning (2015:844)*.
+
+#### 11 c §
+
+Ny beteckning 3 a § genom *förordning (2015:844)*.
+
+### Om domstols uppgiftsskyldighet i andra fall än förut nämnts
+
+#### 12 §
+
+Om domstols uppgiftsskyldighet i annat fall än förut nämnts finns en bestämmelse i 11 kap. 27 § föräldrabalken.
+
+*Förordning (1995:384)*.
+
+### Bemyndigande
+
+#### 13 §
+
+Domstolsverket får meddela närmare föreskrifter om domstols uppgiftsskyldighet enligt denna förordning.
+
+*Förordning (2020:293)*.
+
+## Övergångsbestämmelser
+
+**2001:424**
+
+Denna förordning träder i kraft den 1 juli 2001. Äldre bestämmelser gäller fortfarande i ärenden där bouppteckningen har kommit in till tingsrätten före ikraftträdandet.
+
+**2022:1325**
+
+1. Denna förordning träder i kraft den 1 augusti 2022.
+
+2. Bestämmelsen i 3 a § i den äldre lydelsen gäller fortfarande för beslut som avser ett utländskt avgörande som har meddelats i ett förfarande som inletts före ikraftträdandet.

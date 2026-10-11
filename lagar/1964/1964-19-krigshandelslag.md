@@ -1,0 +1,63 @@
+---
+title: "Krigshandelslag (1964:19)"
+identifier: "SFS 1964:19"
+type: act
+jurisdiction: se
+language: sv
+date: 1964-02-28
+amended_through: "SFS 2024:793"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1964-19.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1964:19"
+retrieved: 2026-10-11
+---
+# Krigshandelslag (1964:19)
+
+## 1 §
+
+Är Sverige i krig, skall bestämmelserna i 2-9 §§ tillämpas.
+
+Är Sverige i krigsfara eller råder det sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen föreskriva att bestämmelserna i 2-9 §§ skall tillämpas.
+
+Föreskrift enligt andra stycket skall underställas riksdagens prövning inom en månad från det den utfärdades. Sker inte underställning eller godkänner riksdagen inte föreskriften inom två månader från det underställningen skedde, upphör föreskriften att gälla. *Lag (1994:1634)*.
+
+## 2 §
+
+Utfästelse, som innebär inskränkning i friheten att till riket införa eller ur riket utföra eller inom riket förfoga över vara eller att fortskaffa eller eljest befordra vara till, från eller inom riket, skall, om inskränkningen är eller kan antagas vara av beskaffenhet att tjäna främmande makts intresse, icke vara gällande med mindre tillstånd till utfästelsen lämnats.
+
+## 3 §
+
+Tillstånd som sägs i 2 § lämnas, för särskilda fall eller för visst slag av utfästelse, av regeringen eller den regeringen bemyndigar därtill. *Lag (1980:196)*.
+
+## 4 §
+
+Den som handlar i strid mot en för honom eller henne gällande utfästelse som avses i denna lag, döms till böter eller fängelse i högst sex månader. Detsamma ska gälla, om någon, som genom sådan utfästelse förbundit sig att inte utföra vara till utlandet eller visst främmande land, gör försök att i strid mot utfästelsen utföra varan.
+
+*Lag (2024:793)*.
+
+## 5 §
+
+Den som genom att lämna underrättelse om egen eller annans verksamhet eller genom att främja inhämtande av dylik underrättelse medverkar till övervakning rörande sådan in- eller utförsel eller förfogande över eller befordran av vara, som anges i 2 §, döms, om han eller hon insett eller borde ha insett att övervakningen utövas av främmande makt eller annars är av beskaffenhet att tjäna främmande makts intresse, till böter eller fängelse i högst ett år, om gärningen inte är belagd med strängare straff i 19 kap. brottsbalken.
+
+Har åtgärden vidtagits med stöd av lag, handelsbruk eller annan sedvänja eller har den som vidtog åtgärden handlat i överensstämmelse med anvisning, som för visst fall eller annars meddelats av regeringen eller av myndighet, vilken enligt regeringens förordnande är behörig därtill, eller har han eller hon endast på brukligt sätt bevakat rätt eller utfört talan eller har han eller hon av annan sådan anledning haft fog för gärningen, ska vad som föreskrivs i första stycket inte tillämpas.
+
+I det allmännas verksamhet tillämpas i stället bestämmelserna i offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2009:407)*.
+
+## 6 §
+
+Har någon dömts till påföljd för brott som avses i denna lag och begår han, sedan domen vunnit laga kraft, ånyo sådant brott, må för återfallet dömas till fängelse i högst två år.
+
+## 7 §
+
+Åtal för brott mot denna lag må väckas allenast efter medgivande av regeringen eller den myndighet, som regeringen bestämmer. *Lag (1980:196)*.
+
+## 8 §
+
+Denna lag äger icke tillämpning å främmande stats beskickning här i riket eller å konsulära tjänstemän, vilka äro i främmande stats tjänst här anställda och äro dess medborgare samt icke här i riket driva handel eller annan näring.
+
+## 9 §
+
+Inträder sådan tillståndsplikt, varom stadgas i 2 §, skall i lagen avsedd utfästelse, som givits inom två månader före det tillståndsplikten inträder, icke vara gällande, med mindre tillstånd sökes inom en månad efter det att tillståndsplikten inträtt samt sökt tillstånd beviljats eller tillstånd eljest lämnats inom tid som nu sagts. Har tillstånd till utfästelsen lämnats, skall i fråga om handling, som därefter företages i strid mot utfästelsen, vad i 4 samt 6 -- 8 §§ stadgas äga tillämpning.

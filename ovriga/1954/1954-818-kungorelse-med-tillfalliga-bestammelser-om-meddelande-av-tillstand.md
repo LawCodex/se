@@ -1,0 +1,18 @@
+---
+title: "Kungörelse (1954:818) med tillfälliga bestämmelser om meddelande av tillstånd jämlikt 12 § utlänningskungörelsen den 4 juni 1954 (nr 457) för medborgare i Finland"
+identifier: "SFS 1954:818"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1954-12-30
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1954-818.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1954:818"
+retrieved: 2026-10-11
+---
+# Kungörelse (1954:818) med tillfälliga bestämmelser om meddelande av tillstånd jämlikt 12 § utlänningskungörelsen den 4 juni 1954 (nr 457) för medborgare i Finland
+
+Tillstånd jämlikt 12 § utlänningskungörelsen den 4 juni 1954 (457) för medborgare i Finland, tillhörande befolkningen å finskt område nära gränsen till Sverige, att överskrida gränsen å annan ort än passkontrollort må tills vidare, intill dess Kungl. Maj:t annorlunda förordnar, utan hinder av vad i nämnda paragraf stadgas, tecknas å av finsk myndighet utfärdad legitimationshandling. Tillståndet skall utfärdas att gälla viss tid, högst ett år, samt angiva det ställe där utlänningen må överskrida gränsen och den tid på dygnet då överskridandet må äga rum. Tillståndet skall utfärdas utan avgift.
+
+Sedan legitimationshandlingen försetts med dylikt tillstånd skall den gälla som gränspassersedel.

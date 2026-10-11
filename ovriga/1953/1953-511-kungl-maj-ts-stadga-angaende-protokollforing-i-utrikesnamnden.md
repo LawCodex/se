@@ -1,0 +1,24 @@
+---
+title: "Kungl. Maj:ts Stadga (1953:511) angående protokollföring i utrikesnämnden"
+identifier: "SFS 1953:511"
+type: other
+jurisdiction: se
+language: sv
+date: 1953-06-06
+department: "Utrikesdepartementet UDR"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1953-511.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1953:511"
+retrieved: 2026-10-11
+---
+# Kungl. Maj:ts Stadga (1953:511) angående protokollföring i utrikesnämnden
+
+§ 1 Vid sammanträde med utrikesnämnden skall sekreteraren hos nämnden föra protokoll, upptagande de vid sammanträdet närvarandes namn, överläggningsämnen samt namn å de, som yttra sig under överläggningarna.
+
+§ 2 Vad de vid sammanträdet närvarande vid överläggningarna yttra skall ordagrant upptecknas av för ändamålet anlitad stenograf, där ej den som leder förhandlingarna för visst fall annorlunda bestämmer. I sistnänmda fall äger dock ledamot av nämnden, då han så önskar, få sin uttalade mening tagen till protokollet.
+
+§ 3 Protokoll som avses under § 1 skall uppläsas av sekreteraren vid nämndens nästa sammanträde. Nämndens ledamöter ha därvid tillfälle att mot protokollets avfattning framställa erinringar. Protokollet justeras sedermera av ministern för utrikes ärendena och förvaras i utrikesdepartementet.
+
+§ 4 Den ordagranna uppteckningen av ett anförande skall så snart ske kan tillhandahållas den som hållit anförandet för justering inom den tid ministern för utrikes ärendena bestämmer; annan i sammanträdet deltagande obetaget att vid ett av de närmaste sammanträdena med nämnden framställa erinringar mot uppteckningens avfattning efter justeringen. Uppteckningen skall förvaras i utrikesdepartementet.
+
+§ 5 Ledamot och suppleant i nämnden äro berättigade att i utrikesdepartementet taga del av protokoll och ordagranna uppteckningar från sammanträden, som ägt rum under den tid de tillhört nämnden.

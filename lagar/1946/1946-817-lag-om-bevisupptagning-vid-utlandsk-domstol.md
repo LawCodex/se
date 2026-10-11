@@ -1,0 +1,41 @@
+---
+title: "Lag (1946:817) om bevisupptagning vid utländsk domstol"
+identifier: "SFS 1946:817"
+type: act
+jurisdiction: se
+language: sv
+date: 1946-12-20
+amended_through: "SFS 2022:623"
+department: "Justitiedepartementet BIRS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1946-817.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1946:817"
+retrieved: 2026-10-11
+---
+# Lag (1946:817) om bevisupptagning vid utländsk domstol
+
+## 1 §
+
+I mål eller ärende vid en svensk domstol får domstolen besluta att bevis ska tas upp vid en utländsk domstol. Sådan bevisupptagning får avse syn, skriftligt bevis eller förhör med vittne, sakkunnig, part under sanningsförsäkran, målsägande eller den som avses i 36 kap. 1 § andra eller tredje styckena rättegångsbalken.
+
+Denna lag tillämpas inte om lagen (2000:562) om internationell rättslig hjälp i brottmål, Europaparlamentets och rådets förordning (EU) 2020/1783 av den 25 november 2020 om samarbete mellan medlemsstaternas domstolar i fråga om bevisupptagning i mål och ärenden av civil eller kommersiell natur eller lagen (2017:1000) om en europeisk utredningsorder är tillämplig.
+
+*Lag (2022:623)*.
+
+## 2 §
+
+Enskild part som begärt bevisupptagning eller som eljest enligt lag har att utgiva kostnaden därför åligge att inom tid som honom av rätten förelägges antingen till rätten avlämna skriftlig förbindelse av två vederhäftiga, inom riket bosatta personer, vilka en för båda och båda för en borga såsom för egen skuld för den kostnad åtgärden kan medföra, eller ock erlägga det belopp vartill rätten finner kostnaden kunna skäligen beräknas. Försummas det och har bevisupptagningen begärts av part, vare frågan därom förfallen.
+
+Vad nu sagts skall ej äga tillämpning, då kostnad för bevisupptagning skall utgivas av staten såsom part eller annars skall utgå av allmänna medel. *Lag (1996:1627)*.
+
+## 3 §
+
+Då rätten beslutat bevisupptagning vid utländsk domstol samt, i fall som avses i 2 §, vad där är föreskrivet blivit fullgjort, utfärde rätten framställning till den utländska domstolen om bevisupptagningen enligt bestämmelser som regeringen meddelar.
+
+Framställning om bevisupptagning skall av rätten tillställas Justitiedepartementet för vidare åtgärd. Framställning enligt den i Haag den 18 mars 1970 dagtecknade konventionen om bevisupptagning i utlandet i mål och ärenden av civil eller kommersiell natur får i stället översändas till myndighet i den främmande staten som utsetts att mottaga sådan framställning (centralorganet). Där enligt regeringens förordnande omedelbar skriftväxling med den utländska domstolen må äga rum, översändes framställning om bevisupptagning till den domstolen.
+
+*Lag (2000:566)*.
+
+## 4 §
+
+Närmare bestämmelser om gäldande av kostnad för bevisupptagning som avses i denna lag meddelas av Konungen.

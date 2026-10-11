@@ -6,6 +6,7 @@ jurisdiction: se
 language: sv
 date: 2009-12-10
 department: "Utrikesdepartementet"
+entry_into_force: "den dag regeringen bestämmer"
 status: in_force
 source: "https://data.riksdagen.se/dokument/sfs-2009-1514.html"
 consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:1514"

@@ -1,0 +1,43 @@
+---
+title: "Lag (1944:475) om arbetslöshetsnämnd"
+identifier: "SFS 1944:475"
+type: act
+jurisdiction: se
+language: sv
+date: 1944-06-30
+amended_through: "SFS 2017:726"
+department: "Arbetsmarknadsdepartementet AA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1944-475.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1944:475"
+retrieved: 2026-10-11
+---
+# Lag (1944:475) om arbetslöshetsnämnd
+
+## 1 §
+
+I varje kommun skall finnas en arbetslöshetsnämnd. Kommun får tillsätta särskild arbetslöshetsnämnd eller uppdraga åt annan nämnd att vara arbetslöshetsnämnd. Har så ej skett är kommunstyrelsen arbetslöshetsnämnd.
+
+## 2 §
+
+Arbetslöshetsnämnd har till uppgift att vidtaga eller på annat sätt främja kommunala åtgärder för att förebygga arbetslöshet eller minska verkningarna av arbetslöshet.
+
+## 3 §
+
+Det åligger arbetslöshetsnämnd särskilt att
+
+1. handlägga frågor om kommuns hjälpverksamhet vid arbetslöshet,
+
+2. samarbeta med myndigheter och enskilda vilkas verksamhet rör
+
+sysselsättningsfrågor samt
+
+3. omedelbart underrätta Arbetsförmedlingen om arbetskonflikt som påverkar hjälpverksamhet inom kommunen. *Lag (2007:397)*.
+
+## 4 §
+
+Arbetslöshetsnämnd skall göra de framställningar till kommunfullmäktige och kommunstyrelsen som behövs för nämndens verksamhet. Nämnden får infordra yttranden och upplysningar från kommunstyrelsen, annan nämnd, beredning eller tjänsteman hos kommunen.
+
+## 5 §
+
+För en särskild arbetslöshetsnämnd gäller vad som är föreskrivet om nämnder i kommunallagen (2017:725). *Lag (2017:726)*.

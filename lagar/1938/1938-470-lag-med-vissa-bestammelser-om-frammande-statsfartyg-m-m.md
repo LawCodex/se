@@ -1,0 +1,45 @@
+---
+title: "Lag (1938:470) med vissa bestämmelser om främmande statsfartyg m.m."
+identifier: "SFS 1938:470"
+type: act
+jurisdiction: se
+language: sv
+date: 1938-06-17
+amended_through: "SFS 1959:540"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1938-470.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1938:470"
+retrieved: 2026-10-11
+---
+# Lag (1938:470) med vissa bestämmelser om främmande statsfartyg m.m.
+
+## 1 §
+
+Ej må i andra fall än här nedan stadgas den omständigheten, att fartyg äges eller nyttjas av främmande stat eller att fartygslast tillhör sådan stat, utgöra hinder för att vid domstol här i riket upptaga talan angående fordran, vilken grundar sig å fartygets begagnande eller lastens befordran, eller för att med avseende å fartyget eller lasten här i riket företaga utmätning, kvarstad eller annan handräckning på grund av fordran som nyss sagts.
+
+## 2 §
+
+Ändå att fråga är om fordran som i 1 § sägs, må ej talan mot främmande stat av domstol här i riket upptagas såvitt angår:
+
+1. krigsfartyg eller annat fartyg, som den främmande staten äger eller nyttjar och vid tiden för fordringens tillkomst brukade uteslutande för statsändamål och icke för affärsdrift;
+
+2. den främmande staten tillhörig last, som fraktas med fartyg varom under 1 är sagt;
+
+3. den främmande staten tillhörig last, som för statsändamål och icke för affärsdrift fraktas med handelsfartyg, med mindre fordringen avser bärgarlön eller bidrag till gäldande av gemensamt haveri eller ock grundar sig på avtal som slutits rörande lasten.
+
+## 3 §
+
+Ändå att fråga är om fordran som i 1 § sägs, må ej utmätning, kvarstad eller annan handräckning här i riket företagas med avseende å:
+
+1. krigsfartyg eller annat fartyg, som främmande stat äger eller nyttjar eller i dess helhet befraktat för viss resa eller för tid, och som brukas uteslutande för statsändamål och icke för affärsdrift;
+
+2. främmande stat tillhörig last, som fraktas med fartyg varom under 1 är sagt eller ock med handelsfartyg för statsändamål och icke för affärsdrift.
+
+## 4 §
+
+Efter överenskommelse med främmande stat må, såframt den främmande staten i krigstid därom gör framställning, Konungen förordna att ej heller i andra fall än i 3 § avses utmätning, kvarstad eller annan handräckning må här i riket företagas med avseende å fartyg, som den främmande staten äger eller nyttjar, samt fartygslast tillhörig denna stat.
+
+## 5 §
+
+Konungen äger ock, efter överenskommelse med främmande stat, förordna att, där yrkande framställts om upphävande av utmätning, kvarstad eller annan handräckning med avseende å fartyg eller fartygslast, varom i 3 § förmäles, samt den myndighet hos vilken yrkandet framställts finner anledning till tvekan huruvida fartyget uteslutande brukas eller lasten fraktas för statsändamål och icke för affärsdrift, vitsord skall i sådant avseende tillerkännas intyg av den främmande statens diplomatiske representant här i riket. Sådant intyg må genom utrikesdepartementets förmedling tillställas myndigheten med allmänna posten.

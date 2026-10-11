@@ -92,7 +92,7 @@ python -m venv .venv && .venv/bin/pip install -r scripts/requirements.txt
 .venv/bin/python scripts/convert.py        # rebuild grundlagar/ balkar/ lagar/ forordningar/ ovriga/
 ```
 
-Raw downloads are cached in `../_raw/se/` (≈ 1 GB, not committed; delete after use).
+Raw downloads are cached in `../_raw/se/` (≈ 270 MB, not committed; delete after use).
 `fetch.py docs --refresh` re-downloads documents whose `systemdatum` has changed;
 `--all` also downloads repealed entries. `convert.py` rewrites all Markdown files from the
 cache, so removed statutes disappear on regeneration.

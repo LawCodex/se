@@ -1,0 +1,171 @@
+---
+title: "Medborgarskapsförordning (2001:218)"
+identifier: "SFS 2001:218"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2001-05-10
+amended_through: "SFS 2026:1177"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-218.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:218"
+retrieved: 2026-10-11
+---
+# Medborgarskapsförordning (2001:218)
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om tillämpning av lagen (2001:82) om svenskt medborgarskap.
+
+### Anmälningar och ansökningar
+
+#### 2 §
+
+Anmälningar och ansökningar enligt lagen (2001:82) om svenskt medborgarskap skall göras skriftligen på formulär som fastställs av Migrationsverket. Den som gör en anmälan eller ansökan skall på heder och samvete bekräfta att de uppgifter som lämnas är sanna.
+
+Till en anmälan eller ansökan skall fogas ett personbevis eller, för den som inte är folkbokförd i Sverige, en annan likvärdig handling.
+
+#### 3 §
+
+Anmälningar om svenskt medborgarskap ska ges in till Migrationsverket. *Förordning (2024:473)*.
+
+#### 4 §
+
+En anmälan skall anses gjord samma dag som den kom in till den myndighet som anges i 3 §.
+
+#### 5 §
+
+Ansökningar om svenskt medborgarskap (naturalisation) och ansökningar enligt 14 § andra eller tredje stycket, 15, 15 b eller 21 § lagen (2001:82) om svenskt medborgarskap ska ges in till Migrationsverket. Om sökanden inte är folkbokförd i Sverige, ska ansökan dock ges in till en svensk beskickning eller ett svenskt karriärkonsulat inom vars verksamhetsområde sökanden är bosatt. En ansökan om naturalisation som gäller en utlänning som är under 15 år och adopterad av en svensk medborgare ska alltid ges in till Migrationsverket.
+
+*Förordning (2026:452)*.
+
+### Prövning
+
+#### 6 §
+
+Migrationsverket prövar ärenden om svenskt medborgarskap efter anmälan eller ansökan enligt lagen (2001:82) om svenskt medborgarskap. *Förordning (2024:473)*.
+
+### Utredning
+
+#### 7 §
+
+Den myndighet hos vilken en anmälan eller ansökan skall ges in enligt 3 eller 5 § skall göra den utredning som behövs för ärendets prövning.
+
+#### 7 a §
+
+Migrationsverket får lämna ut uppgifter till och hämta in uppgifter från Polismyndigheten, Säkerhetspolisen och Kronofogdemyndigheten vid prövningen av kravet på ett skötsamt och hederligt levnadssätt i 11 § första stycket 4 och 12 § första stycket 4 lagen (2001:82) om svenskt medborgarskap.
+
+Migrationsverket får lämna ut uppgifter till och hämta in uppgifter från Polismyndigheten och Säkerhetspolisen vid prövningen i anmälningsärenden enligt punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2014:481) om ändring i lagen (2001:82) om svenskt medborgarskap av om någon
+
+1. är skäligen misstänkt eller dömd för ett brott för vilket det svåraste straff som är föreskrivet är fängelse i två år eller mer, för upprepad brottslighet avseende brott för vilka det är föreskrivet fängelse eller för upprepad brottslighet som inte ligger långt tillbaka i tiden,
+
+2. är skäligen misstänkt eller dömd för ett brott utanför Sverige som enligt svensk lag motsvarar ett brott för vilket det svåraste straff som är föreskrivet är fängelse i två år eller mer, för upprepad brottslighet utanför Sverige avseende brott för vilka det enligt svensk lag är föreskrivet fängelse eller för upprepad brottslighet utanför Sverige som inte ligger långt tillbaka i tiden,
+
+3. bedöms utgöra ett hot mot Sveriges säkerhet eller allmän säkerhet, eller
+
+4. har varit verksam i, eller haft bestämmande inflytande över, en organisation eller grupp vars verksamhet innefattar systematiska, omfattande och grova övergrepp på andra människor.
+
+Migrationsverket får lämna ut uppgifter till och hämta in uppgifter från Polismyndigheten vid prövningen i anmälningsärenden enligt 8 § lagen om svenskt medborgarskap av om någon har dömts för ett brott mot Sveriges säkerhet eller dömts till frihetsberövande påföljd i fem år eller längre.
+
+*Förordning (2026:452)*.
+
+#### 7 b §
+
+Migrationsverket får lämna ut uppgifter till och hämta in uppgifter från Universitets- och högskolerådet
+
+1. i samband med anvisning av sökande till Universitets- och högskolerådet för genomförande av medborgarskapsprov enligt 4 § förordningen (2026:451) om medborgarskapsprov, och
+
+2. vid prövningen av kravet på tillräckliga kunskaper i svenska och om det svenska samhället enligt 11 § första stycket 6 och 12 § första stycket 5 lagen (2001:82) om svenskt medborgarskap. *Förordning (2026:452)*.
+
+#### 7 c §
+
+På begäran av Migrationsverket ska Arbetsförmedlingen, om det behövs för att bedöma om försörjningskravet i 11 § första stycket 5 lagen (2001:82) om svenskt medborgarskap är uppfyllt, lämna ut följande uppgifter om en utlänning:
+
+1. namn och personnummer,
+
+2. om utlänningen har eller har haft anställning med särskilt anställningsstöd, med stöd för nystartsjobb eller i etableringsjobb, och
+
+3. om utlänningen har eller har haft stöd till start av näringsverksamhet. *Förordning (2026:452)*.
+
+#### 8 §
+
+När en svensk beskickning eller ett svenskt karriärkonsulat har gjort en utredning enligt 7 § skall handlingarna i ärendet sändas till Migrationsverket.
+
+### Underrättelse om beslut
+
+#### 9 §
+
+När någon har förvärvat svenskt medborgarskap genom anmälan eller naturalisation eller när en ansökan enligt 14 § andra eller tredje stycket, 15 eller 21 § lagen (2001:82) om svenskt medborgarskap har bifallits, ska den myndighet eller domstol som slutligt har prövat ärendet skyndsamt underrätta
+
+1. Skatteverket, och
+
+2. den svenska beskickning eller det svenska karriärkonsulat som tagit emot anmälan eller ansökan.
+
+I underrättelsen ska även anges de barn som har förvärvat svenskt medborgarskap enligt 10 § lagen om svenskt medborgarskap enligt vad som kan bedömas av handlingarna i ärendet. *Förordning (2026:452)*.
+
+### Bevis om medborgarskap
+
+#### 10 §
+
+När någon har förvärvat svenskt medborgarskap genom naturalisation eller med anledning av en anmälan, ska Migrationsverket utfärda bevis om svenskt medborgarskap.
+
+*Förordning (2024:473)*.
+
+### Avgifter för vissa ärenden
+
+#### 11 §
+
+Avgift tas ut för prövning av anmälan och ansökan enligt lagen (2001:82) om svenskt medborgarskap enligt följande:
+
+```
+Ärendeslag                                      Avgift
+Anmälan enligt 6 § lagen om svenskt
+medborgarskap                                   175 kronor
+Anmälan enligt 8 § lagen om svenskt  medborgarskap samt punkt 2 i ikraftträdande-  och övergångsbestämmelserna till lagen 
+(2014:481) om ändring i lagen (2001:82) om
+svenskt medborgarskap                           475 kronor
+Ansökan om naturalisation       
+- för en utlänning under 18 år                  475 kronor
+- för övriga utlänningar                        2 900 kronor
+Anmälan enligt 18 och 19 §§ lagen om svenskt
+medborgarskap                                   475 kronor
+```
+
+Avgift ska inte tas ut av den som är statslös och som har fått flyktingstatus eller resedokument av en svensk myndighet.
+
+I fråga om uttag av avgift gäller i övrigt bestämmelserna i 11-14 §§ avgiftsförordningen (1992:191).
+
+För ansökningar som ska ges in till en svensk beskickning eller ett svenskt karriärkonsulat tas avgift ut enligt förordningen (1997:691) om avgifter vid utlandsmyndigheterna.
+
+*Förordning (2026:1177)*.
+
+### Bestämmelser om förhållandet till de övriga nordiska länderna
+
+#### 12 §
+
+Bestämmelserna i 17-19 §§ lagen (2001:82) om svenskt medborgarskap skall tillämpas i förhållande till Danmark, Finland, Island och Norge.
+
+### Bemyndigande
+
+#### 13 §
+
+Migrationsverket får meddela de ytterligare föreskrifter som behövs för verkställigheten av lagen (2001:82) om svenskt medborgarskap och av denna förordning.
+
+## Övergångsbestämmelser
+
+**2001:218**
+
+Denna förordning träder i kraft den 1 juli 2001, då medborgarskapskungörelsen (1969:235) och förordningen (1977:819) om tillämpning av viss bestämmelse i lagen (1950:382) om svenskt medborgarskap skall upphöra att gälla.
+
+**2014:532**
+
+1. Denna förordning träder i kraft den 1 april 2015.
+
+2. För anmälan enligt punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2014:481) om ändring i lagen (2001:82) om svenskt medborgarskap gäller 3 och 11 §§ i den äldre lydelsen.
+
+**2024:473**
+
+1. Denna förordning träder i kraft den 1 oktober 2024.
+
+2. För anmälningsärenden som har kommit in till Migrationsverket eller länsstyrelsen före den 1 oktober 2024 gäller 10 § i den äldre lydelsen.

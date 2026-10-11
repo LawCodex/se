@@ -1,0 +1,46 @@
+---
+title: "Förordning (1982:29) om avgifter för konsulärt bistånd"
+identifier: "SFS 1982:29"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1982-01-14
+amended_through: "SFS 2011:247"
+reprinted: "SFS1990:245"
+department: "Utrikesdepartementet UDR"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-29.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:29"
+retrieved: 2026-10-11
+---
+# Förordning (1982:29) om avgifter för konsulärt bistånd
+
+## 1 §
+
+Den avgift som ska betalas enligt 14 § lagen (2003:491) om konsulärt ekonomiskt bistånd är 600 kronor.
+
+*Förordning (2009:1041)*.
+
+## 2 §
+
+Avgift enligt 1 § ska även betalas för följande tjänster nämligen
+
+1. överföring till en utlandsmyndighet av pengar från enskilda eller av banktillgodohavanden eller liknande medel,
+
+2. inväxling av checkar eller sedlar,
+
+3. utbetalning för försäkringsföretags räkning. *Förordning (2011:247)*.
+
+## 3 §
+
+Beslut om avgift enligt 2 § får inte överklagas.
+
+## 4 §
+
+Föreskrifter för verkställigheten av denna förordning meddelas av Regeringskansliet. *Förordning (1997:11)*.
+
+2003:561
+
+Denna förordning träder i kraft den 1 september 2003. I fråga om bistånd som har lämnats enligt lagen (1973:137) om ekonomiskt bistånd till svenska medborgare i utlandet m.m.
+
+gäller alltjämt 1 § i sin äldre lydelse.

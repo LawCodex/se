@@ -1,0 +1,129 @@
+---
+title: "Lag (1991:2041) om särskild personutredning i brottmål, m.m."
+identifier: "SFS 1991:2041"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-12-19
+amended_through: "SFS 2026:1669"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-2041.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:2041"
+retrieved: 2026-10-11
+---
+# Lag (1991:2041) om särskild personutredning i brottmål, m.m.
+
+### 1 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* När det i ett brottmål för att avgöra påföljdsfrågan eller annars behövs en särskild utredning om en misstänkts personliga förhållanden eller om åtgärder som kan antas bidra till att han eller hon avhåller sig från fortsatt brottslighet, skall ett yttrande inhämtas från Kriminalvården.
+
+Ett sådant yttrande behöver dock inte inhämtas, om den utredning som behövs ändå finns tillgänglig för rätten eller om den inhämtas på annat sätt. *Lag (2005:980)*.
+
+### 1 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* När det i ett brottmål för att avgöra påföljdsfrågan eller någon annan fråga som prövas i målet behövs en särskild utredning om en misstänkts personliga förhållanden eller om verkställigheten av en påföljd som den misstänkte kan komma att dömas till eller tidigare har dömts till, ska ett yttrande hämtas in från Kriminalvården.
+
+Ett sådant yttrande behöver dock inte hämtas in, om den utred- ning som behövs ändå finns tillgänglig för rätten eller om den hämtas in på annat sätt. *Lag (2026:1669)*.
+
+### 2 §
+
+Ett beslut att inhämta yttrande från Kriminalvården meddelas av rätten. Innan allmänt åtal har väckts, får beslut meddelas av undersökningsledaren eller åklagaren. Beslutet ska meddelas så snart det lämpligen kan ske.
+
+Om allmänt åtal inte har väckts, får beslut att inhämta yttrande meddelas endast under förutsättning att den misstänkte har erkänt gärningen eller det annars finns sannolika skäl för misstanken att han eller hon har begått brottet. *Lag (2022:1534)*.
+
+### 3 §
+
+Kriminalvården ska ombesörja den utredning som behövs för yttrandet. Om det behövs för yttrandet, får Kriminalvården förordna en särskild personutredare att bistå med utredning.
+
+En misstänkt som inte är häktad är skyldig att inställa sig för utredning på tid och plats som Kriminalvården bestämmer. Om den misstänkte uteblir, får Polismyndigheten lämna handräckning för inställelsen.
+
+*Lag (2014:646)*.
+
+### 4 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Visar det sig under utredningen att den misstänkte behöver personligt stöd eller annan hjälp, får Kriminalvården förordna en förtroendeman för honom, om han samtycker till det. Om den misstänkte begär det, skall förtroendemannen entledigas.
+
+Ett uppdrag som förtroendeman upphör när
+
+1. förundersökningen avslutas utan att åtal väcks,
+
+2. åtalet läggs ned,
+
+3. dom meddelas varigenom den misstänkte frikänns eller förklaras fri från påföljd eller påföljd efterges,
+
+4. dom meddelas varigenom den misstänkte döms till böter eller villkorlig dom, eller
+
+5. verkställbar dom rörande annan påföljd föreligger mot den misstänkte. *Lag (2005:980)*.
+
+### 4 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Visar det sig under utredningen att den misstänkte behöver personligt stöd eller annan hjälp, får Kriminalvården förordna en förtroendeman för den misstänkte, om han eller hon samtycker till det. Om den misstänkte begär det, ska förtroendemannen entledigas.
+
+Ett uppdrag som förtroendeman upphör när
+
+1. förundersökningen avslutas utan att åtal väcks,
+
+2. åtalet läggs ned,
+
+3. dom meddelas varigenom den misstänkte frikänns eller förklaras fri från påföljd eller påföljd efterges,
+
+4. dom meddelas varigenom den misstänkte döms till böter, eller
+
+5. verkställbar dom rörande annan påföljd föreligger mot den misstänkte. *Lag (2026:1669)*.
+
+### 5 §
+
+Om det behövs för yttrandet och om inte särskilda skäl talar mot det, får Kriminalvården eller den person som myndigheten utsett att bistå med personutredningen, ta del av anteckningar och andra handlingar från förundersökningen samt vara närvarande vid förhör som hålls med den misstänkte.
+
+*Lag (2005:980)*.
+
+### 6 §
+
+En socialnämnd skall på begäran av rätten, åklagaren eller Kriminalvården lämna upplysningar om den misstänkte och föreslå de åtgärder som nämnden anser behövs för att främja hans anpassning i samhället.
+
+Om det kan bli fråga om utvisning av en utlänning på grund av brott, skall socialnämnden på begäran av rätten, åklagaren eller Kriminalvården lämna upplysningar om huruvida utlänningen har barn i Sverige och, om så är fallet, om barnets behov av kontakt med utlänningen, hur kontakten har varit och hur den skulle påverkas av att utlänningen utvisas. *Lag (2005:980)*.
+
+### 7 §
+
+Rätten får, när det finns skäl till det, förordna en läkare att avge läkarintyg om en misstänkt, under förutsättning som anges i 2 § andra stycket. Om rätten särskilt anger det i förordnandet, ska intyget omfatta de medicinska förutsättningarna för att överlämna den misstänkte till rättspsykiatrisk vård utan särskild utskrivningsprövning.
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar föreskrifter om avfattningen av läkarintyget. Endast en läkare som får avge utlåtande över en rättspsykiatrisk undersökning får förordnas att avge ett sådant intyg som avses i första stycket andra meningen.
+
+En misstänkt som inte är häktad är skyldig att inställa sig för läkarundersökning på tid och plats som läkaren bestämmer.
+
+Om den misstänkte inte inställer sig, får Polismyndigheten lämna handräckning för att han eller hon ska komma till undersökningen. *Lag (2014:646)*.
+
+### 7 a §
+
+Ett urin-, utandnings-, saliv-, svett-, blod- eller hårprov får tas på en person som genomgår en läkarundersökning enligt 7 § om det behövs för att kunna bedöma personens psykiska eller kroppsliga tillstånd.
+
+En urinprovtagning får inte utföras eller bevittnas av någon av motsatt kön som inte är läkare eller legitimerad sjuksköterska. *Lag (2023:283)*.
+
+### 8 §
+
+Den som bedriver verksamhet där det gäller sekretess enligt 25 kap. 1-5 §§ eller 26 kap. 1 § offentlighets- och sekretesslagen (2009:400) eller tystnadsplikt enligt 29 § lagen (1993:387) om stöd och service till vissa funktionshindrade, 17 kap. 11 § socialtjänstlagen (2025:400) eller 6 kap. 12 § patientsäkerhetslagen (2010:659) ska trots sekretessen eller tystnadsplikten lämna ut sådana uppgifter om en misstänkt som behövs för ett läkarintyg enligt 7 §.
+
+*Lag (2025:415)*.
+
+### 9 §
+
+I ett ärende om nåd får Justitiedepartementet och Högsta domstolen inhämta yttrande från Kriminalvården, upplysningar från en socialnämnd enligt 6 § eller förordna om läkarintyg enligt 7 §.
+
+I ett ärende om uppehållstillstånd för den som av allmän domstol har utvisats på grund av brott eller om upphävande av ett sådant utvisningsbeslut får Migrationsverket, en migrationsdomstol och Migrationsöverdomstolen inhämta yttrande från Kriminalvården eller upplysningar från en socialnämnd enligt 6 § andra stycket. *Lag (2013:652)*.
+
+### 10 §
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar föreskrifter om ersättning för uppdrag som särskild personutredare enligt 3 §, förtroendeman enligt 4 § och undersökningsläkare enligt 7 §.
+
+## Övergångsbestämmelser
+
+**1991:2041**
+
+Denna lag träder i kraft den 1 juli 1992, då lagen (1964:542) om personundersökning i brottmål upphör att gälla. I fråga om förordnande om personundersökning och läkarundersökning som har meddelats före ikraftträdandet skall bestämmelserna i den gamla lagen fortfarande tillämpas.
+
+**2026:1669**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer.
+
+2. I fråga om den som döms till villkorlig dom gäller 4 § i den äldre lydelsen.

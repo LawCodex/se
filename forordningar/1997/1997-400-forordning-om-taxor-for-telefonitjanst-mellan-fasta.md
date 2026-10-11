@@ -1,0 +1,48 @@
+---
+title: "Förordning (1997:400) om taxor för telefonitjänst mellan fasta nätanslutningspunkter"
+identifier: "SFS 1997:400"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1997-06-05
+department: "Näringsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1997-400.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1997:400"
+retrieved: 2026-10-11
+---
+# Förordning (1997:400) om taxor för telefonitjänst mellan fasta nätanslutningspunkter
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om begränsning av taxeförändringar för den som har en dominerande ställning på den svenska marknaden för sådana tjänster som avses i 2 §.
+
+### 2 §
+
+Förändringar av taxor för ett grundläggande abonnemang som medger användning av vissa telefonitjänster får för varje sådan tjänst i genomsnitt per kalenderår inte överstiga förändringen i nettoprisindex under närmast föregående år. Detta gäller telefonitjänster mellan fasta nätanslutningspunkter från stadigvarande bostad eller fast verksamhetsställe med direkttelefon avseende
+
+1. ny huvudledning,
+
+2. flyttning av huvudledning,
+
+3. överlåtelse av huvudledning, eller
+
+4. abonnemang för huvudledning.
+
+### 3 §
+
+Post- och telestyrelsen fastställer senast den 1 september varje år vilka som för det följande året har en sådan dominerande ställning som avses i 1 §.
+
+### 4 §
+
+Post- och telestyrelsen får meddela de verkställighetsföreskrifter som behövs för tillämpningen av denna förordning.
+
+## Övergångsbestämmelser
+
+**1997:400**
+
+1. Denna förordning träder i kraft den 1 juli 1997 och gäller till utgången av år 2000.
+
+2. Post- och telestyrelsen fastställer senast den 1 augusti 1997 vilka som för år 1997 har en sådan dominerande ställning som avses i 1 §.
+
+3. Vid tillämpning av 2 § för år 1997 gäller att taxeförändringar efter ikraftträdandet inte får överstiga förändringen i nettoprisindex under 1996.

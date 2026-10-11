@@ -1,0 +1,61 @@
+---
+title: "Lag (2000:1175) om talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer"
+identifier: "SFS 2000:1175"
+type: act
+jurisdiction: se
+language: sv
+date: 2000-12-07
+amended_through: "SFS 2016:216"
+department: "Finansdepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2000-1175.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2000:1175"
+retrieved: 2026-10-11
+---
+# Lag (2000:1175) om talerätt för vissa utländska konsumentmyndigheter och konsumentorganisationer
+
+## Lagens tillämpningsområde
+
+### 1 §
+
+Denna lag tillämpas i fråga om överträdelser av bestämmelser som genomför de direktiv som anges i bilaga I till Europaparlamentets och rådets direktiv 2009/22/EG av den 23 april 2009 om förbudsföreläggande för att skydda konsumenternas intressen (kodifierad version).
+
+Lagen gäller dock endast sådana överträdelser av bestämmelser till skydd för konsumenters intressen som påverkar konsumenter i en annan stat som är ansluten till Europeiska ekonomiska samarbetsområdet (EES-stat) än Sverige. *Lag (2011:274)*.
+
+## Godkända organs talan vid svensk domstol
+
+### 2 §
+
+En myndighet eller organisation i en annan EES-stat än Sverige får väcka talan i en svensk domstol med anledning av en överträdelse som avses i 1 §, om myndigheten eller organisationen är godkänd enligt en särskild förteckning som har upprättats av Europeiska unionen och publicerats i Europeiska unionens officiella tidning. *Lag (2011:274)*.
+
+### 3 §
+
+Talan får avse att åtgärder ska vidtas mot någon för att denne åsidosätter en bestämmelse som avses i 1 §. Åtgärderna får gälla
+
+1. förbud eller ålägganden med stöd av 23, 24, 26 och 27 §§ marknadsföringslagen (2008:486) eller förbud enligt 3 och 6 §§ lagen (1994:1512) om avtalsvillkor i konsumentförhållanden,
+
+2. åläggande att till svenska staten betala en sådan särskild avgift som avses i 17 kap. 5 och 6 §§ radio- och tv-lagen (2010:696), eller
+
+3. utdömande av vite som förelagts i de fall som avses i 1.
+
+*Lag (2010:726)*.
+
+### 4 §
+
+Talan får väckas endast om
+
+1. sökanden genom samråd försökt att få motparten att upphöra med den påstådda överträdelsen, och
+
+2. denna inte upphört inom två veckor efter det att motparten mottagit begäran om samråd.
+
+## Behörig domstol
+
+### 5 §
+
+Talan ska väckas vid
+
+1. Patent- och marknadsdomstolen i fråga om förbud och ålägganden som avses i marknadsföringslagen (2008:486), i fråga om förbud enligt lagen (1994:1512) om avtalsvillkor i konsumentförhållanden och i fråga om utdömande av vite,
+
+2. Förvaltningsrätten i Stockholm i fråga om sådan särskild avgift som avses i radio- och tv-lagen (2010:696).
+
+*Lag (2016:216)*.

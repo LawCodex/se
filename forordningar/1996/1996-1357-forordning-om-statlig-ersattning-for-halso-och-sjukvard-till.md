@@ -1,0 +1,201 @@
+---
+title: "Förordning (1996:1357) om statlig ersättning för hälso- och sjukvård till asylsökande"
+identifier: "SFS 1996:1357"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1996-12-05
+amended_through: "SFS 2026:1717"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-1357.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:1357"
+retrieved: 2026-10-11
+---
+# Förordning (1996:1357) om statlig ersättning för hälso- och sjukvård till asylsökande
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statlig ersättning till regioner, kommuner och öppenvårdsapotek för kostnader för hälso- och sjukvård samt kostnader för tandvård och receptförskrivna läkemedel som de har för vissa utlänningar.
+
+Ersättning enligt förordningen beslutas och betalas av Migrationsverket. *Förordning (2019:1025)*.
+
+### Ersättning till regioner och kommuner
+
+#### 2 §
+
+Ersättning får ges för hälso- och sjukvård som enligt andra och tredje styckena lämnas till utlänningar som avses i 1 kap. 2 § mottagandelagen (2026:999) och 1 § lagen (2026:380) om bistånd till vissa utlänningar vid inhibition av verkställigheten.
+
+För personer som fyllt arton år ges ersättning för omedelbar vård och vård som inte kan anstå, mödrahälsovård, förlossningsvård, preventivmedelsrådgivning, vård vid abort, vård och åtgärder enligt smittskyddslagen (2004:168) samt omedelbar tandvård och tandvård som inte kan anstå.
+
+För personer som inte fyllt arton år samt för personer som avses i 4 § och som har beviljats uppehållstillstånd som kan ligga till grund för folkbokföring i Sverige ges ersättning för hälso- och sjukvård samt tandvård. *Förordning (2026:1717)*.
+
+#### 3 §
+
+Ersättning får ges för en hälsoundersökning per utlänning som avses i 1 kap. 2 § mottagandelagen (2026:999) och 1 § lagen (2026:380) om bistånd till vissa utlänningar vid inhibition av verkställigheten samt som är registrerad hos Migrationsverket. *Förordning (2026:1717)*.
+
+#### 4 §
+
+För utlänningar som avses i 1 kap. 2 § mottagandelagen (2026:999) får ersättning enligt 2 och 3 §§ ges till dess att utlänningen inte längre omfattas av mottagandelagen.
+
+*Förordning (2026:1717)*.
+
+#### 5 §
+
+Ersättning enligt 2-4 §§ får inte ges för vård av utlänningar som håller sig undan så att beslut om avvisning, utvisning eller återvändande inte kan verkställas. *Förordning (2026:1717)*.
+
+#### 5 a §
+
+Ersättning får ges för hälso- och sjukvård enligt 2 § andra och tredje styckena och för hälsoundersökning enligt 3 § som lämnas till utlänningar som hålls i förvar enligt 10 kap. utlänningslagen (2005:716) och som inte har placerats i kriminalvårdsanstalt, häkte eller polisarrest.
+
+*Förordning (2026:1440)*.
+
+#### 6 §
+
+Hälso- och sjukvård enligt 2 och 4 §§ ersätts i form av en schablonersättning som lämnas med ett visst belopp per kvartal och person för utlänningar som bor inom regionen eller kommunen och som är registrerade hos Migrationsverket den sista dagen i kvartalet. Ersättningen betalas ut i den månad som följer varje kvartalsskifte.
+
+Schablonersättningen är
+
+- 3 740 kronor för personer till och med 18 år,
+
+- 4 435 kronor för personer från och med 19 år till och med 60 år, och
+
+- 5 635 kronor för personer som är 61 år eller äldre.
+
+Kostnader för tolk, hjälpmedel och transport eller sjukresa i samband med vård som ger rätt till ersättning inkluderas i schablonersättningen. *Förordning (2019:1025)*.
+
+#### 6 a §
+
+En hälsoundersökning enligt 3 och 4 §§ ersätts i form av en schablonersättning om 2 175 kronor. I ersättningen inkluderas kostnader för tolk i samband med hälsoundersökningen.
+
+Ersättningen betalas ut kvartalsvis i efterskott efter ansökan. *Förordning (2018:1970)*.
+
+#### 7 §
+
+För vård åt utlänningar som avses i 2 § första stycket och 3 § får Migrationsverket betala ut särskild ersättning, om kostnaden för en vårdkontakt uppgår till mer än 100 000 kronor beräknad enligt riksavtalet för hälso- och sjukvård. Den särskilda ersättningen skall motsvara den kostnad som överstiger 100 000 kronor och skall beräknas enligt riksavtalets bestämmelser. Om behandling av vårdnadshavare är nödvändig för barnets vård inom barn- och ungdomspsykiatrin skall även kostnaderna för sådan behandling ingå i en vårdkontakt.
+
+Särskild ersättning betalas ut efter ansökan till Migrationsverket efter avslutad vårdkontakt. Vid långvarig vårdkontakt får utbetalning ske kvartalsvis i efterskott.
+
+*Förordning (2006:1011)*.
+
+#### 7 a §
+
+Ansökan om ersättning enligt 6 a § ska ha kommit in till Migrationsverket senast vid utgången av det kvartal som är närmast efter hälsoundersökningen. Ansökan om ersättning enligt 7 § ska ha kommit in till Migrationsverket senast sex månader efter utgången av det kalenderår då vårdkontakten avslutades.
+
+*Förordning (2008:124)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (2026:1717)*.
+
+#### 8 a §
+
+För hälso- och sjukvård samt hälsoundersökning enligt 5 a § betalar Migrationsverket ut ersättning efter ansökan i efterskott. *Förordning (2026:1717)*.
+
+### Ersättning till öppenvårdsapotek
+
+#### 9 §
+
+Öppenvårdsapotek har rätt till ersättning av staten för receptförskrivna läkemedel och förbrukningsvaror som avses i 18 § lagen (2002:160) om läkemedelsförmåner m.m., om förskrivningen avser en utlänning som avses i 1 kap. 2 § mottagandelagen (2026:999), 11 kap. 2 § första och andra styckena utlänningslagen (2005:716) eller 1 § lagen (2026:380) om bistånd till vissa utlänningar vid inhibition av verk- ställigheten.
+
+För utlänningar som avses i 1 kap. 2 § mottagandelagen får ersättning för receptförskrivna läkemedel och förbrukningsvaror ges till dess att utlänningen inte längre omfattas av mottagandelagen.
+
+Rätt till ersättning finns inte för utlänningar som håller sig undan så att beslut om avvisning, utvisning eller återvändande inte kan verkställas. *Förordning (2026:1717)*.
+
+### Skyldigheten att lämna uppgifter
+
+#### 10 §
+
+Regioner och kommuner är skyldiga att lämna Migrationsverket de uppgifter som krävs för bedömningen av deras rätt till ersättning enligt denna förordning.
+
+*Förordning (2019:1025)*.
+
+### Bemyndigande
+
+#### 11 §
+
+Migrationsverket får meddela de föreskrifter som behövs för verkställigheten av denna förordning. Innan Migrationsverket beslutar sådana föreskrifter ska verket samråda med Sveriges Kommuner och Landsting.
+
+*Förordning (2019:1025)*.
+
+### Överklagande
+
+#### 12 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 6 a, 7 och 8-9 §§ får dock inte överklagas. *Förordning (2018:971)*.
+
+## Övergångsbestämmelser
+
+**2002:84**
+
+Denna förordning träder i kraft den 15 mars 2002. De nya bestämmelserna skall dock tillämpas för tid från och med den 1 januari 2002.
+
+**2004:265**
+
+Denna förordning träder i kraft den 1 juli 2004. Äldre föreskrifter gäller fortfarande för kostnader som har uppkommit före ikraftträdandet.
+
+**2004:1164**
+
+Denna förordning träder i kraft den 1 januari 2005. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2005:1067**
+
+Denna förordning träder i kraft den 1 januari 2006. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2006:1011**
+
+Denna förordning träder i kraft den 1 juli 2006. Äldre föreskrifter gäller fortfarande för kostnader för avslutad vårdkontakt som uppkommit före ikraftträdandet.
+
+**2006:1295**
+
+Denna förordning träder i kraft den 1 januari 2007. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2007:1246**
+
+Denna förordning träder i kraft den 1 januari 2008. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2008:1292**
+
+Denna förordning träder i kraft den 1 januari 2009. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2009:1433**
+
+Denna förordning träder i kraft den 1 januari 2010. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2010:1456**
+
+Denna förordning träder i kraft den 1 januari 2011. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2011:1195**
+
+Denna förordning träder i kraft den 1 januari 2012. Äldre föreskrifter gäller fortfarande för kostnader för hälsoundersökning som uppkommit före ikraftträdandet.
+
+**2012:840**
+
+1. Denna förordning träder i kraft den 1 januari 2013.
+
+2. Äldre föreskrifter gäller fortfarande för sådana kostnader för hälsoundersökningar som uppkommit före ikraftträdandet.
+
+**2014:1402**
+
+1. Denna förordning träder i kraft den 1 januari 2015.
+
+2. Äldre föreskrifter gäller fortfarande för sådana kostnader för hälsoundersökningar som uppkommit före ikraftträdandet.
+
+**2016:1206**
+
+1. Denna förordning träder i kraft den 1 januari 2017.
+
+2. Äldre föreskrifter gäller fortfarande för sådana kostnader för hälsoundersökningar som har uppkommit före ikraftträdandet.
+
+**2017:1314**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande för sådana kostnader för hälsoundersökningar som uppkommit före ikraftträdandet.
+
+**2018:1970**
+
+1. Denna förordning träder i kraft den 1 januari 2019.
+
+2. Äldre föreskrifter gäller fortfarande för sådana kostnader för hälsoundersökningar som har uppkommit före ikraftträdandet.

@@ -1,0 +1,49 @@
+---
+title: "Förordning (2003:459) om försöksverksamhet med engelskspråkig undervisning i grundskolan"
+identifier: "SFS 2003:459"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2003-06-12
+amended_through: "SFS 2008:1265"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-459.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:459"
+retrieved: 2026-10-11
+---
+# Förordning (2003:459) om försöksverksamhet med engelskspråkig undervisning i grundskolan
+
+## 1 §
+
+En kommun får enligt bestämmelserna i denna förordning anordna försöksverksamhet med engelskspråkig undervisning i grundskolan utöver den undervisning som får anordnas enligt 2 kap. 8 § grundskoleförordningen (1994:1194).
+
+## 2 §
+
+Delar av undervisningen får anordnas på engelska språket.
+
+Under den sammanlagda tid som sådan undervisning anordnas får högst hälften av undervisningen ske på engelska språket.
+
+*Förordning (2008:1265)*.
+
+## 3 §
+
+En kommun som deltar i försöksverksamheten skall kontinuerligt följa upp och utvärdera verksamheten. Kommunen skall även medverka i Statens skolverks uppföljning och utvärdering av försöksverksamheten.
+
+Bestämmelser om kvalitetsredovisning finns i förordningen (1997:702) om kvalitetsredovisning inom skolväsendet.
+
+## 4 §
+
+En kommun som har beslutat att delta i försöksverksamheten ska anmäla detta till Statens skolverk. Anmälan ska innehålla uppgifter om
+
+1. verksamheten vid den aktuella skolan,
+
+2. motiven för att delta i försöksverksamheten,
+
+3. hur kommunen säkerställer att de elever som undervisas inom försöksverksamheten får tillräckliga kunskaper i svenska språket för att nå grundskolans kunskapsmål i samtliga ämnen,
+
+4. utformningen av försöksverksamheten i övrigt, och
+
+5. hur försöksverksamheten ska följas upp och utvärderas.
+
+En kommun som upphör med försöksverksamheten ska anmäla detta till Skolverket. *Förordning (2008:1265)*.

@@ -1,0 +1,155 @@
+---
+title: "Mönstringsförordning (1984:831)"
+identifier: "SFS 1984:831"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1984-11-15
+amended_through: "SFS 2025:1529"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-831.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:831"
+retrieved: 2026-10-11
+---
+# Mönstringsförordning (1984:831)
+
+### 1 §
+
+Mönstringslagen (1983:929) gäller inte för fartyg som används i Trafikverkets färjetrafik.
+
+För intendenturpersonal som arbetar på fartyg som uteslutande används i inre fart gäller inte mönstringslagen. Om personalen ingår i fartygets säkerhetsbesättning eller säkerhetsorganisation gäller dock 18-21 §§ mönstringslagen.
+
+Med inre fart avses detsamma som i 1 kap. 3 § förordningen (2007:237) om behörigheter för sjöpersonal.
+
+Mönstringslagen gäller inte för de isnavigatörer som avses i 4 kap. 8 b § fjärde stycket fartygssäkerhetsförordningen (2003:438). *Förordning (2018:751)*.
+
+1 a § 22 och 23 §§ mönstringslagen (1983:929) ska tillämpas även på sjömän som har ett svenskt person- eller samordningsnummer och som tjänstgör på utländska handelsfartyg som har en bruttodräktighet om 20 eller mer.
+
+*Förordning (2018:1539)*.
+
+### 1 b §
+
+Bestämmelserna i 18 § första stycket och 19 § mönstringslagen (1983:929) tillämpas även på sjömän som arbetar ombord på fiskefartyg med en längd om 24 meter eller mer eller ombord på fiskefartyg som normalt stannar till sjöss i mer än tre dygn. *Förordning (2019:616)*.
+
+### 1 c §
+
+Med läkarintyg enligt 18 § mönstringslagen (1983:929) avses även läkarintyg som har utfärdats i en annan medlemsstat i EES i enlighet med artikel 12 i Europaparlamentets och rådets direktiv (EU) 2022/993 av den 8 juni 2022 om minimikrav på utbildning för sjöfolk, i den ursprungliga lydelsen.
+
+*Förordning (2024:475)*.
+
+### 2 §
+
+Transportstyrelsen får föreskriva eller i enskilda fall medge undantag från bestämmelserna i mönstringslagen (1983:929) för fartyg med särskild verksamhetsinriktning. Därvid får föreskrivas särskilda villkor. *Förordning (2008:1148)*.
+
+### 3 §
+
+Har upphävts genom *förordning (2025:1529)*.
+
+### 3 a §
+
+Om Transportstyrelsen vid utfärdande av ett behörighetsbevis enligt 1 kap. 5 § första stycket förordningen (2007:237) om behörigheter för sjöpersonal har godtagit ett utländskt dokument eller intyg enligt 2 kap. 1 § andra stycket samma förordning, får detta användas för kontroll enligt 9 § mönstringslagen (1983:929) även om formuläret inte är svenskt.
+
+Det utländska dokumentet eller intyget får inte användas efter angiven giltighetstid och inte heller senare än vad som följer av 19 § mönstringslagen.
+
+Transportstyrelsen skall förse ett sådant dokument eller intyg med bevis om hur det får användas. *Förordning (2008:1148)*.
+
+### 4 §
+
+Vid tillfällig tjänstgöring enligt 3 kap. 14 § fartygssäkerhetslagen (2003:364) gäller inte kravet i 5 § 3 mönstringslagen (1983:929).
+
+*Förordning (2003:447)*.
+
+### 5 §
+
+Transportstyrelsen får föreskriva att utländsk sjöfartsbok för utländsk sjöman får godtas som sjöfartsbok enligt mönstringslagen (1983:929).
+
+I den mån en utlänning enligt 3 § förordningen (1989:548) om tillstånd för anställning på fartyg befrias från skyldigheten att ha anställningstillstånd gäller inte kravet på innehav av sjöfartsbok.
+
+Transportstyrelsen får föreskriva eller i enskilda fall medge ytterligare undantag från kravet på innehav av sjöfartsbok.
+
+*Förordning (2008:1148)*.
+
+### 6 §
+
+Transportstyrelsen får godkänna andra sätt för rapportering till sjömansregistret än som anges i 10 § första stycket mönstringslagen (1983:929). *Förordning (2008:1148)*.
+
+### 7 §
+
+Transportstyrelsen meddelar föreskrifter för hur sjömansrullan skall föras. Tjänstgöringsbeskeden skall samlas i en pärm som Transportstyrelsen tillhandahåller.
+
+Transportstyrelsen får, om det behövs av särskilda skäl, föreskriva eller i enskilda fall medge att sjömansrullan får föras och förvaras i land. Därvid får föreskrivas särskilda villkor.
+
+*Förordning (2008:1148)*.
+
+### 8 §
+
+Bestämmelserna i 15 § sjömanslagen (1973:282) om tjänstgöringsbesked skall tillämpas på de sjömän som avses i 2 § första stycket samma lag och som omfattas av mönstringslagen (1983:929).
+
+Transportstyrelsen får föreskriva och i enskilda fall besluta att bestämmelserna i 15 § sjömanslagen om tjänstgöringsbesked skall tillämpas på sjömän på sådana utländska handelsfartyg som avses i 1 § första stycket mönstringslagen.
+
+Transportstyrelsen får medge undantag från bestämmelserna i 15 § sjömanslagen angående tjänstgöringsbesked om det kan ske utan att sådana bestämmelser i mönstringslagen om rapportering till sjömansregistret och om sjömansrulla som är tillämpliga för fartyget åsidosätts.
+
+*Förordning (2008:1148)*.
+
+### 9 §
+
+Transportstyrelsen fastställer formulär för sjöfartsboken. Skilda formulär skall användas för svenska och utländska sjömän.
+
+Sjöfartsbok utfärdas av Transportstyrelsen. Sjöfartsbok kan också utfärdas av svensk utlandsmyndighet som regeringen förordnat därtill.
+
+Sjöfartsbok utlämnas av
+
+a) den myndighet som utfärdat sjöfartsboken,
+
+b) passmyndighet eller
+
+c) annan myndighet som Transportstyrelsen bestämmer.
+
+*Förordning (2008:1148)*.
+
+### 10 §
+
+En sjöfartsbok för svensk sjöman utgör en sådan identitetshandling som avses i ILO-konventionen angående nationella identitetshandlingar för sjömän, 1958 (nr 108).
+
+### 11 §
+
+Vid tjänstgöring ombord skall sjöfartsboken och det läkarintyg som avses i 18 § mönstringslagen (1983:929) förvaras på fartyget.
+
+### 12 §
+
+Tillsyn över efterlevnaden av mönstringslagen (1983:929) och av de föreskrifter som har meddelats med stöd av samma lag utövas av Transportstyrelsen och, utom riket, även av svenska utlandsmyndigheter som regeringen har förordnat att utöva sådan tillsyn.
+
+*Förordning (2008:1148)*.
+
+### 13 §
+
+Transportstyrelsen får meddela ytterligare föreskrifter för verkställigheten av mönstringslagen (1983:929) och denna förordning. Föreskrifter om utlämnande av sjöfartsbok av passmyndighet inom riket får meddelas efter samråd med Polismyndigheten. Föreskrifter som rör förhållanden utom riket får meddelas efter samråd med Regeringskansliet (Utrikesdepartementet). *Förordning (2014:1251)*.
+
+### 14 §
+
+När Transportstyrelsen handlägger ärenden enligt mönstringslagen (1983:929) eller enligt denna förordning skall styrelsen, om det är fråga om ett ärende av större vikt eller principiellt intresse, bereda berörda svenska organisationer för redare och ombordanställda tillfälle att avge yttrande.
+
+*Förordning (2008:1148)*.
+
+### 15 §
+
+Transportstyrelsen får meddela föreskrifter om avgifter för tillsyn och ärendehandläggning enligt mönstringslagen (1983:929) och enligt föreskrifter som har meddelats med stöd av lagen. *Förordning (2010:1585)*.
+
+### 16 §
+
+Transportstyrelsen ska lämna ut de uppgifter som avses i 23 a § mönstringslagen (1983:929) elektroniskt eller på engelska om den som begär ut uppgifterna önskar det.
+
+*Förordning (2014:451)*.
+
+### 17 §
+
+Vid sökning av uppgifter ur sjömansregistret genom direktåtkomst enligt 23 b § mönstringslagen (1983:929) får endast födelsedatum och löpnummer på det dokument vars uppgifter ska kontrolleras användas som sökbegrepp.
+
+*Förordning (2014:451)*.
+
+## Övergångsbestämmelser
+
+**1989:552**
+
+Denna förordning träder i kraft den 1 juli 1989. Äldre bestämmelser gäller fortfarande när befrielse från skyldigheten att ha anställningstillstånd beviljats enligt kungörelsen (1974:262) om anställningstillstånd för utlänning på svenskt fartyg.

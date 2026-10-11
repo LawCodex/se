@@ -1,0 +1,45 @@
+---
+title: "Lag (1991:1886) om dubbelbeskattningsavtal mellan Sverige och Singapore"
+identifier: "SFS 1991:1886"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-12-19
+amended_through: "SFS 2011:1348"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-1886.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:1886"
+retrieved: 2026-10-11
+---
+# Lag (1991:1886) om dubbelbeskattningsavtal mellan Sverige och Singapore
+
+> Bilagan inte med här.
+
+### 1 §
+
+Det avtal för undvikande av dubbelbeskattning och förhindrande av skatteflykt beträffande skatter på inkomst och förmögenhet som Sverige och Singapore undertecknade den 17 juni 1968, i den lydelse detta erhållit genom det protokoll som ändring i avtalet som undertecknades den 28 september 1983, skall tillsammans med den överenskommelse om tillämpningen av avtalet som ingåtts genom brev den 7 respektive den 28 juni 1991 gälla som lag här i landet.
+
+Avtalet i dess genom protokollet ändrade lydelse är intaget som bilaga 1 till denna lag och överenskommelsen som bilaga 2.
+
+### 2 §
+
+Avtalets beskattningsregler skall tillämpas endast i den mån dessa medför inskränkning av den skattskyldighet i Sverige som annars skulle föreligga.
+
+### 3 §
+
+Har upphävts genom *lag (2011:1348)*.
+
+### 4 §
+
+Singapores regering, "the Monetary Authority of Singapore'', "the Board of Commissioners of Currency" och "the Government of Singapore Investment Corporation Pte Ltd." häri inbegripna, beskattas inte i Sverige för utdelning på aktier i svenska aktiebolag som är officiellt registrerade vid Stockholms fondbörs om
+
+1) aktierna för vilka utdelningen betalas innehas endast i det allmännas intresse, och
+
+2) innehavaren eller innehavarna av aktierna tillsammans inte direkt eller indirekt deltar i ledningen eller kontrollen av eller innehar mer än fem procent av aktiekapitalet i det svenska aktiebolag som betalar utdeln ingen. *Lag (1992:857)*.
+
+## Övergångsbestämmelser
+
+**1992:857**
+
+Denna lag träder i kraft den 1 januari 1993 och tillämpas på utdelning som blir tillgänglig för lyftning efter utgången av år 1992.

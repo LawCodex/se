@@ -1,0 +1,55 @@
+---
+title: "Lag (1997:379) om försöksverksamhet avseende medverkan av Konsumentombudsmannen i vissa tvister"
+identifier: "SFS 1997:379"
+type: act
+jurisdiction: se
+language: sv
+date: 1997-06-05
+amended_through: "SFS 2011:1214"
+department: "Justitiedepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1997-379.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1997:379"
+retrieved: 2026-10-11
+---
+# Lag (1997:379) om försöksverksamhet avseende medverkan av Konsumentombudsmannen i vissa tvister
+
+### 1 §
+
+I denna lag finns bestämmelser om Konsumentombudsmannens medverkan i vissa tvister mellan konsumenter och näringsidkare och om rättegången i sådana fall.
+
+### 2 §
+
+I en tvist mellan en konsument och en näringsidkare får Konsumentombudsmannen biträda konsumenten såsom ombud vid allmän domstol och Kronofogdemyndigheten om tvisten är av betydelse för rättstillämpningen eller om det annars finns ett allmänt konsumentintresse av att tvisten prövas.
+
+*Lag (2006:1021)*.
+
+### 3 §
+
+Under den tid som Konsumentombudsmannen är ombud enligt denna lag skall konsumenten få de förmåner som avses i 16-20 §§ rättshjälpslagen (1996:1619). Kostnaderna för dessa förmåner skall stanna på staten.
+
+Konsumentombudsmannen beslutar om sådan utredning som avses i 17 § rättshjälpslagen samt om ersättning till den som medverkat vid utredningen.
+
+### 4 §
+
+Om Konsumentombudsmannen enligt denna lag biträder en konsument vid talan i allmän domstol skall bestämmelserna om tvistemål om mindre värden i 1 kap. 3 d §, 10 kap. 8 a § och 18 kap. 8 a § rättegångsbalken inte tillämpas.
+
+### 5 §
+
+Om konsumenten enligt bestämmelserna i 18 kap. rättegångs- balken är skyldig att ersätta näringsidkaren dennes rättegångskostnader skall staten i stället för konsumenten förpliktas betala dessa kostnader. Staten svarar dock inte för näringsidkarens kostnader som uppstått efter det att Konsu- mentombudsmannen upphört att vara ombud och näringsidkaren underrättats om detta.
+
+Om näringsidkaren genom handlande som avses i 18 kap. 6 § rättegångsbalken föranlett uppskov i målet eller på annat sätt vållat kostnad för Konsumentombudsmannen är näringsidkaren skyldig att ersätta staten sådan kostnad.
+
+### 6 §
+
+Om en konsument har beviljats rättshjälp enligt rätts- hjälpslagen (1996:1619) skall rättshjälpen upphöra om Konsu- mentombudsmannen beslutar att biträda konsumenten. Konsumenten skall i sådant fall endast betala rättshjälpsavgift.
+
+### 7 §
+
+Konsumentombudsmannens beslut enligt denna lag får inte överklagas.
+
+## Övergångsbestämmelser
+
+**1997:379**
+
+Denna lag träder i kraft den 1 december 1997 och gäller till utgången av december månad 2011. *Lag (2011:1214)*.

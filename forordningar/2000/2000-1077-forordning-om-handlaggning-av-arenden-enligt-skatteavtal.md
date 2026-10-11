@@ -1,0 +1,61 @@
+---
+title: "Förordning (2000:1077) om handläggning av ärenden enligt skatteavtal"
+identifier: "SFS 2000:1077"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2000-11-09
+amended_through: "SFS 2014:1560"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2000-1077.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2000:1077"
+retrieved: 2026-10-11
+---
+# Förordning (2000:1077) om handläggning av ärenden enligt skatteavtal
+
+### 1 §
+
+Skatteverket ska pröva sådana ärenden om inkomst-, fastighets- eller förmögenhetsskatt som enligt skatteavtal eller annat avtal som Sverige har ingått med en annan stat ska handläggas av behörig myndighet, om ärendet avser ändring i fråga om beslut varigenom statlig eller kommunal skatt har påförts.
+
+Om det finns särskilda skäl får regeringen överlämna även andra ärenden till Skatteverket. *Förordning (2011:1456)*.
+
+### 2 §
+
+Skatteverket ska ingå sådana internationella överenskommelser om sättet att tillämpa bestämmelser om skiljeförfarande som enligt skatteavtal ska ingås av behörig myndighet. Det gäller dock inte om överenskommelsen kräver riksdagens eller Utrikesnämndens medverkan.
+
+*Förordning (2014:1560)*.
+
+### 3 §
+
+Om ett ärende är av särskild betydelse eller annars av sådan beskaffenhet att det bör avgöras av regeringen, ska Skatteverket med eget yttrande överlämna ärendet till regeringen. *Förordning (2014:1560)*.
+
+### 4 §
+
+Denna förordning gäller inte för ärenden som handläggs av Skatteverket med stöd av bestämmelser i annan författning.
+
+*Förordning (2014:1560)*.
+
+### 5 §
+
+Beslut i ett ärende enligt denna förordning får inte överklagas. *Förordning (2014:1560)*.
+
+## Övergångsbestämmelser
+
+**2000:1077**
+
+Denna förordning träder i kraft den 1 januari 2001 och tillämpas på ärenden som inkommer efter ikraftträdandet.
+
+**2004:288**
+
+Denna förordning träder i kraft den 1 juli 2004 och tillämpas på ärenden som inkommer efter ikraftträdandet.
+
+**2005:758**
+
+Denna förordning träder i kraft den 1 januari 2006 och tillämpas på ärenden som kommer in efter ikraftträdandet. Äldre bestämmelser skall tillämpas på ärenden som kommit in före ikraftträdandet.
+
+**2011:1456**
+
+1. Denna förordning träder i kraft den 1 januari 2012.
+
+2. Äldre bestämmelser gäller fortfarande för ärenden som avser 2013 och tidigare års taxeringar.

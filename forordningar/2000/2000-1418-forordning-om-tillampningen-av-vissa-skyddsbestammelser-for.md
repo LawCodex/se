@@ -1,0 +1,119 @@
+---
+title: "Förordning (2000:1418) om tillämpningen av vissa skyddsbestämmelser för sjukpenninggrundande inkomst"
+identifier: "SFS 2000:1418"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2000-12-14
+amended_through: "SFS 2025:1552"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2000-1418.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2000:1418"
+retrieved: 2026-10-11
+---
+# Förordning (2000:1418) om tillämpningen av vissa skyddsbestämmelser för sjukpenninggrundande inkomst
+
+### 1 §
+
+I denna förordning anges när skyddsbestämmelserna om sjukpenning-grundande inkomst i 26 kap. 11 § andra stycket samt 12 och 13 §§ socialförsäkringsbalken ska tillämpas för en försäkrad som studerar, får periodiskt ekonomiskt stöd enligt särskilda avtal mellan arbetsmarknadens parter eller är arbetslös. *Förordning (2018:671)*.
+
+### 2 §
+
+Skyddsbestämmelserna ska, utöver vad som anges i 26 kap. 11 § första stycket socialförsäkringsbalken, tillämpas för en försäkrad som
+
+1. är ledig från sin anställning för studier inom det egna yrkesområdet,
+
+2. bedriver studier inom det egna yrkesområdet i annat fall än som anges i 1, dock för högst ett år, eller
+
+3. bedriver studier som han eller hon får bidrag för enligt förordningen (2016:706) om utbildningsbidrag för kompletterande pedagogisk utbildning som leder till ämneslärarexamen för personer som har en examen på forskarnivå, eller får omställningsstudiestöd för enligt lagen (2022:856) om omställningsstudiestöd. *Förordning (2025:1552)*.
+
+### 2 a §
+
+Skyddsbestämmelserna skall tillämpas för en försäkrad som enligt s.k. trygghetsavtal erhåller periodiskt ekonomiskt stöd för studier, praktik, start av eget företag eller annan jämförbar aktivitet. *Förordning (2005:371)*.
+
+### 3 §
+
+Skyddsbestämmelserna ska tillämpas för en försäkrad som har en sjukpenninggrundande inkomst av anställning eller av annat förvärvsarbete och som före ingången av den månad han eller hon uppnår riktåldern för pension
+
+1. är helt eller delvis arbetslös,
+
+2. på grund av hälsoskäl inte kan återgå i arbete hos sin arbetsgivare, eller
+
+3. på grund av hälsoskäl inte kan återgå i arbete i den egna verksamheten.
+
+Bestämmelserna i första stycket gäller endast när den försäkrade är beredd att anta erbjudet arbete i en omfattning som svarar mot den fastställda sjukpenninggrundande inkomsten samt
+
+1. aktivt söker sådant arbete och är anmäld som arbetssökande hos den offentliga arbetsförmedlingen, eller
+
+2. söker arbete på det sätt som Försäkringskassan föreskriver.
+
+För en försäkrad som har fått sjukpenning ska villkoren enligt andra stycket 1 anses vara uppfyllda under 25 arbetsdagar från det att rätten till sjukpenning har upphört.
+
+*Förordning (2022:1445)*.
+
+### 4 §
+
+Skyddsbestämmelserna ska tillämpas för en försäkrad som deltar i ett arbetsmarknadspolitiskt program men inte får aktivitetsstöd, utvecklingsersättning eller etableringsersättning på grund av att han eller hon är avstängd från rätt till någon sådan ersättning enligt förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser när han eller hon enligt den förordningen
+
+1. inte medverkat till att upprätta en individuell handlingsplan, inte lämnat en aktivitetsrapport till Arbetsförmedlingen inom utsatt tid eller inte besökt eller tagit kontakt med Arbetsförmedlingen eller en leverantör som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen vid en överenskommen eller på annat sätt bestämd tidpunkt,
+
+2. vid ett tillfälle avvisat någon insats, aktivitet eller annan arbetsmarknadspolitisk åtgärd inom programmet, eller
+
+3. utan giltig anledning lämnat sitt arbete eller på grund av otillbörligt uppträdande skilts från sitt arbete.
+
+Skyddsbestämmelserna ska även tillämpas för en försäkrad som utan att vara avstängd från rätt till aktivitetsstöd, utvecklingsersättning eller etableringsersättning inte får någon sådan ersättning. *Förordning (2022:1246)*.
+
+## Övergångsbestämmelser
+
+**2000:1419**
+
+Denna förordning träder i kraft den 1 juli 2001. Äldre föreskrifter gäller fortfarande för en försäkrad som bedriver studier för vilka denne uppbär studiehjälp, studiemedel eller särskilt vuxenstudiestöd enligt studiestödslagen (1973:349) eller studiestöd enligt lagen (1983:1030) om särskilt vuxenstudiestöd för arbetslösa.
+
+**2002:900**
+
+1. Denna förordning träder i kraft den 1 januari 2003.
+
+2. Äldre bestämmelser gäller fortfarande för särskilt utbildningsbidrag som avser tid före ikraftträdandet.
+
+**2006:1451**
+
+1. Denna förordning träder i kraft den 1 januari 2007.
+
+2. Äldre bestämmelser gäller fortfarande för rekryteringsbidrag som lämnats enligt den upphävda lagen (2002:624) om rekryteringsbidrag till vuxenstuderande.
+
+**2015:120**
+
+1. Denna förordning träder i kraft den 1 april 2015.
+
+2. Den nya bestämmelsen ska dock tillämpas för tid från och med den 1 mars 2015.
+
+**2017:286**
+
+1. Denna förordning träder i kraft den 1 juli 2017.
+
+2. Äldre föreskrifter gäller fortfarande för doktorander med utbildningsbidrag som lämnas senast den 30 juni 2022.
+
+**2017:835**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. För en försäkrad som är avstängd från sin rätt till aktivitetsstöd eller utvecklingsersättning enligt den upphävda förordningen (1996:1100) om aktivitetsstöd gäller 4 § i den äldre lydelsen.
+
+**2022:1444**
+
+1. Denna förordning träder i kraft den 1 januari 2023.
+
+2. Äldre föreskrifter gäller fortfarande för tid före ikraftträdandet.
+
+**2022:1445**
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Äldre föreskrifter gäller fortfarande för tid före ikraftträdandet.
+
+**2025:1552**
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Äldre bestämmelser gäller fortfarande för en försäkrad som bedrivit studier och fått studiestartsstöd enligt den upphävda lagen (2017:527) om studiestartsstöd.

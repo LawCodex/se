@@ -1,0 +1,47 @@
+---
+title: "Förordning (1989:929) om ersättning av allmänna medel för skada orsakad av den som utför samhällstjänst"
+identifier: "SFS 1989:929"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1989-12-07
+amended_through: "SFS 2005:1007"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1989-929.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1989:929"
+retrieved: 2026-10-11
+---
+# Förordning (1989:929) om ersättning av allmänna medel för skada orsakad av den som utför samhällstjänst
+
+## 1 §
+
+Ersättning av allmänna medel lämnas till andra än staten enligt bestämmelserna i denna förordning för skador orsakade av den som utför samhällstjänst enligt lagen (1989:928) om samhällstjänst. *Förordning (1992:375)*.
+
+## 2 §
+
+Ersättning lämnas för person- eller sakskada som den dömde vid samhällstjänst med eller utan vållande har tillfogat den hos vilken samhällstjänsten utförs eller någon som är anställd hos denne. Detsamma gäller i fråga om ren förmögenhetsskada som denne därvid har tillfogats av den dömde genom brott.
+
+Vid bestämmandet av ersättning tillämpas 5 kap. 1--5 och 7 §§ samt 6 kap. 1 § skadeståndslagen (1972:207). Därutöver kan ersättning för sakskada jämkas om det är skäligt med hänsyn till föreliggande försäkringar.
+
+## 3 §
+
+Ersättning för skador som tillfogats någon annan än den som avses i 2 § lämnas om och i den utsträckning som den hos vilken samhällstjänsten utförs enligt lag är skyldig att ersätta skadan.
+
+## 4 §
+
+Ersättning för en och samma skadehändelse lämnas till varje skadelidande med högst 2 000 000 kronor för personskada, med högst 100 000 kronor för sakskada och med högst 100 000 kronor för ren förmögenhetsskada genom brott.
+
+## 5 §
+
+Kriminalvården beslutar om ersättning som inte överstiger 100 000 kr. Om myndigheten finner att ersättning bör lämnas med högre belopp eller om ärendet är av principiell betydelse, skall den med eget yttrande och den utredning som behövs lämna över ärendet till regeringen för avgörande. *Förordning (2005:1007)*.
+
+## 6 §
+
+Ansökan om ersättning skall göras senast två år efter skadehändelsen. Ansökan görs hos Kriminalvården.
+
+*Förordning (2005:1007)*.
+
+## 7 §
+
+Rätt till ersättning enligt denna förordning förutsätter att den skadelidande intill ersättningens belopp till staten överlåter sin rätt till skadestånd av den dömde.

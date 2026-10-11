@@ -1,0 +1,35 @@
+---
+title: "Lag (1990:1402) om övertagande av vissa sjukhem och andra vårdinrättningar"
+identifier: "SFS 1990:1402"
+type: act
+jurisdiction: se
+language: sv
+date: 1990-12-17
+amended_through: "SFS 2025:411"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1990-1402.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1990:1402"
+retrieved: 2026-10-11
+---
+# Lag (1990:1402) om övertagande av vissa sjukhem och andra vårdinrättningar
+
+### 1 §
+
+Kommunerna skall den 1 januari 1992 från landstingskommunerna överta ansvaret för och driften av de sjukhem och andra vårdinrättningar i kommunen som inrättats för somatisk långtidssjukvård och som huvudsakligen har kommunen eller en del av kommunen som upptagningsområde.
+
+Övertagande enligt första stycket skall dock inte ske om en kommun och en landstingskommun kommer överens om det eller det finns särskilda skäl mot det.
+
+### 2 §
+
+En kommun får den 1 januari 1992 eller senare även överta ansvaret för och driften av en annan vårdinrättning för långtidssjukvård än som avses i 1 §, om regionen och kommunen kommer överens om det. *Lag (2019:868)*.
+
+### 3 §
+
+Sjukhem och andra vårdinrättningar, som övertagits av kommunerna med stöd av denna lag, ska anses som sådana boendeformer som anges i 8 kap. 4 § första stycket socialtjänstlagen (2025:400). *Lag (2025:411)*.
+
+## Övergångsbestämmelser
+
+**1990:1402**
+
+Denna lag träder i kraft den 1 januari 1992. En kommun och en landstingskommun kan komma överens om att kommunen under år 1991 skall överta en sådan inrättning som avses i denna lag. Har övertagande skett skall inrättningen från och med dagen för övertagandet anses som ett servicehus enligt 20 § andra stycket socialtjänstlagen (1980:620). Om en sådan överenskommelse har träffats får landstingskommunen under år 1991 lämna sådant ekonomiskt bidrag till kommunen som motiveras av överenskommelsen.

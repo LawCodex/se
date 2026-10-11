@@ -1,0 +1,48 @@
+---
+title: "Förordning (1996:930) om örlogsbesök, flygning med militära luftfartyg och tjänstgöring utomlands"
+identifier: "SFS 1996:930"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1996-09-26
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-930.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:930"
+retrieved: 2026-10-11
+---
+# Förordning (1996:930) om örlogsbesök, flygning med militära luftfartyg och tjänstgöring utomlands
+
+## Örlogsbesök utomlands
+
+### 1 §
+
+Örlogsbesök får göras i en utländsk hamn endast efter regeringens tillstånd.
+
+### 2 §
+
+Örlogsbesök skall planeras och genomföras i samverkan med svensk beskickning eller svenskt konsulat.
+
+### 3 §
+
+Utan tillstånd av vederbörande myndighet i landet får beväpnad personal inte gå i land under örlogsbesök utomlands. Inte heller får skjutövningar eller andra övningar bedrivas, om de inte i sin helhet kan genomföras inom fartyget.
+
+### 4 §
+
+Under örlogsbesök utomlands får utlänningar ges skydd ombord endast om det finns synnerligen vägande humanitära hänsyn som motiverar det. Om en sådan utlänning har tagits ombord, skall samråd snarast ske med den svenska beskickningschefen för att avgöra om utlänningen skall få fortsatt skydd.
+
+### 5 §
+
+Föreskrifter om hedersbevisning vid örlogsbesök utomlands får meddelas av Försvarsmakten.
+
+## Flygning utomlands
+
+### 6 §
+
+Flygning utomlands med militärt luftfartyg får ske endast efter regeringens tillstånd, om flygningen inte är likställd med en civil lufttransport.
+
+## Tjänstgöring utomlands
+
+### 7 §
+
+Den som är anställd i Försvarsmakten får inte utan tillstånd av regeringen tjänstgöra vid en utländsk försvarsmakt.

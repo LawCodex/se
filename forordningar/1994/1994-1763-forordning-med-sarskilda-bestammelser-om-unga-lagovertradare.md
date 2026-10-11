@@ -1,0 +1,45 @@
+---
+title: "Förordning (1994:1763) med särskilda bestämmelser om unga lagöverträdare"
+identifier: "SFS 1994:1763"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-12-20
+amended_through: "SFS 2026:978"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-1763.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:1763"
+retrieved: 2026-10-11
+---
+# Förordning (1994:1763) med särskilda bestämmelser om unga lagöverträdare
+
+## 1 §
+
+Har åklagaren med stöd av 15 § lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare utfärdat ett strafföreläggande, ska den unge underrättas om beslutet vid ett personligt möte eller, om det finns skäl för det och det inte är olämpligt, vid ett möte genom ljud- och bildöverföring. Om det är möjligt ska underrättelsen lämnas i vårdnadshavarens närvaro. Om ett möte inte är möjligt eller brottet är ringa, får underrättelsen vara skriftlig.
+
+Har åklagaren med stöd av 48 kap. 4 § rättegångsbalken utfärdat ett strafföreläggande som avser ungdomstjänst ska åklagaren underrätta den misstänkte om beslutet vid ett personligt möte eller, om det finns skäl för det och det inte är olämpligt, vid ett möte genom ljud- och bildöverföring.
+
+Om det är lämpligare, får en underrättelse lämnas av en annan åklagare än den som meddelat beslutet. *Förordning (2026:978)*.
+
+## 2 §
+
+I ärenden om åtalsprövning enligt 17 § lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare skall protokoll föras, om svårare straff än böter är föreskrivet för brottet.
+
+Åklagarmyndigheten får meddela närmare föreskrifter om hur protokollen skall föras.
+
+Åklagare skall i den utsträckning och den ordning riksåklagaren bestämmer lämna uppgifter till denne om åtalsprövningar som har gjorts enligt nämnda lag. *Förordning (2004:1271)*.
+
+## 3 §
+
+Har åklagaren vid ett beslut om straffvarning enligt 17 § lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare förutsatt att socialnämnden vidtar en åtgärd, ska han eller hon ta reda på om åtgärden kommer till stånd.
+
+Om nämnden inte vidtar åtgärden, ska åklagaren anmäla detta till Inspektionen för vård och omsorg. *Förordning (2015:88)*.
+
+## 4 §
+
+Har upphävts genom *förordning (2013:199)*.
+
+## 5 §
+
+Om det på grund av en underrättelse enligt 15 kap. 5 § socialtjänstlagen (2025:400) eller 26 § lagen (2020:616) om verkställighet av ungdomsövervakning uppkommer en fråga om undanröjande av påföljd enligt 32 kap. 4 § brottsbalken, ska åklagaren genast vidta de åtgärder som är nödvändiga. *Förordning (2025:475)*.

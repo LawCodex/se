@@ -1,0 +1,293 @@
+---
+title: "Lag (1989:185) om arvoden m.m. för uppdrag inom riksdagen, dess myndigheter och organ"
+identifier: "SFS 1989:185"
+type: act
+jurisdiction: se
+language: sv
+date: 1989-05-03
+amended_through: "SFS 2026:1351"
+department: "Justitiedepartementet L6"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1989-185.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1989:185"
+retrieved: 2026-10-11
+---
+# Lag (1989:185) om arvoden m.m. för uppdrag inom riksdagen, dess myndigheter och organ
+
+### Månadsarvode
+
+#### 1 §
+
+Arvoden för vissa uppdrag inom riksdagen, dess myndigheter och organ ska betalas enligt följande.
+
+```
+Organ/Befattning                Månadsarvode i procent av 
+                                arvode som riksdagsledamot
+1.      Sveriges riksbank       
+```
+
+```
+        Fullmäktiges                    27,5
+        ordförande:
+        Fullmäktiges vice               23
+        ordförande:
+        Annan fullmäktig:               14
+        Suppleant för                   3,5
+        fullmäktig:     
+2.      Riksdagsstyrelsen 
+        Vald ledamot i                  15
+        riksdagsstyrelsen:
+        Företrädaren för en             15
+        partigrupp utan vald 
+        ledamot i 
+        riksdagsstyrelsen:      
+3.      Riksdagens råd för
+        Riksrevisionen 
+        Ordförande:                     10
+        Vice ordförande:                7,5
+        Ledamot som inte är             2
+        ordförande eller vice 
+        ordförande: 
+        Suppleant:                      1
+4.      Stiftelsen Riksbankens  
+        jubileumsfond 
+        Ordförande:                     11,5
+        Vice ordförande:                8
+        Annan ledamot och               5
+        suppleant:      
+5.      Nordiska rådets svenska 
+        delegation 
+        Ordförande:                     4
+        Vice ordförande:                2
+6.      Den svenska delegationen 
+        till Europarådets 
+        parlamentariska församling
+        Ordförande:                     4
+        Vice ordförande:                2
+
+7.      Den svenska delegationen till 
+        den parlamentariska 
+        församlingen vid Organisationen 
+        för säkerhet och samarbete i
+        Europa (OSSE)
+        Ordförande:                     4
+        Vice ordförande:                2
+8.      Den svenska delegationen till 
+        den gemensamma parlamentariska 
+        kontrollgruppen för Europeiska 
+        unionens byrå för samarbete inom 
+        brottsbekämpning (Europol)
+        Ordförande:                     4
+        Vice ordförande:                2
+9.      Andra delegationer till 
+        mellanfolkliga organisationer i 
+        ett internationellt 
+        parlamentariskt samarbete, som 
+        inte bygger på en sådan 
+        internationell överenskommelse 
+        som avses i 13 kap. 18 § första 
+        stycket riksdagsordningen, och 
+        som talmannen efter samråd med 
+        gruppledarna utsett 
+        riksdagsledamöter att ingå i 
+        Ordförande:                     4
+        Vice ordförande:                2
+```
+
+*Lag (2026:1351)*.
+
+### Årsarvode i riksdagens nämndmyndigheter
+
+#### 1 a §
+
+Årsarvode ska betalas för uppdrag hos riksdagens nämndmyndigheter enligt följande.
+
+```
+Organ/befattning                        Årsarvode i procent av
+                                        månadsarvode som
+                                        riksdagsledamot
+1. Valprövningsnämnden
+Ordförande:                             118
+2. Riksdagens överklagandenämnd
+Ordförande:                             52
+3. Nämnden för lön till riksdagens  ombudsmän och riksrevisorn
+Ordförande:                             75
+Ledamot:                                50
+4. Statsrådsarvodesnämnden
+Ordförande:                             72
+Ledamot:                                50
+5. Nämnden för prövning av statsråds  och vissa andra befattningshavares  övergångsrestriktioner
+Ordförande:                             90
+Ledamot:                                70
+6. Partibidragsnämnden
+Ordförande:                             70
+Ledamot:                                45
+```
+
+*Lag (2020:771)*.
+
+#### 1 b §
+
+Ordföranden och övriga ledamöter i Riksdagens arvodesnämnd har rätt till ett årsarvode. Arvodet uppgår till ett belopp som motsvarar den procentandel av talmansarvodet enligt 3 kap. 1 § lagen (2016:1108) om ersättning till riksdagens ledamöter som framgår av följande uppställning.
+
+```
+Befattning              Procentandel av talmansarvodet
+Ordförande              63
+Ledamot                 25
+```
+
+*Lag (2022:342)*.
+
+### Sammanträdesarvode i riksdagens nämndmyndigheter
+
+#### 1 c §
+
+Sammanträdesarvode ska betalas för uppdrag hos riksdagens nämndmyndigheter enligt följande.
+
+```
+Organ/Befattning                        Sammanträdesarvode i procent
+                                        av månadsarvode som
+                                        riksdagsledamot
+```
+
+1. Riksdagens ansvarsnämnd
+
+```
+Ordförande:                             8, dock minst ett
+                                        sammanträdesarvode per år
+Vice ordförande:                        8
+Ledamot:                                4
+Ersättare:                              4
+```
+
+2. Riksdagens överklagandenämnd
+
+```
+Ersättare för ordföranden:              8
+Ledamot:                                4
+Suppleant:                              4
+```
+
+3. Valprövningsnämnden
+
+```
+Ersättare för ordföranden:              8
+Ledamot:                                1,25
+Suppleant:                              1,25
+```
+
+Till den som deltar i sammanträde utan att delta i beslut betalas sammanträdesarvode endast om respektive nämndmyndighet beslutar det. *Lag (2022:342)*.
+
+#### 1 d §
+
+Ersättaren för ordföranden i Riksdagens arvodesnämnd har rätt till ett sammanträdesarvode. Arvodet uppgår till ett belopp som motsvarar 3,3 procent av talmansarvodet enligt 3 kap. 1 § lagen (2016:1108) om ersättning till riksdagens ledamöter.
+
+Om ersättaren deltar i ett sammanträde utan att delta i beslut har han eller hon rätt till sammanträdesarvode bara om nämnden beslutar det. *Lag (2022:342)*.
+
+### Sammanträdesarvode i övriga riksdagsorgan
+
+#### 2 §
+
+För fullgörande av sådana uppdrag som anges i 1 § 1-4 betalas ett särskilt arvode för en sammanträdesdag som infaller en måndag, en fredag eller under perioder då kammaren inte sammanträder (sammanträdesarvode).
+
+Sammanträdesarvode betalas dock inte till vald ledamot och företrädare för partigrupp utan vald ledamot i riksdagsstyrelsen.
+
+Sammanträdesarvode betalas även till
+
+1. ledamot och tjänstgörande ersättare i ledamotsrådet,
+
+2. tjänstgörande suppleant och tjänstgörande ersättare för företrädare för partigrupp utan vald ledamot i riksdagsstyrelsen, och
+
+3. ledamot och suppleant i Utrikesnämnden för sammanträde som är förlagt till period då riksdagen har plenifri tid.
+
+Arvodesbeloppen fastställs av riksdagsstyrelsen.
+
+Till suppleant som deltar i sammanträde utan att delta i beslut betalas sammanträdesarvode endast om respektive organ beslutar det. *Lag (2026:1351)*.
+
+#### 3 §
+
+Den som gör en resa för att fullgöra något sådant uppdrag som räknas upp i 1-2 § § har rätt till resekostnadsersättningar och traktamente enligt andra stycket.
+
+Resekostnadsersättningar och traktamente lämnas
+
+1. för riksdagsledamöter enligt regler i lagen (2016:1108) om ersättning till riksdagens ledamöter efter samordning med den resekostnads- och traktamentsersättning som i övrigt lämnas från Riksdagsförvaltningen,
+
+2. för ledamöter och suppleanter i riksdagens råd för Riksrevisionen enligt bestämmelser i lagen (2002:1023) med instruktion för Riksrevisionen,
+
+3. för fullmäktige och suppleanter för fullmäktige i Riksbanken som inte är riksdagsledamöter enligt de bestämmelser om sådana förmåner som enligt kollektivavtalet gäller för arbetstagare hos Riksbanken och
+
+4. för övriga uppdragstagare enligt samma bestämmelser som för arbetstagare hos Riksdagsförvaltningen. *Lag (2019:27)*.
+
+#### 3 a §
+
+Den som fullgör uppdrag i den svenska delegationen till Europarådets parlamentariska församling och som lämnar riksdagen i samband med ett val, har under den återstående delen av delegationens mandatperiod rätt till
+
+- arvode enligt 1 § 6 för uppdrag som ordförande eller vice ordförande,
+
+- resekostnadsersättningar och traktamente enligt 3 § andra stycket 1, och
+
+- teknisk och elektronisk utrustning enligt 7 kap. 12 § lagen (2016:1108) om ersättning till riksdagens ledamöter.
+
+*Lag (2026:1351)*.
+
+### Ersättning för inkomstförlust
+
+#### 4 §
+
+Den som inte är ledamot av riksdagen och fullgör ett uppdrag som avses i 1-2 §§ har rätt till ersättning för inkomstförlust enligt vad som sägs i andra eller tredje stycket. Sådan ersättning betalas utöver ersättning enligt 1-2 §§.
+
+Den som på grund av sitt uppdrag går miste om avlöningsförmåner har rätt till ersättning med motsvarande belopp.
+
+Den som på grund av sitt uppdrag går miste om inkomster som egenföretagare har rätt till ersättning med högst det belopp per sammanträdesdag som motsvarar den sjukpenninggrundande inkomst, delad med 365, som är fastställd för egenföretagaren enligt 25 och 26 kap. socialförsäkringsbalken. *Lag (2012:885)*.
+
+## Övergångsbestämmelser
+
+**1989:185**
+
+Denna lag träder i kraft den 1 maj 1989. Den skall dock tillämpas fr. o.
+
+m. den 1 januari 1989.
+
+Genom lagen upphävs lagen (1987:576) om arvoden m. m. för uppdrag inom riksdagen, dess myndigheter och organ.
+
+### Arvoden för vissa uppdrag inom riksgäldskontoret skall övergångsvis utgå under perioden den 1 januari 1989 -- den 30 juni 1989 enligt följande:
+
+### Riksgäldskontoret
+
+Fullmäktig: 1 200 kronor för månad.
+
+Fullmäktiges ordförande: 1 200 kronor för månad utöver fullmäktigearvodet.
+
+Ledamot av arbetsutskottet som inte är ordförande eller riksgäldsdirektör: 700 kronor för månad utöver fullmäktigearvodet.
+
+Suppleant för fullmäktig: 275 kronor för månad.
+
+Sammanträdesarvode för fullgörande av angivna uppdrag skall bestämmas med tillämpning av 2 §.
+
+1995:1512
+
+Denna lag träder i kraft den 1 januari 1996. Den skall dock tillämpas fr.o.m. den 1 oktober 1995.
+
+2000:548
+
+Denna lag träder i kraft den 1 juli 2000. Bestämmelsen i 1 § 1 i sin nya lydelse tillämpas för tid från och med den 1 januari 1999. Bestämmelsen i 4 § tillämpas för tid från och med den 1 januari 2000.
+
+2003:184
+
+1. Denna lag träder i kraft den 1 juli 2003.
+
+2. Bestämmelserna om sammanträdesarvode i 2 § i sin nya lydelse skall även för tid dessförinnan tillämpas för ledamöter och suppleanter i styrelsen i Riksrevisionen.
+
+3. Bestämmelsen i 2 § 9 skall tillämpas för tid från och med den 15 oktober 2002. *Lag (2003:354)*.
+
+2013:354
+
+1. Denna lag träder i kraft den 1 juli 2013.
+
+2. För år 2013 ska arvode enligt punkten 5 till ordförande och ledamöter i Partibidragsnämnden utgå med ett halvt årsarvode.
+
+2026:1351
+
+1. Denna lag träder i kraft den 1 oktober 2026.
+
+2. Äldre föreskrifter gäller fortfarande för arvoden och ersättning som avser tid före ikraftträdandet.

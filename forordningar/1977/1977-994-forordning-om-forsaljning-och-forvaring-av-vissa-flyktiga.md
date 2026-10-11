@@ -1,0 +1,62 @@
+---
+title: "Förordning (1977:994) om försäljning och förvaring av vissa flyktiga lösningsmedel m.m."
+identifier: "SFS 1977:994"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1977-12-01
+amended_through: "SFS 2018:937"
+reprinted: "SFS 1985:854"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1977-994.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1977:994"
+retrieved: 2026-10-11
+---
+# Förordning (1977:994) om försäljning och förvaring av vissa flyktiga lösningsmedel m.m.
+
+### 1 §
+
+Denna förordning gäller i fråga om
+
+1. flyktiga lösningsmedel som vid inandning medför eller kan befaras medföra berusning, och
+
+2. annan vara som innehåller ett flyktigt lösningsmedel, om varan vid inandning medför eller kan befaras medföra berusning.
+
+Ytterligare bestämmelser finns i förordningen (2008:245) om kemiska produkter och biotekniska organismer.
+
+*Förordning (2008:246)*.
+
+### 2 §
+
+En vara som avses i 1 § skall förvaras på sådant sätt att dess användning i berusningssyfte hindras eller motverkas. Varan får inte försäljas, när det kan antas att den förvärvas för att användas som berusningsmedel.
+
+Läkemedelsverket får, i syfte att hindra eller motverka att varor som avses i 1 § används i berusningssyfte, meddela särskilda föreskrifter om märkning, förvaring och försäljning efter samråd med kemikalieinspektionen. Verket får förbjuda försäljning av visst varuslag till den som inte har fyllt 18 år. *Förordning (1990:553)*.
+
+### 3 §
+
+Läkemedelsverket utövar tillsynen över att denna förordning och föreskrifter som har meddelats med stöd av förordningen följs. Verket ska, efter samråd med Kemikalieinspektionen, offentliggöra vägledande förteckningar över ämnen och varor som avses i 1 §. *Förordning (2008:246)*.
+
+### 4 §
+
+Läkemedelsverkets beslut om föreskrifter med stöd av 2 § andra stycket får överklagas till regeringen.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:937)*.
+
+### 5 §
+
+Av 26 kap. 26 § miljöbalken framgår att en tillsynsmyndighet får bestämma att dess beslut skall gälla omedelbart även om det överklagas. *Förordning (1998:918)*.
+
+### 6 §
+
+Bestämmelser om ansvar och förverkande på grund av överträdelser av denna förordning och föreskrifter som har meddelats med stöd av förordningen finns i 29 kap. miljöbalken.
+
+*Förordning (1998:918)*.
+
+## Övergångsbestämmelser
+
+**1995:280**
+
+Denna förordning träder i kraft den 1 april 1995. Beslut som har meddelats före ikraftträdandet överklagas enligt äldre bestämmelser.

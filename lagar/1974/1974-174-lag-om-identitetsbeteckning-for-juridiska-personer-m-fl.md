@@ -1,0 +1,67 @@
+---
+title: "Lag (1974:174) om identitetsbeteckning för juridiska personer m.fl."
+identifier: "SFS 1974:174"
+type: act
+jurisdiction: se
+language: sv
+date: 1974-04-19
+amended_through: "SFS 2019:851"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1974-174.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1974:174"
+retrieved: 2026-10-11
+---
+# Lag (1974:174) om identitetsbeteckning för juridiska personer m.fl.
+
+### 1 §
+
+Identitetsbeteckning i numerisk form (organisationsnummer) ska fastställas för
+
+1. aktiebolag, europabolag och europakooperativ med säte i Sverige, handelsbolag, ekonomisk förening, samfällighetsförening, ömsesidigt försäkringsbolag, ömsesidigt tjänstepensionsbolag, försäkringsförening och tjänste- pensionsförening,
+
+2. erkänd arbetslöshetskassa och annan allmän inrättning som enligt lag eller annan författning står under offentlig tillsyn,
+
+3. kommun, region, kommunalförbund och annat organ för samverkan mellan kommuner,
+
+4. registrerat trossamfund och dess organisatoriska delar, och
+
+5. stiftelse. *Lag (2019:851)*.
+
+### 2 §
+
+Organisationsnummer skall fastställas för annan juridisk person än som avses i 1 § såvida statlig myndighet, hos vilken den juridiska personen är registrerad eller har mål eller ärende anhängigt, påkallar detta. Organisationsnummer fastställes vidare för juridisk person som ansöker därom.
+
+Vad i första stycket sagts gäller i motsvarande mån i fråga om enkelt bolag, partrederi samt utländskt företags filial i Sverige.
+
+Organisationsnummer får icke fastställas för konkursbo.
+
+### 3 §
+
+Regeringen eller myndighet som regeringen bestämmer får förordna att organisationsnummer skall fastställas för statlig myndighet.
+
+### 4 §
+
+Organisationsnummer består av tio siffror av vilka den sista är kontrollsiffra. Tilldelat organisationsnummer får icke ändras eller ånyo användas vid tilldelning av nummer.
+
+### 5 §
+
+Skatteverket utfärdar anvisningar för och har tillsynen över tilldelning av organisationsnummer. Hos verket föres register över tilldelade organisationsnummer. *Lag (2003:648)*.
+
+### 6 §
+
+Beslut angående fastställande av organisationsnummer överklagas hos allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätt.
+
+*Lag (2003:648)*.
+
+## Övergångsbestämmelser
+
+**1974:174**
+
+Denna lag träder i kraft den 1 juli 1975. Organisationsnummer behöver emellertid icke fastställas för handelsbolag eller ekonomisk förening, som registrerats i handels- respektive föreningsregister före den 1 juli 1975, såvida bolaget eller föreningen icke tilldelats registreringsnummer för taxerings- eller avgiftsändamål.
+
+**2003:648**
+
+Denna lag träder i kraft den 1 januari 2004. Äldre föreskrifter i 6 § gäller fortfarande för överklagande av beslut som har meddelats före ikraftträdandet. Vad som sägs om Riksskatteverket skall då i stället gälla Skatteverket.

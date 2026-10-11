@@ -1,0 +1,30 @@
+---
+title: "Lag (1996:518) om ersättningsskyldighet vid skada på undervattenskablar och rörledningar m.m."
+identifier: "SFS 1996:518"
+type: act
+jurisdiction: se
+language: sv
+date: 1996-05-30
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-518.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:518"
+retrieved: 2026-10-11
+---
+# Lag (1996:518) om ersättningsskyldighet vid skada på undervattenskablar och rörledningar m.m.
+
+## 1 §
+
+Denna lag är tillämplig på undervattenskablar och rörledningar som finns i det fria havet eller i en ekonomisk zon.
+
+## 2 §
+
+Om ägaren till en kabel eller rörledning som läggs ut eller repareras därvid orsakar att någon annan kabel eller rörledning skadas, skall ägaren ersätta kostnaden för att reparera skadan.
+
+## 3 §
+
+Om en fartygsägare har offrat ett ankare eller ett fiskeredskap i syfte att undvika skada på en kabel eller en rörledning, har fartygsägaren rätt till ersättning av kabelns eller rörledningens ägare för det som har offrats. Rätten till ersättning gäller dock endast om fartygsägaren på förhand har vidtagit alla rimliga försiktighetsåtgärder.
+
+## 4 §
+
+Talan om ersättning enligt denna lag får väckas vid svensk domstol endast mot den som har hemvist eller säte i Sverige.

@@ -1,0 +1,187 @@
+---
+title: "Statsflygsförordning (1999:1354)"
+identifier: "SFS 1999:1354"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1999-12-16
+amended_through: "SFS 2022:1721"
+department: "Statsrådsberedningen"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-1354.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:1354"
+retrieved: 2026-10-11
+---
+# Statsflygsförordning (1999:1354)
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning gäller användningen av de flygplan som staten anskaffat för statschefens och den högsta civila och militära ledningens resor.
+
+Förordningen skall också tillämpas på flygplan som används tillfälligt för detta ändamål och som staten innehar eller hyr.
+
+### Resor som flygplanen får användas för
+
+#### 2 §
+
+Följande prioriteringsordning ska gälla för flygningar med statsflyget:
+
+statschefen,
+
+riksdagens talman,
+
+statsministern,
+
+utrikesministern,
+
+övriga statsråd,
+
+överbefälhavaren,
+
+generaldirektören i Försvarsmakten.
+
+Utöver vad som anges i första stycket kan riksdagen och en statlig myndighets ledning beställa resor med statsflyget i mån av tillgänglighet. *Förordning (2014:86)*.
+
+#### 3 §
+
+Den som reser med ett flygplan kan bestämma att någon eller några andra personer får följa med på flygningen.
+
+### Vem som svarar för drift och samordnar beställningar
+
+#### 4 §
+
+Försvarsmakten skall svara för driften av de flygplan som avses i 1 § första stycket och samordna beställningar av flygningar.
+
+### Baseringsort
+
+#### 5 §
+
+De flygplan som avses i 1 § första stycket ska vara baserade på Arlanda flygplats. *Förordning (2017:420)*.
+
+### Säkerhetsskydd
+
+#### 6 §
+
+Försvarsmakten ska som flygoperatör ansvara för säkerhetsskyddet avseende flygplanen.
+
+Säkerhetspolisen ska informera Försvarsmakten om hotbilden när det gäller en person som medföljer planet och som omfattas av 5 § förordningen (2022:1719) med instruktion för Säkerhetspolisen.
+
+Försvarsmakten och Säkerhetspolisen ska samverka i säkerhetsskyddsfrågor. *Förordning (2022:1721)*.
+
+### Ersättande flygplan och kompletterande flygplan
+
+### Andra statliga flygplan
+
+#### 7 §
+
+När det för en resa behövs ett flygplan som tillfälligt ersätter eller kompletterar de flygplan som avses i 1 § första stycket, skall Försvarsmakten genomföra flygningen med ett annat statligt flygplan om så är lämpligt.
+
+### Flygplan som staten hyr
+
+#### 8 §
+
+På uppdrag av Regeringskansliet eller någon annan beställare skall Försvarsmakten hyra flygplan och sköta den upphandling som behövs för detta.
+
+### Dokumentation
+
+#### 9 §
+
+För varje flygning skall det hos Försvarsmakten finnas en handling som visar
+
+1. dagen för flygningen,
+
+2. vilket flygplan som använts,
+
+3. destinationen,
+
+4. vem beställaren är,
+
+5. vilka passagerarna är,
+
+6. ändamålet med resan,
+
+7. vilken ersättning för flygtransportkostnader och för upphandling som beställaren skall betala till Försvarsmakten enligt 11 §.
+
+#### 10 §
+
+Beställaren skall se till att uppgifter om vilka passagerarna är och om ändamålet med resan lämnas till Försvarsmakten senast när passagerarna går ombord.
+
+### Beställarens betalningsskyldighet gentemot Försvarsmakten
+
+#### 11 §
+
+Beställaren ska ersätta Försvarsmakten för
+
+1. flygtransportkostnader,
+
+2. upphandling,
+
+3. kostnader när beställningar återtas,
+
+4. avgifter för riskfinansiering och skadereglering enligt 16 §.
+
+I de fall statschefen eller den högsta civila ledningen är beställare ska Försvarsmakten ta ut avgifter för flygning med statsflyget med högst 10 800 kronor per flygtimme.
+
+Beställaren ska även ersätta Försvarsmakten för kostnaden för skatt enligt lagen (2017:1200) om skatt på flygresor.
+
+*Förordning (2018:97)*.
+
+### Beställarens skyldighet att ta betalt av passagerare vars resa inte är en statlig tjänsteresa
+
+### Huvudregel
+
+#### 12 §
+
+Om Regeringskansliet eller någon annan myndighet under regeringen är beställare, skall myndigheten ta betalt av passagerare vars resa inte är en statlig tjänsteresa.
+
+### Undantag
+
+#### 13 §
+
+Skyldigheten enligt 12 § gäller inte
+
+1. när beställaren skall bekosta ett statsråds resa mellan Stockholm och hemorten enligt 6 § lagen (1991:359) om arvoden till statsråden m.m., eller
+
+2. när det finns andra särskilda skäl att inte ta betalt.
+
+### Betalningens storlek
+
+#### 14 §
+
+Betalningen skall motsvara fullpriset för en liknande resa med reguljärt flyg. Om det är uppenbart att passageraren kunde ha skaffat en billigare flygbiljett, skall i stället priset för en sådan biljett läggas till grund för beräkningen.
+
+Vid enkel resa skall hälften av priset för en tur och retur- biljett tas ut.
+
+Om en tjänsteresa kombineras med något annat arrangemang, skall myndigheten göra en fördelning och ta betalt efter vad som är skäligt.
+
+### Försäkringsskydd för passagerare och deras rätt till skadeersättning
+
+### Statliga tjänsteresor
+
+#### 15 §
+
+Enligt förordningen (1993:674) om försäkringsskydd m.m.
+
+vid statliga tjänsteresor är Regeringskansliet och andra myndigheter under regeringen skyldiga att se till att deras anställda och uppdragstagare är försäkrade eller har ett motsvarande skydd vid tjänsteresor.
+
+### Andra resor
+
+#### 16 §
+
+Enligt de regler som finns i lagen (2010:510) om lufttransporter ska staten betala ersättning för skador som drabbar passagerare vars resa inte är en statlig tjänsteresa och vars resa beställaren ska ta betalt för enligt 12 §.
+
+Försvarsmakten ska bära statens skadeståndsansvar.
+
+Försvarsmakten ska också ansvara för att passagerare vars resa inte är en statlig tjänsteresa och vars resa beställaren inte ska ta betalt för enligt 12 § har en motsvarande möjlighet att få skadeersättning.
+
+Försvarsmakten får träffa överenskommelse med Kammarkollegiet om riskfinansiering och skadereglering enligt förordningen (1995:1300) om statliga myndigheters riskhantering.
+
+*Förordning (2010:781)*.
+
+## Övergångsbestämmelser
+
+**1999:1354**
+
+Denna förordning träder i kraft den 1 februari 2000. Genom förordningen upphävs regeringens beslut den 12 september 1996 om användningen av flygplanen Tp 100 och Tp 102 (dnr SB1996/5375).

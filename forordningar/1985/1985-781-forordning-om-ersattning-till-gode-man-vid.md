@@ -1,0 +1,51 @@
+---
+title: "Förordning (1985:781) om ersättning till gode män vid fastighetsbildningsförrättning m.m."
+identifier: "SFS 1985:781"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1985-10-17
+amended_through: "SFS 2018:948"
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1985-781.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1985:781"
+retrieved: 2026-10-11
+---
+# Förordning (1985:781) om ersättning till gode män vid fastighetsbildningsförrättning m.m.
+
+## 1 §
+
+Arvode, reseersättning och traktamente enligt denna förordning betalas till gode män som biträder vid förrättning enligt fastighetsbildningslagen (1970:988), lagen (1971:1037) om äganderättsutredning och legalisering, ledningsrättslagen (1973:1144), anläggningslagen (1973:1149) eller enligt den upphävda lagen (1925:334) om rätt i vissa fall för nyttjanderättshavare att inlösa under nyttjanderätt upplåtet område.
+
+## 2 §
+
+Arvodet är 300 kronor för varje tjänstgöringsdag. Samma arvode betalas för resdagar, när restiden överstiger åtta timmar mellan klockan 6 och 24. *Förordning (1989:286)*.
+
+## 3 §
+
+Om en god man får vidkännas löneavdrag eller annan inkomstförlust på grund av uppdraget, får för varje dag som den gode mannen har rätt till arvode för uppdraget betalas ett tilläggsbelopp för den del av inkomstförlusten som inte täcks av arvodet.
+
+Tilläggsbeloppet beslutas av Lantmäteriet. Det beräknas med ledning av uppgifter om löneavdrag eller, när det inte kan ske, med utgångspunkt i uppgifter om beräknad årsinkomst.
+
+Tilläggsbeloppet ska bestämmas för ett år i sänder. Om en förändring har inträffat som i väsentlig utsträckning påverkar den gode mannens rätt till tillläggsbelopp, får dock Lantmäteriet ändra beloppet.
+
+Arvodet och tilläggsbeloppet får tillsammans inte överstiga 1 000 kronor. *Förordning (2008:684)*.
+
+## 4 §
+
+Reseersättning och traktamente ska betalas enligt de bestämmelser om reseförmåner som enligt kollektivavtal gäller för en arbetstagare vid Lantmäteriet.
+
+Om flera ska resa till samma förrättning bör de samåka, om det innebär att kostnaderna sammanlagt blir lägre.
+
+*Förordning (2008:684)*.
+
+## 5 §
+
+Ersättning enligt denna förordning betalas ut av Lantmäteriet. Tjänstgöringen ska styrkas genom intyg av förrättningslantmätaren. *Förordning (2008:684)*.
+
+## 6 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:948)*.

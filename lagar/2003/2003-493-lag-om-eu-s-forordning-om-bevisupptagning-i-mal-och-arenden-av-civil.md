@@ -1,0 +1,51 @@
+---
+title: "Lag (2003:493) om EU:s förordning om bevisupptagning i mål och ärenden av civil eller kommersiell natur"
+identifier: "SFS 2003:493"
+type: act
+jurisdiction: se
+language: sv
+date: 2003-06-12
+amended_through: "SFS 2022:624"
+department: "Justitiedepartementet BIRS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-493.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:493"
+retrieved: 2026-10-11
+---
+# Lag (2003:493) om EU:s förordning om bevisupptagning i mål och ärenden av civil eller kommersiell natur
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna lag innehåller kompletterande bestämmelser till Europaparlamentets och rådets förordning (EU) 2020/1783 av den 25 november 2020 om samarbete mellan medlemsstaternas domstolar i fråga om bevisupptagning i mål och ärenden av civil eller kommersiell natur. *Lag (2022:624)*.
+
+## Bevisupptagning i en annan medlemsstat
+
+### 2 §
+
+Svenska domstolar får begära att en domstol i en annan medlemsstat skall ta upp bevisning.
+
+### 3 §
+
+Parter och ombud får närvara när bevisupptagning äger rum vid en domstol i en annan medlemsstat.
+
+### 4 §
+
+Svenska domstolar får ta upp bevisning direkt i en annan medlemsstat, om en begäran om det har godtagits av det centrala organet eller den behöriga myndigheten i den staten. De får dessutom utan särskild begäran ta upp bevisning direkt i en annan medlemsstat, om det sker på grund av ett särskilt avtal.
+
+## Bevisupptagning i Sverige
+
+### 5 §
+
+Bevisupptagning på begäran av en domstol i en annan medlemsstat ska verkställas av en tingsrätt.
+
+Vid handläggningen tillämpas rättegångsbalkens bestämmelser om bevisupptagning utom huvudförhandling, om inte annat följer av förordning (EU) 2020/1783. *Lag (2022:624)*.
+
+### 6 §
+
+Om framställningen gäller en åtgärd som avser en fysisk person, är den tingsrätt behörig inom vars område personen har sitt hemvist eller under någon tid uppehåller sig. Om personen i fråga samtycker till att en annan tingsrätt verkställer framställningen, är den domstolen också behörig.
+
+Om framställningen gäller syn på en fastighet eller ett annat föremål som inte lämpligen kan flyttas, är den tingsrätt behörig inom vars område fastigheten eller föremålet finns.
+
+Andra åtgärder skall verkställas av den tingsrätt som tar emot framställningen.

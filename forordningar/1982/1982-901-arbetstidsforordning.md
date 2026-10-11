@@ -1,0 +1,55 @@
+---
+title: "Arbetstidsförordning (1982:901)"
+identifier: "SFS 1982:901"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1982-10-28
+amended_through: "SFS 2014:366"
+department: "Arbetsmarknadsdepartementet ARM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-901.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:901"
+retrieved: 2026-10-11
+---
+# Arbetstidsförordning (1982:901)
+
+## 1 §
+
+Arbetsmiljöverket får meddela
+
+1. föreskrifter om anteckningar om jourtid, övertid och mertid enligt 11 § andra stycket arbetstidslagen (1982:673), samt
+
+2. de ytterligare föreskrifter som behövs om verkställighet av arbetstidslagen.
+
+I 24 § arbetstidslagen finns bestämmelser om straff för den som överträder föreskrifter som har meddelats med stöd av 11 § andra stycket arbetstidslagen. *Förordning (2000:1080)*.
+
+## 2 §
+
+När arbete utförs i någons hem, skall tillsyn i form av inspektionsbesök göras endast på begäran av den arbetsgivare eller arbetstagare som berörs eller om det finns särskilda skäl för sådan tillsyn. Detsamma gäller arbete som utförs av den som driver verksamhet utan andra arbetstagare än familjemedlemmar.
+
+## 3 §
+
+En avskrift av en dom eller ett slutligt beslut i ett mål om ansvar enligt 23 och 24 §§ arbetstidslagen (1982:673) eller föreskrifter som har meddelats med stöd av lagen ska sändas till Arbetsmiljöverket. Detsamma gäller ett beslut genom vilket någon har påförts sanktionsavgift enligt arbetstidslagen. *Förordning (2014:366)*.
+
+## 4 §
+
+Kommer riket i krig skall, när det behövs för att tillgodose totalförsvarets behov
+
+1. den ordinarie arbetstiden enligt 5 § arbetstidslagen (1982:673) vara högst 60 timmar i veckan,
+
+2. bestämmelserna om mertid i 10 § arbetstidslagen inte tillämpas, och
+
+3. veckovilan enligt 14 § arbetstidslagen vara minst 24 timmar under varje period om sju dagar.
+
+Om riket kommer i krigsfara eller om det råder sådana utomordentliga förhållanden som är föranledda av krig eller av krigsfara som riket har befunnit sig i får, efter regeringens förordnande, bestämmelserna i första stycket helt eller delvis tillämpas från den tidpunkt som regeringen bestämmer. *Förordning (1989:795)*.
+
+## 5 §
+
+har upphävts genom *förordning (2014:366)*.
+
+## 6 §
+
+Arbetsmiljöverket får meddela förordnande enligt 2 § andra stycket arbetstidslagen (1982:673) att lagen skall tillämpas när det gäller fartygsarbete på fartyg som inte tillhör staten.
+
+*Förordning (2000:1080)*.

@@ -1,0 +1,51 @@
+---
+title: "Lag (1982:315) om styrelserepresentation för samhället i vissa stiftelser"
+identifier: "SFS 1982:315"
+type: act
+jurisdiction: se
+language: sv
+date: 1982-05-13
+amended_through: "SFS 1994:970"
+department: "Närings- och handelsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-315.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:315"
+retrieved: 2026-10-11
+---
+# Lag (1982:315) om styrelserepresentation för samhället i vissa stiftelser
+
+## 1 §
+
+Staten har rätt att utse en ledamot (offentlig styrelseledamot) och en ersättare i styrelsen för sådana allmännyttiga stiftelser som har mer än fem miljoner kronor i tillgångar.
+
+## 2 §
+
+Regeringen beslutar om sådan styrelserepresentation som anges i 1 §.
+
+Högst tio stiftelser får samtidigt omfattas av sådan representation.
+
+## 3 §
+
+Offentliga styrelseledamöter skall särskilt verka för att samhällets intressen beaktas i verksamheten.
+
+## 4 §
+
+Om frågan uppkommer att inrätta offentlig styrelserepresentation i en stiftelse, är stiftelsen efter anmodan skyldig att till regeringen överlämna en avskrift av stiftelseurkunden, stadgar och andra handlingar som bestämmer stiftelsens verksamhet eller visar dess ekonomiska ställning.
+
+Sådan anmodan får förenas med vite.
+
+## 5 §
+
+Offentliga styrelseledamöter och ersättare utses för den tid som regeringen bestämmer.
+
+## 6 §
+
+Den offentlige styrelseledamoten får närvara och delta i överläggningar när ärenden, som senare skall avgöras av styrelsen, förbereds av därtill särskilt utsedda styrelseledamöter.
+
+## 7 §
+
+Det åligger stiftelsen att betala arvode och annan ersättning till den offentlige styrelseledamoten och hans eller hennes ersättare.
+
+Om arvode utgår till ledamöter eller ersättare som har utsetts av stiftelsen har den offentlige styrelseledamoten eller ersättaren rätt till arvode med samma belopp. I annat fall bestämmer stiftelsen arvodet särskilt. Arvodet skall i det senare fallet vara lägst 5 000 kronor och högst 20 000 kronor om året för ledamot samt lägst 3 000 kronor och högst 15 000 kronor om året för ersättare.
+
+Offentliga styrelseledamöter och ersättare har rätt till ersättning för nödvändiga kostnader för resor och uppehälle. *Lag (1991:427)*.

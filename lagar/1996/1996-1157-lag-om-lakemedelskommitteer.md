@@ -1,0 +1,47 @@
+---
+title: "Lag (1996:1157) om läkemedelskommittéer"
+identifier: "SFS 1996:1157"
+type: act
+jurisdiction: se
+language: sv
+date: 1996-11-28
+amended_through: "SFS 2020:306"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-1157.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:1157"
+retrieved: 2026-10-11
+---
+# Lag (1996:1157) om läkemedelskommittéer
+
+## 1 §
+
+I varje region ska det finnas en eller flera läkemedelskommittéer.
+
+Regionen bestämmer hur många sådana kommittéer som ska finnas och vilket organ inom regionen som ska tillsätta en kommitté. Regionen bestämmer också antalet ledamöter i varje kommitté och mandattiden för ledamöterna.
+
+Det som i denna lag sägs om regioner gäller även kommuner som inte ingår i en region. *Lag (2019:899)*.
+
+## 2 §
+
+Varje läkemedelskommitté skall erbjuda företrädare för farmaceutisk och medicinsk expertis att på lämpligt sätt delta i kommitténs arbete.
+
+## 3 §
+
+En läkemedelskommitté ska genom rekommendationer till hälso- och sjukvårdspersonalen eller på annat lämpligt sätt verka för en tillförlitlig och rationell läkemedelsanvändning inom regionen. Rekommendationerna ska vara grundade på vetenskap och beprövad erfarenhet. *Lag (2019:899)*.
+
+## 4 §
+
+E-hälsomyndigheten ska till en läkemedelskommitté lämna uppgift om läkemedelsförskrivningar av personal vid vårdinrättning inom kommitténs verksamhetsområde och som registrerats enligt lagen (2018:1212) om nationell läkemedelslista.
+
+Om kommittén finner att det förekommer brister i läkemedelsanvändningen inom verksamhetsområdet ska kommittén göra de påpekanden som behövs och vid behov erbjuda hälso- och sjukvårdspersonalen utbildning för att avhjälpa bristerna. *Lag (2018:1213)*.
+
+## 5 §
+
+Varje läkemedelskommitté skall i den omfattning som behövs samverka med andra läkemedelskommittéer samt med berörda myndigheter, universitet och högskolor.
+
+## 6 §
+
+Regionen ska utfärda ett reglemente med de föreskrifter om en läkemedelskommittés verksamhet och arbetsformer som behövs.
+
+*Lag (2019:899)*.

@@ -1,0 +1,269 @@
+---
+title: "Förordning (1978:164) om vissa rörledningar"
+identifier: "SFS 1978:164"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1978-04-13
+amended_through: "SFS 2026:1041"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1978-164.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1978:164"
+retrieved: 2026-10-11
+---
+# Förordning (1978:164) om vissa rörledningar
+
+### Ansökan om koncession
+
+#### 1 §
+
+En ansökan om koncession enligt lagen (1978:160) om vissa rörledningar ska vara skriftlig. Ansökan ska ges in till Energimarknadsinspektionen och innehålla uppgifter om
+
+1. sökandens namn, yrke, hemvist och adress,
+
+2. den tid för vilken koncession begärs,
+
+3. de fastigheter som berörs av ansökan samt namn och adress på fastighetsägare, förvaltare av trafikleder och övriga sakägare,
+
+4. markanvändning och planförhållanden i berörda områden,
+
+5. hur de allmänna hänsynsreglerna i 2 kap. miljöbalken iakttas,
+
+6. den inverkan på allmänna och enskilda intressen som den avsedda verksamheten kan bedömas få samt de åtgärder som sökanden anser behövliga för att skydda allmänna intressen eller enskild rätt,
+
+7. planen för den avsedda verksamheten samt sökandens tekniska och ekonomiska förutsättningar att fullfölja planen,
+
+8. de huvudsakliga villkor som enligt sökandens mening bör gälla för verksamheten, och
+
+9. den miljökonsekvensbeskrivning som krävs enligt 4 § fjärde stycket 2 eller 3 lagen (1978:160) om vissa rörledningar.
+
+En ansökan får lämnas in elektroniskt. Myndigheten får meddela närmare föreskrifter om elektronisk inlämning av ansökan.
+
+*Förordning (2022:1407)*.
+
+#### 2 §
+
+Till ansökningshandling som avses i 1 § ska fogas
+
+1. en beskrivning av det tillämnade företaget med kostnadsberäkning,
+
+2. en karta utvisande ledningens huvudsakliga sträckning, upprättad enligt vad Energimarknadsinspektionen bestämmer, jämte behövlig beskrivning,
+
+3. den utredning i övrigt som sökanden vill åberopa till stöd för sin ansökan. *Förordning (2007:1323)*.
+
+### Ansökningsavgift
+
+#### 3 §
+
+För ansökan om koncession betalas en grundavgift om 42 000 kr. För varje påbörjad kilometer rörledning som ansökan avser skall dessutom en längdavgift om 3 700 kr betalas. Grundavgift tas ut för varje stamledning och därifrån utgående grenledning som omfattas av ansökan. Om ansökan endast avser sådana tillbehör och anordningar som nämns i 2 § lagen (1978:160) om vissa rörledningar tas endast grundavgift ut. Avgiften betalas när ansökan ges in. *Förordning (1997:41)*.
+
+### Handläggning av koncessionsansökan
+
+#### 4 §
+
+Uppfyller ansökan om koncession inte vad som fordras enligt 1 eller 2 § eller är den i övrigt ofullständig eller har sökanden inte betalat avgift enligt 3 §, ska Energimarknadsinspektionen, om rättelse inte sker på annat sätt, förelägga sökanden att inom viss tid avhjälpa bristen.
+
+Om ett föreläggande att avhjälpa brist i fråga om ansökningens innehåll inte följs, och bristen är så väsentlig att ansökningen inte kan ligga till grund för prövning av ärendet, ska Energimarknadsinspektionen avvisa ansökningen. Om föreläggande att betala ansökningsavgift inte följs, ska ansökningen också avvisas.
+
+Föreläggande som avses i första stycket ska innehålla erinran om påföljden av att föreläggandet inte följs. Föreläggandet ska delges. *Förordning (2007:1323)*.
+
+#### 4 a §
+
+Om en ansökan om koncession avser en verksamhet eller åtgärd för förnybar energi ska Energimarknadsinspektionen, så snart som möjligt och senast 45 dagar efter att en ansökan kom in,
+
+1. skicka information till sökanden om att handläggningen av ärendet har påbörjats, eller
+
+2. om ansökan är bristfällig, förelägga sökanden att komplettera ansökan enligt 4 §.
+
+När bristerna har avhjälpts ska Energimarknadsinspektionen, så snart som möjligt och senast 45 dagar efter att bristerna avhjälptes, skicka information till sökanden om att handläggningen av ärendet har påbörjats.
+
+Uttrycket verksamhet eller åtgärd för förnybar energi har i denna förordning samma innebörd som i lagen (2026:399) om verksamheter och åtgärder för förnybar energi.
+
+*Förordning (2026:1041)*.
+
+#### 5 §
+
+Om ansökan om koncession inte avvisas, ska Energimarknadsinspektionen införa en kungörelse om ansökningen i Post- och Inrikes Tidningar och ortstidning. Bestämmelser om kungörelse av miljökonsekvensbeskrivningen finns i 6 kap. 39-41 §§ miljöbalken och 20 § miljöbedömningsförordningen (2017:966).
+
+Energimarknadsinspektionen ska skicka meddelande om ansökning om koncession till de sakägare som har angetts i ansökningshandlingen.
+
+I en kungörelse enligt första stycket och meddelande enligt andra stycket ska det anges att erinringar mot ansökningen ska göras skriftligen hos Energimarknadsinspektionen inom viss angiven tid, minst fyra veckor efter det att kungörelsen var införd i Post- och Inrikes Tidningar. *Förordning (2017:1035)*.
+
+#### 6 §
+
+Energimarknadsinspektionen ska se till att koncessionsärende tillförs den utredning som kan anses påkallad med hänsyn till den tillämnade verksamhetens art och omfattning. Yttrande ska alltid inhämtas från kommunen och länsstyrelsen. *Förordning (2007:1323)*.
+
+#### 7 §
+
+Efter utgången av den tid som har angivits för erinringar mot ansökningen och sedan ärendet tillförts behövlig utredning ska Energimarknadsinspektionen med eget utlåtande överlämna handlingarna i ärendet till regeringen.
+
+*Förordning (2007:1323)*.
+
+#### 7 a §
+
+I ett ärende enligt 1 § ska beslut meddelas av regeringen inom fem år efter det att en fullständig ansökan kom in till Energimarknadsinspektionen.
+
+I ett ärende enligt 8 § ska beslut meddelas av regeringen inom tio år efter det att en fullständig ansökan kom in till Energimarknadsinspektionen.
+
+Om det är nödvändigt på grund av utredningen av ärendet, får handläggningstiden vid högst ett tillfälle förlängas med högst den ursprungliga tidsfristens längd. Sökanden ska informeras om skälen för att handläggningstiden förlängs innan den ursprungliga tidsfristen har gått ut.
+
+I 8 § lagen (2009:1079) om tjänster på den inre marknaden finns bestämmelser om att ett mottagningsbevis ska skickas till sökanden när fullständig ansökan kommit in och om innehållet i ett sådant bevis. *Förordning (2009:1098)*.
+
+#### 7 b §
+
+Trots 7 a § första och andra styckena ska ett ärende som avser en verksamhet eller en åtgärd för förnybar energi avgöras inom
+
+1. två år om den anläggning som ska anslutas är landbaserad, och
+
+2. tre år om den anläggning som ska anslutas är havsbaserad.
+
+Tidsfristen börjar löpa den dag Energimarknadsinspektionen skickar information till sökanden enligt 4 a § om att handläggningen av ärendet har påbörjats. *Förordning (2026:1041)*.
+
+#### 7 c §
+
+Trots 7 a § tredje stycket får en tidsfrist enligt 7 b § bara förlängas vid högst ett tillfälle med högst sex månader om det
+
+1. efter att tidsfristen börjat löpa uppstår behov av kompletteringar på grund av nya bestämmelser eller ny information,
+
+2. uppstår en försening vid handläggningen av ärendet och förseningen beror på någon yttre omständighet som myndigheten inte hade kunnat påverka eller förutse när tidsfristen började löpa,
+
+3. är nödvändigt för att en prövning som krävs enligt EU- lagstiftning på miljöområdet ska kunna genomföras, eller
+
+4. finns andra synnerliga skäl än de som anges i 1-3.
+
+Om tidsfristen förlängs ska sökanden skriftligen informeras om förlängningen och skälen för den. *Förordning (2026:1041)*.
+
+### Förlängning av koncessions giltighetstid
+
+#### 8 §
+
+I fråga om förlängning av koncessions giltighetstid tillämpas 1-7 §§. Energimarknadsinspektionen kan medge undantag från bestämmelserna i 1 och 2 §§ om vad ansökan ska innehålla och vad som ska fogas till ansökningshandling.
+
+*Förordning (2007:1323)*.
+
+### Ansökan om förlängning av tid för färdigställande av ledning
+
+#### 9 §
+
+Ansökan om förlängning av tid för färdigställande av ledning som har föreskrivits med stöd av 6 § tredje stycket lagen (1978:160) om vissa rörledningar skall vara skriftlig och innehålla uppgift om
+
+1. sökandens namn, yrke, hemvist och adress,
+
+2. skälen till att den föreskrivna tiden icke kan iakttagas,
+
+3. den förlängning av tiden som begärs.
+
+#### 10 §
+
+Uppfyller ansökan icke vad som fordras enligt 9 §, gäller bestämmelserna i 4 § i tillämpliga delar.
+
+### Vissa åligganden för koncessionshavare
+
+#### 11 §
+
+Innan koncessionshavare påbörjar arbete med att dra fram ledning, ska anmälan göras till Energimarknadsinspektionen och den eller de kommunala nämnder som fullgör uppgifter inom plan- och byggnadsväsendet. Vid anmälningen ska karta och teknisk beskrivning över ledningen fogas. *Förordning (2007:1323)*.
+
+#### 12 §
+
+Koncessionshavare skall tillse att arbete på ledningen utförs under tillsyn av person som har erforderlig sakkunskap och erfarenhet samt kännedom om för arbetet gällande bestämmelser.
+
+#### 13 §
+
+Koncessionshavare får inte ta en ledning i bruk, förrän Energimarknadsinspektionen meddelat tillstånd till det (driftstillstånd). *Förordning (2007:1323)*.
+
+#### 14 §
+
+Koncessionshavare ska till Myndigheten för civilt försvar utan dröjsmål anmäla olycksfall eller driftstörning vid företaget, som kan ha betydelse från säkerhetssynpunkt.
+
+*Förordning (2025:1085)*.
+
+### Transport åt annan
+
+#### 15 §
+
+Frågor om skyldighet att ombesörja transport åt någon annan enligt 8, 8 b eller 8 c § lagen (1978:160) om vissa rörledningar prövas av Energimarknadsinspektionen.
+
+*Förordning (2014:26)*.
+
+#### 15 a §
+
+Om en tvist om koncessionshavarens skyldigheter enligt 8 b eller 8 c § lagen (1978:160) om vissa rörledningar är gränsöverskridande på så sätt att tvisten omfattas också av ett eller flera andra EU-länders jurisdiktion, ska prövningsmyndigheten samråda med de berörda myndigheterna i de andra länderna så att bestämmelserna tillämpas på ett enhetligt sätt. *Förordning (2014:26)*.
+
+#### 16 §
+
+Uppgifter enligt 9 § lagen (1978:160) om vissa rörledningar ska lämnas på anfordran av Energimarknadsinspektionen. *Förordning (2007:1323)*.
+
+Borttagande av ledning, återställning m. m.
+
+#### 17 §
+
+Energimarknadsinspektionen beslutar i frågor om föreläggande enligt 17 § lagen (1978:160) om vissa rörledningar. *Förordning (2007:1323)*.
+
+#### 18 §
+
+Energimarknadsinspektionen beslutar om sådant tillträde och sådant tillstånd som anges i 18 § lagen (1978:160) om vissa rörledningar. *Förordning (2007:1323)*.
+
+Tillsyn m. m.
+
+#### 19 §
+
+Energimarknadsinspektionen utövar tillsyn enligt 19 § lagen (1978:160) om vissa rörledningar. *Förordning (2007:1323)*.
+
+#### 20 §
+
+Energimarknadsinspektionen får meddela förelägganden enligt 20 § lagen (1978:160) om vissa rörledningar.
+
+*Förordning (2007:1323)*.
+
+#### 21 §
+
+Andra beslut än beslut enligt 9, 19 och 20 §§ lagen (1978:160) om vissa rörledningar får överklagas till regeringen.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Beslut enligt 7 a § tredje stycket får dock inte överklagas.
+
+*Förordning (2018:939)*.
+
+#### 22 §
+
+Ytterligare föreskrifter för verkställigheten av lagen (1978:160) om vissa rörledningar meddelas av Energimarknadsinspektionen. *Förordning (2007:1323)*.
+
+## Övergångsbestämmelser
+
+**1986:268**
+
+1. Denna förordning träder i kraft den 1 juli 1986.
+
+2. I fråga om ansökningar som kommit in till statens energiverk före den 1 juli 1986 gäller 3 § i sin äldre lydelse.
+
+**1991:740**
+
+1. Denna förordning träder i kraft den 1 juli 1991.
+
+2. I fråga om ansökningar som kommit in till statens energiverk före den 1 juli 1991 gäller 3 § i sin äldre lydelse.
+
+**1995:232**
+
+Denna förordning träder i kraft den 1 april 1995. Beslut som har meddelats före ikraftträdandet överklagas enligt äldre bestämmelser.
+
+**1997:41**
+
+1. Denna förordning träder i kraft den 1 mars 1997.
+
+2. I fråga om ansökningar som kommit in till Närings- och teknikutvecklingsverket före den 1 mars 1997 gäller 3 § i sin äldre lydelse.
+
+**2009:1098**
+
+Denna förordning träder i kraft den 27 december 2009 och tillämpas endast i fråga om ansökningar som har kommit in till Energimarknadsinspektionen efter ikraftträdandet.
+
+**2017:1035**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande för handläggningen av ärenden som har inletts före ikraftträdandet.
+
+**2026:1041**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre föreskrifter gäller fortfarande för ärenden som har inletts före ikraftträdandet.

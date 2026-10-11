@@ -1,0 +1,99 @@
+---
+title: "Förordning (2002:831) om myndigheters rätt till kompensation för ingående mervärdesskatt"
+identifier: "SFS 2002:831"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-11-14
+amended_through: "SFS 2025:1204"
+department: "Finansdepartementet BA ToT"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-831.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:831"
+retrieved: 2026-10-11
+---
+# Förordning (2002:831) om myndigheters rätt till kompensation för ingående mervärdesskatt
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning gäller myndigheter under regeringen som ingår i den statliga redovisningsorganisationen, om inte Statskontoret beslutar annat enligt 2 §. Förordningen gäller dock inte affärsverken. *Förordning (2025:1204)*.
+
+#### 2 §
+
+Statskontoret ska besluta att en myndighet inte ska omfattas av förordningen om Statskontoret bedömer att det är viktigare att det råder konkurrensneutralitet på en marknad där myndigheten bedriver verksamhet i konkurrens med en verksamhet som inte medför rätt till avdrag eller återbetalning av ingående skatt enligt mervärdesskattelagen (2023:200), än att myndigheten har kompensationsrätt enligt denna förordning.
+
+Statskontoret ska samråda med Konkurrensverket innan beslut enligt denna bestämmelse fattas. *Förordning (2025:1204)*.
+
+#### 3 §
+
+Har upphävts genom *förordning (2008:1430)*.
+
+### Kompensation
+
+#### 4 §
+
+En myndighet som omfattas av denna förordning har rätt till kompensation för belopp, motsvarande ingående skatt enligt mervärdesskattelagen (2023:200), som hänför sig till verksamheten.
+
+Myndigheten har dock inte rätt till kompensation om den ingående skatten hänför sig till utgifter för representation eller liknande ändamål. Myndigheten har inte heller rätt till kompensation om den ingående skatten omfattas av begränsningar i avdragsrätten enligt 13 kap. 16, 18, 19, 20, 21, 22, 23, 26 eller 27 § mervärdesskattelagen. *Förordning (2023:333)*.
+
+#### 5 §
+
+Har upphävts genom *förordning (2008:1430)*.
+
+#### 6 §
+
+Har upphävts genom *förordning (2008:1430)*.
+
+### Rekvisition och redovisning mot inkomsttitel
+
+#### 7 §
+
+En myndighet som en viss månad har bokfört belopp som anges i 4 § får påföljande månad rekvirera motsvarande belopp från Skatteverket. *Förordning (2003:1040)*.
+
+#### 8 §
+
+Skatteverket ska betala ut det rekvirerade beloppet inom 10 dagar från det att rekvisitionen kommit in till myndigheten. *Förordning (2011:225)*.
+
+#### 9 §
+
+Skatteverket ska redovisa det rekvirerade beloppet mot inkomsttiteln Mervärdesskatt när verket betalar ut det till myndigheten. *Förordning (2011:225)*.
+
+#### 10 §
+
+Har upphävts genom *förordning (2008:1430)*.
+
+### Ränta
+
+#### 11 §
+
+Har en myndighet tillgodoförts ränta till följd av att myndigheten rekvirerat ett för högt belopp vid tillämpningen av 4 §, ska myndigheten betala ett belopp motsvarande räntan till Skatteverket, om den tillgodoförda räntan inte är obetydlig.
+
+*Förordning (2008:1430)*.
+
+### Tillämpningsföreskrifter
+
+#### 12 §
+
+Statskontoret får meddela de föreskrifter som behövs för tillämpningen av denna förordning. *Förordning (2025:1204)*.
+
+## Övergångsbestämmelser
+
+**2008:1430**
+
+1. Denna förordning träder i kraft den 1 februari 2009 och tillämpas för tid från och med den 1 januari 2009.
+
+2. För bidrag som avses i den upphävda 3 § och som har mottagits före den 1 januari 2009 gäller de upphävda paragraferna samt 1 och 11 §§ i sin äldre lydelse.
+
+**2017:367**
+
+1. Denna förordning träder i kraft den 1 juli 2017.
+
+2. Äldre föreskrifter gäller fortfarande för utgifter för representation eller liknande ändamål som har uppstått före ikraftträdandet.
+
+**2023:333**
+
+1. Denna förordning träder i kraft den 1 juli 2023.
+
+2. Äldre föreskrifter gäller fortfarande för förhållanden som hänför sig till tiden före ikraftträdandet.

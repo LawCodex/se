@@ -1,0 +1,55 @@
+---
+title: "Förordning (1993:674) om försäkringsskydd m.m. vid statliga tjänsteresor"
+identifier: "SFS 1993:674"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1993-06-03
+amended_through: "SFS 2010:1682"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-674.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:674"
+retrieved: 2026-10-11
+---
+# Förordning (1993:674) om försäkringsskydd m.m. vid statliga tjänsteresor
+
+### 1 §
+
+En myndighet under regeringen svarar för att myndighetens anställda och uppdragstagare har ett försäkringsskydd vid inrikes och utrikes tjänsteresor samt förrättningar i anslutning till dessa.
+
+Bestämmelserna i denna förordning gäller inte för
+
+1. den som utan att vara anställd får statlig utbildning,
+
+2. den som omfattas av statligt personskadeskydd enligt 7 kap. 2 § socialförsäkringsbalken eller av bestämmelser som avses i 7 kap. 3 § samma balk,
+
+3. anställda vid konsultföretag som mot arvode utför klart avgränsade uppdrag. *Förordning (2010:1682)*.
+
+### 2 §
+
+Myndigheten avgör vad som är en tjänsteresa.
+
+### 3 §
+
+Skyddet enligt 1 § skall alltid omfatta -- ersättning vid dödsfall och invaliditet, -- ersättning för förlorat personligt resgods, -- ersättning för kostnader vid reseavbrott, -- överfallsskydd och -- rättsskydd.
+
+Myndigheten får komplettera skyddet med ytterligare moment där så bedöms behövligt.
+
+### 4 §
+
+Bestämmelserna om riskfinansiering och skadereglering i 4 och 5 §§ förordningen (1995:1300) om statliga myndigheters riskhantering skall tillämpas i fråga om försäkringsskydd enligt denna förordning.
+
+*Förordning (1995:1302)*.
+
+### 5 §
+
+Kammarkollegiets beslut i ärenden om ersättning på grund av avtal som avses i 4 § får inte överklagas.
+
+## Övergångsbestämmelser
+
+**1995:1302**
+
+1. Denna förordning träder i kraft den 1 januari 1996.
+
+2. Den myndighet som med stöd av 4 § i dess äldre lydelse har tecknat försäkring hos ett enskilt försäkringsbolag skall säga upp denna till närmaste förfallodag.

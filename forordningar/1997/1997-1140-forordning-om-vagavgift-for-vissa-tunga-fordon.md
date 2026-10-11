@@ -1,0 +1,169 @@
+---
+title: "Förordning (1997:1140) om vägavgift för vissa tunga fordon"
+identifier: "SFS 1997:1140"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1997-12-04
+amended_through: "SFS 2025:1069"
+department: "Finansdepartementet S2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1997-1140.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1997:1140"
+retrieved: 2026-10-11
+---
+# Förordning (1997:1140) om vägavgift för vissa tunga fordon
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Beteckningar som används i denna förordning har samma betydelse som i lagen (1997:1137) om vägavgift för vissa tunga fordon, lagen (2001:559) om vägtrafikdefinitioner och förordningen (2001:651) om vägtrafikdefinitioner.
+
+*Förordning (2002:941)*.
+
+#### 2 §
+
+Skatteverket fastställer efter samråd med Transportstyrelsen blanketter för fastställande, uppbörd och kontroll av vägavgift. *Förordning (2008:1186)*.
+
+#### 2 a §
+
+Skatteverket ansvarar för administration och uppbörd av vägavgift för ett utländskt fordon enligt det i Bryssel den 9 februari 1994 underskrivna avtalet om uttag av en avgift för tunga fordon som använder vissa vägar och det i Bryssel den 18 september 1997 underskrivna protokollet avseende Sveriges anslutning till avtalet. Avtalet har ändrats genom de i Bryssel den 22 mars 2000, 21 oktober 2010, 6 december 2017 och 29 mars 2023 underskrivna ändringsprotokollen. Avtalet och protokollen publiceras i Sveriges internationella överenskommelser (SÖ). *Förordning (2025:1069)*.
+
+#### 2 b §
+
+Skatteverket ska på begäran av Trafikverket lämna sådana uppgifter om vägavgift som avses i 25 a § förordningen (2014:1564) om infrastrukturavgifter på väg.
+
+*Förordning (2025:1069)*.
+
+#### 3 §
+
+Skatteverket får efter samråd med Transportstyrelsen meddela föreskrifter om att Transportstyrelsen i vägtrafikregistret ska föra in de särskilda uppgifter som behövs för påföring eller uppbörd av vägavgift.
+
+*Förordning (2008:1186)*.
+
+### Påföring och uppbörd
+
+#### 4 §
+
+För Skatteverkets räkning beslutar Transportstyrelsen om vägavgift och dröjsmålsavgift samt verkställer uppbörd av sådana avgifter i fråga om fordon som är upptaget i det svenska vägtrafikregistret.
+
+Saknas i vägtrafikregistret någon uppgift som behövs för bestämmande av vägavgift, får Skatteverket föreskriva att vägavgiften ska påföras enligt grunder som verket bestämmer.
+
+*Förordning (2008:1186)*.
+
+#### 5 §
+
+Ett inbetalningskort avseende vägavgiften för svenskt fordon ska sändas till den avgiftsskyldige snarast möjligt, i fråga om uppbörd enligt 13 § första stycket lagen (1997:1137) om vägavgift för vissa tunga fordon dock senast den 12 i den månad då avgiften ska betalas.
+
+Om en fordonsägare inte har fått inbetalningskortet, ska han eller hon anmäla detta till Transportstyrelsen senast en vecka innan vägavgiften ska vara inbetald. *Förordning (2008:1186)*.
+
+#### 6 §
+
+På begäran av den avgiftsskyldige kan vägavgift förskottsdebiteras.
+
+#### 7 §
+
+Vid färd med ett fordon vars registreringsskyltar har tagits om hand enligt 28 § första stycket lagen (1997:1137) om vägavgift för vissa tunga fordon ska det i fordonet finnas ett bevis om en polismans eller bilinspektörs medgivande enligt andra stycket den paragrafen.
+
+Omhändertagna registreringsskyltar ska förvaras hos Polismyndigheten under en vecka efter omhändertagandet.
+
+Skyltarna får under denna tid återlämnas till fordonets ägare om det visas att brukandeförbud inte längre råder för fordonet enligt 25 § lagen om vägavgift för vissa tunga fordon. Om skyltarna inte återlämnas, ska Polismyndigheten förstöra dem. *Förordning (2015:37)*.
+
+#### 8 §
+
+Transportstyrelsen begär indrivning för Skatteverkets räkning. Bestämmelser om begäran om indrivning finns i 4-9 §§ indrivningsförordningen (1993:1229). Att den betalningsskyldige ska uppmanas att betala fordringen innan ansökan om indrivning görs framgår av 3 § nämnda förordning.
+
+Indrivning behöver inte begäras för en fordran som understiger 100 kronor om indrivning inte krävs från allmän synpunkt.
+
+*Förordning (2008:1186)*.
+
+#### 9 §
+
+Skatteverket meddelar efter samråd med Transportstyrelsen föreskrifter för påföring och uppbörd av vägavgift.
+
+*Förordning (2008:1186)*.
+
+#### 10 §
+
+Återbetalning av vägavgift enligt 17 eller 17 c § lagen (1997:1137) om vägavgift för vissa tunga fordon beslutas och verkställs av Transportstyrelsen för Skatteverkets räkning.
+
+*Förordning (2025:1069)*.
+
+### Betalning och återbetalning av vägavgift för utländska fordon
+
+#### 11 §
+
+Vägavgift för ett utländskt fordon ska betalas till Skatteverket. Skatteverket får bestämma att avgiften i stället ska betalas till en viss juridisk person. Skatteverket ska därvid beakta för Sverige bindande internationella åtaganden om vägavgifter.
+
+Om en betalning av vägavgift görs till en sådan juridisk person som avses i första stycket eller dennes ombud, ska en anmälan till Skatteverket anses ha gjorts och ett beslut om avgift ska anses ha fattats av Skatteverket i enlighet med anmälan.
+
+*Förordning (2008:760)*.
+
+#### 12 §
+
+Om Skatteverket bestämt att betalning ska göras till en viss juridisk person, får den juridiska personen, för att kunna genomföra sitt uppdrag, behandla personuppgifter hänförliga till sådan betalning i den omfattning som överenskommits med Skatteverket. Skatteverket är personuppgiftsansvarigt för den behandling av personuppgifter som en sådan juridisk person genomför inom ramen för överenskommelsen. Den juridiska personen utgör då personuppgiftsbiträde. *Förordning (2008:760)*.
+
+#### 13 §
+
+Ett beslut om återbetalning enligt 22 § lagen (1997:1137) om vägavgift för vissa tunga fordon får verkställas av en sådan juridisk person som avses i 11 §. *Förordning (2008:760)*.
+
+#### 13 a §
+
+Skatteverket ska efter ansökan besluta om återbetalning av sådan vägavgift som avses i 2 a § och som har betalats i ett annat land. Avgiften betalas tillbaka med ett belopp som motsvarar avgiften för antalet återstående dagar för vilka avgift har betalats, räknat från och med dagen efter den dag ansökan kom in.
+
+Från det belopp som ska återbetalas dras en avgift på 25 euro.
+
+Ett beslut om återbetalning får verkställas av en sådan juridisk person som avses i 11 §. *Förordning (2025:1069)*.
+
+#### 13 b §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 13 a § får dock inte överklagas.
+
+*Förordning (2025:1069)*.
+
+#### 14 §
+
+Skatteverket får meddela sådana ytterligare föreskrifter som behövs för att ta ut vägavgift för ett utländskt fordon eller betala tillbaka en sådan avgift. *Förordning (2008:760)*.
+
+### Ytterligare bestämmelser om fullgörande av ett internationellt åtagande
+
+#### 15 §
+
+Transportstyrelsen och Skatteverket ska lämna ut uppgift om huruvida vägavgift har betalats i Sverige för svenska eller utländska fordon när det är nödvändigt för att fullgöra ett sådant internationellt åtagande om vägavgifter som är bindande för Sverige. *Förordning (2008:1186)*.
+
+#### 16 §
+
+En juridisk person som avses i 12 § får även behandla personuppgifter hänförliga till betalning av vägavgift för svenska fordon om det är nödvändigt för att fullgöra ett sådant internationellt åtagande om vägavgifter som är bindande för Sverige. Skatteverket är personuppgiftsansvarigt för den behandling av personuppgifter som en sådan juridisk person genomför inom ramen för överenskommelsen. Den juridiska personen utgör då personuppgiftsbiträde. *Förordning (2008:760)*.
+
+#### 17 §
+
+Har upphävts genom *förordning (2008:760)*.
+
+#### 18 §
+
+Har upphävts genom *förordning (2008:760)*.
+
+#### 19 §
+
+Har upphävts genom *förordning (2008:760)*.
+
+#### 20 §
+
+Har upphävts genom *förordning (2008:760)*.
+
+## Övergångsbestämmelser
+
+**2003:992**
+
+Denna förordning träder i kraft den 1 januari 2004.
+
+Skatteverkets rätt enligt 19 § att återkalla medgivande enligt 12 § första stycket gäller även om försäljare brutit mot föreskrifter som har utfärdats av Skattemyndigheten i Örebro.
+
+**2008:760**
+
+1. Denna förordning träder i kraft den 1 oktober 2008.
+
+2. Äldre bestämmelser gäller fortfarande för förhållanden som hänför sig till tiden före ikraftträdandet.
+
+3. En juridisk person som avses i 12 § får även behandla personuppgifter avseende betalning av vägavgift som gjorts före ikraftträdandet, om betalningen till någon del avser tid efter ikraftträdandet.

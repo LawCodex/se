@@ -1,0 +1,67 @@
+---
+title: "Förordning (1998:8) om röjningsbidrag till äppel- och päronodlare"
+identifier: "SFS 1998:8"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-01-08
+amended_through: "SFS 2018:973"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-8.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:8"
+retrieved: 2026-10-11
+---
+# Förordning (1998:8) om röjningsbidrag till äppel- och päronodlare
+
+## 1 §
+
+Denna förordning rör tillämpningen av rådets förordning (EG) nr 2200/97 av den 30 oktober 1997 om sanering av gemenskapsproduktionen av äpplen, päron, persikor och nektariner.
+
+## 2 §
+
+Frågor om röjningsbidrag enligt denna förordning prövas av länsstyrelsen.
+
+Beslut eller underrättelse om beslut om bidrag skall innehålla en upplysning om innehållet i 3 §.
+
+Bidraget betalas ut av Statens jordbruksverk.
+
+## 3 §
+
+Före utbetalning av bidrag som länsstyrelsen beslutat om, skall Jordbruksverket kontrollera att utbetalningen är förenlig med gemenskapsreglerna.
+
+Om Jordbruksverket finner att en utbetalning skulle strida mot gemenskapsreglerna, skall verket besluta att inte betala ut bidraget och sända tillbaka ärendet till länsstyrelsen.
+
+Jordbruksverkets beslut innebär att länsstyrelsens beslut förfaller.
+
+## 4 §
+
+Belopp som bidragsmottagaren inte är berättigad till skall betalas tillbaka. Om det anses oskäligt att återkräva hela beloppet skall detta sättas ned.
+
+Om ett beslut om bidrag har meddelats på grund av oriktig eller vilseledande uppgift av bidragsmottagaren eller om denne har brutit mot villkor eller åtaganden som gäller för bidraget, har länsstyrelsen rätt att omedelbart häva beslutet och kräva tillbaka beloppet inom 15 år från det att beloppet betalades ut.
+
+Därutöver följer av kommissionens förordning (EG) nr 2467/97 av den 11 december 1997 om tillämpningsföreskrifter till rådets förordning (EG) nr 2200/97 om sanering av gemenskapens produktion av äpplen, päron, persikor och nektariner2 att den som inte fullföljer de åtaganden som gäller för röjningsbidraget skall betala en avgift motsvarande bidraget.
+
+## 5 §
+
+Länsstyrelsens beslut om bidrag får överklagas till Jordbruksverket.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:973)*.
+
+## 6 §
+
+Föreskrifter i övrigt till komplettering och för verkställighet av rådets förordning (EG) nr 2200/97 meddelas av Jordbruksverket.
+
+## 7 §
+
+Länsstyrelsen kontrollerar att
+
+1. uppgifter som läggs till grund för röjningsbidrag stämmer överens med de faktiska förhållandena,
+
+2. villkoren för bidraget uppfylls.
+
+Om inte annat följer av denna förordning, gäller för röjningsbidrag bestämmelser om behörig myndighet, uppgiftsskyldighet, tillsyn och kontroll, ränta och verkställighet av beslut som finns i förordningen (1999:1148) om EG:s förordningar om jordbruksprodukter.
+
+*Förordning (2000:104)*.

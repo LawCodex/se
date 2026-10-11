@@ -1,0 +1,36 @@
+---
+title: "Förordning (1995:559) om stipendium efter genomfört basår inom kommunal vuxenutbildning"
+identifier: "SFS 1995:559"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1995-05-18
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-559.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:559"
+retrieved: 2026-10-11
+---
+# Förordning (1995:559) om stipendium efter genomfört basår inom kommunal vuxenutbildning
+
+Ett stipendium på 10 000 kronor lämnas till den som
+
+1. under läsåret 1995/96 eller läsåret 1996/97 genomför ett sådant basår inom kommunal vuxenutbildning eller vid statens skolor för vuxna för vilket särskilt statsbidrag respektive extra medel betalas, och
+
+2. senast den 1 november 1996 respektive den 1 november 1997 uppnår godkänt resultat.
+
+I fråga om den som genomför basåret under läsåret 1996/97 lämnas stipendiet endast i den mån riksdagen anslår medel för ändamålet.
+
+*Förordning (1996:842)*.
+
+## 2 §
+
+Centrala studiestödsnämnden beslutar om utbetalningen av stipendiet efter ansökan av den studerande. Beslutet får inte överklagas. För att nämnden skall besluta om utbetalning måste ansökan om stipendium ha kommit in till nämnden senast den 1 december 1996 respektive den 1 december 1997.
+
+Bestämmelserna om omprövning i 9 kap. 2 § studiestödsförordningen (1973:418) skall tillämpas på beslut enligt denna förordning.
+
+*Förordning (1996:842)*.
+
+## 3 §
+
+Centrala studiestödsnämnden får utfärda de ytterligare föreskrifter som behövs för tillämpningen av denna förordning.

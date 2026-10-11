@@ -1,0 +1,56 @@
+---
+title: "Förordning (1983:582) om statsbidrag till studie- och yrkesorientering i gymnasieskolan budgetåret 1983/84"
+identifier: "SFS 1983:582"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1983-06-09
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1983-582.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1983:582"
+retrieved: 2026-10-11
+---
+# Förordning (1983:582) om statsbidrag till studie- och yrkesorientering i gymnasieskolan budgetåret 1983/84
+
+## 1 §
+
+För budgetåret 1983/84 har kommunerna rätt att få statsbidrag för studie- och yrkesorientering (syo) i gymnasieskolan enligt föreskrifterna i denna förordning.
+
+Med kommun avses i förordningen även landstingskommuner och kommunalförbund.
+
+## 2 §
+
+Statsbidraget beräknas med hänsyn till antalet elever i kommunens gymnasieskola den 15 september 1983. Elever i högre specialkurser och gymnasial lärlingsutbildning medräknas dock inte.
+
+## 3 §
+
+I statsbidraget ingår bidrag till socialavgifter och pensionskostnader motsvarande vad som för statligt reglerade tjänster beräknas för reducerat lönekostnadspålägg.
+
+## 4 §
+
+Som villkor för statsbidrag gäller att kommunen för syo i gymnasieskolan gör insatser som i förhållande till antalet elever når åtminstone samma nivå som den statsbidragstäckta verksamheten budgetåret 1981/82.
+
+## 5 §
+
+Statsbidrag rekvireras hos skolöverstyrelsen.
+
+## 6 §
+
+Kommunerna får för varje kvartal rekvirera statsbidrag motsvarande det delbelopp per elev som hänför sig till kvartalet. Om inte regeringen föreskriver annat skall delbeloppet beräknas till 42 kronor.
+
+## 7 §
+
+Skolöverstyrelsen beslutar om bidrag och betalar ut detta snarast.
+
+Utbetalning får dock ske tidigast i oktober för kvartalet juli-- september, i januari för kvartalet oktober--december, i april för kvartalet januari--mars och i juli för kvartalet april--juni.
+
+## 8 §
+
+Statsbidrag som lämnas till landstingskommuner eller till kommunalförbund i vilka en landstingskommun ingår och som grundas på antalet elever i utbildning inom vårdområdet skall minskas med 20 procent enligt föreskrifterna i förordningen (1981:449) om minskning av vissa statsbidrag till kommunal utbildning.
+
+Statsbidrag i övrigt skall minskas med två procent enligt föreskrifterna i nämnda förordning.
+
+## 9 §
+
+Skolöverstyrelsen meddelar de närmare föreskrifter som behövs för verkställigheten av denna förordning.

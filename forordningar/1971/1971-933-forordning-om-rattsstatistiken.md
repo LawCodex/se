@@ -1,0 +1,65 @@
+---
+title: "Förordning (1971:933) om rättsstatistiken"
+identifier: "SFS 1971:933"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1971-12-03
+amended_through: "SFS 2022:826"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1971-933.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1971:933"
+retrieved: 2026-10-11
+---
+# Förordning (1971:933) om rättsstatistiken
+
+### 1 §
+
+Uppgifter till rättsstatistiken ska utöver vad som följer av 4 § lämnas enligt följande.
+
+```
+Uppgifter lämnas av             Föreskrifter meddelas av
+1. Tingsrätterna,               Domstolsverket
+```
+
+hovrätterna, Högsta domstolen, Rättshjälpsmyndigheten, Rättshjälpsnämnden, Transportstyrelsen
+
+```
+2. Allmänna åklagarna           Åklagarmyndigheten
+3. Kriminalvården               Kriminalvården
+4. Polismyndigheten             Polismyndigheten
+5. Tullverket                   Tullverket
+```
+
+*Förordning (2022:826)*.
+
+### 2 §
+
+Domstolsverket, Åklagarmyndigheten, Kriminalvården, Polismyndigheten och Tullverket får, efter att ha gett Brottsförebyggande rådet tillfälle att yttra sig, meddela föreskrifter om formulär och anvisningar för uppgiftsskyldighetens fullgörande.
+
+Uppgifter ska lämnas till den myndighet som anges i anvisningarna. *Förordning (2022:826)*.
+
+### 3 §
+
+De närmare uppgifter som behövs om inteckningar och inskrivningar av nyttjanderätt, servitut och rätt till elektrisk kraft skall hämtas ur de exemplar av dagböckerna över ifrågavarande ärenden som sänts till Riksarkivet.
+
+Första stycket gäller icke uppgifter om inteckningar och inskrivningar som förts in i inskrivningsregister. *Förordning (1975:1123)*.
+
+### 4 §
+
+Om uppgifter till rättsstatistiken finns särskilda bestämmelser i förordningen (1970:517) om rättsväsendets informationssystem, strafföreläggandekungörelsen (1970:60) och ordningsbotskungörelsen (1968:199). *Förordning (2022:826)*.
+
+### 5 §
+
+Om Brottsförebyggande rådet misstänker att en uppgift som har lämnats till rättsstatistiken är oriktig eller ofullständig, ska myndigheten anmäla misstanken till den myndighet som har lämnat uppgiften. *Förordning (2022:826)*.
+
+## Övergångsbestämmelser
+
+**1971:933**
+
+Denna kungörelse träder i kraft den 1 januari 1972, då kungörelsen (1948:710) angående rättsstatistiken och kungörelsen (1951:82) angående viss begränsning av rättsstatistiken skall upphöra att gälla.
+
+**1981:1014**
+
+Denna förordning träder i kraft den 1 januari 1982. I mål eller ärende som handläggs av överexekutor efter ikraftträdandet gäller 1 § i dess äldre lydelse.

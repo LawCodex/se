@@ -1,0 +1,53 @@
+---
+title: "Förordning (1983:490) om skyldighet för domstol att lämna uppgifter beträffande äktenskapsskillnader m.m."
+identifier: "SFS 1983:490"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1983-06-02
+amended_through: "SFS 2022:960"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1983-490.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1983:490"
+retrieved: 2026-10-11
+---
+# Förordning (1983:490) om skyldighet för domstol att lämna uppgifter beträffande äktenskapsskillnader m.m.
+
+### 1 §
+
+Sådan underrättelse som avses i 14 kap. 6 § andra meningen äktenskapsbalken skall innehålla uppgift om
+
+1. när betänketiden har börjat,
+
+2. när yrkande om dom på äktenskapsskillnad tidigast kan framställas och
+
+3. när frågan om äktenskapsskillnad faller om något yrkande om dom inte har framställts. *Förordning (1987:1020)*.
+
+### 2 §
+
+Har betänketid börjat löpa i mål om äktenskapsskillnad mellan makar som gemensamt har vårdnaden om eget barn, skall domstolen även lämna makarna upplysning om innehållet i 6 kap. 3 § andra stycket första meningen föräldrabalken.
+
+### 3 §
+
+Innan domstolen avgör ett mål om äktenskapsskillnad mellan makar som gemensamt har vårdnaden om eget barn skall domstolen, om inte någon av makarna har begärt upplösning av den gemensamma vårdnaden, underrätta socialnämnden i den kommun där barnet är folkbokfört om att upplösning av den gemensamma vårdnaden inte har begärts i målet. *Förordning (1991:786)*.
+
+### 3 a §
+
+När en domstol har avgjort ett mål genom vilket ett äktenskap har upplösts eller en vigsel förklarats ogiltig och avgörandet har fått laga kraft, ska domstolen genast sända en underrättelse till Skatteverket om avgörandet och om när det fick laga kraft.
+
+En motsvarande underrättelse ska sändas i fråga om ett beslut som har fått laga kraft och som avser ett utländskt avgörande om upplösning av ett äktenskap när beslutet har meddelats i ett förfarande enligt
+
+1. 3 kap. 8 § första stycket lagen (1904:26 s. 1) om vissa internationella rättsförhållanden rörande äktenskap och förmynderskap, eller
+
+2. artikel 30.3 eller artikel 40 i rådets förordning (EU) 2019/1111 av den 25 juni 2019 om behörighet, erkännande och verkställighet av avgöranden i äktenskapsmål och mål om föräldraansvar, och om internationella bortföranden av barn (Bryssel II-förordningen). *Förordning (2022:960)*.
+
+### 4 §
+
+Bestämmelser om skyldighet för domstol att lämna uppgifter till äktenskapsregistret finns i förordningen (1987:1022) om äktenskapsregistret. *Förordning (1987:1020)*.
+
+## Övergångsbestämmelser
+
+**1987:1020**
+
+Denna förordning träder i kraft den 1 januari 1988. Om talan om äktenskapsskillnad har väckts före ikraftträdandet, gäller dock 1 § i sin äldre lydelse.

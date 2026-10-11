@@ -1,0 +1,63 @@
+---
+title: "Förordning (1999:710) om valutakurs vid stöd från EU-budgeten"
+identifier: "SFS 1999:710"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1999-07-01
+amended_through: "SFS 2024:1334"
+department: "Finansdepartementet BA EU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-710.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:710"
+retrieved: 2026-10-11
+---
+# Förordning (1999:710) om valutakurs vid stöd från EU-budgeten
+
+### 1 §
+
+Denna förordning gäller för myndigheter som fattar beslut om eller utbetalar stöd som redovisas mot anslag i statens budget från
+
+1. Europeiska regionala utvecklingsfonden,
+
+2. Europeiska jordbruksfonden för landsbygdsutveckling,
+
+3. Europeiska socialfonden,
+
+4. Europeiska socialfonden+,
+
+5. Europeiska havs- och fiskerifonden,
+
+6. Europeiska havs-, fiskeri- och vattenbruksfonden, och
+
+7. Fonden för en rättvis omställning.
+
+*Förordning (2022:268)*.
+
+### 2 §
+
+En myndighet ska använda kursen 10,50 kronor per euro vid beräkning av finansiella ramar för ett program eller en del i en åtgärd som EU finansierar. *Förordning (2024:1334)*.
+
+### 3 §
+
+I stället för vad som anges i 2 § ska
+
+1. kursen 10 kronor per euro användas för programperioden 2014-2020 för medel från
+
+a) Europeiska socialfonden, med undantag för stöd för lokalt ledd utveckling,
+
+b) Europeiska regionala utvecklingsfonden, med undantag för stöd för lokalt ledd utveckling, och
+
+c) Europeiska jordbruksfonden för landsbygdsutveckling, och
+
+2. kursen 9,30 kronor per euro användas för medel från Europeiska havs- och fiskerifonden.
+
+*Förordning (2024:1334)*.
+
+## Övergångsbestämmelser
+
+**2014:200**
+
+1. Denna förordning träder i kraft den 1 maj 2014.
+
+2. För programperioden 2007-2013 gäller 2 § i den äldre lydelsen.

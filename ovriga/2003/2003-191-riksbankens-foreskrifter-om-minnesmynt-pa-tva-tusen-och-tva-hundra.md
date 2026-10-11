@@ -1,0 +1,52 @@
+---
+title: "Riksbankens föreskrifter (2003:191) om minnesmynt på två tusen och två hundra kronor"
+identifier: "SFS 2003:191"
+type: other
+jurisdiction: se
+language: sv
+date: 2003-04-29
+department: "Riksbanken"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-191.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:191"
+retrieved: 2026-10-11
+---
+# Riksbankens föreskrifter (2003:191) om minnesmynt på två tusen och två hundra kronor
+
+Fullmäktige i Riksbanken föreskriver med stöd av 5 kap. 1 § lagen (1988:1385) om Sveriges riksbank att minnesmynt på två tusen och två hundra kronor skall ha följande storlek, beskaffenhet och utseende.
+
+## 1 §
+
+Med anledning av 700-årsminnet av den heliga Birgittas födelse skall minnesmynt med nominella värden om två tusen och två hundra kronor ges ut.
+
+## 2 §
+
+Minnesmyntet med ett nominellt värde av två tusen kronor skall tillverkas av en legering som består av 900 tusendelar guld, 50 tusendelar silver och 50 tusendelar koppar samt ha en vikt av 12 gram och en diameter av 26 mm. Avvikelsen från den nominella vikten får vid uppvägning av etthundra mynt vara högst 12 gram.
+
+## 3 §
+
+Minnesmyntet med ett nominellt värde av två tusen kronor skall ha följande prägel.
+
+På framsidan den heliga Birgitta med omskriften "* 1303 .
+
+BIRGITTA . 2003". Därunder konstnärens signatur "EN".
+
+På frånsidan avbildas den heliga Birgittas initialbokstav B i gotisk stil med omskriften medsols "GAUDE BIRGITTA FILIA CANTICUM TIBI DEBETUR GLORIE". Under B "2000", "KRONOR", "SVERIGE". Till vänster om B finns bokstaven "E" som anger myntningsorten och till höger "H" som är begynnelsebokstaven i riksbankschefens efternamn.
+
+Randen skall vara slät.
+
+## 4 §
+
+Minnesmyntet med ett nominellt värde av två hundra kronor skall tillverkas av en legering som består av 925 tusendelar silver och 75 tusendelar koppar samt ha en vikt av 27,03 gram och en diameter av 36 mm. Avvikelsen från den nominella vikten får vid uppvägning av etthundra mynt vara högst 27 gram.
+
+## 5 §
+
+Minnesmyntet med ett nominellt värde av två hundra kronor skall ha följande prägel.
+
+På framsidan den heliga Birgitta med omskriften "* 1303 .
+
+BIRGITTA . 2003". Därunder konstnärens signatur "EN".
+
+På frånsidan avbildas Birgittakronan med de 5 punkterna, krönt med ett kors. Omskrift medsols "GAUDE BIRGITTA FILIA CANTICUM TIBI DEBETUR GLORIE". Under Birgittakronan "200", "KRONOR", "SVERIGE". Till vänster om Birgittakronan finns bokstaven "E" som anger myntningsorten och till höger "H" som är begynnelsebokstaven i riksbankschefens efternamn.
+
+Randen skall vara slät.

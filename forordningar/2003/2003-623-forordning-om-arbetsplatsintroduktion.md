@@ -1,0 +1,59 @@
+---
+title: "Förordning (2003:623) om arbetsplatsintroduktion"
+identifier: "SFS 2003:623"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2003-10-23
+amended_through: "SFS 2007:927"
+department: "Arbetsmarknadsdepartementet AA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-623.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:623"
+retrieved: 2026-10-11
+---
+# Förordning (2003:623) om arbetsplatsintroduktion
+
+## 1 §
+
+Denna förordning innehåller bestämmelser om arbetsplatsintroduktion. *Förordning (2006:1558)*.
+
+## 2 §
+
+Med arbetsplatsintroduktion avses att en specialutbildad arbetsförmedlare fungerar som stödperson åt en arbetssökande utan erfarenhet av svenskt arbetsliv eller med begränsad sådan erfarenhet inför anställning, i inledningsskedet av en anställning eller under arbetspraktik som föregår en anställning.
+
+Arbetsförmedlingen utser den specialutbildade arbetsförmedlaren. *Förordning (2007:927)*.
+
+## 3 §
+
+Arbetsplatsintroduktion får erbjudas en arbetssökande utan erfarenhet av svenskt arbetsliv eller med begränsad sådan erfarenhet och som är minst 20 år och
+
+- deltar eller har deltagit i av kommunen anordnat introduktionsprogram som avses i 11 § förordningen (1990:927) om statlig ersättning för flyktingmottagande m.m., eller
+
+- är eller riskerar att bli långtidsinskriven som arbetssökande vid den offentliga arbetsförmedlingen. *Förordning (2007:179)*.
+
+## 4 §
+
+Arbetsplatsintroduktion skall vara arbetsmarknadspolitiskt motiverad. Det betyder att insatsen skall lämnas endast om det är lämpligt både för den enskilde och ur ett övergripande arbetsmarknadspolitiskt perspektiv. *Förordning (2007:179)*.
+
+## 5 §
+
+Arbetsplatsintroduktion får lämnas under högst sex månader.
+
+Om det finns särskilda skäl får dock insatsen lämnas under längre tid. I sådant fall skall det anges vad de särskilda skälen består i. Dokumentation skall ske av den information som ligger till grund för beslutet. *Förordning (2007:179)*.
+
+## 6 §
+
+Arbetsförmedlingen får meddela de närmare föreskrifter som behövs för verkställigheten av denna förordning.
+
+*Förordning (2007:927)*.
+
+## 7 §
+
+Arbetsförmedlingens beslut enligt denna förordning ska omprövas hos myndighetens centrala enhet för omprövning, om det begärs av den som beslutet angår.
+
+En begäran om omprövning ska ske skriftligt. Skrivelsen ska ges in till Arbetsförmedlingen och ska ha kommit in dit inom tre veckor från den dag då den som begär omprövning fick del av beslutet. *Förordning (2007:927)*.
+
+## 8 §
+
+Arbetsförmedlingens beslut enligt denna förordning får inte överklagas. *Förordning (2007:927)*.

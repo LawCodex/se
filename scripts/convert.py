@@ -154,11 +154,18 @@ def convert_body(h):
 
     def pre(m):
         txt = html.unescape(strip_tags(re.sub(r"<br\s*/?>", "\n", m.group(1))))
-        txt = txt.replace("\r", "").strip("\n")
+        txt = txt.replace("\r", "").expandtabs(8).strip("\n")
         if not txt.strip():
             return "\n\n"
         return stash("```\n" + txt.replace("```", "``​`") + "\n```")
 
+    # Riksdagen emits tabular text as one <pre> per row, sometimes with a stray
+    # wrapped row in between: merge such runs into a single preformatted block.
+    def joinpre(m):
+        mid = m.group(1).strip()
+        return "\n" + (mid + "\n" if mid else "")
+
+    h = re.sub(r"</pre>([^<]{0,300}?)<pre[^>]*>", joinpre, h, flags=re.I)
     h = re.sub(r"<pre[^>]*>(.*?)</pre>", pre, h, flags=re.S | re.I)
 
     def heading(level):

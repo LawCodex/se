@@ -1,0 +1,624 @@
+---
+title: "Förordning (1992:1303) om krigsmateriel"
+identifier: "SFS 1992:1303"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1992-12-10
+amended_through: "SFS 2026:1481"
+reprinted: "SFS 1997:690"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-1303.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:1303"
+retrieved: 2026-10-11
+---
+# Förordning (1992:1303) om krigsmateriel
+
+> Bilagan är inte med här. Bilagan senast ändrad genom SFS 2026:1251.
+
+### Tillämpningsområde och definitioner
+
+#### 1 §
+
+Lagen (1992:1300) om krigsmateriel tillämpas på sådan materiel och sådant tekniskt bistånd som anges i bilagan till denna förordning. Materielen delas in i krigsmateriel för strid och övrig krigsmateriel. *Förordning (2011:850)*.
+
+#### 1 a §
+
+Termer och uttryck som används i lagen (1992:1300) om krigsmateriel har samma betydelse i denna förordning.
+
+*Förordning (2011:850)*.
+
+#### 2 §
+
+Med handeldvapen avses i denna förordning sådana pistoler, revolvrar, gevär, karbiner och kulsprutepistoler som kan tas med som personlig beväpning och användas utan lavett eller benstöd. *Förordning (1997:690)*.
+
+### Generellt tillstånd
+
+#### 2 a §
+
+Ett generellt tillstånd får användas om
+
+1. mottagaren är en del av en försvarsmakt i ett land inom Europeiska ekonomiska samarbetsområdet (EES) eller en avtalsslutande myndighet på försvarsområdet som köper för exklusiv användning av en försvarsmakt i ett EES-land,
+
+2. mottagaren är ett företag som certifierats i enlighet med Europaparlamentets och rådets direktiv 2009/43/EG av den 6 maj 2009 om förenkling av villkoren för överföring av försvarsrelaterade produkter inom gemenskapen,
+
+3. utförseln av krigsmateriel ur landet eller lämnandet av tekniskt bistånd utanför landet till ett annat EES-land sker för demonstrations-, utvärderings- och utställningssyften,
+
+4. utförseln av krigsmateriel ur landet eller lämnandet av tekniskt bistånd utanför landet till ett annat EES-land sker för underhålls- och reparationssyften, om mottagaren är den ursprungliga leverantören av krigsmaterielen eller det tekniska biståndet, eller
+
+5. utförseln av krigsmateriel eller lämnandet av tekniskt bistånd utanför landet till ett annat EES-land sker efter underhåll, reparation eller demonstration i Sverige, om mottagaren
+
+- är en leverantör som med stöd av ett överföringstillstånd har fört in materielen eller det tekniska biståndet i Sverige, eller
+
+- med stöd av ett överföringstillstånd har rätt att ta emot materielen eller det tekniska biståndet. *Förordning (2018:137)*.
+
+#### 2 b §
+
+Inspektionen för strategiska produkter får meddela ytterligare föreskrifter om generellt tillstånd.
+
+*Förordning (2011:850)*.
+
+### Globalt tillstånd
+
+#### 2 c §
+
+Ett globalt tillstånd gäller i tre år och får därefter förnyas. *Förordning (2011:850)*.
+
+### Individuellt tillstånd
+
+#### 2 d §
+
+Ett individuellt tillstånd ska beviljas om
+
+1. ansökan avser endast en utförsel av krigsmateriel ur landet eller ett lämnande av tekniskt bistånd utanför landet,
+
+2. det är nödvändigt för att skydda Sveriges väsentliga säkerhetsintressen eller för att skydda den allmänna ordningen i landet,
+
+3. det är nödvändigt för att följa Sveriges internationella skyldigheter och åtaganden, eller
+
+4. det finns särskilda skäl att anta att leverantören inte kan följa de villkor som är nödvändiga för att ett globalt tillstånd ska beviljas. *Förordning (2011:850)*.
+
+### Förutsättningar för tillstånd som avser vissa skjutvapen
+
+#### 2 e §
+
+Tillstånd enligt lagen (1992:1300) om krigsmateriel som endast avser handeldvapen som inte är helautomatiska, delar till sådana vapen eller ljuddämpare, vapenmagasin och ammunition till sådana vapen får lämnas även om det inte finns säkerhets- eller försvarspolitiska skäl för det, under förutsättning att det inte finns säkerhets- eller försvarspolitiska skäl mot det och det inte strider mot Sveriges internationella förpliktelser eller Sveriges utrikespolitik i övrigt. *Förordning (2026:1251)*.
+
+### Undantag från krav på tillstånd
+
+#### 3 §
+
+Tillstånd enligt 3 § lagen (1992:1300) om krigsmateriel behövs inte för
+
+1. tillverkning av handeldvapen som inte är helautomatiska eller särskilt utformade för militär användning eller delar till sådana vapen,
+
+2. laddning av ammunition för eget bruk för den som enligt vapenlagen (2026:408) har rätt att inneha ett skjutvapen för ändamålet jakt eller målskytte,
+
+3. årlig tillverkning av högst 100 gram kemiska produkter som klassificeras som krigsmateriel och som behövs för medicinska eller farmaceutiska ändamål eller för forskningsändamål,
+
+4. tillverkning av sådana komponenter som avses i bilagan avsnitt E som endast sker på uppdrag av den som har tillstånd enligt 3 § lagen om krigsmateriel för sådan tillverkning, eller
+
+5. tillverkning av sådana ljuddämpare eller vapenmagasin som en vapentillverkare får inneha enligt vapenlagen.
+
+Bestämmelser om sådan tillverkning som avses i första stycket 1 finns i vapenlagen. *Förordning (2026:1251)*.
+
+#### 4 §
+
+Tillstånd enligt 4 § lagen (1992:1300) om krigsmateriel behövs inte för
+
+1. handel med handeldvapen eller delar till sådana vapen,
+
+2. handel med sådana ljuddämpare, vapenmagasin eller ammunition till handeldvapen som en vapenhandlare får inneha,
+
+3. yrkesmässig förmedling av handeldvapen, delar till handeldvapen eller av ammunition till sådana vapen, eller
+
+4. tillhandahållande som sker endast till följd av sådan tillverkning som avses i 3 § 4.
+
+Bestämmelser om sådan handel eller förmedling som avses i första stycket 1-3 finns i vapenlagen (2026:408) och, vad gäller ammunition, i lagen (2010:1011) om brandfarliga och explosiva varor. *Förordning (2026:1251)*.
+
+#### 4 a §
+
+Tillstånd enligt 6 § första stycket lagen (1992:1300) om krigsmateriel behövs inte när det gäller utförsel av krigsmateriel ur landet eller lämnande av tekniskt bistånd utanför landet till ett annat EES-land, om
+
+1. krigsmaterielen eller det tekniska biståndet redan omfattas av ett överföringstillstånd som har meddelats av ett annat EES-land än Sverige, och
+
+2. materielen eller biståndet endast transiteras genom Sverige.
+
+Tillstånd enligt 6 § första stycket lagen om krigsmateriel behövs inte heller när det gäller utförsel av krigsmateriel ur landet till ett annat EES-land, om den som för ut krigsmaterielen är
+
+1. Polismyndigheten, Säkerhetspolisen, Kustbevakningen, Tullverket eller Kriminalvården och materielen ska användas vid tillfällig tjänstgöring utomlands och därefter återinföras i den utsträckning den inte förbrukas,
+
+2. ett utländskt organ och materielen har förts in till landet för att användas vid tillfällig tjänstgöring enligt lagen (2000:1219) om internationellt tullsamarbete eller Europaparlamentets och rådets förordning (EU) 2019/1896 av den 13 november 2019 om den europeiska gräns- och kustbevakningen och om upphävande av förordningarna (EU) nr 1052/2013 och (EU) 2016/1624,
+
+3. ett utländskt organ och materielen har förts in till landet för att användas vid utförande av uppgifter enligt lagen (2017:496) om internationellt polisiärt samarbete eller vid utbildning i sådana uppgifter, eller
+
+4. ett danskt organ och materielen har förts in till landet enligt överenskommelsen av den 11 maj 2020 mellan Konungariket Sveriges regering och Konungariket Danmarks regering i syfte att möjliggöra danska gränskontroller på tåg över Öresund.
+
+Tillstånd enligt 6 § första stycket lagen om krigsmateriel behövs inte heller när det gäller utförsel av krigsmateriel ur landet eller lämnande av tekniskt bistånd utanför landet till Nato eller en stat som är medlem i den organisationen eller till en stat inom EES, om den som för ut krigsmaterielen eller lämnar det tekniska biståndet är
+
+1. Försvarsmakten, och materielen eller det tekniska biståndet ska användas inom ramen för internationellt militärt samarbete eller internationell krishantering och materielen därefter ska återinföras i den utsträckning den inte förbrukas, eller
+
+2. Nato eller en myndighet i en stat som är medlem i den organisationen eller en stat inom EES, och materielen eller det tekniska biståndet förs ut av Nato eller en myndighet från den stat som har fört in materielen eller det tekniska biståndet till Sverige inom ramen för internationellt militärt samarbete eller internationell krishantering.
+
+*Förordning (2026:1481)*.
+
+### Certifiering
+
+#### 4 b §
+
+Vid prövningen av om en mottagare av krigsmateriel eller tekniskt bistånd här i landet ska certifieras, ska följande kriterier utgöra grund för bedömningen av sökandens tillförlitlighet.
+
+1. Dokumenterad erfarenhet av försvarsverksamhet, där särskild hänsyn tas till sökandens uppgifter om tidigare efterlevnad av exportrestriktioner, domstolsbeslut på området, tillstånd att tillverka och sälja krigsmateriel eller tekniskt bistånd samt anlitande av erfaren ledningspersonal.
+
+2. Relevant industriverksamhet på området för krigsmateriel eller tekniskt bistånd inom EES, särskilt förmåga att integrera system och delsystem.
+
+3. Utnämning av en chefstjänsteman som personligt ansvarig för utförsel.
+
+4. Ett skriftligt åtagande från sökanden, undertecknat av den chefstjänsteman som avses i 3, om att sökanden kommer att vidta alla nödvändiga åtgärder för att garantera att de specifika villkor följs som gäller för slutanvändning och utförsel till ett land utanför EES av mottagen krigsmateriel eller tekniskt bistånd eller komponenter till sådan materiel eller sådant bistånd.
+
+5. Ett skriftligt åtagande från sökanden, undertecknat av den chefstjänsteman som avses i 3, om att sökanden skyndsamt ska lämna detaljerad information som svar på förfrågningar om slutanvändare eller slutanvändning av all krigsmateriel och allt lämnat tekniskt bistånd som sökanden fört ut eller lämnat till ett annat EES-land med stöd av ett tillstånd enligt 6 § första stycket lagen (1992:1300) om krigsmateriel eller mottagit från ett annat EES-land med stöd av ett överföringstillstånd.
+
+6. En beskrivning, kontrasignerad av den chefstjänsteman som avses i 3, av det interna efterlevnadsprogrammet eller av sökandens system för hantering av utförsel. Denna beskrivning ska innehålla detaljer om de organisatoriska, mänskliga och tekniska resurser som avsatts för att hantera utförsel och lämnande, ansvarskedjan hos sökanden, interna revisionsförfaranden, medvetandegörande och personalutbildning, fysiska och tekniska säkerhetsarrangemang, registerföring samt spårbarhet för utförsel och lämnande.
+
+*Förordning (2011:850)*.
+
+#### 4 c §
+
+Ett certifikat ska innehålla
+
+1. uppgift om att det har utfärdats av Inspektionen för strategiska produkter,
+
+2. uppgift om mottagarens namn och adress,
+
+3. försäkran om att mottagaren uppfyller kriterierna i 4 b §, och
+
+4. uppgift om utfärdandedatum och giltighetstid för certifikatet.
+
+Ett certifikat får ha en giltighetstid om maximalt fem år.
+
+*Förordning (2011:850)*.
+
+#### 4 d §
+
+Ett certifikat får förenas med villkor om
+
+1. tillhandahållande av information som är nödvändig för kontroll av att de kriterier som avses i 4 b § är uppfyllda, och
+
+2. återkallelse av certifieringen, slutligt eller för viss tid. *Förordning (2011:850)*.
+
+#### 4 e §
+
+Inspektionen för strategiska produkter ska minst vart tredje år kontrollera att en mottagare som inspektionen certifierat uppfyller kriterierna i 4 b §. Inspektionen ska också kontrollera att mottagaren följer sådana villkor som är förenade med certifikaten med stöd av 4 d §.
+
+Om inspektionen beslutar att återkalla en certifiering enligt 16 § lagen (1992:1300) om krigsmateriel, ska den underrätta Europeiska kommissionen och behöriga myndigheter i övriga EES- länder om sitt beslut.
+
+Om inspektionen meddelar ett sådant beslut som avses i 16 a § i samma lag, ska den underrätta Europeiska kommissionen och behöriga myndigheter i övriga EES-länder om sitt beslut och om skälen för detta. *Förordning (2011:850)*.
+
+### Innehållet i ansökningar
+
+#### 5 §
+
+Ansökan om tillstånd att tillverka krigsmateriel enligt 3 § lagen (1992:1300) om krigsmateriel ska innehålla uppgift om
+
+1. den sökandes namn eller företagsnamn, person- eller organisationsnummer och adress, samt för
+
+- fysiska personer: uppgift om medborgarskap, yrke och hemvist,
+
+- handelsbolag och aktiebolag: uppgift om ägarförhållandena vid ansökningstillfället,
+
+2. det eller de slag av krigsmateriel som den sökande avser att tillverka, och
+
+3. den plats där tillverkningen avses äga rum.
+
+Tillsammans med ansökan ska registreringsbevis ges in, om sådant finns. *Förordning (2018:1813)*.
+
+#### 6 §
+
+En ansökan om tillstånd till verksamhet som avser tillhandahållande av krigsmateriel, uppfinningar som rör krigsmateriel, metoder för framställning av sådan materiel och tekniskt bistånd enligt 4 § lagen (1992:1300) om krigsmateriel ska innehålla uppgift om
+
+1. den sökandes namn eller företagsnamn, person- eller organisationsnummer och adress, samt för
+
+- fysiska personer: uppgift om medborgarskap, yrke och hemvist,
+
+- handelsbolag och aktiebolag: uppgift om ägarförhållandena vid ansökningstillfället,
+
+2. det slag av krigsmateriel, uppfinning som rör krigsmateriel, metoder för framställning av sådan materiel eller tekniskt bistånd som ska omfattas av den sökandes verksamhet, och
+
+3. den eller dem som sökanden avser att företräda.
+
+Tillsammans med ansökan ska registreringsbevis ges in, om sådant finns. *Förordning (2018:1813)*.
+
+#### 7 §
+
+Ansökan om tillstånd att till någon i utlandet tillhandahålla där befintlig krigsmateriel, uppfinningar som rör krigsmateriel eller metoder för framställning av sådan materiel enligt 5 § lagen (1992:1300) om krigsmateriel ska innehålla uppgift om
+
+1. den sökandes namn och, i fråga om fysiska personer, medborgarskap, yrke eller hemvist,
+
+2. materielens, uppfinningens eller metodens art och värde,
+
+3. vem som har gjort materielen, uppfinningen eller metoden tillgänglig i utlandet,
+
+4. köpare eller någon annan mottagare,
+
+5. slutanvändare av tillhandahållen krigsmateriel, och
+
+6. avsedd tidpunkt för tillhandahållandet.
+
+*Förordning (2018:137)*.
+
+#### 8 §
+
+En ansökan om utförsel av krigsmateriel och lämnande av tekniskt bistånd enligt 6 § första stycket lagen (1992:1300) om krigsmateriel ska innehålla uppgift om
+
+l. den sökandes namn och, i fråga om fysiska personer, hemvist,
+
+2. materielens slag, mängd och värde samt det tekniska biståndets slag och värde,
+
+3. köpare, mottagare och slutanvändare,
+
+4. anledningen till utförseln eller lämnandet,
+
+5. begärd giltighetstid för tillståndet och avsedd tidpunkt för utförseln eller lämnandet, och
+
+6. huruvida ansökan avser ett globalt tillstånd eller ett individuellt tillstånd.
+
+Om det krävs tillstånd till införsel av sådana handeldvapen och delar till dem som utgör övrig krigsmateriel och tillhörande ammunition i det land dit vapnet eller föremålen ska föras över, ska ett sådant tillstånd bifogas ansökan. Innefattar utförseln transitering ska, i de fall det krävs, tillstånd från transiteringsländerna bifogas ansökan.
+
+*Förordning (2018:137)*.
+
+### Utförsel av handeldvapen
+
+### Undantag från utförselförbud
+
+#### 9 §
+
+En enskild person får för personligt bruk vid utresa från Sverige utan tillstånd enligt lagen (1992:1300) om krigsmateriel föra med sig handeldvapen och ammunition och ljuddämpare till vapnet, om personen enligt vapenlagen (2026:408) har rätt att inneha vapnet här i landet och vapnet ska återinföras.
+
+En enskild person som har fört in ett skjutvapen och tillhörande ammunition och ljuddämpare till Sverige med stöd av bestämmelserna i 8 kap. 4 eller 5 § vapenlagen får utan tillstånd enligt lagen om krigsmateriel återutföra föremålen från landet.
+
+Ytterligare bestämmelser om utförsel av handeldvapen m.m. finns i vapenlagen. *Förordning (2026:433)*.
+
+### Särskild kontroll vid utförsel av vissa handeldvapen
+
+#### 10 §
+
+Vid prövning av en ansökan om utförsel av sådana handeldvapen och delar till dem som utgör övrig krigsmateriel och tillhörande ammunition, ska tillståndsmyndigheten kontrollera att nödvändigt tillstånd till införsel och transitering finns. *Förordning (2011:571)*.
+
+### Beslut av Polismyndigheten
+
+#### 11 §
+
+Följande gäller om en utförsel inte omfattas av Europaparlamentets och rådets förordning (EU) nr 258/2012 av den 14 mars 2012 om genomförande av artikel 10 i FN:s protokoll om olaglig tillverkning av och handel med eldvapen, delar till eldvapen och ammunition, bifogat till Förenta nationernas konvention mot gränsöverskridande organiserad brottslighet (FN:s protokoll om skjutvapen), och om införande av exporttillstånd, import- och transiteringsåtgärder för skjutvapen, delar till skjutvapen och ammunition. Polismyndigheten prövar frågor om utförsel av sådana handeldvapen och delar till dem inklusive ljuddämpare som utgör övrig krigsmateriel och i förekommande fall tillhörande ammunition, om den sökande är berättigad att inneha vapnet här i landet enligt vapenlagen (2026:408) och
+
+1. vill föra ut vapnet vid flyttning till utlandet,
+
+2. vill föra ut vapnet för användning vid jakt, tävling eller övning utomlands, om vapnet ska återinföras,
+
+3. vill överföra vapnet till en enskild person eller vapenhandlare i ett land som är medlem i OECD,
+
+4. vill föra ut vapnet eller delar av det för reparation, översyn eller någon annan liknande åtgärd, om materielen ska återinföras, eller
+
+5. vill återutföra vapnet eller delar av det efter reparation, översyn eller någon annan liknande åtgärd, om utförseln ska ske till en mottagare i det land som vapnet eller delarna förts in från.
+
+Utförsel av handeldvapen till en enskild person enligt 3 får beviljas endast om den sökande kan visa att mottagaren är berättigad att inneha vapnet i det land dit utförseln ska ske.
+
+Första stycket gäller dock inte om sökandens rätt att inneha vapnet grundas på 3 § lagen (1992:1300) om krigsmateriel.
+
+*Förordning (2026:433)*.
+
+#### 12 §
+
+Frågor om tillstånd i fall som avses i 11 § prövas av Polismyndigheten. *Förordning (2014:1301)*.
+
+#### 13 §
+
+Om tillstånd till utförsel av handeldvapen beviljas enligt 11 § ska Polismyndigheten underrätta behörig myndighet i berörd stat om utförseln, om
+
+1. utförseln ska ske till en stat som har tillträtt den europeiska vapenkonventionen och vapnen inte är avsedda för en statlig myndighet i mottagarlandet,
+
+2. vapnen ska föras ut för en tid som överstiger tre månader, och
+
+3. det inte är fråga om vapen eller vapendelar som anges i 22 kap. 9 § vapenförordningen (2026:409). *Förordning (2026:433)*.
+
+### Föreskrifter av Tullverket
+
+#### 14 §
+
+Tullverket får meddela föreskrifter om utförsel av sådana handeldvapen med tillhörande ammunition och ljuddämpare som
+
+1. har förts in i landet enligt bestämmelserna i 8 kap. 4 eller 5 § vapenlagen (2026:408), och
+
+2. har förts genom landet av en resande i enlighet med bestämmelserna i lagen (1973:980) om transport, förvaring och förstöring av införselreglerade varor, m.m. i anslutning till jakt, tävling eller övning i ett annat land.
+
+*Förordning (2026:433)*.
+
+### Anmälan till Tullverket om utförsel av krigsmateriel
+
+#### 15 §
+
+Utförsel av krigsmateriel som inte omfattas av föreskrifterna i 9, 11 eller 14 § ska anmälas till Tullverket under helgfri måndag-fredag och senast 48 timmar innan utförseln är planerad att genomföras. Den del av tidsfristen som infaller under lördag, söndag eller annan helgdag ska inte räknas in i fristen.
+
+En anmälan enligt första stycket behöver inte göras om ett generellt tillstånd enligt 2 § och 6 § första stycket lagen (1992:1300) om krigsmateriel har meddelats för utförseln.
+
+Tullverket får i enskilda fall medge undantag från första stycket, om det finns särskilda skäl för det.
+
+Tullverket får meddela närmare föreskrifter om anmälningsskyldigheten. *Förordning (2018:137)*.
+
+#### 15 a §
+
+Anmälan enligt 15 § första stycket behöver inte göras, om utförseln enligt vad som anges i utförseltillståndet avser
+
+1. materiel som förs ut för reparation, översyn eller någon annan liknande åtgärd och som ska återinföras,
+
+2. materiel som efter reparation, översyn eller någon annan liknande åtgärd åter förs ut,
+
+3. materiel som förs ut för demonstration, lån eller bearbetning och som ska återinföras, i den utsträckning den inte förbrukas,
+
+4. materiel som efter demonstration, lån eller bearbetning åter förs ut, eller
+
+5. materiel som förs ut efter utbyte eller återsänds efter reklamation eller felleverans eller av något annat liknande skäl.
+
+Anmälan enligt 15 § första stycket behöver inte heller göras, om utförseln omfattas av föreskrifterna i 4 a § andra eller tredje stycket.
+
+Bestämmelserna i 15 § tredje stycket och 15 a § första och andra styckena innebär inget undantag från deklarationsskyldigheten enligt Europaparlamentets och rådets förordning (EU) nr 952/2013 av den 9 oktober 2013 om fastställande av en tullkodex för unionen eller från anmälningsskyldigheten enligt inregränslagen (1996:701).
+
+*Förordning (2024:767)*.
+
+### Marknadsföring
+
+#### 16 §
+
+Sådan redovisning som avses i 11 § lagen (1992:1300) om krigsmateriel ska innehålla uppgift om i vilka länder utanför Sverige det bedrivs marknadsföring, vilka bestämda mottagare marknadsföringen riktar sig till och vilken materiel eller vilket tekniskt bistånd marknadsföringen avser.
+
+Redovisningen ska ges in till Inspektionen för strategiska produkter årligen senast den 31 januari och avse marknadsföringen föregående år. Inspektionen får i det enskilda fallet besluta att redovisningen ska avse en kortare tid och att den ska lämnas vid en annan tidpunkt. Redovisning ska lämnas även om ingen marknadsföring har bedrivits.
+
+*Förordning (2026:1251)*.
+
+### Underrättelse om anbud eller avtal
+
+#### 17 §
+
+Underrättelser som avses i 12 § lagen (1992:1300) om krigsmateriel ska lämnas senast fyra veckor innan anbudet avges eller, där anbudsförfarande inte förekommer, lämnas innan avtalet ingås, om inte Inspektionen för strategiska produkter i det enskilda fallet beslutar om något annat.
+
+Underrättelsen ska innehålla uppgift om
+
+1. namn och hemvist i fråga om anbudstagaren eller den som man avser att ingå avtal med samt slutlig mottagare, och
+
+2. materielens slag, mängd och uppskattade värde samt det tekniska biståndets slag och uppskattade värde.
+
+Inspektionen ska inom fyra veckor från mottagandet av en underrättelse enligt första stycket meddela sökanden om underrättelsen lämnas utan åtgärd. Inspektionens meddelande inskränker inte rätten att meddela förbud enligt 12 § tredje stycket lagen om krigsmateriel. *Förordning (2026:1251)*.
+
+#### 17 a §
+
+Om Inspektionen för strategiska produkter meddelar att en underrättelse enligt 12 § första stycket lagen (1992:1300) om krigsmateriel lämnas utan åtgärd behöver den som har lämnat underrättelsen inte komma in med en ny underrättelse avseende anbud eller, där anbudsförfarande inte förekommer, avtal med väsentligen samma innehåll som den lämnade underrättelsen inom ett år från den dag underrättelsen inkom till inspektionen.
+
+Inspektionen kan i det enskilda fallet besluta om en annan tidsbegränsning än ett år inom vilken en ny underrättelse måste lämnas och att ny underrättelse måste lämnas innan anbud eller, där anbudsförfarande inte förekommer, avtal ingås för det fall att alla uppgifter inte överensstämmer med den tidigare lämnade underrättelsen.
+
+Med väsentligen samma innehåll avses anbud eller avtal som inte överskrider det som angetts i underrättelsen om mängd eller uppskattat värde med mer än tjugo procent.
+
+*Förordning (2026:1251)*.
+
+#### 18 §
+
+En underrättelse enligt 12 § lagen (1992:1300) om krigsmateriel behöver inte lämnas, om anbudet eller avtalet uteslutande avser försäljning, upplåtelse eller förmedling av reservdelar, komponenter, utrustning till krigsmateriel eller tekniskt bistånd med syfte att upprätthålla funktionen, göra översyn eller utföra renovering av krigsmateriel för vilken utförseltillstånd tidigare meddelats till den slutliga mottagare som utförseln avser.
+
+En underrättelse som avses i första stycket behöver inte heller lämnas om ett generellt tillstånd enligt 2 § och 6 § första stycket lagen om krigsmateriel har meddelats för utförseln eller lämnandet av tekniskt bistånd.
+
+*Förordning (2026:1251)*.
+
+### Villkor när det gäller komponenter
+
+#### 19 §
+
+Vid bedömningen av om ett tillstånd till utförsel eller lämnande av komponenter till krigsmateriel eller tekniskt bistånd till ett annat EES-land enligt 6 § första stycket lagen (1992:1300) om krigsmateriel ska förenas med sådana villkor som avses i 14 § samma lag, ska Inspektionen för strategiska produkter eller regeringen beakta hur känslig utförseln eller lämnandet är.
+
+Vid bedömningen av känsligheten ska inspektionen eller regeringen särskilt ta hänsyn till komponenternas beskaffenhet eller betydelse i förhållande till de produkter som de ska ingå i och beskaffenheten i förhållande till varje slutanvändning av de färdiga produkterna som kan väcka farhågor. *Förordning (2011:850)*.
+
+Uppgifts- och deklarationsskyldighet enligt lagen (1992:1300) om krigsmateriel
+
+#### 20 §
+
+Sådana uppgifter om ändring i förhållanden upptagna i en tillståndsansökan som avses i 21 § lagen (1992:1300) om krigsmateriel ska anmälas till Inspektionen för strategiska produkter inom en månad efter det att tillståndshavaren har fått kännedom om att förhållandena ändrats.
+
+Om ändringen innebär att tillverkning eller verksamhet som avser tillhandahållande av krigsmateriel eller tekniskt bistånd har upphört, ska anmälan göras senast den 31 december det kalenderår då verksamheten har upphört.
+
+Om tillståndet avser tillverkning av kemiska produkter, ska ändringar i verksamheten som planeras anmälas till inspektionen senast 210 dagar innan de genomförs.
+
+*Förordning (2011:850)*.
+
+#### 20 a §
+
+Den som för första gången avser att använda ett generellt tillstånd ska senast fyra veckor före den första dagen då tillståndet används underrätta Inspektionen för strategiska produkter om det. *Förordning (2018:137)*.
+
+#### 21 §
+
+En deklaration enligt 19 § första stycket lagen (1992:1300) om krigsmateriel ska avse krigsmateriel och tillståndspliktigt tekniskt bistånd som fakturerats och levererats.
+
+Deklarationen ska innehålla uppgift om krigsmaterielens slag, kvantitet och fakturerade värde eller det tekniska biståndets slag och fakturerade värde.
+
+Deklarationen ska i förekommande fall också innehålla uppgift om
+
+1. det tillstånd till tillhandahållande, utförsel eller lämnande enligt 4-6 §§ lagen om krigsmateriel som leveranserna hänför sig till, och
+
+2. slutligt mottagarland.
+
+För Försvarets materielverk, Försvarsmakten och Totalförsvarets forskningsinstitut gäller den deklarationsskyldighet som avses i första stycket endast krigsmateriel eller tekniskt bistånd som fakturerats och levererats till någon i utlandet. *Förordning (2026:1251)*.
+
+#### 21 a §
+
+En deklaration enligt 19 § första stycket lagen (1992:1300) om krigsmateriel ska också innehålla uppgift om tillverkning som har skett på uppdrag av tillståndshavaren enligt 3 § andra stycket 5 samma lag.
+
+Deklarationen ska innehålla uppgift om namn, organisationsnummer och adress för samtliga uppdragstagare samt krigsmaterielens slag och fakturerade värde. *Förordning (2026:1251)*.
+
+#### 22 §
+
+Deklarationer som avses i 21 och 21 a §§ ska ges in till Inspektionen för strategiska produkter årligen senast den 31 januari och avse verksamheten föregående år.
+
+En tillståndshavare som inte utnyttjat sitt tillstånd under ett helt kalenderår ska anmäla detta till inspektionen senast den 31 januari följande år.
+
+Deklarationer enligt första stycket ska lämnas på en blankett som inspektionen tillhandahåller. Deklarationer ska lämnas även om ingen krigsmateriel eller tillståndspliktigt tekniskt bistånd har fakturerats eller levererats och även om ingen tillverkning har skett på uppdrag av tillståndshavaren.
+
+*Förordning (2026:1251)*.
+
+#### 22 a §
+
+Uppgift enligt 15 a § lagen (1992:1300) om krigsmateriel ska lämnas senast i samband med att materielen eller det tekniska biståndet tas emot.
+
+Den uppgiftsskyldige ska underrätta Inspektionen för strategiska produkter om att skyldigheten enligt första stycket har uppfyllts genom att ge in en kopia av den handling som lämnats till mottagaren. Underrättelsen ska ges in vid den tidpunkt som anges i 22 §. *Förordning (2018:137)*.
+
+#### 23 §
+
+Den som har tillstånd enligt 7 eller 8 § lagen (1992:1300) om krigsmateriel ska lämna uppgift om upplåten rätt att utomlands tillverka krigsmateriel eller tillhandahålla tekniskt bistånd eller om ingånget avtal om samarbete med någon i utlandet.
+
+Uppgifterna ska redovisa vad avtalen avser, om de fortfarande är i kraft, om tillverkning, utveckling eller tillhandahållande enligt något sådant avtal alltjämt förekommer och hur samarbetet bedrivs.
+
+Uppgifterna ska lämnas till Inspektionen för strategiska produkter årligen senast den 31 januari och avse förhållandena den 31 december föregående år. Uppgifter ska lämnas även om sådan rätt som avses i första stycket inte har upplåtits eller om avtal som avses i första stycket inte har ingåtts.
+
+*Förordning (2026:1251)*.
+
+#### 24 §
+
+Den som enligt 17 § lagen (1992:1300) om krigsmateriel är skyldig att lämna uppgift om ägande i utländska rättssubjekt som bedriver utveckling, tillverkning, marknadsföring eller försäljning av krigsmateriel eller som tillhandahåller tekniskt bistånd ska lämna uppgift om
+
+1. det utländska rättssubjektets namn och adress,
+
+2. var det utländska rättssubjektet bedriver sin verksamhet,
+
+3. hur stor del av det utländska rättssubjektet som ägs av det svenska rättssubjektet, och
+
+4. vilken art av verksamhet i fråga om krigsmateriel eller tekniskt bistånd som det utländska rättssubjektet bedriver.
+
+Uppgifterna ska lämnas till Inspektionen för strategiska produkter senast den 31 januari och avse förhållandena den 31 december föregående år. Uppgifter ska lämnas även om tillståndshavaren inte har något ägande i utländska rättssubjekt enligt första stycket. *Förordning (2026:1251)*.
+
+### Deklarationsskyldighet enligt Förenta nationernas konvention om förbud mot kemiska vapen
+
+#### 25 §
+
+En deklaration enligt 19 § lagen (1992:1300) om krigsmateriel skall ges in till Inspektionen för strategiska produkter av den som
+
+l. producerar, bereder, förbrukar, förvärvar, avyttrar eller lagrar ämnen som avses i bilagan avsnitt C, eller
+
+2. under föregående kalenderår producerat, berett, förbrukat, förvärvat, avyttrat eller lagrat sådana ämnen.
+
+Detta gäller även sammansatta kemiska produkter, blandningar, formuleringar eller dylikt som innehåller något av de ämnen som är upptagna i bilagan avsnitt C.
+
+Med att producera avses också att ämnet framställts som en mellanprodukt i en process eller att ämnet uppstått som en samprodukt, biprodukt eller förorening i en process.
+
+Deklarationsskyldigheten enligt första stycket omfattar inte den som årligen tillverkar högst 100 gram av sådana kemiska produkter för medicinska eller farmaceutiska ändamål eller för forskningsändamål. *Förordning (1997:690)*.
+
+#### 26 §
+
+Den som är deklarationsskyldig enligt 25 § skall ge in en deklaration
+
+1. senast den 31 januari årligen och avse verksamheten under det föregående kalenderåret (årlig deklaration),
+
+2. senast den 30 september årligen och avse den verksamhet som planeras för det kommande kalenderåret (planeringsdeklaration),
+
+3. senast 210 dagar innan en ny anläggning påbörjas (inledande deklaration) eller ändringar i förhållande till tidigare ingiven deklaration genomförs. *Förordning (1998:402)*.
+
+#### 27 §
+
+Deklarationer som avses i 26 § ska innehålla uppgifter om
+
+1. företagets eller myndighetens namn, adress och antal anläggningar inom företaget eller myndigheten,
+
+2. varje enskild anläggnings namn, adress, exakta läge och antal produktionsenheter inom anläggningen samt, i förekommande fall annan ägare av eller annat företag som driver anläggningen,
+
+3. varje produktionsenhets exakta läge,
+
+4. detaljerade tekniska beskrivningar av anläggningen, inklusive detaljerade ritningar och förteckningar över utrustning,
+
+5. huvudsaklig verksamhet vid varje anläggning och dess enheter,
+
+6. för varje ämne som finns i avsnitt C i bilagan till denna förordning
+
+a) grunden för deklarationsskyldigheten enligt 25 §,
+
+b) entydigt kemiskt namn på ämnet, CAS-nummer (Chemical Abstracts Service) eller, om sådant saknas, strukturformel samt handelsnamn eller trivialnamn,
+
+c) namnet på den produkt som ämnet ingår i samt halt av ämnet i respektive produkt,
+
+d) den totala mängden i kilogram som vid varje anläggning
+
+- producerats eller syntetiserats eller planeras bli producerad eller syntetiserad, med uppgift om tidsperioder för förväntad produktion,
+
+- beretts eller planeras bli beredd,
+
+- förbrukats eller planeras bli förbrukad,
+
+- lagrats eller planeras bli lagrad, och
+
+e) varje förändring under året eller förväntad förändring vid anläggningen i jämförelse med tidigare ingivna detaljerade tekniska beskrivningar av anläggningen, inklusive detaljerade ritningar och förteckningar över utrustning, samt
+
+f) de ändamål för vilka ämnet producerats, beretts, förbrukats eller lagrats eller kommer att bli producerat, berett, förbrukat eller lagrat för. *Förordning (2018:137)*.
+
+#### 28 §
+
+Årliga deklarationer som avses i 26 § skall för varje ämne som finns i avsnitt C i bilagan till denna förordning också innehålla uppgifter om
+
+1. framställningsmetoder samt namn och mängd av utgångsämnen som använts för produktionen,
+
+2. den totala mängden i kilogram som vid varje anläggning
+
+a) förvärvats, med uppgift om överlåtare,
+
+b) avyttrats eller annars förts över, med uppgift om mottagare, och
+
+3. de ändamål för vilka ämnet förvärvats eller avyttrats.
+
+*Förordning (1998:402)*.
+
+### Avgifter
+
+#### 29 §
+
+Avgift tas ut för prövning av ansökan om tillstånd enligt 11 §.
+
+För avgiftens storlek gäller bestämmelserna i 9-14 §§ avgiftsförordningen (1992:191) varvid avgiftsklass 2 tillämpas.
+
+*Förordning (1993:84)*.
+
+### Sanktionsavgifter
+
+#### 29 a §
+
+Den sanktionsavgift som ska tas ut enligt 31 § lagen (1992:1300) om krigsmateriel ska betalas med
+
+1. 3 000 kronor om den avgiftsskyldige har ett fakturerat värde som inte överstiger 300 000 kronor, och
+
+2. en procent av fakturerat värde, dock högst 1 000 000 kronor, om den avgiftsskyldige har ett fakturerat värde som överstiger 300 000 kronor.
+
+Till grund för beräkningen enligt första stycket används det fakturerade värde som senast lämnats till Inspektionen för strategiska produkter enligt 9 § förordningen (2008:889) om finansiering av verksamheten vid Inspektionen för strategiska produkter. Det fakturerade värdet får uppskattas om uppgifter om fakturerat värde saknas, kan antas vara missvisande eller är bristfälliga. *Förordning (2026:1251)*.
+
+#### 29 b §
+
+Inspektionen för strategiska produkter får meddela närmare föreskrifter om hur sanktionsavgifter ska betalas.
+
+*Förordning (2018:137)*.
+
+### Offentliggörande
+
+#### 30 §
+
+De föreskrifter om generellt tillstånd som Inspektionen för strategiska produkter meddelar med stöd av 2 b § kungörs i Tullverkets författningssamling (TFS).
+
+Inspektionen ska genom kungörelse i Post- och Inrikes Tidningar och på sin webbplats offentliggöra mottagare som certifierats enligt 10 a § lagen (1992:1300) om krigsmateriel.
+
+För detta ändamål ska inspektionen också, antingen genom kungörelse i Post- och Inrikes Tidningar eller på sin webbplats, föra en förteckning över certifierade mottagare.
+
+Förteckningen ska uppdateras så snart det finns behov. När förteckningen uppdateras ska inspektionen underrätta Europeiska kommissionen, Europaparlamentet och behöriga myndigheter i övriga EES-länder om det. *Förordning (2011:850)*.
+
+## Övergångsbestämmelser
+
+**2006:510**
+
+1. Denna förordning träder i kraft den 1 juli 2006.
+
+2. Äldre bestämmelser gäller i fråga om den som vid ikraftträdandet har ett tillstånd enligt 4 § lagen (1992:1300) om krigsmateriel.
+
+**2026:1251**
+
+1. Denna förordning träder i kraft den 1 augusti 2026.
+
+2. Äldre föreskrifter om sanktionsavgift gäller för överträdelser som inträffat före ikraftträdandet, om inte en tillämpning av de nya föreskrifterna leder till befrielse från sanktionsavgift eller till en lägre sanktionsavgift.

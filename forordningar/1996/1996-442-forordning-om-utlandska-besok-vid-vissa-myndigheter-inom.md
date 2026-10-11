@@ -1,0 +1,71 @@
+---
+title: "Förordning (1996:442) om utländska besök vid vissa myndigheter inom Försvarsdepartementets verksamhetsområde"
+identifier: "SFS 1996:442"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1996-05-15
+amended_through: "SFS 2007:1270"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-442.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:442"
+retrieved: 2026-10-11
+---
+# Förordning (1996:442) om utländska besök vid vissa myndigheter inom Försvarsdepartementets verksamhetsområde
+
+## Tillstånd
+
+### 1 §
+
+Försvarsmakten skall skaffa Regeringskansliets tillstånd innan myndigheten anordnar besök av en utlänning vid en krigsstabsplats eller en ledningscentral eller vid ett förband eller en annan enhet under pågående beredskapsuppdrag eller krigsförbandsövning.
+
+Regeringskansliets tillstånd krävs också om en utlänning skall tjänstgöra vid en svensk militär enhet. *Förordning (1996:1522)*.
+
+### 2 §
+
+Försvarsmakten, Försvarets materielverk och Totalförsvarets forskningsinstitut skall skaffa Regeringskansliets tillstånd innan myndigheterna anordnar besök av en utlänning som har en befattning som motsvarar en befattning inom Försvarsmakten som överbefälhavare eller ställföreträdande myndighetschef, högre militär chef i Högkvarteret eller en befattning som motsvarar en befattning som chef för Försvarets materielverk eller Totalförsvarets forskningsinstitut. *Förordning (2005:510)*.
+
+### 3 §
+
+Regeringskansliets tillstånd krävs också om en utlänning ska genomgå
+
+1. taktisk utbildning vid Försvarsmakten,
+
+2. utbildning vid Totalförsvarets forskningsinstitut, eller
+
+3. utbildning med anknytning till totalförsvarsverksamhet vid Försvarshögskolan.
+
+Första stycket gäller inte om utbildningen är reglerad inom ramen för en överenskommelse mellan Sverige och andra stater.
+
+*Förordning (2007:1270)*.
+
+### 3 a §
+
+Anmälan om tillstånd enligt 1-3 §§ skall ges in till Försvarsdepartementet. *Förordning (1996:1522)*
+
+### 4 §
+
+Försvarsmakten, Försvarets materielverk och Totalförsvarets forskningsinstitut skall den 1 april och den 1 oktober varje år till Försvarsdepartementet rapportera besök av utlänningar som anordnats utöver sådana besök som sägs i 1-3 §§. *Förordning (2000:910)*.
+
+## Undantag
+
+### 5 §
+
+Tillstånd enligt 1 och 2 §§ samt rapport enligt 4 § behövs inte om besöket är föranlett av att utlänningen skall
+
+1. förbereda, delta i eller följa upp verksamhet inom ramen för en överenskommelse mellan Sverige och andra stater om samarbete inom totalförsvarets område,
+
+2. förbereda, delta i eller följa upp en affärsförhandling,
+
+3. göra en anmälan eller en uppvaktning eller på något annat sätt medverka i endast protokollära sammanhang, eller
+
+4. delta i ett samkväm eller annan liknande verksamhet.
+
+### 5 a §
+
+Försvarsmakten, Försvarets materielverk och Totalförsvarets forskningsinstitut behöver inte skaffa tillstånd enligt 1 och 2 §§ eller lämna rapport enligt 4 § när de bedriver sådan verksamhet som anges i lagen (2000:130) om försvarsunderrät- telseverksamhet. Försvarsmakten behöver inte heller skaffa ett sådant tillstånd eller lämna en sådan rapport när den bedriver militär säkerhetstjänst. *Förordning (2000:910)*.
+
+### 6 §
+
+Som anordnande av besök enligt denna förordning skall inte anses när myndigheten ger en utlänning tillträde till lokaler, anläggningar, fartyg eller områden som vid tillfället är tillgängliga för allmänheten eller som utlänningen måste komma till för att kunna framställa en begäran om att få ta del av allmänna handlingar.

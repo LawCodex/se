@@ -1,0 +1,73 @@
+---
+title: "Förordning (1992:128) om hovrätternas domkretsar"
+identifier: "SFS 1992:128"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1992-03-19
+amended_through: "SFS 2010:988"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-128.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:128"
+retrieved: 2026-10-11
+---
+# Förordning (1992:128) om hovrätternas domkretsar
+
+### 1 §
+
+Regeringen föreskriver att hovrätterna ska ha de domkretsar som anges i nedanstående förteckning.
+
+```
+Hovrätt                         Län eller kommuner som ingår i
+                                domkretsen
+Svea hovrätt                    Stockholms, Uppsala,
+                                Södermanlands, Gotlands,
+                                Västmanlands och Dalarnas län
+Göta hovrätt                    Östergötlands, Jönköpings,
+                                Kronobergs, Kalmar och Örebro
+                                län samt Essunga, Falköpings,
+                                Grästorps, Gullspångs, Götene,
+                                Hjo, Karlsborgs, Lidköpings,
+                                Mariestads, Skara, Skövde,
+                                Tibro, Tidaholms, Töreboda och
+                                Vara kommuner
+Hovrätten över Skåne och
+Blekinge                        Blekinge och Skåne län
+Hovrätten för Västra Sverige    Hallands och Värmlands län samt
+                                Ale, Alingsås, Bengtsfors,
+                                Bollebygds, Borås, Dals-Eds,
+                                Färgelanda, Göteborgs,
+                                Herrljunga, Härryda, Kungälvs,
+                                Lerums, Lilla Edets, Lysekils,
+                                Marks, Melleruds, Munkedals,
+                                Mölndals, Orusts, Partille,
+                                Sotenäs, Stenungsunds,
+                                Strömstads, Svenljunga, Tanums,
+                                Tjörns, Tranemo, Trollhättans,
+                                Uddevalla, Ulricehamns,
+                                Vårgårda, Vänersborgs, Åmåls
+                                och Öckerö kommuner
+Hovrätten för Nedre Norrland    Gävleborgs, Västernorrlands och
+                                Jämtlands län
+Hovrätten för Övre Norrland     Västerbottens och Norrbottens
+                                län
+```
+
+*Förordning (2010:988)*.
+
+### 2 §
+
+I lagen (2010:921) om mark- och miljödomstolar finns särskilda bestämmelser om överdomstol. *Förordning (2010:988)*.
+
+## Övergångsbestämmelser
+
+**1992:128**
+
+Äldre föreskrifter gäller fortfarande i fråga om överklaganden av sådana avgöranden som har meddelats före ikraftträdandet.
+
+**2010:988**
+
+1. Denna förordning träder i kraft den 2 maj 2011.
+
+2. Äldre föreskrifter gäller fortfarande för överklaganden av sådana avgöranden som har meddelats av fastighetsdomstol.

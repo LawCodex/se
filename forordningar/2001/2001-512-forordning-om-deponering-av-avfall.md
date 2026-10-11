@@ -1,0 +1,506 @@
+---
+title: "Förordning (2001:512) om deponering av avfall"
+identifier: "SFS 2001:512"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2001-06-07
+amended_through: "SFS 2026:1696"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-512.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:512"
+retrieved: 2026-10-11
+---
+# Förordning (2001:512) om deponering av avfall
+
+> Rättelseblad 2001:512 har iakttagits.
+
+#### 1 §
+
+Syftet med denna förordning är att förebygga och minska de negativa effekter deponering av avfall kan orsaka på människors hälsa och på miljön, särskilt när det gäller förorening av ytvatten, grundvatten, mark och luft, och på den globala miljön, under en deponis hela livscykel.
+
+### Definitioner
+
+#### 2 §
+
+I denna förordning avses med
+
+1. aktiv fas: tiden från första tillfället då avfall tas emot vid en deponi till dess deponeringen upphört och aktiva åtgärder för kontroll och utsläppsbegränsning inte längre behövs,
+
+2. biologiskt nedbrytbart avfall: allt avfall som kan brytas ned utan tillgång till syre (anaerobt) eller med tillgång till syre (aerobt),
+
+3. brännbart avfall: avfall som brinner utan energitillskott efter det att förbränningsprocessen har startat,
+
+4. deponigas: gas som genereras från det deponerade avfallet,
+
+5. direktiv 1999/31/EG: rådets direktiv 1999/31/EG av den 26 april 1999 om deponering av avfall, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/850,
+
+6. direktiv 2008/98/EG: Europaparlamentets och rådets direktiv 2008/98/EG av den 19 november 2008 om avfall och om upphävande av vissa direktiv, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/851,
+
+7. driftfas: del av den aktiva fasen som omfattar tiden från första tillfället då avfall tas emot vid en deponi fram till dess att deponin är sluttäckt,
+
+8. efterbehandlingsfas: del av den aktiva fasen som omfattar tiden för aktiva åtgärder för utsläppsbegränsning och kontroll efter driftfasen,
+
+9. flytande avfall: allt avfall i flytande form, inbegripet spillvatten men med undantag för slam,
+
+10. förordning (EU) 2017/852: Europaparlamentets och rådets förordning (EU) 2017/852 av den 17 maj 2017 om kvicksilver och om upphävande av förordning (EG) nr 1102/2008,
+
+11. geologisk barriär: jord- eller berglager med egenskaper som förhindrar, bryter ned, fastlägger eller fördröjer transporten av ämnen och föreningar från en deponi till en mottagare (recipient),
+
+12. inert avfall: avfall som
+
+a) inte genomgår några väsentliga fysikaliska, kemiska eller biologiska förändringar, löses upp, brinner eller reagerar fysikaliskt eller kemiskt på något annat sätt,
+
+b) inte bryts ned biologiskt eller inverkar på andra material som det kommer i kontakt med på ett sätt som kan orsaka skador på miljön eller människors hälsa, och
+
+c) har en total lakbarhet, ett totalt föroreningsinnehåll och en ekotoxicitet hos lakvattnet som är obetydlig och inte äventyrar kvaliteten på yt- eller grundvatten,
+
+13. lakvatten: vätska som efter att ha varit i kontakt med avfallet lämnar en deponi eller som innehålls i en deponi,
+
+14. organiskt avfall: bioavfall, plastavfall och annat avfall som innehåller organiskt kol,
+
+15. sluttäckning: samlande term för en permanent övertäckning som kan bestå av utjämningsskikt, avjämningsskikt, tätskikt, dräneringsskikt och skyddsskikt,
+
+16. underjordsförvar: en permanent anläggning för lagring av avfall i en gruva eller någon annan djup geologisk hålighet.
+
+*Förordning (2026:681)*.
+
+#### 3 §
+
+I övrigt har ord och uttryck i förordningen samma betydelse som i 15 kap. miljöbalken och avfallsförordningen (2020:614). *Förordning (2026:681)*.
+
+#### 3 a §
+
+Har upphävts genom *förordning (2026:681)*.
+
+#### 3 b §
+
+Har upphävts genom *förordning (2026:681)*.
+
+#### 3 c §
+
+Har upphävts genom *förordning (2026:681)*.
+
+#### 3 d §
+
+Har upphävts genom *förordning (2026:681)*.
+
+#### 3 e §
+
+Har upphävts genom *förordning (2026:681)*.
+
+### Tillämpningsområde
+
+#### 4 §
+
+Denna förordning ska inte tillämpas på
+
+1. användning av avfall för gödsel- eller jordförbättringsändamål såsom kompost, rötrest, avloppsslam, slam som kommer från muddringsverksamhet och liknande material,
+
+2. användning av lämpligt inert avfall för byggnadsändamål i deponier, vid restaurering eller för mark-, väg- eller utfyllnadsarbete,
+
+3. deponering av icke-farliga muddringsmassor på land längs små sund, kanaler eller vattenvägar som massorna har muddrats från och icke-farliga rensningsmassor från jordbruk och skogsbruk som läggs på land i anslutning till det vatten som har rensats,
+
+4. avfall som omfattas av förordningen (2013:319) om utvinningsavfall,
+
+5. lagring, slutförvaring och annat omhändertagande av
+
+a) använt kärnbränsle och kärnavfall enligt lagen (1984:3) om kärnteknisk verksamhet, och
+
+b) radioaktivt avfall enligt strålskyddslagen (2018:396), och
+
+6. omhändertagande av djurkadaver i den mån inte annat följer av föreskrifter om omhändertagande av djurkadaver.
+
+Bestämmelser om att denna förordning inte ska tillämpas på vissa icke-förorenade schaktmassor finns i 15 kap. 3 § miljöbalken. *Förordning (2026:681)*.
+
+#### 5 §
+
+Bestämmelserna i 19-23 §§ gäller inte vid underjordsförvar.
+
+*Förordning (2008:724)*.
+
+#### 6 §
+
+Om det vid tillståndsprövning enligt miljöbalken eller äldre föreskrifter har meddelats villkor om skyddsåtgärder eller andra försiktighetsmått som är strängare än vad som följer av denna förordning, skall de strängare kraven gälla.
+
+### Dispens från kraven i förordningen
+
+#### 6 a §
+
+Tillsynsmyndigheten får i det enskilda fallet ge dispens, från förbudet i 8 § 7 eller från kraven i denna förordning, för icke-förorenade schaktmassor som lagras
+
+1. i syfte att de ska resursåtervinnas efter lagringens slut, och
+
+2. så att det inte uppkommer negativa effekter på människors hälsa eller miljön.
+
+Dispensen får förenas med villkor och ska begränsas i tiden. Dispensen ska återkallas om det inte längre finns förutsättningar för beslutet. *Förordning (2026:681)*.
+
+### Deponiklasser
+
+#### 7 §
+
+Varje deponi skall hänföras till någon av följande klasser: deponi för farligt avfall, deponi för icke-farligt avfall eller deponi för inert avfall.
+
+### Avfall som inte får deponeras
+
+#### 8 §
+
+Följande avfall får inte deponeras:
+
+1. flytande avfall,
+
+2. avfall som är explosivt, frätande, oxiderande, brandfarligt eller mycket brandfarligt enligt bilaga III till direktiv 2008/98/EG,
+
+3. sjukvårdsavfall och annat kliniskt avfall från medicinska eller veterinärmedicinska verksamheter som är smittfarligt enligt bilaga III till direktiv 2008/98/EG,
+
+4. avfall som utgörs av kemiska ämnen från forskning och utveckling eller undervisning (laboratorierester) och som inte är identifierade eller vars effekt på hälsan eller miljön är okända,
+
+5. hela begagnade däck som inte är cykeldäck och som har en diameter mindre än 1 400 millimeter,
+
+6. organiskt avfall,
+
+7. avfall som har samlats in separat i syfte att förberedas för återanvändning eller materialåtervinnas, och
+
+8. övrigt brännbart avfall. *Förordning (2026:681)*.
+
+#### 9 §
+
+Deponeringsförbudet i 8 § 1 gäller inte metalliskt kvicksilver som är kvicksilveravfall enligt artikel 2 i förordning (EU) 2017/852. *Förordning (2020:698)*.
+
+#### 10 §
+
+Deponeringsförbudet i 8 § 7 gäller inte avfall som har producerats vid behandling av separat insamlat avfall, inbegripet sådan beredning före behandling som avses i R 12 i bilaga 1 till avfallsförordningen (2020:614), om deponering är den lämpligaste behandlingen enligt 15 kap. 11 § miljöbalken.
+
+*Förordning (2026:681)*.
+
+#### 10 a §
+
+Länsstyrelsen får i det enskilda fallet ge dispens från förbuden enligt 8 § 6 och 8. *Förordning (2025:827)*.
+
+#### 10 b §
+
+Naturvårdsverket får meddela föreskrifter om undantag från förbuden i 8 § 6 och 8 och om förutsättningar för dispenser enligt 10 a §. *Förordning (2025:827)*.
+
+#### 11 §
+
+Avfall får inte deponeras, om det inte uppfyller de förutsättningar som följer av14 och 15 §§.
+
+#### 12 §
+
+Bestämmelser om krav på förbehandling för att få deponera avfall som utgörs av eller innehåller elektrisk eller elektronisk utrustning finns i 4 kap. 26 § avfallsförordningen (2020:614). *Förordning (2025:827)*.
+
+#### 13 §
+
+Har upphävts genom *förordning (2020:698)*.
+
+### Förutsättningar som avfall måste uppfylla för att få deponeras
+
+#### 14 §
+
+Endast avfall som har behandlats får deponeras. Med behandling avses användning av fysikaliska, termiska, kemiska eller biologiska metoder, inklusive sortering, som ändrar avfallets egenskaper så att dess mängd eller farlighet minskas, hanteringen underlättas eller återvinning gynnas.
+
+Kravet på behandling gäller inte inert avfall där behandling inte är tekniskt genomförbar eller annat avfall där behandling inte medför minskade negativa effekter på människors hälsa eller miljön.
+
+#### 15 §
+
+Naturvårdsverket får meddela föreskrifter om förutsättningar som avfall måste uppfylla för att få deponeras i de olika deponiklasserna enligt
+
+1. artikel 6 i direktiv 1999/31/EG,
+
+2. punkt 8 i bilaga 1 till direktiv 1999/31/EG,
+
+3. bilaga 2 till direktiv 1999/31/EG, och
+
+4. punkt 6 i bilaga 3 till direktiv 1999/31/EG.
+
+*Förordning (2020:698)*.
+
+#### 15 a §
+
+Om Naturvårdsverket inte har föreskrivit annat med stöd av 15 §, får på deponier
+
+1. för inert avfall endast inert avfall deponeras, och
+
+2. för icke-farligt avfall endast icke-farligt avfall och inert avfall deponeras. *Förordning (2020:698)*.
+
+#### 15 b §
+
+Avfall får inte spädas ut eller blandas enbart i syfte att uppfylla förutsättningar för att få deponeras.
+
+*Förordning (2020:698)*.
+
+#### 15 c §
+
+Tillsynsmyndigheten får i det enskilda fallet ge dispens från föreskrifter om gränsvärden som meddelats med stöd av 15 §. *Förordning (2020:698)*.
+
+#### 15 d §
+
+Tillsynsmyndigheten ska lämna uppgifter till Naturvårdsverket om hur många dispenser som getts varje år.
+
+*Förordning (2020:698)*.
+
+#### 15 e §
+
+Naturvårdsverket får meddela föreskrifter om förutsättningar för dispenser enligt 15 c § och om uppgiftslämnande enligt 15 d §. *Förordning (2020:698)*.
+
+### Skyldigheter i samband med att avfall tas emot för deponering
+
+#### 16 §
+
+Innan avfall deponeras skall verksamhetsutövaren ha skaffat sig så goda kunskaper som möjligt om avfallets sammansättning, lakbarhet och dess övriga egenskaper och effekter allmänt och på lång sikt.
+
+Verksamhetsutövaren skall kontrollera att avfallet får deponeras på deponin.
+
+#### 17 §
+
+Naturvårdsverket får meddela föreskrifter om vilka åtgärder som verksamhetsutövaren måste vidta enligt artikel 11 i direktiv 1999/31/EG i samband med att avfall tas emot för deponering. *Förordning (2012:371)*.
+
+### Lokalisering och utformning av deponier
+
+#### 18 §
+
+En deponi skall vara lokaliserad så att den inte utgör någon allvarlig risk för miljön med beaktande av
+
+1. avståndet från deponin till tätbebyggelse, bostadsområden, rekreations-områden, jordbruksområden, vattenområden och vattenleder,
+
+2. förekomst av ytvatten, grundvatten, kustvatten och skyddade naturområden,
+
+3. de geologiska och hydrogeologiska förhållandena på och omkring platsen,
+
+4. risken för översvämningar, sättningar, jordskred eller snöskred på platsen, samt
+
+5. skyddet av natur- och kulturvärden på och omkring platsen.
+
+#### 19 §
+
+En deponi skall vara lokaliserad så att allt lakvatten efter driftfasen och ej uppsamlat lakvatten under driftfasen passerar genom en geologisk barriär som uppfyller följande krav. Transporttiden för lakvattnet genom barriären får inte vara kortare än 200 år för deponier för farligt avfall, 50 år för deponier för icke-farligt avfall och 1 år för deponier för inert avfall.
+
+Om de naturliga förhållandena på platsen inte innebär att kraven i första stycket uppfylls i fråga om en viss del av lakvattnet, får kompletteringar ske så att mark och vatten skyddas genom en geologisk barriär som uppfyller kraven i 20 § andra stycket.
+
+#### 20 §
+
+Om en deponi inte lokaliseras så att kraven i 19 § uppfylls, skall deponin anläggas på eller förses med en geologisk barriär som uppfyller kraven i denna paragraf.
+
+Under deponin och på de sidor om deponin där lakvatten kan förorena mark eller vatten skall barriären vara minst 0,5 meter tjock samt i fråga om genomtränglighet (permeabilitet) och tjocklek (mäktighet) ge ett skydd som är minst likvärdigt med effekten av följande krav:
+
+```
+Deponi för              Permeabilitet                   Mäktighet
+farligt avfall           5 meter
+icke-farligt avfall      1 meter
+inert avfall             1 meter
+```
+
+21 § Om det finns risk för att lakvatten svämmar över eller läcker vid sidan av den geologiska barriär som krävs enligt 19 och 20 §§, skall det i lakvattnets strömningsriktning anläggas ett skydd mot att lakvattnet förorenar mark eller vatten.
+
+Skyddet skall innebära att lakvattnet tas om hand eller inte förorenar mark eller vatten i större utsträckning än vad som följer av kraven i 19 och 20 §§.
+
+#### 22 §
+
+Deponier för farligt avfall och deponier för icke-farligt avfall skall under driftfasen vara försedda med en bottentätning, ett dränerande materialskikt som är minst 0,5 meter tjockt och ett uppsamlingssystem för lakvatten.
+
+Tätningen, materialskiktet och uppsamlingssystemet skall konstrueras så att lakvatten inte läcker med mer än 5 liter per kvadratmeter och år från en deponi för farligt avfall och 50 liter per kvadratmeter och år från en deponi för icke-farligt avfall.
+
+Insamlat lakvatten skall behandlas så att det kan släppas ut utan att utsläppet strider mot gällande bestämmelser om skydd för människors hälsa och miljön eller mot villkor som gäller för verksamheten.
+
+#### 23 §
+
+Deponier för farligt avfall och deponier för icke-farligt avfall skall genom avledning och dränering skyddas mot att ytvatten och grundvatten tränger in i deponin.
+
+#### 24 §
+
+En tillståndsmyndighet får i det enskilda fallet medge avsteg eller undantag från kraven i 19-22 §§, om det kan ske utan risk för skada eller olägenhet för människors hälsa eller miljön.
+
+### Deponigashantering
+
+#### 25 §
+
+Verksamhetsutövaren skall se till att deponigas samlas in från deponier som tar emot biologiskt nedbrytbart avfall för deponering.
+
+Naturvårdsverket meddelar närmare föreskrifter om insamling och omhändertagande av deponigas.
+
+### Övriga försiktighetsmått
+
+#### 26 §
+
+En verksamhetsutövare skall särskilt beakta behovet av åtgärder för att förebygga, hindra eller motverka de olägenheter som deponin orsakar eller kan komma att orsaka genom bildande av aerosoler, utsläpp av lukt och damm, material som transporteras med vinden, buller och trafikrörelser, fåglar, skadedjur och insekter samt bränder.
+
+#### 27 §
+
+Avfall skall deponeras på sådant sätt att ojämna sättningar, skred eller ras undviks som kan skada tätskikt eller andra skyddsåtgärder.
+
+#### 28 §
+
+Verksamhetsutövaren skall under driftfasen se till att
+
+1. okontrollerat tillträde till deponin förhindras,
+
+2. grindar är låsta när deponin är obemannad, och
+
+3. det finns system för kontroll och tillträde som är ägnat att upptäcka och förhindra illegal deponering.
+
+### Registrering av avfall
+
+#### 29 §
+
+Verksamhetsutövaren ska föra ett register med uppgifter om
+
+1. det deponerade avfallets
+
+a) vikt i kilogram,
+
+b) egenskaper,
+
+c) ursprung, och
+
+d) leveransdatum,
+
+2. avfallsproducentens identitet eller, när det är fråga om kommunalt avfall som transporteras bort av kommunen eller den som kommunen anlitar, avfallstransportörens identitet, och
+
+3. i vilken del av deponin som avfallet har placerats och i fråga om farligt avfall ska avfallets exakta placering i deponin registreras.
+
+På begäran av Naturvårdsverket ska verksamhetsutövaren ge verket möjlighet att ta del av den information som anges i första stycket. *Förordning (2020:698)*.
+
+### Provtagning och mätning
+
+#### 30 §
+
+Under deponins aktiva fas ska verksamhetsutövaren mäta deponins struktur, sammansättning och sättningsbeteende samt provta och mäta lakvatten, grundvatten, ytvatten och deponigas.
+
+Naturvårdsverket får meddela närmare föreskrifter om provtagning och mätning samt om sådana riktvärden eller gränsvärden som anges i punkt 4 c i bilaga 3 till direktiv 1999/31/EG. *Förordning (2012:371)*.
+
+### Samråd om föreskrifter
+
+#### 30 a §
+
+Innan Naturvårdsverket meddelar sådana föreskrifter som avses i 10 b §, 15 §, 15 e §, 17 § eller 30 § andra stycket ska verket höra
+
+1. Havs- och vattenmyndigheten, om föreskrifterna har betydelse för havs- eller vattenmiljön, och
+
+2. Sveriges geologiska undersökning, om föreskrifterna har betydelse för grundvattenmiljön. *Förordning (2026:1696)*.
+
+### Sluttäckning
+
+#### 31 §
+
+Verksamhetsutövaren skall se till att en deponi som avslutas förses med sluttäckning. Sluttäckningen skall vara så konstruerad att mängden lakvatten som passerar genom täckningen inte överskrider eller kan antas komma att överskrida 5 liter per kvadratmeter och år för deponier för farligt avfall och 50 liter per kvadratmeter och år för deponier för icke-farligt avfall.
+
+En tillståndsmyndighet får i det enskilda fallet medge avsteg eller undantag från kraven på genomsläpplighet i första stycket, om det kan ske utan risk för skada eller olägenhet för människors hälsa eller miljön.
+
+#### 32 §
+
+En deponi, eller en del av den, anses avslutad först när sluttäckningen har inspekterats genom tillsynsmyndighetens försorg och tillsynsmyndigheten har godkänt den.
+
+### Efterbehandling
+
+#### 33 §
+
+Under deponins efterbehandlingsfas ska verksamhetsutövaren se till att det i minst 30 år eller den längre tid som tillsynsmyndigheten bestämmer vidtas de åtgärder för underhåll, övervakning och kontroll som behövs med hänsyn till skyddet för människors hälsa och miljön.
+
+Bestämmelser om ställande av säkerhet för att de skyldigheter som gäller för deponeringsverksamhet fullgörs finns i 15 kap. 58 § miljöbalken. *Förordning (2026:681)*.
+
+### Förenlighet med avfallsplaner
+
+#### 34 §
+
+En deponi och den verksamhet som bedrivs vid en deponi ska vara förenlig med kommunens avfallsplan enligt 15 kap. 45 § miljöbalken. *Förordning (2026:681)*.
+
+### Tillståndsprövning
+
+#### 35 §
+
+Bestämmelser om tillståndsprövning av miljöfarlig verksamhet finns i 9 kap. miljöbalken, förordningen (1998:899) om miljöfarlig verksamhet och hälsoskydd samt miljöprövningsförordningen (2013:251).
+
+*Förordning (2013:264)*.
+
+#### 36 §
+
+En ansökan om tillstånd till deponeringsverksamhet skall, utöver vad som anges i 22 kap. 1 § miljöbalken, alltid innehålla
+
+1. uppgift om verksamhetsutövarens identitet,
+
+2. en beskrivning av vilka avfallsslag och de totala mängder avfall som skall deponeras,
+
+3. en beskrivning av platsen, inklusive dess geologiska och hydrogeologiska egenskaper,
+
+4. en plan för avslutning och efterbehandling, och
+
+5. en redovisning av hur verksamhetsutövaren avser att säkerställa att de skyldigheter som följer av denna förordning eller de föreskrifter som meddelats med stöd av förordningen kommer att uppfyllas.
+
+### Kontroll innan deponering påbörjas
+
+#### 37 §
+
+En verksamhetsutövare skall se till att deponering inte påbörjas innan tillsynsmyndigheten har kontrollerat att deponin uppfyller villkoren i tillståndet.
+
+### Deponier som finns eller som omfattas av tillstånd den 16 juli 2001
+
+#### 38 §
+
+En verksamhetsutövare skall senast den 1 juli 2002 till tillsynsmyndigheten ge in en plan för anpassning eller avslutning av deponin, om deponin omfattas av gällande tillstånd den 16 juli 2001 eller inte har avslutats före den 16 juli 2001.
+
+Av anpassningsplanen skall framgå vilka åtgärder som behöver vidtas för att så snart som möjligt och senast vid utgången av år 2008 följa bestämmelserna i 7, 8, 11, 14-17 och 19-37 §§ och i föreskrifter som meddelats med stöd av förordningen.
+
+Av avslutningsplanen skall framgå vilka åtgärder som behöver vidtas för att så snart som möjligt avsluta deponin i enlighet med bestämmelserna i denna förordning och en tidsplan för avslutningen.
+
+#### 39 §
+
+I fråga om deponier för farligt avfall skall bestämmelserna i 7, 8, 16 och 17 §§ följas fr.o.m. den 1 juli 2002 och bestämmelserna i 14 § följas fr.o.m. den 1 juli 2004.
+
+Vid utformningen av anpassningsplaner och avslutningsplaner skall hänsyn tas till detta.
+
+#### 40 §
+
+Om tillsynsmyndigheten bedömer att de åtgärder som anges i anpassningsplanen eller avslutningsplanen är tillräckliga för att följa bestämmelserna i denna förordning och föreskrifter som meddelats med stöd av förordningen, ska myndigheten godkänna planen. Det som sägs i 31 § andra stycket om tillståndsmyndighet ska här i stället avse tillsynsmyndigheten.
+
+Om tillsynsmyndigheten bedömer att en åtgärd enligt planen kräver ett sådant tillstånd som avses i 9 kap. 6 § miljöbalken, ska myndigheten ange detta i sitt beslut. Om åtgärderna inte bedöms vara tillståndspliktiga, ska tillsynsmyndigheten i sitt beslut ange när åtgärderna ska vara genomförda. *Förordning (2013:264)*.
+
+#### 41 §
+
+Om tillsynsmyndigheten godkänner anpassningsplanen enligt 40 §, skall verksamheten uppfylla de krav som följer av 7, 8, 11, 14-17 och
+
+19-37 §§ senast vid utgången av år 2008 eller vid den tidigare tidpunkt som tillsynsmyndigheten eller tillståndsmyndigheten bestämt.
+
+#### 42 §
+
+Om någon plan för anpassning eller avslutning inte ges in eller inte kan godkännas, skall deponin avslutas så snart som möjligt.
+
+### Rapportering
+
+#### 42 a §
+
+Naturvårdsverket ska rapportera till Europeiska kommissionen i enlighet med direktiv 1999/31/EG.
+
+*Förordning (2020:820)*.
+
+### Tillsyn och ansvar
+
+#### 43 §
+
+Bestämmelser om tillsyn finns i 26 kap. miljöbalken och i miljötillsynsförordningen (2011:13). Bestämmelser om det tillsynsansvar som hör samman med denna förordning finns i 26 kap. 3 § tredje stycket miljöbalken samt 2 kap. 4, 29 och 30 §§ miljötillsynsförordningen.
+
+Bestämmelser om straff finns i 29 kap. miljöbalken.
+
+*Förordning (2020:698)*.
+
+### Avgifter
+
+#### 44 §
+
+Bestämmelser om avgifter finns i 27 kap. miljöbalken och i förordningen (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken.
+
+### Överklagande
+
+#### 45 §
+
+Bestämmelser om överklagande finns i 19 kap. 1 § miljöbalken och 1 kap. 2 § lagen (2010:921) om mark- och miljödomstolar.
+
+Naturvårdsverket och Havs- och vattenmyndigheten får överklaga länsstyrelsens beslut om dispens enligt 10 a §. *Förordning (2026:1696)*.
+
+## Övergångsbestämmelser
+
+**2001:512**
+
+1. Denna förordning träder i kraft, i fråga om 9 § den 1 januari 2002, i fråga om 10 § den 1 januari 2005, och i övrigt den 16 juli 2001.
+
+2. Förordningen skall inte tillämpas på deponier där verksamhetsutövaren före den 16 juli 2001 har slutat lägga avfall på deponin och har vidtagit de åtgärder som i övrigt krävts för att avsluta den.

@@ -1,0 +1,95 @@
+---
+title: "Förordning (2002:782) om ansökan och utbetalning av pension m.fl. förmåner"
+identifier: "SFS 2002:782"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-10-31
+amended_through: "SFS 2020:1244"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-782.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:782"
+retrieved: 2026-10-11
+---
+# Förordning (2002:782) om ansökan och utbetalning av pension m.fl. förmåner
+
+> Rättelseblad 2002:782 har iakttagits.
+
+#### 1 §
+
+I denna förordning finns bestämmelser om ansökan och utbetalning av följande pensioner och förmåner enligt socialförsäkringsbalken:
+
+1. allmän ålderspension, särskilt pensionstillägg, äldreförsörjningsstöd och inkomstpensionstillägg,
+
+2. efterlevandepension, efterlevandestöd och efterlevandeskydd i form av premiepension,
+
+3. bostadstillägg. *Förordning (2020:1244)*.
+
+### Ansökan
+
+#### 2 §
+
+Har upphävts genom *förordning (2012:265)*.
+
+#### 3 §
+
+Har upphävts genom *förordning (2012:265)*.
+
+#### 4 §
+
+Har upphävts genom *förordning (2012:265)*.
+
+#### 5 §
+
+De bestämmelser om ansökan som finns i 110 kap. 4, 9 och 12 §§ socialförsäkringsbalken tillämpas också i fråga om anmälan om återkallelse eller minskning av uttag av ålderspension. *Förordning (2012:265)*.
+
+#### 6 §
+
+Pensionsmyndigheten får föreskriva att personbevis enligt fastställt formulär eller, om sådant personbevis inte finns, annat motsvarande bevis, ska bifogas ansökan.
+
+*Förordning (2009:1195)*.
+
+### Utbetalning
+
+#### 7 §
+
+Pension och annan förmån betalas ut genom Försäkringskassan.
+
+*Förordning (2009:1195)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (2008:876)*.
+
+#### 9 §
+
+Pension och andra förmåner ska kunna lyftas av mottagaren följande datum i utbetalningsmånaden. För den som är född någon av dagarna den 1-15 i månaden ska pensionen eller förmånen kunna lyftas av mottagaren den 18 i utbetalningsmånaden. För den som är född någon av dagarna den 16-31 i månaden ska pensionen eller förmånen kunna lyftas av mottagaren den 19 i utbetalningsmånaden.
+
+Om utbetalningsdagen infaller på en söndag eller på en omedelbart därpå följande helgdag, ska pensionen eller förmånen kunna lyftas närmast följande vardag. Om utbetalningsdagen infaller på en annan helgdag, på en lördag eller på midsommarafton, ska pensionen eller förmånen kunna lyftas närmast föregående vardag. *Förordning (2008:876)*.
+
+#### 10 §
+
+Pensionsmyndigheten ska besluta om tiden för utbetalning av
+
+1. pension eller annan förmån till den som vistas utomlands, och
+
+2. det belopp som först förfaller till betalning efter beslut om pension eller annan förmån. *Förordning (2009:1195)*.
+
+## Övergångsbestämmelser
+
+**2002:782**
+
+Denna förordning träder i kraft den 1 januari 2003. Genom förordningen upphävs
+
+1. kungörelsen (1962:394) med vissa bestämmelser rörande ansökan om pension enligt lagen om allmän försäkring, m.m.,
+
+2. förordningen (1980:624) om sättet och tiden för utbetalning av pension enligt lagen (1962:381) om allmän försäkring, m.m.
+
+De upphävda föreskrifterna gäller dock fortfarande för ansökan och utbetalning av pension enligt lagen om allmän försäkring, m.m. som avser tid före den 1 januari 2003.
+
+**2010:1719**
+
+Denna förordning träder i kraft den 1 januari 2011.
+
+Bestämmelserna i förordningen tillämpas, om inte annat anges, också i fråga om hustrutillägg enligt lagen (1998:708) om upphävande av lagen (1994:309) om hustrutillägg i vissa fall då make uppbär folkpension om samma förmåner samt i fråga om särskild efterlevandepension enligt lagen (2010:111) om införande av socialförsäkringsbalken. Bestämmelsen i 3 § tillämpas också i fråga om hustrutillägg.

@@ -1,0 +1,620 @@
+---
+title: "Förordning (1984:14) om kärnteknisk verksamhet"
+identifier: "SFS 1984:14"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1984-01-12
+amended_through: "SFS 2026:1782"
+reprinted: "SFS 2008:456"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-14.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:14"
+retrieved: 2026-10-11
+---
+# Förordning (1984:14) om kärnteknisk verksamhet
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning är meddelad med stöd av
+
+- 2 a § lagen (1984:3) om kärnteknisk verksamhet i fråga om 4-6, 8-12, 15 och 15 a §§,
+
+- 3 § andra stycket lagen om kärnteknisk verksamhet i fråga om 20 a § första stycket 1 och 22 a §,
+
+- 5 d § lagen om kärnteknisk verksamhet i fråga om 19 a och 19 b §§,
+
+- 5 e § lagen om kärnteknisk verksamhet i fråga om 3 a, 3 b och 22 a §§,
+
+- 7 d § lagen om kärnteknisk verksamhet i fråga om 2 § andra stycket andra meningen,
+
+- 9 b § lagen om kärnteknisk verksamhet i fråga om 20 c §,
+
+- 10 b § lagen om kärnteknisk verksamhet i fråga om 14 §, 20 a § första stycket 2-5, 20 b § andra och tredje styckena och 22 a §,
+
+- 10 e § lagen om kärnteknisk verksamhet i fråga om 21 §,
+
+- 15 b § lagen om kärnteknisk verksamhet i fråga om 23 a §,
+
+- 15 c § lagen om kärnteknisk verksamhet i fråga om 23 c §,
+
+- 8 kap. 11 § regeringsformen i fråga om 2 § andra stycket första meningen, 2 d § andra stycket och 3 e och 23 d §§, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2026:1334)*.
+
+#### 1 a §
+
+I denna förordning betyder:
+
+anrikat uran: uran där halten uran-235 är högre än i naturligt uran,
+
+naturligt uran: uran som innehåller den blandning av isotoper som förekommer i naturen,
+
+utarmat uran: uran där halten av isotopen uran-235 är lägre än i naturligt uran. *Förordning (2026:1334)*.
+
+#### 1 b §
+
+I övrigt har ord och uttryck i denna förordning samma betydelse som i lagen (1984:3) om kärnteknisk verksamhet.
+
+*Förordning (2026:1334)*.
+
+### Frågor om anmälningsskyldighet
+
+#### 2 §
+
+En anmälan enligt 7 a-7 c och 7 e §§ lagen (1984:3) om kärnteknisk verksamhet ska göras till Strålsäkerhetsmyndigheten.
+
+Strålsäkerhetsmyndigheten får meddela närmare föreskrifter om vad en anmälan ska innehålla och om andra frågor som rör anmälningsskyldigheten. Strålsäkerhetsmyndigheten får också meddela föreskrifter om undantag från anmälningsskyldigheten enligt 7 a-7 c §§ lagen om kärnteknisk verksamhet.
+
+*Förordning (2026:591)*.
+
+### Förberedande dialog om ansökan om tillstånd
+
+#### 2 a §
+
+Strålsäkerhetsmyndigheten ska på begäran av den som avser att ansöka om tillstånd för uppförande, innehav eller drift av en kärnteknisk anläggning ha en förberedande dialog om ansökans innehåll med den som har begärt dialogen.
+
+*Förordning (2026:591)*.
+
+#### 2 b §
+
+En begäran enligt 2 a § ska lämnas till Strålsäkerhetsmyndigheten och innehålla
+
+1. en översiktlig redogörelse över vilken verksamhet som planeras, och
+
+2. en övergripande plan för hur ansökan om tillstånd för den planerade verksamheten ska tas fram. *Förordning (2026:591)*.
+
+#### 2 c §
+
+Strålsäkerhetsmyndigheten får, om det är ändamålsenligt i det enskilda fallet, besluta att
+
+1. begränsa omfattningen av en förberedande dialog, eller
+
+2. avstå från att inleda en förberedande dialog.
+
+*Förordning (2026:591)*.
+
+### Förhandsbesked om en kärnteknisk anläggnings konstruktion
+
+#### 2 d §
+
+Strålsäkerhetsmyndigheten prövar en begäran om förhandsbesked enligt 6 § lagen (1984:3) om kärnteknisk verksamhet.
+
+Strålsäkerhetsmyndigheten får meddela närmare föreskrifter om innehållet i en begäran om förhandsbesked. *Förordning (2026:591)*.
+
+### Frågor om tillstånd
+
+### Allmänt
+
+#### 3 §
+
+För radioaktiva ämnen som omfattas av undantag enligt 4-11 §§ eller 15 § denna förordning krävs tillstånd enligt strålskyddslagen (2018:396), om inte annat följer av föreskrifter som har meddelats med stöd av 2 kap. 5 § 1 den lagen.
+
+Bestämmelser om transport finns i lagen (2006:263) om transport av farligt gods. *Förordning (2018:507)*.
+
+### Miljöbedömningar
+
+#### 3 a §
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om att 6 kap. miljöbalken ska tillämpas i fråga om sådana ärenden om tillstånd som avses i 5 e § lagen (1984:3) om kärnteknisk verksamhet. *Förordning (2017:968)*.
+
+#### 3 b §
+
+Strålsäkerhetsmyndigheten får i ett ärende om tillstånd som avses i 5 e § lagen (1984:3) om kärnteknisk verksamhet besluta att 6 kap. miljöbalken ska tillämpas.
+
+*Förordning (2017:968)*.
+
+#### 3 c §
+
+Om en miljökonsekvensbeskrivning ska tas fram enligt föreskrifter som avses i 3 a § eller enligt ett beslut som avses i 3 b §, ska beskrivningen kungöras enligt 5 kap. 25 § strålskyddsförordningen (2018:506). *Förordning (2018:507)*.
+
+### Ansökan om tillstånd
+
+#### 3 d §
+
+En ansökan om tillstånd till uppförande, innehav eller drift av en kärnteknisk anläggning enligt 5 § lagen (1984:3) om kärnteknisk verksamhet ska innehålla
+
+1. en övergripande beskrivning av den tänkta platsens lämplighet från ett säkerhets- och strålskyddsperspektiv,
+
+2. den första preliminära strålsäkerhets- eller säkerhetsrapporten,
+
+3. en övergripande beskrivning av verksamhetens organisation, ledning och styrning för uppförande eller drift av anläggningen,
+
+4. en övergripande beskrivning av hur kärnämnen och kärnavfall ska hanteras, mellanlagras och slutförvaras,
+
+5. en övergripande beskrivning av sökandens förutsättningar att fullgöra skyldigheterna enligt 13 § lagen om kärnteknisk verksamhet och enligt lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor,
+
+6. en övergripande beskrivning av hur skyddet mot sabotage och olovlig befattning med kärnämnen eller kärnavfall ska utformas,
+
+7. en övergripande beskrivning av hur beredskap och krishantering vid anläggningen ska utformas,
+
+8. en övergripande beskrivning av sökandens förutsättningar att fullgöra skyldigheter i fråga om kärnämneskontroll, och
+
+9. övriga uppgifter som bedöms nödvändiga för att visa hur kraven på säkerhet och strålskydd kommer att uppfyllas.
+
+En ansökan om tillstånd enligt 5 § lagen om kärnteknisk verksamhet ska innehålla den miljökonsekvensbeskrivning som krävs enligt 5 c § 3 eller 4 lagen om kärnteknisk verksamhet.
+
+*Förordning (2026:591)*.
+
+#### 3 e §
+
+Strålsäkerhetsmyndigheten får meddela närmare föreskrifter om innehållet i och utformningen av en ansökan om tillstånd till en kärnteknisk verksamhet. *Förordning (2026:591)*.
+
+### Föreskrifter om undantag
+
+#### 4 §
+
+Var och en får, efter en anmälan till Strålsäkerhetsmyndigheten, förvärva, inneha, hantera, bearbeta, transportera eller på annat sätt ta befattning med eller till Sverige föra in
+
+1. anrikat uran eller förening vari sådant uran ingår som innehåller högst 15 gram av isotopen uran 235,
+
+2. högst 15 gram av isotopen uran 233 i ren form eller ingående i förening,
+
+3. högst 15 gram plutonium i ren form eller ingående i förening,
+
+4. högst 5 kilogram naturligt eller utarmat uran i ren form eller ingående i förening, eller
+
+5. högst 5 kilogram torium i ren form eller ingående i förening.
+
+Vid samtidigt innehav enligt första stycket 1-3 får den sammanlagda vikten av innehavet inte överstiga 15 gram.
+
+*Förordning (2008:456)*.
+
+#### 5 §
+
+Efter en anmälan till Strålsäkerhetsmyndigheten får universitet, högskolor, forskningsanstalter och liknande vetenskapliga institutioner för vetenskaplig användning, utöver vad som följer av 4 §, förvärva, inneha, hantera, bearbeta, transportera eller på annat sätt ta befattning med
+
+1. naturligt eller utarmat uran eller förening vari naturligt eller utarmat uran ingår,
+
+2. kärnavfall, och
+
+3. torium eller annat ämne än anrikat uran eller plutonium som är ägnat att omvandlas till kärnbränsle.
+
+En institution som avses i första stycket får även för vetenskaplig användning efter en anmälan till Strålsäkerhetsmyndigheten föra in sådana ämnen som anges i första stycket 1 och 3 till Sverige.
+
+Innehav av sådant kärnavfall som utgör högaktivt avfall från upparbetning ska anmälas till Strålsäkerhetsmyndigheten.
+
+*Förordning (2008:456)*.
+
+#### 5 a §
+
+En statlig tillsynsmyndighet får för sin tillsynsverksamhet förvärva, inneha, bearbeta, transportera eller på annat sätt ta befattning med kärnämne eller kärnavfall.
+
+Innehav av kärnämne eller sådant kärnavfall som utgör högaktivt avfall från upparbetning ska anmälas till Strålsäkerhetsmyndigheten. *Förordning (2008:456)*.
+
+#### 5 b §
+
+Näringsidkare som utför servicearbeten på uppdrag av någon som har tillstånd enligt lagen (1984:3) om kärnteknisk verksamhet får inneha, hantera, bearbeta eller på annat sätt än att transportera ta befattning med kärnämne eller kärnavfall i den omfattning som behövs för att fullgöra uppdraget.
+
+Innehav av kärnämne eller sådant kärnavfall som utgör högaktivt avfall från upparbetning ska anmälas till Strålsäkerhetsmyndigheten. *Förordning (2008:456)*.
+
+#### 6 §
+
+Var och en får förvärva, inneha, överlåta, hantera, bearbeta, transportera eller på annat sätt ta befattning med eller till Sverige föra in deuterium, tritium eller litium eller förening vari något av dessa ämnen ingår för att använda ämnet för annat ändamål än att åstadkomma självunderhållande kärnreaktioner.
+
+Var och en får förvärva, inneha, överlåta, hantera, bearbeta, transportera eller på annat sätt ta befattning med eller till Sverige föra in produkter, såsom instrument, apparater eller preparat för medicinskt eller liknande ändamål, vari deuterium, tritium eller litium ingår. *Förordning (2008:456)*.
+
+#### 7 §
+
+Har upphävts genom *förordning (1992:1538)*.
+
+#### 8 §
+
+Efter en anmälan till Strålsäkerhetsmyndigheten får naturligt eller utarmat uran eller förening vari sådant uran ingår förvärvas, innehas, bearbetas, transporteras eller föras in till Sverige för
+
+1. användning som motvikter i flygplan eller barlast i fartyg som tillverkas i Sverige,
+
+2. framställning av strålskärmningsanordningar,
+
+3. färgning av keramiska produkter och glas, eller
+
+4. framställning av legering, om denna avses för annan användning än som kärnbränsle och halten av uran inte överstiger en viktprocent.
+
+Sådan anmälan till Strålsäkerhetsmyndigheten som avses i första stycket 1 behöver endast göras i samband med tillverkningen av flygplanet eller fartyget.
+
+Var och en får förvärva, inneha, överlåta, hantera, transportera eller på annat sätt ta befattning med eller till Sverige föra in motvikt eller anordning som avses i första stycket samt förvärva, inneha, överlåta, hantera, bearbeta, transportera eller på annat sätt ta befattning med eller till Sverige föra in produkt som avses i första stycket 3 och 4.
+
+*Förordning (2008:456)*.
+
+#### 9 §
+
+Efter en anmälan till Strålsäkerhetsmyndigheten får torium eller förening vari torium ingår förvärvas, innehas, hanteras, bearbetas, transporteras eller föras in till Sverige för framställning av
+
+1. aktiveringsmassor för elektroder till gasurladdningslampor, gasurladdningsrör eller elektronrör,
+
+2. glödnät och glödstrumpor,
+
+3. högeldfasta keramer som inte är kärnbränsle,
+
+4. lysämne (lyspulver),
+
+5. linser eller filter för elektromagnetisk strålning, eller
+
+6. legering vari halten av torium inte överstiger fem viktprocent.
+
+Var och en får förvärva, inneha, överlåta, hantera, bearbeta, transportera eller på annat sätt ta befattning med eller till Sverige föra in produkt som avses i första stycket. *Förordning (2008:456)*.
+
+#### 10 §
+
+Efter en anmälan till Strålsäkerhetsmyndigheten får uran, plutonium eller torium eller förening vari något av dessa ämnen ingår överlåtas till den som enligt lagen (1984:3) om kärnteknisk verksamhet eller enligt denna förordning får förvärva eller inneha sådant ämne eller sådan förening till den mängd som överlåtelsen avser. *Förordning (2008:456)*.
+
+#### 11 §
+
+Var och en får förvärva, inneha, överlåta, hantera, bearbeta, transportera eller på annat sätt ta befattning med eller till Sverige föra in ämne vars halt av naturligt eller utarmat uran eller av torium inte överstiger 200 gram per ton.
+
+*Förordning (2008:456)*.
+
+#### 12 §
+
+Efter en anmälan till Strålsäkerhetsmyndigheten får den som har tillstånd enligt lagen (1984:3) om kärnteknisk verksamhet att förvärva, inneha, överlåta, bearbeta eller på annat sätt ta befattning med kärnämne, från ett annat land i Europeiska unionen till Sverige föra in
+
+1. anrikat uran eller förening vari sådant uran ingår som innehåller högst 20 procent av isotopen 235 eller 233,
+
+2. naturligt eller utarmat uran eller förening vari naturligt eller utarmat uran ingår,
+
+3. torium eller förening vari torium ingår, eller
+
+4. använt kärnbränsle.
+
+Första stycket får tillämpas endast om tillståndet omfattar sådant kärnämne som avses att föras in till Sverige. *Förordning (2008:456)*.
+
+#### 13 §
+
+Har upphävts genom *förordning (1993:142)*.
+
+#### 14 §
+
+Den som har tillstånd enligt lagen (1984:3) om kärnteknisk verksamhet att förvärva, inneha, överlåta, bearbeta eller annars ta befattning med uran, plutonium eller annat ämne som används som kärnbränsle ska
+
+1. genast anmäla ett förvärv av sådana ämnen i ett annat land än Sverige till Strålsäkerhetsmyndigheten, och
+
+2. innan sådana ämnen förs in till Sverige anmäla detta till Strålsäkerhetsmyndigheten. *Förordning (2008:456)*.
+
+#### 15 §
+
+För hantering, bearbetning eller annan befattning med ett kärnämne som avses i 4-11 §§ får sådana anordningar och anläggningar som behövs uppföras, innehas och drivas.
+
+*Förordning (1995:153)*.
+
+#### 15 a §
+
+Utöver det som följer av 4-15 §§, får Strålsäkerhetsmyndigheten i fråga om kärnämne eller kärnavfall meddela föreskrifter om undantag eller i det enskilda fallet ge dispens från lagen (1984:3) om kärnteknisk verksamhet. Sådana föreskrifter och dispenser får endast avse undantag som det finns särskilda skäl för och som kan göras utan att syftet med lagen åsidosätts. *Förordning (2008:456)*.
+
+### Tillståndsfrågor som prövas av Strålsäkerhetsmyndigheten
+
+#### 16 §
+
+Strålsäkerhetsmyndigheten prövar frågor om tillstånd att förvärva, inneha, överlåta, hantera, bearbeta eller på annat sätt ta befattning med
+
+1. anrikat uran eller förening vari sådant uran ingår som innehåller högst 20 procent av isotopen 235 eller 233,
+
+2. anrikat uran eller förening vari sådant uran ingår som innehåller mer än 20 procent av isotopen 235 eller 233 om isotopen 235 eller 233 utgör högst 5 kilogram,
+
+3. högst 5 kilogram plutonium i ren form eller ingående i förening,
+
+4. naturligt eller utarmat uran eller förening vari naturligt eller utarmat uran ingår,
+
+5. torium eller förening vari torium ingår,
+
+6. kärnavfall, eller
+
+7. använt kärnbränsle som innehåller högst 20 kilogram uran.
+
+Strålsäkerhetsmyndigheten prövar frågor om tillstånd att uppföra, inneha eller driva de anläggningar som behövs för de verksamheter som avses i första stycket, under förutsättning att aktiviteten hos den totala mängden avfall i anläggningen inte vid någon tidpunkt överstiger 10 terabecquerel (TBq), varav högst 10 gigabecquerel (GBq) utgörs av alfaaktiva ämnen.
+
+*Förordning (2008:456)*.
+
+#### 16 a §
+
+Strålsäkerhetsmyndigheten prövar, i andra fall än som avses i 14 §, frågor om tillstånd att från ett land utanför Europeiska unionen till Sverige föra in
+
+1. anrikat uran eller förening vari sådant uran ingår som innehåller högst 20 procent av isotopen 235 eller 233,
+
+2. anrikat uran eller förening vari sådant uran ingår som innehåller mer än 20 procent av isotopen 235 eller 233 om isotopen 235 eller 233 utgör högst 5 kilogram,
+
+3. högst 5 kilogram plutonium i ren form eller ingående i förening,
+
+4. naturligt eller utarmat uran eller förening vari naturligt eller utarmat uran ingår,
+
+5. torium eller förening vari torium ingår, eller
+
+6. använt kärnbränsle som innehåller högst 20 kilogram uran.
+
+Strålsäkerhetsmyndigheten prövar även, i andra fall än som avses i 14 §, frågor om tillstånd att från ett annat land i Europeiska unionen till Sverige föra in
+
+1. anrikat uran eller förening vari sådant uran ingår som innehåller mer än 20 procent av isotopen 235 eller 233 om isotopen 235 eller 233 utgör högst 5 kilogram, eller
+
+2. högst 5 kilogram plutonium i ren form eller ingående i förening. *Förordning (2008:456)*.
+
+#### 17 §
+
+Strålsäkerhetsmyndigheten prövar frågor om tillstånd till kärntekniska anläggningar som regeringen har godkänt enligt lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar. *Förordning (2026:591)*.
+
+#### 18 §
+
+Strålsäkerhetsmyndigheten prövar frågor om tillstånd att transportera eller till Sverige föra in eller genom Sverige transitera kärnämnen eller kärnavfall samt tillstånd att föra ut kärnavfall från Sverige. *Förordning (2008:456)*.
+
+#### 18 a §
+
+Strålsäkerhetsmyndigheten prövar frågor om tillstånd enligt 5 a § första stycket 2 lagen (1984:3) om kärnteknisk verksamhet att utomlands slutförvara kärnavfall eller kärnämne som inte är avsett att användas på nytt.
+
+Om Strålsäkerhetsmyndigheten finner att ett ärende som avses i första stycket har principiell betydelse eller annars är av särskild vikt, ska myndigheten med ett eget yttrande lämna över ärendet till regeringens prövning. *Förordning (2014:363)*.
+
+#### 19 §
+
+Strålsäkerhetsmyndigheten ska ta emot och pröva sådana ansökningar om transport av använt kärnbränsle eller kärnavfall till eller genom Sverige som ges in av en behörig myndighet i ett annat land inom Europeiska atomenergigemenskapen i enlighet med rådets direktiv 2006/117/Euratom av den 20 november 2006 om övervakning och kontroll av transporter av radioaktivt avfall och använt kärnbränsle. Myndigheten ska följa de tidsfrister som anges i artiklarna 8 och 9 i direktivet. Om myndigheten inte har svarat inom den tid som anges i artikel 9.1, ska myndigheten anses ha lämnat sitt medgivande till transporten.
+
+*Förordning (2009:119)*.
+
+### Förutsättningar för att tillåta slutförvaring utomlands
+
+#### 19 a §
+
+För att ett sådant avtal om slutförvaring utomlands som avses i 5 a § tredje stycket lagen (1984:3) om kärnteknisk verksamhet ska kunna godtas vid en tillståndsprövning krävs det att det land där slutförvaring ska ske
+
+1. är medlem i Internationella atomenergiorganet och följer dess tillämpliga säkerhetsstandarder,
+
+2. har undertecknat, ratificerat och följer
+
+a) konventionen om säkerheten vid hantering av använt kärnbränsle och om säkerheten vid hantering av radioaktivt avfall (SÖ 1999:60),
+
+b) konventionen om fysiskt skydd av kärnämne (SÖ 1985:24) och dess tillägg,
+
+c) konventionen om kärnsäkerhet (SÖ 1995:71),
+
+d) konventionen om bistånd i händelse av kärnteknisk olycka eller ett nödläge med radioaktiva ämnen (SÖ 1992:81), och
+
+e) konventionen om tidig information vid en kärnenergiolycka (SÖ 1987:3),
+
+3. i samband med undertecknande och ratificering av fördraget om förhindrade av spridning av kärnvapen (SÖ 1970:12) har inkluderat den anläggning där slutförvaring av använt kärnbränsle ska ske, i ett avtal om kärnämneskontroll och dess tilläggsprotokoll med Internationella atomenergiorganet,
+
+4. har undertecknat, ratificerat och följer
+
+a) Wienkonventionen om civilrättsligt ansvar för atomskada av den 21 maj 1963,
+
+b) Wienkonventionens ändringsprotokoll av den 29 september 1997,
+
+c) konventionen om supplerande ersättning för atomskada av den 12 september 1997, eller
+
+d) Pariskonventionen om skadeståndsansvar på atomenergins område av den 29 juli 1960 (SÖ 1968:17) i dess lydelse enligt tilläggsprotokollet av den 28 januari 1964 och ändringsprotokollet av den 16 november 1982, och
+
+5. följer Solaskonventionen av den 1 november 1974 och dess tillägg, Chicagokonventionen av den 7 december 1944 och dess tillägg samt andra internationella instrument avseende säkerhet vid transport av farligt gods. *Förordning (2026:591)*.
+
+#### 19 b §
+
+Ett sådant avtal om slutförvaring utomlands som avses i 5 a § tredje stycket lagen (1984:3) om kärnteknisk verksamhet får godtas vid en tillståndsprövning endast om avtalet kan anses lämpligt med hänsyn till politiska, ekonomiska, sociala, etiska och vetenskapliga faktorer samt allmän säkerhet.
+
+*Förordning (2026:591)*.
+
+#### 19 c §
+
+Innan en fråga om tillstånd till slutförvaring i ett land utanför Europeiska atomenergigemenskapen enligt 5 a § första stycket 2 lagen (1984:3) om kärnteknisk verksamhet avgörs ska Strålsäkerhetsmyndigheten vidta rimliga åtgärder för att försäkra sig om att
+
+1. det land där slutförvaring ska ske har ingått ett avtal med Europeiska atomenergigemenskapen som omfattar kärnavfall, kärnämne som inte är avsett att användas på nytt och annat radioaktivt avfall,
+
+2. det land där slutförvaring ska ske har ett program för hantering och slutförvaring av radioaktivt avfall med sådana mål om en hög säkerhetsnivå som är likvärdiga med målen i rådets direktiv 2011/70/Euratom av den 19 juli 2011 om inrättande av ett gemenskapsramverk för ansvarsfull och säker hantering av använt kärnbränsle och radioaktivt avfall, i den ursprungliga lydelsen, och
+
+3. den anläggning där slutförvaring ska ske
+
+a) omfattas av ett tillstånd att ta emot det kärnavfall eller kärnämne som är avsett att slutförvaras,
+
+b) är i drift innan transporten av kärnavfallet eller kärnämnet från Sverige är beräknad att påbörjas, och
+
+c) sköts i enlighet med kraven i det program som avses i 2.
+
+*Förordning (2014:363)*.
+
+### Villkor
+
+#### 20 §
+
+Strålsäkerhetsmyndigheten prövar frågor om villkor enligt 8 och 8 a §§ lagen (1984:3) om kärnteknisk verksamhet.
+
+Bestämmelser om de villkor och föreskrifter som avser strålskyddet finns i strålskyddslagen (2018:396). *Förordning (2018:507)*.
+
+### Andra bemyndiganden
+
+#### 20 a §
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om
+
+1. åtgärder som krävs för att sådana förpliktelser ska uppfyllas som ingår i Sveriges överenskommelser i syfte att förhindra spridning av kärnvapen och obehörig befattning med kärnämne och sådant kärnavfall som utgörs av använt kärnbränsle,
+
+2. vad som krävs i fråga om värdering, verifiering och förbättring av säkerheten enligt 10 § 1 lagen om kärnteknisk verksamhet,
+
+3. åtgärder som, utöver anmälningar enligt 14 §, krävs för att uppfylla kravet i 10 § 2 lagen om kärnteknisk verksamhet,
+
+4. åtgärder i fråga om avfall och avveckling som krävs för att uppfylla kraven i 10 § 3 och 4 lagen om kärnteknisk verksamhet,
+
+5. upplysningar och överföring av värden för processparametrar enligt 10 § 5 lagen om kärnteknisk verksamhet, och
+
+6. de befogenheter som ska gälla för sådana internationella övervakare som avses i 17 § andra stycket lagen om kärnteknisk verksamhet.
+
+Innan Strålsäkerhetsmyndigheten meddelar föreskrifter enligt första stycket 1 eller 2 som rör fysiska skyddsåtgärder vid kärntekniska anläggningar, ska myndigheten höra den myndighet som är elberedskapsmyndighet enligt elberedskapslagen (1997:288). *Förordning (2017:778)*.
+
+#### 20 b §
+
+Strålsäkerhetsmyndigheten prövar frågor om helhetsbedömning av en kärnteknisk anläggnings säkerhet och strålskydd enligt 10 a § lagen (1984:3) om kärnteknisk verksamhet.
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om eller i det enskilda fallet besluta om tidpunkten för och innehållet i en sådan helhetsbedömning.
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om undantag eller i det enskilda fallet ge dispens från kraven på en helhetsbedömning. Sådana undantag och dispenser får endast avse kärntekniska anläggningar där den risk som är förenad med anläggningarna är liten.
+
+*Förordning (2010:1328)*.
+
+#### 20 c §
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om innehållet i en anmälan om stegvis kontroll enligt 9 a § lagen (1984:3) om kärnteknisk verksamhet. *Förordning (2026:591)*.
+
+#### 21 §
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om
+
+1. sådana bedömningar av överensstämmelse som avses i 10 d § lagen (1984:3) om kärnteknisk verksamhet, och
+
+2. vilka krav ett organ för bedömning av överensstämmelse ska uppfylla när det krävs ett sådant organ enligt föreskrifter som avses i 1.
+
+Innan föreskrifter meddelas med stöd av första stycket 2 ska Strålsäkerhetsmyndigheten ge Styrelsen för ackreditering och teknisk kontroll tillfälle att yttra sig. *Förordning (2026:1334)*.
+
+### Tillsyn
+
+#### 22 §
+
+Strålsäkerhetsmyndigheten ska ha tillsyn över att Euratoms kärnämneskontrollförordning, lagen (1984:3) om kärnteknisk verksamhet och villkor och föreskrifter som har meddelats med stöd av den lagen följs. Myndigheten ska också övervaka och kontrollera slutförvar.
+
+Bestämmelser om tillsyn från strålskyddssynpunkt finns i strålskyddslagen (2018:396). *Förordning (2026:1334)*.
+
+### Ansvar
+
+#### 22 a §
+
+Till böter döms den som med uppsåt eller av oaktsamhet åsidosätter föreskrifter som Strålsäkerhetsmyndigheten har meddelat med stöd av 3 a, 3 b, 20 a och 21 §§ denna förordning. *Förordning (2017:778)*.
+
+### Underrättelse till Europeiska kommissionen
+
+#### 23 §
+
+Om ett tillstånd till slutförvaring utanför Europeiska atomenergigemenskapen har getts enligt 5 a § första stycket 2 lagen (1984:3) om kärnteknisk verksamhet, ska Strålsäkerhetsmyndigheten informera Europeiska kommissionen om innehållet i det avtal som avses i 5 a § tredje stycket samma lag. Informationen ska ges innan transporten av kärnavfallet eller kärnämnet från Sverige påbörjas. *Förordning (2026:591)*.
+
+### Nationell LOF
+
+#### 23 a §
+
+Strålsäkerhetsmyndigheten ska på ansökan av en kärnämneskontrollskyldig besluta att denne ska ingå i en nationell LOF, om
+
+1. det finns förutsättningar för det enligt Euratoms kärnämneskontrollförordning,
+
+2. verksamheten inte omfattas av tillståndsplikt enligt lagen (1984:3) om kärnteknisk verksamhet, och
+
+3. det är lämpligt med hänsyn till verksamhetens art och omfattning. *Förordning (2026:1334)*.
+
+#### 23 b §
+
+Kärnämneskontrollskyldiga som ingår i en nationell LOF ska till Strålsäkerhetsmyndigheten lämna de uppgifter, handlingar och rapporter som enligt Euratoms kärnämneskontrollförordning annars skulle ha lämnats till Europeiska kommissionen. *Förordning (2026:1334)*.
+
+#### 23 c §
+
+Strålsäkerhetsmyndigheten får meddela föreskrifter om, eller i det enskilda fallet besluta om, undantag från kravet att lämna uppgifter handlingar och rapporter enligt 15 c § första stycket lagen (1984:3) om kärnteknisk verksamhet.
+
+*Förordning (2026:1334)*.
+
+#### 23 d §
+
+Strålsäkerhetsmyndigheten får meddela närmare föreskrifter om
+
+1. innehållet i en ansökan enligt 23 a §, och
+
+2. hur de uppgifter, handlingar och rapporter som avses i 15 c § lagen (1984:3) om kärnteknisk verksamhet ska lämnas.
+
+*Förordning (2026:1334)*.
+
+### Övriga bestämmelser
+
+#### 24 §
+
+En ansökan om tillstånd enligt lagen (1984:3) om kärnteknisk verksamhet ska ges in till Strålsäkerhetsmyndigheten. *Förordning (2026:591)*.
+
+#### 24 a §
+
+*/Upphör att gälla U:2027-01-01/* Om ansökan avser en ny kärnkraftsreaktor eller ändring av högsta tillåtna termiska effekt för en kärnkraftsreaktor som ska anslutas till transmissionsnätet, ska Strålsäkerhetsmyndigheten ge Affärsverket svenska kraftnät tillfälle att yttra sig över ansökan. Strålsäkerhetsmyndigheten ska hämta in ett yttrande från Riksgäldskontoret i fråga om sökanden kan antas komma att ha förmåga att svara för kostnader enligt 13 § första stycket 1 lagen (1984:3) om kärnteknisk verksamhet samt att ställa säkerheter enligt 30 och 31 §§ lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor. *Förordning (2026:591)*.
+
+#### 24 a §
+
+*/Träder i kraft I:2027-01-01/* Om ansökan avser en ny kärnkraftsreaktor eller ändring av högsta tillåtna termiska effekt för en kärnkraftsreaktor som ska anslutas till överföringssystemet för el, ska Strålsäkerhetsmyndigheten ge Affärsverket svenska kraftnät tillfälle att yttra sig över ansökan. Strålsäkerhetsmyndighe- ten ska hämta in ett yttrande från Riksgäldskontoret i fråga om sökanden kan antas komma att ha förmåga att svara för kostnader enligt 13 § första stycket 1 lagen (1984:3) om kärnteknisk verksamhet samt att ställa säkerheter enligt 30 och 31 §§ lagen (2010:950) om ansvar och ersättning vid radio- logiska olyckor. *Förordning (2026:1782)*.
+
+#### 24 b §
+
+En ansökan om införsel av använt kärnbränsle eller kärnavfall från en kärnteknisk anläggning eller en annan kärnteknisk verksamhet i ett annat land ska innehålla uppgifter om hur länge materialet ska finnas i Sverige och vart det därefter ska sändas.
+
+Tillstånd till sådan införsel får ges endast om det är klarlagt att materialet kommer att föras ut från Sverige inom en viss tid eller om tillstånd till slutförvaring har getts enligt 5 a § första stycket lagen (1984:3) om kärnteknisk verksamhet. *Förordning (2010:1328)*.
+
+#### 24 c §
+
+En ansökan om utförsel av kärnavfall ska innehålla uppgifter om hur materialet slutligt ska tas om hand. I fråga om material som härrör från en kärnteknisk verksamhet i Sverige ska ansökan innehålla en försäkran från exportören att materialet kommer att återtas om det inte kan tas om hand på beräknat sätt. *Förordning (2008:456)*.
+
+#### 24 d §
+
+En ansökan om ett sådant tillstånd till slutförvaring utomlands som avses i 5 a § första stycket 2 lagen (1984:3) om kärnteknisk verksamhet ska innehålla
+
+1. uppgifter om hur kärnämnet eller avfallet slutligt ska tas om hand, och
+
+2. en skriftlig försäkran från det andra landet om att förutsättningarna i 19 a § är uppfyllda och, om ansökan avser slutförvaring utanför Europeiska atomenergigemenskapen, om att förutsättningarna i 19 c § är uppfyllda.
+
+*Förordning (2014:363)*.
+
+#### 24 e §
+
+Om en ansökan avser en fråga som regeringen ska pröva ska Strålsäkerhetsmyndigheten, efter att ha hämtat in de yttranden som behövs, med ett eget yttrande överlämna handlingarna i ärendet till regeringen.
+
+Myndigheten ska dock inte lämna över handlingarna i ett ärende om tillstånd till en kärnteknisk anläggning, om anläggningen omfattas av ett pågående ärende enligt lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar.
+
+*Förordning (2026:591)*.
+
+#### 25 §
+
+Det program som avses i 12 § lagen (1984:3) om kärnteknisk verksamhet ska senast under september månad vart tredje år med början 1986 ges in till Strålsäkerhetsmyndigheten för att granskas och utvärderas. *Förordning (2008:456)*.
+
+#### 26 §
+
+Strålsäkerhetsmyndigheten ska senast sex månader efter den tidpunkt som anges i 25 § med ett eget yttrande över det program som avses där överlämna handlingarna i ärendet till regeringen.
+
+Yttrandet ska innehålla en granskning och utvärdering av programmet i fråga om
+
+1. planerad forsknings- och utvecklingsverksamhet,
+
+2. redovisade forskningsresultat,
+
+3. alternativa hanterings- och förvaringsmetoder, och
+
+4. de åtgärder som avses bli vidtagna. *Förordning (2008:456)*.
+
+#### 27 §
+
+Strålsäkerhetsmyndigheten prövar frågor om dispens enligt 14 § lagen (1984:3) om kärnteknisk verksamhet i de fall myndigheten har gett tillstånd till verksamheten med stöd av 16 eller 18 § denna förordning. *Förordning (2010:1328)*.
+
+#### 28 §
+
+En ansökan om dispens enligt 14 § andra stycket lagen (1984:3) om kärnteknisk verksamhet ska vara skriftlig och ges in till Strålsäkerhetsmyndigheten.
+
+Om ansökan avser en fråga om dispens som regeringen ska pröva, ska Strålsäkerhetsmyndigheten hämta in de yttranden som behövs och med ett eget yttrande överlämna handlingarna i ärendet till regeringen. *Förordning (2011:315)*.
+
+#### 29 §
+
+Beslut enligt 2 c § får inte överklagas.
+
+*Förordning (2026:591)*.
+
+## Övergångsbestämmelser
+
+**2017:968**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande för handläggningen av ärenden som har inletts före ikraftträdandet.
+
+Bilagan har upphävts genom *förordning (1995:153)*.

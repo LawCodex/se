@@ -1,0 +1,93 @@
+---
+title: "Förordning (1998:1340) om inkomstgrundad ålderspension"
+identifier: "SFS 1998:1340"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-10-29
+amended_through: "SFS 2022:1443"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-1340.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:1340"
+retrieved: 2026-10-11
+---
+# Förordning (1998:1340) om inkomstgrundad ålderspension
+
+### Inledning
+
+#### 1 §
+
+Denna förordning gäller vid tillämpning av bestämmelserna i socialförsäkringsbalken om inkomstgrundad ålderspension.
+
+### Anmälan
+
+#### 2 §
+
+Anmälan enligt 60 kap. 23 eller 37 § socialförsäkringsbalken ska göras på fastställd blankett och undertecknas av den sökande. *Förordning (2010:1703)*.
+
+#### 3 §
+
+Anmälan om överföring eller upphörande av överföring av pensionsrätt enligt 61 kap. 11-16 §§ socialförsäkringsbalken ska göras på fastställd blankett och undertecknas av den sökande. *Förordning (2010:1703)*.
+
+### Skyldighet att lämna uppgifter
+
+#### 4 §
+
+Pensionsmyndigheten ska underrätta Skatteverket om anmälan om överföring eller upphörande av överföring av pensionsrätt enligt 61 kap. 11-16 §§ socialförsäkringsbalken. Uppgifterna får lämnas på medium för automatiserad behandling.
+
+*Förordning (2010:1703)*.
+
+#### 5 §
+
+De uppgifter som Totalförsvarets plikt- och prövningsverk ska lämna till Pensionsmyndigheten enligt 110 kap. 35 § första stycket socialförsäkringsbalken får lämnas på medium för automatiserad behandling. *Förordning (2020:1283)*.
+
+### Beräkning och fastställande
+
+#### 6 §
+
+Pensionsmyndigheten ska för varje år beräkna och fastställa arvsvinstfaktorerna enligt 62 kap. 9-17 §§ socialförsäkringsbalken. *Förordning (2010:1703)*.
+
+#### 7 §
+
+Pensionsmyndigheten ska för varje år beräkna och fastställa förvaltningskostnadsfaktorn enligt 62 kap. 22-26 §§ socialförsäkringsbalken. Vid beräkningen av förvaltningskostnadsfaktorn ska summan av alla pensionsbehållningar som intjänats fram till och med andra året före det år faktorn avser läggas till grund för beräkningen. *Förordning (2010:1703)*.
+
+#### 8 §
+
+Pensionsmyndigheten ska för varje åldersgrupp för vilken inkomstpension kan lämnas beräkna och fastställa delningstal enligt 62 kap. 34-36 §§ socialförsäkringsbalken.
+
+Om pension börjar utges från en senare månad än den månad från vilken delningstalet beräknats ska delningstalet för aktuell åldersgrupp beräknas på följande sätt. För varje månad pensionsutbetalningen senareläggs ska delningstalet minskas med en tolftedel av skillnaden mellan det delningstalet och delningstalet som gäller för åldersgruppen som är ett år äldre. *Förordning (2022:1443)*.
+
+### Handläggningen
+
+#### 9 §
+
+Beslut om pensionsgrundande inkomst, pensionsgrundande belopp, pensionsrätt eller pensionspoäng får fattas utan att den försäkrade har underrättats om och fått tillfälle att yttra sig över uppgifter som ska lämnas utan föreläggande i enlighet med bestämmelserna i socialförsäkringsbalken eller annan författning.
+
+Det som föreskrivs i första stycket gäller inte i fråga om sådana beslut om omprövning som avses i 113 kap. 29-31 §§ socialförsäkringsbalken. *Förordning (2010:1703)*.
+
+#### 10 §
+
+Har upphävts genom *förordning (2002:783)*.
+
+#### 11 §
+
+Har upphävts genom *förordning (2002:783)*.
+
+#### 12 §
+
+Har upphävts genom *förordning (2002:783)*.
+
+#### 13 §
+
+Har upphävts genom *förordning (2002:783)*.
+
+#### 14 §
+
+Har upphävts genom *förordning (2002:783)*.
+
+## Övergångsbestämmelser
+
+**1998:1340**
+
+Denna förordning träder i kraft, i fråga om 5 § den 24 november 1998, och i övrigt den 1 januari 1999.

@@ -1,0 +1,135 @@
+---
+title: "Lag (1995:439) om beskattning, förtullning och folkbokföring under krig eller krigsfara m.m."
+identifier: "SFS 1995:439"
+type: act
+jurisdiction: se
+language: sv
+date: 1995-05-04
+amended_through: "SFS 2026:139"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-439.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:439"
+retrieved: 2026-10-11
+---
+# Lag (1995:439) om beskattning, förtullning och folkbokföring under krig eller krigsfara m.m.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna lag tillämpas vid beskattning, förtullning, folkbokföring och förande av vissa register under krig, krigsfara eller sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara.
+
+Med förtullning förstås i denna lag Tullverkets åtgärder i fråga om en vara som hänförts till förfarandet för övergång till fri omsättning. *Lag (2016:267)*.
+
+#### 2 §
+
+Vad som föreskrivs i 6-8 §§ om skatter och tullar gäller även för avgifter som avses i
+
+1. socialavgiftslagen (2000:980),
+
+2. lagen (1994:1744) om allmän pensionsavgift, och
+
+3. lagen (1994:1920) om allmän löneavgift. *Lag (2002:423)*.
+
+#### 3 §
+
+Är Sverige i krig skall 6 - 14 §§ tillämpas.
+
+#### 4 §
+
+Är Sverige i krigsfara eller råder det sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen föreskriva att 6 - 14 §§ skall tillämpas.
+
+En sådan föreskrift skall underställas riksdagen inom en månad från utfärdandet. Föreskriften upphör att gälla, om den inte underställs riksdagen i rätt tid eller om riksdagen inte godkänner den inom två månader från det att den underställdes.
+
+#### 5 §
+
+En föreskrift av regeringen enligt 6 - 14 §§ får begränsas till vissa grupper av personer, varor eller företeelser eller vissa delar av landet.
+
+När föreskrifter som meddelats med stöd av 6 - 14 §§ skall tillämpas gäller inte föreskrifter som meddelats i lag eller annan författning om de strider mot föreskrifter i denna lag eller mot föreskrifter som meddelats med stöd av lagen.
+
+### Skatter och tullar
+
+#### 6 §
+
+Regeringen får föreskriva att beslut i fråga om skatt eller tull tills vidare inte skall fattas eller skall fattas vid annan tidpunkt, på annat sätt eller för annan period än som annars föreskrivs.
+
+#### 7 §
+
+En föreskrift enligt 6 § får innefatta att deklarations- eller annan uppgiftsskyldighet tills vidare inte skall fullgöras eller fullgöras vid annan tidpunkt, på annat sätt eller för annan period än som annars föreskrivs.
+
+En föreskrift enligt 6 § får även innefatta att skatt eller tull skall betalas eller återbetalas vid annan tidpunkt, på annat sätt eller för annan period än som annars föreskrivs.
+
+#### 8 §
+
+Regeringen får föreskriva att beslut om skatt eller tull får fattas av någon annan myndighet än som annars föreskrivs.
+
+### Folkbokföring
+
+#### 9 §
+
+Regeringen får meddela andra föreskrifter om förfarandet vid folkbokföringen än de som annars gäller.
+
+Regeringen får också föreskriva att beslut om ändringar i folkbokföringen tills vidare inte skall fattas.
+
+### Registerfrågor
+
+#### 10 §
+
+Regeringen får meddela andra föreskrifter om behandling av personuppgifter än de som annars gäller enligt
+
+1. beskattningsdatalagen (2026:125),
+
+2. folkbokföringsdatalagen (2026:126),
+
+3. tulldatalagen (2026:127), och
+
+4. kronofogdedatalagen (2026:128) för verksamhet med utsökning och indrivning samt ansökan om och tillsyn över näringsförbud.
+
+*Lag (2026:139)*.
+
+### Omprövning och överklagande
+
+#### 11 §
+
+Regeringen får föreskriva att bestämmelser om omprövning och överklagande av beslut om skatt, tull eller avgift som anges i 2 § eller folkbokföring tills vidare inte skall gälla eller att avvikande bestämmelser skall gälla tills vidare.
+
+### Delegering till underordnad myndighet
+
+#### 12 §
+
+Regeringen får överlåta sin befogenhet enligt 6 eller 7 § att meddela föreskrifter i fråga om anstånd med att fullgöra en förpliktelse på Skatteverket eller, beträffande tullar, Tullverket. *Lag (2003:713)*.
+
+#### 13 §
+
+Regeringen får överlåta sin befogenhet enligt 9 eller 10 § att meddela föreskrifter på
+
+1. Skatteverket,
+
+2. Kronofogdemyndigheten, om det rör behandling av personuppgifter i verksamhet med utsökning och indrivning samt ansökan om och tillsyn över näringsförbud enligt kronofogdedatalagen (2026:128), eller
+
+3. Tullverket, om det rör behandling av personuppgifter enligt tulldatalagen (2026:127).
+
+Regeringen får vidare överlåta sin befogenhet enligt 11 § att meddela föreskrifter om omprövning på Skatteverket eller, beträffande tullar, Tullverket. *Lag (2026:139)*.
+
+#### 14 §
+
+Regeringen får överlåta befogenhet som regeringen har enligt de skatte-, tull-, avgifts- och folkbokföringsförfattningar samt de författningar om behandling av personuppgifter som reglerar förhållanden som omfattas av denna lag på
+
+1. Skatteverket,
+
+2. Kronofogdemyndigheten, om det rör indrivning av fordringar och behandling av personuppgifter i Kronofogdemyndighetens verksamhet, eller
+
+3. Tullverket, om det rör tullar och behandling av personuppgifter i Tullverkets verksamhet. *Lag (2026:139)*.
+
+### Verkställighetsföreskrifter
+
+#### 15 §
+
+Regeringen, eller den myndighet regeringen bestämmer, meddelar föreskrifter om verkställigheten av denna lag.
+
+## Övergångsbestämmelser
+
+**2002:423**
+
+Denna lag träder i kraft den 1 januari 2003. Äldre föreskrifter gäller fortfarande för förhållanden som hänför sig till tiden före ikraftträdandet.

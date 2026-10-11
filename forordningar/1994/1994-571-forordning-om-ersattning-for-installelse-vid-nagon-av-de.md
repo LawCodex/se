@@ -1,0 +1,31 @@
+---
+title: "Förordning (1994:571) om ersättning för inställelse vid någon av de internationella tribunalerna för brott mot internationell humanitär rätt"
+identifier: "SFS 1994:571"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-06-02
+amended_through: "SFS 2007:139"
+department: "Justitiedepartementet BIRS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-571.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:571"
+retrieved: 2026-10-11
+---
+# Förordning (1994:571) om ersättning för inställelse vid någon av de internationella tribunalerna för brott mot internationell humanitär rätt
+
+## 1 §
+
+I fråga om ersättning enligt 15 § lagen (1994:569) om Sveriges samarbete med de internationella tribunalerna för brott mot internationell humanitär rätt tillämpas 1 § andra och tredje styckena, 2 och 3 §§, 4 § andra stycket, 5, 8 och 10 §§ samt 11 § första stycket förordningen (1982:805) om ersättning av allmänna medel till vittnen, m.m.
+
+Traktamente för dag får bestämmas till högst 350 kr per dag.
+
+*Förordning (2007:139)*.
+
+## 2 §
+
+Har upphävts genom *förordning (1995:1309)*.
+
+## 3 §
+
+En framställning om ersättning eller förskott på ersättning skall göras hos tingsrätten i den ort där den kallade vistas. I övrigt tillämpas bestämmelserna i kungörelsen (1973:261) om utbetalning av vissa ersättningar i mål eller ärende vid domstol, m. m.

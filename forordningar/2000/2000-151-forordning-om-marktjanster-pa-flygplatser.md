@@ -1,0 +1,83 @@
+---
+title: "Förordning (2000:151) om marktjänster på flygplatser"
+identifier: "SFS 2000:151"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2000-04-06
+amended_through: "SFS 2019:465"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2000-151.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2000:151"
+retrieved: 2026-10-11
+---
+# Förordning (2000:151) om marktjänster på flygplatser
+
+### 1 §
+
+I denna förordning lämnas närmare föreskrifter om tillämpningen av lagen (2000:150) om marktjänster på flygplatser.
+
+## Statistiska uppgifter
+
+### 2 §
+
+Transportstyrelsen ska senast den 1 juli varje år till Europeiska kommissionen översända uppgifter om vilka flygplatser som står öppna för kommersiell lufttrafik och vilka som når upp till de tröskelvärden som anges i 6 § lagen (2000:150) om marktjänster på flygplatser.
+
+*Förordning (2010:787)*.
+
+## Kompletterande regel om ledningsenhet vid en flygplats
+
+### 3 §
+
+Med ledningsenhet vid en flygplats avses chefen för flygplatsen, om inte annat beslutas av flygplatsens ägare eller av den som driver flygplatsen. Ett sådant beslut skall skriftligen meddelas Transportstyrelsen. *Förordning (2008:1135)*.
+
+## Kontroll av åtskillnad i bokföringen
+
+### 4 §
+
+Om det intyg som avses i 19 § lagen (2000:150) om marktjänster på flygplatser visar att bestämmelserna i 18 § samma lag inte har följts, skall Transportstyrelsen anmäla förhållandet och översända intyget samt eventuella andra upplysningar till Konkurrensverket. *Förordning (2008:1135)*.
+
+## Transportstyrelsens beslut om begränsning av marknaden
+
+### 5 §
+
+Transportstyrelsen ska minst tre månader före ikraftträdandet av ett beslut om begränsning av marknaden enligt 9 eller 13 § lagen (2000:150) om marktjänster på flygplatser anmäla beslutet till Europeiska kommissionen och ange de skäl som berättigar begränsningen.
+
+Senast tre månader innan ett sådant beslut om begränsning av marknaden löper ut ska Transportstyrelsen, om en ansökan om det har gjorts, fatta ett nytt beslut om begränsning av marknaden. Transportstyrelsen ska anmäla även det nya beslutet till Europeiska kommissionen och samtidigt ange de skäl som berättigar begränsningen.
+
+Ett beslut om begränsning av marknaden enligt 9 § lagen om marktjänster på flygplatser att för en tid av högst två år reservera en eller flera typer av tjänster som anges i 8 § första stycket samma lag för en enda leverantör av marktjänster, får förlängas endast en gång med ytterligare två år efter det att en begäran om förlängning gjorts av Transportstyrelsen hos Europeiska kommissionen.
+
+*Förordning (2019:465)*.
+
+## Bemyndiganden
+
+### 6 §
+
+Transportstyrelsen får meddela föreskrifter om
+
+1. flygplatsens användarkommitté,
+
+2. de beslut, villkor och ersättningar samt skälen för dessa enligt vad som anges i 1 § tredje stycket lagen (2000:150) om marktjänster på flygplatser,
+
+3. begränsningar av marknaden samt urval av leverantörer av marktjänster till tredje man och användare som utövar egenhantering,
+
+4. förbud enligt 17 § lagen om marktjänster på flygplatser,
+
+5. bokföring enligt 18 och 19 §§ lagen om marktjänster på flygplatser,
+
+6. tillträde till anläggningar och ersättningar för utnyttjande av anläggningar,
+
+7. jämkningar och omfördelningar av utrymmen och liknande,
+
+8. centraliserade anläggningar,
+
+9. samråd med användarkommittén enligt 10 och 15 §§ lagen om marktjänster på flygplatser, och
+
+10. tillsyn.
+
+Transportstyrelsen får meddela föreskrifter om verkställigheten av lagen om marktjänster på flygplatser och denna förordning. *Förordning (2019:465)*.
+
+### 7 §
+
+Transportstyrelsen får meddela ytterligare föreskrifter om avgifter för tillsyn och ärendehandläggning enligt lagen (2000:150) om marktjänster på flygplatser och enligt föreskrifter som meddelats med stöd av lagen. *Förordning (2019:465)*.

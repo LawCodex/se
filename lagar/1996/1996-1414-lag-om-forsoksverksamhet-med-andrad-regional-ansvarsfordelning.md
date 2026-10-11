@@ -1,0 +1,101 @@
+---
+title: "Lag (1996:1414) om försöksverksamhet med ändrad regional ansvarsfördelning"
+identifier: "SFS 1996:1414"
+type: act
+jurisdiction: se
+language: sv
+date: 1996-12-12
+amended_through: "SFS 2004:1224"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-1414.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:1414"
+retrieved: 2026-10-11
+---
+# Lag (1996:1414) om försöksverksamhet med ändrad regional ansvarsfördelning
+
+## Försökslän och tidsperiod
+
+### 1 §
+
+Under tiden den 1 juli 1997-31 december 2002 skall det enligt bestämmelserna i denna lag genomföras en försöksverksamhet med ändrad regional ansvarsfördelning i Kalmar, Gotlands och Skåne län.
+
+Under tiden den 1 januari 1999-31 december 2002 skall en sådan försöksverksamhet genomföras även i Västra Götalands län.
+
+Under tiden den 1 januari 2003-31 december 2010 skall försöksverksamheten fortsätta i Skåne län och Västra Götalands län. *Lag (2004:1224)*.
+
+## Uppgifter som ingår i den ändrade ansvarsfördelningen
+
+### 2 §
+
+I försökslänen skall ett regionalt självstyrelseorgan
+
+1. från och med den 1 juli 1997 från länsstyrelsen överta ansvaret för det sektorsövergripande arbetet med att utarbeta en strategi för länets långsiktiga utveckling enligt de föreskrifter om regionalt utvecklingsarbete som regeringen meddelar (det regionala utvecklingsansvaret),
+
+2. från och med den 1 juli 1997 från länsstyrelsen överta ansvaret för frågor om länsplaner för regional transportinfrastruktur,
+
+3. från och med den 1 juli 1998 från Statens kulturråd överta befogenheten att besluta om fördelningen av statsbidrag till regionala kulturinstitutioner enligt vad som närmare föreskrivs av regeringen, samt
+
+4. från och med den 1 januari 1998 besluta om användningen av regionalpolitiska och andra utvecklingsmedel enligt vad som närmare föreskrivs av regeringen.
+
+I Västra Götalands län skall det regionala självstyrelseorganet endast överta uppgifterna enligt första stycket 1, 2 och 4.
+
+Detta skall ske från och med den 1 januari 1999.
+
+Regeringen får besluta att överföringen av en uppgift skall ske vid en senare tidpunkt än vad som sägs i första och andra styckena. *Lag (2002:41)*.
+
+## Regionala självstyrelseorgan som medverkar i försöksverksamheten
+
+### 3 §
+
+Med regionalt självstyrelseorgan avses i denna lag landstinget. *Lag (2004:1224)*.
+
+### 4 §
+
+Skåne läns landsting och Västra Götalands läns landsting får besluta att landstingsfullmäktige och landstingsstyrelsen i stället skall betecknas regionfullmäktige och region- styrelsen.
+
+Vad som sägs i lag eller annan författning om landstings- fullmäktige och landstingsstyrelsen gäller i sådant fall för regionfullmäktige och regionstyrelsen. *Lag (1997:224)*.
+
+## Det regionala utvecklingsprogrammet
+
+### 5 §
+
+Det regionala utvecklingsansvaret omfattar uppgiften att utarbeta en strategi för länets långsiktiga utveckling (regionalt utvecklingsprogram).
+
+Det regionala utvecklingsprogrammet skall
+
+1. innehålla en analys av utvecklingsmöjligheter och problem i länet,
+
+2. ange de långsiktiga målen för länets utveckling,
+
+3. redovisa vilka åtgärder som bör vidtas för att målen skall nås,
+
+4. särskilt redovisa vilka prioriteringar som är nödvändiga för att förbättra tillväxt, sysselsättning och den inomregionala balansen,
+
+5. redovisa hur olika parter förväntas medverka i programmets genomförande, samt
+
+6. översiktligt redovisa hur insatserna skall finansieras.
+
+## Samverkan och samråd
+
+### 6 §
+
+Det regionala självstyrelseorganet skall samverka med länets kommuner och landsting samt med länsstyrelsen och övriga berörda statliga myndigheter.
+
+### 7 §
+
+Det regionala självstyrelseorganet bör samråda med företrädare för berörda organisationer och näringslivet i länet.
+
+## Statliga myndigheter och det regionala utvecklingsprogrammet
+
+### 8 §
+
+Ett fastställt regionalt utvecklingsprogram skall beaktas av alla statliga myndigheter som bedriver verksamhet i länet.
+
+Länsstyrelsen och övriga statliga myndigheter skall inom sina verksamhetsområden lämna det regionala självstyrelseorganet det biträde som det behöver för det regionala utvecklingsarbetet. De skall också löpande informera det regionala självstyrelseorganet om pågående och planerade verksamheter som har betydelse för länets utveckling.
+
+## Bemyndigande
+
+### 9 §
+
+Regeringen får meddela de närmare föreskrifter som behövs för genomförandet av försöksverksamheten.

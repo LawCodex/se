@@ -1,0 +1,33 @@
+---
+title: "Lag (1988:1473) om undersökning beträffande vissa smittsamma sjukdomar i brottmål"
+identifier: "SFS 1988:1473"
+type: act
+jurisdiction: se
+language: sv
+date: 1988-12-15
+amended_through: "SFS 2004:179"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1988-1473.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1988:1473"
+retrieved: 2026-10-11
+---
+# Lag (1988:1473) om undersökning beträffande vissa smittsamma sjukdomar i brottmål
+
+## 1 §
+
+Den som skäligen kan misstänkas för ett sexualbrott, varigenom hivinfektion eller annan allvarlig blodsmitta har kunnat överföras till målsäganden, skall undersökas med avseende på sådan infektion, om målsäganden begär det.
+
+Undersökning enligt första stycket skall på målsägandens begäran ske även i fråga om den som är skäligen misstänkt för något annat brott, om det på grund av särskilda omständigheter kan befaras att hivinfektion eller annan allvarlig blodsmitta har kunnat överföras till målsäganden genom brottet.
+
+*Lag (2004:179)*.
+
+## 2 §
+
+I fråga om förfarandet vid beslut om undersökning samt om utförandet av undersökningen gäller bestämmelserna i rättegångsbalken om kroppsbesiktning. Beslut om undersökning skall dock fattas av åklagaren eller rätten.
+
+Målsäganden och åklagaren skall underrättas om resultatet av undersökningen.
+
+## 3 §
+
+Staten skall svara för kostnaderna för undersökningen.

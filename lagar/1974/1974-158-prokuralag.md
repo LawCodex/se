@@ -1,0 +1,43 @@
+---
+title: "Prokuralag (1974:158)"
+identifier: "SFS 1974:158"
+type: act
+jurisdiction: se
+language: sv
+date: 1974-03-29
+amended_through: "SFS 2018:1659"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1974-158.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1974:158"
+retrieved: 2026-10-11
+---
+# Prokuralag (1974:158)
+
+## 1 §
+
+Har näringsidkare som registrerats i handelsregister åt annan givit fullmakt, som uttryckligen förklarats vara prokura (handelsfullmakt), eller har han på annat sätt angivit någon som sin prokurist, får denne i allt som gäller huvudmannens näringsverksamhet handla på hans vägnar och teckna hans firma. Prokuristen får dock ej utan särskilt bemyndigande överlåta huvudmannens fasta egendom eller tomträtt eller söka inteckning eller upplåta rättighet däri.
+
+Skriftlig prokura medför behörighet för prokuristen att företräda huvudmannen inför domstolar och andra myndigheter.
+
+Om registrering av prokura finns bestämmelser i handelsregisterlagen (1974:157).
+
+## 2 §
+
+Prokura får meddelas flera personer på sådant sätt att den endast kan begagnas av dem gemensamt (kollektivprokura).
+
+## 3 §
+
+Den behörighet som enligt denna lag tillkommer prokurist kan icke med laga verkan mot tredje man som är i god tro inskränkas till viss tid eller på annat sätt begränsas.
+
+## 4 §
+
+Prokurist bör teckna firman med ett tillägg som anger prokurauppdraget (per prokura, p.p. eller annan förkortning av dessa ord). Ytterligare bestämmelser om firmateckning finns i lagen (2018:1653) om företagsnamn. *Lag (2018:1659)*.
+
+## 5 §
+
+Prokurist får ej överlåta prokuran på annan person.
+
+## 6 §
+
+Prokura kan när som helt återkallas. Huvudmannens död medför ej att prokuran upphör att gälla.

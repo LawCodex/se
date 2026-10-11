@@ -1,0 +1,223 @@
+---
+title: "Lag (1998:621) om misstankeregister"
+identifier: "SFS 1998:621"
+type: act
+jurisdiction: se
+language: sv
+date: 1998-06-11
+amended_through: "SFS 2026:1557"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-621.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:621"
+retrieved: 2026-10-11
+---
+# Lag (1998:621) om misstankeregister
+
+### Misstankeregister
+
+#### 1 §
+
+Polismyndigheten ska med hjälp av automatiserad behandling föra ett register med uppgifter om dem som är skäligen misstänkta för brott (misstankeregistret).
+
+Myndigheten är personuppgiftsansvarig för behandlingen av personuppgifter i registret. *Lag (2014:594)*.
+
+### Förhållandet till andra bestämmelser om personuppgiftsbehandling
+
+#### 1 a §
+
+Denna lag gäller utöver brottsdatalagen (2018:1177).
+
+*Lag (2019:432)*.
+
+#### 1 b §
+
+Vid behandling av personuppgifter som inte omfattas av brottsdatalagen (2018:1177) kompletterar denna lag Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning).
+
+Vid behandling av personuppgifter enligt första stycket gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna lag eller föreskrifter som har meddelats i anslutning till lagen.
+
+*Lag (2019:432)*.
+
+### Ändamål
+
+#### 2 §
+
+Misstankeregistret ska föras för att underlätta tillgången till sådana uppgifter om skälig misstanke om brott som behövs i verksamhet hos
+
+1. Polismyndigheten, Säkerhetspolisen, Skatteverket, Tullverket och Kustbevakningen för att samordna förundersökningar mot en person och för att förebygga, förhindra eller upptäcka brottslig verksamhet och utreda brott,
+
+2. åklagarmyndigheter för beslut om förundersökning och åtal, och
+
+3. Polismyndigheten och andra myndigheter vid sådan lämplighetsprövning, tillståndsprövning eller annan prövning som anges i författning.
+
+Registret får användas också för att till en enskild lämna uppgifter som är av särskild betydelse i hans eller hennes verksamhet. *Lag (2019:432)*.
+
+### Innehåll
+
+#### 3 §
+
+Registret skall innehålla uppgifter om den som har fyllt femton år och som enligt förundersökningsledarens bedömning är skäligen misstänkt för
+
+1. brott mot brottsbalken,
+
+2. annat brott för vilket svårare straff än böter är föreskrivet eller
+
+3. sådant utomlands begånget brott som enligt svensk lag motsvarar brott enligt 1 eller 2, under förutsättning att frågan om lagföring för brottet skall avgöras i Sverige.
+
+Registret skall även innehålla uppgifter om den mot vilken allmän åklagare har inlett utredning i mål om förvandling av böter och om den som har begärts överlämnad eller utlämnad för brott.
+
+Regeringen eller den myndighet regeringen bestämmer får meddela föreskrifter om att registreringen skall begränsas på visst sätt. *Lag (2003:1167)*.
+
+#### 3 a §
+
+/Upphör att gälla U:2031-09-10 genom *lag (2026:1557)*./ Utöver vad som föreskrivs i 3 § ska registret innehålla uppgifter om den som har fyllt fjorton år och som enligt förundersökningsledarens bedömning är skäligen misstänkt för brott som avses i 1 kap. 6 § andra stycket brottsbalken.
+
+Regeringen eller den myndighet regeringen bestämmer får meddela föreskrifter om att registreringen ska begränsas på visst sätt. *Lag (2026:1535)*
+
+#### 4 §
+
+*/Upphör att gälla U:2031-09-10/* Regeringen meddelar närmare föreskrifter om vilka uppgifter registret ska innehålla om den som ska registreras enligt 3 eller 3 a §. *Lag (2026:1535)*.
+
+#### 4 §
+
+*/Träder i kraft I:2031-09-10/* Regeringen meddelar närmare föreskrifter om vilka uppgifter registret ska innehålla om den som ska registreras enligt 3 §. *Lag (2026:1557)*.
+
+### Sökbegrepp vid sökning i registret
+
+#### 4 a §
+
+Sökförbudet i 2 kap. 14 § brottsdatalagen (2018:1177) hindrar inte att brottsrubriceringar används som sökbegrepp vid sökning i misstankeregistret. *Lag (2019:432)*.
+
+### Rätt att få uppgifter ur registret
+
+### Svenska myndigheter
+
+#### 5 §
+
+Uppgifter ur misstankeregistret ska lämnas ut om det begärs av
+
+1. Säkerhetspolisen, Skatteverket, Tullverket, Kustbevakningen, åklagarmyndighet eller allmän domstol för verksamhet som avses i 2 § första stycket 1-3,
+
+2. myndighet i övrigt i den utsträckning regeringen för vissa slag av ärenden föreskriver det eller för ett särskilt fall ger tillstånd till det.
+
+Regeringen får föreskriva att en myndighet som avses i första stycket får ha direktåtkomst till registret.
+
+Att uppgifter får lämnas ut i vissa andra fall framgår av 10 kap. offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2014:594)*.
+
+#### 6 §
+
+En myndighet som har rätt att få uppgifter ur registret skall i varje särskilt fall noga pröva behovet av information.
+
+En begäran om att få ta del av uppgifter får göras endast om skälet till det uppväger den olägenhet det innebär för den som berörs.
+
+#### 7 §
+
+Uppgifter som är nödvändiga för att framställa rättsstatistiken skall lämnas till den myndighet som ansvarar för att framställa sådan statistik.
+
+### Enskilda
+
+#### 8 §
+
+Om det behövs för att pröva en fråga om anställning eller uppdrag i en verksamhet som avser vård eller som är av betydelse för förebyggande eller beivrande av brott, har en enskild rätt att få uppgifter ur registret om en annan enskild i den utsträckning regeringen för vissa typer av fall föreskriver det.
+
+En enskild, som styrker att hans eller hennes rätt är beroende av uppgifter ur registret om en annan enskild, har rätt att få ta del av dessa uppgifter om regeringen medger att uppgifterna får lämnas ut.
+
+#### 8 a §
+
+En enskild som behöver ett registerutdrag om sig själv har rätt att få ett begränsat utdrag ur registret enligt bestämmelser i
+
+1. lagen (2007:171) om registerkontroll av personal vid vissa boenden som tar emot barn,
+
+2. lagen (2010:479) om registerkontroll av personal som utför vissa insatser åt barn med funktionshinder,
+
+3. lagen (2013:852) om registerkontroll av personer som ska arbeta med barn,
+
+4. lagen (2026:43) om registerkontroll vid arbete i hemmet åt äldre personer eller vuxna personer med funktionsnedsättning, eller
+
+5. 2 eller 25 kap. skollagen (2010:800).
+
+Regeringen får meddela föreskrifter om vilka uppgifter ett sådant utdrag ska innehålla.
+
+En begäran om uppgifter ur registret ska vara skriftlig. Polismyndigheten ska säkerställa att begäran görs av en behörig person. *Lag (2026:759)*.
+
+### Utländska myndigheter
+
+#### 9 §
+
+Uppgifter ur registret får lämnas till en utländsk myndighet eller en mellanfolklig organisation, om utlämnandet följer av en internationell överenskommelse som Sverige efter riksdagens godkännande har tillträtt.
+
+#### 10 §
+
+Uppgifter får på begäran lämnas till en polis- eller åklagarmyndighet i en stat som är ansluten till Interpol eller till denna organisation om det behövs för att myndigheten eller organisationen ska kunna förebygga, upptäcka, utreda eller beivra brott eller för ett utlänningsärende.
+
+Uppgifter får vidare lämnas ut enligt vad som framgår av 8 kap. 3 § offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2009:474)*.
+
+#### 11 §
+
+Regeringen får meddela föreskrifter om
+
+1. att uppgifter får lämnas till en domstol eller polis- eller åklagarmyndighet i en annan stat än som sägs 9 §, om det behövs för utredning i ett brottmål eller ett utlänningsärende,
+
+2. att uppgifter om den som är medborgare i en främmande stat eller som har hemvist där får lämnas till en myndighet även i annat fall än som sägs i 9 eller 10 § och
+
+3. att de uppgifter som får lämnas ut enligt 9 och 10 §§ skall begränsas.
+
+### Utlämnande myndighet
+
+#### 12 §
+
+En begäran om att lämna ut uppgifter prövas av Polismyndigheten. *Lag (2014:594)*.
+
+### Gallring
+
+#### 13 §
+
+En uppgift i registret skall gallras
+
+1. om en förundersökning har avslutats utan att åtal väckts med anledning av misstanken,
+
+2. om åtal som har väckts med anledning av misstanken har lagts ned,
+
+3. om domstol har meddelat dom eller beslut som vunnit laga kraft med anledning av misstanken eller den misstänkte har godkänt strafföreläggande som har utfärdats i anledning av misstanken eller
+
+4. när en begäran om överlämnande eller utlämning har avslagits eller, om den har bifallits, överlämnandet eller utlämningen har verkställts.
+
+Vad som sägs i första stycket skall i tillämpliga delar gälla även uppgifter om talan om förvandling av böter. *Lag (2003:1167)*.
+
+### Tystnadsplikt
+
+#### 14 §
+
+Den som med stöd av denna lag har fått del av uppgifter om någon annans personliga förhållanden får inte obehörigen röja dessa uppgifter.
+
+I det allmännas verksamhet tillämpas i stället bestämmelserna i offentlighets- och sekretesslagen (2009:400). *Lag (2009:474)*.
+
+### Skadestånd vid personuppgiftsbehandling som omfattas av brottsdatalagen
+
+#### 15 §
+
+Bestämmelsen om skadestånd i 7 kap. 1 § brottsdatalagen (2018:1177) ska tillämpas om behandling av personuppgifter som omfattas av brottsdatalagen skett i strid med denna lag eller föreskrifter som har meddelats i anslutning till den.
+
+*Lag (2019:432)*.
+
+### Administrativa sanktionsavgifter vid personuppgiftsbehandling som omfattas av brottsdatalagen
+
+#### 16 §
+
+En sanktionsavgift får tas ut av den personuppgiftsansvarige vid överträdelse av bestämmelsen om gallring i 13 §, om överträdelsen skett vid behandling av personuppgifter som omfattas av brottsdatalagen (2018:1177).
+
+Sanktionsavgiften ska bestämmas till högst 10 000 000 kronor.
+
+*Lag (2019:432)*.
+
+## Övergångsbestämmelser
+
+**2026:1557**
+
+1. Denna lag träder i kraft den 10 september 2031.
+
+2. Äldre föreskrifter gäller fortfarande för uppgifter om misstankar om brott som har begåtts före ikraftträdandet.

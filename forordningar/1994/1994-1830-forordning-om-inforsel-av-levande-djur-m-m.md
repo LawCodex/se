@@ -1,0 +1,273 @@
+---
+title: "Förordning (1994:1830) om införsel av levande djur m.m."
+identifier: "SFS 1994:1830"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-12-20
+amended_through: "SFS 2026:604"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-1830.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:1830"
+retrieved: 2026-10-11
+---
+# Förordning (1994:1830) om införsel av levande djur m.m.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning har till syfte att
+
+1. förebygga att smittsamma eller ärftliga djursjukdomar kommer in i landet och får ytterligare spridning här,
+
+2. förhindra en inplantering av utländska djurarter som är skadlig för landets fauna, och
+
+3. tillgodose djurskyddsintresset.
+
+Förordningen ska inte tillämpas vid sådan förflyttning av djur från Finland eller Norge som görs i anledning av renskötseln och sker enligt internationella överenskommelser, utom när det gäller förebyggande av smittsamma djursjukdomar vid införsel enligt Europaparlamentets och rådets förordning (EU) 2016/429 av den 9 mars 2016 om överförbara djursjukdomar och om ändring och upphävande av vissa akter med avseende på djurhälsa ("djurhälsolag"). *Förordning (2021:256)*.
+
+#### 1 a §
+
+Statens jordbruksverk ska, om inte annat följer av de bestämmelser som avses i andra stycket, utföra de uppgifter som
+
+1. en behörig myndighet har enligt Europaparlamentets och rådets förordning (EU) 2017/625 av den 15 mars 2017 om offentlig kontroll och annan offentlig verksamhet för att säkerställa tillämpningen av livsmedels- och foderlagstiftningen och av bestämmelser om djurs hälsa och djurskydd, växtskydd och växtskyddsmedel samt om ändring av Europaparlamentets och rådets förordningar (EG) nr 999/2001, (EG) nr 396/2005, (EG) nr 1069/2009, (EG) nr 1107/2009, (EU) nr 1151/2012, (EU) nr 652/2014, (EU) 2016/429 och (EU) 2016/2031, rådets förordningar (EG) nr 1/2005 och (EG) nr 1099/2009 och rådets direktiv 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG och 2008/120/EG och om upphävande av Europaparlamentets och rådets förordningar (EG) nr 854/2004 och (EG) nr 882/2004, rådets direktiv 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG och 97/78/EG samt rådets beslut 92/438/EEG (förordningen om offentlig kontroll), eller delegerade akter och genomförandeakter till den för- ordningen, och som faller inom tillämpningsområdet för den här förordningen, om inte annat följer av 10 § eller av beslut som avses i 10 a §,
+
+2. en behörig myndighet har enligt förordning (EU) 2016/429, eller delegerade akter och genomförandeakter till den förordningen, och som faller inom tillämpningsområdet för den här förordningen, om inte annat följer av 10 § eller av beslut som avses i 10 a §,
+
+3. en medlemsstat har enligt artiklarna 128, 139.3, 153.3, 220.3, 249.2, 250.2 d, 256.1, 256.2 och 262.1 b i förordning (EU) 2016/429,
+
+4. en medlemsstat har enligt artikel 29.1 i kommissionens delegerade förordning (EU) 2026/131 av den 20 januari 2026 om komplettering av Europaparlamentets och rådets förordning (EU) 2016/429 vad gäller djurhälsokrav vid förflyttning av sällskapsdjur utan kommersiellt syfte, och
+
+5. framgår av artikel 11b i kommissionens delegerade förordning (EU) 2019/2122 av den 10 oktober 2019 om komplettering av Europaparlamentets och rådets förordning (EU) 2017/625 vad gäller vissa kategorier av djur och varor som är undantagna från offentlig kontroll vid gränskontrollstationer, särskild kontroll av passagerares personliga bagage och små sändningar av varor som sänds till fysiska personer och som inte är avsedda att släppas ut på marknaden och om ändring av kommissionens förordning (EU) nr 142/2011.
+
+Bestämmelser om offentlig kontroll av produkter av animaliskt ursprung som förs in i Europeiska unionen finns i förordningen (2006:812) om offentlig kontroll av livsmedel som importeras från ett tredjeland.
+
+Innan Jordbruksverket fattar beslut som avser förflyttning av ren enligt artikel 128 i förordning (EU) 2016/429 ska myndigheten ge Sametinget tillfälle att yttra sig.
+
+*Förordning (2026:604)*.
+
+#### 1 b §
+
+Har upphävts genom *förordning (2026:604)*.
+
+#### 1 c §
+
+När djur, avelsmaterial eller produkter av animaliskt ursprung förs in från ett tredjeland eller ett territorium tillämpas kraven i artikel 229-239 i förordning (EU) 2016/429.
+
+*Förordning (2021:256)*.
+
+#### 1 d §
+
+Jordbruksverket får ingå sådana internationella överenskommelser som avses i artikel 139.2 i förordning (EU) 2016/429. Detta gäller dock inte om överenskommelsen kräver riksdagens eller Utrikesnämndens medverkan.
+
+Innan Jordbruksverket ingår överenskommelser som avser förflyttning av ren enligt artikel 139.2 i förordning (EU) 2016/429 ska myndigheten ge Sametinget tillfälle att yttra sig. *Förordning (2021:256)*.
+
+### Officiell veterinär
+
+#### 2 §
+
+Jordbruksverket får förordna officiell veterinär att utföra kontroller av djur och vissa andra varor.
+
+Jordbruksverkets befogenhet att besluta i enskilda fall enligt förordningen eller enligt föreskrifter som meddelats med stöd av förordningen får verket helt eller delvis överlåta på officiell veterinär. *Förordning (2004:682)*.
+
+### Införseltillstånd och införselförbud
+
+#### 3 §
+
+Jordbruksverket får meddela föreskrifter om krav på särskilt tillstånd och om andra villkor för införsel av djur, produkter av djur, sjukdomsalstrande organismer, hö, halm och annat material som används vid hantering av djur.
+
+Verket får vidare meddela föreskrifter om införselförbud för sådana djur och produkter av djur som för att hindra spridning av smittsamma djursjukdomar inte får förflyttas enligt särskilda beslut meddelade av Europeiska unionen.
+
+Verket får också meddela föreskrifter om registreringsskyldighet för den som för in djur och djurprodukter i landet.
+
+Innan Jordbruksverket fattar beslut i ett ärende om tillstånd att föra in djur för utplantering ska verket höra
+
+1. Havs- och vattenmyndigheten, om ärendet gäller fisk, fiskrom, blötdjur, kräftdjur och andra akvatiska djurslag eller ägg från sådana djurslag, och
+
+2. Naturvårdsverket, om ärendet gäller andra djurslag eller ägg än sådana som avses i 1. *Förordning (2011:647)*.
+
+#### 3 a §
+
+Jordbruksverket får meddela föreskrifter om
+
+1. sådana tillstånd till införsel som avses i artiklarna 128 och 138 i förordning (EU) 2016/429,
+
+2. undantag från krav vid införsel enligt artikel 139.1 i förordning (EU) 2016/429,
+
+3. införsel av avelsmaterial enligt artikel 158 i förordning (EU) 2016/429,
+
+4. undantag från de krav för förflyttning från en annan EU- medlemsstat av vattenbruksdjur som framgår av artikel 197.1 och 197.2 i förordning (EU) 2016/429 i enlighet med artikel 198 i samma förordning,
+
+5. krav enligt artikel 199 i förordning (EU) 2016/429, när det gäller förflyttning från en annan EU-medlemsstat till Sverige, på att vattenlevande djur endast sätts ut i naturen om de kommer från en medlemsstat, zon eller anläggningskrets som förklarats sjukdomsfri,
+
+6. riskreducerande åtgärder i enlighet med artikel 200.3 förordning (EU) 2016/429, när det gäller förflyttning från en annan EU-medlemsstat till Sverige, och
+
+7. undantag från kravet i artikel 220.1 i förordning (EU) 2016/429 på anmälan av förflyttningar av vattenlevande djur genom en behörig myndighet i enlighet med artikel 220.4 i samma förordning.
+
+Innan Jordbruksverket meddelar föreskrifter som kan komma att påverka miljön i sjöar, vattendrag eller hav ska myndigheten ge Havs- och vattenmyndigheten tillfälle att yttra sig.
+
+Innan Jordbruksverket meddelar föreskrifter som avser förflyttning av ren enligt första stycket 1 och 2 ska myndigheten ge Sametinget tillfälle att yttra sig.
+
+*Förordning (2021:256)*.
+
+#### 3 b §
+
+Jordbruksverket ska, vid behov, göra en sådan begäran till kommissionen om nödåtgärder som avses i artikel 261.1 i förordning (EU) 2016/429. *Förordning (2021:256)*.
+
+#### 3 c §
+
+Jordbruksverket får meddela föreskrifter om undantag från djurhälsokrav vid förflyttning av sällskapsdjur utan kommersiellt syfte enligt artiklarna 9, 10.2, 16 och 28 i förordning (EU) 2026/131.
+
+Om Jordbruksverket har meddelat föreskrifter enligt artikel 9, 10.2 eller 16 i förordning (EU) 2026/131 ska Jordbruksverket utföra den uppgift som en medlemsstat har enligt artiklarna att underrätta allmänheten på en särskild webbplats om att vissa förflyttningar är tillåtna. *Förordning (2026:604)*.
+
+#### 4 §
+
+Införsel av djur och produkter av djur från ett land utanför Europeiska unionen är inte tillåten om djuren eller djurprodukterna
+
+1. kommer från ett område från vilket införsel inte får ske till Europeiska unionen,
+
+2. omfattas av ett införselförbud enligt särskilt beslut inom Europeiska unionen,
+
+3. transporten inte uppfyller svenska djurskyddsbestämmelser.
+
+### Införselkontroll
+
+#### 5 §
+
+Jordbruksverket får meddela föreskrifter om hur kontrollen skall genomföras vid införsel av djur och varor.
+
+#### 6 §
+
+Införsel från land utanför Europeiska unionen av djur eller varor som avses i 3 § första stycket får ske endast på de platser som Jordbruksverket föreskriver.
+
+#### 7 §
+
+Vid införsel från land utanför Europeiska unionen av levande djur får djuren inte lastas ur utan medgivande av en officiell veterinär.
+
+#### 8 §
+
+Om gods måste lastas ur på annan plats eller på annat sätt än som föreskrivs i förordningen eller i föreskrifter som meddelats med stöd av förordningen, ska Tullverket eller Polismyndigheten begära besked hos en officiell veterinär om vilka åtgärder som ska vidtas i avvaktan på Jordbruksverkets beslut om vad man ska göra med godset. Om det är nödvändigt ska veterinären besikta platsen. *Förordning (2014:1235)*.
+
+#### 9 §
+
+Vid införsel från land inom Europeiska unionen av djur och produkter av djur får en transport stoppas under färd till destinationsorten om
+
+1. det finns särskild anledning att misstänka förekomst av smittsam sjukdom,
+
+2. det finns anledning att misstänka att djuret eller djurprodukten på annat sätt utgör en allvarlig hälsorisk för människor eller djur,
+
+3. medföljande dokument är ofullständiga, felaktiga eller saknas helt, eller
+
+4. de villkor som gäller för införsel till landet inte är uppfyllda.
+
+#### 10 §
+
+Tullverket ska övervaka att införsel sker enligt denna förordning och de föreskrifter som meddelats med stöd av denna förordning samt enligt förordning (EU) 2026/131.
+
+Tullverket ska utföra
+
+1. kontroll av att djurhälsokraven i förordning (EU) 2026/131 följs vid införsel till Sverige av sällskapsdjur utan kommersiellt syfte,
+
+2. kontroll av de villkor för införsel till Europeiska unionen av sällskapsdjur utan kommersiellt syfte som framgår av artikel 11.1 och 11.2 i förordning (EU) 2019/2122, och
+
+3. de uppgifter som en tullmyndighet har enligt Europaparlamentets och rådets förordning (EU) 2017/625.
+
+*Förordning (2026:604)*.
+
+#### 10 a §
+
+Jordbruksverket får i ett enskilt fall besluta om undantag från 10 § andra stycket 2 och att kontroll av villkoren i artikel 11.1 c i förordning (EU) 2019/2122 i stället ska utföras av en officiell veterinär som har förordnats av Jordbruksverket eller, om införseln avser förflyttning av sällskapshundar av militär personal, av försvarsinspektören för hälsa och miljö.
+
+Ett beslut enligt första stycket får endast fattas efter överenskommelse med den som enligt Jordbruksverkets beslut ska utföra kontrollen. Tullverket ska informeras om sådana beslut.
+
+*Förordning (2026:604)*.
+
+### Åtgärder vid vägrad införsel
+
+#### 11 §
+
+Om införsel inte är tillåten på grund av meddelade förbud eller därför att villkoren för införseln inte är uppfyllda, skall Jordbruksverket bestämma vad som skall göras med godset. Till dess Jordbruksverket meddelat sitt beslut får godset inte lossas eller lämnas ut. I avvaktan på Jordbruksverkets beslut får officiell veterinär bestämma hur levande djur skall tas om hand.
+
+*Förordning (1996:223)*.
+
+#### 12 §
+
+Om det är nödvändigt för att förebygga djursjukdom, får Jordbruksverket i fråga om varor som avses i 3 § första stycket och i fråga om levande växter, potatis, rotfrukter, utsädesvaror, vegetabiliska fodermedel och spånadsämnen meddela föreskrifter om desinfektion av varor, emballage, förvaringskärl och transportmedel.
+
+#### 13 §
+
+I fråga om rätten att hantera oförtullade varor som inte får föras in i landet gäller lagen (1973:980) om transport, förvaring och förstöring av införselreglerade varor m. m., om inte något annat följer av förordningen eller föreskrifter som meddelats med stöd av förordningen.
+
+Jordbruksverket får meddela föreskrifter om begränsning av rätten att hantera oförtullade varor.
+
+#### 14 §
+
+Har upphävts genom *förordning (2021:256)*.
+
+#### 15 §
+
+Har upphävts genom *förordning (2021:256)*.
+
+Avgifter m. m.
+
+#### 16 §
+
+Kostnader för åtgärder enligt denna förordning eller enligt föreskrifter som meddelats med stöd av denna förordning ska betalas av den som vill föra in djur eller produkter av djur i landet eller av den som äger eller ansvarar för transportmedel som används vid införseln. Kostnader för stickprovskontroll ska betalas av statsmedel.
+
+För åtgärder som beslutas enligt artikel 138 i Europaparlamentets och rådets förordning (EU) 2017/625 finns bestämmelser om kostnadsansvar i artikel 138.4 samma förordning. För åtgärder som beslutas enligt artikel 11b i förordning (EU) 2019/2122 finns bestämmelser om kostnadsansvar i artikel 11b.3 samma förordning.
+
+Jordbruksverket kan meddela föreskrifter med stöd av förordningen (1994:1313) om avgifter vid veterinär yrkesutövning om ersättning för besiktning eller annan förrättning som utförs enligt denna förordning eller enligt föreskrifter som meddelats med stöd av denna förordning. *Förordning (2026:604)*.
+
+#### 17 §
+
+Om ett djur avlivas till följd av bestämmelser i förordningen eller föreskrifter som meddelats med stöd av förordningen, lämnas inte någon ersättning av statsmedel för djurets värde.
+
+#### 18 §
+
+Jordbruksverket får meddela föreskrifter om avgifter för
+
+1. registrering och tillstånd enligt 3 § denna förordning, och
+
+2. tillhandahållande av pass för sällskapsdjur som avses i kommissionens delegerade förordning (EU) 2019/2035 av den 28 juni 2019 om komplettering av Europaparlamentets och rådets förordning (EU) 2016/429 vad gäller bestämmelser om anläggningar som håller landlevande djur och kläckerier samt om spårbarhet för vissa hållna landlevande djur och kläckägg.
+
+*Förordning (2026:604)*.
+
+#### 18 a §
+
+Har upphävts genom *förordning (2014:1380)*.
+
+### Överklagande
+
+#### 19 §
+
+En officiell veterinärs beslut enligt denna förordning eller enligt föreskrifter som har meddelats med stöd av förordningen får överklagas till Jordbruksverket.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+Beslut enligt denna förordning gäller omedelbart om inte något annat bestäms. Detsamma gäller beslut enligt föreskrifter som har meddelats med stöd av denna förordning och beslut enligt de EU-förordningar som anges i 1 a § och som gäller förflyttning av sällskapsdjur utan kommersiellt syfte.
+
+*Förordning (2026:604)*.
+
+Ansvarsbestämmelser m. m.
+
+#### 20 §
+
+Bestämmelser om påföljd för olovlig införsel av djur eller produkter av djur och för försök därtill finns i lagen (2000:1275) om straff för smuggling. I fråga om beslagtaget gods skall de försiktighetsmått iakttas som Jordbruksverket efter anmälan av Tullverket anser nödvändiga.
+
+Den som uppsåtligen eller av oaktsamhet bryter mot en föreskrift som har meddelats med stöd av denna förordning döms till böter, om inte gärningen är belagd med straff i lagen om straff för varusmuggling. *Förordning (2000:1275)*.
+
+#### 21 §
+
+Ytterligare föreskrifter om verkställigheten av förordningen får beslutas av Jordbruksverket. Om det då uppkommer någon fråga som berör en annan myndighet, skall Jordbruksverket samråda med den myndigheten.
+
+## Övergångsbestämmelser
+
+**1994:1830**
+
+Denna förordning träder i kraft den dag lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen träder i kraft.
+
+Genom förordningen upphävs veterinära införselkungörelsen (1958:551).
+
+I fråga om beslut som har meddelats före ikraftträdandet gäller äldre bestämmelser.

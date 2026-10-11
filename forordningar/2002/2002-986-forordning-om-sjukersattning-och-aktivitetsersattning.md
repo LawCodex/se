@@ -1,0 +1,63 @@
+---
+title: "Förordning (2002:986) om sjukersättning och aktivitetsersättning"
+identifier: "SFS 2002:986"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-12-05
+amended_through: "SFS 20103:54"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-986.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:986"
+retrieved: 2026-10-11
+---
+# Förordning (2002:986) om sjukersättning och aktivitetsersättning
+
+## Ansökan m.m.
+
+### 1 §
+
+I 110 kap. 4 och 9 §§ socialförsäkringsbalken finns bestämmelser om ansökan rörande aktivitetsersättning och sjukersättning. Dessa bestämmelser tillämpas också i fråga om begäran enligt 36 kap. 16 § socialförsäkringsbalken.
+
+*Förordning (2010:1720)*.
+
+### 2 §
+
+Har upphävts genom *förordning (2012:266)*.
+
+### 3 §
+
+Till ansökan om sjukersättning eller aktivitetsersättning eller om ökning av sådan förmån ska läkarutlåtande om den försäkrades hälsotillstånd ges in. Detta gäller dock inte om särskilda skäl talar emot det eller i fall som avses i 33 kap. 8 § socialförsäkringsbalken. *Förordning (2010:1720)*.
+
+### 4 §
+
+Har upphävts genom *förordning (2008:877)*.
+
+## Utbetalning
+
+### 5 §
+
+Har upphävts genom *förordning (2008:877)*.
+
+### 6 §
+
+Sjukersättning och aktivitetsersättning skall kunna lyftas av mottagaren följande datum i utbetalningsmånaden. För den som är född någon av dagarna den 1-15 i månaden skall ersättningen kunna lyftas av mottagaren den 18 i utbetalningsmånaden. För den som är född någon av dagarna den 16-31 i månaden skall ersättningen kunna lyftas av mottagaren den 19 i utbetalningsmånaden.
+
+Om utbetalningsdagen infaller på en söndag eller på en omedelbart därpå följande helgdag, skall ersättningen kunna lyftas närmast påföljande vardag. Om utbetalningsdagen infaller på en annan helgdag, på en lördag eller på midsommarafton, skall ersättningen kunna lyftas närmast föregående vardag.
+
+### 7 §
+
+När ett beslut om vilandeförklaring av sjukersättning eller aktivitetsersättning upphävs enligt 36 kap. 16 eller 17 § socialförsäkringsbalken och ersättningen åter ska betalas ut ska den första utbetalningen ske från och med månaden näst efter den då anledningen till att upphäva beslutet uppkom.
+
+*Förordning (2010:1720)*.
+
+### 8 §
+
+Försäkringskassan ska besluta om tiden för utbetalning av
+
+1. sjukersättning eller aktivitetsersättning till den som vistas utomlands, och
+
+2. det belopp som först förfaller till betalning efter beslut om sjukersättning eller aktivitetsersättning.
+
+Försäkringskassan får meddela närmare föreskrifter om beräkningen av tillägg och avgift enligt 37 kap. 15 § socialförsäkringsbalken. *Förordning (2013:54)*.

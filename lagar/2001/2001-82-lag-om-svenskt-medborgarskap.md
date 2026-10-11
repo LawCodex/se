@@ -1,0 +1,591 @@
+---
+title: "Lag (2001:82) om svenskt medborgarskap"
+identifier: "SFS 2001:82"
+type: act
+jurisdiction: se
+language: sv
+date: 2001-03-01
+amended_through: "SFS 2026:1689"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-82.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:82"
+retrieved: 2026-10-11
+---
+# Lag (2001:82) om svenskt medborgarskap
+
+### Medborgarskapets betydelse
+
+#### 1 §
+
+Det svenska medborgarskapet är ett rättsligt förhållande mellan medborgaren och staten som medför rättigheter och skyldigheter för båda parter. Medborgarskapet förenar alla medborgare och står för samhörighet med Sverige.
+
+Medborgarskapet representerar det formella medlemskapet i det svenska samhället och är en grund för folkstyrelsen.
+
+I denna lag regleras hur en person blir och upphör att vara svensk medborgare. *Lag (2014:481)*.
+
+### Förvärv av svenskt medborgarskap vid födelsen
+
+#### 2 §
+
+Ett barn förvärvar svenskt medborgarskap vid födelsen, om
+
+1. en förälder till barnet är svensk medborgare, eller
+
+2. en avliden förälder till barnet var svensk medborgare vid sin död. *Lag (2014:481)*.
+
+#### 3 §
+
+Ett hittebarn som anträffas här i landet anses som svensk medborgare till dess något annat blir känt. *Lag (2014:481)*.
+
+### Förvärv av svenskt medborgarskap genom adoption
+
+#### 4 §
+
+Ett barn som inte har fyllt tolv år och som adopteras av en svensk medborgare blir vid adoptionen svensk medborgare, om
+
+1. barnet adopteras i Sverige, Danmark, Finland, Island eller Norge, eller
+
+2. barnet adopteras genom ett utländskt beslut som gäller i Sverige enligt lagen (1997:191) med anledning av Sveriges tillträde till Haagkonventionen om skydd av barn och samarbete vid internationella adoptioner eller lagen (2018:1289) om adoption i internationella situationer. *Lag (2018:1293)*.
+
+#### 5 §
+
+Har upphävts genom *lag (2014:481)*.
+
+### Förvärv av svenskt medborgarskap efter anmälan
+
+#### 6 §
+
+Ett barn som har fötts i Sverige och som sedan födelsen är statslöst förvärvar svenskt medborgarskap efter anmälan av den eller dem som har vårdnaden om barnet, om barnet har permanent uppehållstillstånd och hemvist här i landet.
+
+Kravet på permanent uppehållstillstånd i första stycket gäller inte ett barn som har haft hemvist här i landet sedan fem år eller under sammanlagt tio år och som har beviljats ett tidsbegränsat uppehållstillstånd med stöd av 5 kap. 3, 3 a, 3 g, 3 h eller 6 § eller 12 kap. 18 § utlänningslagen (2005:716) eller med stöd av artikel 23 i Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU, eller som flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i samma förordning eller motsvarande äldre bestämmelser.
+
+*Lag (2026:1689)*.
+
+#### 7 §
+
+Har upphävts genom *lag (2026:447)*.
+
+#### 8 §
+
+En utlänning som är född i Sverige och sedan födelsen är statslös förvärvar svenskt medborgarskap efter anmälan om han eller hon
+
+1. har fyllt arton men inte tjugoett år vid anmälningstillfället,
+
+2. har permanent uppehållstillstånd i Sverige eller har beviljats ett tidsbegränsat uppehållstillstånd med stöd av 5 kap. 3 eller 3 a § eller någon av 3 d-3 h §§ eller 6 § eller 12 kap. 18 § utlänningslagen (2005:716) eller med stöd av artikel 23 i Europaparlamentets och rådets förordning (EU) 2024/1347 eller som flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i samma förordning eller motsvarande äldre bestämmelser,
+
+3. har haft hemvist här i landet sedan fem år eller under sammanlagt tio år, och
+
+4. inte har dömts för ett brott mot Sveriges säkerhet eller dömts till frihetsberövande påföljd i fem år eller längre.
+
+*Lag (2026:1689)*.
+
+#### 9 §
+
+Har upphävts genom *lag (2026:447)*.
+
+#### 10 §
+
+Om en utlänning blir svensk medborgare enligt 6 eller 8 §, förvärvar även hans eller hennes barn som har hemvist här i landet och inte har fyllt arton år svenskt medborgarskap om utlänningen
+
+1. ensam har vårdnaden om barnet, eller
+
+2. har vårdnaden gemensamt med den andra föräldern och han eller hon är svensk medborgare.
+
+Blir föräldrarna till ett barn som har hemvist här i landet och som inte har fyllt arton år samtidigt svenska medborgare enligt 6 eller 8 §, förvärvar även barnet svenskt medborgarskap om han eller hon står under bådas vårdnad.
+
+*Lag (2026:447)*.
+
+### Förvärv av svenskt medborgarskap efter ansökan (naturalisation)
+
+#### 11 §
+
+En utlänning som har fyllt arton år kan efter ansökan beviljas svenskt medborgarskap (naturaliseras) om han eller hon
+
+1. har styrkt sin identitet,
+
+2. har permanent uppehållstillstånd i Sverige,
+
+3. har hemvist här i landet sedan åtta år, om inte annat följer av 11 a §,
+
+4. har haft och kan förväntas komma att ha ett skötsamt och hederligt levnadssätt,
+
+5. har förmåga att försörja sig enligt 11 b §, och
+
+6. har visat tillräckliga kunskaper i svenska och om det svenska samhället enligt 13 §.
+
+Kravet i första stycket 6 gäller inte den som har fyllt 67 år.
+
+*Lag (2026:447)*.
+
+#### 11 a §
+
+I stället för vad som anges i 11 § första stycket 3 ska sökanden ha haft hemvist här i landet
+
+1. sedan två år i fråga om den som
+
+a) är dansk, finländsk, isländsk eller norsk medborgare, eller
+
+b) tidigare har varit svensk medborgare,
+
+2. sedan fem år i fråga om den som är statslös, eller
+
+3. sedan sju år i fråga om den som
+
+a) är att bedöma som flykting enligt artikel 3.5 i Europaparlamentets och rådets förordning (EU) 2024/1347,
+
+b) är gift eller sambo med en svensk medborgare, eller
+
+c) inte har fyllt tjugoett år vid ansökningstillfället.
+
+Första stycket 3 b gäller endast om äktenskapet eller samboförhållandet har varat i minst fem år och sökandens make eller sambo har varit svensk medborgare i minst fem år.
+
+*Lag (2026:1151)*
+
+#### 11 b §
+
+Försörjningskravet i 11 § första stycket 5 är uppfyllt om utlänningen
+
+1. har lön eller inkomst av näringsverksamhet, och
+
+2. de senaste tre åren före ansökan inte har mottagit försörjningsstöd enligt 12 kap. 1 § socialtjänstlagen (2025:400) under en sammanlagd tid som överstiger sex månader.
+
+Lön eller inkomst av näringsverksamhet enligt första stycket 1 ska som lägst uppgå till en årsinkomst om tre inkomstbasbelopp enligt 58 kap. 26 och 27 §§ socialförsäkringsbalken. Arbetsrelaterad ersättning som lämnas tillfälligt under pågående anställning jämställs med lön. Inkomster från anställning med särskilt anställningsstöd, med stöd för nystartsjobb och i etableringsjobb får inte beaktas. Inte heller inkomster från näringsverksamhet vid stöd till start av näringsverksamhet får beaktas.
+
+För att försörjningskravet ska vara uppfyllt får försörjningsförmågan inte bara vara tillfällig. *Lag (2026:447)*.
+
+#### 11 c §
+
+Om kraven i 11 § första stycket inte är uppfyllda får, om annat inte följer av andra, tredje eller fjärde stycket, sökanden ändå naturaliseras om det finns särskilda skäl.
+
+En sökande som inte kan styrka sin identitet enligt 11 § första stycket 1 får naturaliseras endast om han eller hon sedan minst tio år har hemvist här i landet och gör sannolikt att den uppgivna identiteten är riktig.
+
+En sökande som inte uppfyller försörjningskravet i 11 § första stycket 5 får naturaliseras endast om
+
+1. han eller hon har rätt att uppbära inkomstgrundad ålderspension, garantipension eller äldreförsörjningsstöd enligt socialförsäkringsbalken,
+
+2. han eller hon uppfyller kravet i 11 b § första stycket 2 och bedriver studier med godkända studieresultat inom
+
+a) en utbildning på heltid vid ett svenskt universitet eller högskola som leder till en examen på grundnivå, avancerad nivå eller forskarnivå, eller
+
+b) en utbildning på heltid som leder till en yrkeshögskoleexamen eller en kvalificerad yrkeshögskoleexamen,
+
+3. han eller hon bedriver studier inom gymnasieskolan, eller
+
+4. det inte rimligen kan begäras att sökanden uppfyller försörjningskravet.
+
+En sökande som inte har visat kunskaper enligt 11 § första stycket 6 får naturaliseras endast om det, på grund av en funktionsnedsättning eller andra personliga förhållanden, inte rimligen kan begäras att sökanden visar sådana kunskaper.
+
+*Lag (2026:447)*.
+
+#### 12 §
+
+Ett utländskt barn kan efter ansökan av den eller dem som har vårdnaden om barnet beviljas svenskt medborgarskap om
+
+1. barnets identitet har styrkts,
+
+2. barnet har permanent uppehållstillstånd i Sverige,
+
+3. barnet har hemvist här i landet
+
+a) sedan två år om barnet är dansk, finländsk, isländsk eller norsk medborgare,
+
+b) sedan två år om barnet är statslöst och inte har fyllt femton år,
+
+c) sedan tre år om barnet inte har fyllt femton år och inte omfattas av a eller b,
+
+d) sedan fem år om barnet har fyllt femton år och inte omfattas av a,
+
+4. barnet har haft och kan förväntas komma att ha ett skötsamt och hederligt levnadssätt, om barnet har fyllt femton år, och
+
+5. barnet har visat tillräckliga kunskaper i svenska och om det svenska samhället enligt 13 §, om barnet har fyllt sexton år.
+
+Om barnet har fyllt tolv år och har utländskt medborgarskap krävs för förvärv av svenskt medborgarskap att barnet samtycker till det, om inte barnet är varaktigt förhindrat att lämna samtycke på grund av sjukdom eller något annat liknande förhållande. *Lag (2026:447)*.
+
+#### 12 a §
+
+Om kraven i 12 § första stycket inte är uppfyllda får, om inte annat följer av andra eller tredje stycket, barnet ändå naturaliseras om det finns särskilda skäl.
+
+Ett barn vars identitet inte har styrkts enligt 12 § första stycket 1 får naturaliseras endast om han eller hon sedan minst sju år har hemvist här i landet och det görs sannolikt att den uppgivna identiteten är riktig.
+
+Ett barn som inte har visat kunskaper enligt 12 § första stycket 5 får naturaliseras endast om det, på grund av en funktionsnedsättning eller andra personliga förhållanden, inte rimligen kan begäras att barnet visar sådana kunskaper.
+
+*Lag (2026:447)*.
+
+#### 13 §
+
+/Upphör att gälla U:2027-10-01 eller den tidigare dag som regeringen bestämmer/ Tillräckliga kunskaper i svenska visas på de sätt som anges i 13 a §, om inte annat följer av 13 b §.
+
+Tillräckliga kunskaper om det svenska samhället visas genom godkänt medborgarskapsprov i samhällskunskap om inte annat följer av 13 c §.
+
+Genom medborgarskapsprovet i samhällskunskap ska det prövas om utlänningen har grundläggande kunskaper om det svenska samhället. Provet ska utformas på svenska på funktionell nivå.
+
+*Lag (2026:447)*.
+
+#### 13 §
+
+/Träder i kraft I:2027-10-01 eller den tidigare dag som regeringen bestämmer/ Tillräckliga kunskaper i svenska och om det svenska samhället visas genom godkänt medborgarskapsprov i svenska och samhällskunskap om inte annat följer av 13 a-13 c §§.
+
+Genom provet i svenska ska det prövas om utlänningen visar läs- och hörförståelse på funktionell nivå.
+
+Genom provet i samhällskunskap ska det prövas om utlänningen har grundläggande kunskaper om det svenska samhället. Provet ska utformas på svenska på funktionell nivå. *Lag (2026:448)*.
+
+#### 13 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Tillräckliga kunskaper i svenska och om det svenska samhället visas genom godkänt medborgarskapsprov i svenska och samhällskunskap om inte annat följer av 13 a-13 c §§.
+
+Genom provet i svenska ska det prövas om utlänningen visar läs- och hörförståelse på funktionell nivå och muntlig och skriftlig färdighet på grundläggande nivå.
+
+Genom provet i samhällskunskap ska det prövas om utlänningen har grundläggande kunskaper om det svenska samhället. Provet ska utformas på svenska på funktionell nivå. *Lag (2026:449)*.
+
+#### 13 a §
+
+/Upphör att gälla U:2027-10-01 eller den tidigare dag som regeringen bestämmer/ */Upphör att gälla U:den dag som regeringen bestämmer/*
+
+Tillräckliga kunskaper i svenska visas genom
+
+1. godkänt betyg i svenska eller svenska som andraspråk från
+
+a) den avslutande årskursen i grundskolan eller motsvarande utbildning, den avslutande årskursen i anpassade grundskolan eller någon av de två sista årskurserna i specialskolan,
+
+b) gymnasieskolan, anpassade gymnasieskolan eller folkhögskolestudier på gymnasial nivå,
+
+c) kommunal vuxenutbildning, eller
+
+d) den avslutande årskursen i en skolform som motsvarar grundskolan eller gymnasieskolan inom ett annat nordiskt lands skolväsende, eller
+
+2. godkänt betyg i den högsta kursen i kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning, eller
+
+3. godkänt resultat på
+
+a) ett kunskapsprov som används av universitet och högskolor för att pröva de kunskaper i svenska som krävs för högskolestudier i Sverige, eller
+
+b) ett annat kunskapsprov i svenska som med hög grad av säkerhet visar kunskaper i svenska på funktionell nivå.
+
+*Lag (2026:447)*.
+
+#### 13 a §
+
+/Träder i kraft I:2027-10-01 eller den tidigare dag som regeringen bestämmer/ */Upphör att gälla U:den dag som regeringen bestämmer/*
+
+Utöver vad som framgår av 13 § kan tillräckliga kunskaper i svenska visas genom
+
+1. godkänt betyg i svenska eller svenska som andraspråk från
+
+a) den avslutande årskursen i grundskolan eller motsvarande utbildning, den avslutande årskursen i anpassade grundskolan eller någon av de två sista årskurserna i specialskolan,
+
+b) gymnasieskolan, anpassade gymnasieskolan eller folkhögskolestudier på gymnasial nivå,
+
+c) kommunal vuxenutbildning, eller
+
+d) den avslutande årskursen i en skolform som motsvarar grundskolan eller gymnasieskolan inom ett annat nordiskt lands skolväsende, eller
+
+2. godkänt betyg i den högsta kursen i kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning, eller
+
+3. godkänt resultat på
+
+a) ett kunskapsprov som används av universitet och högskolor för att pröva de kunskaper i svenska som krävs för högskolestudier i Sverige, eller
+
+b) ett annat kunskapsprov i svenska som med hög grad av säkerhet visar kunskaper i svenska på funktionell nivå.
+
+*Lag (2026:448)*.
+
+#### 13 a §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Utöver vad som framgår av 13 § kan tillräckliga kunskaper i svenska visas genom
+
+1. godkänt betyg i svenska eller svenska som andraspråk från
+
+a) den avslutande årskursen i grundskolan eller motsvarande utbildning, den avslutande årskursen i anpassade grundskolan eller någon av de två sista årskurserna i specialskolan,
+
+b) gymnasieskolan, anpassade gymnasieskolan eller folkhögskolestudier på gymnasial nivå,
+
+c) kommunal vuxenutbildning, eller
+
+d) den avslutande årskursen i en skolform som motsvarar grundskolan eller gymnasieskolan inom ett annat nordiskt lands skolväsende, eller
+
+2. godkänt betyg i den högsta kursen i kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning, eller
+
+3. godkänt resultat på ett kunskapsprov som används av universitet och högskolor för att pröva de kunskaper i svenska som krävs för högskolestudier i Sverige. *Lag (2026:449)*.
+
+#### 13 b §
+
+Kravet på tillräckliga kunskaper i svenska gäller inte för den som har godkänt betyg i danska eller norska från den avslutande årskursen i en skolform som motsvarar grundskolan eller gymnasieskolan inom ett annat nordiskt lands skolväsende. *Lag (2026:447)*.
+
+#### 13 c §
+
+Utöver vad som framgår av 13 § kan tillräckliga kunskaper om det svenska samhället visas genom godkänt betyg i samhällskunskap eller grundläggande samhällsorienterande ämnen från
+
+1. den avslutande årskursen i grundskolan eller anpassade grundskolan eller någon av de två sista årskurserna i specialskolan,
+
+2. gymnasieskolan, anpassade gymnasieskolan eller folkhögskolestudier på gymnasial nivå, eller
+
+3. kommunal vuxenutbildning. *Lag (2026:447)*.
+
+#### 13 d §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om medborgarskapsprovet. *Lag (2026:447)*.
+
+#### 13 e §
+
+Regeringen får meddela föreskrifter om avgift för anmälan till medborgarskapsprovet. *Lag (2026:447)*.
+
+### Upptagning av fotografier och fingeravtryck
+
+#### 13 f §
+
+I ett ärende enligt 8 och 10-12 a §§ får den myndighet som ska pröva ansökan eller anmälan fotografera en utlänning som har uppehållstillstånd och, om han eller hon har fyllt sex år, ta hans eller hennes fingeravtryck för kontroll av identiteten. Fotografier och fingeravtryck som har tagits får även användas för kontroll av kraven i 8 § 4, 11 § första stycket 4 och 12 § första stycket 4.
+
+Utlänningen är skyldig att överlämna sitt uppehållstillståndskort till den myndighet som ska pröva ansökan eller anmälan för kontroll av att de fotografier och fingeravtryck som har tagits enligt första stycket motsvarar de uppgifter som finns sparade i ett lagringsmedium i kortet.
+
+Om en kontroll enligt andra stycket inte kan genomföras får den myndighet som ska pröva ansökan eller anmälan kontrollera om de fotografier och fingeravtryck som har tagits enligt första stycket motsvarar de uppgifter som finns sparade i register som förs enligt 15 § utlänningsdatalagen (2016:27).
+
+Fotografier och fingeravtryck samt biometriska data som har tagits fram i samband med en kontroll ska omedelbart förstöras efter kontrollen. Fotografier och fingeravtryck som inte motsvarar de uppgifter som finns sparade i ett lagringsmedium i uppehållstillståndskortet eller i register som förs enligt 15 § utlänningsdatalagen ska dock inte förstöras.
+
+*Lag (2026:1338)*.
+
+### Förlust av svenskt medborgarskap
+
+#### 14 §
+
+En svensk medborgare förlorar sitt svenska medborgarskap när han eller hon fyller tjugotvå år, om han eller hon
+
+1. är född utomlands,
+
+2. aldrig haft hemvist i Sverige, och
+
+3. inte heller varit här under förhållanden som tyder på samhörighet med landet.
+
+På ansökan som görs innan den svenske medborgaren fyller tjugotvå år får dock medges att medborgarskapet behålls.
+
+Den som har förlorat sitt svenska medborgarskap enligt första stycket får efter ansökan medges att medborgarskapet återfås med verkan från den tidpunkt då medborgarskapet förlorades.
+
+När någon förlorar svenskt medborgarskap enligt första stycket, förlorar även hans eller hennes barn sitt svenska medborgarskap, om barnet förvärvat detta på grund av att föräldern varit svensk medborgare. Barnet förlorar dock inte sitt medborgarskap om den andra föräldern har kvar sitt svenska medborgarskap och barnet härleder sitt svenska medborgarskap även från honom eller henne.
+
+Förlust av svenskt medborgarskap sker inte om detta skulle leda till att personen blir statslös. *Lag (2026:447)*.
+
+### Befrielse från svenskt medborgarskap
+
+#### 15 §
+
+Den som är eller önskar bli utländsk medborgare får efter ansökan befrias från sitt svenska medborgarskap. Befrielse får vägras om det finns anledning att anta att sökanden inte själv vill befrias från sitt svenska medborgarskap. Den som har hemvist i Sverige får också vägras befrielse om det finns andra särskilda skäl.
+
+Om sökanden inte redan är utländsk medborgare ska det som villkor för befrielsen från svenskt medborgarskap krävas att han eller hon inom en viss tid förvärvar medborgarskap i ett annat land. *Lag (2024:423)*.
+
+#### 15 a §
+
+Som förutsättning för barns befrielse från svenskt medborgarskap enligt 15 § gäller att befrielsen inte bedöms stå i strid med barnets bästa. Vid den bedömningen ska hänsyn tas till barnets åsikter med beaktande av barnets ålder och mognad.
+
+Om barnet har fyllt tolv år krävs dessutom att barnet samtycker till befrielsen, om han eller hon inte är varaktigt förhindrad att lämna samtycke på grund av sjukdom eller något annat liknande förhållande. *Lag (2024:423)*.
+
+### Återkallelse av beslut om befrielse
+
+#### 15 b §
+
+Ett beslut om befrielse från svenskt medborgarskap ska återkallas om det vid tidpunkten för beslutet fanns hinder mot befrielse enligt 15 och 15 a §§ och inte särskilda skäl talar emot att beslutet återkallas.
+
+Ett beslut om återkallelse gäller från den dag då beslutet om befrielse från svenskt medborgarskap fick laga kraft.
+
+*Lag (2024:423)*.
+
+### Vissa bestämmelser som rör de nordiska länderna
+
+#### 16 §
+
+Regeringen får, efter avtal med Danmark, Finland, Island eller Norge, meddela föreskrifter om tillämpning av en eller flera av bestämmelserna i 17-19 §§. Med avtalsstat avses i dessa bestämmelser den eller de stater som Sverige har ingått sådant avtal med.
+
+#### 17 §
+
+Bestämmelsen i 14 § första stycket gäller inte för den som under sammanlagt minst sju år haft hemvist i en avtalsstat.
+
+#### 18 §
+
+En medborgare i en avtalsstat förvärvar svenskt medborgarskap genom anmälan, om han eller hon
+
+1. har fyllt arton år,
+
+2. har hemvist här i landet sedan fem år, och
+
+3. under denna tid inte har dömts till frihetsberövande påföljd.
+
+När en person förvärvar medborgarskap på sådant sätt tillämpas 10 § i fråga om medborgarens barn. *Lag (2026:447)*.
+
+#### 19 §
+
+Den som har förlorat sitt svenska medborgarskap och därefter oavbrutet varit medborgare i en avtalsstat, får tillbaka svenskt medborgarskap genom anmälan, om han eller hon har tagit hemvist här i landet. Vid sådant förvärv av medborgarskap tillämpas 10 § när det gäller medborgarens barn.
+
+*Lag (2026:447)*.
+
+### Vissa bestämmelser som rör krav på permanent uppehållstillstånd och uppehållsrätt
+
+#### 20 §
+
+Det som föreskrivs i denna lag om krav på permanent uppehållstillstånd gäller inte för den som
+
+1. är medborgare i Danmark, Finland, Island eller Norge, eller
+
+2. har välgrundade utsikter att beviljas varaktigt uppehållstillstånd och
+
+a) har beviljats ett tidsbegränsat uppehållstillstånd enligt 5 kap. 2 b eller 6 § eller enligt 12 kap. 18 § utlänningslagen (2005:716), eller som flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i Europaparlamentets och rådets förordning (EU) 2024/1347 eller motsvarande äldre bestämmelser, eller
+
+b) har beviljats ett tidsbegränsat uppehållstillstånd enligt 5 kap. 3 eller 3 a § eller någon av 3 d-3 h §§ utlänningslagen på grund av anknytning till en sådan utlänning som avses i a.
+
+Kravet i första stycket 2 på välgrundade utsikter att beviljas varaktigt uppehållstillstånd gäller inte för den som har hemvist i Sverige sedan tio år.
+
+I fråga om medborgare i övriga länder inom Europeiska ekonomiska samarbetsområdet (EES) och sådana familjemedlemmar som avses i 3 a kap. 2 § utlänningslagen (2005:716) ska vid tillämpningen av denna lag uppehållsrätt likställas med ett permanent uppehållstillstånd. Detsamma gäller för de utlän- ningar som har beviljats uppehållsstatus i Sverige enligt avtalet om Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen och Europeiska atomenergigemenskapen (EUT L 29, 31.1.2020, s. 7).
+
+*Lag (2026:1689)*.
+
+### Förklaring
+
+#### 21 §
+
+Efter ansökan får meddelas förklaring att någon är svensk medborgare, om det kan råda ovisshet om detta.
+
+### Bestämmelser om förfarandet
+
+#### 22 §
+
+Frågor om medborgarskap enligt denna lag prövas av den myndighet som regeringen bestämmer. *Lag (2024:423)*.
+
+#### 23 §
+
+Den som har fyllt arton år får själv göra ansökan eller anmälan enligt denna lag även om han eller hon står under annans vårdnad.
+
+#### 24 §
+
+Har upphävts genom *lag (2024:423)*.
+
+#### 25 §
+
+Har upphävts genom *lag (2005:722)*.
+
+#### 26 §
+
+Beslut i ärenden enligt denna lag får överklagas till en migrationsdomstol utom i fall som avses i 27 §.
+
+En migrationsdomstols beslut överklagas hos Migrationsöverdomstolen i enlighet med bestämmelserna i 16 kap. utlänningslagen (2005:716). Bestämmelserna i detta kapitel gäller även i övrigt i tillämpliga delar i mål enligt denna lag. *Lag (2024:423)*.
+
+#### 27 §
+
+Beslut i ett säkerhetsärende överklagas till regeringen. Ett sådant beslut får överklagas även av Säkerhetspolisen.
+
+Ett säkerhetsärende är ett ärende där Säkerhetspolisen har föreslagit att en ansökan eller anmälan enligt denna lag ska avslås av skäl som rör Sveriges säkerhet eller allmän säkerhet.
+
+I ett säkerhetsärende gäller förvärvet av svenskt medborgarskap från och med den dag då beslutet har fått laga kraft. *Lag (2024:423)*.
+
+#### 28 §
+
+En socialnämnd ska på begäran av regeringen, Migrationsverket, en migrationsdomstol, Migrationsöverdomstolen eller Säkerhetspolisen lämna ut uppgifter om en utlännings personliga förhållanden, om uppgifterna behövs i ett ärende om svenskt medborgarskap.
+
+En socialnämnd ska på begäran av regeringen, Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen lämna ut uppgifter om den som ett ärende enligt 15 eller 15 a § avser om uppgifterna behövs i ett sådant ärende. Skyldigheten att lämna ut uppgifter avser uppgifter om den enskildes personliga förhållanden. *Lag (2024:423)*.
+
+### Medborgarskapsceremonier
+
+#### 29 §
+
+Varje kommun ska minst en gång per år anordna en ceremoni för nya svenska medborgare för att högtidlighålla deras nya medborgarskap.
+
+Till en medborgarskapsceremoni ska kommunen bjuda in den som vid tidpunkten för inbjudan är folkbokförd i kommunen och under de senaste 18 månaderna har förvärvat svenskt medborgarskap på annat sätt än vid födelsen och inte tidigare bjudits in till en sådan ceremoni.
+
+Vid medborgarskapsceremonierna ska innehållet i 1 § första stycket förmedlas. *Lag (2014:481)*.
+
+## Övergångsbestämmelser
+
+**2001:82**
+
+1. Denna lag träder i kraft den 1 juli 2001, då lagen (1950:382) om svenskt medborgarskap skall upphöra att gälla.
+
+Till följd härav upphör även 13 § första stycket lagen (1924:130) om förvärvande och förlust av svenskt medborgarskap att gälla. Till den 1 juli 2002 skall 7 § i 1950 års lag tillämpas när det gäller svenska medborgare som blir medborgare i en annan stat som är bunden av bestämmelserna om begränsning av fall av flerfaldigt medborgarskap (kapitel 1) i 1963 års europeiska konvention om begränsning av fall av flerfaldigt medborgarskap och om militära förpliktelser i fall av flerfaldigt medborgarskap.
+
+2. Ett barn, som har fötts i Sverige före ikraftträdandet av den nya lagen och som skulle ha blivit svensk medborgare om 1 § i den nya lagen gällt vid födelsen, förvärvar svenskt medborgarskap, om
+
+a) fadern fortfarande är svensk medborgare,
+
+b) fadern före den 1 juli 2003 hos Migrationsverket anmäler önskemål om svenskt medborgarskap för barnet, och
+
+c) barnet vid tidpunkten för anmälan inte har fyllt arton år.
+
+Om barnet har fyllt tolv år och har utländskt medborgarskap, krävs för förvärv av svenskt medborgarskap att barnet samtycker därtill. Sådant samtycke behövs dock inte om barnet är varaktigt förhindrat att lämna samtycke på grund av en psykisk störning eller på grund av något annat liknande förhållande.
+
+Barnets vårdnadshavare skall samtycka till förvärvet av svenskt medborgarskap.
+
+3. Ett barn, som har adopterats före ikraftträdandet av den nya lagen och som skulle ha blivit svensk medborgare om 3 § i den nya lagen gällt vid adoptionen, förvärvar svenskt medborgarskap, om
+
+a) adoptionen har beslutats den 1 juli 1992 eller senare,
+
+b) den eller de som har vårdnaden om barnet före den 1 juli 2003 hos Migrationsverket anmäler önskemål om svenskt medborgarskap för barnet, och
+
+c) barnet vid tidpunkten för anmälan inte har fyllt arton år.
+
+Om barnet har fyllt tolv år och har utländskt medborgarskap, krävs för förvärv av svenskt medborgarskap att barnet samtycker därtill. Sådant samtycke behövs dock inte om barnet är varaktigt förhindrat att lämna samtycke på grund av en psykisk störning eller på grund av något annat liknande förhållande.
+
+4. Har upphävts genom *lag (2026:447)*.
+
+5. I anmälningsärenden enligt punkt 2-4 tillämpas 24 § och 26 § andra stycket i den nya lagen.
+
+6. Äldre bestämmelser skall tillämpas i fråga om anmälningar enligt 2 a § lagen (1950:382) om svenskt medborgarskap som har gjorts före ikraftträdandet av den nya lagen. Detsamma gäller i fråga om anmälningar enligt 3 § i 1950 års lag som har gjorts före ikraftträdandet av den nya lagen, om inte tillämpning av den nya lagen är förmånligare för den enskilde. 1950 års lag skall också tillämpas i ärenden som enligt 9 a § i den lagen har överlämnats till regeringen.
+
+7. Tilläggsartikeln till det vänskaps-, handels- och sjöfartsfördrag som Sverige ingått med Argentina den 17 juli 1885 skall alltjämt gälla som svensk lag utan hinder av denna lag.
+
+**2005:722**
+
+1. Denna lag träder i kraft den 31 mars 2006.
+
+2. Mål eller ärenden som har kommit in till en domstol före den 31 mars 2006 skall handläggas enligt äldre föreskrifter.
+
+3. Ärenden som har överlämnats till regeringen enligt 25 § men inte avgjorts före den 31 mars 2006 skall överlämnas till Migrationsverket, om en myndighet inte har fattat beslut i ärendet, och i annat fall till den migrationsdomstol inom vars domkrets ärendet först har prövats.
+
+4. Ärenden som har kommit in till Utlänningsnämnden och som inte har avgjorts före den 31 mars 2006 skall överlämnas till den migrationsdomstol inom vars domkrets ärendet först har prövats. Om ärendet gäller förklaring enligt 21 §, överlämnas ärendet till Migrationsverket.
+
+**2006:222**
+
+Denna lag träder i kraft den 30 april 2006. För medborgare i länder inom Europeiska ekonomiska samarbetsområdet (EES) som har ett tidsbegränsat uppehållstillstånd för minst fem år som beviljats före ikraftträdandet gäller 20 § andra stycket i sin äldre lydelse.
+
+**2014:481**
+
+1. Denna lag träder i kraft den 1 april 2015.
+
+2. De upphävda 4 och 5 §§ gäller fortfarande för barn som har fötts före den 1 april 2015. Om barnet har fyllt femton år, krävs för förvärv av svenskt medborgarskap enligt den upphävda 5 § att det görs sannolikt att barnets uppgivna identitet är riktig. Det krävs även att han eller hon varken
+
+a) är skäligen misstänkt eller dömd för ett brott för vilket det svåraste straff som är föreskrivet är fängelse i två år eller mer, för upprepad brottslighet avseende brott för vilka det är föreskrivet fängelse eller för upprepad brottslighet som inte ligger långt tillbaka i tiden,
+
+b) är skäligen misstänkt eller dömd för ett brott utanför Sverige som enligt svensk lag motsvarar ett brott för vilket det svåraste straff som är föreskrivet är fängelse i två år eller mer, för upprepad brottslighet utanför Sverige avseende brott för vilka det enligt svensk lag är föreskrivet fängelse eller för upprepad brottslighet utanför Sverige som inte ligger långt tillbaka i tiden,
+
+c) bedöms utgöra ett hot mot Sveriges säkerhet eller allmän säkerhet, eller
+
+d) har varit verksam i, eller haft bestämmande inflytande över, en organisation eller grupp vars verksamhet innefattar systematiska, omfattande och grova övergrepp på andra människor.
+
+När en person förvärvar medborgarskap enligt den upphävda 5 § tillämpas 10 § i fråga om medborgarens barn. *Lag (2026:450)*.
+
+3. Har upphävts genom *lag (2026:450)*.
+
+**2021:771**
+
+1. Denna lag träder i kraft den 20 juli 2021.
+
+2. Lagen gäller även en utlänning som har beviljats ett tidsbegränsat uppehållstillstånd enligt den upphävda lagen (2016:752) om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige eller ett uppehållstillstånd som har tidsbegränsats enligt den lagen.
+
+**2024:423**
+
+1. Denna lag träder i kraft den 1 oktober 2024.
+
+2. Föreskrifterna i 15 b § tillämpas inte på beslut som meddelats före ikraftträdandet.
+
+3. Äldre föreskrifter gäller för ärenden som har inletts hos länsstyrelsen före ikraftträdandet.
+
+4. Äldre föreskrifter gäller vid överklagande av beslut som har meddelats före ikraftträdandet.
+
+**2024:424**
+
+1. Denna lag träder i kraft den 1 oktober 2024.
+
+2. Äldre föreskrifter gäller vid överklagande av beslut som har meddelats före ikraftträdandet.
+
+**2026:449**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer.
+
+2. Äldre föreskrifter gäller för den som har ett godkänt resultat på medborgarskapsprov i svenska enligt 13 § andra stycket i dess äldre lydelse.
+
+3. Äldre föreskrifter gäller i ärenden som har kommit in till Migrationsverket före ikraftträdandet där sökanden åberopar ett godkänt resultat på ett kunskapsprov enligt 13 a § 3 i dess äldre lydelse.

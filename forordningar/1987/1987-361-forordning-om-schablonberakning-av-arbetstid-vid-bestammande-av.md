@@ -1,0 +1,49 @@
+---
+title: "Förordning (1987:361) om schablonberäkning av arbetstid vid bestämmande av sjukpenning m.m."
+identifier: "SFS 1987:361"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1987-05-14
+amended_through: "SFS 2010:1670"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-361.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:361"
+retrieved: 2026-10-11
+---
+# Förordning (1987:361) om schablonberäkning av arbetstid vid bestämmande av sjukpenning m.m.
+
+## 1 §
+
+I denna förordning meddelas föreskrifter om schablonberäkning av
+
+1. årsarbetstid enligt 25 kap. 25-30 §§ socialförsäkringsbalken, och
+
+2. ordinarie arbetstid eller däremot svarande normal arbetstid enligt 28 kap. 13-16 §§ socialförsäkringsbalken.
+
+*Förordning (2010:1670)*.
+
+## 2 §
+
+Schablonberäkning skall ske för försäkrade som vid frånvaro på grund av sjukdom från sitt huvudsakliga förvärvsarbete får vidkännas lika stort löneavdrag varje dag.
+
+## 3 §
+
+Årsarbetstiden ska anges i dagar och bestämmas till det antal dagar för år som den försäkrade kan antas komma att tills vidare ha i förvärvsarbete eller därmed likställd ledighet som avses i 25 kap. 26 och 28 §§ socialförsäkringsbalken. Om den försäkrade har sitt arbete förlagt till fem dagar i veckan, ska dagantalet utgöra 260.
+
+Har den försäkrade andra arbetstidsförhållanden än som nu sagts ska talet 260 anpassas i motsvarande mån.
+
+*Förordning (2010:1670)*.
+
+## 4 §
+
+Vid beräkning enligt de lagrum som nämns i 1 § 2 skall såsom uttryck för ordinarie arbetstid eller däremot svarande normal arbetstid för dag användas talet ett.
+
+## 5 §
+
+Ytterligare föreskrifter om schablonberäkning av arbetstid enligt de lagrum som nämns i 1 § får meddelas av Försäkringskassan i fråga om mindre bisysslor.
+
+Försäkringskassan får även meddela de ytterligare föreskrifter som behövs för verkställigheten av denna förordning.
+
+*Förordning (2004:892)*.

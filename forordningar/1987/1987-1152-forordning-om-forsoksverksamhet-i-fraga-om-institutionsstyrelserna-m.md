@@ -1,0 +1,40 @@
+---
+title: "Förordning (1987:1152) om försöksverksamhet i fråga om institutionsstyrelserna m. m. vid Sveriges lantbruksuniversitet"
+identifier: "SFS 1987:1152"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1987-12-03
+department: "Jordbruksdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-1152.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:1152"
+retrieved: 2026-10-11
+---
+# Förordning (1987:1152) om försöksverksamhet i fråga om institutionsstyrelserna m. m. vid Sveriges lantbruksuniversitet
+
+## 1 §
+
+Försöksverksamhet enligt denna förordning får bedrivas vid Sveriges lantbruksuniversitet.
+
+## 2 §
+
+Utan hinder av vad som föreskrivs i förordning, annat regeringsbeslut eller sådana föreskrifter som en förvaltningsmyndighet under regeringen har meddelat, får försöksverksamheten bedrivas i de avseenden som anges i 3 §.
+
+## 3 §
+
+Om det främjar verksamheten vid en institution får
+
+1. institutionsstyrelsen bestå av prefekt och företrädare för de anställda vid institutionen,
+
+2. företrädare för de studerande vid institutionen delta i institutionsstyrelsens beslut enbart i frågor som rör utbildningen,
+
+3. ledamöter i institutionsstyrelsen utses av de lokala fackliga organisationerna,
+
+4. flera prefekter utses när en institution är förlagd till två eller flera platser.
+
+Rektorsämbetet utser ordförande i institutionsstyrelsen vid institutioner med flera prefekter.
+
+## 4 §
+
+Lantbruksuniversitetet skall före den 1 maj 1989 till jordbruksdepartementet redovisa erfarenheterna av försöksverksamheten.

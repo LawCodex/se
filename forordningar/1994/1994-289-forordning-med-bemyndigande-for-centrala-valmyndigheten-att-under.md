@@ -1,0 +1,16 @@
+---
+title: "Förordning (1994:289) med bemyndigande för centrala valmyndigheten att under 1994 meddela vissa föreskrifter"
+identifier: "SFS 1994:289"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-04-28
+department: "Justitiedepartementet L6"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-289.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:289"
+retrieved: 2026-10-11
+---
+# Förordning (1994:289) med bemyndigande för centrala valmyndigheten att under 1994 meddela vissa föreskrifter
+
+Centrala valmyndigheten får meddela de närmare föreskrifter som behövs för verkställighet av lagen (1993:1403) om försöksverksamhet vid de allmänna valen år 1994 och lagen (1994:285) om försök i vissa kommuner där väljarna skall kunna avge en särskild personröst vid de allmänna valen år 1994.

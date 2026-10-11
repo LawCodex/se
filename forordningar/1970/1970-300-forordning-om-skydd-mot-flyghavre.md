@@ -1,0 +1,67 @@
+---
+title: "Förordning (1970:300) om skydd mot flyghavre"
+identifier: "SFS 1970:300"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1970-05-27
+amended_through: "SFS 2018:932"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1970-300.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1970:300"
+retrieved: 2026-10-11
+---
+# Förordning (1970:300) om skydd mot flyghavre
+
+### 1 §
+
+Som bevisning om att växtodlingsprodukt härrör från brukningsenhet på vilken ej funnits axade plantor av flyghavre under vegetationsperioden fordras skriftlig försäkran av odlaren. Som bevisning om flyghavrehalt som avses i 2 § 2, 3 § andra stycket och 4 § 4 lagen (1970:299) om skydd mot flyghavre fordras analysbevis från undersökning.
+
+### 2 §
+
+Statens jordbruksverk fastställer bekämpningsplan enligt 8 § första stycket lagen (1970:299) om skydd mot flyghavre.
+
+När bekämpningsplan meddelas, ändras eller upphäves, skall beslutet ofördröjligen kungöras på det sätt som är föreskrivet beträffande författningar i allmänhet. I den mån så finnes erforderligt, skall beslutet även kungöras i ortstidning eller tillkännages på annat lämpligt sätt. *Förordning (1991:1440)*.
+
+### 3 §
+
+Har upphävts genom *förordning (2011:1069)*.
+
+### 4 §
+
+Tillsyn över efterlevnaden av lagen (1970:299) om skydd mot flyghavre och i anslutning därtill meddelade föreskrifter utövas centralt av jordbruksverket och inom länet av länsstyrelsen. *Förordning (1991:1440)*.
+
+### 5 §
+
+För att utöva tillsyn har tillsynsmyndighet rätt att vinna tillträde till område, lokal eller transportfordon samt att företaga undersökning och taga prov.
+
+### 6 §
+
+Kontrollprov skall analyseras av statens centrala frökontrollanstalt.
+
+Provtagning och analys, som Jordbruksverket verkställer i samband med tillsynen över efterlevnaden av lagen, sker utan kostnad för tillsynsmyndigheten. *Förordning (2005:1219)*.
+
+### 7 §
+
+Ytterligare föreskrifter för tillämpningen av lagen (1970:299) om skydd mot flyghavre meddelas av jordbruksverket. *Förordning (1991:1440)*.
+
+### 8 §
+
+Länsstyrelsens beslut enligt lagen (1970:299) om skydd mot flyghavre får överklagas till Jordbruksverket.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:932)*.
+
+## Övergångsbestämmelser
+
+**1990:844**
+
+Denna förordning träder i kraft den 1 augusti 1990.
+
+I fråga om överklagande av beslut som har meddelats före ikraftträdandet gäller äldre förskrifter.
+
+**1995:263**
+
+Denna förordning träder i kraft den 1 april 1995. Beslut som har meddelats före ikraftträdandet överklagas enligt äldre bestämmelser.

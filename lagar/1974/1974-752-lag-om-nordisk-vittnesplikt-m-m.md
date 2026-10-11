@@ -1,0 +1,95 @@
+---
+title: "Lag (1974:752) om nordisk vittnesplikt m.m."
+identifier: "SFS 1974:752"
+type: act
+jurisdiction: se
+language: sv
+date: 1974-11-22
+amended_through: "SFS 2026:788"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1974-752.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1974:752"
+retrieved: 2026-10-11
+---
+# Lag (1974:752) om nordisk vittnesplikt m.m.
+
+### 1 §
+
+Den som är bosatt i Danmark, Finland, Island eller Norge och som fyllt 18 år kan av allmän domstol kallas enligt 2-7 §§ denna lag för att höras som vittne eller som målsägande i anledning av åklagarens talan, om han vid kallelsen uppehåller sig i något av dessa länder.
+
+Vad i 2-5, 7 och 8 §§ föreskrives i fråga om vittne eller målsägande gäller i tillämpliga delar part eller ställföreträdare för part som skall inställa sig personligen i mål eller ärende rörande vårdnaden om barn, äktenskaplig börd eller faderskapet till barn utom äktenskap och som vid kallelsen är bosatt och uppehåller sig i land som anges i första stycket.
+
+### 2 §
+
+Kallelse får utfärdas endast om utsagan kan antagas få väsentlig betydelse för utgången i målet och det är av väsentlig betydelse att förhöret äger rum vid svensk domstol. Vid bedömande av om vittne eller målsägande skall kallas beaktas målets vikt och de olägenheter den kallade kan komma att orsakas genom resvägens längd eller eljest.
+
+Kallelse till annan domstol än den vid vilken målet är anhängigt får ske endast om det är oundgängligen nödvändigt.
+
+### 3 §
+
+Kallelse utfärdas av domstolen. I kallelsen skall anges den minsta tid från delgivning av kallelsen som vittnet eller målsäganden har rätt att åtnjuta för att kunna iakttaga inställelse (kallelse frist).
+
+Uteblir den som kallats, får han hämtas till rätten, om han uppehåller sig här i landet. Erinran härom skall intagas i kallelsen.
+
+Påföljd för utevaro får ej åläggas den som delgivits kallelse efter det att kallelsefristen börjat löpa.
+
+### 4 §
+
+I fråga om förhör med vittne gäller utöver 36 kap. 3-6 §§ rättegångsbalken motsvarande bestämmelser i det land där vittnet är bosatt.
+
+### 5 §
+
+I fråga om skyldighet för den som höres som vittne eller målsägande att förete skriftlig handling för rätten gäller utöver 38 kap. 2 § rättegångsbalken motsvarande bestämmelser i det land där vittnet eller målsäganden är bosatt.
+
+Bestämmelsen om handräckning i 38 kap. 5 § rättegångsbalken äger ej tillämpning i fråga om handling som innehas av någon som sägs i första stycket, om ej handlingen finns här i landet.
+
+### 6 §
+
+Ersättning till den som efter kallelse enligt denna lag inställt sig som vittne eller målsägande utgår av allmänna medel. Ersättningen skall innefatta skälig gottgörelse för kostnader för resa och uppehälle samt för tidsspillan.
+
+Förskott på ersättning för kostnader för resa och uppehälle lämnas i samband med kallelsen.
+
+Närmare bestämmelser om ersättning och förskott meddelas av Kungl.
+
+Maj:t.
+
+### 7 §
+
+Den som efter kallelse inreser till Sverige för att höras som vittne eller målsägande enligt denna lag får under sitt uppehåll här i riket icke åtalas eller straffas och ej heller utlämnas till annat land än det han kommer från på grund av brott som begåtts före inresan, såvida han icke själv inför domstol samtyckt därtill eller efter vittnes- eller målsägandeförhöret frivilligt stannat kvar här under längre tid än femton dagar.
+
+### 8 §
+
+Bestämmelserna i 4, 5 och 7 §§ äger motsvarande tillämpning på vittne eller målsägande som inställer sig utan särskild kallelse.
+
+### 9 §
+
+Den som är bosatt här i landet och uppehåller sig här eller i Danmark, Finland, Island eller Norge är skyldig att efter kallelse inställa sig för att höras som vittne vid domstol i Danmark, Island eller Norge eller som vittne eller målsägande vid domstol i Finland enligt bestämmelserna i det landet. Detsamma gäller den som uppehåller sig här i landet och är bosatt i Danmark, Finland, Island eller Norge.
+
+Den som är part eller ställföreträdare för part i mål eller ärende som rör vårdnaden om barn, äktenskaplig börd eller faderskapet till barn utom äktenskap är skyldig att under de förutsättningar som anges i första stycket efter kallelse inställa sig personligen vid domstol i Danmark, Finland, Island eller Norge.
+
+### 10 §
+
+Beslut från en domstol i Danmark, Finland, Island eller Norge ska på begäran verkställas här i landet, om beslutet gäller en person som avses i 9 § och som för utevaro eller annan försummelse har dömts till böter, dömts att betala förelagt vite eller ålagts att ersätta rättegångskostnad.
+
+Böter och vite verkställs enligt lagen (2026:786) om nordisk verkställighet i brottmål.
+
+Lagen (1977:595) om erkännande och verkställighet av nordiska domar på privaträttens område är tillämplig vid verkställighet av beslut att ersätta rättegångskostnad. *Lag (2026:788)*.
+
+## Övergångsbestämmelser
+
+**1975:297**
+
+Regeringen föreskriver dels att lagen (1974:752) om nordisk vittnesplikt m.m. skall träda i kraft den 1 juli 1975 i förhållande till Danmark, Finland och Norge, dels att lagen (1974:753) om ändring i brottsbalken, lagen (1974:754) om ändring i lagen (1946:817) om bevisupptagning vid utländsk domstol och lagen (1974:755) om ändring i lagen (1946:816) om bevisupptagning åt utländsk domstol skall träda i kraft den 1 juli 1975.
+
+**1977:599**
+
+Denna lag träder i kraft den dag regeringen bestämmer. Lagen får sättas i kraft i förhållande till två eller tre av de stater som anges i 10 §.
+
+**1977:1004**
+
+Regeringen föreskriver att lagen (1977:599) om ändring i lagen (1974:752) om nordisk vittnesplikt m.m. skall träda i kraft i förhållande till Danmark, Finland och Norge den 1 januari 1978.
+
+**1998:317**
+
+Regeringen föreskriver att lagen (1974:752) om nordisk vittnesplikt m.m. skall träda i kraft i förhållande till Island den 1 juli 1998.

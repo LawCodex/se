@@ -1,0 +1,55 @@
+---
+title: "Lag (1994:419) om brottsofferfond"
+identifier: "SFS 1994:419"
+type: act
+jurisdiction: se
+language: sv
+date: 1994-05-26
+amended_through: "SFS 2025:157"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-419.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:419"
+retrieved: 2026-10-11
+---
+# Lag (1994:419) om brottsofferfond
+
+### 1 §
+
+Den som döms för ett eller flera brott ska, om svårare straff än penningböter ingår i straffskalan för något av brotten, i domen åläggas att betala en avgift på 1 000 kronor. Detsamma gäller när fråga om ansvar för brott tas upp av åklagare genom strafföreläggande.
+
+Avgift ska inte tas ut om påföljdseftergift meddelas. *Lag (2022:1867)*.
+
+### 2 §
+
+Bestämmelserna i 35 kap. 7 § brottsbalken om preskription av böter gäller även avgift enligt denna lag. *Lag (2025:157)*.
+
+### 3 §
+
+Avgifterna skall föras till en brottsofferfond. Fondens medel skall, enligt de föreskrifter som regeringen bestämmer, användas för verksamhet som gagnar brottsoffer.
+
+Regeringen får besluta att kostnaderna för förvaltning av fonden skall ersättas av fondens medel.
+
+### 4 §
+
+Närmare föreskrifter om förvaltningen av fonden meddelas av regeringen.
+
+## Övergångsbestämmelser
+
+**1994:419**
+
+Denna lag träder i kraft den 1 juli 1994. Bestämmelserna i 1 § gäller dock inte i fråga om brott som har begåtts före ikraftträdandet.
+
+**1999:582**
+
+Denna lag träder i kraft den 1 juli 1999. Äldre bestämmelser gäller fortfarande i fråga om brott som har begåtts före ikraftträdandet.
+
+**2014:1571**
+
+Denna lag träder i kraft den 1 februari 2015. Äldre bestämmelser gäller fortfarande i fråga om brott som har begåtts före ikraftträdandet.
+
+**2022:1867**
+
+1. Denna lag träder i kraft den 1 februari 2023.
+
+2. Äldre bestämmelser gäller fortfarande för brott som har begåtts före ikraftträdandet.

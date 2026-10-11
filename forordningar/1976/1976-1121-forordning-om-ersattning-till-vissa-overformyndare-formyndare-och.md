@@ -1,0 +1,56 @@
+---
+title: "Förordning (1976:1121) om ersättning till vissa överförmyndare, förmyndare och förvaltare"
+identifier: "SFS 1976:1121"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1976-01-19
+amended_through: "SFS 2026:669"
+reprinted: "SFS 1988:1353"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1976-1121.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1976:1121"
+retrieved: 2026-10-11
+---
+# Förordning (1976:1121) om ersättning till vissa överförmyndare, förmyndare och förvaltare
+
+### 1 §
+
+Denna förordning gäller ersättning som utgår till överförmyndare, förmyndare och förvaltare enligt 4 kap. 1 § tredje stycket och 5 kap. 1 § tredje stycket lagen (1904:26 s.1) om vissa internationella rättsförhållanden rörande äktenskap och förmynderskap.
+
+*Förordning (1988:1353)*.
+
+### 2 §
+
+Överförmyndare har rätt till arvode, resekostnadsersättning och traktamente samt ersättning för andra utgifter som varit skäligen påkallade för uppdragets behöriga fullgörande. Ersättningen utgår av statliga medel.
+
+Arvode utgår med 50 kronor för dag under vilken överförmyndaren utfört arbete avseende förmynderskap eller förvaltarskap som står under hans tillsyn.
+
+Resekostnadsersättning och traktamente utgår enligt utlandsresereglementet (1953:666). Överförmyndare hänföres till reseklass A. *Förordning (1988:1353)*.
+
+### 3 §
+
+Förmyndare och förvaltare har rätt till arvode och ersättning för utgifter enligt vad som anges i 12 kap. 16-16 b och 17 §§ föräldrabalken. Arvode och annan ersättning som enligt de paragraferna ska betalas av en kommun ska dock i stället betalas av statliga medel.
+
+Arvode beräknas särskilt för dels förvaltningen av den enskildes egendom, dels arbetet med den personliga omvårdnaden om den enskilde. Endast om det finns särskilda skäl får det sammanlagda arvodet för ett visst förmynderskap eller förvaltarskap under ett kalenderår överstiga det belopp som motsvarar 18 procent av det prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken som gällt för det året.
+
+*Förordning (2026:669)*.
+
+### 4 §
+
+En fråga om ersättning till överförmyndare prövas av Stockholms tingsrätt.
+
+När det gäller prövning av frågor om ersättning till förmyndare och förvaltare finns bestämmelser i 12 kap. 16-16 b och 17 §§ föräldrabalken. *Förordning (2026:669)*.
+
+### 5 §
+
+Har enligt denna förordning fattats beslut om ersättning av statliga medel, skall besked om beslutet genast sändas till domstolsverket som har att utan dröjsmål betala ut ersättningen till den ersättningsberättigade. *Förordning (1976:1121)*.
+
+## Övergångsbestämmelser
+
+**1988:1353**
+
+1. Denna förordning träder i kraft den 1 januari 1989.
+
+2. I fråga om arvode och ersättning till förmyndare för år 1981 eller tidigare år tillämpas övergångsbestämmelserna till förordningen (1981:1210) om ändring i förordningen (1976:1121) om ersättning till vissa överförmyndare och förmyndare.

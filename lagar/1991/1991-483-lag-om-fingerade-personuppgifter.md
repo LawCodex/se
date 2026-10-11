@@ -1,0 +1,97 @@
+---
+title: "Lag (1991:483) om fingerade personuppgifter"
+identifier: "SFS 1991:483"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-05-30
+amended_through: "SFS 2026:134"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-483.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:483"
+retrieved: 2026-10-11
+---
+# Lag (1991:483) om fingerade personuppgifter
+
+### 1 §
+
+En folkbokförd person som riskerar att bli utsatt för allvarlig brottslighet som riktar sig mot dennes liv, hälsa, frihet eller frid kan få medgivande att använda andra personuppgifter om sig själv än de verkliga (fingerade personuppgifter) om åtgärden med hänsyn till den enskildes förmåga och övriga förutsättningar kan antas tillgodose behovet av skydd. Ett medgivande får begränsas till viss tid.
+
+Medgivande att använda fingerade personuppgifter får inte lämnas om personen kan beredas tillräckligt skydd av personuppgifter genom skyddad folkbokföring enligt 16 § folkbokföringslagen (1991:481).
+
+Ett medgivande att använda fingerade personuppgifter får även ges åt en familjemedlem till en person som avses i första stycket, om personerna varaktigt bor tillsammans.
+
+*Lag (2018:687)*.
+
+### 2 §
+
+En fråga om medgivande att använda fingerade personuppgifter prövas av Polismyndigheten.
+
+Ansökan om medgivande görs av den som vill använda fingerade personuppgifter. *Lag (2014:672)*.
+
+### 3 §
+
+Har upphävts genom *lag (2011:896)*.
+
+### 4 §
+
+En person som ansöker om eller har fått medgivande att använda fingerade personuppgifter för egen del, får ansöka om medgivande även för ett barn som personen är vårdnadshavare för och varaktigt bor tillsammans med, om syftet är att ge skydd mot den andre vårdnadshavaren. *Lag (2011:896)*.
+
+### 5 §
+
+En myndighet ska på begäran lämna Polismyndigheten upplysning om en person som förekommer i ett ärende enligt denna lag. Denna skyldighet gäller dock inte för Säkerhetspolisen. *Lag (2014:672)*.
+
+### 6 §
+
+Om ett medgivande att använda fingerade personuppgifter har lämnats, ska Polismyndigheten skyndsamt se till att den person som har fått medgivandet registreras inom folkbokföringen med de fingerade uppgifter som myndigheten efter samråd med den enskilde bestämmer.
+
+De fingerade personuppgifterna ska bestämmas och registreras på ett sådant sätt att det inte av dessa framgår vem det är som använder uppgifterna. *Lag (2014:672)*.
+
+### 7 §
+
+Polismyndigheten ska bistå den som har fått medgivande att använda fingerade personuppgifter vid kontakter med andra myndigheter och i övrigt lämna den hjälp som krävs, om den enskildes hjälpbehov inte kan tillgodoses på annat sätt.
+
+*Lag (2014:672)*.
+
+### 8 §
+
+Om den som har fått medgivande att använda fingerade personuppgifter skriftligen anmäler hos Polismyndigheten att medgivandet inte längre behövs eller om det finns särskilda skäl för det, ska Polismyndigheten besluta att medgivandet att använda fingerade personuppgifter ska upphöra att gälla. *Lag (2018:687)*.
+
+### 9 §
+
+När ett medgivande att använda fingerade personuppgifter har upphört att gälla ska Polismyndigheten underrätta Skatteverket om detta. Skatteverket ska skyndsamt se till att de fingerade uppgifterna inte längre används inom folkbokföringsverksamheten och göra de ändringar av registrerade uppgifter i folkbokföringsverksamheten som krävs.
+
+Sedan Polismyndigheten har underrättat Skatteverket om att ett medgivande att använda fingerade personuppgifter har upphört får den enskilde använda de fingerade uppgifterna fram till dess att Skatteverket har registrerat ändringarna i folkbokföringsverksamheten men inte för tid därefter.
+
+*Lag (2026:134)*.
+
+### 10 §
+
+Polismyndighetens beslut får överklagas till Stockholms tingsrätt. Ett beslut enligt 6 § första stycket får dock inte överklagas.
+
+Vid ett överklagande gäller lagen (1996:242) om domstolsärenden. *Lag (2014:672)*.
+
+## Övergångsbestämmelser
+
+**1997:988**
+
+Denna lag träder i kraft den 1 januari 1998. Äldre bestämmelser gäller dock fortfarande i fråga om beslut om medgivande att använda fingerade personuppgifter som har fattats före ikraftträdandet.
+
+**2003:700**
+
+Denna lag träder i kraft den 1 januari 2004. De nya föreskrifterna i 9 § andra stycket gäller även om Rikspolisstyrelsen underrättat skattemyndighet.
+
+**2011:896**
+
+1. Denna lag träder i kraft den 1 oktober 2011.
+
+2. Äldre föreskrifter gäller om en ansökan om medgivande att använda fingerade personuppgifter har kommit in till tingsrätten före ikraftträdandet.
+
+3. En framställning om medgivande att använda fingerade personuppgifter som gjorts till Rikspolisstyrelsen ska, om Rikspolisstyrelsen inte har avgjort ärendet vid ikraftträdandet, behandlas som en ansökan enligt de nya bestämmelserna.
+
+**2018:687**
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. För den som medgetts fingerade personuppgifter före den 1 januari 2019 gäller 8 § i den äldre lydelsen.

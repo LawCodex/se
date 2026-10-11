@@ -1,0 +1,51 @@
+---
+title: "Lag (1986:76) om dubbelbeskattningsavtal mellan Sverige och Jamaica"
+identifier: "SFS 1986:76"
+type: act
+jurisdiction: se
+language: sv
+date: 1986-02-06
+amended_through: "SFS 2013:788"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1986-76.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1986:76"
+retrieved: 2026-10-11
+---
+# Lag (1986:76) om dubbelbeskattningsavtal mellan Sverige och Jamaica
+
+> Bilagan är inte med här. Bilagan senast ändrad genom SFS 2013:374.
+
+### 1 §
+
+Det avtal för att undvika dubbelbeskattning och förhindra skatteflykt beträffande inkomstskatter som Sverige och Jamaica undertecknade den 13 mars 1985 ska, i den lydelse som detta har erhållit genom det protokoll om ändring i avtalet som undertecknades den 4 december 2012, gälla som lag här i landet.
+
+Avtalets innehåll framgår av bilaga till denna lag.
+
+*Lag (2013:374)*.
+
+### 2 §
+
+Avtalets beskattningsregler ska tillämpas endast till den del dessa medför inskränkning av den skattskyldighet i Sverige som annars skulle föreligga. *Lag (2013:374)*.
+
+### 3 §
+
+Om en person anser att det vidtagits någon åtgärd som för honom medfört eller kommer att medföra en beskattning som strider mot bestämmelserna i avtalet, kan han ansöka om rättelse enligt artikel 25 punkt 1 i avtalet. Sådan ansökan skall göras hos regeringen och bör inges inom den tid som anges i nämnda bestämmelse.
+
+### 4 §
+
+Har upphävts genom *lag (2011:1322)*.
+
+## Övergångsbestämmelser
+
+**2013:374**
+
+1. Denna lag träder i kraft den dag regeringen bestämmer.
+
+2. Denna lag tillämpas beträffande
+
+a) källskatter, på belopp som betalas eller tillgodoförs den 1 januari det år som följer närmast efter den dag då lagen träder i kraft eller senare,
+
+b) andra skatter på inkomst, på skatt som tas ut för beskattningsår som börjar den 1 januari det år som följer närmast efter den dag då lagen träder i kraft eller senare, och
+
+c) informationsutbyte enligt artikel 26 i avtalet, på begäran som framställts dagen för ikraftträdandet av lagen eller senare.

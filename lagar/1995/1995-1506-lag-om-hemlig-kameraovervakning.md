@@ -1,0 +1,97 @@
+---
+title: "Lag (1995:1506) om hemlig kameraövervakning"
+identifier: "SFS 1995:1506"
+type: act
+jurisdiction: se
+language: sv
+date: 1995-12-19
+amended_through: "SFS 2007:985"
+department: "Justitiedepartementet Å"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-1506.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:1506"
+retrieved: 2026-10-11
+---
+# Lag (1995:1506) om hemlig kameraövervakning
+
+### 1 §
+
+Hemlig kameraövervakning innebär att fjärrstyrda TV kameror, andra optisk elektroniska instrument eller därmed jämförbara utrustningar används för optisk personövervakning vid förundersökning i brottmål, utan att upplysning om övervakningen lämnas.
+
+### 2 §
+
+Hemlig kameraövervakning får användas vid förundersökning angående
+
+1. brott för vilket inte är föreskrivet lindrigare straff än fängelse i två år,
+
+2. försök, förberedelse eller stämpling till sådant brott, om sådan gärning är belagd med straff, eller
+
+3. annat brott om det med hänsyn till omständigheterna kan antas att brottets straffvärde överstiger fängelse i två år.
+
+*Lag (2003:1148)*.
+
+### 3 §
+
+Hemlig kameraövervakning får användas om
+
+1. någon är skäligen misstänkt för brottet,
+
+2. åtgärden är av synnerlig vikt för utredningen, samt
+
+3. skälen för åtgärden uppväger det intrång eller men i övrigt som åtgärden innebär för den misstänkte eller för något annat motstående intresse.
+
+Åtgärden får endast avse sådan plats där den misstänkte kan antas komma att uppehålla sig. *Lag (2003:1148)*.
+
+### 3 a §
+
+Om det inte finns någon som är skäligen misstänkt för brottet får hemlig kameraövervakning användas för att övervaka den plats där brottet har begåtts eller en nära omgivning till denna plats. Hemlig kameraövervakning enligt denna paragraf får ske endast om syftet är att fastställa vem som skäligen kan misstänkas för brottet. *Lag (2003:1148)*.
+
+### 4 §
+
+Frågor om hemlig kameraövervakning prövas av rätten på ansökan av åklagaren. I fråga om offentligt ombud tillämpas vad som föreskrivs i 27 kap. 26-30 §§ rättegångsbalken.
+
+I ett beslut att tillåta hemlig kameraövervakning skall det anges vilken plats och under vilken tid tillståndet gäller.
+
+Tiden får inte bestämmas längre än nödvändigt och får inte överstiga en månad från dagen för beslutet. *Lag (2003:1148)*.
+
+### 5 §
+
+Om det inte längre finns skäl för ett beslut om hemlig kameraövervakning, skall åklagaren eller rätten omedelbart häva beslutet.
+
+### 6 §
+
+Rättens beslut i frågor om hemlig kameraövervakning får verkställas omedelbart.
+
+I fråga om överklagande av rättens beslut enligt denna lag tillämpas bestämmelserna i rättegångsbalken om överklagande av rättens beslut i brottmål angående åtgärd som avses i 25-28 kap. samma balk. *Lag (2003:1148)*.
+
+### 6 a §
+
+Om det vid hemlig kameraövervakning har kommit fram uppgifter om ett annat brott än det som har legat till grund för beslutet om övervakning, får uppgifterna användas för att utreda brottet. Förundersökning eller motsvarande utredning om brottet får dock inledas på grund av dessa uppgifter endast om
+
+1. det är föreskrivet fängelse i ett år eller däröver för brottet och det kan antas att brottet inte föranleder endast böter, eller
+
+2. det finns särskilda skäl.
+
+Om det har kommit fram uppgifter om förestående brott, får uppgifterna användas för att förhindra brott. *Lag (2005:505)*.
+
+### 7 §
+
+En upptagning som gjorts vid hemlig kameraövervakning skall granskas snarast möjligt. I fråga om sådan granskning tillämpas 27 kap. 12 § första stycket rättegångsbalken.
+
+Upptagningar som saknar betydelse från brottsutredningssynpunkt skall förstöras omedelbart efter det att de har granskats.
+
+Upptagningar skall, i de delar de är av betydelse från brottsutredningssynpunkt, bevaras till dess förundersökningen har lagts ned eller avslutats eller, om åtal väckts, målet har avgjorts slutligt. I de delar upptagningarna är av betydelse för att förhindra förestående brott skall de bevaras så länge det behövs för att förhindra brott. De skall därefter omedelbart förstöras.
+
+Trots vad som sägs i andra stycket får brottsutredande myndigheter behandla uppgifter från upptagningar i enlighet med vad som är särskilt föreskrivet i lag. *Lag (2005:505)*.
+
+### 8 §
+
+Den som är eller har varit misstänkt för brott skall underrättas om hemlig kameraövervakning som han eller hon har utsatts för. Om övervakningen har avsett en plats som innehas av någon annan än den misstänkte, skall även innehavaren underrättas. I fråga om sådan underrättelse, tidpunkten för underrättelsen och undantag från underrättelseskyldigheten tillämpas 27 kap. 31 § andra och tredje styckena, 32 och 33 §§ rättegångsbalken. Underrättelsen skall även innehålla uppgift om platsen för åtgärden.
+
+Vad som sägs i första stycket om underrättelse till innehavare av den övervakade platsen gäller inte om allmänheten har tillträde till platsen. *Lag (2007:985)*.
+
+## Övergångsbestämmelser
+
+**2007:985**
+
+Denna lag träder i kraft den 1 januari 2008. Underrättelse behöver dock inte lämnas beträffande hemlig kameraövervakning som har avslutats före ikraftträdandet.

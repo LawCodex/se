@@ -1,0 +1,120 @@
+---
+title: "Förordning (1975:518) om rikets indelning i verksamhetsområden för hyresnämnd och arrendenämnd m.m."
+identifier: "SFS 1975:518"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1975-05-29
+amended_through: "SFS 2018:1522"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1975-518.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1975:518"
+retrieved: 2026-10-11
+---
+# Förordning (1975:518) om rikets indelning i verksamhetsområden för hyresnämnd och arrendenämnd m.m.
+
+## 1 §
+
+I riket finns hyresnämnder och arrendenämnder med de verksamhetsområden som anges i nedanstående uppställning. Hyresnämndernas kanslier finns på de orter som anges i uppställningen.
+
+```
+Hyresnämnd,                     Län eller kommuner      Kansliort
+arrendenämnd                    som ingår i 
+                                verksamhetsområdet      
+
+Hyresnämnden i Stockholm,       Stockholms och          Nacka
+Arrendenämnden i Stockholm      Gotlands län    
+Hyresnämnden i Västerås,        Uppsala,                Västerås
+Arrendenämnden i Västerås       Södermanlands, 
+                                Västmanlands och 
+                                Dalarnas län    
+Hyresnämnden i Linköping,       Östergötlands och       Linköping
+Arrendenämnden i Linköping      Örebro län      
+Hyresnämnden i Jönköping,       Jönköpings, Kronobergs  Jönköping
+Arrendenämnden i Jönköping      och Kalmar län samt 
+                                Essunga, Falköpings, 
+                                Grästorps, Gullspångs, 
+                                Götene, Hjo, Karlsborgs, 
+                                Lidköpings, Mariestads, 
+                                Skara, Skövde, Tibro, 
+                                Tidaholms, Töreboda 
+                                och Vara kommuner       
+Hyresnämnden i Malmö,           Skåne och Blekinge län  Malmö
+Arrendenämnden i Malmö  
+Hyresnämnden i Göteborg,        Hallands och            Göteborg
+Arrendenämnden i Göteborg       Värmlands län samt 
+                                Ale, Alingsås, 
+                                Bengtsfors, Bollebygds, 
+                                Borås, Dals-Eds, 
+                                Färgelanda, Göteborgs, 
+                                Herrljunga, Härryda, 
+                                Kungälvs, Lerums, 
+                                Lilla Edets, Lysekils, 
+                                Marks, Melleruds, 
+                                Munkedals, Mölndals, 
+                                Orusts, Partille, 
+                                Sotenäs, Stenungsunds, 
+                                Strömstads, Svenljunga, 
+                                Tanums, Tjörns, 
+                                Tranemo, Trollhättans, 
+                                Uddevalla, Ulricehamns, 
+                                Vårgårda, Vänersborgs, 
+                                Åmåls och Öckerö 
+                                kommuner        
+Hyresnämnden i Sundsvall,       Gävleborgs,             Sundsvall
+Arrendenämnden i Sundsvall      Västernorrlands och 
+                                Jämtlands län   
+Hyresnämnden i Umeå,            Västerbottens och       Umeå
+Arrendenämnden i Umeå           Norrbottens län 
+```
+
+*Förordning (2018:1522)*.
+
+## 2 §
+
+En arrendenämnds kansligöromål utförs av hyresnämnd med samma verksamhetsområde som arrendenämndens.
+
+*Förordning (2018:1522)*.
+
+## 3 §
+
+Följande tingsrätter ska på en nämnds vägnar ta emot handlingar i arrendenämnds- och hyresnämndsärenden som rör en fastighet i det län inom vilket tingsrättens kansli finns, lämna upplysningar åt allmänheten och tillhandahålla ansökningsblanketter:
+
+Uppsala tingsrätt,
+
+Gotlands tingsrätt,
+
+Eskilstuna tingsrätt,
+
+Norrköpings tingsrätt,
+
+Skaraborgs tingsrätt,
+
+Växjö tingsrätt,
+
+Kalmar tingsrätt,
+
+Örebro tingsrätt,
+
+Blekinge tingsrätt,
+
+Kristianstads tingsrätt,
+
+Helsingborgs tingsrätt,
+
+Halmstads tingsrätt,
+
+Borås tingsrätt,
+
+Värmlands tingsrätt,
+
+Gävle tingsrätt,
+
+Falu tingsrätt,
+
+Östersunds tingsrätt, och
+
+Luleå tingsrätt.
+
+*Förordning (2018:1522)*.

@@ -1,0 +1,79 @@
+---
+title: "Förordning (1985:796) med vissa bemyndiganden för Socialstyrelsen att meddela föreskrifter m.m."
+identifier: "SFS 1985:796"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1985-10-17
+amended_through: "SFS 2026:512"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1985-796.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1985:796"
+retrieved: 2026-10-11
+---
+# Förordning (1985:796) med vissa bemyndiganden för Socialstyrelsen att meddela föreskrifter m.m.
+
+## Inledande bestämmelse
+
+### 1 §
+
+Utöver de föreskrifter med bemyndiganden för socialstyrelsen som finns i andra författningar gäller vad som föreskrivs i denna förordning.
+
+## Normgivningsbemyndiganden
+
+### 2 §
+
+Socialstyrelsen får meddela föreskrifter
+
+1. om följande frågor som rör ansökan enligt lagen (2024:238) om fastställande av kön i vissa fall, nämligen
+
+a) vilka intyg och övriga underlag som ska bifogas en ansökan och vilka yrkeskategorier som är behöriga att utfärda intyg,
+
+b) vad ansökan ska innehålla i övrigt, och
+
+c) ansökningsförfarandet,
+
+2. om sprututbytesverksamhet enligt lagen (2006:323) om utbyte av sprutor och kanyler till skydd för enskilda,
+
+3. om signeringskravet enligt 3 kap. 10 § patientdatalagen (2008:355) och om undantag från det samt om journalhandlingars innehåll, utformning, hantering och förvaring enligt samma lag, och
+
+4. om att
+
+a) annan hälso- och sjukvårdspersonal än läkare får fullgöra uppgifter som läkare har enligt lagen (1995:831) om transplantation m.m.,
+
+b) ingrepp enligt samma lag får utföras endast på sjukhus som avses i 7 kap. 4 § hälso- och sjukvårdslagen (2017:30) eller vid en annan enhet inom hälso- och sjukvården eller det medicinska området i övrigt, och
+
+c) ett sådant sjukhus eller en sådan enhet, där ingrepp för transplantation får utföras, ska ha tillgång till en donationsansvarig läkare och en donationsansvarig sjuksköterska med uppgift att förbereda för donationer och ge stöd och information till avlidnas närstående.
+
+*Förordning (2026:512)*.
+
+### 3 §
+
+Socialstyrelsen får meddela föreskrifter
+
+1. om undantag från föreskriften i 3 kap. 13 § första stycket patientdatalagen (2008:355) att en journalhandling som upprättas inom hälso- och sjukvården ska vara skriven på svenska språket, och
+
+2. om vilken kompetens en annan person än en legitimerad läkare ska ha för att få särskilt tillstånd att utföra omskärelse, om smärtlindring, om hur ingreppet i övrigt ska utföras och om vilken information som ska lämnas till pojken och hans vårdnadshavare, enligt 11 § lagen (2001:499) om omskärelse av pojkar. *Förordning (2010:1370)*.
+
+## Verkställighetsföreskrifter
+
+### 4 §
+
+Socialstyrelsen får meddela de ytterligare föreskrifter som behövs för verkställigheten av
+
+1. steriliseringslagen (1975:580),
+
+2. lagen (1995:831) om transplantation m.m.,
+
+3. lagen (2006:323) om utbyte av sprutor och kanyler,
+
+4. 3 kap. och 9 kap. patientdatalagen (2008:355), och
+
+5. lagen (2024:238) om fastställande av kön i vissa fall.
+
+*Förordning (2024:1312)*.
+
+### 5 §
+
+Har upphävts genom *förordning (1991:821)*.

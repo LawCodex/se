@@ -1,0 +1,35 @@
+---
+title: "Förordning (1980:398) om handikappanpassad kollektivtrafik"
+identifier: "SFS 1980:398"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1980-06-05
+amended_through: "SFS 2010:1832"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1980-398.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1980:398"
+retrieved: 2026-10-11
+---
+# Förordning (1980:398) om handikappanpassad kollektivtrafik
+
+## 1 §
+
+Denna förordning gäller handikappanpassning av kollektivtrafik som avses i lagen (1979:558) om handikappanpassad kollektivtrafik.
+
+## 2 §
+
+Anpassningen skall ske i den takt och i den omfattning som bedöms skälig med hänsyn till syftet och till de tekniska och ekonomiska förutsättningarna hos dem som utövar trafiken.
+
+## 3 §
+
+Vid anpassningen skall hänsyn tas till de särskilda förhållandena för kollektivtrafiken i tätortsområden. Vidare skall särskilt beaktas att kraven på säkerhet för resenärer och övriga berörda tillgodoses.
+
+## 4 §
+
+Trafikverket och Sjöfartsverket ska, inom sina respektive områden, initiera, planera och följa upp anpassningen. Detsamma gäller Transportstyrelsen inom luftfartsområdet. Trafikverket ska verka för att anpassningen samordnas.
+
+Trafikverket, Sjöfartsverket och Transportstyrelsen får, inom sina respektive områden, meddela de föreskrifter som behövs om färdmedlens och terminalernas konstruktion, utrustning och drift.
+
+Innan föreskrifter meddelas ska myndigheterna samråda med berörda myndigheter, terminalansvariga och handikapporganisationer samt med företrädare för dem som utövar trafiken. *Förordning (2010:1832)*.

@@ -1,0 +1,97 @@
+---
+title: "Lag (1999:889) om registrering av krigsskada på egendom"
+identifier: "SFS 1999:889"
+type: act
+jurisdiction: se
+language: sv
+date: 1999-11-18
+amended_through: "SFS 2018:325"
+department: "Finansdepartementet FMA FPM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-889.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:889"
+retrieved: 2026-10-11
+---
+# Lag (1999:889) om registrering av krigsskada på egendom
+
+## Inledande bestämmelser
+
+### 1 §
+
+För det ändamål som anges i 3 § ska det föras ett för hela landet gemensamt register (krigsskaderegistret). Registret får föras med hjälp av automatisk databehandling.
+
+Ärenden om registrering ska handläggas av Finansinspektionen, som också är personuppgiftsansvarig.
+
+Närmare föreskrifter om vilka uppgifter registret ska innehålla meddelas av regeringen. *Lag (2018:325)*.
+
+### 2 §
+
+Med krigsskada avses i denna lag skada på egendom orsakad av
+
+1. krig mellan Sverige och främmande stat,
+
+2. krig mellan främmande stater, eller
+
+3. en handling som har samband med ett senare utbrutet krig.
+
+## Ändamål
+
+### 3 §
+
+Ändamålet med krigsskaderegistret skall vara att ge riksdagen underlag för beslut i fråga om ersättning av statsmedel för krigsskador.
+
+## Ansökan om registrering
+
+### 4 §
+
+Den som vill begära ersättning av staten för en krigsskada skall göra en skriftlig ansökan om registrering av skadan hos Finansinspektionen. Ansökan skall om möjligt göras inom tre månader från det att skadan inträffade.
+
+En ansökan enligt första stycket kan avse även anspråk av någon annan än sökanden.
+
+### 5 §
+
+Försäkringsbolag som bedriver verksamhet i Sverige är skyldigt att ta emot ansökningar om registrering av krigsskada och att i övrigt biträda Finansinspektionen i registerärenden på det sätt som inspektionen beslutar. För sådan biträdesverksamhet lämnas ersättning enligt grunder som bestäms av regeringen.
+
+Ett försäkringsbolag som mottagit en ansökan om registrering skall genast översända en bestyrkt kopia av denna till Finansinspektionen med uppgift om när ansökan gavs in till bolaget.
+
+## Registrering
+
+### 6 §
+
+Registrering får ske av krigsskada som tillfogats egendom i Sverige eller som utanför Sveriges gränser tillfogats
+
+1. svenskt fartyg eller luftfartyg på resa direkt mellan orter i Sverige samt egendom som medförts på sådan resa,
+
+2. svenskt fartyg under yrkesmässigt bedrivet fiske samt egendom som då medförts ombord.
+
+Registrering får dock inte ske av skada på utländskt fartyg eller luftfartyg och inte heller av skada på egendom som tillhör staten, kommun, eller främmande stat.
+
+## Förfarandet i registreringsärenden
+
+### 7 §
+
+Innan registrering sker skall Finansinspektionen pröva om det finns något hinder mot registreringen.
+
+### 8 §
+
+Är en ansökan om registrering ofullständig skall Finansinspektionen förelägga sökanden att inom viss tid komplettera denna.
+
+Om sökanden inte följer föreläggandet skall ansökan avskrivas.
+
+Föreläggandet skall innehålla en underrättelse om detta.
+
+### 9 §
+
+Beslut som innebär att en ansökan om registrering bifalls införs i registret.
+
+### 10 §
+
+Avslås en ansökan om registrering skall sökanden underrättas skriftligen om detta.
+
+## Överklagande m.m.
+
+### 11 §
+
+Ett beslut som innebär att registrering vägras får överklagas till Stockholms tingsrätt. Vid överklagande gäller lagen (1996:242) om domstolsärenden.
+
+Prövningstillstånd krävs vid överklagande till hovrätten.

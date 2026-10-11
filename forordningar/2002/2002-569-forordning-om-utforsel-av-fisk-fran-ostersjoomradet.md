@@ -1,0 +1,65 @@
+---
+title: "Förordning (2002:569) om utförsel av fisk från Östersjöområdet"
+identifier: "SFS 2002:569"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-06-06
+amended_through: "SFS 2006:1202"
+department: "Landsbygdsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-569.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:569"
+retrieved: 2026-10-11
+---
+# Förordning (2002:569) om utförsel av fisk från Östersjöområdet
+
+> Rättelseblad 2002:569 har iakttagits.
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om utförsel av fisk som är fångad i Östersjöområdet och avsedd som livsmedel och produkter av sådan fisk avsedda som livsmedel.
+
+### 2 §
+
+Med Östersjöområdet avses i denna förordning
+
+1. vatten i ICES-område III d såsom detta beskrivs i bilaga 3 till rådets förordning (EEG) nr 3880/91 om avlämnande av statistikuppgifter om nominell fångst av medlemsstater som bedriver fiske i Nordatlantens östra del och
+
+2. svenskt inre vatten enligt lagen (1966:374) om Sveriges sjöterritorium med undantag av inre vatten i Kattegatt och Skagerack.
+
+## Utförsel till land som är medlem i Europeiska unionen
+
+### 3 §
+
+Fisk och fiskprodukter från Östersjöområdet får föras ut till andra länder inom Europeiska unionen än Finland endast om fisken eller fiskprodukterna uppfyller kraven i avsnitt 5.2 i bilaga 1 till kommissionens förordning (EG) nr 466/2001 om fastställande av högsta tillåtna halt för vissa främmande ämnen i livsmedel2, senast ändrad genom kommissionens förordning (EG) nr 563/20023.
+
+Livsmedelsverket meddelar föreskrifter om vad som skall krävas för att utförsel av fisk och fiskprodukter skall anses vara tillåten enligt första stycket.
+
+## Export till tredje land
+
+### 4 §
+
+Fisk och fiskprodukter som inte uppfyller kraven i avsnitt 5.2 i bilaga 1 till kommissionens förordning (EG) nr 466/2001 får föras ut till ett land utanför Europeiska unionen endast om landet uttryckligen medgett att sådan fisk och sådana fiskprodukter får föras in i landet.
+
+Vilka länder som har lämnat ett medgivande enligt första stycket förtecknas i föreskrifter som meddelas av Livsmedelsverket.
+
+## Anmälningsskyldighet
+
+### 4 a §
+
+Livsmedelsverket skall anmäla överträdelser av bestämmelser i förordningen till Tullverket, om det finns misstanke om brott. *Förordning (2005:1045)*.
+
+## Straff
+
+### 5 §
+
+Om ansvar för utförsel av fisk och fiskprodukter och försök till utförsel i strid mot denna förordning eller mot föreskrifter som meddelats med stöd av förordningen finns bestämmelser i lagen (2000:1225) om straff för smuggling.
+
+## Övriga bestämmelser
+
+### 6 §
+
+Ytterligare föreskrifter för verkställighet av denna förordning meddelas av Livsmedelsverket.

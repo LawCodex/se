@@ -1,0 +1,39 @@
+---
+title: "Kungörandeförordning (1977:827)"
+identifier: "SFS 1977:827"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1977-11-10
+amended_through: "SFS 2023:846"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1977-827.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1977:827"
+retrieved: 2026-10-11
+---
+# Kungörandeförordning (1977:827)
+
+## 1 §
+
+Kungörelsen bör vara kortfattad och enkelt och klart skriven.
+
+## 2 §
+
+Mediemyndigheten tillhandahåller berörda myndigheter sådana uppgifter om dagstidningars spridning som behövs för tillämpningen av 3 § lagen (1977:654) om kungörande i mål och ärenden hos myndighet m.m. *Förordning (2023:846)*.
+
+## 3 §
+
+Skall kungörande enligt 4 § lagen (1977:654) om kungörande i mål och ärenden hos myndighet m. m. ske i lokal dagstidning, skall alltid prövas om det med hänsyn till informationsbehovet är påkallat att kungörelsen införs i samtliga lokala dagstidningar.
+
+Innan beslut fattas om kungörande enligt 4 § nämnda lag, bör vid behov den för vars räkning kungörandet sker ges tillfälle att yttra sig.
+
+*Förordning (1983:1040)*.
+
+## 4 §
+
+Skall kungörelse enligt författning anslås på myndighets anslags tavla, skall kungörelsen förses med uppgift om den dag då kungörelsen har anslagits.
+
+## 5 §
+
+Har upphävts genom *förordning (1981:976)*.

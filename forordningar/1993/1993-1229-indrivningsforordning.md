@@ -1,0 +1,265 @@
+---
+title: "Indrivningsförordning (1993:1229)"
+identifier: "SFS 1993:1229"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1993-11-18
+amended_through: "SFS 2026:177"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-1229.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:1229"
+retrieved: 2026-10-11
+---
+# Indrivningsförordning (1993:1229)
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning gäller vid indrivning enligt lagen (1993:891) om indrivning av statliga fordringar m.m.
+
+#### 2 §
+
+Begrepp som används i denna förordning har samma innebörd som i lagen (1993:891) om indrivning av statliga fordringar m. m.
+
+#### 2 a §
+
+Beslut i en fråga enligt lagen (1993:891) om indrivning av statliga fordringar m.m. får sättas upp i form av ett elektroniskt dokument.
+
+Med ett elektroniskt dokument avses en upptagning vars innehåll och utställare kan verifieras genom ett visst tekniskt förfarande.
+
+*Förordning (1995:488)*.
+
+### Betalningsuppmaning
+
+#### 3 §
+
+Innan ansökan om indrivning görs skall sökanden, om det kan ske utan väsentlig olägenhet och inte särskilda skäl talar emot det, uppmana gäldenären att betala fordringen.
+
+Uppmaningen skall innehålla uppgift om
+
+1. fordringens belopp,
+
+2. dröjsmålsavgift eller annan avgift som skall betalas med anledning av dröjsmålet,
+
+3. den dag då betalning senast skall ske för att inte ansökan om indrivning skall göras.
+
+Uppmaningen skall också innehålla uppgift om att indrivningen är förenad med ytterligare kostnader för gäldenären.
+
+### Begäran om indrivning m.m.
+
+#### 4 §
+
+Bestämmelser om begäran om indrivning av fordringar på skatt eller avgift enligt skatteförfarandelagen (2011:1244) finns i 70 kap. 1 och 2 §§ den lagen.
+
+Indrivning av fordran på felparkeringsavgift ska begäras senast fem månader efter det att fordringen skulle ha betalats.
+
+Indrivning av fordringar som avser betalningsskyldighet för underhållsstöd enligt 19 kap. socialförsäkringsbalken ska, om inte särskilda skäl talar emot det, begäras senast fem månader efter det att den äldsta fordringen skulle ha betalats.
+
+För andra fordringar ska indrivning begäras senast två månader efter det att fordringen skulle ha betalats.
+
+Indrivning enligt andra-fjärde styckena ska begäras under förutsättning att inte ett ärende om ackord, företagsrekonstruktion, nedsättning av fordran, skuldsanering eller F-skuldsanering enligt lagen (2007:324) om Skatteverkets hantering av vissa borgenärsuppgifter eller andra särskilda skäl talar emot det.
+
+Indrivning ska begäras skyndsamt om ett dröjsmål skulle äventyra indrivningen. *Förordning (2022:1332)*.
+
+#### 5 §
+
+Indrivning skall begäras genom ansökan hos Kronofogdemyndigheten. *Förordning (2006:773)*.
+
+#### 6 §
+
+En ansökan om indrivning skall, om inte Kronofogdemyndigheten föreskrivit något annat, innehålla uppgift om
+
+1. sökandens namn och personnummer eller organisationsnummer samt postadress,
+
+2. gäldenärens namn och personnummer eller organisationsnummer, hemvist samt postadress,
+
+3. när fordringen uppkom, vad fordringen avser och fordringens belopp samt andra uppgifter som behövs för indrivningen,
+
+4. det antal poster och det sammanlagda belopp som ansökan avser.
+
+Kronofogdemyndigheten får efter samråd med sökanden besluta att sådana uppgifter som avses i första stycket får lämnas på medium för automatisk databehandling.
+
+Till en ansökan om indrivning skall, utom när den lämnas på medium för automatisk databehandling, bifogas en exekutionstitel eller någon annan handling som kan ligga till grund för indrivningen. *Förordning (2006:773)*.
+
+#### 7 §
+
+Har sökanden uppgifter om gäldenärens ekonomiska förhållanden som kan antas vara av betydelse för indrivningen, skall Kronofogdemyndigheten underrättas om detta när ansökan om indrivning görs eller så snart som möjligt därefter.
+
+*Förordning (2006:773)*.
+
+#### 8 §
+
+Har gäldenärens betalningsskyldighet fallit bort eller satts ned, skall sökanden skyndsamt underrätta Kronofogdemyndigheten om detta. Detsamma gäller om gäldenären har beviljats anstånd med betalningen eller om det kommit fram att indrivning inte borde ha begärts. *Förordning (2006:773)*.
+
+#### 9 §
+
+Om sökanden får betalt för en fordran som överlämnats för indrivning, skall han skyndsamt underrätta Kronofogdemyndigheten om detta. *Förordning (2006:773)*.
+
+### Registrering av mål m.m.
+
+#### 10 §
+
+Har upphävts genom *förordning (2026:177)*.
+
+#### 11 §
+
+Ansökningar om indrivning skall granskas av Kronofogdemyndigheten.
+
+Om en ansökan inte innehåller de uppgifter som anges i 6 § första stycket eller om en upptagning som avses i 6 § andra stycket är bristfällig, skall Kronofogdemyndigheten uppmana sökanden att avhjälpa bristen. Om sökanden inte gör det, skall ansökan avvisas. *Förordning (2006:773)*.
+
+#### 12 §
+
+Har upphävts genom *förordning (2026:177)*.
+
+### Uppskov m.m.
+
+#### 13 §
+
+Om Kronofogdemyndigheten överväger att medge uppskov enligt 7 § lagen (1993:891) om indrivning av statliga fordringar m.m. ska myndigheten informera Skatteverket, om det inte är uppenbart obehövligt. I 26 § finns bestämmelser om vilka uppgifter Kronofogdemyndigheten ska lämna till Skatteverket. *Förordning (2007:796)*.
+
+### Utlandsindrivning
+
+#### 14 §
+
+Vid indrivningen av vissa fordringar från en gäldenär som vistas utomlands eller annars kan antas ha egendom i utlandet får Kronofogdemyndigheten begära biträde av en svensk beskickning eller ett svenskt lönat konsulat, om fordringen inte utan väsentliga svårigheter kan drivas in i Sverige. Detta gäller
+
+1. fordringar som tillkommer staten och inte grundas på studiestödslagen (1973:349) eller studiestödslagen (1999:1395), och
+
+2. fordringar som anges i 15 §.
+
+Om fordringen kan drivas in av en myndighet i den främmande staten, ska Kronofogdemyndigheten begära det, om inte indrivningen avbryts tills vidare med stöd av 18 § lagen (1993:891) om indrivning av statliga fordringar m.m.
+
+*Förordning (2007:796)*.
+
+### Avbrytande av indrivning m.m.
+
+#### 15 §
+
+Bestämmelserna om avbrytande av indrivning i 18 § lagen (1993:891) om indrivning av statliga fordringar m.m. ska tillämpas även på
+
+1. felparkeringsavgift enligt lagen (1976:206) om felparkeringsavgift,
+
+2. fordran enligt förordningen (1980:400) om ersättning vid vissa viltskador m.m.,
+
+3. byggsanktionsavgifter enligt 11 kap. plan- och bygglagen (2010:900),
+
+4. fordran enligt 48 § andra stycket jaktlagen (1987:259),
+
+5. böter som tillkommer jaktvårdsfonden och viltskadefonden, och
+
+6. avgift enligt lagen (1994:419) om brottsofferfond.
+
+*Förordning (2018:1898)*.
+
+#### 16 §
+
+Om Kronofogdemyndigheten har avbrutit indrivningen enligt 18 § första stycket andra meningen lagen (1993:891) om indrivning av statliga fordringar m.m. och verkställighet ska äga rum i ett enskilt mål, ska myndigheten bedöma om indrivningen ska återupptas enligt 18 § andra stycket andra meningen samma lag. Om det behövs ska Kronofogdemyndigheten samråda i frågan med Skatteverket. *Förordning (2007:796)*.
+
+### Bokföring
+
+#### 17 §
+
+Har upphävts genom *förordning (2007:796)*.
+
+#### 18 §
+
+Kronofogdemyndigheten ska skyndsamt registrera uppgifter om influtna medel. Detsamma gäller sådana uppgifter som har lämnats till Kronofogdemyndigheten enligt 8 eller 9 §.
+
+*Förordning (2026:177)*.
+
+#### 19 §
+
+Har upphävts genom *förordning (1997:1083)*.
+
+### Redovisning av influtna medel m.m.
+
+#### 20 §
+
+Kronofogdemyndigheten beslutar efter samråd med sökanden hur influtna medel ska betalas ut till sökanden om inte medlen ska föras direkt till statsbudgeten. *Förordning (2007:796)*.
+
+#### 21 §
+
+Kronofogdemyndigheten beslutar om annan redovisning till sökanden än utbetalning av influtna medel efter samråd med sökanden. *Förordning (2006:773)*.
+
+#### 22 §
+
+Har upphävts genom *förordning (1997:1083)*.
+
+#### 23 §
+
+Har upphävts genom *förordning (1997:1083)*.
+
+### Övriga bestämmelser
+
+#### 24 §
+
+Kronofogdemyndigheten ska registrera en ansökan om indrivning och föra dagbok i varje mål. När det behövs i verksamheten ska följande uppgifter registreras:
+
+1. en fysisk persons identitet, bosättning och familjeförhållanden,
+
+2. en juridisk persons identitet, säte, firmatecknare och andra företrädare,
+
+3. en enskilds ekonomiska förhållanden,
+
+4. näringsförbud,
+
+5. egendom som berörs i ett mål,
+
+6. yrkanden och grunder i ett mål eller ärende,
+
+7. beslut, betalning, redovisning och övriga åtgärder i ett mål eller ärende,
+
+8. Kronofogdemyndighetens anmälan av misstanke om brott samt, om uppgifterna utgör grund för en begäran om verkställighet, uppgifter om lagöverträdelser som innefattar brott eller domar i brottmål, och
+
+9. andra uppgifter som behövs för fullgörande av förpliktelser som följer av internationella åtaganden. *Förordning (2026:177)*.
+
+#### 25 §
+
+Om en fordran på grund av beslut om utmätning av lön eller av annan anledning har betalats av någon annan än gäldenären och om gäldenären inte har fått uppgift om vilken fordran som har betalats, skall Kronofogdemyndigheten på begäran av gäldenären lämna sådan uppgift. *Förordning (2006:773)*.
+
+#### 26 §
+
+Kronofogdemyndigheten ska lämna Skatteverket de uppgifter som myndigheten har om gäldenärens ekonomiska förhållanden i den utsträckning som informationen bedöms vara av betydelse för verkets handläggning enligt lagen (2007:324) om Skatteverkets hantering av vissa borgenärsuppgifter. I övrigt ska Kronofogdemyndigheten på begäran lämna sökanden de uppgifter som myndigheten har om gäldenärens ekonomiska förhållanden om det behövs för att sökanden ska kunna fullgöra sina uppgifter enligt lag eller förordning.
+
+Kronofogdemyndigheten får meddela föreskrifter om informationsutbyte och annan samverkan mellan myndigheten och sökanden samt om avbrytande av indrivning.
+
+Kronofogdemyndigheten får också meddela de ytterligare föreskrifter som behövs för verkställigheten av lagen (1993:891) om indrivning av statliga fordringar m.m. och denna förordning. *Förordning (2007:796)*.
+
+## Övergångsbestämmelser
+
+**1993:1229**
+
+Denna förordning träder i kraft den 1 januari 1994. Genom förordningen upphävs förordningen (1983:167) om användning av automatisk databehandling inom exekutionsväsendet.
+
+Bestämmelserna om betalningsuppmaning i 3 § skall inte tillämpas för tid före den 1 januari 1995 på beslut om betalningsskyldighet för preliminär A-skatt, mervärdesskatt, arbetsgivaravgifter eller särskild löneskatt på vissa förvärvsinkomster som inte redovisats på föreskrivet sätt.
+
+**1997:1083**
+
+Denna förordning träder i kraft den 1 januari 1998. De äldre bestämmelserna i 4 och 13 §§ tillämpas fortfarande i fråga om skatt som tas ut enligt uppbördslagen (1953:272).
+
+**2010:1685**
+
+Denna förordning träder i kraft den 1 januari 2011. Äldre föreskrifter gäller fortfarande för fordringar som avser återbetalningsskyldighet enligt lagen (1996:1030) om underhållsstöd.
+
+**2011:366**
+
+1. Denna förordning träder i kraft den 2 maj 2011.
+
+2. För indrivning av fordringar på avgifter enligt 10 kap.
+
+plan- och bygglagen (1987:10) gäller äldre föreskrifter.
+
+**2018:1898**
+
+1. Denna förordning träder i kraft den 1 januari 2019.
+
+2. Äldre föreskrifter gäller fortfarande för avgifter enligt den upphävda lagen (1989:41) om finansiering av radio och TV i allmänhetens tjänst.
+
+**2022:1332**
+
+1. Denna förordning träder i kraft den 1 augusti 2022.
+
+2. Äldre bestämmelser gäller fortfarande för ansökningar om företagsrekonstruktion som har gjorts före ikraftträdandet.

@@ -1,0 +1,94 @@
+---
+title: "Förordning (2002:62) om utdrag ur databaser vid val och folkomröstning"
+identifier: "SFS 2002:62"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-02-14
+amended_through: "SFS 2024:526"
+reprinted: "SFS 2008:1278"
+department: "Justitiedepartementet L6"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-62.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:62"
+retrieved: 2026-10-11
+---
+# Förordning (2002:62) om utdrag ur databaser vid val och folkomröstning
+
+## Tillämpningsområde
+
+### 1 §
+
+I denna förordning finns bestämmelser om rätt till utdrag i vissa fall ur val- och folkomröstningsdatabasen samt databasen för sametingsvalet enligt lagen (2001:183) om behandling av personuppgifter i verksamhet med val och folkomröstningar. Denna rätt, som gäller utöver rätten att ta del av allmänna handlingar enligt 2 kap. tryckfrihetsförordningen, avser
+
+1. vid allmänt val och val till Europaparlamentet: ett parti som har registrerat sin partibeteckning enligt 2 kap. vallagen (2005:837),
+
+2. vid val till Sametinget: en grupp, ett parti eller en liknande sammanslutning vars kandidater har registrerats för valet enligt 3 kap. 9 b § sametingslagen (1992:1433).
+
+*Förordning (2024:526)*.
+
+## Utdrag
+
+### 2 §
+
+Utdrag lämnas av
+
+1. den centrala valmyndigheten enligt vallagen (2005:837) i samband med allmänna val och val till Europaparlamentet,
+
+2. Sametinget i samband med val till Sametinget.
+
+*Förordning (2024:526)*.
+
+### 3 §
+
+Utdrag får lämnas
+
+1. vid allmänt val: under perioden den 1 april-1 september det år då val till riksdagen äger rum,
+
+2. vid val till Sametinget: under perioden den 1 mars-1 maj valåret,
+
+3. vid val till Europaparlamentet: under perioden den 1 januari valåret-fredagen två veckor före valdagen.
+
+Utdraget ska avse samtliga personer i ett eller flera län eller i hela landet som på grundval av förhållandena vid tidpunkten för utdraget kan antas vara röstberättigade vid något av valen. Ett utdrag som rör val till Sametinget ska avse personer som är röstberättigade enligt den slutliga röstlängden.
+
+Utdraget får omfatta de röstberättigades födelsetider, namn och adresser samt uppgift om vid vilka val de har rösträtt.
+
+*Förordning (2024:526)*.
+
+### 4 §
+
+Utdrag får lämnas
+
+1. genom utskrift på papper,
+
+2. genom utskrift på adressetiketter, och
+
+3. på medium för automatiserad behandling.
+
+Utdrag får lämnas endast en gång per grupp, parti eller liknande sammanslutning. *Förordning (2008:1278)*.
+
+### 5 §
+
+Ett utdrag genom utskrift på adressetiketter får begränsas till att avse ett urval av de personer som anges i 3 § andra stycket. Till grund för ett sådant urval får endast användas de röstberättigades födelsetider och uppgift om vid vilka val de har rösträtt. *Förordning (2008:1278)*.
+
+## Kostnader m.m.
+
+### 6 §
+
+För utdrag ska beställaren betala samtliga de kostnader som uppkommer hos den utlämnande myndigheten. För utdrag enligt 4 § första stycket 1 och 3 behöver avgift dock inte betalas av
+
+1. vid allmänt val: ett parti som vid något av de två senaste valen till riksdagen har fått mer än en procent av rösterna i hela landet,
+
+2. vid val till Sametinget: en grupp, ett parti eller en liknande sammanslutning vars kandidater har registrerats för valet enligt 3 kap. 9 b § sametingslagen (1992:1433),
+
+3. vid val till Europaparlamentet: ett parti som vid något av de två senaste valen till Europaparlamentet har fått mer än en procent av rösterna i valet. *Förordning (2024:526)*.
+
+### 7 §
+
+Den myndighet som ska lämna ett utdrag bestämmer hur och vid vilken tidpunkt utdraget ska beställas och hur det ska utformas. *Förordning (2008:1278)*.
+
+## Överklagande
+
+### 8 §
+
+Ett beslut om kostnader enligt 6 § får överklagas hos Skatteverket. Verkets beslut får inte överklagas. *Förordning (2008:1278)*.

@@ -1,0 +1,161 @@
+---
+title: "Förordning (2003:248) om bidrag till lönekostnader inom verksamheten kulturarvs-it"
+identifier: "SFS 2003:248"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2003-05-22
+amended_through: "SFS 2025:911"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-248.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:248"
+retrieved: 2026-10-11
+---
+# Förordning (2003:248) om bidrag till lönekostnader inom verksamheten kulturarvs-it
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag till lönekostnader för arbetsledare inom verksamheten kulturarvs-it.
+
+Bidrag lämnas om det finns medel.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen. *Förordning (2025:911)*.
+
+#### 2 §
+
+Syftet med bidraget är att öka tillgängligheten till kulturarvet och erbjuda arbete till personer med funktionsnedsättning som medför nedsatt arbetsförmåga.
+
+Bestämmelserna i denna förordning gäller inte den verksamhet benämnd kulturarvs-it som bedrivs vid Stiftelsen Föremålsvård i Kiruna. *Förordning (2025:911)*.
+
+### Villkor för bidrag
+
+#### 3 §
+
+Bidrag får lämnas till regionala och lokala institutioner inom musei- eller arkivsektorn för att anställa en arbetsledare. Arbetsledaren ska ansvara för minst fem arbetstagare som ska ha till uppgift att digitalisera och bearbeta museisamlingar eller arkivmaterial, söka i databaser eller utföra annan informationstjänst.
+
+Arbetstagarna ska omfattas av insatserna lönebidrag för anställning eller lönebidrag för trygghet i anställning enligt förordningen (2017:462) om särskilda insatser för personer med funktionsnedsättning som medför nedsatt arbetsförmåga och
+
+1. vara berättigade till insatser enligt lagen (1993:387) om stöd och service till vissa funktionshindrade,
+
+2. på grund av långvarig och svår psykisk sjukdom inte tidigare ha haft kontakt med arbetslivet eller har varit borta från arbetslivet under en längre tid, eller
+
+3. ha mer än en svårare funktionsnedsättning. *Förordning (2025:911)*.
+
+3a § Bidrag får inte lämnas till en institution som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Riksantikvariatämbetet.
+
+*Förordning (2025:911)*.
+
+### Bidragets storlek
+
+#### 4 §
+
+Bidrag lämnas högst med ett belopp som motsvarar lönekostnaden för en heltidsanställd arbetsledare per institution.
+
+### Ansökan
+
+#### 5 §
+
+Frågor om bidrag enligt denna förordning prövas av Riksantikvarieämbetet.
+
+Den som ansöker om bidrag ska på begäran av Riksantikvarieämbetet lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan.
+
+En ansökan om bidrag ska göras skriftligen av en behörig företrädare för verksamheten. *Förordning (2025:911)*.
+
+### Fördelning av bidrag
+
+#### 5 a §
+
+Vid fördelningen av bidrag ska målsättningen vara att stöd ska ges till en institution i varje län.
+
+En ansökan får avslås om sökanden har fått annat statligt bidrag för samma verksamhet som en ansökan enligt denna förordning avser. *Förordning (2025:911)*.
+
+### Beslut
+
+#### 6 §
+
+Bidrag beviljas för ett år i sänder.
+
+Ett beslut om bidrag får förenas med villkor. Villkoren ska framgå av beslutet. *Förordning (2025:911)*.
+
+### Anmälningsskyldighet
+
+#### 6 a §
+
+Den som ansöker om eller har beviljats bidrag ska så snart som möjligt till Riksantikvarieämbetet anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget. *Förordning (2025:911)*.
+
+### Redovisning
+
+#### 7 §
+
+En bidragsmottagare ska senast vid den tidpunkt som anges i beslutet till Riksantikvarieämbetet lämna en ekonomisk redovisning av det mottagna bidraget samt en redogörelse för vad bidraget har använts till, vilka resultat som har uppnåtts och hur resultaten förhåller sig till det syfte med bidraget som anges i 2 §.
+
+Bidragsmottagaren ska även lämna de övriga uppgifter och handlingar som myndigheten begär för granskningen av redovisningen. *Förordning (2025:911)*.
+
+#### 7 a §
+
+Riksantikvarieämbetet får i beslutet om bidrag föreskriva att en revisor ska granska redovisningen enligt 7 §. Revisorns rapport över granskningen ska bifogas redovisningen.
+
+Om det bidrag som har tagits emot uppgår till minst 5 prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, ska alltid en auktoriserad eller godkänd revisor granska redovisningen. *Förordning (2025:911)*.
+
+### Hinder mot utbetalning
+
+#### 7 b §
+
+Riksantikvarieämbetet ska besluta om att ett beviljat bidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 8 §. Ett sådant beslut gäller omedelbart. *Förordning (2025:911)*.
+
+### Återbetalning och återkrav
+
+#### 8 §
+
+En bidragsmottagare är skyldig att betala tillbaka statsbidraget om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget inte har utnyttjats eller använts för den verksamhet som det har beviljats för,
+
+4. mottagaren inte har lämnat en sådan redovisning eller sådant underlag som avses i 7 §, eller
+
+5. villkor i beslutet inte har följts. *Förordning (2025:911)*.
+
+#### 8 a §
+
+Riksantikvarieämbetet ska besluta att helt eller delvis kräva tillbaka bidraget, om bidragsmottagaren är återbetalningsskyldig enligt 8 §.
+
+Om ett belopp som har återkrävts inte betalas i rätt tid, ska dröjsmålsränta enligt räntelagen (1975:635) tas ut på beloppet.
+
+Om det finns särskilda skäl för det, får Riksantikvarieämbetet besluta att helt eller delvis avstå från ett krav på återbetalning eller ränta. *Förordning (2025:911)*.
+
+### Bemyndigande
+
+#### 9 §
+
+Riksantikvarieämbetet får meddela föreskrifter om verkställighet av denna förordning.
+
+### Överklagande
+
+#### 10 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. *Förordning (2025:911)*.
+
+## Övergångsbestämmelser
+
+**2003:248**
+
+Denna förordning träder i kraft den 1 juli 2003. Stöd får dock lämnas redan för tid från och med den 1 januari 2003.
+
+**2025:911**
+
+1. Denna förordning träder i kraft den 18 november 2025.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.

@@ -1,0 +1,1131 @@
+---
+title: "Förordning (1999:1134) om belastningsregister"
+identifier: "SFS 1999:1134"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1999-12-02
+amended_through: "SFS 2026:1758"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-1134.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:1134"
+retrieved: 2026-10-11
+---
+# Förordning (1999:1134) om belastningsregister
+
+> Rättelsesida till SFS 2024:1186 har iakttagits
+
+#### 1 §
+
+Med belastningsregister avses i denna förordning det register som förs med stöd av lagen (1998:620) om belastningsregister.
+
+### Belastningsregistrets innehåll
+
+### Allmänna uppgifter
+
+#### 2 §
+
+Om förutsättningarna för registrering enligt 3, 4 eller 4 a § lagen (1998:620) om belastningsregister är uppfyllda, ska registret innehålla uppgifter om
+
+1. namn, personnummer eller samordningsnummer och andra identitetsuppgifter,
+
+2. domen, beslutet, strafföreläggandet eller föreläggandet av ordningsboten,
+
+3. de brott som den registrerade har begått samt påföljden,
+
+4. att ett brott har begåtts under påverkan av en sådan allvarlig psykisk störning som avses i 30 kap. 6 § brottsbalken,
+
+5. att en viss påföljd ska avse även annat brott, att den ska undanröjas eller att den ska ersätta en annan påföljd,
+
+6. beslut om utvisning ur Sverige enligt 8 a kap. utlänningslagen (2005:716),
+
+7. förordnande om omedelbar verkställighet eller om ett sådant tillgodoräknande av frihetsberövande eller omhändertagande som avses i 33 kap. 6 och 7 §§ brottsbalken,
+
+8. gjord personutredning,
+
+9. dom eller beslut enligt 34 kap. 6 eller 8 § brottsbalken eller beslut enligt 19 § andra stycket bötesverkställighetslagen (1979:189),
+
+10. lagakraftvunnet beslut varigenom fängelse på livstid omvandlats till ett tidsbestämt straff enligt lagen (2006:45) om omvandling av fängelse på livstid,
+
+11. att en dom eller ett beslut i den del som rör den utdömda påföljden eller avser sådan särskild rättsverkan av brott som innefattar betalningsskyldighet har vunnit laga kraft eller i något av dessa avseenden har överklagats,
+
+12. att regeringen av nåd har efterskänkt eller ändrat en påföljd som har förts in i belastningsregistret,
+
+13. att resning har beviljats, och
+
+14. plats för brotten samt namn på den registrerades föräldrar om uppgifterna har överförts till Sverige med stöd av rådets rambeslut 2009/315/RIF av den 26 februari 2009 om organisationen av medlemsstaternas utbyte av uppgifter ur kriminalregistret och uppgifternas innehåll.
+
+*Förordning (2022:1019)*.
+
+### Uppgifter om den som dömts till fängelse
+
+#### 3 §
+
+I fråga om den som har dömts till fängelse eller fått ett förvandlingsstraff för böter, ska belastningsregistret även innehålla uppgifter om
+
+1. tidpunkten för verkställighetens början,
+
+2. tidpunkten för frigivning,
+
+3. prövotiden och den återstående strafftiden vid villkorlig frigivning,
+
+4. beslut om helt eller delvis förverkande av villkorligt medgiven frihet,
+
+5. beslut om övervakning vid villkorligt medgiven frihet,
+
+6. beslut om förlängning av övervakningstid,
+
+7. beslut om återupptagen övervakning, och
+
+8. tidpunkten för bortfallande av förvandlingsstraff för böter enligt 18 § bötesverkställighetslagen (1979:189).
+
+*Förordning (2025:166)*.
+
+### Uppgifter om den som dömts till skyddstillsyn
+
+#### 4 §
+
+I fråga om den som har dömts till skyddstillsyn skall belastningsregistret även innehålla uppgifter om
+
+1. beslut om förlängning av prövotid,
+
+2. beslut om förlängning av övervakningstid,
+
+3. beslut om återupptagen övervakning, samt
+
+4. beslut om att övervakningen med anledning av en dom på skyddstillsyn skall anstå eller att vidare verkställighet inte får äga rum.
+
+### Uppgifter om den som dömts till ungdomsövervakning
+
+#### 4 a §
+
+I fråga om den som har dömts till ungdomsövervakning ska belastningsregistret även innehålla uppgifter om tidpunkten för verkställighetens början och slut. *Förordning (2020:796)*.
+
+#### 5 §
+
+Har upphävts genom *förordning (2026:546)*.
+
+### Uppgifter om den som överlämnats till vård
+
+#### 6 §
+
+I fråga om den som av domstol har överlämnats till rättspsykiatrisk vård ska belastningsregistret även innehålla uppgifter om intagning i eller utskrivning från en sjukvårdsinrättning samt beslut om öppen rättspsykiatrisk vård.
+
+*Förordning (2008:670)*.
+
+### Uppgifter om den som dömts till säkerhetsförvaring
+
+#### 6 a §
+
+I fråga om den som har dömts till säkerhetsförvaring ska belastningsregistret även innehålla uppgifter om
+
+1. tidpunkten för verkställighetens början,
+
+2. beslut om tillstånd till villkorad utslussning,
+
+3. beslut om upphävande av tillstånd till villkorad utslussning,
+
+4. beslut om övervakning vid villkorad utslussning,
+
+5. beslut om återupptagen övervakning,
+
+6. beslut om förlängning av ramtiden,
+
+7. tidpunkt för ramtidens slut, och
+
+8. beslut att verkställigheten av säkerhetsförvaringen ska fortsätta till dess att frågan om förlängning av ramtiden är slutligt avgjord. *Förordning (2026:272)*.
+
+### Uppgifter om den som utvisats
+
+#### 7 §
+
+I fråga om den som har utvisats på grund av brott ska belastningsregistret även innehålla uppgifter om
+
+1. beslut om inhibition av utvisningsbeslutet,
+
+2. beslut av en migrationsdomstol eller Migrationsöverdomstolen enligt 12 kap. 16 b eller 16 d § utlänningslagen (2005:716), och
+
+3. att utvisningsbeslutet har verkställts.
+
+*Förordning (2013:657)*.
+
+### Uppgifter om den som meddelats kontaktförbud eller tillträdesförbud
+
+#### 8 §
+
+I fråga om den som har meddelats kontaktförbud enligt lagen (1988:688) om kontaktförbud, förbud enligt 3 kap. 5 § lagen (2015:642) om europeisk skyddsorder, tillträdesförbud enligt lagen (2005:321) om tillträdesförbud vid idrottsarrangemang eller lagen (2021:34) om tillträdesförbud till butiker, badanläggningar och bibliotek, eller vistelseförbud enligt lagen (2024:7) om preventiva vistelseförbud ska belastningsregistret även innehålla uppgifter om beslutets innebörd och beslutets giltighetstid.
+
+*Förordning (2024:12)*.
+
+### Uppgifter från utländska myndigheter m.m.
+
+#### 9 §
+
+Belastningsregistret ska också innehålla uppgifter om
+
+1. beslut av en myndighet i Danmark, Finland, Island eller Norge om överflyttning till den staten av verkställighet av
+
+a) fängelse,
+
+b) övervakning av den som villkorligt frigetts eller dömts till skyddstillsyn, eller
+
+c) samhällstjänst som har dömts ut tillsammans med skyddstillsyn eller villkorlig dom,
+
+2. annat beslut av en myndighet i en annan stat om verkställighet av en påföljd som dömts ut här i landet,
+
+3. beslut av en svensk domstol eller en myndighet enligt 5 kap. 1 §, 7 kap. 1 §, 9 kap. 1 § eller 10 kap. 16 eller 18 § lagen (2026:786) om nordisk verkställighet i brottmål, och
+
+4. beslut av en svensk myndighet enligt 10 § lagen (1978:801) om internationellt samarbete rörande kriminalvård i frihet.
+
+*Förordning (2026:800)*.
+
+### Rätt att få uppgifter ur belastningsregistret
+
+### Myndigheter som har rätt att få fullständiga uppgifter
+
+#### 10 §
+
+Uppgifter ur belastningsregistret ska lämnas ut om det begärs av
+
+1. det statsråd som är föredragande i ärenden enligt lagen (2022:700) om särskild kontroll av vissa utlänningar, i ärenden om utlämning för brott, i ärenden om nåd i brottmål eller i andra ärenden enligt 12 kap. 9 § regeringsformen, i ärenden om överförande av straffverkställighet enligt lagen (2025:520) om internationell verkställighet i brottmål eller i ärenden om anställning som domare eller hyresråd, eller den statsrådet bemyndigar, för utredning i ett sådant ärende och i fråga om den som ärendet gäller,
+
+2. chefen för Justitiedepartementet eller den han eller hon bemyndigar, om utdraget behövs för att fullgöra en skyldighet Sverige har enligt en överenskommelse med en främmande stat,
+
+3. en åklagarmyndighet, i ärenden där en prövning ska göras, i fråga om den som prövningen gäller,
+
+4. Säkerhetspolisen, i ärenden om anställning eller uppdrag vid myndigheten,
+
+5. Tullverket, i tillståndsärenden och andra ärenden där en lämplighetsprövning ska göras enligt Europaparlamentets och rådets förordning (EU) nr 952/2013 av den 9 oktober 2013 om fastställande av en tullkodex för unionen och de förordningar som meddelas med stöd av den förordningen, samt i andra tillståndsärenden och ärenden där en lämplighetsprövning ska göras, i fråga om den som prövningen gäller,
+
+6. en länsstyrelse, i fråga om den som ärendet gäller, om inte annat anges, i ärenden
+
+a) där länsstyrelsen enligt lag eller förordning ska hämta in sådana uppgifter,
+
+b) där länsstyrelsen ska göra en lämplighetsprövning,
+
+c) där länsstyrelsen ska pröva frågor om förbud mot att ha djur eller om omhändertagande av djur,
+
+d) om godkännande och tillsyn enligt förordningen (1989:149) om bevakningsföretag m.m.,
+
+e) om godkännande av skyddsvakt enligt skyddsförordningen (2010:523),
+
+f) om godkännande och tillsyn enligt förordningen (2011:155) om auktorisation av delgivningsföretag, och
+
+g) om auktorisation enligt förordningen om auktorisation av delgivningsföretag, i fråga om personer som anges i 4 § första stycket 1 och 2 den förordningen,
+
+7. Transportstyrelsen, i fråga om den som myndigheten vid lämplighetsprövning enligt lagen (1998:493) om trafikskolor och förordningen (1998:978) om trafikskolor överväger att ge tillstånd eller godkänna samt i ärenden om körkortstillstånd, körkort, traktorkort, taxiförarlegitimation, tillstånd till yrkesmässig trafik eller taxitrafik, biluthyrning och transporttillstånd eller tillstånd för att få driva en redovisningscentral eller en beställningscentral för taxitrafik, i fråga om den som ärendet gäller,
+
+8. en myndighet som har rätt att besluta om frihetsberövande åtgärd enligt lagarna om överlämnande eller utlämning för brott eller utlänningslagen (2005:716), i ärenden som rör en sådan åtgärd,
+
+9. Kriminalvården, i fråga om den som myndigheten avser att anställa eller anlita som
+
+a) övervakare,
+
+b) förtroendeman enligt lagen (1991:2041) om särskild personutredning i brottmål, m.m. eller fängelseförordningen (2010:2010),
+
+c) personutredare enligt lagen om särskild personutredning i brottmål, m.m.,
+
+d) biträde enligt 3 kap. 1 § andra stycket lagen (2025:1053) om verkställighet av fängelsestraff med elektronisk övervakning, fängelseförordningen eller 21 a § lagen (2020:616) om verkställighet av ungdomsövervakning,
+
+e) kontrollör enligt 3 kap. 4 § förordningen (1998:642) om verkställighet av frivårdspåföljder, eller
+
+f) särskild koordinator eller biträdande koordinator enligt 8 § lagen om verkställighet av ungdomsövervakning,
+
+10. Kriminalvården, när uppgiften behövs för prövning av en fråga enligt fängelselagen (2010:610), häkteslagen (2010:611), lagen om särskild personutredning i brottmål, m.m., lagen (2015:96) om erkännande och verkställighet av frihetsberövande påföljder inom Europeiska unionen, lagen (2015:650) om erkännande och verkställighet av frivårdspåföljder inom Europeiska unionen, lagen om verkställighet av ungdomsövervakning, lagen om internationell verkställighet i brottmål, lagen om verkställighet av fängelsestraff med elektronisk övervakning, lagen (2026:252) om verkställighet av säkerhetsförvaring, förordningen om verkställighet av frivårdspåföljder, fängelseförordningen eller häktesförordningen (2010:2011),
+
+11. en övervakningsnämnd eller Kriminalvården, i ärenden om övervakning, i fråga om den som ärendet gäller,
+
+12. det statsråd som är föredragande i ärenden enligt lagen (2001:82) om svenskt medborgarskap, eller den statsrådet bemyndigar, för utredning i ett sådant ärende, i fråga om den som ärendet gäller,
+
+13. Försvarsmakten, i fråga om den som myndigheten avser att anställa för tjänstgöring i internationella militära insatser,
+
+14. Migrationsverket, i fråga om den som ärendet gäller, i ärenden enligt
+
+a) lagen om svenskt medborgarskap,
+
+b) utlänningslagen,
+
+c) lagen om särskild kontroll av vissa utlänningar,
+
+d) Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU, eller
+
+e) Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU,
+
+15. Migrationsverket, i fråga om den som myndigheten avser att anställa eller anlita inom förvarsverksamheten,
+
+16. en passmyndighet utom riket i passärenden, i fråga om den som ärendet gäller,
+
+17. allmän domstol, i ärenden om omvandling enligt lagen (2006:45) om omvandling av fängelse på livstid, om tillstånd till villkorad utslussning enligt 33 kap. 6 § brottsbalken, om upphävande av tillstånd till villkorad utslussning enligt 33 kap. 8 § samma balk, eller om förlängning av ramtiden enligt 33 kap. 9 § samma balk, i fråga om den som ärendet gäller,
+
+18. Domstolsverket, allmän domstol eller allmän förvaltningsdomstol i fråga om den som myndigheten avser att anställa,
+
+19. Domarnämnden, i ärenden om anställning som domare eller hyresråd,
+
+20. Kronofogdemyndigheten, i fråga om den som ärendet gäller, i ärenden enligt
+
+a) 3 kap. lagen (2009:1427) om erkännande och verkställighet av bötesstraff inom Europeiska unionen,
+
+b) 3 kap. lagen (2011:423) om erkännande och verkställighet av beslut om förverkande i vissa fall,
+
+c) Europaparlamentets och rådets förordning (EU) 2018/1805 av den 14 november 2018 om ömsesidigt erkännande av beslut om frysning och beslut om förverkande, och
+
+d) lagen om internationell verkställighet i brottmål,
+
+21. en migrationsdomstol eller Migrationsöverdomstolen, i mål om upphävande av allmän domstols beslut om utvisning på grund av brott, i fråga om den som ärendet gäller,
+
+22. allmän domstol eller allmän förvaltningsdomstol, i fråga om en nämndeman som ska påbörja en tjänstgöringsperiod i domstolen,
+
+23. en åklagarmyndighet i ärenden enligt förordningen (2014:1553) om förebyggande och lösning av tvister om utövande av jurisdiktion i straffrättsliga förfaranden inom Europeiska unionen,
+
+24. en åklagarmyndighet eller allmän domstol i ett ärende enligt lagen (2017:1000) om en europeisk utredningsorder,
+
+25. Rättsmedicinalverket, när uppgiften behövs för prövning enligt häkteslagen av om ett besök eller elektronisk kommunikation kan tillåtas eller ska kontrolleras,
+
+26. Myndigheten för civilt försvar, i fråga om den som omfattas av myndighetens prövning vid tillståndsgivning enligt Europaparlamentets och rådets förordning (EU) 2019/1148 av den 20 juni 2019 om saluföring och användning av sprängämnesprekursorer, om ändring av förordning (EG) nr 1907/2006 och om upphävande av förordning (EU) nr 98/2013, i den ursprungliga lydelsen,
+
+27. Statens institutionsstyrelse, när uppgiften behövs för prövning enligt lagen (1990:52) med särskilda bestämmelser om vård av unga av om ett besök eller elektronisk kommunikation kan tillåtas eller ska begränsas eller kontrolleras,
+
+28. en åklagarmyndighet, i fråga om den som myndigheten avser att anställa, och
+
+29. Rättsmedicinalverket, vid en riskutredning enligt 12 kap. 6 § fängelselagen eller en särskild riskutredning enligt 3 kap. 2 § lagen om verkställighet av säkerhetsförvaring, i fråga om den som ärendet gäller. *Förordning (2026:1567)*.
+
+#### 11 §
+
+*/Upphör att gälla U:2026-11-20/* Uppgifter ur belastningsregistret om brott som lett till någon annan påföljd än penningböter ska lämnas ut om det begärs av
+
+1. Justitiekanslern, i fråga om den som ansöker om ersättning enligt lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder,
+
+2. Högskolans avskiljandenämnd, i fråga om den som nämnden vid prövning enligt högskolelagen (1992:1434) överväger att avskilja från utbildningen,
+
+3. Arbetsförmedlingen, för utredning i ärenden om kallelse till ny tjänstgöring av vapenfri tjänst, i fråga om den som ärendet gäller,
+
+4. Riksbanken, i fråga om den som banken avser att anställa som bevaknings- eller transportpersonal,
+
+5. en statlig eller kommunal myndighet som beslutar om anställning av personal inom psykiatrisk sjukvård, vård av utvecklingsstörda, vård av barn och ungdom eller tvångsvård av missbrukare, i fråga om den som myndigheten avser att anställa eller anlita som uppdragstagare,
+
+6. Spelinspektionen, i fråga om den som omfattas av myndighetens prövning vid licens- och tillståndsgivning enligt spellagen (2018:1138),
+
+7. Myndigheten för civilt försvar eller en kommun, i fråga om den som myndigheten eller kommunen lämplighetsprövar enligt 19 § lagen (2010:1011) om brandfarliga och explosiva varor,
+
+8. en socialnämnd, i ärenden om
+
+a) att utse kontaktperson eller kontaktfamilj enligt 13 kap. 7 § socialtjänstlagen (2025:400) för en person som inte har fyllt 21 år,
+
+b) vårdnad, boende eller umgänge enligt 6 kap. föräldrabalken samt beslut om vård eller medgivande att ta emot barn m.m. enligt 18 kap. 11 § och 22 kap. 2, 4, 13, 14 och 16 §§ socialtjänstlagen,
+
+c) adoption enligt 24 kap. 1, 4 och 5 §§ socialtjänstlagen,
+
+d) att utreda barns behov av skydd eller stöd enligt socialtjänstlagen,
+
+e) åtgärder enligt lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga eller lagen (2024:79) om placering av barn i skyddat boende, eller
+
+f) att utse särskild handläggare enligt 9 § lagen (2020:616) om verkställighet av ungdomsövervakning,
+
+9. Transportstyrelsen, i fråga om den som myndigheten vid lämplighetsprövning
+
+a) enligt luftfartslagen (2010:500) och luftfartsförordningen (2010:770) överväger att ge certifikat eller tillstånd, eller
+
+b) enligt 4 § lagen (1990:1157) om säkerhet vid tunnelbana och spårväg, 2 kap. 2 § järnvägsmarknadslagen (2022:365), 3 kap. 3 och 7 §§ järnvägssäkerhetslagen (2022:367) eller 4 kap. 2 och 5 §§ lagen (2022:368) om nationella järnvägssystem överväger att ge tillstånd,
+
+10. en kommunal myndighet, i ärenden om serveringstillstånd enligt alkohollagen (2010:1622) och i ärenden om tillstånd för försäljning av tobaksvaror enligt lagen (2018:2088) om tobak och liknande produkter, i fråga om den som ärendet gäller,
+
+11. Läkemedelsverket, i fråga om den som myndigheten överväger att ge tillstånd enligt 2 kap. 1 § lagen (2009:366) om handel med läkemedel eller lagen (1992:860) om kontroll av narkotika,
+
+12. Kronofogdemyndigheten, för utredning i ärenden enligt skuldsaneringslagen (2016:675) eller lagen (2016:676) om skuldsanering för företagare, i fråga om den som ärendet gäller,
+
+13. Brottsoffermyndigheten, för utredning i ärenden enligt brottsskadelagen (2014:322),
+
+14. en överförmyndare eller överförmyndarnämnd, i ärenden där en lämplighetsprövning ska göras, i fråga om
+
+a) den som överförmyndaren eller nämnden avser att utse eller avser att föreslå att rätten utser till förmyndare, god man, sådan företrädare eller tillfällig företrädare som avses i 1 b § lagen (2005:429) om god man för ensamkommande barn eller förvaltare, eller
+
+b) den som är förmyndare, god man, sådan företrädare eller tillfällig företrädare som avses i 1 b § lagen om god man för ensamkommande barn eller förvaltare,
+
+15. Inspektionen för strategiska produkter, i fråga om
+
+a) tillståndsärenden enligt Europaparlamentets och rådets förordning (EU) nr 258/2012 av den 14 mars 2012 om genomförande av artikel 10 i FN:s protokoll om olaglig tillverkning av och handel med eldvapen, delar till eldvapen och ammunition, bifogat till Förenta nationernas konvention mot gränsöverskridande organiserad brottslighet (FN:s protokoll om skjutvapen), och om införande av exporttillstånd, import- och transiteringsåtgärder för skjutvapen, delar till skjutvapen och ammunition, i fråga om den som prövningen gäller, eller
+
+b) ärenden där en investering granskas enligt lagen (2023:560) om granskning av utländska direktinvesteringar,
+
+16. Rättsmedicinalverket, i fråga om den som myndigheten avser att anställa eller anlita som uppdragstagare i den rättspsykiatriska undersökningsverksamheten,
+
+17. Socialstyrelsen, om uppgifterna behövs i utredning enligt lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall, och
+
+18. Finansinspektionen, i fråga om den som myndigheten lämplighetsprövar enligt
+
+a) lagen (1996:1006) om viss finansiell verksamhet,
+
+b) lagen (2004:46) om värdepappersfonder,
+
+c) lagen (2004:297) om bank- och finansieringsrörelse,
+
+d) lagen (2007:528) om värdepappersmarknaden,
+
+e) lagen (2010:751) om betaltjänster,
+
+f) försäkringsrörelselagen (2010:2043),
+
+g) lagen (2011:755) om elektroniska pengar,
+
+h) lagen (2013:561) om förvaltare av alternativa investeringsfonder,
+
+i) lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag,
+
+j) lagen (2016:1024) om verksamhet med bostadskrediter,
+
+k) lagen (2019:742) om tjänstepensionsföretag,
+
+l) lagen (2023:714) om förvärv och förvaltning av nödlidande kreditavtal,
+
+m) lagen (2024:114) om clearing och avveckling av betalningar,
+
+n) Europaparlamentets och rådets förordning (EU) nr 648/2012 av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister,
+
+o) Europaparlamentets och rådets förordning (EU) nr 909/2014 av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 236/2012, eller
+
+p) Europaparlamentets och rådets förordning (EU) 2023/1114 av den 31 maj 2023 om marknader för kryptotillgångar och om ändring av förordningarna (EU) nr 1093/2010 och (EU) nr 1095/2010 samt direktiven 2013/36/EU och (EU) 2019/1937.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas till en myndighet som har rätt att få uppgifter enligt denna paragraf. En socialnämnd och Socialstyrelsen har dock rätt till uppgift om åklagares beslut om åtalsunderlåtelse, straffvarning, kontaktförbud och förbud enligt 3 kap. 5 § lagen (2015:642) om europeisk skyddsorder. *Förordning (2026:1174)*.
+
+#### 11 §
+
+*/Träder i kraft I:2026-11-20/* Uppgifter ur belastningsregistret om brott som lett till någon annan påföljd än penningböter ska lämnas ut om det begärs av
+
+1. Justitiekanslern, i fråga om den som ansöker om ersättning enligt lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder,
+
+2. Högskolans avskiljandenämnd, i fråga om den som nämnden vid prövning enligt högskolelagen (1992:1434) överväger att avskilja från utbildningen,
+
+3. Arbetsförmedlingen, för utredning i ärenden om kallelse till ny tjänstgöring av vapenfri tjänst, i fråga om den som ärendet gäller,
+
+4. Riksbanken, i fråga om den som banken avser att anställa som bevaknings- eller transportpersonal,
+
+5. en statlig eller kommunal myndighet som beslutar om anställning av personal inom psykiatrisk sjukvård, vård av utvecklingsstörda, vård av barn och ungdom eller tvångsvård av missbrukare, i fråga om den som myndigheten avser att anställa eller anlita som uppdragstagare,
+
+6. Spelinspektionen, i fråga om den som omfattas av myndighetens prövning vid licens- och tillståndsgivning enligt spellagen (2018:1138),
+
+7. Myndigheten för civilt försvar eller en kommun, i fråga om den som myndigheten eller kommunen lämplighetsprövar enligt 19 § lagen (2010:1011) om brandfarliga och explosiva varor,
+
+8. en socialnämnd, i ärenden om
+
+a) att utse kontaktperson eller kontaktfamilj enligt 13 kap. 7 § socialtjänstlagen (2025:400) för en person som inte har fyllt 21 år,
+
+b) vårdnad, boende eller umgänge enligt 6 kap. föräldrabalken samt beslut om vård eller medgivande att ta emot barn m.m. enligt 18 kap. 11 § och 22 kap. 2, 4, 13, 14 och 16 §§ socialtjänstlagen,
+
+c) adoption enligt 24 kap. 1, 4 och 5 §§ socialtjänstlagen,
+
+d) att utreda barns behov av skydd eller stöd enligt socialtjänstlagen,
+
+e) åtgärder enligt lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga eller lagen (2024:79) om placering av barn i skyddat boende, eller
+
+f) att utse särskild handläggare enligt 9 § lagen (2020:616) om verkställighet av ungdomsövervakning,
+
+9. Transportstyrelsen, i fråga om den som myndigheten vid lämplighetsprövning
+
+a) enligt luftfartslagen (2010:500) och luftfartsförordningen (2010:770) överväger att ge certifikat eller tillstånd, eller
+
+b) enligt 4 § lagen (1990:1157) om säkerhet vid tunnelbana och spårväg, 2 kap. 2 § järnvägsmarknadslagen (2022:365), 3 kap. 3 och 7 §§ järnvägssäkerhetslagen (2022:367) eller 4 kap. 2 och 5 §§ lagen (2022:368) om nationella järnvägssystem överväger att ge tillstånd,
+
+10. en kommunal myndighet, i ärenden om serveringstillstånd enligt alkohollagen (2010:1622) och i ärenden om tillstånd för försäljning av tobaksvaror enligt lagen (2018:2088) om tobak och liknande produkter, i fråga om den som ärendet gäller,
+
+11. Läkemedelsverket, i fråga om den som myndigheten överväger att ge tillstånd enligt 2 kap. 1 § lagen (2009:366) om handel med läkemedel eller lagen (1992:860) om kontroll av narkotika,
+
+12. Kronofogdemyndigheten, för utredning i ärenden enligt skuldsaneringslagen (2016:675) eller lagen (2016:676) om skuldsanering för företagare, i fråga om den som ärendet gäller,
+
+13. Brottsoffermyndigheten, för utredning i ärenden enligt brottsskadelagen (2014:322),
+
+14. en överförmyndare eller överförmyndarnämnd, i ärenden där en lämplighetsprövning ska göras, i fråga om
+
+a) den som överförmyndaren eller nämnden avser att utse eller avser att föreslå att rätten utser till förmyndare, god man, sådan företrädare eller tillfällig företrädare som avses i 1 b § lagen (2005:429) om god man för ensamkommande barn eller förvaltare, eller
+
+b) den som är förmyndare, god man, sådan företrädare eller tillfällig företrädare som avses i 1 b § lagen om god man för ensamkommande barn eller förvaltare,
+
+15. Inspektionen för strategiska produkter, i fråga om
+
+a) tillståndsärenden enligt Europaparlamentets och rådets förordning (EU) nr 258/2012 av den 14 mars 2012 om genomförande av artikel 10 i FN:s protokoll om olaglig tillverkning av och handel med eldvapen, delar till eldvapen och ammunition, bifogat till Förenta nationernas konvention mot gränsöverskridande organiserad brottslighet (FN:s protokoll om skjutvapen), och om införande av exporttillstånd, import- och transiteringsåtgärder för skjutvapen, delar till skjutvapen och ammunition, i fråga om den som prövningen gäller, eller
+
+b) ärenden där en investering granskas enligt lagen (2023:560) om granskning av utländska direktinvesteringar,
+
+16. Rättsmedicinalverket, i fråga om den som myndigheten avser att anställa eller anlita som uppdragstagare i den rättspsykiatriska undersökningsverksamheten,
+
+17. Socialstyrelsen, om uppgifterna behövs i utredning enligt lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall, och
+
+18. Finansinspektionen, i fråga om den som myndigheten lämplighetsprövar enligt
+
+a) lagen (1996:1006) om viss finansiell verksamhet,
+
+b) lagen (2004:46) om värdepappersfonder,
+
+c) lagen (2004:297) om bank- och finansieringsrörelse,
+
+d) lagen (2007:528) om värdepappersmarknaden,
+
+e) lagen (2010:751) om betaltjänster,
+
+f) försäkringsrörelselagen (2010:2043),
+
+g) lagen (2011:755) om elektroniska pengar,
+
+h) lagen (2013:561) om förvaltare av alternativa investeringsfonder,
+
+i) lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag,
+
+j) lagen (2016:1024) om verksamhet med bostadskrediter och vissa andra konsumentkrediter,
+
+k) lagen (2019:742) om tjänstepensionsföretag,
+
+l) lagen (2023:714) om förvärv och förvaltning av nödlidande kreditavtal,
+
+m) lagen (2024:114) om clearing och avveckling av betalningar,
+
+n) Europaparlamentets och rådets förordning (EU) nr 648/2012 av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister,
+
+o) Europaparlamentets och rådets förordning (EU) nr 909/2014 av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 236/2012, eller
+
+p) Europaparlamentets och rådets förordning (EU) 2023/1114 av den 31 maj 2023 om marknader för kryptotillgångar och om ändring av förordningarna (EU) nr 1093/2010 och (EU) nr 1095/2010 samt direktiven 2013/36/EU och (EU) 2019/1937.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas till en myndighet som har rätt att få uppgifter enligt denna paragraf. En socialnämnd och Socialstyrelsen har dock rätt till uppgift om åklagares beslut om åtalsunderlåtelse, straffvarning, kontaktförbud och förbud enligt 3 kap. 5 § lagen (2015:642) om europeisk skyddsorder. *Förordning (2026:1758)*.
+
+#### 11 a §
+
+/Upphör att gälla U:2031-06-01 genom *förordning (2025:304)*./ Uppgifter ur belastningsregistret om brott som lett till någon annan påföljd än penningböter ska lämnas ut om det begärs av en kommunal myndighet, i ärenden om gårdsförsäljningstillstånd enligt alkohollagen (2010:1622), i fråga om den som ärendet gäller.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut. *Förordning (2025:303)*.
+
+#### 11 b §
+
+Uppgifter ur belastningsregistret om brott som lett till fängelse eller säkerhetsförvaring och där fängelsestraffet eller säkerhetsförvaringen ännu inte har avtjänats ska lämnas ut om det begärs av Migrationsverket, i ärenden enligt förordningen (2025:970) om återvandringsbidrag för vissa utlänningar, i fråga om den som ärendet gäller. *Förordning (2026:272)*.
+
+### Myndigheter som har rätt att få uppgifter om vissa brott
+
+#### 12 §
+
+Uppgifter ur belastningsregistret om brott mot 3, 4, 6, 8-11, 14 eller 15 kap. brottsbalken eller mot skattebrottslagen (1971:69) eller lagen (2014:307) om straff för penningtvättsbrott ska, om brotten lett till någon annan påföljd än böter, lämnas ut om det begärs av
+
+1. Fastighetsmäklarinspektionen, vid en redbarhets- och lämplighetsprövning av en fastighetsmäklare enligt fastighetsmäklarlagen (2021:516), eller
+
+2. Kammarkollegiet, i fråga om den som myndigheten vid prövning enligt förordningen (1985:613) om auktorisation av tolkar och översättare avser att auktorisera.
+
+Till Fastighetsmäklarinspektionen ska även uppgifter ur belastningsregistret om brott mot 4 kap. 18 § fastighetsmäklarlagen lämnas ut vid den prövning som avses i första stycket 1.
+
+Om påföljden även avser något annat brott än de som anges i första och andra styckena, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas till en myndighet som har rätt att få uppgifter enligt denna paragraf. *Förordning (2021:522)*.
+
+#### 12 a §
+
+Uppgifter ur belastningsregistret om brott mot 8-11, 14 eller 15 kap. brottsbalken eller mot skattebrottslagen (1971:69), lagen (2014:307) om straff för penningtvättsbrott eller 4 kap. 18 § fastighetsmäklarlagen (2021:516) ska, om brotten lett till någon annan påföljd än penningböter, lämnas ut om det begärs av Fastighetsmäklarinspektionen vid en prövning enligt fastighetsmäklarlagen av om någon som ingår i ett fastighetsmäklarföretags ledning eller som har ett kvalificerat innehav i mäklarföretaget har gjort sig skyldig till allvarlig brottslighet eller i väsentlig utsträckning åsidosatt sina skyldigheter i näringsverksamhet.
+
+Om påföljden avser även något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut till Fastighetsmäklarinspektionen när myndigheten har rätt att få uppgifter ur belastningsregistret enligt denna paragraf. *Förordning (2021:522)*.
+
+#### 12 b §
+
+Uppgifter ur belastningsregistret om brott mot 3, 4, 6, 8-11, 14 eller 15 kap. brottsbalken eller mot skattebrottslagen (1971:69), lagen (2014:307) om straff för penningtvättsbrott, lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden eller spellagen (2018:1138) ska, om brotten lett till någon annan påföljd än penningböter, lämnas ut om det begärs av Spelinspektionen, i fråga om den som myndigheten avser att anställa eller anlita för licens- och tillståndsgivning eller tillsynsverksamhet.
+
+Om påföljden även avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut till Spelinspektionen när myndigheten har rätt att få uppgifter ur belastningsregistret enligt denna paragraf.
+
+*Förordning (2024:300)*.
+
+#### 13 §
+
+Uppgifter ur belastningsregistret om brott mot 8-11, 14 eller 15 kap. brottsbalken eller mot skattebrottslagen (1971:69) eller lagen (2014:307) om straff för penningtvättsbrott ska, om brotten lett till någon annan påföljd än penningböter, lämnas ut om det begärs av Revisorsinspektionen, i fråga om den som myndigheten vid lämplighetsprövning enligt revisorslagen (2001:883) överväger att auktorisera eller godkänna.
+
+Om den påföljd som dömts ut även avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut till Revisorsinspektionen när myndigheten har rätt att få uppgifter ur belastningsregistret enligt denna paragraf.
+
+*Förordning (2018:2044)*.
+
+#### 13 a §
+
+Uppgifter ur belastningsregistret om huruvida en enskild förekommer eller inte förekommer för sådan brottslighet som avses i 3 kap. 1 § förordningen (2018:1231) om försäkringsdistribution ska lämnas ut om det begärs av Finansinspektionen, i fråga om den som myndigheten lämplighetsprövar enligt lagen (2018:1219) om försäkringsdistribution. *Förordning (2018:2044)*.
+
+#### 14 §
+
+Uppgifter ur belastningsregistret om brott mot 3, 4, 6, 8-11, 13-15 eller 17 kap. brottsbalken, narkotikastrafflagen (1968:64), skattebrottslagen (1971:69), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1994:1776) om skatt på energi, lagen (1998:506) om punktskattekontroll av transporter m.m. av alkoholvaror, tobaksvaror och energiprodukter, lagen (1999:42) om förbud mot vissa hälsofarliga varor, lagen (2000:1225) om straff för smuggling, alkohollagen (2010:1622), lagen (2014:307) om straff för penningtvättsbrott, tullagen (2016:253), lagen (2018:2088) om tobak och liknande produkter eller motsvarande äldre lagar, lagen (2022:155) om tobaksskatt eller motsvarande äldre lag, lagen (2022:156) om alkoholskatt eller motsvarande äldre lag, 18 kap. 1-9 §§ vapenlagen (2026:408) eller dess motsvarighet enligt äldre lag ska lämnas ut om det begärs av Skatteverket.
+
+Uppgifterna ska lämnas ut för prövning av
+
+1. upplagshavare, skatteupplag och registrerade varumottagare enligt lagen om tobaksskatt, lagen om alkoholskatt eller lagen om skatt på energi,
+
+2. skattebefriade förbrukare enligt lagen om alkoholskatt eller lagen om skatt på energi,
+
+3. lagerhållare enligt lagen om tobaksskatt, lagen om skatt på energi, lagen (2016:1067) om skatt på kemikalier i viss elektronik eller lagen (2018:696) om skatt på vissa nikotinhaltiga produkter,
+
+4. frivilligt skattskyldiga enligt lagen om skatt på energi,
+
+5. registrerade mottagare enligt lagen om skatt på kemikalier i viss elektronik, och
+
+6. registrerade EU-handlare enligt lagen om skatt på kemikalier i viss elektronik.
+
+Om den påföljd som dömts ut även avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut. *Förordning (2026:435)*.
+
+#### 15 §
+
+Uppgifter ur belastningsregistret om brott mot 3, 4 eller 6 kap., 8 kap. 1, 4-7 §§, 9 kap. 1, 3, 4, 6 eller 6 a §, 10 kap. 1 eller 3 §, 12 kap. 3 §, 13 kap., 14 kap. 1, 3 eller 6 §, 16 kap. 1, 2, 5 eller 8 §, 17-19 kap. brottsbalken, narkotikastrafflagen (1968:64), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1999:42) om förbud mot vissa hälsofarliga varor, 3-5 eller 7 § första eller andra stycket lagen (2014:307) om straff för penningtvättsbrott eller 18 kap. 1-9 §§ vapenlagen (2026:408) eller dess motsvarighet enligt äldre lag ska lämnas ut om det begärs av Försvarsmakten, i fråga om dels totalförsvarspliktiga som är inskrivna för värnplikt enligt lagen (1994:1809) om totalförsvarsplikt, dels dem som Försvarsmakten avser att anta eller som är antagna till militär utbildning inom myndigheten.
+
+Om uppgifter om sådan brottslighet som avses i första stycket förekommer, ska också uppgifter om annan brottslighet som lett till någon annan påföljd än penningböter lämnas ut.
+
+*Förordning (2026:435)*.
+
+#### 16 §
+
+Uppgifter ur belastningsregistret om brott mot 9 kap. 6, 6 a eller 7 § brottsbalken eller lagen (2014:307) om straff för penningtvättsbrott ska lämnas ut om det begärs av Riksgäldskontoret för utredning enligt lagen (1995:1571) om insättningsgaranti eller lagen (1999:158) om investerarskydd, i fråga om den som ärendet gäller.
+
+Om den påföljd som dömts ut även avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut. *Förordning (2025:650)*.
+
+#### 16 a §
+
+Uppgifter ur belastningsregistret om brott mot 8-11, 14 eller 15 kap. eller 20 kap. 1 eller 2 § brottsbalken, skattebrottslagen (1971:69), narkotikastrafflagen (1968:64), lagen (1991:1969) om förbud mot vissa dopningsmedel eller lagen (2014:307) om straff för penningtvättsbrott, om brotten lett till någon annan påföljd än böter, eller brott mot lagen (1951:649) om straff för vissa trafikbrott, vägtrafikskattelagen (2006:227), fordonsförordningen (2009:211) eller lagen (2019:370) om fordons registrering och användning eller motsvarande äldre lag ska lämnas ut, om det begärs av Styrelsen för ackreditering och teknisk kontroll för utredning i ärenden om ackreditering av besiktningsorgan enligt fordonslagen (2002:574), i fråga om sådana personer som avses i 4 kap. 2 e § den lagen.
+
+Om påföljden avser något annat brott än de som anges i första stycket ska också uppgifter om det brottet lämnas ut.
+
+*Förordning (2019:389)*.
+
+#### 16 b §
+
+Uppgifter ur belastningsregistret om brott mot 3, 4, 6, 8-11, 13-17 eller 20 kap. brottsbalken, 1 § andra stycket eller 4 a § lagen (1951:649) om straff för vissa trafikbrott, narkotikastrafflagen (1968:64), skattebrottslagen (1971:69), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1992:860) om kontroll av narkotika, 11 kap. 4 § alkohollagen (2010:1622), lagen (1999:42) om förbud mot vissa hälsofarliga varor, 5 eller 6 § lagen (2000:1225) om straff för smuggling, bidragsbrottslagen (2007:612), lagen (2014:307) om straff för penningtvättsbrott, 19 kap. 1, 2 eller 3 § spellagen (2018:1138) eller terroristbrottslagen (2022:666) eller motsvarande äldre lag ska, om brotten lett till någon annan påföljd än böter, lämnas ut om det begärs av
+
+1. Inspektionen för vård och omsorg i ärenden om tillstånd enligt
+
+a) socialtjänstlagen (2025:400), i fråga om den som inspektionen överväger att ge tillstånd, föreståndare för verksamheten och sådana personer som avses i 26 kap. 4 § första stycket 1-6 den lagen,
+
+b) lagen (1993:387) om stöd och service till vissa funktionshindrade, i fråga om den som inspektionen överväger att ge tillstånd, sådana personer som avses i 23 § andra stycket 1-4 den lagen samt föreståndare och verk- samhetsansvarig som avses i 7 och 8 §§ förordningen (1993:1090) om stöd och service till vissa funktionshindrade, eller
+
+c) patientsäkerhetslagen (2010:659), i fråga om den som inspektionen överväger att ge tillstånd och sådana personer som avses i 2 kap. 6 § första och andra styckena den lagen, eller
+
+2. Statens skolinspektion eller en kommunal myndighet i ärenden om godkännande som enskild huvudman enligt skollagen (2010:800), i fråga om den som myndigheten överväger att godkänna som huvudman och sådana personer som avses i 2 kap. 5 a § och 25 kap. 10 a § den lagen.
+
+Om påföljden avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut.
+
+*Förordning (2025:1303)*.
+
+#### 16 c §
+
+Uppgifter ur belastningsregistret om brott mot 3 kap., 4 kap. 1-2 eller 4-5 §§, 6 kap., 8 kap. 5 eller 6 §, 10 kap. 5 a eller 5 c §, 13-15 kap., 16 kap. 10 a §, 17 kap. 1 eller 2 § eller 20 kap. 1 eller 2 § brottsbalken, 4 eller 4 a § lagen (1951:649) om straff för vissa trafikbrott, narkotikastrafflagen (1968:64), abortlagen (1974:595), lagen (1982:316) om förbud mot könsstympning av kvinnor och oskuldsingrepp på kvinnor, lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1992:860) om kontroll av narkotika, lagen (1999:42) om förbud mot vissa hälsofarliga varor, 6 § lagen (2000:1225) om straff för smuggling, 10 kap. 3, 4 eller 6 § patientsäkerhetslagen (2010:659), 1, 2, 4-11 a eller 13 § lagen (2014:406) om straff för vissa internationella brott eller terroristbrottslagen (2022:666) eller motsvarande äldre lag ska, om brotten lett till någon annan påföljd än böter, lämnas ut om det begärs av
+
+1. Socialstyrelsen i ärenden om legitimation enligt 4 kap. 1 eller 2 § patientsäkerhetslagen eller särskilt förordnande enligt 4 kap. 4 § samma lag, i fråga om den som styrelsen överväger att meddela legitimation eller särskilt förordna att utöva yrke,
+
+2. Inspektionen för vård och omsorg i ärenden om prövotid och återkallelse av legitimation enligt 8 kap. 1, 3 eller 4 § patientsäkerhetslagen, i fråga om den som inspektionen enligt 7 kap. 30 § patientsäkerhetslagen överväger att anmäla till Hälso- och sjukvårdens ansvarsnämnd, eller
+
+3. en region, i fråga om en icke legitimerad yrkesutövare som regionen överväger att anställa för allmäntjänstgöring eller med ett vikariatsförordnande enligt föreskrifter som meddelats med stöd av 3 kap. 12 § patientsäkerhetsförordningen (2010:1369).
+
+Om påföljden även avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut. *Förordning (2026:1424)*.
+
+#### 16 d §
+
+Uppgifter ur belastningsregistret ska, i den utsträckning som anges i andra stycket, lämnas ut om det begärs av Transportstyrelsen för förmedling till en utländsk myndighet i enlighet med artikel 16.2 i Europaparlamentets och rådets förordning (EG) nr 1071/2009 av den 21 oktober 2009 om gemensamma regler beträffande de villkor som ska uppfyllas av personer som bedriver yrkesmässig trafik och om upphävande av rådets direktiv 96/26/EG.
+
+De uppgifter som ska lämnas ut till Transportstyrelsen efter en begäran enligt första stycket är uppgifter i fråga om den som begäran gäller om brott mot
+
+1. 3 § lagen (1951:649) om straff för vissa trafikbrott,
+
+2. 9 kap. 2 eller 3 § körkortslagen (1998:488),
+
+3. 4, 6 eller 6 a § förordningen (1998:786) om internationella vägtransporter inom Europeiska ekonomiska samarbetsområdet (EES),
+
+4. 14 kap. 3 § 1 c, 4 § eller 11 § trafikförordningen (1998:1276),
+
+5. 45 h § lagen (1999:678) om utstationering av arbetstagare,
+
+6. 9 kap. 1-6 §§ förordningen (2004:865) om kör- och vilotider samt färdskrivare, m.m.,
+
+7. 25-26 a §§ lagen (2005:395) om arbetstid vid visst vägtransportarbete,
+
+8. 16 § lagen (2006:263) om transport av farligt gods,
+
+9. 11 kap. 1 eller 2 § lagen (2007:1157) om yrkesförarkompetens,
+
+10. 8 kap. 8 eller 9 § fordonsförordningen (2009:211),
+
+11. 5 kap. 1 § yrkestrafiklagen (2012:210),
+
+12. 10 kap. 1 eller 3-5 §§ djurskyddslagen (2018:1192), eller
+
+13. 11 eller 12 § lagen (2026:1274) om åtgärder mot manipulation och missbruk av färdskrivare.
+
+*Förordning (2026:1277)*.
+
+#### 16 e §
+
+Uppgifter ur belastningsregistret ska, i den utsträckning som anges i denna paragraf, lämnas ut om det begärs av Myndigheten för digital förvaltning. Uppgifterna ska endast lämnas ut i ärenden om godkännande av en ansökan om anslutning till ett auktorisationssystem enligt lagen (2023:704) om auktorisationssystem i fråga om tjänster för elektronisk identifiering och digital post, i fråga om den som myndigheten överväger att godkänna och, om ärendet gäller en juridisk person, styrelseledamot, verkställande direktör eller firmatecknare för denna.
+
+Uppgifter ska, om brotten lett till någon annan påföljd än böter, lämnas ut om brott mot
+
+1. 4 kap. 8-9 c §§, 9-11, 14 eller 15 kap. brottsbalken,
+
+2. skattebrottslagen (1971:69),
+
+3. lagen (2000:1225) om straff för smuggling,
+
+4. 47 § lagen (2014:836) om näringsförbud, eller
+
+5. lagen (2014:307) om straff för penningtvättsbrott.
+
+Om påföljden avser något annat brott än de som anges i andra stycket, ska också uppgifter om det brottet lämnas ut. *Förordning (2023:710)*.
+
+#### 16 f §
+
+Uppgifter ur belastningsregistret ska, i den utsträckning som anges i denna paragraf, lämnas ut om det begärs av Naturvårdsverket. Uppgifterna ska lämnas ut om den som har, eller ansöker om, status som godkänd CBAM-deklarant i enlighet med Europaparlamentets och rådets förordning (EU) 2023/956 av den 10 maj 2023 om inrättande av en mekanism för koldioxidjustering vid gränsen. Om det gäller en juridisk person ska uppgifter lämnas ut om styrelseledamot, verkställande direktör, firmatecknare eller verklig huvudman för den juridiska personen.
+
+Uppgifter ska, om brotten lett till någon annan påföljd än penningböter, lämnas ut om brott mot
+
+1. 9-11 eller 14 kap. brottsbalken,
+
+2. skattebrottslagen (1971:69),
+
+3. lagen (2000:1225) om straff för smuggling,
+
+4. lagen (2013:385) om ingripande mot marknadsmissbruk vid handel med grossistenergiprodukter,
+
+5. lagen (2014:307) om straff för penningtvättsbrott,
+
+6. lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden, eller
+
+7. lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor.
+
+Om påföljden även avser något annat brott än de som anges i andra stycket, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut. *Förordning (2024:1186)*.
+
+#### 16 g §
+
+Uppgifter ur belastningsregistret ska, i den utsträckning som anges i denna paragraf, lämnas ut om det begärs av Statens energimyndighet. Uppgifterna ska lämnas ut om den som myndigheten avser att registrera eller har registrerat som kontoinnehavare eller ombud i det unionsregister som avses i 19 § lagen (2020:1173) om vissa utsläpp av växthusgaser och, om ärendet gäller en juridisk person, firmatecknare för denna.
+
+Uppgifter ska, om brotten lett till någon annan påföljd än penningböter, lämnas ut om brott mot
+
+1. 8-11, 14 eller 15 kap. brottsbalken,
+
+2. skattebrottslagen (1971:69),
+
+3. lagen (2014:307) om straff för penningtvättsbrott,
+
+4. lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden,
+
+5. lagen (2020:1173) om vissa utsläpp av växthusgaser, eller
+
+6. terroristbrottslagen (2022:666) eller motsvarande äldre lag.
+
+Om påföljden även avser något annat brott än de som anges i andra stycket, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut. *Förordning (2022:927)*.
+
+#### 16 h §
+
+Uppgifter ur belastningsregistret ska, i den utsträckning som anges i andra stycket, lämnas ut om det begärs av Migrationsverket i ärenden
+
+1. om uppehållstillstånd enligt 5 kap. 3 § 1, 3 a § tredje stycket 1 eller 3 f § första eller andra stycket utlänningslagen (2005:716), i fråga om någon annan än den som ärendet gäller,
+
+2. om uppehållstillstånd enligt 4 kap. 4 a, 4 b eller 5 c § eller 4 a kap. 6 § utlänningsförordningen (2006:97), i fråga om den som ärendet gäller eller någon annan när uppgiften behövs för utredningen, och
+
+3. om arbetstillstånd enligt 6 kap. 2 § första stycket utlänningslagen, i fråga om arbetsgivare eller, om arbetsgivaren är en juridisk person, styrelseledamot, verkställande direktör, firmatecknare eller verklig huvudman för den juridiska personen.
+
+Uppgifter enligt första stycket 1 och 2 ska begränsas till uppgifter om påföljder för brott enligt 3, 4 eller 6 kap. eller 16 kap. 10 a § brottsbalken eller uppgifter om kontaktförbud eller förbud enligt 3 kap. 5 § lagen (2015:642) om europeisk skyddsorder. Uppgifter enligt första stycket 3 ska begränsas till uppgifter om påföljder för brott enligt 20 kap. utlänningslagen eller 4 kap. 1 a eller 1 b § brottsbalken. *Förordning (2026:1744)*.
+
+#### 16 i §
+
+Uppgifter ur belastningsregistret ska lämnas ut om det begärs av Bolagsverket
+
+- i ärenden om kontroll enligt 5 § förordningen (2026:890) om samordnad registerkontroll i samband med upphandling, och
+
+- för den personkrets som anges i 7 § förordningen om samordnad registerkontroll i samband med upphandling.
+
+Uppgifter ska lämnas ut om brott mot
+
+1. 7 kap. 53 § andra stycket lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk,
+
+2. 1 § första stycket lagen (1962:120) om straff i vissa fall för oriktigt ursprungsintyg m.m.,
+
+3. 4 kap. 1-1 b §§, 2 § första stycket, 4 § andra stycket, 5 § andra stycket eller 9 c § andra stycket, 6 kap. 8 § tredje stycket eller 12 §, 8 kap. 4-6 §§, 7 § andra stycket eller 8 § andra stycket, 9 kap. 1-3 a §§, 3 c § tredje stycket, 4 § andra stycket, 5 § tredje stycket, 6 § tredje stycket eller 8 §, 10 kap. 1-3 §§ eller 5-5 e §§, 11 kap. 5 § andra stycket, 13 kap. 3 § första eller tredje stycket, 14 kap. 1-3 §§, 6 § första eller tredje stycket, 7 § tredje stycket eller 8 § tredje stycket, 15 kap. 10 § första eller andra stycket eller 11 §, 16 kap. 5 a § eller 17 kap. 1 § andra stycket eller 2 § tredje stycket brottsbalken,
+
+4. 1-3 §§ eller 3 b § tredje stycket narkotikastrafflagen (1968:64),
+
+5. 35 § andra stycket mönsterskyddslagen (1970:485),
+
+6. 12 kap. 65 § andra stycket, 65 a § fjärde stycket eller 65 b § andra stycket jordabalken,
+
+7. 2-4 §§, 7 eller 10 § skattebrottslagen (1971:69),
+
+8. 44 § eller 46 § andra stycket jaktlagen (1987:259),
+
+9. 3 a § lagen (1991:1969) om förbud mot vissa dopningsmedel,
+
+10. 9 kap. 1 § andra stycket växtförädlarrättslagen (1997:306),
+
+11. 5 kap. 1-3 §§ lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor,
+
+12. 29 kap. 1 § andra stycket, 2 b § andra stycket eller 4 a § tredje stycket miljöbalken,
+
+13. 5 §, 6 §, 6 a § första, tredje eller fjärde stycket, 6 b § första, tredje eller fjärde stycket, 8-11 §§ eller 13 § lagen (2000:1225) om straff för smuggling,
+
+14. 20 kap. 8 § andra stycket eller 9 § andra stycket utlänningslagen (2005:716),
+
+15. 3 § bidragsbrottslagen (2007:612),
+
+16. 29 eller 29 a § lagen (2010:1011) om brandfarliga och explosiva varor,
+
+17. 11 kap. 4 eller 7 § alkohollagen (2010:1622),
+
+18. 8 kap. 1 § andra stycket varumärkeslagen (2010:1877),
+
+19. 3-5 §§, 6 § första stycket eller 7 § andra stycket lagen (2014:307) om straff för penningtvättsbrott,
+
+20. 12 § andra stycket lagen (2014:799) om sprängämnesprekursorer,
+
+21. 5 kap. 2 § tullagen (2016:253),
+
+22. 2 kap. 1 § tredje stycket lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden,
+
+23. 19 kap. 3 eller 5 § spellagen (2018:1138),
+
+24. 5 kap. 1 § andra stycket lagen (2018:1653) om företagsnamn,
+
+25. 10 kap. 1 § andra stycket lagen (2018:2088) om tobak och liknande produkter,
+
+26. 4 eller 6-10 §§ terroristbrottslagen (2022:666),
+
+27. 15 kap. 1 § andra stycket patentlagen (2024:945),
+
+28. 6, 8 eller 9 § subventionsbrottslagen (2025:1267), eller
+
+29. 18 kap. 2 § vapenlagen (2026:408).
+
+Om påföljden avser något annat brott än de som anges i andra stycket, ska också uppgifter om det brottet lämnas ut.
+
+*Förordning (2026:892)*.
+
+#### 17 §
+
+Polismyndigheten ska underrätta Transportstyrelsen om uppgifter i belastningsregistret enligt bestämmelserna i 6 kap. 3, 4 och 6 §§ vägtrafikdataförordningen (2019:382) och 9 § förordningen (2021:628) om förarbevis för vattenskoter.
+
+*Förordning (2021:629)*.
+
+### Uppgifter för prövning av ett meddelat tillstånd
+
+#### 18 §
+
+En myndighet som enligt 10, 11, 12, 13, 14, 16 b eller 16 h § har rätt att få uppgifter ur belastningsregistret vid tillståndsgivning, godkännande eller meddelande av legitimation, har rätt att få motsvarande uppgifter för prövning av ett meddelat tillstånd, godkännande eller certifikat, en beslutad auktorisation eller en meddelad legitimation eller licens. *Förordning (2026:607)*.
+
+### Direktåtkomst
+
+#### 19 §
+
+Säkerhetspolisen, Skatteverket, Tullverket, Kustbevakningen, åklagarmyndigheter, Kriminalvården, Migrationsverket, Domstolsverket, allmänna domstolar och allmänna förvaltningsdomstolar får ha direktåtkomst till uppgifter i belastningsregistret. Direktåtkomsten ska begränsas till att endast gälla sådana uppgifter som myndigheterna har rätt att få ut enligt lagen (1998:620) om belastningsregister eller denna förordning. *Förordning (2025:339)*.
+
+#### 20 §
+
+Transportstyrelsen får ha direktåtkomst till uppgifter ur belastnings-registret i ärenden som rör körkortstillstånd, körkort, traktorkort, taxiförarlegitimation, tillstånd till yrkesmässig trafik eller taxitrafik, biluthyrning och transporttillstånd eller tillstånd för att få driva en redovisningscentral eller en beställningscentral för taxitrafik. Transportstyrelsen får vidare ha direktåtkomst till uppgifter ur belastningsregistret för det ändamål som anges i 16 d §.
+
+Socialstyrelsen får ha direktåtkomst till uppgifter ur belastningsregistret i ärenden enligt 16 c § första stycket 1. Inspektionen för vård och omsorg får ha direktåtkomst till uppgifter ur belastningsregistret i ärenden enligt 16 c § första stycket 2.
+
+En länsstyrelse får ha direktåtkomst till uppgifter ur belastningsregistret i ärenden om godkännande och tillsyn av personal vid bevakningsföretag, i ärenden enligt förordningen (2011:155) om auktorisation av delgivningsföretag, i ärenden om godkännande av skyddsvakt enligt skyddsförordningen (2010:523) samt i ärenden enligt lagen (2001:82) om svenskt medborgarskap.
+
+Direktåtkomsten ska begränsas till att endast gälla sådana uppgifter som myndigheterna har rätt att få ut enligt denna förordning. *Förordning (2025:339)*.
+
+### Enskildas rätt att få uppgifter
+
+#### 21 §
+
+Uppgift om brott som föranlett någon annan påföljd än penningböter, skall lämnas ut om det begärs av
+
+1. ett sådant larminstallationsföretag som avses i lagen (1983:1097) med vissa bestämmelser om larmanläggningar m.m., i fråga om den som företaget avser att anställa eller anlita som uppdragstagare för larminstallationer, samt
+
+2. en enskild sammanslutning eller en person som beslutar om anställning av personal inom psykiatrisk sjukvård, vård av utvecklingsstörda eller vård av barn och ungdom, i fråga om den som den enskilde avser att anställa eller anlita som uppdragstagare.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister skall dock inte lämnas ut.
+
+*Förordning (2003:1183)*.
+
+#### 21 a §
+
+Uppgifter ur belastningsregistret om brott mot 8-11, 14 eller 15 kap. brottsbalken eller mot skattebrottslagen (1971:69) eller lagen (2014:307) om straff för penningtvättsbrott ska, om brotten lett till någon annan påföljd än penningböter, lämnas ut om det begärs av Sveriges advokatsamfunds styrelse eller disciplinnämnd, i fråga om den som samfundet lämplighetsprövar enligt lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism.
+
+Om den påföljd som dömts ut även avser något annat brott än de som anges i första stycket, ska också uppgifter om det brottet lämnas ut.
+
+Sådana uppgifter som avses i 3 § 3-5 lagen (1998:620) om belastningsregister får inte lämnas ut till Sveriges advokatsamfund när samfundet har rätt att få uppgifter ur belastningsregistret enligt denna paragraf.
+
+*Förordning (2019:609)*.
+
+#### 22 §
+
+Ett registerutdrag enligt 9 § andra stycket 1 lagen (1998:620) om belastningsregister ska endast innehålla uppgifter om domar, beslut eller strafförelägganden där
+
+1. någon annan påföljd än böter har dömts ut,
+
+2. dagsböter har dömts ut för brott mot 3 kap. 5 §, 4 kap. 4 och 5 §§, 8, 9 och 14 kap. samt 17 kap. 1, 2 och 4 §§ brottsbalken eller lagen (2014:307) om straff för penningtvättsbrott, eller
+
+3. böter har dömts ut för brott som avses i 6 kap. 8 och 10 §§ samt 16 kap. 11 § brottsbalken, narkotikastrafflagen (1968:64), lagen (1991:1969) om förbud mot vissa dopningsmedel, vapenlagen (2026:408), vapenförordningen (2026:409) och äldre vapenlagstiftning.
+
+Om påföljden även avser något annat brott än de som anges i första stycket 2 och 3, ska också uppgifter om det brottet lämnas ut.
+
+Ett registerutdrag enligt 9 § andra stycket 2 lagen om belastningsregister som den enskilde begär med hänvisning till bestämmelser i 2 eller 25 kap. skollagen (2010:800) ska endast innehålla uppgifter om domar, beslut eller strafförelägganden där påföljd har dömts ut eller åtalsunderlåtelse meddelats för brott mot 3 kap. 1 och 2 §§, 5 §, om inte brottet är ringa, och 6 §, 4 kap. 1-5, 6 a och 6 c §§, 6 kap., 8 kap. 5 och 6 §§, 9 kap. 4 §, 13 kap. 1-3 och 5 c §§ och 16 kap. 5 a, 8, 9 och 10 a §§ brottsbalken, 1 och 3 §§ narkotikastrafflagen, lagen (1982:316) om förbud mot könsstympning av kvinnor och oskuldsingrepp på kvinnor, 3 § första stycket och 3 a § lagen om förbud mot vissa dopningsmedel, 4 § första och andra styckena lagen (1999:42) om förbud mot vissa hälsofarliga varor, 6 § första, andra, fjärde och femte styckena, 6 a och 6 b §§ lagen (2000:1225) om straff för smuggling, 29 a § lagen (2010:1011) om brandfarliga och explosiva varor, 11 kap. 4 § alkohollagen (2010:1622), lagen om straff för penningtvättsbrott, lagen (2014:406) om straff för vissa internationella brott, terroristbrottslagen (2022:666) eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen eller motsvarande äldre lag. Om påföljden eller åtalsunderlåtelsen även avser något annat brott, ska också uppgifter om det brottet lämnas ut.
+
+Ett registerutdrag enligt 9 § andra stycket 4 lagen om belastningsregister som den enskilde begär med hänvisning till bestämmelser i lagen (2007:171) om registerkontroll av personal vid vissa boenden som tar emot barn ska endast innehålla uppgifter om domar, beslut eller strafförelägganden där påföljd har dömts ut eller åtalsunderlåtelse meddelats för brott mot 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-2 och 4-5 §§, 6 kap., 8 kap. 5 och 6 §§, 16 kap. 8, 9 och 10 a §§ brottsbalken, narkotikastrafflagen, lagen om förbud mot vissa dopningsmedel, lagen om förbud mot vissa hälsofarliga varor, 6 § lagen om straff för smuggling och 11 kap. 4 § alkohollagen samt medverkan och försök till sådana brott. I fråga om brott som avses i 6 kap. brottsbalken, narkotikastrafflagen och lagen om förbud mot vissa dopningsmedel ska utdraget också innehålla uppgifter om domar, beslut och strafförelägganden där påföljd har dömts ut eller åtalsunderlåtelse meddelats för förberedelse, stämpling och underlåtenhet att avslöja brott. Om påföljden eller åtalsunderlåtelsen även avser något annat brott, ska också uppgifter om det brottet lämnas ut.
+
+Ett registerutdrag enligt 9 § andra stycket 5 lagen om belastningsregister som den enskilde begär med hänvisning till bestämmelser i lagen (2010:479) om registerkontroll av personal som utför vissa insatser åt barn med funktionshinder ska endast innehålla uppgifter om domar, beslut eller strafförelägganden där påföljd har dömts ut eller åtalsunderlåtelse meddelats för brott mot 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-5 och 6 a §§, 6 kap., 8 kap. 5 och 6 §§, 9 kap. 4 §, 13 kap. 1-3 och 5 c §§ och 16 kap. 5 a, 8 och 10 a §§ brottsbalken, narkotikastrafflagen, lagen om förbud mot vissa dopningsmedel, lagen om förbud mot vissa hälsofarliga varor, 6-6 b §§ lagen om straff för smuggling, 11 kap. 4 § alkohollagen, 29 a § lagen om brandfarliga och explosiva varor, terroristbrottslagen eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen eller motsvarande äldre lag. Om påföljden eller åtalsunderlåtelsen även avser något annat brott, ska också uppgifter om det brottet lämnas ut.
+
+Ett registerutdrag enligt 9 § andra stycket 6 lagen om belastningsregister som den enskilde begär med hänvisning till bestämmelser i lagen (2013:852) om registerkontroll av personer som ska arbeta med barn ska endast innehålla uppgifter om domar, beslut eller strafförelägganden där påföljd har dömts ut eller åtalsunderlåtelse meddelats för brott mot 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-5 och 6 a §§, 6 kap., 8 kap. 5 och 6 §§, 9 kap. 4 §, 13 kap. 1-3 och 5 c §§ och 16 kap. 5 a, 8 och 10 a §§ brottsbalken, narkotikastrafflagen, lagen om förbud mot vissa dopningsmedel, lagen om förbud mot vissa hälsofarliga varor, 6-6 b §§ lagen om straff för smuggling, 11 kap. 4 § alkohollagen, 29 a § lagen om brandfarliga och explosiva varor, terroristbrottslagen eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen eller motsvarande äldre lag. Om påföljden eller åtalsunderlåtelsen även avser något annat brott, ska också uppgifter om det brottet lämnas ut.
+
+Ett registerutdrag enligt 9 § andra stycket 7 lagen om belastningsregister som den enskilde begär med hänvisning till bestämmelser i lagen (2026:43) om registerkontroll vid arbete i hemmet åt äldre personer eller vuxna personer med funktionsnedsättning ska endast innehålla uppgifter om domar, beslut eller strafförelägganden där påföljd har dömts ut eller åtalsunderlåtelse meddelats för brott mot 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-2, 4-4 b och 5 §§, 6 kap., 8 kap. 1, 2 och 4-6 §§, 9 kap. 1, 3 och 4 §§ och 16 kap. 8 och 10 a §§ brottsbalken, narkotikastrafflagen, lagen om förbud mot vissa hälsofarliga varor, lagen om straff för penningtvättsbrott, terroristbrottslagen eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen eller motsvarande äldre lag. Om påföljden eller åtalsunderlåtelsen även avser något annat brott, ska också uppgifter om det brottet lämnas ut.
+
+Ett registerutdrag enligt 9 § andra stycket 8 lagen om belastningsregister som den enskilde begär med hänvisning till bestämmelser i lagen (2026:44) om registerkontroll vid anställning till ledande befattningar i kommuner ska endast innehålla uppgifter om brott som lett till någon annan påföljd än penningböter. Sådana uppgifter som avses i 3 § 3-5 lagen om belastningsregister får inte lämnas ut. *Förordning (2026:763)*.
+
+#### 22 a §
+
+Ett registerutdrag enligt 9 § andra stycket 3 lagen (1998:620) om belastningsregister som den enskilde begär med hänvisning till bestämmelser i lagen (2018:1219) om försäkringsdistribution ska endast innehålla upplysning om huruvida den enskilde förekommer eller inte förekommer i belastningsregistret för sådan brottslighet som anges i 3 kap. 1 § förordningen (2018:1231) om försäkringsdistribution. *Förordning (2018:1232)*.
+
+#### 22 b §
+
+En enskild som är eller har varit medborgare i en annan medlemsstat inom Europeiska unionen har rätt att på begäran få ta del av uppgifter som finns om honom eller henne i kriminalregistret i den staten. Detsamma gäller den som har varit stadigvarande bosatt i en annan medlemsstat. En begäran om att få ut uppgifter görs hos Polismyndigheten.
+
+*Förordning (2014:1158)*.
+
+#### 22 c §
+
+När en enskild begär uppgifter om sig själv i belastningsregistret med stöd av 9 § lagen (1998:620) om belastningsregister ska Polismyndigheten även inhämta uppgifter som finns i kriminalregistret i en annan medlemsstat i Europeiska unionen, om den enskilde är medborgare där eller om det framkommer att den staten har uppgifter om den enskilde i sitt kriminalregister. *Förordning (2022:773)*.
+
+### Avgift
+
+#### 23 §
+
+Avgift skall tas ut
+
+1. för att lämna ut uppgifter till enskilda enligt 21 § samt
+
+2. för att lämna ut ett begränsat registerutdrag enligt 22 § första stycket.
+
+För avgiftens storlek m.m. gäller bestämmelserna i 20-24 §§ avgiftsförordningen (1992:191), varvid avgiftsklass A tillämpas. *Förordning (2000:1194)*.
+
+### Utländska myndigheters rätt att få uppgifter
+
+#### 24 §
+
+Uppgifter får lämnas ut med stöd av 11 § lagen (1998:620) om belastningsregister när de behövs i sådan verksamhet som avses i 2 § första stycket 1-3 i nämnda lag. Uppgifter får lämnas ut i andra fall endast när det finns särskilda skäl.
+
+*Förordning (2000:720)*.
+
+#### 24 a §
+
+Uppgifter ur belastningsregistret får, i fråga om den som begäran gäller, lämnas på begäran av en utländsk myndighet i enlighet med artikel 27.3 i Europaparlamentets och rådets direktiv 2004/38/EG av den 29 april 2004 om unionsmedborgares och deras familjemedlemmars rätt att fritt röra sig och uppehålla sig inom medlemsstaternas territorier och om ändring av förordning (EEG) nr 1612/68 och om upphävande av direktiven 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG och 93/96/EEG.
+
+Uppgifter ur belastningsregistret ska, i fråga om den som begäran gäller, lämnas på begäran av Europeiska åklagarmyndigheten i enlighet med artikel 43 i rådets förordning (EU) 2017/1939 av den 12 oktober 2017 om genomförande av fördjupat samarbete om inrättande av Europeiska åklagarmyndigheten. *Förordning (2024:634)*.
+
+#### 24 b §
+
+Med stöd av 11 § lagen (1998:620) om belastningsregister får sådana uppgifter ur belastningsregistret som anges i 16 d § lämnas ut till en utländsk myndighet i enlighet med artikel 16.2 i Europaparlamentets och rådets förordning (EG) nr 1071/2009 av den 21 oktober 2009 om gemensamma regler beträffande de villkor som ska uppfyllas av personer som bedriver yrkesmässig trafik och om upphävande av rådets direktiv 96/26/EG. *Förordning (2012:253)*.
+
+#### 24 c §
+
+Uppgifter om någon som är medborgare i en annan medlemsstat inom Europeiska unionen och som förs in i belastningsregistret ska, när domen har vunnit laga kraft, snarast överföras till den eller de stater där den dömde är medborgare, i enlighet med rådets rambeslut 2009/315/RIF av den 26 februari 2009 om organisationen av medlemsstaternas utbyte av uppgifter ur kriminalregistret och uppgifternas innehåll.
+
+Om uppgifter som avses i första stycket ändras eller gallras, ska den eller de stater som tagit emot uppgifterna underrättas om detta. *Förordning (2012:768)*.
+
+#### 24 d §
+
+Om en behörig centralmyndighet i en annan medlemsstat inom Europeiska unionen begär uppgifter ur belastningsregistret som ska användas i ett brottmålsförfarande, ska uppgifterna lämnas ut i enlighet med rådets rambeslut 2009/315/RIF av den 26 februari 2009 om organisationen av medlemsstaternas utbyte av uppgifter ur kriminalregistret och uppgifternas innehåll.
+
+En uppgift som har förts in i registret med stöd av 4 a § lagen (1998:620) om belastningsregister får dock inte lämnas ut om Polismyndigheten har underrättats av en behörig myndighet i den stat som har överfört uppgiften om att uppgiften har gallrats i den staten. *Förordning (2022:773)*.
+
+#### 24 e §
+
+När uppgifter överförs med stöd av 24 c § ska utlämnandet förenas med villkoret att uppgifterna inte får vidarebefordras till en annan stat för något annat ändamål än att användas i ett brottmålsförfarande. *Förordning (2012:768)*.
+
+#### 24 f §
+
+När uppgifter om en dom som har förts in i belastningsregistret med stöd av 4 a § lagen (1998:620) om belastningsregister lämnas ut på begäran av en annan stat, ska den mottagande staten underrättas om eventuella villkor som begränsar möjligheten att använda uppgifterna och som har angetts av den stat där domen meddelades. Om uppgifterna ska användas i ett brottmålsförfarande, ska utlämnandet förenas med villkoret att uppgifterna endast får vidareanvändas inom ramen för ett sådant förfarande. *Förordning (2012:768)*.
+
+#### 24 g §
+
+Utöver i fall som avses i 6 § tredje stycket, 8 § och 9 § första stycket lagen (1998:620) om belastningsregister, får följande uppgifter lämnas ut endast med stöd av 24 d § denna förordning:
+
+1. en gärning som inte motsvarar brott enligt svensk lag eller en gärning som någon har begått innan han eller hon har fyllt femton år och som har förts in i belastningsregistret med stöd av 4 a § lagen om belastningsregister, och
+
+2. namn på den registrerades föräldrar som har förts in i belastningsregistret med stöd av 2 § första stycket 14 denna förordning. *Förordning (2012:768)*.
+
+#### 25 §
+
+Om den som är medborgare i eller har hemvist i Danmark, Finland, Island eller Norge genom dom, beslut eller strafföreläggande har ålagts någon annan påföljd än böter, ska Polismyndigheten underrätta registreringsmyndigheten i den staten. *Förordning (2014:1158)*.
+
+#### 25 a §
+
+Ett svar på en begäran om utdrag ur belastningsregistret enligt 24 a § ska överföras snarast, dock senast inom två månader från den dag begäran kom in. *Förordning (2012:252)*.
+
+### Vilka uppgifter som skall lämnas
+
+### Domstolar
+
+#### 26 §
+
+En domstol ska, i fråga om den som på grund av en dom eller ett beslut ska registreras enligt 3 § 1-3 och 6 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § 1-11 och 13, 3 § 4, 4 §, 6 a § 2, 3, 6 och 8 och 9 § 3 denna förordning. En domstol ska också lämna sådana uppgifter till Polismyndigheten som krävs för gallring av belastningsregistret enligt 16 § 1-4 lagen om belastningsregister. *Förordning (2026:1567)*.
+
+#### 27 §
+
+En domstol ska, i fråga om den som på grund av en dom eller ett beslut ska registreras enligt 3 § 5 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till åklagarmyndigheten och Europeiska åklagarmyndigheten som anges i 8 § denna förordning. En domstol ska också lämna sådana uppgifter till åklagarmyndigheten och Europeiska åklagarmyndigheten som krävs för gallring enligt 16 § 6 lagen om belastningsregister. *Förordning (2024:634)*.
+
+### Departement och myndigheter
+
+#### 28 §
+
+Regeringskansliet (Justitiedepartementet) ska, i fråga om den som på grund av en dom eller ett beslut ska registreras enligt 3 § 1 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som avses i 2 § 12 och 7 § 2 och 3 denna förordning. *Förordning (2014:1158)*.
+
+#### 29 §
+
+Regeringskansliet (Justitiedepartementet) ska, i fråga om den som ska registreras enligt 4 § 2 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § 2 och 3 denna förordning.
+
+*Förordning (2014:1158)*.
+
+#### 30 §
+
+Kriminalvården ska, i fråga om den som på grund av en dom eller ett beslut ska registreras enligt 3 § 1 och 2 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 3 §, 4 § 2 och 3, 4 a §, 6 a § 1, 4, 5 och 7 och 9 § denna förordning. *Förordning (2026:272)*.
+
+#### 31 §
+
+En åklagarmyndighet ska, i fråga om den som ska registreras på grund av ett strafföreläggande enligt 3 § 1 eller ett beslut enligt 3 § 4 eller 5 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § 2 och 3 samt 8 § denna förordning. En åklagarmyndighet ska också lämna sådana uppgifter till Polismyndigheten som krävs för gallring av registret enligt 16 § 5 och 6 lagen om belastningsregister.
+
+*Förordning (2014:1158)*.
+
+#### 32 §
+
+Tullverket ska, i fråga om den som på grund av ett föreläggande av ordningsbot eller ett strafföreläggande ska registreras enligt 3 § 1 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § 2 och 3 denna förordning.
+
+Tullverket ska också, i fråga om den som på grund av en åtalsunderlåtelse ska registreras enligt 3 § 4 lagen om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § 2 och 3 denna förordning. Myndigheten ska också lämna sådana uppgifter till Polismyndigheten som krävs för gallring av registret enligt 16 § 5 lagen om belastningsregister. *Förordning (2024:771)*.
+
+#### 33 §
+
+Har upphävts genom *förordning (2014:1158)*.
+
+#### 34 §
+
+Har upphävts genom *förordning (2026:546)*.
+
+#### 35 §
+
+En chefsöverläkare eller en annan läkare som har förordnats att fullgöra viss del av chefsöverläkarens åligganden eller en verksamhetschef ska, i fråga om den som på grund av en dom ska registreras enligt 3 § 1 lagen (1998:620) om belastningsregister, lämna sådana uppgifter till Polismyndigheten som anges i 6 § denna förordning.
+
+*Förordning (2014:1158)*.
+
+### Ansvar för lämnade uppgifter
+
+#### 36 §
+
+Den myndighet som har lämnat uppgifter till Polismyndigheten enligt denna förordning ansvarar för att uppgifterna är riktiga.
+
+Felaktigheter eller ofullständigheter i uppgifter som avses i 26-32, 34 och 35 §§ ska rättas på det sätt som Polismyndigheten bestämmer efter samråd med den berörda myndigheten. *Förordning (2014:1158)*.
+
+#### 37 §
+
+Den som i offentlig anställning tar del av uppgifter ur belastningsregistret och misstänker att registrets innehåll är oriktigt, ska genast anmäla det till Polismyndigheten.
+
+*Förordning (2014:1158)*.
+
+### Rätt att meddela föreskrifter
+
+#### 38 §
+
+Polismyndigheten får, efter samråd med berörda myndigheter, meddela de föreskrifter som behövs för verkställigheten av denna förordning.
+
+*Förordning (2014:1158)*.
+
+#### 39 §
+
+Har upphävts genom *förordning (2022:828)*.
+
+### Skyldighet att hämta in uppgifter ur belastningsregistret
+
+#### 40 §
+
+Uppgifter ur belastningsregistret ska inhämtas innan någon
+
+1. döms till fängelse, villkorlig dom, skyddstillsyn, ungdomsövervakning eller säkerhetsförvaring,
+
+2. överlämnas till rättspsykiatrisk vård eller, om fängelse är föreskrivet för brottet, till vård enligt lagen (1988:870) om vård av missbrukare i vissa fall, eller
+
+3. åläggs förvandlingsstraff. *Förordning (2026:546)*.
+
+Inhämtande av uppgifter med stöd av rådets rambeslut 2009/315/RIF
+
+#### 41 §
+
+En svensk myndighet som har rätt att få uppgifter ur belastningsregistret enligt lagen (1998:620) om belastningsregister eller denna förordning får begära uppgifter ur
+
+1. en annan medlemsstats kriminalregister med stöd av rådets rambeslut 2009/315/RIF av den 26 februari 2009 om organisationen av medlemsstaternas utbyte av uppgifter ur kriminalregistret och uppgifternas innehåll, eller
+
+2. Förenade kungarikets kriminalregister med stöd av avtalet om handel och samarbete mellan Europeiska unionen och Europeiska atomenergigemenskapen, å ena sidan, och Förenade konungariket Storbritannien och Nordirland, å andra sidan.
+
+En sådan begäran ska göras till Polismyndigheten och innehålla uppgift om för vilket ändamål uppgifterna begärs.
+
+Polismyndigheten ska inhämta uppgifterna och vidarebefordra dessa till den myndighet som begärt dem. *Förordning (2022:773)*.
+
+## Övergångsbestämmelser
+
+**2000:683**
+
+Denna förordning träder i kraft den 1 oktober 2000. För uppgift som har antecknats före ikraftträdandet gäller äldre bestämmelser.
+
+**2000:1280**
+
+1. Denna förordning träder i kraft den 1 januari 2001.
+
+2. I fråga om brott mot tullagen (1994:1550) och mot lagen (1960:418) om straff för varusmuggling gäller 14 § i sin äldre lydelse.
+
+**2013:657**
+
+1. Denna förordning träder i kraft den 1 september 2013.
+
+2. Äldre föreskrifter gäller i fråga om ärenden som avser upphävande av allmän domstols beslut om utvisning på grund av brott och som har kommit in till regeringen före ikraftträdandet.
+
+**2014:193**
+
+1. Denna förordning träder i kraft den 1 maj 2014.
+
+2. Vid tillämpning av 2 § 6 ska med beslut som där nämns likställas motsvarande beslut enligt äldre bestämmelser.
+
+**2016:334**
+
+1. Denna förordning träder i kraft den 1 maj 2016.
+
+2. Äldre bestämmelser gäller fortfarande i fråga om brott mot tullagen (2000:1281), som begåtts före ikraftträdandet.
+
+**2018:1479**
+
+1. Denna förordning träder i kraft den 1 januari 2019.
+
+2. Förordningen tillämpas även på ansökningar om licens enligt spellagen (2018:1138) som lämnas in till Lotteriinspektionen efter den 1 augusti 2018 och som avser tid efter den 1 januari 2019. Det som föreskrivs om Spelinspektionen ska då gälla för Lotteriinspektionen.
+
+3. Äldre bestämmelser gäller fortfarande för beslut enligt kasinolagen (1999:355) och lotterilagen (1994:1000) som har meddelats före ikraftträdandet. Det som föreskrivs om Lotteriinspektionen ska då gälla för Spelinspektionen.
+
+**2020:1041**
+
+1. Denna förordning träder i kraft den 1 januari 2021.
+
+2. Äldre bestämmelser gäller fortfarande för aktiebolag och ekonomiska föreningar som omfattas av punkt 2 och 3 i ikraftträdande- och övergångsbestämmelserna till lagen (2020:1026) om upphävande av lagen (2004:299) om inlåningsverksamhet.
+
+**2021:522**
+
+1. Denna förordning träder i kraft den 1 juli 2021.
+
+2. Vid tillämpning av 12 § andra stycket och 12 a § första stycket ska det som föreskrivs om uppgifter om brott mot 4 kap. 18 § fastighetsmäklarlagen (2021:516) gälla även uppgifter om motsvarande brott enligt äldre bestämmelser.
+
+**2023:710**
+
+1. Denna förordning träder i kraft den 1 januari 2024.
+
+2. För ärenden om godkännande av en sökande enligt den upphävda lagen (2013:311) om valfrihetssystem i fråga om tjänster för elektronisk identifiering gäller 16 e § i den äldre lydelsen.
+
+**2025:478**
+
+1. Denna förordning träder i kraft den 1 juli 2025.
+
+2. Äldre bestämmelser gäller dock fortfarande för företag som omfattas av punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2025:596) om upphävande av lagen (2014:275) om viss verksamhet med konsumentkrediter.
+
+*Förordning (2025:693)*.
+
+**2026:546**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller för den som har dömts eller ska dömas till sluten ungdomsvård.

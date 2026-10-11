@@ -1,0 +1,129 @@
+---
+title: "Förordning (1994:524) om frivillig försvarsverksamhet"
+identifier: "SFS 1994:524"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-05-19
+amended_through: "SFS 2025:1096"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-524.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:524"
+retrieved: 2026-10-11
+---
+# Förordning (1994:524) om frivillig försvarsverksamhet
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Med frivillig försvarsverksamhet avses i denna förordning verksamhet som främjar totalförsvaret och som omfattar försvarsupplysning samt rekrytering och utbildning av frivilliga för uppgifter inom totalförsvaret.
+
+En organisation som bedriver frivillig försvarsverksamhet benämns i denna förordning frivillig försvarsorganisation.
+
+De frivilliga försvarsorganisationerna anges i bilaga till förordningen.
+
+#### 2 §
+
+En myndighet med uppgifter inom totalförsvaret får ingå ett skriftligt avtal med en person som tillhör en frivillig försvarsorganisation (en frivillig) om att denne skall tjänstgöra inom totalförsvaret. Personer som har ingått sådana avtal benämns avtalspersonal.
+
+Innan ett avtal enligt första stycket ingås, skall myndigheten kontrollera med den frivilliga försvarsorganisationen att den frivillige är lämplig för tjänstgöringen.
+
+### Myndigheternas uppgifter
+
+#### 3 §
+
+Myndigheter med uppgifter inom totalförsvaret skall, var och en inom sitt verksamhetsområde, efter hörande av berörda frivilliga försvarsorganisa-tioner och de samarbetsorgan som organisationerna kan ha bildat,
+
+1. ange målen för utbildning av frivilliga för uppgifter inom totalförsvaret,
+
+2. ange vilken utbildning som myndigheten anser bör genomföras,
+
+3. lämna organisationerna underlag för upplysningsverksamhet,
+
+4. vid behov teckna avtal enligt 2 §,
+
+5. registrera och krigsplacera sådan personal som ingått avtal,
+
+6. i övrigt stödja den frivilliga försvarsverksamheten.
+
+*Förordning (2002:712)*.
+
+#### 4 §
+
+Avtal om tjänstgöring får ingås med den som fyllt 16 år eller, om tjänstgöringen avser Försvarsmakten, 18 år. Den som skall tjänstgöra i Försvarsmakten skall vara svensk medborgare.
+
+Av avtalet skall framgå tjänstgöringens art, tjänstgöringsskyldighetens omfattning samt tjänstgöringstidens längd.
+
+#### 5 §
+
+Myndigheten för civilt försvar och Försvarsmakten ska, inom sina respektive verksamhetsområden, fördela och betala ut organisationsstöd till de frivilliga försvarsorganisationerna.
+
+Myndigheterna får inom respektive område, i samverkan med andra berörda myndigheter, komma överens med organisationerna om uppdrag inom totalförsvaret. *Förordning (2025:1096)*.
+
+### Övriga bestämmelser
+
+#### 6 §
+
+Om förmåner i samband med tjänstgöring enligt denna förordning finns särskilda bestämmelser.
+
+#### 7 §
+
+Föreskrifter som behövs för tillämpningen av denna förordning får utfärdas, efter hörande av berörda myndigheter och organisationer, av Försvarsmakten i fråga om verksamheten inom det militära försvaret och av Myndigheten för civilt försvar i övrigt. *Förordning (2025:1096)*.
+
+#### 8 §
+
+Myndigheten för civilt försvars och Försvarsmaktens beslut enligt 5 § första stycket får överklagas hos regeringen.
+
+*Förordning (2025:1096)*.
+
+## Övergångsbestämmelser
+
+**1994:524**
+
+1. Denna förordning träder i kraft den 1 juli 1994, då kungörelsen (1970:301) om frivillig försvarsverksamhet skall upphöra att gälla.
+
+2. I fråga om avtal som ingåtts före förordningens ikraftträdande gäller äldre bestämmelser.
+
+### Bilaga
+
+### De frivilliga försvarsorganisationerna utgörs av
+
+Svenska försvarsutbildningsförbundet,
+
+Insatsingenjörernas riksförbund,
+
+Flygvapenfrivilligas riksförbund,
+
+Frivilliga automobilkårernas riksförbund,
+
+Frivilliga flygkåren,
+
+Frivilliga motorcykelkårernas riksförbund,
+
+Frivilliga radioorganisationen,
+
+Försvarets personaltjänstförbund,
+
+Svenska blå stjärnan,
+
+Föreningen svenska röda korset i fråga om medverkan i totalförsvarets sjukvård och i verksamheten för civilbefolkningens skydd i krig,
+
+Riksförbundet Sveriges lottakårer,
+
+Sjövärnskårernas riksförbund,
+
+Svenska brukshundklubben,
+
+Svenska fallskärmsförbundet,
+
+Svenska pistolskytteförbundet,
+
+Svenska skyttesportförbundet,
+
+Sveriges civilförsvarsförbund, och
+
+Sveriges bilkårers riksförbund.
+
+*Förordning (2009:1157)*.

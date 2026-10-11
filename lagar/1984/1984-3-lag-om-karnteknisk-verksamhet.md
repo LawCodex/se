@@ -1,0 +1,694 @@
+---
+title: "Lag (1984:3) om kärnteknisk verksamhet"
+identifier: "SFS 1984:3"
+type: act
+jurisdiction: se
+language: sv
+date: 1984-01-12
+amended_through: "SFS 2026:1365"
+reprinted: "SFS 1992:1536"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-3.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:3"
+retrieved: 2026-10-11
+---
+# Lag (1984:3) om kärnteknisk verksamhet
+
+> Rättelseblad 2001:441 har iakttagits.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna lag innehåller bestämmelser om kärnteknisk verksamhet och kärnämneskontroll och om anmälningsskyldighet för viss annan verksamhet som har anknytning till kärnteknisk verksamhet. *Lag (2026:1365)*.
+
+#### 2 §
+
+I denna lag avses med
+
+1. kärnteknisk verksamhet:
+
+a) uppförande, innehav eller drift av en kärnteknisk anläggning,
+
+b) förvärv, innehav, överlåtelse, hantering, bearbetning, transport av eller annan befattning med kärnämnen eller kärnavfall,
+
+c) införsel till riket av kärnämnen eller kärnavfall,
+
+d) utförsel ur riket av kärnavfall, och
+
+e) utvinning av kärnämnen och bearbetning för koncentration av utvunna kärnämnen,
+
+2. kärnteknisk anläggning:
+
+a) anläggning för utvinning av kärnenergi (kärnkraftsreaktor),
+
+b) annan anläggning i vilken en självunderhållande kärnreaktion kan ske, såsom forskningsreaktor,
+
+c) anläggning för isotopanrikning, framställning, hantering, bearbetning, förvaring som avses bli bestående (slutförvaring) eller annan förvaring (lagring) av kärnämnen, med undantag för en anläggning där det bedrivs sådan verksamhet som avses i 1 e, och
+
+d) anläggning för hantering, bearbetning, lagring eller slutförvaring av kärnavfall,
+
+3. kärnämne:
+
+a) uran, plutonium eller annat ämne som används eller kan användas för utvinning av kärnenergi (kärnbränsle) eller förening i vilken ett sådant ämne ingår,
+
+b) torium eller annat ämne som är ägnat att omvandlas till kärnbränsle eller förening i vilken ett sådant ämne ingår, och
+
+c) använt kärnbränsle som inte har placerats i slutförvar,
+
+4. kärnavfall:
+
+a) använt kärnbränsle som har placerats i slutförvar,
+
+b) radioaktivt ämne som har bildats i en kärnteknisk anläggning och som inte har framställts eller tagits ur anläggningen för att användas i undervisnings- eller forskningssyfte eller för medicinska, jordbrukstekniska eller kommersiella ändamål,
+
+c) material eller annat som har tillhört en kärnteknisk anläggning och blivit radioaktivt förorenat samt inte längre ska användas i en sådan anläggning, och
+
+d) radioaktiva delar av en kärnteknisk anläggning som avvecklas,
+
+5. kärnteknisk utrustning:
+
+a) utrustning eller material som särskilt har konstruerats eller ställts i ordning för bearbetning, användning eller framställning av kärnämnen, och
+
+b) utrustning eller material som kan användas för framställning av kärnladdningar,
+
+6. radiologisk nödsituation: en plötsligt inträffad händelse som
+
+a) inbegriper en strålkälla,
+
+b) har medfört eller kan befaras medföra skada, och
+
+c) kräver omedelbara åtgärder,
+
+7. geologiskt slutförvar: en anläggning för slutförvaring som är placerad i berggrunden och som ska ge isolering från biosfären av kärnavfall, kärnämnen som inte ska användas på nytt eller annat radioaktivt avfall,
+
+8. Euratoms kärnämneskontrollförordning: kommissionens förord- ning (Euratom) 2025/974 av den 26 maj 2025 om genomförandet av Euratoms kärnämneskontroll,
+
+9. kärnämneskontrollskyldig: den som omfattas av Euratoms kärnämneskontrollförordning enligt artikel 1 i den förordningen, och
+
+10. nationell LOF: en anläggning enligt Euratoms kärnämnes- kontrollförordning som vissa innehavare av små mängder kärnämne kan ingå i och som uppfyller de förutsättningar som framgår av artiklarna 2.29 och 37 i Euratoms kärnämneskontrollförordning. *Lag (2026:1365)*.
+
+#### 2 a §
+
+Regeringen eller den myndighet som regeringen bestämmer får i fråga om kärnämne eller kärnavfall föreskriva om undantag från denna lag eller vissa bestämmelser i lagen, i den utsträckning det kan ske utan att syftet med lagen åsidosätts. *Lag (1992:1536)*.
+
+### Grundläggande bestämmelser
+
+#### 3 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Kärnteknisk verksamhet ska bedrivas på sådant sätt att kraven på säkerhet tillgodoses och de förpliktelser uppfylls som följer av Sveriges överenskommelser i syfte att förhindra spridning av kärnvapen och obehörig befattning med kärnämne och sådant kärnavfall som utgörs av använt kärnbränsle.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela de föreskrifter som behövs för att sådana förpliktelser ska uppfyllas som ingår i överenskommelser som avses i första stycket.
+
+Bestämmelser om strålskydd finns i strålskyddslagen (2018:396). *Lag (2018:397)*.
+
+#### 3 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Kärnteknisk verksamhet ska bedrivas på sådant sätt att kraven på säkerhet tillgodoses och de förpliktelser uppfylls som följer av Sveriges överenskommelser i syfte att förhindra kärnsprängningar, spridning av kärnvapen och obehörig befattning med kärnämne och sådant kärnavfall som utgörs av använt kärnbränsle.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela de föreskrifter som behövs för att sådana förpliktelser ska uppfyllas som ingår i överenskommelser som avses i första stycket.
+
+Bestämmelser om strålskydd finns i strålskyddslagen (2018:396). *Lag (2018:398)*.
+
+#### 3 a §
+
+En kärnteknisk anläggning ska konstrueras, lokaliseras, uppföras, tas i drift, drivas och avvecklas så att radiologiska nödsituationer undviks och, om en radiologisk nödsituation ändå inträffar, att konsekvenserna av nödsituationen kan hanteras. *Lag (2017:575)*.
+
+#### 4 §
+
+Säkerheten vid kärnteknisk verksamhet ska upprätthållas genom att de åtgärder vidtas som krävs för att
+
+1. förebygga fel i utrustning, felaktig funktion hos utrustning, felaktigt handlande, sabotage eller annat som kan leda till en radiologisk nödsituation samt begränsa och fördröja utsläpp av radioaktiva ämnen om en nödsituation ändå inträffar,
+
+2. i ett tidigt skede av en radiologisk nödsituation förhindra sådana utsläpp av radioaktiva ämnen som skulle medföra att skyddsåtgärder måste vidtas utanför den kärntekniska anläggningen men inte kommer att kunna vidtas på grund av tidsbrist,
+
+3. förhindra sådana stora utsläpp av radioaktiva ämnen som skulle medföra att skyddsåtgärder måste vidtas och inte kan begränsas i tid och rum, och
+
+4. förhindra olovlig befattning med kärnämne eller kärnavfall. *Lag (2017:575)*.
+
+### Tillståndsplikt m.m.
+
+#### 5 §
+
+Det är förbjudet att utan tillstånd enligt denna lag bedriva kärnteknisk verksamhet.
+
+Tillstånd till en kärnteknisk verksamhet som avser en kärnteknisk anläggning som regeringen har godkänt enligt lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar prövas av den myndighet som regeringen bestämmer. Andra frågor om tillstånd prövas av regeringen eller den myndighet som regeringen bestämmer.
+
+Tillstånd får inte ges till en kärnteknisk verksamhet som omfattas av ett pågående ärende om godkännande enligt lagen om regeringens godkännande av kärntekniska anläggningar.
+
+*Lag (2026:587)*.
+
+#### 5 a §
+
+Det är förbjudet att utan särskilt tillstånd av regeringen eller den myndighet som regeringen bestämmer
+
+1. i Sverige slutförvara eller i avvaktan på slutförvaring mellanlagra kärnavfall eller kärnämne som inte är avsett att användas på nytt, om avfallet eller ämnet kommer från en kärnteknisk anläggning eller annan kärnteknisk verksamhet i ett annat land, eller
+
+2. utomlands slutförvara kärnavfall eller kärnämne som inte är avsett att användas på nytt, om avfallet eller ämnet kommer från en kärnteknisk anläggning eller annan kärnteknisk verksamhet i Sverige.
+
+Tillståndsplikten enligt första stycket 2 gäller inte
+
+1. kärnavfall eller kärnämne som efter behandling eller upparbetning i Sverige ska slutförvaras i det land där avfallet har uppkommit eller ämnet har sitt ursprung, eller
+
+2. sådant använt kärnbränsle från forskningsreaktorer som i enlighet med tillämpliga internationella avtal sänds till ett land som tar emot bränsle för forskningsreaktorer eller tillverkar sådant bränsle.
+
+Ett tillstånd enligt första stycket 1 får ges endast om det finns synnerliga skäl och genomförandet av det program som avses i 12 § inte försvåras. Ett tillstånd enligt första stycket 2 får ges endast om det mellan Sverige och det andra landet finns ett avtal om slutförvaring och fördelarna med slutförvaring i det andra landet från kärnsäkerhetssynpunkt tydligt överväger fördelarna med slutförvaring i Sverige.
+
+*Lag (2026:587)*.
+
+#### 5 b §
+
+Vid prövning av ärenden enligt denna lag ska 2 kap. och 5 kap. 3-5 §§ miljöbalken tillämpas.
+
+Bestämmelser om att tillstånd krävs för vissa verksamheter och åtgärder finns i 7 kap. 28 a-29 b §§ miljöbalken.
+
+*Lag (2026:587)*.
+
+#### 5 c §
+
+För en kärnteknisk anläggning som ska prövas för ett tillstånd att uppföra, inneha eller driva en sådan anläggning ska
+
+1. bestämmelserna om planer och planeringsunderlag i 3 kap. 11 och 12 §§ och 5 kap. 18 § miljöbalken tillämpas,
+
+2. frågan om verksamheten eller åtgärden kan antas medföra en betydande miljöpåverkan avgöras i ett särskilt beslut enligt 6 kap. 26-27 §§ miljöbalken efter att en undersökning enligt 6 kap. 23-25 §§ har gjorts, om annat inte följer av undantagen i 6 kap. 23 § andra stycket,
+
+3. en specifik miljöbedömning göras, information lämnas och samordning ske enligt 6 kap. 28-46 §§ miljöbalken, om en betydande miljöpåverkan kan antas, och
+
+4. ett förenklat underlag tas fram enligt 6 kap. 47 § miljöbalken, om länsstyrelsen beslutar att en betydande miljöpåverkan inte kan antas. *Lag (2025:775)*.
+
+#### 5 d §
+
+Regeringen får meddela föreskrifter om vad som krävs för att ett sådant avtal om slutförvaring som avses i 5 a § tredje stycket ska kunna godtas som grund för ett tillstånd.
+
+*Lag (2026:587)*.
+
+#### 5 e §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att 6 kap. miljöbalken ska tillämpas även i andra ärenden om tillstånd enligt denna lag än sådana som avses i 5 c §. *Lag (2017:960)*.
+
+#### 5 f §
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar närmare föreskrifter om innehållet i och utformningen av en ansökan om tillstånd enligt denna lag.
+
+*Lag (2014:141)*.
+
+#### 5 g §
+
+Det krävs tillstånd från regeringen för att slutligt försluta ett geologiskt slutförvar.
+
+Regeringen ska i samband med att tillståndet beviljas besluta om de villkor som ska vara uppfyllda för att förvaret slutligt ska få förslutas. *Lag (2020:685)*.
+
+#### 5 h §
+
+Tillståndshavaren ska till regeringen redovisa de åtgärder som har vidtagits med anledning av regeringens beslut enligt 5 g §. *Lag (2020:685)*.
+
+#### 5 i §
+
+Om villkoren i beslutet enligt 5 g § är uppfyllda, ska regeringen bestämma den tidpunkt då slutförvaret ska anses vara slutligt förslutet. *Lag (2020:685)*.
+
+#### 5 j §
+
+Ett tillstånd enligt denna lag får inte avse transporter av använt kärnbränsle eller kärnavfall till platser eller länder som anges i 6 kap. 14 § strålskyddslagen (2018:396).
+
+*Lag (2026:587)*.
+
+#### 5 k §
+
+Ett tillstånd får begränsas till att avse en viss tid. Om tillståndet avser transport av använt kärnbränsle eller kärnavfall till eller från Sverige, får tillståndet inte gälla för längre tid än tre år. *Lag (2026:587)*.
+
+#### 5 l §
+
+Har betecknats 6 g § genom *lag (2026:587)*.
+
+### Förhandsbesked om en kärnteknisk anläggnings konstruktion
+
+#### 6 §
+
+Den myndighet som regeringen bestämmer ska på begäran av den som avser att konstruera, leverera, uppföra, inneha eller driva en kärnteknisk anläggning ge ett förhandsbesked i frågan om anläggningens konstruktion eller en del av den uppfyller de krav som följer av denna lag, strålskyddslagen (2018:396) och föreskrifter som har meddelats med stöd av dessa lagar.
+
+*Lag (2026:587)*.
+
+#### 6 a §
+
+Den myndighet som avses i 6 § får i det enskilda fallet besluta att avstå från att pröva en begäran om förhandsbesked eller begränsa omfattningen av ett förhandsbesked.
+
+*Lag (2026:587)*.
+
+#### 6 b §
+
+I ett förhandsbesked som innebär att konstruktionen uppfyller de krav som följer av denna lag, strålskyddslagen (2018:396) och föreskrifter som har meddelats med stöd av dessa lagar, ska det anges hur länge förhandsbeskedet gäller. Tiden får inte vara kortare än fem år och inte längre än femton år från det att förhandsbeskedet fick laga kraft.
+
+*Lag (2026:587)*.
+
+#### 6 c §
+
+Ett förhandsbesked är bindande vid en senare tillståndsprövning, om
+
+1. beskedet innebär att den kärntekniska anläggningens konstruktion uppfyller de krav som följer av denna lag, strålskyddslagen (2018:396) och föreskrifter som har meddelats med stöd av dessa lagar,
+
+2. beskedet har fått laga kraft, och
+
+3. en tillståndsansökan har gjorts inom den tid som förhandsbeskedet gäller. *Lag (2026:587)*.
+
+#### 6 d §
+
+Trots 6 c § är ett förhandsbesked inte bindande, om
+
+1. en författning har ändrats efter att förhandsbeskedet beslutades och ändringen skulle ha haft betydelse för bedömningen i beskedet,
+
+2. de förutsättningar som låg till grund för beskedet har ändrats och ändringarna skulle ha haft betydelse för säkerheten eller strålskyddet i den kärntekniska anläggningen, eller
+
+3. förhandsbeskedet har lämnats på grund av oriktiga eller vilseledande uppgifter och uppgifterna har haft betydelse för bedömningen i beskedet. *Lag (2026:587)*.
+
+### Statens ansvar för slutligt förslutna geologiska slutförvar
+
+#### 6 e §
+
+Efter den tidpunkt som avses i 5 i § ansvarar staten för det geologiska slutförvaret och avfallet. *Lag (2026:587)*.
+
+#### 6 f §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1. vad en ansökan om ett tillstånd till slutlig förslutning enligt 5 g § ska innehålla, och
+
+2. hur tillståndshavaren ska redovisa åtgärderna enligt 5 h §.
+
+*Lag (2026:587)*.
+
+#### 6 g §
+
+Den myndighet som regeringen bestämmer ska vidta de åtgärder som behövs för att fullgöra statens skyldigheter enligt 6 e och 14 b §§. *Lag (2026:587)*.
+
+#### 7 §
+
+Har betecknats 5 k § genom *lag (2025:587)*.
+
+### Anmälningsskyldighet
+
+#### 7 a §
+
+Den som bedriver en forsknings- eller utvecklingsverksamhet som rör processer eller system i fråga om kärntekniska anläggningar, kärnämnen eller kärnavfall, är skyldig att anmäla detta till den myndighet som regeringen bestämmer.
+
+Första stycket gäller inte teoretisk eller grundläggande forskning. Det gäller inte heller forskning och utveckling som rör
+
+1. industriell användning av radioisotoper,
+
+2. tillämpningar inom medicin, hydrologi eller lantbruk,
+
+3. hälso- och miljöeffekter,
+
+4. förbättrat underhåll.
+
+*Lag (2000:169)*.
+
+#### 7 b §
+
+Den som tillverkar, monterar eller på annat sätt framställer kärnteknisk utrustning är skyldig att anmäla detta till den myndighet som regeringen bestämmer. *Lag (2000:169)*.
+
+#### 7 c §
+
+Den som till Sverige för in eller från Sverige för ut kärnteknisk utrustning är skyldig att anmäla detta till den myndighet som regeringen bestämmer. *Lag (2000:169)*.
+
+#### 7 d §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om undantag från anmälningsskyldigheten i 7 a-7 c §§. *Lag (2000:169)*.
+
+#### 7 e §
+
+En tillståndshavare som har beslutat att en kärnkraftsreaktor ska stängas av tills vidare, ska snarast möjligt anmäla detta till den myndighet som regeringen bestämmer.
+
+Av anmälan ska det framgå vilka åtgärder som behöver vidtas för att säkerheten och strålskyddet ska kunna upprätthållas fram till dess att reaktorn börjar nedmonteras eller rivas.
+
+*Lag (2026:587)*.
+
+### Tillståndsvillkor m.m.
+
+#### 8 §
+
+Regeringen eller den myndighet som regeringen bestämmer får när ett tillstånd meddelas eller under dess giltighetstid besluta om de villkor som behövs med hänsyn till säkerheten.
+
+*Lag (2006:339)*.
+
+#### 8 a §
+
+Regeringen får meddela föreskrifter om att tillstånd till en kärnteknisk verksamhet ska förenas med de villkor som behövs för att säkerställa
+
+1. det ansvar och de skyldigheter som följer av lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor, och
+
+2. tillämpningen av de krav i fråga om försörjning med malmer, råmaterial och speciella klyvbara material som följer av bestämmelserna i fördraget den 25 mars 1957 om upprättandet av Europeiska atomenergigemenskapen.
+
+*Lag (2010:973)*.
+
+#### 9 §
+
+Har betecknats 10 e § genom *lag (2026:1365)*.
+
+### Stegvis kontroll
+
+#### 9 a §
+
+En tillståndshavare ska anmäla till tillsynsmyndigheten innan tillståndshavaren
+
+1. i samband med uppförandet av en ny kärnteknisk anläggning påbörjar åtgärder på anläggningsplatsen som har betydelse för säkerheten eller strålskyddet,
+
+2. påbörjar en sådan ändring av anläggningen som det har meddelats ett nytt tillstånd för,
+
+3. tar en kärnteknisk anläggning i provdrift,
+
+4. tar en kärnteknisk anläggning i rutinmässig drift,
+
+5. påbörjar nedmontering eller rivning av en kärnteknisk anläggning.
+
+En anmälan ska lämnas in för varje åtgärd. Anmälan ska innehålla de uppgifter som behövs för att visa att anläggningen kommer att uppfylla de krav på säkerhet och strålskydd som följer av denna lag, strålskyddslagen (2018:396) och föreskrifter och villkor som har meddelats med stöd av dessa lagar.
+
+Tillståndshavaren får inte vidta en åtgärd som anges i första stycket förrän tillsynsmyndigheten har beslutat att den får vidtas. *Lag (2026:587)*.
+
+#### 9 b §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vad en anmälan enligt 9 a § ska innehålla. *Lag (2026:587)*.
+
+### Allmänna skyldigheter för tillståndshavare
+
+#### 10 §
+
+Den som har tillstånd till kärnteknisk verksamhet ansvarar för säkerheten i verksamheten och ska
+
+1. fortlöpande och systematiskt värdera, verifiera och, så långt det är möjligt och rimligt, förbättra säkerheten i verksamheten och vid anläggningar där verksamheten bedrivs med hänsyn till
+
+a) de förhållanden under vilka verksamheten bedrivs,
+
+b) hur utrustningar och anläggningar påverkas av drift och ålder,
+
+c) erfarenheter från verksamheten och liknande verksamheter, och
+
+d) utvecklingen inom vetenskap och teknik,
+
+2. vidta de åtgärder som anges i 4 § med hänsyn till de förhållanden under vilka verksamheten bedrivs,
+
+3. vidta de åtgärder som behövs för att på ett säkert sätt hantera och slutförvara kärnavfall eller kärnämne som inte används på nytt, om avfallet eller ämnet har uppkommit i verksamheten,
+
+4. vidta de åtgärder som behövs för att på ett säkert sätt avveckla och riva anläggningar som verksamheten inte längre ska bedrivas i till dess att all verksamhet vid anläggningarna har upphört och allt kärnämne och allt kärnavfall placerats i ett slutförvar som slutligt förslutits, och
+
+5. i samband med en radiologisk nödsituation, ett hot eller en annan liknande omständighet snarast till den myndighet som avses i 16 § lämna sådana upplysningar som har betydelse för bedömningen av säkerheten och, om händelsen avser en kärnkraftsreaktor, överföra värden för processparametrar för reaktorn. *Lag (2017:575)*.
+
+#### 10 a §
+
+Den som har tillstånd att inneha eller driva en kärnteknisk anläggning ska minst vart tionde år göra en ny systematisk helhetsbedömning av säkerheten och strålskyddet och hur dessa uppfyller kraven enligt denna lag, miljöbalken och strålskyddslagen (2018:396) och enligt föreskrifter och beslut som har meddelats med stöd av dessa lagar.
+
+I helhetsbedömningen ska tillståndshavaren ta ställning till hur säkerheten och strålskyddet kan upprätthållas och förbättras fram till nästa helhetsbedömning eller till dess att anläggningen har avvecklats. Särskild hänsyn ska tas till de omständigheter som anges i 10 § 1 a-d.
+
+Helhetsbedömningen och de åtgärder som den föranleder ska redovisas till den myndighet som avses i 16 §.
+
+*Lag (2018:397)*.
+
+#### 10 b §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1. åtgärder som ska vidtas och information som ska lämnas för att uppfylla kraven i 10 §,
+
+2. hur en bedömning enligt 10 a § ska göras, och
+
+3. att en bedömning enligt 10 a § av säkerhetsskäl ska göras oftare än vart tionde år. *Lag (2017:575)*.
+
+#### 10 c §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om undantag eller i det enskilda fallet ge dispens från kraven i 10 a §. Sådana undantag och dispenser får endast avse kärntekniska anläggingar där den risk som är förenad med anläggningarna är liten. *Lag (2010:948)*.
+
+#### 10 d §
+
+Den som har tillstånd att bedriva kärnteknisk verksamhet ska se till att det utförs bedömningar av om anläggningar och anordningar i verksamheten överensstämmer med de säkerhetskrav som följer av denna lag och föreskrifter som har meddelats med stöd av lagen. *Lag (2026:1365)*.
+
+#### 10 e §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1. sådana bedömningar av överensstämmelse som avses i 10 d §, och
+
+2. vilka krav ett organ för bedömning av överensstämmelse ska uppfylla när det krävs ett sådant organ enligt föreskrifter som avses i 1. *Lag (2026:1365)*.
+
+#### 11 §
+
+Den som har tillstånd att inneha eller driva en kärnkraftsreaktor ska svara för att den allsidiga forsknings- och utvecklingsverksamhet bedrivs som behövs för att det som föreskrivs i 10 § 3 och 4 ska kunna fullgöras. *Lag (2017:575)*.
+
+#### 12 §
+
+Den som har tillstånd att inneha eller driva en kärnkraftsreaktor ska vart tredje år i samråd med övriga reaktorinnehavare upprätta eller låta upprätta ett program för den allsidiga forsknings- och utvecklingsverksamhet och de övriga åtgärder som ska vidtas enligt 10 § 3 och 4 och 11 §. Programmet ska dels innehålla en översikt över samtliga åtgärder som kan bli behövliga, dels närmare ange de åtgärder som avses bli vidtagna inom en tidrymd om minst sex år. Programmet ska skickas till regeringen eller den myndighet som regeringen bestämmer för att granskas och utvärderas. I samband med granskningen och utvärderingen får de villkor ställas som behövs för den fortsatta forsknings- och utvecklingsverksamheten. *Lag (2017:575)*.
+
+#### 13 §
+
+Den som har tillstånd till kärnteknisk verksamhet ska
+
+1. svara för kostnaderna för de åtgärder som avses i 10-12 §§, och
+
+2. ha en organisation för verksamheten med ekonomiska, administrativa och personella resurser som är tillräckliga för att kunna fullgöra
+
+a) de åtgärder som avses i 10-12 §§,
+
+b) åtgärder som följer av villkor som har beslutats eller föreskrifter som har meddelats med stöd av denna lag,
+
+c) skyddsåtgärder i händelse av driftstörningar eller haverier i anläggningen, och
+
+3. i fråga om entreprenörer som vidtar åtgärder på uppdrag av tillståndshavaren, och i fråga om sådana entreprenörers underentreprenörer, säkerställa att de har de personella resurser med lämpliga kvalifikationer och färdigheter som krävs för att tillståndshavaren ska kunna fullgöra sina skyldigheter.
+
+I fråga om skyldighet för tillståndshavare att svara för vissa kostnader som staten har och säkerställa finansieringen av de kostnader som avses i första stycket finns bestämmelser i lagen (2006:647) om finansiering av kärntekniska restprodukter. *Lag (2017:1067)*.
+
+#### 14 §
+
+Skyldigheterna enligt 10 § kvarstår till dess att de har fullgjorts, även om
+
+1. ett tillstånd återkallas,
+
+2. ett tillstånds giltighetstid går ut,
+
+3. rätten att driva en kärnkraftsreaktor har upphört att gälla enligt den upphävda lagen (1997:1320) om kärnkraftens avveckling, eller
+
+4. en kärnkraftsreaktor har anmälts som tills vidare avstängd enligt 7 e §.
+
+Trots första stycket får regeringen eller den myndighet som regeringen bestämmer ge dispens från skyldigheterna enligt 10 §. *Lag (2026:587)*.
+
+#### 14 a §
+
+En försäkring som syftar till att ersätta skada på byggnader, anläggningar, system, komponenter och anordningar av betydelse för säkerheten i en kärnteknisk verksamhet får inte ha någon annan som förmånstagare än den som är tillståndshavare för verksamheten enligt denna lag.
+
+*Lag (2010:973)*.
+
+### Statens sekundära ansvar
+
+#### 14 b §
+
+Om det inte finns någon som kan göras ansvarig för att fullgöra skyldigheterna för säkerheten enligt 10 § ansvarar staten till dess att en tillståndshavare kan fullgöra skyldig- heterna. *Lag (2020:685)*.
+
+### Återkallelse av tillstånd
+
+#### 15 §
+
+Ett tillstånd att bedriva kärnteknisk verksamhet får återkallas av den som har meddelat tillståndet, om
+
+1. villkor som har beslutats med stöd av 8 § inte uppfylls och avvikelsen är av väsentlig betydelse från säkerhetssynpunkt,
+
+2. skyldigheter som anges i 11 och 12 §§ inte uppfylls och det finns synnerliga skäl från säkerhetssynpunkt,
+
+3. det i annat fall finns synnerliga skäl från säkerhetssynpunkt, eller
+
+4. de skyldigheter som avses i 10 d eller 13 § inte uppfylls och avvikelsen är av väsentlig betydelse från säkerhetssynpunkt. *Lag (2026:1365)*.
+
+#### 15 a §
+
+Har upphävts genom *lag (2026:587)*.
+
+### Nationell LOF
+
+#### 15 b §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om förutsättningarna för att inrätta en nationell LOF utöver de som följer av Euratoms kärnämneskontrollförordning. *Lag (2026:1365)*.
+
+#### 15 c §
+
+Den som är kärnämneskontrollskyldig och som ingår i en nationell LOF ska till den myndighet som regeringen bestämmer lämna de uppgifter, handlingar och rapporter som enligt Euratoms kärnämneskontrollförordning annars skulle ha lämnats till kommissionen.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om undantag från kravet i första stycket att lämna uppgifter, handlingar och rapporter enligt Euratoms kärnämneskontrollförordning. *Lag (2026:1365)*.
+
+### Tillsyn
+
+#### 16 §
+
+Den myndighet som regeringen bestämmer har tillsyn över att Euratoms kärnämneskontrollförordning, denna lag och villkor eller föreskrifter som har meddelats med stöd av lagen följs samt övervakar och kontrollerar slutförvar.
+
+*Lag (2026:1365)*.
+
+#### 16 a §
+
+Den som har tillstånd till en kärnteknisk verksamhet ska ge tillsynsmyndigheten möjlighet till insyn i och granskning av hur säkerhetskraven följs i fråga om uppgifter som utförs av leverantörer eller deras underleverantörer eller av entreprenörer, underentreprenörer eller andra uppdragstagare. *Lag (2017:575)*.
+
+#### 17 §
+
+Den som bedriver eller har tillstånd att bedriva en kärnteknisk verksamhet, den som är anmälningsskyldig enligt 7 a-7 c §§, den som tar befattning med utrustning som omfattas av anmälningsskyldighet enligt 7 c § och den som är kärnämneskontrollskyldig ska på begäran av tillsynsmyndigheten
+
+1. lämna de upplysningar och tillhandahålla de handlingar som myndigheten behöver för tillsynen, och
+
+2. ge myndigheten tillträde till en anläggning eller plats där verksamhet bedrivs för undersökningar och provtagningar, i den omfattning som behövs för tillsynen.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om att en skyldighet enligt första stycket även ska gälla gentemot den som utsetts som övervakare av att de förpliktelser uppfylls som följer av Sveriges överenskommelser i syfte att förhindra spridning av kärnvapen.
+
+Polismyndigheten ska på begäran av tillsynsmyndigheten lämna det biträde som behövs för tillsynen. *Lag (2026:1365)*.
+
+#### 18 §
+
+Tillsynsmyndigheten får besluta de förelägganden mot tillståndshavaren eller den som är kärnämneskontrollskyldig som behövs för att Euratoms kärnämneskontrollförordning, denna lag eller föreskrifter eller villkor som har meddelats med stöd av lagen ska följas.
+
+Tillsynsmyndigheten får även besluta om verkställandet av sanktioner enligt artikel 83.1 i fördraget den 25 mars 1957 om upprättandet av Europeiska atomenergigemenskapen.
+
+Om någon inte vidtar en åtgärd som ska vidtas enligt Euratoms kärnämneskontrollförordning, denna lag, föreskrifter eller villkor som har meddelats med stöd av lagen eller ett föreläggande av tillsynsmyndigheten, får myndigheten vidta åtgärden på den åtgärdsskyldiges bekostnad. *Lag (2026:1365)*.
+
+### Offentlig insyn
+
+#### 19 §
+
+Den som har tillstånd att driva en sådan kärnteknisk anläggning som avses i 2 § 1 a eller b eller en anläggning för framställning, hantering, bearbetning, lagring eller slutförvaring av kärnämne eller kärnavfall ska
+
+1. ge den lokala säkerhetsnämnd som regeringen bestämmer insyn i säkerhets- och strålskyddsarbetet vid anläggningen, och
+
+2. se till att arbetstagarna och allmänheten har tillgång till information om säkerheten vid anläggningen vid normala driftsförhållanden.
+
+Ytterligare bestämmelser om skyldighet att lämna underrättelser och information finns i lagen (2003:778) om skydd mot olyckor och i föreskrifter som har meddelats med stöd av den lagen. *Lag (2017:575)*.
+
+#### 20 §
+
+Insynen enligt 19 § första stycket 1 ska göra det möjligt för den lokala säkerhetsnämnden att få information om det säkerhets- och strålskyddsarbete som har utförts eller planeras vid anläggningen och ställa samman material för att informera allmänheten om detta arbete. *Lag (2017:575)*.
+
+#### 21 §
+
+Tillståndshavaren skall på begäran av nämnden
+
+1. lämna nämnden upplysningar om tillgängliga fakta och låta nämnden ta del av tillgängliga handlingar, allt i den mån det behövs för att nämnden skall kunna fullgöra vad som anges i 20 §, och
+
+2. ge nämnden tillträde till och förevisa anläggningar eller platser, om det behövs för att nämnden skall få innebörden av upplysningar eller handlingar som utlämnas enligt 1 belyst och tillträdet är förenligt med gällande säkerhetsföreskrifter.
+
+Ansvarsbestämmelser m. m.
+
+#### 22 §
+
+Den som inte följer vad som föreskrivs i 10--12 § eller med stöd av denna lag uppställda villkor eller föreskrifter eller som inte efterkommer vad tillsynsmyndigheten har begärt eller beslutat med stöd av 17 eller 18 §, får av myndigheten föreläggas vite.
+
+#### 23 §
+
+Beslut enligt 18 § gäller omedelbart, om inte något annat anges i beslutet. *Lag (2026:587)*.
+
+#### 24 §
+
+Beslut enligt denna lag som inte har fattats av regeringen får överklagas till mark- och miljödomstol. Beslut av en lokal säkerhetsnämnd om en begäran enligt 21 § överklagas dock till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+Trots första stycket får beslut enligt 6 a § inte överklagas.
+
+*Lag (2026:587)*.
+
+#### 24 a §
+
+En sådan ideell förening eller annan juridisk person som avses i 16 kap. 13 § miljöbalken får överklaga beslut enligt 5 och 8 §§ som inte har fattats av regeringen.
+
+*Lag (2026:587)*.
+
+#### 25 §
+
+Till böter eller fängelse i högst två år döms den som med uppsåt eller av oaktsamhet
+
+1. bedriver kärnteknisk verksamhet utan tillstånd enligt 5 § första stycket eller 5 a § första stycket,
+
+2. åsidosätter sin anmälningsskyldighet enligt 7 a-7 c §§,
+
+3. åsidosätter villkor som har beslutats med stöd av denna lag, eller
+
+4. åsidosätter föreskrifter som regeringen har meddelat med stöd av denna lag.
+
+Den som i övrigt med uppsåt eller av grov oaktsamhet bryter mot 10 § första stycket 1, 2, 3 eller 4 döms till böter eller fängelse i högst två år.
+
+Ansvar ska inte dömas ut enligt denna paragraf, om ansvar för gärningen kan dömas ut enligt 57 § lagen (2010:950) om ansvar och ersättning vid radiologiska olyckor. *Lag (2017:576)*.
+
+#### 25 a §
+
+Har någon med uppsåt begått brott enligt 25 § och är brottet att anse som grovt skall han dömas till fängelse i lägst sex månader och högst fyra år.
+
+Vid bedömning av om brottet är grovt skall särskilt beaktas om det avsett en verksamhet, ett ämne eller en produkt av särskilt farligt slag eller om gärningen annars varit av särskilt allvarlig art. *Lag (1992:1536)*.
+
+#### 26 §
+
+Kärnämne eller kärnavfall som någon utan tillstånd enligt 5 § förvärvat, innehaft, överlåtit, hanterat, bearbetat, transporterat eller annars tagit befattning med får förverkas helt eller delvis, om det inte är uppenbart oskäligt. Om ämnet inte längre innehas, får i stället värdet förverkas.
+
+*Lag (2024:808)*.
+
+#### 27 §
+
+Den som inte fullgör vad tillsynsmyndigheten begär eller beslutar med stöd av 17 eller 18 § eller vad den lokala säkerhetsnämnden begär med stöd av 21 § eller som uppsåtligen eller av grov oaktsamhet lämnar myndigheten eller nämnden oriktiga uppgifter, döms till böter eller fängelse i högst sex månader. *Lag (2009:328)*.
+
+#### 27 a §
+
+Till böter döms den som med uppsåt eller av grov oaktsamhet bryter mot rådets förordning (Euratom) nr 2587/1999 av den 2 december 1999 om vilka investeringsprojekt som ska meddelas kommissionen i enlighet med artikel 41 i fördraget om upprättandet av Europeiska atomenergigemenskapen genom att inte underrätta kommissionen om investeringsprojekt enligt det som följer av artikel 1.1 eller 1.2 eller genom att vid uppgiftslämnandet lämna oriktiga eller ofullständiga uppgifter. *Lag (2009:328)*.
+
+#### 27 b §
+
+Har upphävts genom *lag (2026:1365)*.
+
+#### 28 §
+
+Den som har åsidosatt ett vitesföreläggande eller överträtt ett vitesförbud döms inte till ansvar enligt denna lag för gärning som omfattas av föreläggandet eller förbudet. *Lag (1992:1536)*.
+
+#### 29 §
+
+Till ansvar enligt denna lag döms inte om gärningen är ringa. Till ansvar döms inte heller om strängare straff för gärningen kan dömas ut enligt brottsbalken eller om ansvar kan dömas ut enligt lagen (2000:1225) om straff för smuggling. *Lag (2000:1240)*.
+
+### Avgifter
+
+#### 30 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om avgifter för myndighets verksamhet enligt denna lag. *Lag (1990:238)*.
+
+## Övergångsbestämmelser
+
+**1984:3**
+
+1. Denna lag träder i kraft den 1 februari 1984.
+
+2. Genom denna lag upphävs lagen (1956:306) om rätt att utvinna atomenergi m. m. (atomenergilag), lagen (1977:140) om särskilt tillstånd att tillföra kärnreaktor kärnbränsle, m. m., lagen (1979:335) om förbud mot att under viss tid tillföra kärnreaktorer kärnbränsle och lagen (1980:1123) om offentlig insyn i säkerhetsarbetet vid kärn kraftverken.
+
+Bestämmelserna i 4 § lagen om särskilt tillstånd att tillföra kärnreaktor kärnbränsle, m. m. och 2 § lagen om förbud mot att under viss tid tillföra kärnreaktorer kärnbränsle skall fortfarande gälla intill utgången av år 1989.
+
+3. Förekommer i lag eller annan författning hänvisning till föreskrift som har ersatts genom bestämmelse i denna lag tillämpas i stället den nya bestämmelsen.
+
+4. Tillstånd samt villkor och föreskrifter som har meddelats med stöd av atomenergilagen skall anses ha meddelats enligt motsvarande bestämmelse i den nya lagen. *Lag (1992:1536)*
+
+5. I mål eller ärenden som har anhängiggjorts före ikraftträdandet av denna lag tillämpas äldre bestämmelser. Ansökan om tillstånd enligt lagen om särskilt tillstånd att tillföra kärnreaktor kärnbränsle, m.m., som har getts in men inte avgjorts före den nya lagens ikraftträdande, skall dock prövas enligt den nya lagen.
+
+6. Bestämmelserna i 11 § vad gäller kravet på allsidighet i forsknings- och utvecklingsverksamheten och i 12 § gäller inte innehavare av sådant tillstånd som före lagens ikraftträdande har begränsats till att avse viss tid så länge begränsningen gäller. Tillståndshavaren kan dock under tillståndets giltighetstid hos regeringen eller den myndighet som regeringen bestämmer anmäla att han åtar sig att fullgöra vad som föreskrivs i 12 §. Den bestämmelsen gäller i så fall från och med dagen för anmälan.
+
+**1992:1536**
+
+Denna lag träder i kraft den 1 januari 1993.
+
+Har den som har tillstånd till innehav eller drift av en kärnteknisk anläggning före ikraftträdandet uppdragit åt annan att svara för driften eller delar av driften, skall sådant godkännande som avses i 5 § anses föreligga.
+
+**1998:827**
+
+1. Denna lag träder i kraft den 1 januari 1999.
+
+2. Ett ärende om tillstånd skall handläggas och bedömas enligt äldre bestämmelser, om ärendet har inletts före denna lags ikraftträdande. Bestämmelserna om miljökvalitetsnormer i miljöbalken skall dock tillämpas omedelbart.
+
+**2017:960**
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande för handläggningen och prövningen av ärenden som har inletts före ikraftträdandet.
+
+3. Äldre föreskrifter gäller fortfarande i fråga om beslut att en verksamhet eller åtgärd inte kan antas medföra en betydande miljöpåverkan som har meddelats före ikraftträdandet och i fråga om samråd som har skett före ikraftträdandet.
+
+**2026:587**
+
+1. Denna lag träder i kraft den 17 juni 2026.
+
+2. Äldre föreskrifter gäller vid överklagande av beslut som har meddelats före ikraftträdandet.
+
+3. Bestämmelserna i den nya 9 a § ska inte tillämpas om villkor om krav på godkännande inför uppförande, provdrift och rutinmässig drift av en kärnteknisk anläggning har meddelats i beslut enligt äldre föreskrifter.

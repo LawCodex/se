@@ -1,0 +1,231 @@
+---
+title: "Lag (2001:1170) om särskilda avdrag i vissa fall vid avgiftsberäkningen enligt lagen (1994:1920) om allmän löneavgift och socialavgiftslagen (2000:980)"
+identifier: "SFS 2001:1170"
+type: act
+jurisdiction: se
+language: sv
+date: 2001-12-13
+amended_through: "SFS 2025:1338"
+department: "Finansdepartementet S1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-1170.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:1170"
+retrieved: 2026-10-11
+---
+# Lag (2001:1170) om särskilda avdrag i vissa fall vid avgiftsberäkningen enligt lagen (1994:1920) om allmän löneavgift och socialavgiftslagen (2000:980)
+
+### Tillämpningsområde
+
+#### 1 §
+
+I denna lag finns bestämmelser om stöd till näringslivet och viss ideell verksamhet i det stödområde som anges i bilagan till lagen i form av särskilda avdrag vid avgiftsberäkningen enligt lagen (1994:1920) om allmän löneavgift och socialavgiftslagen (2000:980). *Lag (2007:286)*.
+
+#### 2 §
+
+Vid beräkning av den allmänna löneavgiften och arbetsgivaravgifterna ska ett särskilt avdrag göras, om den avgiftsskyldige har utgett avgiftspliktig ersättning för arbete utfört i näringsverksamhet vid ett fast driftställe i stödområdet eller för arbete i annan verksamhet som bedrivs av en ideell förening eller en stiftelse, vid en sådan plats i stödområdet som motsvarar ett fast driftställe. Med avgiftspliktig ersättning ska vid tillämpning av denna lag inte avses sådan ersättning på vilken endast ålderspensionsavgift ska betalas enligt 2 kap. 27 § socialavgiftslagen (2000:980).
+
+Vid beräkning av den allmänna löneavgiften och egenavgifterna ska ett särskilt avdrag göras, om avgiftspliktig inkomst av näringsverksamhet från ett fast driftställe i stödområdet ingår i avgiftsunderlaget. Detta gäller dock inte den som enligt 3 kap. 15 eller 16 § socialavgiftslagen endast ska betala ålderspensionsavgift. *Lag (2025:1338)*.
+
+#### 3 §
+
+Bestämmelserna i 2 § första stycket ska inte tillämpas om den avgiftsskyldige är
+
+1. en kommun eller en region,
+
+2. en statlig myndighet,
+
+3. ett statligt affärsdrivande verk, eller
+
+4. ett registrerat trossamfund.
+
+*Lag (2019:910)*.
+
+#### 4 §
+
+Bestämmelserna i 2 § ska inte tillämpas på
+
+1. verksamhet inom sektorerna stål, brunkol och kol i den mening som avses i artikel 13 a i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget,
+
+2. verksamhet inom transportsektorn och tillhörande infrastruktur i den mening som avses i artikel 13 b i kommissionens förordning (EU) nr 651/2014, eller
+
+3. avgiftsskyldiga vars huvudsakliga verksamhet avser finans- och försäkringsverksamhet eller koncernintern verksamhet i den mening som avses i artikel 13 d i kommissionens förordning (EU) nr 651/2014. *Lag (2025:1338)*.
+
+### Avdragets storlek
+
+#### 5 §
+
+Vid beräkning av den allmänna löneavgiften och arbetsgivaravgifterna ska från summan av dessa avgifter avdrag göras med 10 procent av avgiftsunderlaget. Avdraget får inte medföra att avgifterna understiger ålderspensionsavgiften enligt 2 kap. 26 § socialavgiftslagen (2000:980). Sammanlagt får avdrag göras med högst 7 100 kronor. Avdraget ska i första hand göras från den allmänna löneavgiften.
+
+I avgiftsunderlaget för beräkning av avdraget enligt första stycket ska endast ingå sådan avgiftspliktig ersättning som avses i 2 § första stycket.
+
+Vid bedömningen av avdragsrätten enligt första stycket ska flera avgiftsskyldiga som ingår i samma koncern och som uppfyller villkoren för att få göra avdrag anses som en avgiftsskyldig. Avdraget ska i ett sådant fall i första hand göras av moderföretaget. Till den del avdraget inte kan utnyttjas av moderföretaget, får det utnyttjas av dotterföretagen i den ordning som moderföretaget bestämmer.
+
+*Lag (2021:56)*.
+
+#### 6 §
+
+Vid beräkning av den allmänna löneavgiften och egenavgifterna skall från summan av dessa avgifter avdrag göras med 10 procent av avgiftsunderlaget, dock högst med 18 000 kronor per år. Avdraget skall i första hand göras från den allmänna löneavgiften. När avdraget görs från egenavgifterna får det inte medföra att egenavgifterna understiger ålderspensionsavgiften enligt 3 kap. 13 § socialavgiftslagen (2000:980).
+
+I avgiftsunderlaget för beräkning av avdraget enligt första stycket skall endast ingå avgiftspliktig inkomst från ett fast driftställe i stödområdet.
+
+Om den avgiftsskyldige är delägare i ett handelsbolag, får det sammanlagda avdraget från de allmänna löneavgifter och de egenavgifter som är hänförliga till inkomsten från handelsbolaget för samtliga delägare i bolaget inte överstiga 85 200 kronor per år. Avdraget skall fördelas mellan delägarna i proportion till hur den skattepliktiga inkomsten från handelsbolaget fördelas mellan dem. *Lag (2007:286)*.
+
+#### 6 a §
+
+Om den avgiftsskyldige under året har gjort avdrag från avgifter enligt både 5 och 6 §§, får avdragen sammanlagt inte överstiga 85 200 kronor per år.
+
+Om den avgiftsskyldige är delägare i ett handelsbolag och bolaget under året har gjort avdrag från avgifter enligt 5 §, får det sammanlagda avdraget från de avgifter enligt 6 § som är hänförliga till inkomsten från samtliga delägare i bolaget tillsammans med avdraget från avgifterna enligt 5 § inte överstiga 85 200 kronor per år. *Lag (2007:286)*.
+
+#### 6 b §
+
+Det särskilda avdraget från den allmänna löneavgiften och arbetsgivaravgifterna får inte göras om den avgiftsskyldige är föremål för ett betalningskrav på grund av ett beslut av Europeiska kommissionen om att ett stöd beviljat av en svensk stödgivare är olagligt och oförenligt med den inre marknaden.
+
+Avdraget får inte heller göras om det årliga stödbeloppet per avgiftsskyldig enligt samtliga ordningar för driftstöd överstiger 20 procent av den avgiftsskyldiges årliga arbetskostnader i det berörda området i enlighet med artikel 15.3 b i kommissionens förordning (EU) nr 651/2014.
+
+*Lag (2025:1338)*.
+
+#### 6 c §
+
+Det särskilda avdraget från den allmänna löneavgiften och egen-avgifterna får bara göras om avdraget uppfyller villkoren enligt
+
+1. kommissionens förordning (EU) nr 1408/2013 av den 18 december 2013 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse inom jordbrukssektorn,
+
+2. kommissionens förordning (EU) nr 717/2014 av den 27 juni 2014 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse inom fiskeri- och vattenbrukssektorn, eller
+
+3. kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse. *Lag (2025:1338)*.
+
+#### 6 d §
+
+Vid bedömningen av om det särskilda avdraget uppfyller villkoren enligt 6 c § ska de villkor tillämpas som avser
+
+1. stöd inom sektorn för primärproduktion av jordbruksprodukter, om den som begär avdrag bedriver verksamhet både inom denna sektor och inom någon annan sektor, och
+
+2. stöd inom sektorn för primärproduktion av fiskeri- och vattenbruksprodukter, om den som begär avdrag bedriver verksamhet både inom denna sektor och inom någon annan sektor än sektorn för primärproduktion av jordbruksprodukter.
+
+*Lag (2025:1338)*.
+
+### Kombination av avdrag
+
+#### 7 §
+
+Om avdrag ska göras både enligt denna lag och enligt 8 § lagen (2023:747) om särskilt avdrag vid beräkning av arbetsgivaravgifter och allmän löneavgift för personer som arbetar med forskning eller utveckling, ska avdrag i första hand göras enligt den sistnämnda lagen. *Lag (2023:752)*.
+
+## Övergångsbestämmelser
+
+**2001:1170**
+
+1. Denna lag träder i kraft den 1 januari 2002.
+
+2. Bestämmelserna i 5 § tillämpas i fråga om arbetsgivaravgifter på ersättningar som betalas ut efter utgången av år 2001.
+
+3. Bestämmelserna i 6 § tillämpas första gången vid 2003 års taxering.
+
+**2002:1007**
+
+Denna lag träder i kraft den 1 januari 2003. Bestämmelserna tillämpas i fråga om arbetsgivaravgifter på ersättningar som betalas ut efter utgången av år 2002 och i fråga om egenavgifter första gången vid 2004 års taxering.
+
+**2006:1348**
+
+1. Denna lag träder i kraft den 1 januari 2007.
+
+2. I fråga om ersättning som betalas ut respektive inkomst som uppbärs före den 1 januari 2007 tillämpas bestämmelsen i 2 § i sin äldre lydelse.
+
+3. I fråga om ersättning som betalas ut respektive inkomst som uppbärs under år 2007 tillämpas bestämmelserna i 5 och 6 §§ i sina äldre lydelser med iakttagande av övergångsbestämmelserna till lagen (2006:1345) om ändring i socialavgiftslagen (2000:980). Vid tillämpningen av bestämmelserna i 5 och 6 §§ skall den allmänna löneavgiften också ingå i avgiftsberäkningen på så sätt att avdraget görs från summan av avgifterna.
+
+Avdraget skall i första hand göras från den allmänna löneavgiften. När avdraget görs från egenavgifterna får det inte medföra att egenavgifterna understiger ålderspensionsavgiften enligt 3 kap. 13 § socialavgiftslagen.
+
+*Lag (2007:286)*.
+
+4. Bestämmelserna i 5 och 6 §§ i sina nya lydelser samt den nya bestämmelsen i 6 a § tillämpas första gången på ersättning som betalas ut respektive inkomst som uppbärs under år 2008.
+
+**2007:286**
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. Bestämmelserna i 1 och 2 §§ samt punkt 3 i övergångsbestämmelserna till lagen (2006:1348) om ändring i lagen (2001:1170) om särskilda avdrag i vissa fall vid avgiftsberäkningen enligt socialavgiftslagen (2000:980) tillämpas på ersättning som betalas ut respektive inkomst som uppbärs efter den 30 juni 2007.
+
+3. Bestämmelserna i 5-6 a §§ i sina nya lydelser tillämpas första gången på ersättning som betalas ut respektive inkomst som uppbärs under år 2008.
+
+**2008:1268**
+
+1. Denna lag träder i kraft den 1 januari 2009.
+
+2. De nya bestämmelserna tillämpas på ersättning som betalas ut efter den 31 december 2008.
+
+**2015:180**
+
+1. Denna lag träder i kraft den 1 maj 2015.
+
+2. Bestämmelserna i 2 § första stycket och 5 § i den nya lydelsen tillämpas på ersättning som betalas ut efter den 30 april 2015.
+
+3. Bestämmelsen i 2 § andra stycket i den nya lydelsen tillämpas på inkomst som uppbärs efter den 30 april 2015.
+
+Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 30 april 2015 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+**2015:475**
+
+1. Denna lag träder i kraft den 1 augusti 2015.
+
+2. Bestämmelserna i 2 och 5 §§ i den nya lydelsen tillämpas på ersättning som betalas ut efter den 31 juli 2015.
+
+**2019:480**
+
+1. Denna lag träder i kraft den 1 augusti 2019.
+
+2. Lagen tillämpas på ersättning som utges efter den 31 juli 2019.
+
+**2020:1061**
+
+1. Denna lag träder i kraft den 1 januari 2021.
+
+2. Lagen tillämpas på ersättning som utges från och med den 1 januari 2021.
+
+**2021:56**
+
+1. Denna lag träder i kraft den 6 februari 2021.
+
+2. Lagen tillämpas på ersättning som utges efter den 31 december 2020.
+
+**2023:752**
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Äldre bestämmelser gäller fortfarande för ersättning som utges före ikraftträdandet.
+
+**2023:791**
+
+1. Denna lag träder i kraft den 1 januari 2024.
+
+2. Äldre bestämmelser gäller fortfarande för ersättning som utges före ikraftträdandet.
+
+**2025:1338**
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Bestämmelserna i 2 och 4 §§ i den nya lydelsen och de nya bestämmelserna i 6 b § tillämpas första gången på ersättning som ges ut efter den 31 december 2025.
+
+3. Bestämmelserna i 4 § i den nya lydelsen tillämpas första gången på inkomster som uppbärs efter den 31 december 2025. Omfattar beskattningsåret tid såväl före som efter ikraftträdandet ska, om den avgiftsskyldige inte visar annat, så stor del av beskattningsårets inkomst anses hänförlig till tiden efter den 31 december 2025 som svarar mot förhållandet mellan den del av beskattningsåret som infaller under denna tid och hela beskattningsåret.
+
+4. Äldre bestämmelser i 2 och 4 §§ gäller fortfarande för ersättning som getts ut och för inkomster som uppburits före ikraftträdandet.
+
+### Bilaga
+
+### Stödområde
+
+Norrbottens län: Arvidsjaurs, Arjeplogs, Gällivare, Haparanda, Jokkmokks, Kalix, Kiruna, Pajala, Älvsbyns, Överkalix och Övertorneå kommuner samt Edefors och Gunnarsbyns församlingar i Bodens kommun och f.d. Markbygdens kyrkobokföringsdistrikt i Piteå kommun.
+
+Västerbottens län: Bjurholms, Dorotea, Lycksele, Malå, Norsjö, Sorsele, Storumans, Vilhelmina, Vindelns och Åsele kommuner samt Fällfors, Jörns och Kalvträsks församlingar i Skellefteå kommun.
+
+Jämtlands län: Bergs, Bräcke, Härjedalens, Krokoms, Ragunda, Strömsunds, Åre och Östersunds kommuner.
+
+Västernorrlands län: Sollefteå och Ånge kommuner, Holms och Lidens församlingar i Sundsvalls kommun samt Anundsjö, Björna, Skorpeds och Trehörningsjö församlingar i Örnsköldsviks kommun.
+
+Gävleborgs län: Ljusdals kommun.
+
+Dalarnas län: Malung-Sälens, Orsa, Vansbro och Älvdalens kommuner samt Venjans och Våmhus församlingar i Mora kommun.
+
+Värmlands län: Torsby kommun.
+
+Med församlingar avses de territoriella församlingar som fanns den 31 december 1999.
+
+*Lag (2007:1379)*.

@@ -1,0 +1,105 @@
+---
+title: "Förordning (1984:535) om statliga myndigheters lån av konstföremål för lokalutsmyckning"
+identifier: "SFS 1984:535"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1984-06-07
+amended_through: "SFS 2025:1538"
+department: "Finansdepartementet OU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-535.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:535"
+retrieved: 2026-10-11
+---
+# Förordning (1984:535) om statliga myndigheters lån av konstföremål för lokalutsmyckning
+
+### Tillämpningsområde
+
+#### 1 §
+
+I denna förordning finns föreskrifter om rätten för myndigheter under regeringen att från någon annan än staten låna in konstföremål för tillfälliga eller permanenta utställningar eller annars för utsmyckning av sina lokaler.
+
+Med lån avses också deposition och hyra.
+
+#### 2 §
+
+Förordningen tillämpas inte på den verksamhet som bedrivs av
+
+- museer,
+
+- bibliotek,
+
+- vetenskapliga institutioner,
+
+- andra myndigheter med uppgift att främja kulturhistoria eller att förvärva, vårda, bevara, vetenskapligt bearbeta eller ställa ut konstverk eller andra föremål av konstnärligt, vetenskapligt eller liknande allmänt intresse.
+
+*Förordning (2025:1538)*.
+
+#### 3 §
+
+Förordningen ska inte heller tillämpas i de fall där ersättning betalas eller ska betalas enligt avtalet om upphovspersoners rätt till medverkans- och utställningsersättning (MU-avtalet). *Förordning (2025:725)*.
+
+### Långivare
+
+#### 4 §
+
+Som långivare får förekomma enbart
+
+- kommuner, regioner, kommunalförbund, församlingar eller kyrkliga samfälligheter,
+
+- sådana stiftelser eller ekonomiska och ideella föreningar som har till ändamål att främja kulturhistoria eller konst genom att förvärva, vårda, bevara, vetenskapligt bearbeta eller ställa ut konstföremål. *Förordning (2019:1007)*.
+
+### Låneavtal
+
+#### 5 §
+
+Vid varje låneuppgörelse skall myndigheten på statens vägnar träffa ett skriftligt avtal med långivaren om de villkor som gäller för lånet.
+
+### Ansvar
+
+#### 6 §
+
+I låneavtalet skall anges att staten ersätter långivaren för skador på konstföremålen i de fall där myndigheten inte kan visa att skadorna ej beror på försummelse av myndigheten eller av någon som myndigheten svarar för.
+
+#### 7 §
+
+Myndigheten får inte ikläda staten mer vittgående skadeståndsansvar än som framgår av 6 §.
+
+I låneavtalet skall också anges att myndigheten genom avtalet inte ikläder staten något skadeståndsansvar för andra fall än som avses i 6 §.
+
+### Värdering
+
+#### 8 §
+
+I låneavtalet skall anges värdet på varje konstföremål.
+
+#### 9 §
+
+Kan parterna inte enas om värdet, skall den låntagande myndigheten låta värdera föremålet.
+
+#### 10 §
+
+Om det finns skäl att anta att ett konstföremåls värde väsentligt har förändrats under lånetiden, bör en ny värdering ske.
+
+#### 11 §
+
+Kostnaden för värderingen får, om den inte betalas av föremålets ägare eller annars av någon annan än den låntagande myndigheten, betalas av medel till förvaltningskostnader eller andra medel som myndigheten disponerar.
+
+### Inventarieförteckning
+
+#### 12 §
+
+Varje myndighet ska föra en förteckning över inlånade konstföremål.
+
+Förteckningen ska innehålla samtliga uppgifter som finns i låneavtalen. *Förordning (2025:725)*.
+
+## Övergångsbestämmelser
+
+**1984:535**
+
+1. Denna förordning träder i kraft den 1 juli 1984.
+
+2. Myndigheter, som tidigare har slutit låneavtal med andra långivare än som avses i 4 §, skall säga upp dessa avtal. Andra äldre låneavtal skall antingen ändras så, att de stämmer överens med de nya föreskrifterna, eller sägas upp. Dessa åtgärder -- och i förekommande fall återställandet av konstföremålen -- skall genomföras före utgången av juni 1985.
+
+3. Myndigheterna skall före utgången av år 1985 till civildepartementet lämna en redogörelse för sådana äldre fall där de i 2 nämnda åtgärderna inte har kunnat komma till stånd.

@@ -1,0 +1,62 @@
+---
+title: "Förordning (1980:995) om skyldighet för Försäkringskassan och Pensionsmyndigheten att lämna uppgifter till andra myndigheter"
+identifier: "SFS 1980:995"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1980-12-04
+amended_through: "SFS 2024:15"
+reprinted: "SFS 1981:429"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1980-995.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1980:995"
+retrieved: 2026-10-11
+---
+# Förordning (1980:995) om skyldighet för Försäkringskassan och Pensionsmyndigheten att lämna uppgifter till andra myndigheter
+
+## 1 §
+
+Utöver vad som annars följer av lag eller förordning är Försäkringskassan och Pensionsmyndigheten skyldiga att lämna uppgifter till andra myndigheter enligt denna förordning.
+
+*Förordning (2009:1180)*.
+
+## 2 §
+
+Försäkringskassan och Pensionsmyndigheten ska på begäran lämna uppgifter om enskilda till domstol, Statens tjänstepensionsverk eller en arbetsmarknadsmyndighet, om uppgifterna behövs där i ärenden enligt socialförsäkringsbalken eller annan jämförbar lagstiftning om ekonomisk förmån för enskilda eller enligt lagen (1991:1047) om sjuklön eller lagen (1993:16) om försäkring mot vissa semesterlönekostnader. *Förordning (2010:1659)*.
+
+## 3 §
+
+Försäkringskassan och Pensionsmyndigheten ska på begäran lämna uppgifter om enskildas adress, deras arbetsgivares namn och adress samt enskildas ekonomiska förhållanden och den tidsperiod en utgiven ersättning avser till följande myndigheter, om uppgifterna behövs i ärenden där:
+
+1. Polismyndigheten,
+
+2. Säkerhetspolisen,
+
+3. åklagarmyndighet,
+
+4. Kronofogdemyndigheten,
+
+5. Skatteverket,
+
+6. Brottsoffermyndigheten,
+
+7. socialnämnd,
+
+8. Kriminalvården,
+
+9. studiestödsmyndighet,
+
+10. myndighet som har hand om ärenden om bostadsbidrag,
+
+11. offentlig sjukvårdshuvudman när det gäller ärenden om avgift för vård på enskild sjukvårdsinrättning,
+
+12. Migrationsverket.
+
+Försäkringskassan ska på begäran lämna den myndighet som handlägger ärenden enligt lagen (1994:1811) om disciplinansvar inom totalförsvaret, m.m. uppgift om en enskilds dagpenning enligt 2 kap. 2 § förordningen (1995:239) om förmåner till totalförsvarspliktiga, om uppgiften behövs i ett ärende där.
+
+*Förordning (2020:50)*.
+
+## 4 §
+
+Försäkringskassan och Pensionsmyndigheten ska på begäran lämna de uppgifter till Inspektionen för socialförsäkringen som inspektionen behöver för sin systemtillsyn och effektivitetsgranskning enligt 2 § första stycket 1 och 2 och 3 § förordningen (2009:602) med instruktion för Inspektionen för socialförsäkringen. *Förordning (2024:15)*.

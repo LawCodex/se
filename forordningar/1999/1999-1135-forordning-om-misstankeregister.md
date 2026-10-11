@@ -1,0 +1,535 @@
+---
+title: "Förordning (1999:1135) om misstankeregister"
+identifier: "SFS 1999:1135"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1999-12-02
+amended_through: "SFS 2026:1759"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-1135.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:1135"
+retrieved: 2026-10-11
+---
+# Förordning (1999:1135) om misstankeregister
+
+#### 1 §
+
+Med misstankeregister avses i denna förordning det register som förs med stöd av lagen (1998:621) om misstankeregister.
+
+### Misstankeregistrets innehåll
+
+#### 2 §
+
+*/Upphör att gälla U:2031-09-10/* Om förutsättningarna för registrering enligt 3 eller 3 a § lagen (1998:621) om misstankeregister är uppfyllda, ska registret innehålla uppgifter om
+
+1. namn, personnummer eller samordningsnummer och andra identitetsuppgifter,
+
+2. de brott som misstanken avser,
+
+3. ärendenummer och vid vilken myndighet som ärendet handläggs, och
+
+4. beslut om strafförelägganden, beslut att väcka åtal eller talan om förvandling av böter.
+
+Detta gäller dock inte om ärendet förs i diarium som avses i 3 § offentlighets- och sekretessförordningen (2009:641).
+
+*Förordning (2026:1568)*.
+
+#### 2 §
+
+*/Träder i kraft I:2031-09-10/* Om förutsättningarna för registrering enligt 3 § lagen (1998:621) om misstankeregister är uppfyllda, ska registret innehålla uppgifter om
+
+1. namn, personnummer eller samordningsnummer och andra identitetsuppgifter,
+
+2. de brott som misstanken avser,
+
+3. ärendenummer och vid vilken myndighet som ärendet handläggs, och
+
+4. beslut om strafförelägganden, beslut att väcka åtal eller talan om förvandling av böter.
+
+Detta gäller dock inte om ärendet förs i diarium som avses i 3 § offentlighets- och sekretessförordningen (2009:641). *Förordning (2026:1569)*.
+
+### Rätt att få uppgifter ur registret
+
+### Myndigheter som har rätt att få fullständiga uppgifter
+
+#### 3 §
+
+Uppgifter ur misstankeregistret ska lämnas ut om det begärs av
+
+1. det statsråd som är föredragande i ärenden enligt lagen (2022:700) om särskild kontroll av vissa utlänningar, i ärenden om utlämning för brott, i ärenden om nåd i brottmål eller i andra ärenden enligt 12 kap. 9 § regeringsformen eller i ärenden om överförande av straffverkställighet enligt lagen (2025:520) om internationell verkställighet i brottmål, eller den statsrådet bemyndigar, för utredning i ett sådant ärende och i fråga om den som ärendet gäller,
+
+2. en åklagarmyndighet, i ärenden där en prövning ska göras, i fråga om den som prövningen gäller,
+
+3. Säkerhetspolisen, i ärenden om anställning eller uppdrag vid myndigheten,
+
+4. Tullverket i tillståndsärenden och andra ärenden där en lämplighetsprövning ska göras, i fråga om den som prövningen gäller,
+
+5. en länsstyrelse, i fråga om den som ärendet gäller, om inte annat anges, i ärenden
+
+a) där länsstyrelsen enligt lag eller förordning ska hämta in sådana uppgifter,
+
+b) där länsstyrelsen ska göra en lämplighetsprövning,
+
+c) om godkännande och tillsyn enligt förordningen (1989:149) om bevakningsföretag m.m.,
+
+d) om godkännande av skyddsvakt enligt skyddsförordningen (2010:523),
+
+e) om godkännande och tillsyn enligt förordningen (2011:155) om auktorisation av delgivningsföretag, och
+
+f) om auktorisation enligt förordningen om auktorisation av delgivnings företag, i fråga om personer som anges i 4 § första stycket 1 och 2 i den förordningen,
+
+6. Transportstyrelsen, i fråga om den som myndigheten vid lämplighetsprövning enligt lagen (1998:493) om trafikskolor och förordningen (1998:978) om trafikskolor överväger att ge tillstånd eller godkänna samt i ärenden om körkortstillstånd, körkort, traktorkort, taxiförarlegitimation, tillstånd till yrkesmässig trafik eller taxitrafik, biluthyrning och transporttillstånd eller tillstånd för att få driva en redovisningscentral eller en beställningscentral för taxitrafik, i fråga om den som ärendet gäller,
+
+7. det statsråd som är föredragande i ärenden enligt lagen (2001:82) om svenskt medborgarskap, eller den statsrådet bemyndigar, för utredning i ett sådant ärende, i fråga om den som ärendet gäller,
+
+8. Migrationsverket, i fråga om den som ärendet gäller, i ärenden enligt
+
+a) lagen om svenskt medborgarskap,
+
+b) utlänningslagen (2005:716),
+
+c) lagen om särskild kontroll av vissa utlänningar,
+
+d) förordningen (2025:970) om återvandringsbidrag för vissa utlänningar,
+
+e) Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU, eller
+
+f) Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU,
+
+9. en passmyndighet utom riket i passärenden, i fråga om den som ärendet gäller,
+
+10. en migrationsdomstol eller Migrationsöverdomstolen, i mål om upphävande av allmän domstols beslut om utvisning på grund av brott enligt utlänningslagen, i fråga om den som ärendet gäller,
+
+11. en åklagarmyndighet eller allmän domstol i ett ärende enligt lagen (2017:1000) om en europeisk utredningsorder, och
+
+12. en åklagarmyndighet i ett ärende enligt Europaparlamentets och rådets förordning (EU) 2018/1805 av den 14 november 2018 om ömsesidigt erkännande av beslut om frysning och beslut om förverkande. *Förordning (2026:1175)*.
+
+### Myndigheter som har rätt att få uppgifter om brott för vilket åtal väckts
+
+#### 4 §
+
+*/Upphör att gälla U:2026-11-20/* En uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av
+
+1. Justitiekanslern, i fråga om den som ansöker om ersättning enligt lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder,
+
+2. Kriminalvården, i fråga om den som myndigheten avser att anställa eller anlita som
+
+a) övervakare,
+
+b) förtroendeman enligt lagen (1991:2041) om särskild personutredning i brottmål, m.m. eller fängelseförordningen (2010:2010),
+
+c) personutredare enligt lagen om särskild personutredning i brottmål, m.m.,
+
+d) biträde enligt 3 kap. 1 § andra stycket lagen (2025:1053) om verkställighet av fängelsestraff med elektronisk övervakning, 33 § fängelseförordningen eller 21 a § lagen (2020:616) om verkställighet av ungdomsövervakning,
+
+e) kontrollör enligt 3 kap. 4 § förordningen (1998:642) om verkställighet av frivårdspåföljder, eller
+
+f) särskild koordinator eller biträdande koordinator enligt 8 § lagen om verkställighet av ungdomsövervakning,
+
+3. Kriminalvården, när uppgiften behövs för prövning av en fråga enligt fängelselagen (2010:610), häkteslagen (2010:611), lagen om särskild personutredning i brottmål, m.m., lagen om verkställighet av ungdomsövervakning, lagen om verkställighet av fängelsestraff med elektronisk övervakning, lagen (2026:252) om verkställighet av säkerhetsförvaring, förord- ningen om verkställighet av frivårdspåföljder eller fängelse- förordningen,
+
+4. en övervakningsnämnd eller Kriminalvården, i ärenden om övervakning, i fråga om den som ärendet gäller,
+
+5. Riksbanken, i fråga om den som banken avser att anställa som bevaknings- eller transportpersonal,
+
+6. en statlig eller kommunal myndighet som beslutar om anställning av personal inom psykiatrisk sjukvård, vård av utvecklingsstörda, vård av barn och ungdom eller tvångsvård av missbrukare, i fråga om den som myndigheten avser att anställa eller anlita som uppdragstagare,
+
+7. Myndigheten för civilt försvar eller en kommun, i fråga om den som myndigheten eller kommunen lämplighetsprövar enligt 19 § lagen (2010:1011) om brandfarliga och explosiva varor,
+
+8. en socialnämnd, i ärenden om
+
+a) att utse kontaktperson eller kontaktfamilj enligt 13 kap. 7 § socialtjänstlagen (2025:400) för en person som inte har fyllt 21 år,
+
+b) vårdnad, boende eller umgänge enligt 6 kap. föräldrabalken samt beslut om vård eller medgivande att ta emot barn m.m. enligt 18 kap. 11 § och 22 kap. 2, 4, 13, 14 och 16 §§ socialtjänstlagen,
+
+c) adoption enligt 24 kap. 1, 4 och 5 §§ socialtjänstlagen,
+
+d) att utreda barns behov av skydd eller stöd enligt socialtjänstlagen,
+
+e) åtgärder enligt lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga eller lagen (2024:79) om placering av barn i skyddat boende, eller
+
+f) att utse särskild handläggare enligt 9 § lagen om verkställighet av ungdomsövervakning,
+
+9. Transportstyrelsen, i fråga om den som myndigheten vid lämplighetsprövning
+
+a) enligt luftfartslagen (2010:500) och luftfartsförordningen (2010:770) överväger att ge certifikat eller tillstånd, eller
+
+b) enligt 4 § lagen (1990:1157) om säkerhet vid tunnelbana och spårväg, 2 kap. 2 § järnvägsmarknadslagen (2022:365), 3 kap. 3 och 7 §§ järnvägssäkerhetslagen (2022:367) eller 4 kap. 2 och 5 §§ lagen (2022:368) om nationella järnvägssystem överväger att ge tillstånd,
+
+10. Finansinspektionen, i fråga om den som myndigheten lämplighetsprövar enligt
+
+a) lagen (1996:1006) om viss finansiell verksamhet,
+
+b) lagen (2004:46) om värdepappersfonder,
+
+c) lagen (2004:297) om bank- och finansieringsrörelse,
+
+d) lagen (2007:528) om värdepappersmarknaden,
+
+e) lagen (2010:751) om betaltjänster,
+
+f) försäkringsrörelselagen (2010:2043),
+
+g) lagen (2011:755) om elektroniska pengar,
+
+h) lagen (2013:561) om förvaltare av alternativa investeringsfonder,
+
+i) lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag,
+
+j) lagen (2016:1024) om verksamhet med bostadskrediter,
+
+k) lagen (2019:742) om tjänstepensionsföretag,
+
+l) lagen (2023:714) om förvärv och förvaltning av nödlidande kreditavtal,
+
+m) lagen (2024:114) om clearing och avveckling av betalningar,
+
+n) Europaparlamentets och rådets förordning (EU) nr 648/2012 av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister,
+
+o) Europaparlamentets och rådets förordning (EU) nr 909/2014 av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 236/2012, eller
+
+p) Europaparlamentets och rådets förordning (EU) 2023/1114 av den 31 maj 2023 om marknader för kryptotillgångar och om ändring av förordningarna (EU) nr 1093/2010 och (EU) nr 1095/2010 samt direktiven 2013/36/EU och (EU) 2019/1937,
+
+11. Fastighetsmäklarinspektionen, vid en redbarhets- och lämplighetsprövning av en fastighetsmäklare enligt fastighetsmäklarlagen (2021:516),
+
+12. Kammarkollegiet, i fråga om den som myndigheten vid prövning enligt förordningen (1985:613) om auktorisation av tolkar och översättare avser att auktorisera,
+
+13. Revisorsinspektionen, i fråga om den som myndigheten vid lämplighetsprövning enligt revisorslagen (2001:883) överväger att auktorisera eller godkänna,
+
+14. Skatteverket, för prövning av upplagshavare, skatteupplag och registrerade varumottagare enligt lagen (1994:1776) om skatt på energi, lagen (2022:155) om tobaksskatt eller lagen (2022:156) om alkoholskatt, skattebefriade förbrukare enligt lagen om skatt på energi eller lagen om alkoholskatt samt lagerhållare enligt lagen om skatt på energi, lagen (2018:696) om skatt på vissa nikotinhaltiga produkter eller lagen om tobaksskatt,
+
+15. Försvarsmakten, i fråga om dels totalförsvarspliktiga som är inskrivna för värnplikt enligt lagen (1994:1809) om totalförsvarsplikt, dels dem som Försvarsmakten avser att anta eller som är antagna till militär utbildning inom myndigheten,
+
+16. Försvarsmakten, i fråga om den som myndigheten avser att anställa för tjänstgöring i internationella militära insatser,
+
+17. Läkemedelsverket, i fråga om den som myndigheten överväger att ge tillstånd enligt 2 kap. 1 § lagen (2009:366) om handel med läkemedel eller lagen (1992:860) om kontroll av narkotika,
+
+18. Kronofogdemyndigheten, för utredning i ärenden enligt skuldsaneringslagen (2016:675) eller lagen (2016:676) om skuldsanering för företagare, i fråga om den som ärendet gäller,
+
+19. Riksgäldskontoret, i fråga om den som myndigheten överväger att betala ut ersättning till enligt lagen (1999:158) om investerarskydd,
+
+20. Rättsmedicinalverket, när uppgiften behövs för prövning enligt häkteslagen av om ett besök eller elektronisk kommunikation kan tillåtas eller ska kontrolleras,
+
+21. Migrationsverket, i fråga om den som myndigheten avser att anställa eller anlita inom förvarsverksamheten,
+
+22. Statens institutionsstyrelse, när uppgiften behövs för prövning enligt lagen med särskilda bestämmelser om vård av unga av om ett besök eller elektronisk kommunikation kan tillåtas eller ska begränsas eller kontrolleras,
+
+23. allmän domstol eller allmän förvaltningsdomstol, i fråga om en nämndeman som ska påbörja en tjänstgöringsperiod i domstolen,
+
+24. Domstolsverket, allmän domstol eller allmän förvaltningsdomstol i fråga om den som myndigheten avser att anställa, och
+
+25. en åklagarmyndighet, i fråga om den som myndigheten avser att anställa. *Förordning (2026:1568)*.
+
+#### 4 §
+
+*/Träder i kraft I:2026-11-20/* En uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av
+
+1. Justitiekanslern, i fråga om den som ansöker om ersättning enligt lagen (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder,
+
+2. Kriminalvården, i fråga om den som myndigheten avser att anställa eller anlita som
+
+a) övervakare,
+
+b) förtroendeman enligt lagen (1991:2041) om särskild personutredning i brottmål, m.m. eller fängelseförordningen (2010:2010),
+
+c) personutredare enligt lagen om särskild personutredning i brottmål, m.m.,
+
+d) biträde enligt 3 kap. 1 § andra stycket lagen (2025:1053) om verkställighet av fängelsestraff med elektronisk övervakning, 33 § fängelseförordningen eller 21 a § lagen (2020:616) om verkställighet av ungdomsövervakning,
+
+e) kontrollör enligt 3 kap. 4 § förordningen (1998:642) om verkställighet av frivårdspåföljder, eller
+
+f) särskild koordinator eller biträdande koordinator enligt 8 § lagen om verkställighet av ungdomsövervakning,
+
+3. Kriminalvården, när uppgiften behövs för prövning av en fråga enligt fängelselagen (2010:610), häkteslagen (2010:611), lagen om särskild personutredning i brottmål, m.m., lagen om verkställighet av ungdomsövervakning, lagen om verkställighet av fängelsestraff med elektronisk övervakning, lagen (2026:252) om verkställighet av säkerhetsförvaring, förordningen om verkställighet av frivårdspåföljder eller fängelseförordningen,
+
+4. en övervakningsnämnd eller Kriminalvården, i ärenden om övervakning, i fråga om den som ärendet gäller,
+
+5. Riksbanken, i fråga om den som banken avser att anställa som bevaknings- eller transportpersonal,
+
+6. en statlig eller kommunal myndighet som beslutar om anställning av personal inom psykiatrisk sjukvård, vård av utvecklingsstörda, vård av barn och ungdom eller tvångsvård av missbrukare, i fråga om den som myndigheten avser att anställa eller anlita som uppdragstagare,
+
+7. Myndigheten för civilt försvar eller en kommun, i fråga om den som myndigheten eller kommunen lämplighetsprövar enligt 19 § lagen (2010:1011) om brandfarliga och explosiva varor,
+
+8. en socialnämnd, i ärenden om
+
+a) att utse kontaktperson eller kontaktfamilj enligt 13 kap. 7 § socialtjänstlagen (2025:400) för en person som inte har fyllt 21 år,
+
+b) vårdnad, boende eller umgänge enligt 6 kap. föräldrabalken samt beslut om vård eller medgivande att ta emot barn m.m. enligt 18 kap. 11 § och 22 kap. 2, 4, 13, 14 och 16 §§ socialtjänstlagen,
+
+c) adoption enligt 24 kap. 1, 4 och 5 §§ socialtjänstlagen,
+
+d) att utreda barns behov av skydd eller stöd enligt socialtjänstlagen,
+
+e) åtgärder enligt lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga eller lagen (2024:79) om placering av barn i skyddat boende, eller
+
+f) att utse särskild handläggare enligt 9 § lagen om verkställighet av ungdomsövervakning,
+
+9. Transportstyrelsen, i fråga om den som myndigheten vid lämplighetsprövning
+
+a) enligt luftfartslagen (2010:500) och luftfartsförordningen (2010:770) överväger att ge certifikat eller tillstånd, eller
+
+b) enligt 4 § lagen (1990:1157) om säkerhet vid tunnelbana och spårväg, 2 kap. 2 § järnvägsmarknadslagen (2022:365), 3 kap. 3 och 7 §§ järnvägssäkerhetslagen (2022:367) eller 4 kap. 2 och 5 §§ lagen (2022:368) om nationella järnvägssystem överväger att ge tillstånd,
+
+10. Finansinspektionen, i fråga om den som myndigheten lämplighetsprövar enligt
+
+a) lagen (1996:1006) om viss finansiell verksamhet,
+
+b) lagen (2004:46) om värdepappersfonder,
+
+c) lagen (2004:297) om bank- och finansieringsrörelse,
+
+d) lagen (2007:528) om värdepappersmarknaden,
+
+e) lagen (2010:751) om betaltjänster,
+
+f) försäkringsrörelselagen (2010:2043),
+
+g) lagen (2011:755) om elektroniska pengar,
+
+h) lagen (2013:561) om förvaltare av alternativa investeringsfonder,
+
+i) lagen (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag,
+
+j) lagen (2016:1024) om verksamhet med bostadskrediter och vissa andra konsumentkrediter,
+
+k) lagen (2019:742) om tjänstepensionsföretag,
+
+l) lagen (2023:714) om förvärv och förvaltning av nödlidande kreditavtal,
+
+m) lagen (2024:114) om clearing och avveckling av betalningar,
+
+n) Europaparlamentets och rådets förordning (EU) nr 648/2012 av den 4 juli 2012 om OTC-derivat, centrala motparter och transaktionsregister,
+
+o) Europaparlamentets och rådets förordning (EU) nr 909/2014 av den 23 juli 2014 om förbättrad värdepappersavveckling i Europeiska unionen och om värdepapperscentraler samt ändring av direktiv 98/26/EG och 2014/65/EU och förordning (EU) nr 236/2012, eller
+
+p) Europaparlamentets och rådets förordning (EU) 2023/1114 av den 31 maj 2023 om marknader för kryptotillgångar och om ändring av förordningarna (EU) nr 1093/2010 och (EU) nr 1095/2010 samt direktiven 2013/36/EU och (EU) 2019/1937,
+
+11. Fastighetsmäklarinspektionen, vid en redbarhets- och lämplighetsprövning av en fastighetsmäklare enligt fastighetsmäklarlagen (2021:516),
+
+12. Kammarkollegiet, i fråga om den som myndigheten vid prövning enligt förordningen (1985:613) om auktorisation av tolkar och översättare avser att auktorisera,
+
+13. Revisorsinspektionen, i fråga om den som myndigheten vid lämplighetsprövning enligt revisorslagen (2001:883) överväger att auktorisera eller godkänna,
+
+14. Skatteverket, för prövning av upplagshavare, skatteupplag och registrerade varumottagare enligt lagen (1994:1776) om skatt på energi, lagen (2022:155) om tobaksskatt eller lagen (2022:156) om alkoholskatt, skattebefriade förbrukare enligt lagen om skatt på energi eller lagen om alkoholskatt samt lagerhållare enligt lagen om skatt på energi, lagen (2018:696) om skatt på vissa nikotinhaltiga produkter eller lagen om tobaksskatt,
+
+15. Försvarsmakten, i fråga om dels totalförsvarspliktiga som är inskrivna för värnplikt enligt lagen (1994:1809) om totalförsvarsplikt, dels dem som Försvarsmakten avser att anta eller som är antagna till militär utbildning inom myndigheten,
+
+16. Försvarsmakten, i fråga om den som myndigheten avser att anställa för tjänstgöring i internationella militära insatser,
+
+17. Läkemedelsverket, i fråga om den som myndigheten överväger att ge tillstånd enligt 2 kap. 1 § lagen (2009:366) om handel med läkemedel eller lagen (1992:860) om kontroll av narkotika,
+
+18. Kronofogdemyndigheten, för utredning i ärenden enligt skuldsaneringslagen (2016:675) eller lagen (2016:676) om skuldsanering för företagare, i fråga om den som ärendet gäller,
+
+19. Riksgäldskontoret, i fråga om den som myndigheten överväger att betala ut ersättning till enligt lagen (1999:158) om investerarskydd,
+
+20. Rättsmedicinalverket, när uppgiften behövs för prövning enligt häkteslagen av om ett besök eller elektronisk kommunikation kan tillåtas eller ska kontrolleras,
+
+21. Migrationsverket, i fråga om den som myndigheten avser att anställa eller anlita inom förvarsverksamheten,
+
+22. Statens institutionsstyrelse, när uppgiften behövs för prövning enligt lagen med särskilda bestämmelser om vård av unga av om ett besök eller elektronisk kommunikation kan tillåtas eller ska begränsas eller kontrolleras,
+
+23. allmän domstol eller allmän förvaltningsdomstol, i fråga om en nämndeman som ska påbörja en tjänstgöringsperiod i domstolen,
+
+24. Domstolsverket, allmän domstol eller allmän förvaltningsdomstol i fråga om den som myndigheten avser att anställa, och
+
+25. en åklagarmyndighet, i fråga om den som myndigheten avser att anställa. *Förordning (2026:1759)*.
+
+### Myndigheter som har rätt att få uppgifter om vissa misstankar
+
+#### 4 a §
+
+Uppgifter ur misstankeregistret ska, i den utsträckning som anges i andra stycket, lämnas ut om det begärs av Migrationsverket i ärenden
+
+1. om uppehållstillstånd enligt 5 kap. 3 § 1, 3 a § tredje stycket 1 eller 3 f § första eller andra stycket utlänningslagen (2005:716), i fråga om någon annan än den som ärendet gäller,
+
+2. om uppehållstillstånd enligt 4 kap. 4 a, 4 b eller 5 c § eller 4 a kap. 6 § utlänningsförordningen (2006:97), i fråga om den som ärendet gäller eller någon annan när uppgiften behövs för utredningen, och
+
+3. om arbetstillstånd enligt 6 kap. 2 § första stycket utlänningslagen, i fråga om arbetsgivare eller, om arbetsgivaren är en juridisk person, styrelseledamot, verkställande direktör, firmatecknare eller verklig huvudman för den juridiska personen.
+
+Uppgifter enligt första stycket 1 och 2 ska begränsas till uppgifter om misstanke som avser brott enligt 3, 4 eller 6 kap. eller 16 kap. 10 a § brottsbalken. Uppgifter enligt första stycket 3 ska begränsas till uppgifter om misstanke som avser brott enligt 20 kap. utlänningslagen eller 4 kap. 1 a eller 1 b § brottsbalken. *Förordning (2026:1745)*.
+
+#### 4 b §
+
+Uppgifter ur misstankeregistret ska, i den utsträckning som anges i andra stycket, lämnas ut om det begärs av Statens skolinspektion eller en kommunal myndighet i ärenden om godkännande som enskild huvudman enligt skollagen (2010:800), i fråga om den som myndigheten överväger att godkänna som huvudman och sådana personer som avses i 2 kap. 5 a § och 25 kap. 10 a § den lagen.
+
+Uppgifter enligt första stycket ska begränsas till uppgifter om misstanke om brott för vilket åtal har väckts och som avser brott enligt 3, 4, 6, 8-11, 13-17 eller 20 kap. brottsbalken, 1 § andra stycket eller 4 a § lagen (1951:649) om straff för vissa trafikbrott, narkotikastrafflagen (1968:64), skattebrottslagen (1971:69), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1992:860) om kontroll av narkotika, lagen (1999:42) om förbud mot vissa hälsofarliga varor, 5 eller 6 § lagen (2000:1225) om straff för smuggling, bidragsbrottslagen (2007:612), 11 kap. 4 § alkohollagen (2010:1622), lagen (2014:307) om straff för penningtvättsbrott, 19 kap. 1, 2 eller 3 § spellagen (2018:1138) eller terroristbrottslagen (2022:666) eller motsvarande äldre lag. *Förordning (2026:761)*.
+
+### Uppgifter för prövning av ett meddelat tillstånd
+
+#### 5 §
+
+En myndighet som enligt 3, 4, 4 a eller 4 b § har rätt att få uppgifter ur misstankeregistret vid tillståndsgivning eller godkännandet har rätt att få motsvarande uppgifter för prövning av ett meddelat tillstånd, godkännande, certifikat eller en beslutad auktorisation. *Förordning (2026:761)*.
+
+#### 5 a §
+
+Uppgifter ur misstankeregistret ska lämnas ut om det begärs av Tullverket i ärenden där en prövning av ett meddelat tillstånd, godkännande eller certifikat ska göras enligt Europaparlamentets och rådets förordning (EU) nr 952/2013 av den 9 oktober 2013 om fastställande av en tullkodex för unionen och de förordningar som meddelas med stöd av den förordningen. *Förordning (2016:335)*.
+
+### Direktåtkomst
+
+#### 6 §
+
+Säkerhetspolisen, Skatteverket, Tullverket, Kustbevakningen, åklagarmyndigheter, Kriminalvården, Domstolsverket, allmänna domstolar, allmänna förvaltningsdomstolar och Migrationsverket får ha direktåtkomst till uppgifter i misstankeregistret. Direktåtkomsten ska begränsas till att endast gälla sådana uppgifter som myndigheterna har rätt att få ut enligt lagen (1998:621) om misstankeregister eller denna förordning. *Förordning (2025:340)*.
+
+#### 7 §
+
+Transportstyrelsen får ha direktåtkomst till uppgifter ur misstankeregistret i ärenden som rör körkortstillstånd, körkort, traktorkort, taxiförarlegitimation, tillstånd till yrkesmässig trafik eller taxitrafik, biluthyrning och transporttillstånd eller tillstånd för att få driva en redovisningscentral eller en beställningscentral för taxitrafik.
+
+En länsstyrelse får ha direktåtkomst till uppgifter ur misstankeregistret i ärenden om godkännande och tillsyn av personal vid bevakningsföretag, i ärenden enligt förordningen (2011:155) om auktorisation av delgivningsföretag och i ärenden om godkännande av skyddsvakt enligt skyddsförordningen (2010:523).
+
+Direktåtkomsten ska begränsas till att endast gälla sådana uppgifter som myndigheterna har rätt att få ut enligt denna förordning. Åtkomsten får endast omfatta uppgifter om misstanke om brott för vilket åtal har väckts och uppgifter om misstanke om brott i övrigt förekommer. *Förordning (2020:630)*.
+
+### Enskildas rätt att få uppgifter
+
+#### 8 §
+
+Uppgift om misstanke om brott för vilket åtal har väckts skall på begäran lämnas ut om det begärs av
+
+1. ett sådant larminstallationsföretag som avses i lagen (1983:1097) med vissa bestämmelser om larmanläggningar m.m., i fråga om den som företaget avser att anställa eller anlita som uppdragstagare för larminstallationer samt
+
+2. en enskild sammanslutning eller person som beslutar om anställning av personal inom psykiatrisk sjukvård, vård av utvecklingsstörda eller vård av barn och ungdom, i fråga om den som den enskilde avser att anställa eller anlita som uppdragstagare.
+
+#### 8 a §
+
+Uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av en enskild som behöver ett registerutdrag om sig själv enligt bestämmelser i lagen (2007:171) om registerkontroll av personal vid vissa boenden som tar emot barn. Registerutdraget ska endast innehålla uppgifter om brott som avses i 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-2 och 4-5 §§, 6 kap., 8 kap. 5 och 6 §§, 16 kap. 8, 9 och 10 a §§ brottsbalken, narkotikastrafflagen (1968:64), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1999:42) om förbud mot vissa hälsofarliga varor, 6 § lagen (2000:1225) om straff för smuggling och 11 kap. 4 § alkohollagen (2010:1622) samt medverkan och försök till sådana brott. I fråga om brott som avses i 6 kap. brottsbalken, narkotikastrafflagen och lagen om förbud mot vissa dopningsmedel ska utdraget också innehålla uppgifter om förberedelse, stämpling och underlåtenhet att avslöja brott. *Förordning (2015:993)*.
+
+#### 8 b §
+
+Uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av en enskild som behöver ett registerutdrag om sig själv enligt bestämmelser i lagen (2010:479) om registerkontroll av personal som utför vissa insatser åt barn med funktionshinder.
+
+Registerutdraget ska endast innehålla uppgifter om brott som avses i 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-5 och 6 a §§, 6 kap., 8 kap. 5 och 6 §§, 9 kap. 4 §, 13 kap. 1-3 och 5 c §§ och 16 kap. 5 a, 8 och 10 a §§ brottsbalken, narkotikastrafflagen (1968:64), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1999:42) om förbud mot vissa hälsofarliga varor, 6-6 b §§ lagen (2000:1225) om straff för smuggling, 11 kap. 4 § alkohollagen (2010:1622), 29 a § lagen (2010:1011) om brandfarliga och explosiva varor, terroristbrottslagen (2022:666) eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen (2026:408) eller motsvarande äldre lag. *Förordning (2026:436)*.
+
+#### 8 c §
+
+Uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av en enskild som behöver ett registerutdrag om sig själv enligt bestämmelser i lagen (2013:852) om registerkontroll av personer som ska arbeta med barn.
+
+Registerutdraget ska endast innehålla uppgifter om brott som avses i 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-5 och 6 a §§, 6 kap., 8 kap. 5 och 6 §§, 9 kap. 4 §, 13 kap. 1-3 och 5 c §§ och 16 kap. 5 a, 8 och 10 a §§ brottsbalken, narkotikastrafflagen (1968:64), lagen (1991:1969) om förbud mot vissa dopningsmedel, lagen (1999:42) om förbud mot vissa hälsofarliga varor, 6-6 b §§ lagen (2000:1225) om straff för smuggling, 11 kap. 4 § alkohollagen (2010:1622), 29 a § lagen (2010:1011) om brandfarliga och explosiva varor, terroristbrottslagen (2022:666) eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen (2026:408) eller motsvarande äldre lag. *Förordning (2026:436)*.
+
+#### 8 d §
+
+Uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av en enskild som behöver ett registerutdrag om sig själv enligt bestämmelser i lagen (2026:43) om registerkontroll vid arbete i hemmet åt äldre personer eller vuxna personer med funktionsnedsättning.
+
+Registerutdraget ska endast innehålla uppgifter om brott som avses i 3 kap. 1, 2, 5 och 6 §§, 4 kap. 1-2, 4-4 b och 5 §§, 6 kap., 8 kap. 1, 2 och 4-6 §§, 9 kap. 1, 3 och 4 §§ och 16 kap. 8 och 10 a §§ brottsbalken, narkotikastrafflagen (1968:64), lagen (1999:42) om förbud mot vissa hälsofarliga varor, lagen (2014:307) om straff för penningtvättsbrott, terroristbrottslagen (2022:666) eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen (2026:408) eller motsvarande äldre lag. *Förordning (2026:436)*.
+
+#### 8 e §
+
+Uppgift om misstanke om brott för vilket åtal har väckts ska lämnas ut om det begärs av en enskild som behöver ett registerutdrag om sig själv enligt bestämmelser i 2 eller 25 kap. skollagen (2010:800).
+
+Registerutdraget ska endast innehålla uppgifter om brott som avses i 3 kap. 1 och 2 §§, 5 §, om inte brottet är ringa, och 6 §, 4 kap. 1-5, 6 a och 6 c §§, 6 kap., 8 kap. 5 och 6 §§, 9 kap. 4 §, 13 kap. 1-3 och 5 c §§ och 16 kap. 5 a, 8, 9 och 10 a §§ brottsbalken, 1 och 3 §§ narkotikastrafflagen (1968:64), lagen (1982:316) om förbud mot könsstympning av kvinnor och oskuldsingrepp på kvinnor, 3 § första stycket och 3 a § lagen (1991:1969) om förbud mot vissa dopningsmedel, 4 § första och andra styckena lagen (1999:42) om förbud mot vissa hälsofarliga varor, 6 § första, andra, fjärde och femte styckena, 6 a och 6 b §§ lagen (2000:1225) om straff för smuggling, 29 a § lagen (2010:1011) om brandfarliga och explosiva varor, 11 kap. 4 § alkohollagen (2010:1622), lagen (2014:307) om straff för penningtvättsbrott, lagen (2014:406) om straff för vissa internationella brott, terroristbrottslagen (2022:666) eller motsvarande äldre lag och 18 kap. 1 och 2 §§ vapenlagen (2026:408) eller motsvarande äldre lag. *Förordning (2026:761)*.
+
+### Avgift
+
+#### 9 §
+
+Avgift skall tas ut för att lämna ut uppgifter till enskilda enligt 8 §.
+
+För avgiftens storlek m.m. gäller bestämmelserna i 20-24 §§ avgiftsförordningen (1992:191), varvid avgiftsklass A tillämpas.
+
+### Vilka uppgifter som skall lämnas
+
+### Domstolar
+
+#### 10 §
+
+En domstol ska tillhandahålla en åklagarmyndighet eller Europeiska åklagarmyndigheten uppgifter om en dom eller ett beslut som fått laga kraft i den del som rör den utdömda påföljden eller avser sådan särskild rättsverkan av brott som innefattar betalningsskyldighet. *Förordning (2024:635)*.
+
+### Myndigheter
+
+#### 11 §
+
+Har upphävts genom *förordning (2014:1159)*.
+
+#### 12 §
+
+Tullverket ska i fråga om den som ska registreras enligt 3 § första stycket lagen (1998:621) om misstankeregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § 1-3 denna förordning. Tullverket ska också lämna sådana uppgifter till Polismyndigheten som krävs för gallring av registret enligt 13 § 1 lagen om misstankeregister.
+
+*Förordning (2014:1159)*.
+
+#### 13 §
+
+En åklagarmyndighet ska i fråga om den som ska registreras enligt 3 § lagen (1998:621) om misstankeregister, lämna sådana uppgifter till Polismyndigheten som anges i 2 § denna förordning. En åklagarmyndighet ska också lämna sådana uppgifter till Polismyndigheten som krävs för gallring av registret enligt 13 § lagen om misstankeregister.
+
+*Förordning (2014:1159)*.
+
+### Europeiska åklagarmyndigheten
+
+#### 13 a §
+
+Uppgifter ur misstankeregistret ska, i fråga om den som begäran gäller, lämnas ut på begäran av Europeiska åklagarmyndigheten i enlighet med artikel 43 i rådets förordning (EU) 2017/1939 av den 12 oktober 2017 om genomförande av fördjupat samarbete om inrättande av Europeiska åklagarmyndigheten. *Förordning (2024:635)*.
+
+### Ansvar för lämnade uppgifter
+
+#### 14 §
+
+Den myndighet som har lämnat uppgifter till Polismyndigheten enligt denna förordning ansvarar för att uppgifterna är riktiga.
+
+Felaktigheter eller ofullständigheter i uppgifter som avses i 12 och 13 §§ ska rättas på det sätt som Polismyndigheten bestämmer efter samråd med den berörda myndigheten.
+
+*Förordning (2014:1159)*.
+
+#### 15 §
+
+Den som i offentlig tjänst tar del av uppgifter ur misstankeregistret och misstänker att registrets innehåll är oriktigt, ska genast anmäla det till Polismyndigheten.
+
+*Förordning (2014:1159)*.
+
+### Rätt att meddela föreskrifter
+
+#### 16 §
+
+*/Upphör att gälla U:2031-09-10/* Polismyndigheten får, efter samråd med Åklagarmyndigheten och Tullverket, föreskriva att registrering enligt 3 och 3 a §§ lagen (1998:621) om misstankeregister ska begränsas utöver vad som följer av denna förordning. *Förordning (2026:1568)*.
+
+#### 16 §
+
+*/Träder i kraft I:2031-09-10/* Polismyndigheten får, efter samråd med Åklagarmyndigheten och Tullverket, föreskriva att registrering enligt 3 § lagen (1998:621) om misstankeregister ska begränsas utöver vad som följer av denna förordning. *Förordning (2026:1569)*.
+
+#### 17 §
+
+Polismyndigheten får, efter samråd med berörda myndigheter, meddela de föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (2014:1569)*.
+
+#### 18 §
+
+Har upphävts genom *förordning (2022:829)*.
+
+## Övergångsbestämmelser
+
+**1999:1135**
+
+1. Denna förordning träder i kraft den 1 januari 2000.
+
+2. Fram till den 1 januari 2009 skall endast tingsrätterna och hovrätterna tillhandahålla åklagarmyndigheten sådana uppgifter som anges i 10 §. Högsta domstolen skall under denna tid i stället tillhandahålla Rikspolisstyrelsen dessa uppgifter.
+
+*Förordning (2006:1227)*.
+
+**2013:658**
+
+1. Denna förordning träder i kraft den 1 september 2013.
+
+2. Äldre föreskrifter gäller i fråga om ärenden som avser upphävande av allmän domstols beslut om utvisning på grund av brott och som har kommit in till regeringen före ikraftträdandet.
+
+**2018:1480**
+
+1. Denna förordning träder i kraft den 1 januari 2019.
+
+2. Äldre bestämmelser gäller fortfarande för beslut enligt lotterilagen (1994:1000) som har meddelats före ikraftträdandet. Det som sägs om Lotteriinspektionen ska då gälla för Spelinspektionen.
+
+**2025:479**
+
+1. Denna förordning träder i kraft den 1 juli 2025.
+
+2. Äldre bestämmelser gäller dock fortfarande för företag som omfattas av punkt 2 i ikraftträdande- och övergångsbestämmelserna till lagen (2025:596) om upphävande av lagen (2014:275) om viss verksamhet med konsumentkrediter.
+
+*Förordning (2025:694)*.
+
+**2026:547**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller för uppgifter som behövs för prövning enligt lagen (1998:603) om verkställighet av sluten ungdomsvård.
+
+**2026:1569**
+
+1. Denna förordning träder i kraft den 10 september 2031.
+
+2. Äldre föreskrifter gäller fortfarande för uppgifter om misstankar om brott som har begåtts före ikraftträdandet.

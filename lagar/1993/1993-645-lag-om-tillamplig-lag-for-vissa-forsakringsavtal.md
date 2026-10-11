@@ -1,0 +1,83 @@
+---
+title: "Lag (1993:645) om tillämplig lag för vissa försäkringsavtal"
+identifier: "SFS 1993:645"
+type: act
+jurisdiction: se
+language: sv
+date: 1993-06-10
+amended_through: "SFS 2023:669"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-645.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:645"
+retrieved: 2026-10-11
+---
+# Lag (1993:645) om tillämplig lag för vissa försäkringsavtal
+
+### 1 §
+
+I denna lag finns bestämmelser som kompletterar Europaparlamentets och rådets förordning (EG) nr 593/2008 av den 17 juni 2008 om tillämplig lag för avtalsförpliktelser (Rom I) när det gäller vissa försäkringsavtal.
+
+*Lag (2014:1451)*.
+
+### 2 §
+
+Vid tillämpning av artikel 7 i förordningen gäller följande i fråga om avtal om försäkring för ett registreringspliktigt fordon. När ett fordon som är registrerat i ett EES-land köps i syfte att införas och stadigvarande brukas i ett annat EES-land, ska risken under 30 dagar från det att fordonet kommit i köparens besittning anses finnas antingen i det land där fordonet är registrerat eller i det land till vilket fordonet ska införas, beroende på i vilket av dessa länder som köparen har ingått avtalet om försäkring. *Lag (2023:669)*.
+
+### 3 §
+
+På ett avtal om obligatorisk skadeförsäkring som avses i artikel 7.4 i förordningen tillämpas lagen i det EES-land som har föreskrivit skyldigheten att teckna försäkring. *Lag (2023:669)*.
+
+### 4 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 5 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 6 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 7 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 8 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 9 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 10 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 11 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+### 12 §
+
+Ny beteckning 3 § genom *lag (2014:1451)*.
+
+### 13 §
+
+Har upphävts genom *lag (2014:1451)*.
+
+## Övergångsbestämmelser
+
+**1993:645**
+
+1. Denna lag träder i kraft den dag regeringen bestämmer. (I kraft den 1 januari 1994, 1993:1646).
+
+2. Lagen tillämpas endast på avtal som har ingåtts efter ikraftträdandet.
+
+**2007:335**
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. I fråga om försäkringsavtal som har ingåtts före ikraftträdandet gäller äldre bestämmelser.

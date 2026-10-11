@@ -1,0 +1,22 @@
+---
+title: "Lag (1987:206) om beräkning av extra avdrag för folkpensionärer vid 1988 års taxering"
+identifier: "SFS 1987:206"
+type: act
+jurisdiction: se
+language: sv
+date: 1987-04-29
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-206.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:206"
+retrieved: 2026-10-11
+---
+# Lag (1987:206) om beräkning av extra avdrag för folkpensionärer vid 1988 års taxering
+
+Enligt riksdagens beslut föreskrivs att beräkningen av avdrag enligt punkt 2 av anvisningarna till 50 § kommunalskattelagen (1928:370) samt av deklarationspliktsgränsen enligt 22 § 3 mom. taxeringslagen (1956:623) vid 1988 års taxering skall ske med utgångspunkt i basbeloppet enligt lagen (1962:381) om allmän försäkring ökat med 400 kronor såvitt avser månaderna juli--december 1987.
+
+## Övergångsbestämmelser
+
+**1987:206**
+
+Denna lag träder i kraft den 1 juli 1987 och gäller till utgången av år 1988. Lagen tillämpas dock även därefter i fråga om avdrag vid 1988 års taxering.

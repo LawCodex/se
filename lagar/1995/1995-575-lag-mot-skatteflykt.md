@@ -1,0 +1,67 @@
+---
+title: "Lag (1995:575) mot skatteflykt"
+identifier: "SFS 1995:575"
+type: act
+jurisdiction: se
+language: sv
+date: 1995-05-24
+amended_through: "SFS 2011:1372"
+department: "Finansdepartementet S1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-575.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:575"
+retrieved: 2026-10-11
+---
+# Lag (1995:575) mot skatteflykt
+
+### 1 §
+
+Denna lag gäller vid fastställande av underlag för att ta ut kommunal och statlig inkomstskatt. *Lag (2011:1372)*.
+
+### 2 §
+
+Vid fastställandet av underlag ska hänsyn inte tas till en rättshandling, om
+
+1. rättshandlingen, ensam eller tillsammans med annan rättshandling, ingår i ett förfarande som medför en väsentlig skatteförmån för den skattskyldige,
+
+2. den skattskyldige direkt eller indirekt medverkat i rättshandlingen eller rättshandlingarna,
+
+3. skatteförmånen med hänsyn till omständigheterna kan antas ha utgjort det övervägande skälet för förfarandet, och
+
+4. ett fastställande av underlag på grundval av förfarandet skulle strida mot lagstiftningens syfte som det framgår av skattebestämmelsernas allmänna utformning och de bestämmelser som är direkt tillämpliga eller har kringgåtts genom förfarandet. *Lag (2011:1372)*.
+
+### 3 §
+
+Om 2 § tillämpas ska beslut om fastställande av underlag fattas som om rättshandlingen inte hade företagits. Framstår förfarandet med hänsyn till det ekonomiska resultatet - bortsett från skatteförmånen - som en omväg i förhållande till det närmast till hands liggande förfarandet, ska beslutet i stället fattas som om den skattskyldige hade valt det förfarandet. Om de nu angivna grunderna för beslutet om fastställande av underlag inte kan tillämpas eller skulle leda till oskäligt resultat, ska underlaget för att ta ut skatt uppskattas till skäligt belopp. *Lag (2011:1372)*.
+
+### 4 §
+
+Fråga om tillämpning av denna lag prövas av förvaltningsrätten efter framställning av Skatteverket. I fråga om handläggning av framställning om tillämpning av lagen och i fråga om överklagande av beslut med anledning av sådan framställning gäller i tillämpliga delar bestämmelserna i 67 kap. skatteförfarandelagen (2011:1244).
+
+Framställning enligt första stycket får göras före utgången av de frister som enligt 66 kap. 27, 29-34 §§ skatteförfarandelagen gäller för beslut om efterbeskattning.
+
+*Lag (2011:1372)*.
+
+## Övergångsbestämmelser
+
+**1995:575**
+
+Denna lag träder i kraft den 1 juli 1995 och tillämpas på rättshandlingar som företagits efter ikraftträdandet.
+
+**1997:777**
+
+Denna lag träder i kraft den 1 januari 1998 och tillämpas på rättshandlingar som har företagits efter ikraftträdandet.
+
+**2003:714**
+
+Denna lag träder i kraft den 1 januari 2004. Äldre föreskrifter i 4 § första stycket gäller fortfarande för framställning av skattemyndighet som har getts in före ikraftträdandet.
+
+**2007:1401**
+
+Denna lag träder i kraft den 1 januari 2008 och tillämpas första gången vid 2008 års taxering. Den äldre bestämmelsen gäller fortfarande vid 2007 och tidigare års taxeringar.
+
+**2011:1372**
+
+1. Denna lag träder i kraft den 1 januari 2012.
+
+2. Lagen tillämpas på skatt som avser beskattningsår som börjar efter den 31 januari 2012. Lagen tillämpas även på förlängda räkenskapsår som avslutas efter utgången av 2012 och på förkortade räkenskapsår som både påbörjas och avslutas under 2012.

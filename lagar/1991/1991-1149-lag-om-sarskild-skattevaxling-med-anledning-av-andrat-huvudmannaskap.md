@@ -1,0 +1,58 @@
+---
+title: "Lag (1991:1149) om särskild skatteväxling med anledning av ändrat huvudmannaskap för service och vård för äldre och handikappade"
+identifier: "SFS 1991:1149"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-06-27
+department: "Finansdepartementet K"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-1149.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:1149"
+retrieved: 2026-10-11
+---
+# Lag (1991:1149) om särskild skatteväxling med anledning av ändrat huvudmannaskap för service och vård för äldre och handikappade
+
+## 1 §
+
+En landstingskommun skall när den fastställer sin skattesats för år 1992 sänka skattesatsen med ett belopp som motsvarar det minskade utdebiteringsbehovet med anledning av ändrat huvudmannaskap för service och vård för äldre och handikappade.
+
+En kommun som ingår i en landstingskommun får när den fastställer sin skattesats för år 1992 höja skattesatsen med ett belopp som motsvarar högst landstingskommunens sänkning av skattesatsen enligt första stycket.
+
+## 2 §
+
+Det minskade utdebiteringsbehovet med anledning av det ändrade huvudmannaskapet innebär att landstingskommunerna för år 1992 skall sänka skattesatserna med följande belopp.
+
+___________________________________________________________________
+
+```
+Landstingskommun                Krona per skattekrona
+```
+
+___________________________________________________________________
+
+```
+Stockholms län                  1,80
+Uppsala län                     2,20
+Södermanlands län               2,40
+Östergötlands län               1,85
+Jönköpings län                  2,00
+Kronobergs län                  2,75
+Kalmar län                      2,70
+Blekinge län                    1,95
+Kristianstads län               2,30
+Malmöhus län                    2,45
+Hallands län                    2,05
+Göteborgs och Bohus län         2,25
+Älvsborgs län                   2,85
+Skaraborgs län                  2,70
+Värmlands län                   3,05
+Örebro län                      2,20
+Västmanlands län                2,90
+Kopparbergs län                 2,25
+Gävleborgs län                  2,00
+Västernorrlands län             3,05
+Jämtlands län                   2,55
+Västerbottens län               2,65
+Norrbottens län                 3,20
+```

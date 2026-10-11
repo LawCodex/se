@@ -1,0 +1,18 @@
+---
+title: "Lag (1997:223) om val av ledamöter i styrelsen för Länsstyrelsen i Västra Götalands län"
+identifier: "SFS 1997:223"
+type: act
+jurisdiction: se
+language: sv
+date: 1997-05-22
+department: "Inrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1997-223.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1997:223"
+retrieved: 2026-10-11
+---
+# Lag (1997:223) om val av ledamöter i styrelsen för Länsstyrelsen i Västra Götalands län
+
+Med avvikelse från vad som föreskrivs i lagen (1976:891) om val av ledamöter i länsstyrelses styrelse skall val av ledamöter och ersättare i styrelsen för Länsstyrelsen i Västra Götalands län förrättas av fullmäktige i Göteborgs och Bohus läns landsting, Skaraborgs läns landsting och Älvsborgs läns landsting samt Göteborgs kommun med den fördelning mellan dem som regeringen bestämmer efter befolkningstalen.
+
+Valen skall avse en period av ett år, räknat från den 1 januari 1998.

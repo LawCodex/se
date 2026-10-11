@@ -1,0 +1,62 @@
+---
+title: "Förordning (2002:814) om behörighet för tingsrätter att handlägga mål enligt lagen (2002:599) om grupprättegång, m.m."
+identifier: "SFS 2002:814"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-11-21
+amended_through: "SFS 2010:992"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-814.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:814"
+retrieved: 2026-10-11
+---
+# Förordning (2002:814) om behörighet för tingsrätter att handlägga mål enligt lagen (2002:599) om grupprättegång, m.m.
+
+### 1 §
+
+De tingsrätter som anges i följande förteckning är behöriga att handlägga mål enligt lagen (2002:599) om grupprättegång och har vid handläggning av mål enligt den lagen det domsområde som anges i förteckningen.
+
+```
+Tingsrätt               Domsområde
+Nacka                   Stockholms län
+Uppsala                 Uppsala län
+Nyköpings               Södermanlands län
+Linköpings              Östergötlands län
+Jönköpings              Jönköpings län
+Växjö                   Kronobergs län
+Kalmar                  Kalmar län
+Gotlands                Gotlands län
+Blekinge                Blekinge län
+Malmö                   Skåne län
+Halmstads               Hallands län
+Vänersborgs             Västra Götalands län
+Värmlands               Värmlands län
+Örebro                  Örebro län
+Västmanlands            Västmanlands län
+Falu                    Dalarnas län
+Gävle                   Gävleborgs län
+Ångermanlands           Västernorrlands län
+Östersunds              Jämtlands län
+Umeå                    Västerbottens län
+Luleå                   Norrbottens län
+```
+
+*Förordning (2010:992)*.
+
+### 2 §
+
+Bestämmelser om behörig domstol vid grupptalan enligt 32 kap. 13 § miljöbalken finns i 21 kap. 1 § miljöbalken.
+
+*Förordning (2010:992)*.
+
+## Övergångsbestämmelser
+
+**2010:992**
+
+1. Denna förordning träder i kraft den 2 maj 2011.
+
+2. Mål som har inletts vid en tingsrätt före ikraftträdandet ska, i de fall de nya bestämmelserna hade medfört att målet eller ärendet skulle ha inletts vid en annan tingsrätt, vid ikraftträdandet överlämnas till den tingsrätten.
+
+3. Mål ska inte överlämnas om det skulle vara till nackdel för handläggningen eller om det av andra skäl inte skulle vara lämpligt.

@@ -1,0 +1,79 @@
+---
+title: "Förordning (1998:518) om flyttning och kontroll av vissa punktskattepliktiga varor"
+identifier: "SFS 1998:518"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-06-11
+amended_through: "SFS 2024:770"
+department: "Finansdepartementet S2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-518.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:518"
+retrieved: 2026-10-11
+---
+# Förordning (1998:518) om flyttning och kontroll av vissa punktskattepliktiga varor
+
+### 1 §
+
+Denna förordning gäller vid tillämpning av lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor.
+
+Termer och uttryck som används i förordningen har samma innebörd som i lagen om flyttning och kontroll av vissa punktskattepliktiga varor. *Förordning (2024:770)*.
+
+### 2 §
+
+Har upphävts genom *förordning (2024:770)*.
+
+### 3 §
+
+I ärenden och mål om skatt eller transporttillägg enligt lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor gäller bestämmelserna om betalningssäkring i 11 kap. 1, 2 och 4-7 §§, 17 kap. 8 §, 18 kap. 6 § och 19 kap. 3 § skatteförfarandeförordningen (2011:1261).
+
+När Tullverket tillämpar bestämmelserna i första stycket ska det som sägs i skatteförfarandeförordningen om Skatteverket i stället gälla Tullverket. *Förordning (2024:770)*.
+
+### 4 §
+
+Har upphävts genom *förordning (2024:770)*.
+
+### 5 §
+
+Har upphävts genom *förordning (2002:518)*.
+
+### 6 §
+
+Tullverket ska underrätta Skatteverket om beslut enligt lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor. *Förordning (2024:770)*.
+
+### 7 §
+
+Allmän förvaltningsdomstol ska enligt de föreskrifter Skatteverket och Tullverket meddelar lämna uppgifter till myndigheterna om beslut enligt lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor.
+
+*Förordning (2024:770)*.
+
+### 8 §
+
+Tullverket får meddela
+
+1. föreskrifter om betalningssäkring enligt 4 kap. 5 § lagen (1998:506) om flyttning och kontroll av vissa punktskattepliktiga varor som gäller
+
+a) sådan säkerhet som avses i 46 kap. 17 § skatteförfarandelagen (2011:1244), och
+
+b) sådan säkerhet som avses i 69 kap. 16 § skatteförfarandelagen,
+
+2. föreskrifter om verkställigheten av lagen om flyttning och kontroll av vissa punktskattepliktiga varor, och
+
+3. föreskrifter om verkställighet av denna förordning inom myndighetens verksamhetsområde.
+
+Innan Tullverket meddelar föreskrifter med stöd av första stycket ska myndigheten höra Skatteverket.
+
+*Förordning (2024:770)*.
+
+### 9 §
+
+Skatteverket får meddela föreskrifter om verkställighet av denna förordning inom verkets verksamhetsområde.
+
+Innan Skatteverket meddelar sådana föreskrifter ska verket höra Tullverket. *Förordning (2012:165)*.
+
+## Övergångsbestämmelser
+
+**1998:518**
+
+Denna förordning träder i kraft den 1 juli 1998. Det som sägs i 5 § om Skattemyndigheten i Gävle skall dock intill utgången av år 1998 gälla Skattemyndigheten i Dalarnas län.

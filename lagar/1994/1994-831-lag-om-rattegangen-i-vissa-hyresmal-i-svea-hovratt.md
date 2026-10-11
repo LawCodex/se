@@ -1,0 +1,109 @@
+---
+title: "Lag (1994:831) om rättegången i vissa hyresmål i Svea hovrätt"
+identifier: "SFS 1994:831"
+type: act
+jurisdiction: se
+language: sv
+date: 1994-06-09
+amended_through: "SFS 2026:848"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-831.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:831"
+retrieved: 2026-10-11
+---
+# Lag (1994:831) om rättegången i vissa hyresmål i Svea hovrätt
+
+### 1 §
+
+Denna lag tillämpas av Svea hovrätt i mål som överklagats dit från en hyresnämnd.
+
+### 2 §
+
+I fråga om en sådan rättegång ska hovrätten tillämpa 52 kap. rättegångsbalken, om inte annat följer av denna eller annan lag.
+
+För att hovrätten ska pröva hyresnämndens beslut krävs prövningstillstånd endast i mål enligt 12 kap. 55 f § jordabalken.
+
+I fråga om prövningstillstånd gäller 49 kap. 14 och 14 a §§ rättegångsbalken. Det som sägs i dessa bestämmelser om tingsrättens avgörande ska i stället avse hyresnämndens avgörande. *Lag (2026:777)*.
+
+### 3 §
+
+Klaganden får inte ändra sin talan till att avse en annan del av hyresnämndens beslut än den som uppgetts i överklagandet.
+
+Om en part i mål om ändring av hyresvillkor eller om återbetalning av hyra åberopar en omständighet eller ett bevis som inte har lagts fram tidigare tillämpas 50 kap. 25 § tredje stycket rättegångsbalken. *Lag (2026:777)*.
+
+### 4 §
+
+Hovrätten skall verka för att utredningen i målet får den inriktning och omfattning som är lämplig med hänsyn till målets beskaffenhet. Hovrätten skall om möjligt se till att onödig utredning inte läggs fram.
+
+### 5 §
+
+Muntlig förhandling får hållas om viss fråga eller i målet i dess helhet, om det kan antas vara till fördel för utredningen.
+
+Muntlig förhandling skall hållas, om en part begär det samt förhandlingen inte är obehövlig och inte heller särskilda skäl talar emot det.
+
+### 6 §
+
+Till en muntlig förhandling eller en förrättning för syn på stället ska parterna kallas. En part får föreläggas att infinna sig personligen vid vite.
+
+Att en part uteblir från en muntlig förhandling eller en förrättning för syn på stället hindrar inte att hovrätten handlägger och avgör målet. Om det är klaganden som uteblir får målet skrivas av från vidare handläggning. Detsamma gäller om en klagande som har förelagts att infinna sig personligen inställer sig endast genom ombud.
+
+I kallelsen ska det anges vad följden kan bli om parten uteblir eller inställer sig endast genom ombud.
+
+*Lag (2019:248)*.
+
+### 6 a §
+
+Om ett mål skrivits av enligt 6 § andra stycket, ska hovrätten på ansökan av klaganden återuppta målet om klaganden hade laga förfall för sin utevaro eller för att inte infinna sig personligen, och han eller hon inte har kunnat anmäla det i tid.
+
+En ansökan om återupptagande ska göras skriftligen inom tre veckor från den dag beslutet meddelades. Om klaganden sedan målet återupptagits uteblir eller inte följer ett föreläggande att infinna sig personligen, har han eller hon inte rätt att få målet återupptaget. *Lag (2019:248)*.
+
+### 6 b §
+
+Om ett muntligt bevis kan läggas fram i hovrätten genom en ljud- och bildupptagning av förhöret vid hyresnämnden, får beviset tas upp på nytt endast om ytterligare frågor behöver ställas. *Lag (2019:248)*.
+
+### 7 §
+
+Har upphävts genom *lag (2026:567)*.
+
+### 8 §
+
+Ett beslut av Svea hovrätt har rättskraft, om beslutet innebär att en fråga som avses i 4 § första stycket 2, 2 a, 2 b, 2 c, 2 d, 3, 5 a, 6 eller 7 lagen (1973:188) om arrendenämnder och hyresnämnder har avgjorts. Detta gäller dock inte beslut som innebär avslag på en ansökan om
+
+1. åtgärdsföreläggande enligt 12 kap. 11 § första stycket 5 eller 16 § andra stycket jordabalken,
+
+2. upprustningsföreläggande enligt 12 kap. 18 a-18 c §§ jordabalken,
+
+3. tillstånd enligt 12 kap. 18 d-18 f §§, 23 § andra stycket, 34, 36 eller 37 § jordabalken,
+
+4. förbud eller hävande av förbud enligt 12 kap. 18 h § jordabalken,
+
+5. rätt till förhandlingsordning enligt 9 § hyresförhandlingslagen (1978:304), eller
+
+6. tillstånd enligt 11 § 3 lagen (2026:843) om hyrköp av bostad. *Lag (2026:848)*.
+
+### 9 §
+
+Bifalls en hyresvärds talan om att hyresavtalet skall upphöra att gälla får hovrätten efter yrkande av hyresvärden ålägga hyresgästen att flytta vid den tidpunkt då lägenheten skall lämnas.
+
+### 10 §
+
+Hovrättens beslut i mål som avses med denna lag får inte överklagas.
+
+## Övergångsbestämmelser
+
+**1994:831**
+
+Denna lag träder i kraft den 1 juli 1994. Lagen tillämpas också på mål som överlämnats till Svea hovrätt av Bostadsdomstolen.
+
+**2010:29**
+
+1. Denna lag träder i kraft den 1 mars 2010.
+
+2. Äldre bestämmelser gäller fortfarande i ärenden som enligt lagen (2010:24) om upphävande av lagen (1975:1132) om förvärv av hyresfastighet m.m. ska prövas enligt den upphävda lagen.
+
+**2026:777**
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Den nya bestämmelsen om prövningstillstånd i 2 § gäller vid överklagande av beslut som har meddelats av hyresnämnden efter ikraftträdandet.

@@ -1,0 +1,22 @@
+---
+title: "Förordning (1998:117) om uppehållstillstånd i vissa utlänningsärenden"
+identifier: "SFS 1998:117"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-03-19
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-117.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:117"
+retrieved: 2026-10-11
+---
+# Förordning (1998:117) om uppehållstillstånd i vissa utlänningsärenden
+
+En medborgare i Förbundsrepubliken Jugoslavien får efter ansökan beviljas uppehållstillstånd av humanitära skäl om han eller hon befinner sig i landet och har vistats här så länge att ett tidigare beslut om avvisning eller utvisning under denna tid har upphört eller kommer att ha upphört att gälla enligt 8 kap. 15 § utlänningslagen (1989:529) före utgången av år 1998. Vid prövningen gäller bestämmelserna i utlänningslagen. Uppehållstillstånd skall inte beviljas om den huvudsakliga anledningen till att avvisnings- eller utvisningsbeslutet inte gått att verkställa är att utlänningen hållit sig undan eller på annat sätt medverkat till att beslutet inte kunnat verkställas.
+
+## Övergångsbestämmelser
+
+**1998:117**
+
+Denna förordning träder i kraft den 1 april 1998 och upphör att gälla vid utgången av år 1998. Den skall dock fortsätta att gälla för ansökningar om uppehållstillstånd som gjorts före utgången av år 1998.

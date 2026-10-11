@@ -1,0 +1,64 @@
+---
+title: "Förordning (1978:314) om underrättelse och meddelande enligt 12 kap. 44 § jordabalken"
+identifier: "SFS 1978:314"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1978-06-01
+amended_through: "SFS 2006:758"
+reprinted: "SFS 1993:403"
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1978-314.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1978:314"
+retrieved: 2026-10-11
+---
+# Förordning (1978:314) om underrättelse och meddelande enligt 12 kap. 44 § jordabalken
+
+### 1 §
+
+Underrättelse enligt 12 kap. 44 § första stycket jordabalken skall till en bostadshyresgäst avfattas enligt formulär 1 och till en lokalhyresgäst enligt formulär 2. *Förordning (1993:403)*.
+
+### 2 §
+
+Om en underrättelse som avses i 1 § inte har tagits in i eller fogats vid en sådan ansökan om avhysning som avses i 12 kap. 8 § sjätte stycket jordabalken eller en stämningsansökan, skall Kronofogdemyndigheten eller den domstol till vilken ansökan har getts in se till att hyresgästen delges en sådan underrättelse samtidigt med ansökningen. Kronofogdemyndigheten eller domstolen är skyldig att på lämpligt sätt genast underrätta sökanden eller käranden om innehållet i 12 kap. 44 § första stycket jordabalken och om åtgärden att underrätta hyresgästen. *Förordning (2006:758)*.
+
+### 3 §
+
+Meddelande till socialnämnden enligt 12 kap. 44 § första stycket 1 jordabalken skall avfattas enligt formulär 3. *Förordning (1993:403)*.
+
+## Formulär 1
+
+## Underrättelse till bostadshyresgäst om möjlighet att få tillbaka hyresrätten fastän hyran inte har betalats i tid
+
+En hyresgäst som inte betalar hyran i tid förlorar sin hyresrätt och kan därför bli uppsagd från lägenheten. Som uppsägning räknas också stämningsansökan eller ansökan om avhysning. Enligt bestämmelser i hyreslagen kan hyresgästen dock få tillbaka hyresrätten fastän han eller hon har blivit uppsagd. Hyresgästen måste då betala hyran inom viss kortare tid.
+
+Hyresvärden måste lämna meddelande om uppsägningen till socialnämnden i den kommun där lägenheten är belägen.
+
+Ni underrättas härmed om att Ni har möjlighet att få tillbaka Er hyresrätt, om Ni betalar hyran inom tre veckor från det att Ni har fått del av denna underrättelse. *Förordning (1993:403)*.
+
+## Formulär 2
+
+## Underrättelse till lokalhyresgäst om möjlighet att få tillbaka hyresrätten fastän hyran inte har betalats i tid
+
+En hyresgäst som inte betalar hyran i tid förlorar sin hyresrätt och kan därför bli uppsagd från lokalen. Som uppsägning räknas också stämningsansökan eller ansökan om avhysning. Enligt bestämmelser i hyreslagen kan hyresgästen dock få tillbaka hyresrätten fastän han eller hon har blivit uppsagd. Hyresgästen måste då betala hyran inom viss kortare tid.
+
+Ni underrättas härmed om att Ni har möjlighet att få tillbaka Er hyresrätt, om Ni betalar hyran inom två veckor från det att Ni har fått del av denna underrättelse. *Förordning (1993:403)*.
+
+## Formulär 3
+
+Meddelande till socialnämnd om uppsägning av bostadshyresgäst på grund av försummad hyresbetalning
+
+1. Hyresvärdens namn, postadress och telefon- nummer - - - - - - - - - - - - - - - - - - - - - - - -
+
+2. Hyresgästens namn och postadress - - - - - - - - - - - - - - - - - - - - - -- --
+
+3. Den förhyrda lägen- hetens storlek (antalet rum) - - - - - - - - - - - - - - - -- --
+
+4. Belopp som hyres- gästen skall betala för att återvinna hyres- rätten med angivande av förfallodagen och den ränta som fordras - - - - - - - - - - - - - - - - - - -- --
+
+5. Hyresvärdens postgiro- eller bankgirokonto eller annan anvisning om sättet för hyrans betalning - - - - - - - - - - - - - - - - - - -- *Förordning (1993:403)*.
+
+1993:403
+
+Denna förordning träder i kraft den 1 juli 1993. I fråga om underrättelser som avser hyror som har förfallit till betalning före den 1 juli 1993 gäller äldre föreskrifter.

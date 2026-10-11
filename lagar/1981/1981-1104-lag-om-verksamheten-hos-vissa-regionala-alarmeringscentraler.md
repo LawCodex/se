@@ -1,0 +1,43 @@
+---
+title: "Lag (1981:1104) om verksamheten hos vissa regionala alarmeringscentraler"
+identifier: "SFS 1981:1104"
+type: act
+jurisdiction: se
+language: sv
+date: 1981-12-03
+amended_through: "SFS 2022:489"
+department: "Finansdepartementet DIS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1981-1104.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1981:1104"
+retrieved: 2026-10-11
+---
+# Lag (1981:1104) om verksamheten hos vissa regionala alarmeringscentraler
+
+## 1 §
+
+Denna lag gäller verksamheten hos regionala alarmeringscentraler som har till syfte att möjliggöra snabba och effektiva hjälpinsatser i nödsituationer och som har upprättats efter avtal med staten. *Lag (1993:610)*.
+
+## 2 §
+
+Den som svarar för alarmeringscentraler som anges i 1 § får inte utan tillstånd av regeringen spela in telefonsamtal som innebär att någon avser att tillkalla eller annars kontakta Polismyndigheten, en kommunal organisation för räddningstjänst, ambulans eller något annat hjälporgan och som överförs via ett allmänt elektroniskt kommunikationsnät till eller från en sådan central.
+
+Ett tillstånd får även i den utsträckning som krävs för snabba och effektiva hjälpinsatser omfatta en rätt att
+
+1. avlyssna och spela in sådana telefonsamtal som avses i första stycket och som har kopplats vidare av en alarmeringscentral till ett hjälporgan,
+
+2. avbryta pågående telefonsamtal för att samtal ska kunna kopplas vidare från en alarmeringscentral till ett hjälporgan.
+
+*Lag (2022:489)*.
+
+## 3 §
+
+Tillstånd skall förenas med villkor om hur inspelning, avlyssning och avbrytande av telefonsamtal får utföras. Vidare skall tillstånd förenas med villkor i fråga om förvaring, användning och förstöring av sådant material varigenom uppgift om telefonsamtal kan erhållas.
+
+## 4 §
+
+Den som är eller har varit verksam hos en alarmeringscentral som anges i 1 § får inte obehörigen röja eller utnyttja vad han eller hon i verksamheten har fått veta om sådant som har yttrats vid telefonsamtal som avses i 2 § och som rör en enskilds personliga eller ekonomiska förhållanden eller som rör förhållanden av betydelse för rikets försvar, folkförsörjningen eller förebyggandet och beivrandet av brott.
+
+I det allmännas verksamhet tillämpas i stället bestämmelserna i offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2009:428)*.

@@ -1,0 +1,103 @@
+---
+title: "Inregränsförordning (1996:702)"
+identifier: "SFS 1996:702"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1996-06-13
+amended_through: "SFS 2026:111"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-702.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:702"
+retrieved: 2026-10-11
+---
+# Inregränsförordning (1996:702)
+
+## 1 §
+
+Denna förordning innehåller bestämmelser som kompletterar inregränslagen (1996:701). *Förordning (2024:769)*.
+
+## 1 a §
+
+Uttrycket kontanta medel som används i denna förordning har samma betydelse som i 2 a § inregränslagen (1996:701).
+
+*Förordning (2026:111)*.
+
+## 1 b §
+
+En anmälan enligt 3 a § inregränslagen (1996:701) ska innehålla följande uppgifter:
+
+1. den som anmäler de kontanta medlen,
+
+2. ägaren till de kontanta medlen,
+
+3. typen av kontanta medel,
+
+4. beloppet eller värdet på de kontanta medlen, och
+
+5. de uppgifter i övrigt som behövs för att det ska vara möjligt att bedöma om de kontanta medlen ska kontrolleras.
+
+En styrkt kopia av anmälan ska på begäran lämnas till den som har anmält de kontanta medlen. *Förordning (2026:111)*.
+
+## 1 c §
+
+En redovisning enligt 3 b § inregränslagen (1996:701) ska innehålla följande uppgifter:
+
+1. den som lämnar redovisningen,
+
+2. ägaren, avsändaren och mottagaren till de kontanta medlen,
+
+3. typen av kontanta medel,
+
+4. beloppet eller värdet på de kontanta medlen, och
+
+5. de uppgifter i övrigt som behövs för att det ska vara möjligt att bedöma om de kontanta medlen ska kontrolleras.
+
+En styrkt kopia av redovisningen ska på begäran lämnas till den som har lämnat redovisningen. *Förordning (2026:111)*.
+
+## 1 d §
+
+Tullverket ska skyndsamt lämna de uppgifter som finns i anmälningar och redovisningar enligt 3 a och 3 b §§ inregränslagen (1996:701) till Polismyndigheten.
+
+*Lag (2026:111)*.
+
+## 2 §
+
+Tullverket får meddela närmare föreskrifter om
+
+1. anmälningsskyldigheten enligt 3 § inregränslagen (1996:701),
+
+2. anmälningsskyldigheten enligt 3 a § inregränslagen, och
+
+3. redovisningsskyldigheten enligt 3 b § inregränslagen.
+
+*Förordning (2026:111)*.
+
+## 3 §
+
+Tullverket får meddela de ytterligare föreskrifter som behövs för verkställigheten av inregränslagen (1996:701) och denna förordning. *Förordning (2026:111)*.
+
+## 4 §
+
+Har upphävts genom *förordning (2024:769)*.
+
+## 5 §
+
+Har upphävts genom *förordning (2024:769)*.
+
+## 6 §
+
+Har upphävts genom *förordning (2024:769)*.
+
+## 7 §
+
+Har upphävts genom *förordning (2024:769)*.
+
+## 8 §
+
+Har betecknats 2 § genom *förordning (2024:769)*.
+
+## 9 §
+
+Har betecknats 3 § genom *förordning (2024:769)*.

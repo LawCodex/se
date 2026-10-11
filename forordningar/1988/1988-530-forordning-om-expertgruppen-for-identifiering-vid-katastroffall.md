@@ -1,0 +1,35 @@
+---
+title: "Förordning (1988:530) om expertgruppen för identifiering vid katastroffall"
+identifier: "SFS 1988:530"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1988-05-26
+amended_through: "SFS 2014:1138"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1988-530.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1988:530"
+retrieved: 2026-10-11
+---
+# Förordning (1988:530) om expertgruppen för identifiering vid katastroffall
+
+## 1 §
+
+När en större olyckshändelse eller naturkatastrof har inträffat ska vid behov en särskild expertgrupp hjälpa till vid identifiering av omkomna (expertgruppen för identifiering vid katastroffall). Polismyndigheten får efter samråd med Rättsmedicinalverket meddela föreskrifter om expertgruppens organisation och verksamhet.
+
+Vid identifiering i samband med katastroffall utomlands av omkomna svenska medborgare och andra personer med nära anknytning till Sverige får expertgruppen på begäran av myndigheterna på olycksplatsen också hjälpa till vid identifiering av andra personer. *Förordning (2014:1138)*.
+
+## 2 §
+
+Polismyndigheten beslutar efter samråd med Rättsmedicinalverket om att sända ut expertgruppen och om gruppens sammansättning vid katastroffall inom landet. När ett katastroffall inträffat utomlands ska Polismyndigheten även samråda med Regeringskansliet.
+
+I expertgruppen kan polismän, rättsläkare, rättsodontologer och rättsmedicinska assistenter ingå och, om det behövs, annan lämplig personal. En företrädare för Polismyndigheten ska utses till chef för gruppen. *Förordning (2014:1138)*.
+
+## 3 §
+
+Varje deltagare i gruppen får ersättning dels med ett engångsbelopp för varje uppdrag på 2 500 kronor, dels med ett belopp som motsvarar de avlöningsförmåner deltagaren gått miste om i samband med tjänstledighet för uppdraget.
+
+## 4 §
+
+Polismyndigheten betalar ersättning för uppdrag som deltagare i expertgruppen, kostnader för nödvändig utrustning för gruppens arbete och övriga kostnader som kan uppkomma i samband med ett uppdrag. *Förordning (2014:1138)*.

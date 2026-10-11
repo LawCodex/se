@@ -1,0 +1,55 @@
+---
+title: "Förordning (2002:1091) om litteraturpriset till Astrid Lindgrens minne"
+identifier: "SFS 2002:1091"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2002-12-12
+amended_through: "SFS 2018:999"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-1091.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:1091"
+retrieved: 2026-10-11
+---
+# Förordning (2002:1091) om litteraturpriset till Astrid Lindgrens minne
+
+## 1 §
+
+I denna förordning lämnas föreskrifter om litteraturpriset till Astrid Lindgrens minne.
+
+## 2 §
+
+Litteraturpriset får delas ut till författare, vars litterära verk för barn och unga är av allra högsta konstnärliga värde och präglas av den djupt humanistiska anda som Astrid Lindgren förknippas med. Priset får även delas ut till enskilda personer eller andra som på annat sätt utfört ett synnerligen värdefullt arbete för att främja barns och ungas läsande. Priset får också delas ut för berättande samt till illustratörer.
+
+## 3 §
+
+Litteraturpriset kan ha en eller flera mottagare. Det skall delas ut oberoende av mottagarens nationalitet.
+
+En pristagare får inte utses postumt.
+
+## 4 §
+
+Litteraturpriset delas ut årligen. Prissumman är fem miljoner kronor.
+
+## 5 §
+
+En särskild jury inom Statens kulturråd har hand om nomineringen och beslutar om pristagare. Juryn skall ha administrativt stöd av ett kansli.
+
+## 6 §
+
+Vid juryns handläggning av ärenden tillämpas endast följande bestämmelser i förvaltningslagen (2017:900):
+
+- 16-18 §§ om jäv,
+
+- 28 och 29 §§ om hur beslut fattas och om omröstning.
+
+*Förordning (2018:999)*.
+
+## 7 §
+
+Statens kulturråd får meddela de föreskrifter som behövs för verkställigheten av denna förordning.
+
+## 8 §
+
+Beslut enligt denna förordning får inte överklagas.

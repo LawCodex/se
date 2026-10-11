@@ -1,0 +1,222 @@
+---
+title: "Förordning (1982:517) om beredskapsersättning, beredskapslån och beredskapsgaranti"
+identifier: "SFS 1982:517"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1982-06-10
+amended_through: "SFS 2025:1087"
+reprinted: "SFS 1996:30"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-517.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:517"
+retrieved: 2026-10-11
+---
+# Förordning (1982:517) om beredskapsersättning, beredskapslån och beredskapsgaranti
+
+## Gemensamma bestämmelser
+
+### 1 §
+
+Statlig ersättning (beredskapsersättning) får betalas för tjänst som lämnas enligt denna förordning.
+
+För beredskapsändamål får också lämnas statligt lån (beredskapslån) och statlig garanti (beredskapsgaranti). *Förordning (1996:30)*.
+
+### 2 §
+
+Ärenden om beredskapsersättning och beredskapslån prövas av Myndigheten för civilt försvar.
+
+Ärenden om beredskapsgarantier prövas av Riksgäldskontoret eller den myndighet som kontoret bestämmer. För beredskapsgarantier gäller vad som föreskrivs om kreditgarantier i förordningen (2011:211) om utlåning och garantier. *Förordning (2025:1087)*.
+
+### 3 §
+
+Myndigheten för civilt försvar och Riksgäldskontoret ska vid sina respektive prövningar särskilt överväga om andra åtgärder i syfte att upprätthålla eller stärka försörjningsberedskapen är mer ändamålsenliga än beredskapsersättning, beredskapslån eller beredskapsgaranti. *Förordning (2025:1087)*.
+
+### 4 §
+
+Myndigheten för civilt försvar ska med eget yttrande hänskjuta beredskapsersättnings- eller beredskapslåneärenden till regeringens prövning om myndigheten finner att ärendet är av sådan vikt att regeringen bör avgöra det.
+
+*Förordning (2025:1087)*.
+
+### 5 §
+
+Beredskapsersättning, beredskapslån eller beredskapsgaranti får lämnas till den som i syfte att upprätthålla eller stärka landets försörjningsberedskap åtar sig gentemot Myndigheten för civilt försvar (beredskapsåtagande) att
+
+1. upprätthålla viss produktionskapacitet eller produktion,
+
+2. utveckla ersättningsprodukter,
+
+3. förbereda viss alternativ produktion,
+
+4. beredskapslagra vissa varor, eller
+
+5. vidta annan åtgärd som regeringen har godkänt.
+
+*Förordning (2025:1087)*.
+
+### 6 §
+
+Avtal om beredskapsåtagande skall slutas med den som erbjuder det på längre sikt för försörjningsberedskapen förmånligaste alternativet. *Förordning (1992:1113)*.
+
+### 7 §
+
+Myndigheten för civilt försvar ska sträva efter att försörjningsberedskapen långsiktigt ska kunna tryggas. I detta syfte får avtal om beredskapsåtagande innehålla bestämmelser om skyldighet för mottagaren av beredskapsersättning, beredskapslån eller beredskapsgaranti att investera i maskiner och anläggningar eller att förbättra sin organisation eller vidta andra åtgärder som Myndigheten för civilt försvar finner lämpliga. *Förordning (2025:1087)*.
+
+### 8 §
+
+Beredskapsåtagandet skall omfatta minst den period under vilken beredskapsersättning, beredskapslån och beredskapsgaranti lämnas.
+
+*Förordning (1996:30)*.
+
+### 9 §
+
+Har upphävts genom *förordning (1996:30)*.
+
+### 10 §
+
+För beredskapslån samt för beredskapsersättning som utbetalas i förskott skall betryggande säkerhet ställas.
+
+*Förordning (1997:1007)*.
+
+### 11 §
+
+Myndigheten för civilt försvar ska se till att den som fått beredskapsersättning eller beredskapslån i avtal åläggs
+
+1. att för varje avtalsår med bestyrkande av auktoriserad revisor intyga om avtalade beredskapsåtaganden uppfyllts eller ej,
+
+2. att i god tid underrätta Myndigheten för civilt försvar innan beslut fattas om överlåtelse av betydande del av anläggningstillgångar, licenser, patent eller andra liknande tillgångar i verksamheten, eller om nedläggning av väsentlig del av verksamheten eller om någon annan åtgärd av motsvarande betydelse för möjligheten att fullfölja åtaganden enligt 5 och 7 §§,
+
+3. att i god tid underrätta Myndigheten för civilt försvar innan väsentlig ändring sker i äganderätten till den rörelse som omfattas av åtaganden enligt 5 och 7 §§ och
+
+4. att ge Myndigheten för civilt försvar eller den som Myndigheten för civilt försvar utser tillfälle att granska verksamheten och därvid lämna de uppgifter om verksamheten som behövs. *Förordning (2025:1087)*.
+
+## Beredskapsersättning
+
+### 11 a §
+
+Beredskapsersättning får betalas ut under en period av högst tio år från den dag då beredskapsavtalet börjar gälla.
+
+Förordning(1996:30).
+
+### 11 b §
+
+Avtal om beredskapsersättning skall ha sin slutliga förfallodag lägst ett och högst tio år från den dag då avtalet börjar gälla. *Förordning (1996:30)*.
+
+### 11 c §
+
+Nedskrivning av i förskott utbetald beredskapsersättning ska ske i den takt Myndigheten för civilt försvar bestämmer. *Förordning (2025:1087)*.
+
+### 11 d §
+
+Av avtalet skall framgå att om beredskapsersättning har lämnats på grund av oriktiga eller vilseledande uppgifter, kan den del av i förskott utbetald ersättning som inte skrivs ned sägas upp till omedelbar betalning och utbetald ersättning omgående krävas tillbaka inom tio år från utbetalningen.
+
+Av avtalet skall också framgå att förskottsersättning som inte skrivits ned kan sägas upp till omedelbar betalning
+
+-- om avtalsparten har brutit mot något villkor för beredskapsersättningen,
+
+-- om den säkerhet som kan ha ställts för förskott väsentligen försämras, eller
+
+-- om något annat sådant förhållande inträffar som medför att avtalsparten med hänsyn till syftet med ersättningen uppenbarligen inte längre bör få ha kvar denna. *Förordning (1996:30)*.
+
+## Beredskapslån
+
+### 12 §
+
+Beredskapslån får betalas ut under en period av högst tio år från den dag då beredskapsavtalet börjar gälla. *Förordning (1996:30)*.
+
+### 13 §
+
+Avtal om beredskapslån skall ha sin slutliga förfallodag lägst ett och högst tio år från den dag då avtalet börjar gälla. *Förordning (1996:30)*.
+
+### 14 §
+
+Har upphävts genom *förordning (1996:30)*.
+
+### 15 §
+
+Amortering av beredskapslån ska ske i den takt som Myndigheten för civilt försvar bestämmer.
+
+*Förordning (2025:1087)*.
+
+### 16 §
+
+Av avtalet skall framgå att om beredskapslån har lämnats på grund av oriktiga eller vilseledande uppgifter, kan den del av lånet som inte amorterats sägas upp till omedelbar betalning.
+
+Av avtalet skall också framgå att lån som inte amorterats kan sägas upp till omedelbar betalning
+
+--om låntagaren har brutit mot något villkor för lånet,
+
+--om den säkerhet som kan ha ställts för lånet väsentligen försämras, eller
+
+--om något annat sådant förhållande inträffar som medför att låntagaren med hänsyn till syftet med lånet uppenbarligen inte längre bör få ha kvar detta. *Förordning (1996:30)*.
+
+## Beredskapsgaranti
+
+### 17 §
+
+Beredskapsgaranti får lämnas för lån som betalats ut under en period av högst tio år och som har en löptid på högst tio år räknat från den dag då beredskapsavtalet ingås. *Förordning (1996:30)*.
+
+### 18 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 19 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 20 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 21 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 22 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 23 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 24 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 25 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 26 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 27 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 28 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+### 29 §
+
+Har upphävts genom *förordning (1997:1007)*.
+
+## Övriga bestämmelser
+
+### 30 §
+
+Riksgäldskontoret eller den myndighet som kontoret bestämmer ska bevaka statens rätt rörande beredskapsgarantier.
+
+Myndigheten för civilt försvar ska bevaka statens rätt rörande beredskapsersättning eller beredskapslån enligt denna förordning. Myndigheten för civilt försvar får därvid anta ackordsförslag eller på annat sätt efterskänka statens anspråk. Ärenden som avser större belopp eller som har principiell betydelse ska dock hänskjutas till regeringens prövning. *Förordning (2025:1087)*.
+
+### 31 §
+
+Beslut av Myndigheten för civilt försvar enligt denna förordning får inte överklagas. *Förordning (2025:1087)*.
+
+### 32 §
+
+Föreskrifter om verkställighet av denna förordning meddelas av Myndigheten för civilt försvar. Föreskrifter om lånegarantier får dock meddelas först efter att samråd har skett med Riksgäldskontoret. *Förordning (2025:1087)*.

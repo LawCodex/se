@@ -1,0 +1,45 @@
+---
+title: "Lag (1991:852) om betalningsföreläggande för fordringar i arbetstvister"
+identifier: "SFS 1991:852"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-06-13
+amended_through: "SFS 2015:685"
+department: "Arbetsmarknadsdepartementet ARM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-852.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:852"
+retrieved: 2026-10-11
+---
+# Lag (1991:852) om betalningsföreläggande för fordringar i arbetstvister
+
+### 1 §
+
+Ansökan om betalningsföreläggande enligt lagen (1990:746) om betalningsföreläggande och handräckning får göras hos kronofogdemyndigheten trots att tvist om anspråket skall handläggas enligt lagen (1974:371) om rättegången i arbetstvister.
+
+### 2 §
+
+Har ansökan om betalningsföreläggande gjorts av en medlem i en arbetsgivar- eller arbetstagarorganisation och uppkommer fråga om överlämnande av målet till tingsrätt med stöd av 36 § lagen (1990:746) om betalningsföreläggande och handräckning eller därför att återvinning sökts, skall organisationen, om den enligt 2 kap. 1 § och 4 kap. 5 § lagen (1974:371) om rättegången i arbetstvister kan föra sökandens talan vid arbetsdomstolen, beredas tillfälle att uppge om den vill föra talan där. Detsamma gäller när ansökan om betalningsföreläggande har gjorts i kollektivavtalstvist av någon som har varit medlem i en arbetsgivar- eller arbetstagarorganisation som har slutit avtalet. Förklarar organisationen att den vill föra talan vid arbetsdomstolen, skall kronofogdemyndigheten överlämna målet dit.
+
+Om arbetsdomstolen finner sig inte vara behörig att handlägga målet, skall domstolen överlämna detta till en tingsrätt som enligt vad som framgår av handlingarna är behörig. Detta gäller dock inte om det är högsta domstolen som har överlämnat målet till arbetsdomstolen.
+
+### 3 §
+
+Har upphävts genom *lag (2015:685)*.
+
+### 4 §
+
+Har Kronofogdemyndigheten överlämnat ett mål till Arbetsdomstolen hindrar 24 § delgivningslagen (2010:1932) inte att svaranden delges handlingar genom förenklad delgivning om denne under handläggningen hos Kronofogdemyndigheten har fått information om att sådan delgivning kan komma att användas i målet i Arbetsdomstolen. *Lag (2015:685)*.
+
+## Övergångsbestämmelser
+
+**1991:852**
+
+Denna lag träder i kraft den dag regeringen bestämmer, då lagen (1974:372) om lagsökning och betalningsföreläggande för fordringsanspråk i anställningsförhållanden och lagen (1976:841) om betalningsföreläggande för fordringar som skall prövas av statens va-nämnd skall upphöra att gälla. Äldre föreskrifter gäller fortfarande i fråga om mål om lagsökning och betalningsföreläggande där talan väckts före ikraftträdandet.
+
+**2010:1960**
+
+1. Denna lag träder i kraft den 1 april 2011.
+
+2. Äldre bestämmelser gäller om en handling har skickats eller lämnats före den 1 april 2011.

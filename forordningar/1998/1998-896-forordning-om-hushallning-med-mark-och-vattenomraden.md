@@ -1,0 +1,177 @@
+---
+title: "Förordning (1998:896) om hushållning med mark- och vattenområden"
+identifier: "SFS 1998:896"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-06-25
+amended_through: "SFS 2026:1783"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-896.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:896"
+retrieved: 2026-10-11
+---
+# Förordning (1998:896) om hushållning med mark- och vattenområden
+
+### Myndigheternas ansvar
+
+#### 1 §
+
+De statliga myndigheter som anges i denna förordning har var och en inom sitt verksamhetsområde uppsikt över hushållningen med mark- och vattenområden. Myndigheterna ska i samverkan med länsstyrelserna följa utvecklingen av frågor om hushållningen med mark- och vattenområden. Tyngdpunkten i denna verksamhet ska läggas på frågor som har stor betydelse i ett nationellt perspektiv och frågor vars utveckling Sverige enligt internationella åtaganden ska följa.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen. *Förordning (2015:401)*.
+
+#### 1 a §
+
+Boverket har uppsikt över hushållningen med de mark- och vattenområden som omfattas av 4 kap. 1-7 §§ miljöbalken. Boverket har dessutom allmän uppsikt över hushållningen med mark- och vattenområden.
+
+Bestämmelser om att Boverket ska verka för samordning av de statliga myndigheternas arbete med underlag för tillämpningen av 3-5 kap. miljöbalken finns i förordningen (2022:208) med instruktion för Boverket. *Förordning (2022:210)*.
+
+#### 1 b §
+
+Länsstyrelsen har uppsikt inom länet över hushållningen med mark- och vattenområden. *Förordning (2015:401)*.
+
+Underlag om riksintressen m. m.
+
+#### 2 §
+
+Myndigheterna ska enligt den fördelning som anges i 2 a § lämna uppgifter i skriftlig form till länsstyrelserna om områden som myndigheterna bedömer vara av riksintresse enligt 3 kap. miljöbalken.
+
+Myndigheterna ska se till att bedömningen är aktuell och ska lämna uppdaterade uppgifter till länsstyrelserna vid behov eller åtminstone vart åttonde år. Innan uppgifterna lämnas ska myndigheten ha gett Boverket samt de länsstyrelser och andra myndigheter som anges i 2 a § och är berörda tillfälle att yttra sig.
+
+För ett område som omfattas av en beslutad havsplan enligt 4 kap. 10 § miljöbalken ska uppgifterna också lämnas till Havs- och vattenmyndigheten. *Förordning (2023:51)*.
+
+#### 2 a §
+
+De uppgifter som avses i 2 § ska i fråga om områden
+
+1. av riksintresse för rennäringen (3 kap. 5 § miljöbalken) lämnas av Sametinget,
+
+2. av riksintresse för yrkesfisket (3 kap. 5 § miljöbalken) lämnas av Havs- och vattenmyndigheten,
+
+3. av riksintresse för naturvården och friluftslivet (3 kap. 6 § miljöbalken) lämnas av Naturvårdsverket och Havs- och vattenmyndigheten inom sina ansvarsområden,
+
+4. av riksintresse för kulturmiljövården (3 kap. 6 § miljöbalken) lämnas av Riksantikvarieämbetet,
+
+5. som innehåller fyndigheter av ämnen eller material som är av riksintresse (3 kap. 7 § miljöbalken) lämnas av Sveriges geologiska undersökning,
+
+6. av riksintresse för anläggningar för industriell produktion (3 kap. 8 § miljöbalken) lämnas av Tillväxtverket,
+
+7. av riksintresse för anläggningar för energiproduktion och energidistribution (3 kap. 8 § miljöbalken) lämnas av Statens energimyndighet,
+
+8. av riksintresse för anläggningar för slutlig förvaring av använt kärnbränsle och kärnavfall (3 kap. 8 § miljöbalken) lämnas av Strålsäkerhetsmyndigheten,
+
+9. av riksintresse för anläggningar för kommunikationer (3 kap. 8 § miljöbalken) lämnas av Trafikverket och Post- och telestyrelsen inom sina verksamhetsområden,
+
+10. av riksintresse för anläggningar för avfallshantering (3 kap. 8 § miljöbalken) lämnas av Naturvårdsverket,
+
+11. av riksintresse för anläggningar för vattenförsörjning (3 kap. 8 § miljöbalken) lämnas av Havs- och vattenmyndigheten, och
+
+12. av riksintresse för totalförsvarets anläggningar (3 kap. 9 § miljöbalken) lämnas av Försvarsmakten och Myndigheten för civilt försvar inom sina ansvarsområden. *Förordning (2025:1103)*.
+
+#### 3 §
+
+*/Upphör att gälla U:2027-01-01/* Länsstyrelsen ska ta de initiativ som behövs för att det i arbetet med miljökonsekvensbeskrivningar och i planerings- och beslutsprocesser tas hänsyn till 3 och 4 kap. miljöbalken. Initiativen ska tas så tidigt som möjligt i processerna. När 3 och 4 kap. miljöbalken ska tillämpas vid prövningen av ett mål eller ärende, ska länsstyrelsen särskilt verka för att riksintressena tillgodoses i den prövningen. Av plan- och bygglagen (2010:900) framgår att länsstyrelsen ska verka för att riksintressen tillgodoses i kommunala planer enligt den lagen.
+
+Länsstyrelsens arbete ska grundas på underlag från de myndigheter som anges i 2 §. För ett område som omfattas av en beslutad havsplan enligt 4 kap. 10 § miljöbalken eller en antagen plan för kärntekniska anläggningar enligt 10 § lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar ska dock länsstyrelsens arbete grundas på planen.
+
+En bestämmelse om tillämpningen av 3 och 4 kap. miljöbalken i mål och ärenden enligt miljöbalken finns i 2 kap. 6 § andra stycket miljöbalken. Bestämmelser om att 3 och 4 kap. miljöbalken ska tillämpas i mål och ärenden som prövas enligt andra lagar finns i
+
+1. lagen (1966:314) om kontinentalsockeln,
+
+2. väglagen (1971:948),
+
+3. lagen (1978:160) om vissa rörledningar,
+
+4. lagen (1983:293) om inrättande, utvidgning och avlysning av allmän farled och allmän hamn,
+
+5. minerallagen (1991:45),
+
+6. lagen (1992:1140) om Sveriges ekonomiska zon,
+
+7. lagen (1995:1649) om byggande av järnväg,
+
+8. ellagen (1997:857),
+
+9. naturgaslagen (2005:403),
+
+10. luftfartslagen (2010:500),
+
+11. plan- och bygglagen (2010:900), och
+
+12. lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar. *Förordning (2026:592)*.
+
+#### 3 §
+
+*/Träder i kraft I:2027-01-01/* Länsstyrelsen ska ta de initiativ som behövs för att det i arbetet med miljökonsekvensbeskrivningar och i planerings- och beslutsprocesser tas hänsyn till 3 och 4 kap. miljöbalken. Initiativen ska tas så tidigt som möjligt i processerna. När 3 och 4 kap. miljöbalken ska tillämpas vid prövningen av ett mål eller ärende, ska länsstyrelsen särskilt verka för att riksintressena tillgodoses i den prövningen. Av plan- och bygglagen (2010:900) framgår att länsstyrelsen ska verka för att riksintressen tillgodoses i kommunala planer enligt den lagen.
+
+Länsstyrelsens arbete ska grundas på underlag från de myndigheter som anges i 2 §. För ett område som omfattas av en beslutad havsplan enligt 4 kap. 10 § miljöbalken eller en antagen plan för kärntekniska anläggningar enligt 10 § lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar ska dock länsstyrelsens arbete grundas på planen.
+
+En bestämmelse om tillämpningen av 3 och 4 kap. miljöbalken i mål och ärenden enligt miljöbalken finns i 2 kap. 6 § andra stycket miljöbalken. Bestämmelser om att 3 och 4 kap. miljöbalken ska tillämpas i mål och ärenden som prövas enligt andra lagar finns i
+
+1. lagen (1966:314) om kontinentalsockeln,
+
+2. väglagen (1971:948),
+
+3. lagen (1978:160) om vissa rörledningar,
+
+4. lagen (1983:293) om inrättande, utvidgning och avlysning av allmän farled och allmän hamn,
+
+5. minerallagen (1991:45),
+
+6. lagen (1992:1140) om Sveriges ekonomiska zon,
+
+7. lagen (1995:1649) om byggande av järnväg,
+
+8. naturgaslagen (2005:403),
+
+9. luftfartslagen (2010:500),
+
+10. plan- och bygglagen (2010:900),
+
+11. lagen (2026:585) om regeringens godkännande av kärntekniska anläggningar, och
+
+12. lagen (2026:1283) om elektriska ledningar.
+
+*Förordning (2026:1783)*.
+
+#### 4 §
+
+Länsstyrelsen ska underrätta Boverket och andra berörda myndigheter som anges i 2 § om länsstyrelsen anser att
+
+1. ett ytterligare mark- eller vattenområde bör anges som riksintresse enligt 3 kap. miljöbalken, eller
+
+2. klassificeringen eller avgränsningen i stort av ett område som riksintresse enligt 3 kap. miljöbalken bör omprövas.
+
+*Förordning (2008:232)*.
+
+### Lämplig användning samt översiktsplaner, regionplaner och havsplaner
+
+#### 5 §
+
+Den myndighet som ska tillämpa 3 och 4 kap. miljöbalken i ett ärende ska i beslutet ange om den prövade anläggningen, verksamheten eller åtgärden går att förena med en från allmän synpunkt lämplig användning av mark- och vattenresurserna samt med de översiktsplaner, regionplaner och havsplaner som är tillämpliga i ärendet. *Förordning (2015:401)*.
+
+### Underrättelse till regeringen i vissa fall
+
+#### 6 §
+
+Länsstyrelserna och de andra myndigheterna ska vid uppsikten inom sina verksamhetsområden göra regeringen uppmärksam på om urvalet av områden av riksintresse enligt 4 kap. miljöbalken behöver regleras närmare.
+
+*Förordning (2008:232)*.
+
+#### 7 §
+
+En anmälan som en statlig myndighet lämnar till regeringen enligt 3 kap. 14 § eller 5 kap. 14 § miljöbalken ska innehålla uppgift om vilken samverkan som behövs mellan staten och den eller de berörda kommunerna för att kommunerna i sin planering enligt plan- och bygglagen (2010:900) ska
+
+1. tillgodose ett intresse som rör hushållningen med mark- och vattenområden enligt 3 och 4 kap. miljöbalken, eller
+
+2. skapa förutsättningar för att miljökvalitetsnormer enligt 5 kap. miljöbalken följs. *Förordning (2017:970)*.
+
+## Övergångsbestämmelser
+
+**2008:232**
+
+1. Denna förordning träder i kraft den 1 juni 2008.
+
+2. För tiden före den 1 juli 2008 ska det som i 2 § sägs om Strålsäkerhetsmyndigheten i stället gälla Statens kärnkraftinspektion.

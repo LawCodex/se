@@ -1,0 +1,89 @@
+---
+title: "Förordning (1982:840) om statsbidrag till kalkning av sjöar och vattendrag"
+identifier: "SFS 1982:840"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1982-09-09
+amended_through: "SFS 2011:621"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-840.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:840"
+retrieved: 2026-10-11
+---
+# Förordning (1982:840) om statsbidrag till kalkning av sjöar och vattendrag
+
+### 1 §
+
+Enligt denna förordning kan i mån av tillgång på medel lämnas statsbidrag till kalkning och till biologisk återställning i kalkade vatten. *Förordning (1991:1292)*.
+
+### 2 §
+
+Med kalkning avses i förordningen sådan spridning av kalk eller annat ämne, kalkfällning eller annan åtgärd som kan motverka försurning av sjöar och vattendrag. Med biologisk återställning i kalkade vatten avses sådan åtgärd som gör det möjligt för växt- eller djurarter som har försvunnit på grund av försurningen att återkomma. *Förordning (1991:1292)*.
+
+### 3 §
+
+Bidrag får lämnas för inköp, transport och spridning av kalk eller annat ämne, för annan åtgärd som avses i 2 § och för sådana utredningar eller undersökningar i samband med kalkning eller biologisk återställning i kalkade vatten som prövningsmyndigheten anser nödvändiga. *Förordning (1991:1292)*.
+
+### 4 §
+
+Bidrag får lämnas med högst 85 procent av de kostnader som prövningsmyndigheten godkänner, om det inte finns särskilda skäl som föranleder annat.
+
+### 5 §
+
+Vid prövningen av frågor om bidrag skall hänsyn tas till vattenområdets betydelse från natur- och miljövårdssynpunkt, för fisket eller för vattenförsörjningen.
+
+### 6 §
+
+Har kalkning eller biologisk återställning i kalkade vatten påbörjats utan särskilt medgivande innan bidragsfrågan har avgjorts, får bidrag lämnas endast om det finns särskilda skäl. *Förordning (1991:1292)*.
+
+### 7 §
+
+Frågor om bidrag prövas av länsstyrelsen.
+
+Om länsstyrelsen anser att bidrag bör lämnas med mer än 85 procent av kostnaderna, ska ärendet överlämnas till Havs- och vattenmyndigheten, som ska pröva frågan.
+
+*Förordning (2011:621)*.
+
+### 8 §
+
+I ärenden om bidrag ska yttrande inhämtas från kommunen, om inte särskilda skäl föranleder annat.
+
+Länsstyrelsen ska med eget yttrande till Havs- och vattenmyndigheten överlämna de ärenden som enligt 7 § andra stycket ska prövas av den myndigheten. *Förordning (2011:621)*.
+
+### 9 §
+
+I beslut genom vilka bidrag beviljas skall ställas upp som villkor att sökanden
+
+1. inom viss tid påbörjar och slutför kalkningen,
+
+2. underkastar sig den kontroll i fråga om arbetets utförande som länsstyrelsen bestämmer,
+
+3. iakttar de villkor i övrigt som länsstyrelsen bestämmer. *Förordning (1991:563)*.
+
+### 10 §
+
+Länsstyrelsen får upphäva ett beslut om bidrag och, i fråga om ett bidrag som har lämnats ut, kräva att det helt eller delvis betalas tillbaka, om bidraget har beviljats på grund av någon oriktig uppgift från bidragstagaren eller denne bryter mot något villkor för bidraget.
+
+*Förordning (1991:563)*.
+
+### 11 §
+
+Havs- och vattenmyndigheten får i fråga om kalkningsverksamheten meddela föreskrifter om planering, genomförande samt uppföljning av kemiska och biologiska effekter. *Förordning (2011:621)*.
+
+### 11 a §
+
+Havs- och vattenmyndigheten ska senast fyra veckor efter ett beslut om kalkningsmedlens fördelning lämna en redovisning till regeringen av hur medlen fördelats, grunderna för fördelningen och kalkningsverksamhetens utveckling på nationell och regional nivå i förhållande till försurningsutvecklingen i sjöar och vattendrag.
+
+*Förordning (2011:621)*.
+
+### 12 §
+
+Länsstyrelsens beslut enligt denna förordning och Havs- och vattenmyndighetens beslut enligt 7 § andra stycket får inte överklagas. *Förordning (2011:621)*.
+
+## Övergångsbestämmelser
+
+**1991:1292**
+
+Denna förordning träder i kraft den 1 november 1991. Äldre föreskrifter gäller fortfarande i fråga om ärenden enligt 7 § andra stycket som har överlämnats till regeringen före ikraftträdandet och i fråga om överklagande av beslut som dessförinnan har meddelats av länsstyrelsen.

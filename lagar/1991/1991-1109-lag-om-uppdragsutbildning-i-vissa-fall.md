@@ -1,0 +1,37 @@
+---
+title: "Lag (1991:1109) om uppdragsutbildning i vissa fall"
+identifier: "SFS 1991:1109"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-06-13
+amended_through: "SFS 2019:875"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-1109.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:1109"
+retrieved: 2026-10-11
+---
+# Lag (1991:1109) om uppdragsutbildning i vissa fall
+
+## 1 §
+
+Med uppdragsutbildning avses i denna lag utbildning som innebär att kommuner och regioner mot särskild ersättning från annan än enskild, för dennes räkning anordnar utbildning för personer som uppdragsgivaren utser. Uppdragsutbildning får bedrivas på de villkor som anges i denna lag. *Lag (2019:875)*.
+
+## 2 §
+
+Kommuner och regioner får bedriva uppdragsutbildning som i fråga om art och nivå motsvarar den verksamhet kommunen eller regionen får bedriva inom skolväsendet. Uppdragsutbildningen får dock inte motsvara ett helt nationellt program i gymnasieskolan. *Lag (2019:875)*.
+
+## 3 §
+
+Har upphävts genom *lag (2012:911)*.
+
+## 4 §
+
+Deltagare i sådan uppdragsutbildning som motsvarar utbildning inom skolväsendet får ges betyg eller annat kompetensbevis enligt bestämmelserna för sådan utbildning under de förutsättningar som anges i föreskrifter som meddelas av regeringen.
+
+Även i andra frågor som rör förhållandet till skolväsendet meddelas föreskrifter av regeringen. *Lag (2012:911)*.
+
+## 5 §
+
+Kommuner och regioner som är huvudmän för folkhögskolor som kan få statsbidrag, får bedriva uppdragsutbildning vid skolorna vid sidan av den verksamhet som kan berättiga till statsbidrag. *Lag (2019:875)*.

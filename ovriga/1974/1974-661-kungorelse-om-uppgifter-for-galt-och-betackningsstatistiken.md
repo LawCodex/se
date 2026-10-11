@@ -1,0 +1,57 @@
+---
+title: "Kungörelse (1974:661) om uppgifter för galt- och betäckningsstatistiken"
+identifier: "SFS 1974:661"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1974-08-30
+amended_through: "SFS 2018:934"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1974-661.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1974:661"
+retrieved: 2026-10-11
+---
+# Kungörelse (1974:661) om uppgifter för galt- och betäckningsstatistiken
+
+### 1 §
+
+Den som innehar galt som användes för betäckning skall lämna uppgifter enligt denna kungörelse till statistiska centralbyråns galt- och betäckningsstatistik.
+
+Uppgifter för galt- och betäckningsstatistiken skall även ingå i lantbrukets företagsregister.
+
+### 2 §
+
+Den som är uppgiftsskyldig enligt 1 § första stycket skall
+
+1. föra fortlöpande anteckningar om galtens betäckningar i betäckningsjournal som statistiska centralbyrån tillhandahåller eller i annan av centralbyrån godkänd journal,
+
+2. senast tredje dagen efter varje kalendermånads utgång sända uppgift till statistiska centralbyrån på blankett som centralbyrån tillhandahåller om antalet under månaden betäckta suggor samt om förändringar i innehavet av galt.
+
+### 3 §
+
+Länsstyrelsen får besluta att förelägga den uppgiftsskyldige att lämna föreskrivna uppgifter. Ett sådant föreläggande får förenas med vite. Frågan om att döma ut vitet prövas av länsstyrelsen.
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:934)*.
+
+### 4 §
+
+Den som uppsåtligen eller av grov oaktsamhet lämnat oriktig uppgift dömes till böter, om ej gärningen är belagd med straff i brottsbalken.
+
+Allmänt åtal för brott som avses i första stycket får väckas endast efter anmälan av statistiska centralbyrån. Innan centralbyrån gör sådan anmälan, skall samråd ske med lantbruksstyrelsen.
+
+### 5 §
+
+har upphört att gälla genom *förordning (1980:736)*.
+
+### 6 §
+
+Ytterligare föreskrifter för tillämpningen av denna kungörelse meddelas av statistiska centralbyrån efter samråd med lantbruksstyrelsen.
+
+## Övergångsbestämmelser
+
+**1995:262**
+
+Denna förordning träder i kraft den 1 april 1995. Beslut som har meddelats före ikraftträdandet överklagas enligt äldre bestämmelser.

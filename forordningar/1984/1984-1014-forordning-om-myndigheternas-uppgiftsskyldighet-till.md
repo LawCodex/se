@@ -1,0 +1,131 @@
+---
+title: "Förordning (1984:1014) om myndigheternas uppgiftsskyldighet till Försäkringskassan, m.m."
+identifier: "SFS 1984:1014"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1984-11-29
+amended_through: "SFS 2010:1665"
+reprinted: "SFS1991:1814"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-1014.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:1014"
+retrieved: 2026-10-11
+---
+# Förordning (1984:1014) om myndigheternas uppgiftsskyldighet till Försäkringskassan, m.m.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+I denna förordning ges föreskrifter om
+
+1. myndigheternas uppgiftsskyldighet till Försäkringskassan i samband med arbetsgivarinträde,
+
+2. åtgärder som Försäkringskassan har att vidta med anledning av att arbetsgivarinträde gäller,
+
+3. beräkning och utbetalning av försäkringsersättning.
+
+*Förordning (2004:889)*.
+
+#### 2 §
+
+I denna förordning avses med
+
+a) statligt reglerad anställning: sådan statlig eller annan anställning där avlöningsförmånerna fastställs under medverkan av regeringen eller den myndighet som regeringen bestämmer,
+
+b) myndighet: den myndighet hos vilken en arbetstagare med statligt reglerad anställning är anställd,
+
+d) arbetsgivarinträde: rätt för arbetsgivare att enligt 27 kap. 56-59 §§ socialförsäkringsbalken uppbära den sjukpenning som tillkommer arbetstagaren enligt samma balk.
+
+*Förordning (2010:1665)*.
+
+### Anmälan om arbetsgivarinträde
+
+#### 3 §
+
+För statsanställda arbetstagare skall myndigheten senast inom en månad efter det att arbetsgivarinträde har börjat gälla eller upphört att gälla lämna uppgift om detta till Försäkringskassan. För andra arbetstagare skall myndigheten lämna sådan uppgift i samband med underrättelse till Försäkringskassan om sjukledighet. *Förordning (2004:889)*.
+
+### Övriga uppgifter som lämnas till Försäkringskassan
+
+#### 4 §
+
+En myndighet som, när arbetsgivarinträde gäller, har underrättat Försäkringskassan om en sjukledighet skall till Försäkringskassan snarast möjligt överlämna arbetstagarens försäkran i samband med ledigheten. *Förordning (2004:889)*.
+
+#### 5 §
+
+Intyg av en läkare eller tandläkare, som inkommer till myndigheten för att styrka rätt till en sjukledighet, skall i fall som avses i 4 § omedelbart översändas till Försäkringskassan, om denna har underrättats om ledigheten.
+
+*Förordning (2004:889)*.
+
+#### 6 §
+
+Uppgifter om för vilka statsanställda med arbetsgivarinträde och för vilka tider sjuklön har utgetts, lönenivå och andra uppgifter som Försäkringskassan begär till ledning för beräkning av försäkringsersättning skall tillhandahållas varje månad i efterhand. *Förordning (2004:889)*.
+
+### Beräkning och utbetalning av försäkringsersättning
+
+#### 7 §
+
+Den ersättning som enligt 27 kap. 56 och 57 §§, 58 § första stycket och 59 § socialförsäkringsbalken ska betalas till staten vid en arbetstagares sjukledighet ska utgöra den procentandel av arbetstagarens lön som Försäkringskassan fastställer. *Förordning (2010:1665)*.
+
+#### 8 §
+
+Vid fastställandet av procentsatsen enligt 7 § ska beaktas att ersättningen som avses i den paragrafen inte omfattar lönedelar som överstiger tio gånger prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken samt att avdrag på sjuklön inte görs vid sjukhusvård. *Förordning (2010:1665)*.
+
+#### 9 §
+
+Den ersättning, som enligt 27 kap. 56 och 57 §§, 58 § andra stycket och 59 § socialförsäkringsbalken vid sjukledighet för en arbetstagare med statligt reglerad anställning ska betalas till en annan arbetsgivare än staten, ska utgöra arbetstagarens sjukpenning beräknad enligt 27 kap. 19-24 a, 26, 27, 32, 35 a och 39 §§, samt 28 kap. 7, 10 och 11 §§ samma balk för varje dag i sjukperioden.
+
+*Förordning (2010:1665)*.
+
+#### 10 §
+
+Gäller arbetsgivarinträde ska den ersättning, som enligt socialförsäkringsbalken tillkommer arbetstagaren, utges till den myndighet som anges i följande sammanställning.
+
+```
+Arbetstagare                            Ersättning enligt
+                                        socialförsäkringsbalken
+                                        utges till
+1. Arbetstagare vid riksbanken          Riksbanken
+2. Riksdagsledamöter och arbetstagare
+hos riksdagen                           Riksdagsförvaltningen
+3. Arbetstagare hos Riksrevisionen, riksdagens ombudsmän och Nordiska
+rådets svenska delegation               Försäkringskassan
+4. Arbetstagare vid statens
+affärsdrivande verk                     Verket
+5. Arbetstagare vid
+exportkreditnämnden                     Exportkreditnämnden
+6. Arbetstagare hos Uppsala universitets fond- och
+egendomsförvaltning                     Uppsala universitets
+                                        fond- och
+                                        egendomsförvaltning
+7. Arbetstagare vid andra statliga
+myndigheter                             Försäkringskassan
+8. Arbetstagare vid hovstaten, såvitt avser husgerådskammaren, samt vid
+slottsstaten                            Försäkringskassan
+9. Arbetstagare inom icke-statlig verksamhet i övrigt, som avlönas enligt statligt kollektivavtal
+eller statliga bestämmelser             Myndigheten
+10. Arbetstagare vid institutioner i Sverige som lyder under Nordiska
+ministerrådet.                          Institutionen
+```
+
+*Förordning (2010:1665)*.
+
+## Övergångsbestämmelser
+
+**1987:362**
+
+Denna förordning träder i kraft den 1 december 1987. Föreskrifterna i 16 a § tillämpas första gången på sjukdomsfall som inträffat efter ikraftträdandet.
+
+**1989:589**
+
+Denna förordning träder i kraft den 1 juli 1989. Äldre föreskrifter gäller fortfarande i fråga om ledighet och ersättning som avser tid före ikraftträdandet.
+
+**1991:1814**
+
+Denna förordning träder i kraft den 1 januari 1992. Äldre föreskrifter tillämpas fortfarande i fråga om sjukledighet som har påbörjats före ikraftträdandet.
+
+**2006:364**
+
+Denna förordning träder i kraft den 1 juli 2006. Äldre bestämmelser gäller fortfarande beträffande ersättning som avser tid före ikraftträdandet.

@@ -1,0 +1,43 @@
+---
+title: "Förordning (1984:1127) med bemyndigande för Försäkringskassan att verkställa fördelning av arbetsgivaravgifter mellan olika avgiftsändamål"
+identifier: "SFS 1984:1127"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1984-12-20
+amended_through: "SFS 2016:690"
+department: "Finansdepartementet S1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-1127.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:1127"
+retrieved: 2026-10-11
+---
+# Förordning (1984:1127) med bemyndigande för Försäkringskassan att verkställa fördelning av arbetsgivaravgifter mellan olika avgiftsändamål
+
+### 1 §
+
+Försäkringskassan skall verkställa den fördelning av arbetsgivaravgifter mellan olika avgiftsändamål som är föreskriven i 11 § lagen (2000:981) om fördelning av socialavgifter. *Förordning (2004:890)*.
+
+### 2 §
+
+Konjunkturinstitutet skall tillhandahålla Försäkringskassan prognoser över avgiftsunderlag för beräkning av de avgiftsmedel som kan väntas bli tillgängliga för fördelning. *Förordning (2004:890)*.
+
+### 3 §
+
+Försäkringskassan får under året successivt från vederbörlig inkomsttitel i statsbudgeten ta i anspråk de medel som behövs för fördelningen. *Förordning (2004:890)*.
+
+### 4 §
+
+Skatteverket ska varje månad lämna Försäkringskassan en redovisning för dels de avgifter som beslutats för den föregående månaden, dels beräknade restförda avgifter. Efter årets slut ska Skatteverket lämna Försäkringskassan uppgift om dels de under året betalda avgifterna, dels de för året beslutade avgifterna.
+
+Försäkringskassan ska på grundval av Skatteverkets redovisning göra de justeringar av fördelningen som behövs. Vid fördelningen ska hänsyn tas till beräknade restförda avgifter.
+
+Med restförda avgifter avses av Skatteverket beslutad nedsättning av avgifter på grund av skuldsanering, F-skuldsanering, ackord och företagsrekonstruktion samt restförda avgifter minskade med indrivna avgifter.
+
+*Förordning (2016:690)*.
+
+## Övergångsbestämmelser
+
+**1992:103**
+
+Denna förordning träder i kraft den 1 april 1992 och tillämpas första gången i fråga om prognoser för hela eller del av tredje kvartalet 1992.

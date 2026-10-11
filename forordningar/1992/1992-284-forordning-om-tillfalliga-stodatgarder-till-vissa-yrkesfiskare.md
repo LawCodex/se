@@ -1,0 +1,59 @@
+---
+title: "Förordning (1992:284) om tillfälliga stödåtgärder till vissa yrkesfiskare"
+identifier: "SFS 1992:284"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1992-05-07
+amended_through: "SFS 1993:1145"
+department: "Jordbruksdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-284.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:284"
+retrieved: 2026-10-11
+---
+# Förordning (1992:284) om tillfälliga stödåtgärder till vissa yrkesfiskare
+
+## Tillämpningsområde
+
+### 1 §
+
+Fiskeföretag som vid tidpunkten för ikraftträdandet av denna förordning har beviljats fiskerilån, fiskberedningslån eller garantilån enligt förordningen (1985:439) om statligt stöd till yrkesfisket m. m. kan om det finns särskilda skäl beviljas amorteringsfrihet, räntefrihet eller förlängd amorteringstid enligt denna förordning.
+
+Stödåtgärder får bara beviljas sådana fiskeföretag som
+
+1. är särskilt skuldsatta,
+
+2. tillfälligt har låga inkomster till följd av att fisket efter torsk eller andra fiskslag har påverkats av den ogynnsamma situationen för torskbestånden i Östersjön, och
+
+3. kan förutsättas bli lönsamma inom en tvåårsperiod från det att stödåtgärden beviljades. *Förordning (1993:145)*.
+
+## Amorterings- och räntefrihet
+
+### 2 §
+
+För fiskerilån och fiskberedningslån får låntagaren medges amorterings- och räntefrihet i högst fyra år.
+
+För garantilån får låntagaren medges amorteringsfrihet i högst två år utöver den tid som anges i 27 § förordningen (1985:439) om statligt stöd till yrkesfisket m. m.
+
+## Förlängd amorteringstid
+
+### 3 §
+
+För fiskerilån och fiskberedningslån får amorteringstiden bestämmas till högst 25 år. Detsamma gäller för andra garantilån än driftslån enligt 9 och 20 §§ förordningen (1985:439) om statligt stöd till yrkesfisket m. m. och för lån till motorer eller annan utrustning med kort användningstid.
+
+Amorteringstiden för lånen får inte överstiga investeringens ekonomiska livslängd.
+
+Förfarandet i ärenden m. m.
+
+### 4 §
+
+Frågor om stödåtgärder enligt denna förordning prövas av Fiskeriverket, eller om Fiskeriverket bestämmer det, av länsstyrelsen.
+
+### 5 §
+
+Länsstyrelsens beslut enligt denna förordning får överklagas hos Fiskeriverket. Fiskeriverkets beslut får inte överklagas.
+
+### 6 §
+
+Fiskeriverket får meddela de ytterligare föreskrifter som behövs för verkställigheten av denna förordning.

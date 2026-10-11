@@ -1,0 +1,57 @@
+---
+title: "Lag (1976:1090) om alkoholutandningsprov"
+identifier: "SFS 1976:1090"
+type: act
+jurisdiction: se
+language: sv
+date: 1976-12-22
+amended_through: "SFS 2024:721"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1976-1090.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1976:1090"
+retrieved: 2026-10-11
+---
+# Lag (1976:1090) om alkoholutandningsprov
+
+## 1 §
+
+Alkoholutandningsprov får tas på den som skäligen kan misstänkas för brott som avses i 4 § lagen (1951:649) om straff för vissa trafikbrott, 30 § lagen (1990:1157) om säkerhet vid tunnelbana och spårväg, 20 kap. 4 § sjölagen (1994:1009), 7 kap. 2 eller 4 § järnvägssäkerhetslagen (2022:367), 8 kap. 2 eller 4 § lagen (2022:368) om nationella järnvägssystem, 13 kap. 2 § luftfartslagen (2010:500) eller annat brott, på vilket fängelse kan följa, om provet kan ha betydelse för utredning om brottet.
+
+Alkoholutandningsprov tas av
+
+1. en polisman,
+
+2. en tulltjänsteman eller en kustbevakningstjänsteman, om misstanken gäller brott som avses i 4 § lagen om straff för vissa trafikbrott, eller
+
+3. en kustbevakningstjänsteman, om misstanken gäller brott som avses i 20 kap. 4 § sjölagen.
+
+Bestämmelser om en tulltjänstemans och en kustbevakningstjänstemans rätt att stoppa fordon eller något annat transportmedel finns i 2 kap. 4 § 4 tullbefogenhetslagen (2024:710) och 3 kap. 16 § 4 kustbevakningslagen (2019:32).
+
+Provtagningen ska ske på ett sätt som inte utsätter den på vilken provet tas för allmän uppmärksamhet. Om särskilda skäl inte föranleder något annat, ska provet tas i täckt fordon eller fartyg eller inomhus i avskilt rum. *Lag (2024:721)*.
+
+## 2 §
+
+Alkoholutandningsprov får även i andra fall än som avses i 1 § första stycket tas på
+
+1. förare av motordrivet fordon, om inte fordonet är avsett att föras av gående,
+
+2. förare av maskindrivet spårfordon på järnväg, tunnelbana eller spårväg,
+
+3. den som framför ett fartyg eller i övrigt på ett fartyg fullgör en uppgift av väsentlig betydelse för säkerheten till sjöss, om fartyget kan antas vara sådant som avses i 20 kap. 4 § första stycket sjölagen (1994:1009), samt
+
+4. den som manövrerar ett luftfartyg eller i övrigt ombord på ett luftfartyg fullgör en uppgift av väsentlig betydelse för flygsäkerheten eller som utövar tjänst som avses i 6 kap. 20 § luftfartslagen (2010:500).
+
+Bestämmelserna i 1 § andra-fjärde styckena ska tillämpas vid provtagning enligt denna paragraf. Dessutom gäller att prov får tas endast på eller i nära anslutning till den plats där personen kontrolleras eller ett ingripande mot honom eller henne sker. Proven ska tas med instrument som kan användas utan dröjsmål och som bara anger om eventuell alkoholkoncentration överstiger ett visst gränsvärde. Prov som enligt denna paragraf får tas på förare av motordrivet fordon får även tas av en bilinspektör som avses i fordonslagen (2002:574).
+
+Om den undersökte begär det ska protokoll föras vid provtagningen och bevis om utförd åtgärd utfärdas.
+
+*Lag (2010:1014)*.
+
+## 3 §
+
+Blodprov får tas på den som är skyldig att lämna ett alkoholutandningsprov enligt 2 § även om det inte finns förutsättningar för det enligt 28 kap. 12 § rättegångsbalken, om han eller hon
+
+1. vägrar att medverka till alkoholutandningsprov, eller
+
+2. inte kan lämna sådant prov på grund av att han eller hon varit inblandad i en trafikolycka. *Lag (2008:324)*.

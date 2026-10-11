@@ -1,0 +1,51 @@
+---
+title: "Lag (1970:990) om förmånsrätt för fordran på grund av fastighetsbildning"
+identifier: "SFS 1970:990"
+type: act
+jurisdiction: se
+language: sv
+date: 1970-12-17
+amended_through: "SFS 2012:182"
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1970-990.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1970:990"
+retrieved: 2026-10-11
+---
+# Lag (1970:990) om förmånsrätt för fordran på grund av fastighetsbildning
+
+### 1 §
+
+Har vid en förrättning enligt fastighetsbildningslagen (1970:988) bestämts att en ägare eller en tidigare ägare av en fastighet ska betala ersättning till en annan sakägare och har fordran på ersättning inte förfallit till betalning tidigare än ett år före utmätning eller konkursansökan, ska med fordringen följa förmånsrätt enligt 6 § 1 förmånsrättslagen (1970:979).
+
+Samma förmånsrätt tillkommer fordran på ersättning i pengar enligt 5 kap. 31 § tredje stycket fastighetsbildningslagen för skog som inte kunnat tas ut inom föreskriven tid.
+
+*Lag (2012:182)*.
+
+### 2 §
+
+Följande beslut skall antecknas i fastighetsregistrets inskrivningsdel när de har vunnit laga kraft:
+
+1. beslut om att en ägare eller en tidigare ägare skall betala ersättning enligt 1 § första stycket,
+
+2. beslut om rätt enligt 5 kap. 31 § tredje stycket fastighetsbildningslagen (1970:988) att ta ut skog, samt
+
+3. beslut enligt 5 kap. 12 a § första stycket fastighetsbildningslagen.
+
+Beslut som anges i första stycket 1 och 2 skall dock inte antecknas, om det sammanlagda kapitalbeloppet av de ersättningar för vilka en fastighet enligt 1 § första stycket svarar inte uppgår till ettusen kronor. *Lag (2000:235)*.
+
+### 3 §
+
+Närmare föreskrifter för tillämpningen av denna lag meddelas av konungen eller av myndighet som Konungen bestämmer.
+
+## Övergångsbestämmelser
+
+**1970:990**
+
+Denna lag träder i kraft den 1 januari 1972, då lagen (1926:335) om säkerhet för utbekommande av vissa ersättningar i anledning av laga skifte eller annan jorddelningsförrättning och lagen (1965:194) angående säkerhet för ersättning enligt lagen om sammanföring av samfälld vägmark och av järnvägsmark med angränsande fastighet m.m.
+
+skall upphöra att gälla. De upphävda lagarna gäller dock alltjämt i fråga om ersättning som bestämts enligt äldre lagstiftning om fastighetsbildning.
+
+**2012:182**
+
+Denna lag träder i kraft den 1 juli 2012. Äldre föreskrifter gäller fortfarande för ersättning som beslutats enligt lagen (1987:11) om exploateringssamverkan.

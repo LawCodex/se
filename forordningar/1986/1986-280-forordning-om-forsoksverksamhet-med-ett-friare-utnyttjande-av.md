@@ -1,0 +1,44 @@
+---
+title: "Förordning (1986:280) om försöksverksamhet med ett friare utnyttjande av resurserna för vuxenstudiestöd och uppsökande verksamhet på arbetsplatser"
+identifier: "SFS 1986:280"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1986-05-22
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1986-280.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1986:280"
+retrieved: 2026-10-11
+---
+# Förordning (1986:280) om försöksverksamhet med ett friare utnyttjande av resurserna för vuxenstudiestöd och uppsökande verksamhet på arbetsplatser
+
+## Inledande föreskrifter
+
+### 1 §
+
+I denna förordning meddelas föreskrifter om försöksverksamhet med ett friare utnyttjande av de resurser som ställs till vuxenutbildningsnämndernas förfogande för korttidsstudiestöd, internatbidrag, särskilt vuxenstudiestöd och uppsökande verksamhet på arbetsplatser.
+
+Ändamålet med försöksverksamheten är att pröva nya vägar och metoder att nå korttidsutbildade vuxna och rekrytera dem till studier. *Förordning (1987:299)*.
+
+### 2 §
+
+Försöksverksamheten får innebära avsteg från de förutsättningar som enligt gällande föreskrifter gäller för att korttidsstudiestöd, internatbidrag, särskilt vuxenstudiestöd samt medel till uppsökande verksamhet på arbetsplatser skall kunna utgå. *Förordning (1987:299)*.
+
+## Villkor
+
+### 3 §
+
+Försöksverksamheten skall rymmas inom tillgängliga resursramar, gälla klart definierade och avgränsade projekt som skall uppfylla det angivna ändamålet för verksamheten och bedrivas på ett sådant sätt att den går att redovisa och utvärdera.
+
+## Särskild föreskrift
+
+### 4 §
+
+Projekt inom ramen för försöksverksamheten beslutas av centrala studiestödsnämnden efter förslag av vuxenutbildningsnämnd.
+
+## Utvärdering
+
+### 5 §
+
+har upphävts genom *förordning (1990:565)*.

@@ -1,0 +1,41 @@
+---
+title: "Lag (1975:689) om tystnadsplikt för vissa tolkar och översättare"
+identifier: "SFS 1975:689"
+type: act
+jurisdiction: se
+language: sv
+date: 1975-06-26
+amended_through: "SFS 2019:852"
+department: "Arbetsmarknadsdepartementet IU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1975-689.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1975:689"
+retrieved: 2026-10-11
+---
+# Lag (1975:689) om tystnadsplikt för vissa tolkar och översättare
+
+### 1 §
+
+Denna lag tillämpas på tolkar och översättare som
+
+1. anlitas av en myndighet eller ett annat organ som utövar verksamhet för vars fullgörande staten eller en kommun svarar,
+
+2. genomgått sådan prövning som föreskrivs av regeringen eller den förvaltningsmyndighet som regeringen bestämmer, eller
+
+3. yrkesmässigt anlitas vid överläggning mellan en misstänkt i ett brottmål och hans eller hennes försvarare eller i övrigt vid förberedande av en misstänkts försvar.
+
+Med kommuner enligt första stycket 1 likställs regioner och kommunalförbund. *Lag (2019:852)*.
+
+### 2 §
+
+Den som fullgör eller har fullgjort uppdrag som tolk eller översättare enligt 1 § får inte obehörigen röja vad han eller hon under uppdraget har fått veta om en enskilds personliga förhållanden eller om yrkeshemlighet, affärsförhållande eller förhållande av betydelse för landets försvar. Detta gäller även den som är eller har varit anställd som tolk eller översättare.
+
+I det allmännas verksamhet tillämpas i stället bestämmelserna i offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2009:418)*.
+
+## Övergångsbestämmelser
+
+**2004:807**
+
+Denna lag träder i kraft den 1 januari 2005. Äldre bestämmelser gäller beträffande uppdrag som fullgjorts före ikraftträdandet.

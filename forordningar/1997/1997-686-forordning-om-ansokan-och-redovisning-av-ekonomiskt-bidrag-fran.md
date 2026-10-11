@@ -1,0 +1,47 @@
+---
+title: "Förordning (1997:686) om ansökan och redovisning av ekonomiskt bidrag från Europeiska gemenskapen till de svenska delarna av de transeuropeiska transportnätverken"
+identifier: "SFS 1997:686"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1997-09-11
+amended_through: "SFS 2025:1197"
+department: "Landsbygds- och infrastrukturdepartementet RSIB US"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1997-686.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1997:686"
+retrieved: 2026-10-11
+---
+# Förordning (1997:686) om ansökan och redovisning av ekonomiskt bidrag från Europeiska gemenskapen till de svenska delarna av de transeuropeiska transportnätverken
+
+## 1 §
+
+I denna förordning meddelas föreskrifter enligt rådets förordning (EG) nr 2236/95 av den 18 september 1995 om allmänna regler för gemenskapens finansiella stöd på området för transeuropeiska nät2.
+
+## 2 §
+
+Trafikverket upprättar och lämnar till Europeiska kommissionen ansökningar om bidrag till den svenska delen av de transeuropeiska transportnätverken. Ansökningarna ska i första hand avse projekt som har nationell prioritet.
+
+*Förordning (2010:138)*.
+
+## 3 §
+
+Utbetalning av bidrag från Europeiska kommissionen ska ske till Trafikverket.
+
+Utbetalningar från EU-budgeten i euro räknas av Riksbanken om till kronor enligt gällande valutakurs. Beloppen överförs i kronor av Riksbanken till Trafikverkets konto i statens centralkonto i Riksbanken. *Förordning (2010:138)*.
+
+## 4 §
+
+Trafikverket ska redovisa erhållna bidrag på särskild inkomsttitel i statsbudgeten. *Förordning (2010:138)*.
+
+## 5 §
+
+Medel för att utföra projekten ska redovisas på särskild anslagspost. Detta ska gälla även när bidrag tillförs privaträttsliga subjekt. Medlen ska särredovisas i Trafikverkets årsredovisning.
+
+Vid omräkning av utgiftsbelopp från kronor till euro ska den valutakurs tillämpas som gällde för den månad då Europeiska kommissionen mottog redovisningar för utgiftsbeloppen. Om kursvinster eller kursförluster uppstår vid återflödet från EU-budgeten ska dessa avräknas mot det ordinarie anslaget.
+
+*Förordning (2010:138)*.
+
+## 6 §
+
+Trafikverket ska omgående informera Statskontoret, Riksgäldskontoret och Konjunkturinstitutet om storleken på och tidpunkten för återflödet från EU-budgeten avseende bidrag till svenska projekt. *Förordning (2025:1197)*.

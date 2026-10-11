@@ -1,0 +1,67 @@
+---
+title: "Förordning (1994:246) om ersättning för vissa merkostnader och förluster med anledning av Tjernobylolyckan"
+identifier: "SFS 1994:246"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-04-14
+amended_through: "SFS 2006:1360"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-246.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:246"
+retrieved: 2026-10-11
+---
+# Förordning (1994:246) om ersättning för vissa merkostnader och förluster med anledning av Tjernobylolyckan
+
+### 1 §
+
+Ersättning av statsmedel får i mån av tillgång på medel lämnas enligt denna förordning för merkostnader och förluster på grund av radioaktivt nedfall i Sverige med anledning av reaktorhaveriet i Tjernobyl.
+
+### 2 §
+
+Ersättning lämnas för merkostnader och förluster till följd av åtgärder som har vidtagits i syfte att förebygga hälsorisker från livsmedel, om åtgärden har ett direkt och påtagligt samband med Tjernobylolyckan.
+
+Om det inte finns särskilda skäl, lämnas ersättning för kasserat kött endast under förutsättning att åtgärder vidtagits för att nedbringa kostnaderna eller förlusterna.
+
+### 3 §
+
+Ersättning får lämnas till
+
+1. jordbruksföretag,
+
+2. renskötselföretag och
+
+3. den som helt eller delvis försörjer sig på att fiska till husbehov eller för försäljning.
+
+### 4 §
+
+Ersättningsbelopp får betalas ut i förskott.
+
+När den slutliga ersättningen fastställs, skall förskottsbetalning avräknas.
+
+### 5 §
+
+Frågor om ersättning enligt 3 § 1 och 3 prövas av Statens jordbruksverk. Verket får överlåta prövningen till länsstyrelsen. Frågor om ersättning enligt 3 § 2 prövas av Sametinget.
+
+Beslut enligt denna förordning får inte överklagas.
+
+*Förordning (2006:1360)*.
+
+### 6 §
+
+Jordbruksverket och Sametinget får meddela ytterligare föreskrifter om ersättning enligt denna förordning.
+
+*Förordning (2006:1360)*.
+
+## Övergångsbestämmelser
+
+**1994:246**
+
+1. Denna förordning träder i kraft den 1 juli 1994.
+
+2. Genom förordningen upphävs förordningen (1986:621) om ersättning till jordbruks-, trädgårds- och renskötselföretag samt till vissa fiskare med anledning av Tjernobylolyckan och förordningen (1987:64) om ersättning för merkostnader och förluster med anledning av Tjernobylolyckan till dem som för sitt uppehälle är beroende av fiske, jakt, bär- eller svampplockning.
+
+3. För merkostnader och förluster som uppkommit före den 1 juli 1994 gäller äldre bestämmelser.
+
+4. I fråga om överklagande av beslut som har meddelats före ikraftträdandet gäller äldre föreskrifter.

@@ -1,0 +1,73 @@
+---
+title: "Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål"
+identifier: "SFS 1990:415"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1990-05-23
+amended_through: "SFS 2026:432"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1990-415.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1990:415"
+retrieved: 2026-10-11
+---
+# Förordning (1990:415) om tillstånd till införsel av vissa farliga föremål
+
+### 1 §
+
+Springstiletter, springknivar, knogjärn, kaststjärnor, riv- eller nithandskar och batonger samt karatepinnar, blydaggar, spikklubbor eller liknande får inte föras in till landet utan särskilt tillstånd. *Lag (1993:180)*.
+
+### 2 §
+
+Tillstånd till införsel av sådana föremål som avses i 1 § får ges endast om sökanden kan visa att föremålet här är avsett att ingå i en vapensamling eller innehas för något liknande ändamål.
+
+Tillstånd får också ges beträffande batonger av det slag som enligt särskilda föreskrifter ingår i utrustning för viss tjänst eller visst uppdrag, om föremålet förs in till landet för att ingå i sådan utrustning.
+
+### 3 §
+
+Polismyndigheten prövar tillstånd till införsel enligt denna förordning. *Förordning (2014:1142)*.
+
+### 4 §
+
+I fråga om föremål som omfattas av denna förordning ska det som föreskrivs om skjutvapen i följande paragrafer i vapenlagen (2026:408) gälla i tillämpliga delar:
+
+- 1 kap. 10 §,
+
+- 8 kap. 1 §, 2 § andra meningen, 6 och 7 §§,
+
+- 16 kap. 1-5 §§,
+
+- 19 kap. 1-3 §§, och
+
+- 20 kap. 20 §.
+
+Dessutom ska det som föreskrivs om skjutvapen i följande paragrafer i vapenförordningen (2026:409) gälla i tillämpliga delar:
+
+- 1 kap. 5 § 1, 2 och 4 och 10 kap. 9 §,
+
+- 3 kap. 1 § och 4 kap. 2 §, och
+
+- 6 kap. 1 § första stycket och 3 §.
+
+Denna förordning träder i kraft den 1 juni 2026.
+
+*Förordning (2026:432)*.
+
+### 5 §
+
+Om påföljd för olovlig införsel av föremål som omfattas av denna förordning och försök till sådant brott finns föreskrifter i lagen (2000:1225) om straff för smuggling. *Förordning (2000:1271)*.
+
+### 6 §
+
+Polismyndigheten får meddela de föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (2014:1142)*.
+
+### 7 §
+
+Avgift tas ut för prövning av ansökan om tillstånd enligt denna förordning. För ansökningsavgiftens storlek m.m. gäller bestämmelserna i 9--14 §§ avgiftsförordningen (1992:191), varvid avgiftsklass 2 tillämpas. *Förordning (1992:213)*.
+
+## Övergångsbestämmelser
+
+**1996:75**
+
+Denna förordning träder i kraft den 1 april 1996. I fråga om överklagande gäller äldre bestämmelser, om polismyndighetens beslut meddelats före ikraftträdandet.

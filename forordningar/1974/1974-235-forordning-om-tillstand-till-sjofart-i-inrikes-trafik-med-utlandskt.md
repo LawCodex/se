@@ -1,0 +1,43 @@
+---
+title: "Förordning (1974:235) om tillstånd till sjöfart i inrikes trafik med utländskt fartyg m.m."
+identifier: "SFS 1974:235"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1974-05-10
+amended_through: "SFS 2014:1366"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1974-235.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1974:235"
+retrieved: 2026-10-11
+---
+# Förordning (1974:235) om tillstånd till sjöfart i inrikes trafik med utländskt fartyg m.m.
+
+## 1 §
+
+Fråga om undantag i visst fall från bestämmelserna i förordningen den 10 november 1724 angående främmandes Fahrt på Swerige och Finland och i förklaringen den 28 februari 1726 över denna förordning om förbud mot sjöfart i inrikes trafik med utländskt fartyg prövas av Transportstyrelsen.
+
+Om undantag i fråga om fartyg, som är registrerade i vissa främmande länder, finns särskilda överenskommelser.
+
+Transportstyrelsen får meddela föreskrifter om avgifter för prövning av en ansökan om undantag enligt första stycket.
+
+*Förordning (2010:1582)*.
+
+## 1 a §
+
+Förordningen den 10 november 1724 angående främmandes Fahrt på Swerige och Finland och förklaringen den 28 februari 1726 över denna förordning gäller inte för fartyg som omfattas av rådets förordning (EEG) nr 3577/92 av den 7 december 1992 om tillämpning av principen om frihet att tillhandahålla tjänster på sjötransportområdet inom medlemsstaterna (cabotage), i lydelsen enligt Anslutningsfördraget av den 9 december 2011 om Republiken Kroatiens anslutning till Europeiska unionen, eller rådets förordning (EEG) nr 3921/91 av den 16 december 1991 om villkoren för att transportföretag skall få utföra inrikes transporter av gods eller passagerare på inre vattenvägar i en annan medlemsstat än den där de är hemmahörande, i den ursprungliga lydelsen. *Förordning (2014:1366)*.
+
+## 2 §
+
+Tullverket och kustbevakningen utövar tillsyn över att sjöfart ej bedrives i strid mot de bestämmelser som anges i 1 § första stycket. *Förordning (1999:487)*.
+
+## 3 §
+
+Används fartyg uppsåtligen eller av oaktsamhet i strid mot de bestämmelser som anges i 1 § första stycket utan att fartyget omfattas av ett sådant undantag som anges i 1 § andra stycket eller av rådets förordning (EEG) nr 3577/92, i lydelsen enligt Anslutningsfördraget av den 9 december 2011 om Republiken Kroatiens anslutning till Europeiska unionen, eller rådets förordning (EEG) nr 3921/91, i den ursprungliga lydelsen, som anges i 1 a §, döms befälhavaren och redaren eller den som i redarens ställe brukar fartyget till böter.
+
+*Förordning (2014:1366)*.
+
+## 4 §
+
+Transportstyrelsens beslut enligt denna förordning får överklagas hos regeringen. *Förordning (2008:1176)*.

@@ -1,0 +1,105 @@
+---
+title: "Förordning (1998:978) om trafikskolor"
+identifier: "SFS 1998:978"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-07-02
+amended_through: "SFS 2018:975"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-978.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:978"
+retrieved: 2026-10-11
+---
+# Förordning (1998:978) om trafikskolor
+
+### 1 §
+
+Transportstyrelsen utövar tillsyn över trafikskolor.
+
+*Förordning (2008:1145)*.
+
+### 2 §
+
+Har upphävts genom *förordning (2009:1368)*.
+
+### 2 a §
+
+I ett ärende om tillstånd att bedriva trafikskola enligt 2 § lagen (1998:493) om trafikskolor ska Transportstyrelsen meddela beslut inom två månader efter det att en fullständig ansökan kom in till myndigheten. Om det är nödvändigt på grund av utredningen av ärendet, får handläggningstiden vid högst ett tillfälle förlängas med högst en månad. Sökanden ska informeras om skälen för att handläggningstiden förlängs innan den ursprungliga tidsfristen har gått ut.
+
+I 8 § lagen (2009:1079) om tjänster på den inre marknaden finns bestämmelser om att ett mottagningsbevis ska skickas till sökanden när en fullständig ansökan har kommit in och om innehållet i ett sådant bevis.
+
+Ett beslut att förlänga handläggningstiden får inte överklagas. *Förordning (2009:1105)*.
+
+### 2 b §
+
+Om Transportstyrelsen i ett ärende om tillstånd enligt 2 § lagen (1998:493) om trafikskolor begär att sökanden ska ge in certifikat, intyg eller andra liknande dokument som visar att ett visst tillståndskrav är uppfyllt, ska myndigheten godta motsvarande dokument från en annan stat inom Europeiska ekonomiska samarbetsområdet. Myndigheten får dock begära att dokumentet ska ges in i original eller i en bestyrkt kopia eller i form av en auktoriserad översättning.
+
+*Förordning (2009:1105)*.
+
+### 3 §
+
+För att få godkännande som trafiklärare ska den sökande ha genomgått en utbildning till trafiklärare inom yrkeshögskolan eller annan likvärdig utbildning och med hänsyn till sina personliga förhållanden anses lämplig som trafiklärare.
+
+För att få godkännande som utbildningsledare ska den sökande ha arbetat som godkänd trafiklärare i minst två år och med hänsyn till sina kunskaper om trafiksäkerhet och sina personliga förhållanden anses lämplig som utbildningsledare.
+
+Godkännande som trafikskolechef ska meddelas den som med hänsyn till lämplighet och allmän duglighet bedöms kunna utföra de arbetsuppgifter som ankommer på en sådan chef.
+
+*Förordning (2009:132)*.
+
+### 4 §
+
+Tillstånd skall förenas med de villkor och bestämmelser som behövs. Föranleder inte särskilda förhållanden annat, utfärdas tillståndet tills vidare.
+
+### 5 §
+
+Har upphävts genom *förordning (2011:176)*.
+
+### 6 §
+
+I en trafikskola skall de läromedel och det undervisningsmaterial i övrigt finnas som behövs för den teoretiska undervisningen samt en lokal som är lämplig för sådan undervisning.
+
+### 7 §
+
+Undervisningen skall bedrivas enligt kursplaner som Transportstyrelsen fastställer. Undervisning får meddelas i en eller flera delar av kursplanen för elever som slutför sin utbildning utanför trafikskolan. För varje elev skall utbildningskort föras. *Förordning (2008:1145)*.
+
+### 8 §
+
+Beslut om återkallelse av tillstånd eller godkännande eller varning delges den som avses med beslutet.
+
+### 9 §
+
+Om Polismyndigheten finner att ett tillstånd för trafikskola eller ett godkännande som trafikskolechef, utbildningsledare eller trafiklärare bör återkallas, ska myndigheten anmäla detta till Transportstyrelsen.
+
+*Förordning (2014:1263)*.
+
+### 10 §
+
+Bestämmelser om tillfällig yrkesutövning och erkännande av yrkeskvalifikationer som har förvärvats eller erkänts i en annan stat än Sverige inom Europeiska ekonomiska samarbetsområdet eller i Schweiz finns i lagen (2016:145) om erkännande av yrkeskvalifikationer och i de föreskrifter som meddelas i anslutning till den lagen.
+
+*Förordning (2016:173)*.
+
+### 11 §
+
+Har upphävts genom *förordning (2011:176)*.
+
+### 12 §
+
+Ytterligare föreskrifter om trafikskolor, om utbildning vid sådana skolor och om kompetenskrav enligt 3 § får meddelas av Transportstyrelsen. Styrelsen får också meddela föreskrifter om avgifter för tillsyn och ärendehandläggning enligt lagen (1998:493) om trafikskolor och enligt föreskrifter som har meddelats med stöd av lagen. *Förordning (2010:1594)*.
+
+### 13 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:975)*.
+
+## Övergångsbestämmelser
+
+**2009:132**
+
+Denna förordning träder i kraft den 1 juli 2009. Äldre bestämmelser gäller fortfarande för den som har genomgått en påbyggnadsutbildning inom kommunal vuxenutbildning eller annan likvärdig utbildning.
+
+**2009:1105**
+
+Denna förordning träder i kraft den 27 december 2009 och tillämpas endast i fråga om ansökningar som kommit in till myndigheten efter ikraftträdandet.

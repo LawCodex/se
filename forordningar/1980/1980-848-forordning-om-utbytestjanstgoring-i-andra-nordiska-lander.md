@@ -1,0 +1,140 @@
+---
+title: "Förordning (1980:848) om utbytestjänstgöring i andra nordiska länder"
+identifier: "SFS 1980:848"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1980-10-30
+amended_through: "SFS 2012:788"
+reprinted: "SFS 1992:137"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1980-848.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1980:848"
+retrieved: 2026-10-11
+---
+# Förordning (1980:848) om utbytestjänstgöring i andra nordiska länder
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning finns föreskrifter om utbytestjänstgöring i andra nordiska länder enligt Nordiska ministerrådets beslut den 8 december 1979 om nordiskt tjänstemannautbyte.
+
+Föreskrifterna gäller arbetstagare hos
+
+1. riksdagen och dess myndigheter,
+
+2. myndigheterna under regeringen.
+
+Föreskrifterna gäller inte arbetstagare i militära anställningar. *Förordning (2004:923)*.
+
+## Utbytestjänstgöringen
+
+### 2 §
+
+Utbytestjänstgöringen utformas så, att den främjar det nordiska samarbetet och är till nytta både för arbetsgivaren och för arbetstagaren.
+
+### 3 §
+
+Utbytestjänstgöringen fullgörs hos en eller flera myndigheter (utbytesmyndigheter) i Danmark, Finland, Island eller Norge.
+
+Utbytestjänstgöringen skall avse uppgifter som så långt möjligt stämmer överens med arbetstagarens uppgifter i anställningen.
+
+Arbetsledningen för utbytestjänstgöringen utövas av utbytesmyndigheten. *Förordning (1994:977)*.
+
+### 4 §
+
+Utbytestjänstgöringen får pågå högst tolv månader. Den bör såvitt möjligt pågå i en följd.
+
+## Tjänstebefrielse
+
+### 5 §
+
+En arbetstagare som fullgör utbytestjänstgöring är utan något särskilt beslut om det befriad från sina uppgifter i anställningen.
+
+*Förordning (1994:977)*.
+
+## Förmåner
+
+### 6 §
+
+Under utbytestjänstgöringen har arbetstagaren rätt till samma avlönings- och andra förmåner som under sin vanliga tjänstgöring, dock inte till reseförmåner. *Förordning (1981:1270)*.
+
+### 7 §
+
+Av Nordiska ministerrådets beslut framgår att arbetstagaren har rätt till följande särskilda kostnadsersättningar.
+
+1. Ett stipendium varje månad för merkostnader för bostad m.m.
+
+2. Ersättning för kostnader för en utresa och en hemresa i samband med utbytestjänstgöringens början och slut.
+
+3. Ersättning för kostnader för
+
+en utresa och en hemresa för arbetstagarens familjemedlemmar vid flyttning,
+
+transport av nödvändigt personligt bohag i samband med utbytestjänstgöringens början och slut,
+
+en resa under utbytestjänstgöringen till och från hemorten för arbetstagaren och dennes familjemedlemmar. Som familjemedlem anses därvid också den som arbetstagaren stadigvarande lever samman med.
+
+Första stycket 3 gäller dock bara om utbytestjänstgöringen skall pågå minst sex månader. *Förordning (1992:137)*.
+
+### 8 §
+
+har upphävts genom *förordning (1991:125)*.
+
+### 9 §
+
+Stipendier enligt 7 § första stycket 1 betalas med ett av Nordiska ministerrådet fastställt belopp omräknat i svensk valuta.
+
+Vid beräkning av ersättning enligt 7 § första stycket 2 skall tillämpas de föreskrifter om reseförmåner som gäller för anställningen. Kostnad för sovplats i enbäddskupé ersätts dock inte.
+
+Ersättning enligt 7 § första stycket 3 beräknas enligt de föreskrifter som gäller för anställningen vid motsvarande resor och bohagstransporter inom Sverige. *Förordning (1992:137)*.
+
+## Prövning
+
+### 10 §
+
+Ansökningar om utbytestjänstgöring prövas av den myndighet där den sökande är anställd. *Förordning (1992:137)*.
+
+### 11 §
+
+Innan en myndighet beslutar om en utbytestjänstgöring, ska den försäkra sig om att myndigheten i det andra landet kan ta emot vederbörande och hos Universitets- och högskolerådet dels försäkra sig om att medel för kostnadsersättningarna finns, dels anmäla behov av att sådana medel reserveras för den avsedda utbytestjänstgöringen. *Förordning (2012:788)*.
+
+Utbetalningar m. m.
+
+### 12 §
+
+Lön och andra avlöningsförmåner under utbytestjänstgöringen betalas ut på samma sätt som under arbetstagarens vanliga tjänstgöring.
+
+De särskilda kostnadsersättningarna betalas ut av samma myndighet som betalar ut arbetstagarens lön eller arvode. Därvid tillämpas i fråga om förskott och reseräkning de föreskrifter som avses i 9 § andra stycket.
+
+Stipendiet betalas ut förskottsvis per månad. *Förordning (1992:137)*.
+
+### 13 §
+
+De särskilda kostnadsersättningarna bekostas av Nordiska ministerrådet.
+
+Rekvisitioner av ersättning för myndighetens utgifter för kostnadsersättningarna ges in till Universitets- och högskolerådet senast fyra månader efter avslutad tjänstgöring.
+
+*Förordning (2012:788)*.
+
+## Rapportering
+
+### 14 §
+
+En arbetstagare som har fullgjort utbytestjänstgöring ska senast två månader efter det att utbytestjänstgöringen har avslutats lämna en skriftlig rapport om tjänstgöringen.
+
+Rapporten ges i två exemplar in till den myndighet där arbetstagaren är anställd. Myndigheten ska lämna över det ena exemplaret till Universitets- och högskolerådet. *Förordning (2012:788)*.
+
+### 15 §
+
+Har upphävts genom *förordning (1984:32)*.
+
+## Överklagande
+
+### 16 §
+
+En myndighets beslut om utbytestjänstgöring får inte överklagas.
+
+*Förordning (1992:137)*.

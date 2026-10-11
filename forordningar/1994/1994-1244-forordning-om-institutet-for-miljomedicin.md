@@ -1,0 +1,71 @@
+---
+title: "Förordning (1994:1244) om Institutet för miljömedicin"
+identifier: "SFS 1994:1244"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-08-25
+amended_through: "SFS 2013:890"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-1244.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:1244"
+retrieved: 2026-10-11
+---
+# Förordning (1994:1244) om Institutet för miljömedicin
+
+## Inledande bestämmelse
+
+### 1 §
+
+Vid Karolinska institutet finns det ett institut för miljömedicin. Institutet för miljömedicin har ett nationellt ansvar inom sitt område. *Förordning (2010:1785)*.
+
+## Uppgifter
+
+### 2 §
+
+Institutet skall bedriva forskning och utbildning samt utföra undersökningar och utredningar dels inom fysikalisk och kemisk miljömedicin, inklusive arbetsmiljö, dels inom hälsoskydd. *Förordning (2001:1256)*.
+
+### 3 §
+
+Institutet skall särskilt
+
+1. samverka med och biträda myndigheter, institutioner och organisationer i syfte att åstadkomma ett effektivt utnyttjande av de samlade resurserna inom området för institutets verksamhet,
+
+2. på grundval av forskning utveckla metoder av betydelse för verksamhetsområdet,
+
+3. förse myndigheter med underlag för åtgärder som är ägnade att förbättra de miljömedicinska förhållandena i landet, och
+
+4. följa, stödja och delta i det internationella arbetet inom miljömedicinen.
+
+### 4 §
+
+Institutet ska i första hand utföra undersökningar och uppdrag som begärs av myndigheter och främst tillgodose myndigheternas behov av utredningsunderlag. Institutet ska särskilt beakta Folkhälsomyndighetens behov av underlag för rapporter om folkhälsan. *Förordning (2013:890)*.
+
+## Institutets ledning och organisation
+
+### 5 §
+
+Institutet leds av en styrelse.
+
+Vid institutet skall finnas en föreståndare. Föreståndaren utses för en bestämd tid av styrelsen för Karolinska institutet efter förslag från styrelsen för Institutet för miljömedicin.
+
+### 6 §
+
+Styrelsen skall bestå av en ordförande, en vice ordförande samt tio andra ledamöter. Ordföranden skall utses av styrelsen för Karolinska institutet. Föreståndaren är vice ordförande.
+
+Övriga ledamöter skall utses av styrelsen för Karolinska institutet efter samråd med de myndigheter som i första hand berörs av verksamheten. Samtliga ledamöter, utom föreståndaren, skall utses för en bestämd tid.
+
+Styrelsen är beslutför när ordföranden och minst hälften av de andra ledamöterna är närvarande. *Förordning (2001:1256)*.
+
+## Styrelsens uppgifter
+
+### 7 §
+
+Styrelsen skall avgöra frågor om inriktningen av institutets verksamhet och utarbeta underlag för budget och förslag till anslagsframställningar.
+
+## Övrigt
+
+### 8 §
+
+Ytterligare föreskrifter om institutet får meddelas av Karolinska institutet.

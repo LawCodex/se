@@ -1,0 +1,39 @@
+---
+title: "Förordning (1985:255) om undantag från skyldigheten att ledigkungöra vissa tjänster vid arbetsmarknadsverket"
+identifier: "SFS 1985:255"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1985-05-18
+reprinted: "SFS 1986:220"
+department: "Arbetsmarknadsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1985-255.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1985:255"
+retrieved: 2026-10-11
+---
+# Förordning (1985:255) om undantag från skyldigheten att ledigkungöra vissa tjänster vid arbetsmarknadsverket
+
+### 1 §
+
+Denna förordning gäller sådana tjänstetillsättningar vid arbetsmarknadsverket som sker i samband med arbetsmarknadsstyrelsens omorganisation och avvecklingen av verkets egenregiverksamhet.
+
+*Förordning (1986:220)*.
+
+### 2 §
+
+Bestämmelsen i 4 kap. 4 § första stycket lagen (1976:600) om offentlig anställning att en tjänst som en myndighet tillsätter skall kungöras ledig till ansökan gäller inte, om tjänsten tillsätts med den som innehar en tjänst med förordnande tills vidare utan tidsbegränsning vid arbetsmarknadsverket och tjänsten i fråga om lönesättning motsvarar eller i det närmaste motsvarar den nya tjänsten. *Förordning (1986:220)*.
+
+### 3 §
+
+Omplaceringsförordningen (1984:110) tillämpas inte när en tjänst tillsätts enligt 2 §. *Förordning (1986:220)*.
+
+## Övergångsbestämmelser
+
+**1985:255**
+
+Denna förordning träder i kraft en vecka efter den dag, då förordningen enligt uppgift på den har utkommit från trycket i Sensk författningssamling och gäller till utgången av juni 1986.
+
+**1986:220**
+
+Denna förordning träder i kraft en vecka efter den dag då förordningen enligt uppgift på den utkom från trycket i Svensk författningssamling och gäller till utgången av september 1987.

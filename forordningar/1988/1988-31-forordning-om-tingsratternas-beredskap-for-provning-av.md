@@ -1,0 +1,71 @@
+---
+title: "Förordning (1988:31) om tingsrätternas beredskap för prövning av häktningsfrågor m.m."
+identifier: "SFS 1988:31"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1988-01-14
+amended_through: "SFS 2026:977"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1988-31.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1988:31"
+retrieved: 2026-10-11
+---
+# Förordning (1988:31) om tingsrätternas beredskap för prövning av häktningsfrågor m.m.
+
+### 1 §
+
+Under söndag, annan allmän helgdag, lördag, midsommarafton, julafton och nyårsafton ska tingsrätterna enligt bestämmelserna i denna förordning ha beredskap för prövning av frågor som rör
+
+1. förundersökning,
+
+2. utredning enligt 31 § lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare,
+
+3. användande av tvångsmedel, och
+
+4. kontaktförbud avseende gemensam bostad och förbud enligt 3 kap. 5 § första stycket 2 lagen (2015:642) om europeisk skyddsorder.
+
+Tingsrätterna ska även ha beredskap för att pröva åtal för brott gemensamt med en fråga om häktning enligt 24 kap. 13 a § rättegångsbalken. *Förordning (2026:977)*.
+
+### 1 a §
+
+Under andra tider än ordinarie öppettider och andra tider än de som anges i 1 §, ska tingsrätterna enligt bestämmelserna i denna förordning ha beredskap för att pröva frågor om offentlig försvarare för misstänkta som är gripna eller anhållna där det finns ett särskilt brådskande behov av försvarare. Detsamma gäller frågor om juridiskt biträde enligt 32 a § lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare. *Förordning (2026:977)*.
+
+### 2 §
+
+Domstolsverket får, efter att ha gett Åklagarmyndigheten tillfälle att yttra sig, meddela föreskrifter om indelning av tingsrätterna i beredskapsområden.
+
+Domstolsverket får meddela föreskrifter om vilken tingsrätt som ska ansvara för samordningen av beredskapen inom området.
+
+En tingsrätt som är indelad för sådan beredskap som anges i 1 §, får dagen före beredskapens början handlägga frågor som behöver prövas före sammanträdet. *Förordning (2019:673)*.
+
+### 3 §
+
+Tingsrätterna inom beredskapsområdet fördelar beredskapen mellan sig efter samråd med den eller de åklagarkammare som berörs. Om tingsrätterna inte kan enas om fördelningen avgörs frågan av den hovrätt under vilken den samordningsansvariga tingsrätten hör. *Förordning (2004:1276)*.
+
+### 4 §
+
+Lagmannen avgör tingsrättens ärenden enligt 3 § och fördelar beredskapen.
+
+Beredskap enligt 1 § bör företrädesvis fullgöras av ordinarie domare. *Förordning (2019:673)*.
+
+### 5 §
+
+En tingsrätt som har beredskap enligt 1 § ska, om det är möjligt, i förväg ge till känna var sammanträde ska hållas och anslå uppropslistan på lämplig plats i anslutning till den lokal där sammanträde hålls. *Förordning (2019:673)*.
+
+### 6 §
+
+Domstolsverket får meddela närmare föreskrifter om beredskapen i övrigt. *Förordning (2019:673)*.
+
+## Övergångsbestämmelser
+
+**1988:31**
+
+Denna förordning träder i kraft den 12 april 1988. Bestämmelserna i 2--6 §§ får dock tillämpas från och med den 8 februari 1988.
+
+**2019:673**
+
+Denna förordning träder i kraft den 10 december 2019 i fråga om 2 och 6 §§ och i övrigt den 1 september 2020.
+
+*Förordning (2020:160)*.

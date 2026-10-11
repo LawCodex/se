@@ -1,0 +1,67 @@
+---
+title: "Förordning (1970:68) om tillsyn över Svenska skeppshypotekskassan"
+identifier: "SFS 1970:68"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1970-03-06
+amended_through: "SFS 2011:465"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1970-68.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1970:68"
+retrieved: 2026-10-11
+---
+# Förordning (1970:68) om tillsyn över Svenska skeppshypotekskassan
+
+## 1 §
+
+Finansinspektionen ska övervaka att Svenska skeppshypotekskassan i sin verksamhet följer de författningar och reglementen och föreskrifter i övrigt som gäller för dess verksamhet.
+
+Inspektionen ska också i övrigt följa Svenska skeppshypotekskassans verksamhet i den mån det behövs för kännedom om de förhållanden som kan inverka på institutets säkerhet eller annars är av betydelse för en sund utveckling av verksamheten. *Förordning (2011:465)*.
+
+## 2 §
+
+Finansinspektionen utövar tillsynen med ledning av handlingar, som Svenska skeppshypotekskassan enligt 6 § ska sända till inspektionen, och upplysningar, som inspektionen får vid särskild undersökning eller på annat sätt.
+
+*Förordning (2011:465)*.
+
+## 3 §
+
+Finansinspektionen har rätt att kalla till extra sammankomst eller stämma och till sammanträde med Svenska skeppshypotekskassans styrelse. Företrädare för inspektionen får närvara och delta i överläggningarna vid sammankomst eller stämma eller vid sådant styrelsesammanträde som utlysts av inspektionen. *Förordning (2011:465)*.
+
+## 4 §
+
+Finansinspektionen får meddela närmare föreskrifter om hur Svenska skeppshypotekskassans räkenskaper ska föras samt om förvaring och inventering av värdehandlingar.
+
+*Förordning (2011:465)*.
+
+## 5 §
+
+Finansinspektionen kan vid behov förordna en revisor att med övriga revisorer deltaga i granskningen av föreningsstyrelses förvaltning samt förenings räkenskaper. Inspektionen kan när som helst återkalla sådant förordnande och i stället utse ny revisor. *Förordning (1992:1463)*.
+
+## 6 §
+
+Svenska skeppshypotekskassan ska på den tid och det sätt som Finansinspektionen bestämmer
+
+1. hålla institutets kassa och övriga tillgångar samt böcker, räkenskaper och andra handlingar tillgängliga för granskning av inspektionen,
+
+2. upprätta och till inspektionen lämna översikter, som visar institutets tillgångar och skulder, samt uppgifter om de räntesatser som gällt för upp- och utlåning,
+
+3. till inspektionen lämna kopia av förvaltningsberättelsen tillsammans med reslutat- och balansräkningen samt revisionsberättelsen med tillhörande handlingar,
+
+4. meddela alla de upplysningar och uppgifter i övrigt rörande institutet som inspektionen begär. *Förordning (2011:465)*.
+
+## 7 §
+
+Har Svenska skeppshypotekskassan fattat beslut som står i strid med lag eller reglemente, får Finansinspektionen förbjuda att beslutet verkställs. Har ett sådant beslut redan verkställts, får inspektionen förelägga styrelsen att göra rättelse om det är möjligt. *Förordning (2011:465)*.
+
+## 8 §
+
+Finansinspektionen får meddela erinringar i fråga om Svenska skeppshypotekskassans verksamhet även om avvikelse från lag eller reglemente inte skett. *Förordning (2011:465)*.
+
+## 9 §
+
+Förening skall till revisor som har förordnats enligt 5 § utge ersättning med belopp som Finansinspektionen bestämmer.
+
+*Förordning (1992:1463)*.

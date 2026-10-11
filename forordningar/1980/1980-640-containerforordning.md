@@ -1,0 +1,101 @@
+---
+title: "Containerförordning (1980:640)"
+identifier: "SFS 1980:640"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1980-07-24
+amended_through: "SFS 2022:1149"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1980-640.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1980:640"
+retrieved: 2026-10-11
+---
+# Containerförordning (1980:640)
+
+## Allmänt
+
+### 1 §
+
+Denna förordning gäller i anslutning till containerlagen (1980:152).
+
+### 2 §
+
+För godkännande enligt containerlagen (1980:152) skall containrar genomgå den provning och motsvara de krav som Transportstyrelsen föreskriver. *Förordning (2008:1106)*.
+
+### 3 §
+
+Godkännande enligt containerlagen (1980:152) kan vara typgodkännande eller godkännande av en enstaka container (individuellt godkännande). Typgodkännande gäller för alla containrar med samma konstruktion och utförande som provade exemplar. Individuellt godkännande gäller endast för det provade exemplaret.
+
+### 4 §
+
+Ackrediterade organ enligt Europaparlamentets och rådets förordning (EG) nr 765/2008 av den 9 juli 2008 om krav för ackreditering och upphävande av förordning (EEG) nr 339/93 och lagen (2011:791) om ackreditering och teknisk kontroll utför provning och avgör frågor om godkännande av containrar.
+
+*Förordning (2022:1149)*.
+
+### 5 §
+
+Ett beslut om godkännande medför rätt att anbringa säkerhetsskylt på den eller de containrar som omfattas av beslutet.
+
+## Godkännandeförfarandet
+
+### 6 §
+
+Ansökan om godkännande skall göras skriftligen av containertillverkaren.
+
+När ansökan om typgodkännande görs skall till ansökningshandlingen fogas ritningar, konstruktionsspecifikation samt uppgifter om de igenkänningstecken som tillverkaren kommer att tilldela containertypen.
+
+### 7 §
+
+En containertyp, som endast obetydligt avviker från en tidigare godkänd typ, får godkännas utan provning om det är uppenbart att den från säkerhetssynpunkt motsvarar den tidigare godkända typen.
+
+### 8 §
+
+Containertillverkaren skall föra register över tillverkade typgodkända containrar.
+
+### 9 §
+
+Tillverkaren skall ställa containrar till förfogande i den utsträckning som behövs för godkännandeförfarandet.
+
+## Egenkontroll
+
+### 10 §
+
+Egenkontroll skall utföras på ett av följande sätt:
+
+1. inom 30 månader från den dag då containern tillverkades och därefter fortlöpande med högst 30 månaders mellanrum,
+
+2. inom 5 år från den dag då containern tillverkades och därefter med regelbundna, lika långa mellanrum om högst 30 månader. *Förordning (1984:27)*.
+
+### 11 §
+
+Om det vid egenkontrollen visar sig att containern har sådana fel som kan äventyra säkerheten får containern inte användas förrän den har återställts i säkert skick.
+
+### 12 §
+
+Vid egenkontroller skall föras protokoll. Dessa skall förvaras i fem år hos den som har ansvaret för att containern är i säkert skick.
+
+## Övrigt
+
+### 13 §
+
+Underrättelse om beslut som innebär förbud att använda en container eller medgivande att använda en container för att slutföra en pågående transport skall omgående tillställas den som har ansvaret för containerns skick och, i förekommande fall, även den som för tillfället disponerar över containern.
+
+### 14 §
+
+Om en container vid kontroll visar sig ha sådana fel att det klart framgår att den utgör en uppenbar säkerhetsrisk och det finns anledning anta att felen förelåg vid godkännandet, skall den myndighet som har meddelat godkännandet underrättas.
+
+### 15 §
+
+Tillsynen över efterlevnaden av containerlagen (1980:152) och av denna förordning utövas av Transportstyrelsen. Styrelsen får efter samråd med Tullverket i enskilda fall fatta beslut om sådana förbud och medgivanden som avses i 9 § första stycket containerlagen. *Förordning (2008:1106)*.
+
+### 16 §
+
+Transportstyrelsen får meddela
+
+1. föreskrifter om avgifter för tillsyn enligt containerlagen (1980:152) och enligt föreskrifter som har meddelats med stöd av lagen,
+
+2. ytterligare föreskrifter i de frågor som anges i containerlagen och denna förordning.
+
+Rör föreskrifterna frågor om sådan kontroll som utförs av Tullverket ska Transportstyrelsen höra Tullverket innan föreskrifterna meddelas. *Förordning (2010:1584)*.

@@ -1,0 +1,71 @@
+---
+title: "Lag (1985:12) om kontroll av berusningsmedel på sjukhus"
+identifier: "SFS 1985:12"
+type: act
+jurisdiction: se
+language: sv
+date: 1985-02-10
+amended_through: "SFS 2026:1307"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1985-12.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1985:12"
+retrieved: 2026-10-11
+---
+# Lag (1985:12) om kontroll av berusningsmedel på sjukhus
+
+#### 1 §
+
+*/Upphör att gälla U:2028-01-01/* Om Inspektionen för vård och omsorg beslutar det, tillämpas denna lag vid en sådan enhet vid ett sjukhus som är särskilt inriktad på vård för missbruk av beroendeframkallande medel. *Lag (2013:1142)*.
+
+#### 1 §
+
+*/Träder i kraft I:2028-01-01/* Om Inspektionen för vård och omsorg beslutar det, tillämpas denna lag vid en sådan enhet vid ett sjukhus som är särskilt inriktad på vård för skadligt bruk och beroende av beroendeframkallande medel. *Lag (2026:1307)*.
+
+#### 2 §
+
+*/Upphör att gälla U:2028-01-01/* Den som är intagen för vård får inte inneha alkoholhaltiga drycker, andra berusningsmedel, något sådant medel som avses i lagen (1991:1969) om förbud mot vissa dopningsmedel eller sådana varor som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga varor. Han får inte heller inneha injektionssprutor eller kanyler som kan användas för insprutning i människokroppen eller andra föremål som är särskilt ägnade att användas för missbruk av eller annan befattning med narkotika. *Lag (1999:50)*.
+
+#### 2 §
+
+*/Träder i kraft I:2028-01-01/* Den som är intagen för vård får inte inneha alkoholhaltiga drycker, andra berusningsmedel, något sådant medel som avses i lagen (1991:1969) om förbud mot vissa dopningsmedel eller sådana varor som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga varor. Han eller hon får inte heller inneha injektionssprutor eller kanyler som kan användas för in- sprutning i människokroppen eller andra föremål som är särskilt ägnade att användas för bruk av eller annan befattning med narkotika. *Lag (2026:1307)*.
+
+#### 3 §
+
+*/Upphör att gälla U:2028-01-01/* Verksamhetschefen får ställa följande villkor för att ta in någon på sjukhuset för vård av missbruk av beroendefram- kallande medel, om det behövs för att hindra att patienten har tillgång till sådana medel, varor eller föremål som anges i 2 §. De villkor som avses är krav på
+
+1. att patienten underkastar sig kroppsvisitation eller ytlig kroppsbesiktning,
+
+2. att patienten medger undersökning av vad han innehar eller får sig tillsänt. *Lag (1999:50)*.
+
+#### 3 §
+
+*/Träder i kraft I:2028-01-01/* Verksamhetschefen får ställa följande villkor för att ta in någon på sjukhuset för vård av skadligt bruk eller beroende av beroendeframkallande medel, om det behövs för att hindra att patienten har tillgång till sådana medel, varor eller föremål som anges i 2 §. De villkor som avses är krav på
+
+1. att patienten underkastar sig kroppsvisitation eller ytlig kroppsbesiktning,
+
+2. att patienten medger undersökning av vad han eller hon innehar eller får sig tillsänt. *Lag (2026:1307)*.
+
+#### 4 §
+
+Sådana berusningsmedel, varor, dopningsmedel och föremål som anges i 2 § får omhändertas
+
+1. om de påträffas hos en intagen,
+
+2. om en intagen får dem sig tillsända, eller
+
+3. om de påträffas utan att det finns någon känd ägare till dem.
+
+### Verksamhetschefen ska låta förstöra eller försälja den omhändertagna egendomen enligt bestämmelserna om beslagtagen egendom i 2 § 1 första stycket lagen (1958:205) om förverkande av alkohol m.m.
+
+Belopp som erhållits vid försäljningen ska tillfalla staten.
+
+*Lag (2019:356)*.
+
+## Övergångsbestämmelser
+
+**2013:1142**
+
+1. Denna lag träder i kraft den 1 januari 2014.
+
+2. Vid tillämpning av 7 a § förvaltningsprocesslagen (1971:291) ska Inspektionen för vård och omsorg vara den enskildes motpart.

@@ -1,0 +1,53 @@
+---
+title: "Lag (1975:85) med bemyndigande att meddela föreskrifter om in- eller utförsel av varor"
+identifier: "SFS 1975:85"
+type: act
+jurisdiction: se
+language: sv
+date: 1975-04-03
+amended_through: "SFS 2009:1255"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1975-85.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1975:85"
+retrieved: 2026-10-11
+---
+# Lag (1975:85) med bemyndigande att meddela föreskrifter om in- eller utförsel av varor
+
+## 1 §
+
+Regeringen får, med den begränsning som följer av 2 §, meddela föreskrifter om in- eller utförsel av varor, om det är påkallat av hänsyn till risk för störning inom samhällsekonomin eller folkförsörjningen, av särskilda handelspolitiska skäl eller av hänsyn till behov att trygga kvaliteten hos produkter av visst slag, till hälsovården, miljövården, växtskyddet, skyddet mot djursjukdomar eller till kontrollen av materiel som kan få militär användning.
+
+Regeringen får överlåta åt en förvaltningsmyndighet att meddela föreskrifter som avses i första stycket. *Lag (1996:97)*.
+
+## 2 §
+
+Bemyndigandet i 1 § medför inte befogenhet att meddela föreskrifter om tull. Ej heller medför det befogenhet att meddela föreskrifter om annan avgift än sådan som följer av 3 § eller avser kostnad för handläggning av fråga om tillstånd, för omhändertagande av gods eller för kontroll, inspektion eller annan därmed jämförlig åtgärd. *Lag (1984:496)*.
+
+## 3 §
+
+Regeringen får föreskriva att en särskild avgift skall erläggas till staten vid överträdelser av föreskrifter enligt 1 §. Avgiften skall tas ut av den för vars räkning in- eller utförseln sker. Den får uppgå till högst tjugo procent av varans värde. Om en överträdelse är ursäktlig skall avgift inte tas ut. Ett beslut om avgift skall kunna överprövas. *Lag (1984:496)*.
+
+## 4 §
+
+Beslut i tillståndsfrågor som har meddelats av en förvaltningsmyndighet med stöd av förordningen (1997:969) om import- och exportreglering får överklagas hos allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+## 5 §
+
+Följande beslut får överklagas hos allmän förvaltningsdomstol:
+
+1. beslut som Statens jordbruksverk har meddelat i ett enskilt fall enligt de föreskrifter som har meddelats med stöd av denna lag,
+
+2. beslut som en officiell veterinär som förordnats enligt lagen (2009:1254) om officiella veterinärer har meddelat i ett enskilt fall enligt de föreskrifter som har meddelats med stöd av denna lag, och
+
+3. beslut som har meddelats med stöd av Europaparlamentets och rådets förordning (EG) nr 998/2003 av den 26 maj 2003 om djurhälsovillkor som skall tillämpas vid transporter av sällskapsdjur utan kommersiellt syfte och om ändring av rådets direktiv 92/65/EEG.
+
+Jordbruksverket ska föra det allmännas talan hos allmän förvaltningsdomstol, om det överklagade beslutet har meddelats av en officiell veterinär.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2009:1255)*.
+
+## 6 §
+
+Beslut som avses i 5 § första stycket gäller omedelbart, om inte annat meddelas i beslutet. *Lag (2009:1255)*.

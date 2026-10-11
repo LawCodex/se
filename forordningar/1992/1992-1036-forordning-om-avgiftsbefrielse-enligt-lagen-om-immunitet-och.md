@@ -1,0 +1,32 @@
+---
+title: "Förordning (1992:1036) om avgiftsbefrielse enligt lagen (1992:1035) om immunitet och privilegier för ministerrådsmöten och ämbetsmannakommittémöten inom Konferensen om säkerhet och samarbete i Europa (ESK)"
+identifier: "SFS 1992:1036"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1992-11-05
+department: "Utrikesdepartementet UDH"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-1036.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:1036"
+retrieved: 2026-10-11
+---
+# Förordning (1992:1036) om avgiftsbefrielse enligt lagen (1992:1035) om immunitet och privilegier för ministerrådsmöten och ämbetsmannakommittémöten inom Konferensen om säkerhet och samarbete i Europa (ESK)
+
+## 1 §
+
+I denna förordning avses med avgiftsbefrielse sådan befrielse från tull, annan skatt och avgift som följer av 4 § första stycket och 5 § första stycket lagen (1992:1035) om immunitet och privilegier för ministerrådsmöten och ämbetsmannakommittémöten inom Konferensen om säkerhet och samarbete i Europa (ESK).
+
+## 2 §
+
+Framställning om avgiftsbefrielse skall göras skriftligen av de främmande staters delegationer eller representanter som deltar i konferensen. Handling som innehåller sådan framställning skall ges in i två exemplar till konferenssekretariatet som bestyrker att varumottagaren tillhör den kategori som anges i framställningen. Ett exemplar av handlingen skall återlämnas till delegationen eller representanten för att överlämnas till den tullmyndighet där varan skall förtullas.
+
+Framställning enligt första stycket behövs inte i fråga om kurirförsändelser motsvarande dem som avses i artikel 27 i den i Wien den 18 april 1961 avslutade konventionen om diplomatiska förbindelser.
+
+## 3 §
+
+Ytterligare föreskrifter om verkställigheten av lagen (1992:1035) om immunitet och privilegier för ministerrådsmöten och ämbetsmannakommittémöten inom Konferensen om säkerhet och samarbete i Europa (ESK) såvitt avser befrielse från tull, annan skatt och avgift meddelas av Generaltullstyrelsen.
+
+1992:1036
+
+Denna förordning träder i kraft den 1 december 1992 och gäller till utgången av år 1994.

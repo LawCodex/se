@@ -1,0 +1,59 @@
+---
+title: "Förordning (1996:1119) om marknadsföring av kristallglas"
+identifier: "SFS 1996:1119"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1996-11-21
+amended_through: "SFS 2022:1156"
+department: "Finansdepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-1119.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:1119"
+retrieved: 2026-10-11
+---
+# Förordning (1996:1119) om marknadsföring av kristallglas
+
+## Förordningens ändamål
+
+### 1 §
+
+Föreskrifterna i denna förordning meddelas för att genomföra rådets direktiv 69/493/EEG av den 15 december 1969 om tillnärmning av medlemsstaternas lagstiftning om kristallglas.
+
+## Förordningens tillämpningsområde
+
+### 2 §
+
+Förordningen gäller sådana produkter av glas som avses i 1 § lagen (1996:1118) om marknadsföring av kristallglas.
+
+## Beteckningar på och symboler för kristallglas
+
+### 3 §
+
+Konsumentverket får meddela närmare föreskrifter om beteckningar och symboler som skall vara skyddade i marknadsföringen av sådana produkter som avses i 2 § och om förutsättningarna för att de skall få användas.
+
+## Kompletterande information i vissa fall
+
+### 4 §
+
+Konsumentverket får meddela närmare föreskrifter om hur en framställning med ett varumärke som innehåller en sådan beteckning som avses i 3 § skall kompletteras så att det inte uppstår missförstånd om egenskaperna hos den vara som marknadsförs. Detsamma gäller om varumärket innehåller en beteckning som kan förväxlas med en beteckning som avses i 3 §. Vad som sägs om varumärke gäller också ett företagsnamn eller annan text som används i marknadsföringen av sådana produkter som avses i 2 §.
+
+## Analysmetoder
+
+### 5 §
+
+Konsumentverket får meddela närmare föreskrifter om hur en analys skall genomföras för att fastställa om förutsättningarna är uppfyllda för att en produkt skall få bära beteckningar och symboler av det slag som avses i 3 §.
+
+## Tillsyn
+
+### 6 §
+
+Konsumentverket skall se till att föreskrifterna i denna förordning och de föreskrifter som har meddelats med stöd av förordningen följs.
+
+### 7 §
+
+Konsumentverket är marknadskontrollmyndighet och utövar marknadskontroll enligt Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011 över att produkter överensstämmer med kraven i direktiv 69/493/EEG.
+
+Bestämmelser om en marknadskontrollmyndighets befogenhet att besluta om åtgärder enligt förordning (EU) 2019/1020 finns i lagen (1996:1118) om marknadsföring av kristallglas.
+
+*Förordning (2022:1156)*.

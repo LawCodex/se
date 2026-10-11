@@ -1,0 +1,106 @@
+---
+title: "Förordning (1992:1299) om ersättning för uppdrag i statliga styrelser, nämnder och råd m.m."
+identifier: "SFS 1992:1299"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1992-12-10
+amended_through: "SFS 2020:1205"
+reprinted: "SFS 1996:493"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-1299.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:1299"
+retrieved: 2026-10-11
+---
+# Förordning (1992:1299) om ersättning för uppdrag i statliga styrelser, nämnder och råd m.m.
+
+### Tillämpningsområde m.m.
+
+#### 1 §
+
+I denna förordning finns föreskrifter om ersättning till sådana ledamöter och ersättare i statliga myndigheters styrelser samt i statliga nämnder och råd m.m. som tillsätts av regeringen. *Förordning (2004:936)*.
+
+#### 2 §
+
+Styrelserna, nämnderna och råden m.m. delas in i kategorierna A-E enligt särskilt regeringsbeslut. *Förordning (1996:493)*
+
+### Ersättning till ordförande och vice ordförande
+
+#### 3 §
+
+Regeringen beslutar särskilt om ersättning till ordförande och vice ordförande. *Förordning (1996:493)*
+
+### Ersättning till övriga ledamöter och ersättare
+
+#### 4 §
+
+Ersättning till övriga ledamöter och ersättare betalas per sammanträdesdag med följande belopp.
+
+```
+        Belopp kronor
+Kategori        Övriga ledamöter        Ersättare
+A               Regeringen beslutar     Regeringen beslutar
+                särskilt i varje        särskilt i varje
+                enskilt fall            enskilt fall
+B               2 600                   1 300
+C               1 900                   950
+D               1 250                   675
+E               650                     650
+```
+
+Ersättning betalas bara ut till den som är närvarande vid sammanträdet, om det inte finns särskilda skäl för något annat.
+
+Någon ersättning betalas dock inte till den som är anställd vid myndigheten.
+
+Någon ersättning betalas inte heller till den som har uppdrag som ledamot eller ersättare i nämnd, råd, delegation eller motsvarande som är knuten till den myndighet där han eller hon är anställd.
+
+Ersättning betalas bara till den ersättare som efter särskild kallelse är närvarande vid ett sammanträde.
+
+*Förordning (2020:1205)*.
+
+#### 5 §
+
+Har upphävts genom *förordning (1996:493)*
+
+#### 6 §
+
+När en ersättare tjänstgör som ledamot, får han den ersättning som gäller för ledamoten.
+
+### Ersättning för mistade avlöningsförmåner m.m.
+
+#### 7 §
+
+En övrig ledamot eller ersättare som går miste om avlöningsförmåner från sin anställning på grund av uppdraget, får ersättning för sådana förmåner.
+
+Ersättning till den som driver egen verksamhet betalas högst med det belopp per sammanträdesdag som motsvarar egenföretagarens fastställda sjukpenninggrundande inkomst enligt 25 och 26 kap. socialförsäkringsbalken, delad med 365.
+
+Sådan ersättning betalas utöver ersättning enligt 4 §.
+
+*Förordning (2010:1680)*.
+
+### Sakkunniga, experter och sekreterare
+
+#### 8 §
+
+Ersättning till sakkunniga, experter och sekreterare beslutas av myndigheten. *Förordning (1996:493)*
+
+### Personalföreträdare
+
+#### 9 §
+
+Personalföreträdare i affärsverkens styrelser får ersättning enligt 4 § första och andra styckena samt 6 §.
+
+Till övriga personalföreträdare betalas ingen ersättning.
+
+## Övergångsbestämmelser
+
+**2004:936**
+
+1. Denna förordning träder i kraft den 1 januari 2005.
+
+2. Föreskrifterna i denna förordning tillämpas också i fråga om ledamöter och ersättare i styrelser, nämnder och råd m.m. i de allmänna försäkringskassorna såvitt avser uppdrag som har fullgjorts före utgången av år 2004.
+
+**2008:1347**
+
+Denna förordning träder i kraft den 1 februari 2009. De nya bestämmelserna ska dock tillämpas för tid från och med den 1 januari 2008.

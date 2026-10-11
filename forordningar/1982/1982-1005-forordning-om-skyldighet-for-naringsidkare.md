@@ -1,0 +1,129 @@
+---
+title: "Förordning (1982:1005) om skyldighet för näringsidkare, arbetsmarknadsorganisationer m.fl. att delta i totalförsvarsplaneringen"
+identifier: "SFS 1982:1005"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1982-11-25
+amended_through: "SFS 2026:6"
+department: "Arbetsmarknadsdepartementet AA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-1005.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:1005"
+retrieved: 2026-10-11
+---
+# Förordning (1982:1005) om skyldighet för näringsidkare, arbetsmarknadsorganisationer m.fl. att delta i totalförsvarsplaneringen
+
+## 1 §
+
+Rätt att begära upplysningar eller att begära medverkan enligt lagen (1982:1004) om skyldighet för näringsidkare, arbetsmarknadsorganisationer m.fl. att delta i totalförsvarsplaneringen har - förutom Myndigheten för civilt försvar och Myndigheten för totalförsvarsanalys - följande totalförsvarsmyndigheter:
+
+1. Affärsverket svenska kraftnät,
+
+2. Arbetsförmedlingen,
+
+3. Bolagsverket,
+
+4. Boverket,
+
+5. Domstolsverket,
+
+6. E-hälsomyndigheten,
+
+7. Energimarknadsinspektionen,
+
+8. Finansinspektionen,
+
+9. Folkhälsomyndigheten,
+
+10. Fortifikationsverket,
+
+11. Försvarets materielverk,
+
+12. Försvarsmakten,
+
+13. Försäkringskassan,
+
+14. Kommerskollegium,
+
+15. Kriminalvården,
+
+16. Kustbevakningen,
+
+17. Lantmäteriet,
+
+18. Livsmedelsverket,
+
+19. Luftfartsverket,
+
+20. Läkemedelsverket,
+
+21. länsstyrelserna,
+
+22. Migrationsverket,
+
+23. Myndigheten för digital förvaltning,
+
+24. Myndigheten för psykologiskt försvar,
+
+25. Naturvårdsverket,
+
+26. Pensionsmyndigheten,
+
+27. Polismyndigheten,
+
+28. Post- och telestyrelsen,
+
+29. Riksantikvarieämbetet,
+
+30. Riksarkivet,
+
+31. Riksgäldskontoret,
+
+32. Sjöfartsverket,
+
+33. Skatteverket,
+
+34. Socialstyrelsen,
+
+35. Statens energimyndighet,
+
+36. Statens jordbruksverk,
+
+37. Statens servicecenter,
+
+38. Statens skolverk,
+
+39. Statens veterinärmedicinska anstalt,
+
+40. Strålsäkerhetsmyndigheten,
+
+41. Sveriges geologiska undersökning,
+
+42. Sveriges meteorologiska och hydrologiska institut,
+
+43. Säkerhetspolisen,
+
+44. Tillväxtverket,
+
+45. Trafikverket,
+
+46. Transportstyrelsen,
+
+47. Tullverket,
+
+48. Utbetalningsmyndigheten, och
+
+49. Åklagarmyndigheten.
+
+*Förordning (2026:6)*.
+
+## 2 §
+
+Om en annan totalförsvarsmyndighet än Myndigheten för civilt försvar eller Arbetsförmedlingen avser att ta upp frågor av mera övergripande natur, ska myndigheten först samråda med Myndigheten för civilt försvar, när det gäller verksamhets- och produktionsplanering, och med Arbetsförmedlingen, när det särskilt gäller arbetskraftsförsörjning och anställningsvillkor. Myndigheten för civilt försvar och Arbetsförmedlingen får då besluta att frågan ska tas upp genom dess egen eller en annan totalförsvarsmyndighets försorg, varefter resultatet på lämpligt sätt ska delges myndigheten.
+
+Om någon annan totalförsvarsmyndighet än Myndigheten för civilt försvar avser att inhämta upplysningar eller begära medverkan som kan vara känslig från konkurrenssynpunkt eller av andra liknande skäl, ska myndigheten först samråda med Myndigheten för civilt försvar. Myndigheten för civilt försvar får då besluta att frågan ska tas upp genom Myndigheten för civilt försvars försorg, varefter resultatet på lämpligt sätt ska delges myndigheten. *Förordning (2025:1088)*.
+
+## 3 §
+
+Om någon annan myndighet än de i 1 § angivna totalförsvarsmyndigheterna finner att den för sin totalförsvarsplanering behöver upplysningar eller annan medverkan enligt lagen, ska myndigheten anmäla detta till Myndigheten för civilt försvar, som får vidta de åtgärder som myndighetens anmälan motiverar, varefter resultatet på lämpligt sätt ska delges myndigheten. *Förordning (2025:1088)*.

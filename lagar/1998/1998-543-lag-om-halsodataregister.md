@@ -1,0 +1,111 @@
+---
+title: "Lag (1998:543) om hälsodataregister"
+identifier: "SFS 1998:543"
+type: act
+jurisdiction: se
+language: sv
+date: 1998-06-11
+amended_through: "SFS 2018:439"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-543.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:543"
+retrieved: 2026-10-11
+---
+# Lag (1998:543) om hälsodataregister
+
+### Lagens tillämpningsområde
+
+#### 1 §
+
+Central förvaltningsmyndighet inom hälso- och sjukvården får utföra automatiserad behandling av personuppgifter i hälsodataregister. Den centrala förvaltningsmyndighet som utför behandlingen av personuppgifter är personuppgiftsansvarig.
+
+### Förhållandet till annan reglering
+
+#### 2 §
+
+Denna lag innehåller bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning).
+
+Vid behandling av personuppgifter enligt denna lag gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna lag eller föreskrifter som har meddelats i anslutning till lagen. *Lag (2018:439)*.
+
+### Ändamål
+
+#### 3 §
+
+Personuppgifter i ett hälsodataregister får behandlas för följande ändamål:
+
+1. framställning av statistik,
+
+2. uppföljning, utvärdering och kvalitetssäkring av hälso- och sjukvård, och
+
+3. forskning och epidemiologiska undersökningar.
+
+### Innehåll
+
+#### 4 §
+
+Ett hälsodataregister får innehålla endast de uppgifter som behövs för de ändamål för vilka personuppgifter får behandlas enligt 3 §.
+
+### Samkörning
+
+#### 5 §
+
+Den som är personuppgiftsansvarig för behandlingen av personuppgifter i ett hälsodataregister får för de ändamål som anges i 3 § hämta personuppgifter till registret genom samkörning.
+
+### Uppgiftsskyldighet
+
+#### 6 §
+
+Den som bedriver verksamhet inom hälso- och sjukvården skall lämna uppgifter till ett hälsodataregister för de ändamål som anges i 3 §.
+
+### Sökbegrepp
+
+#### 7 §
+
+Som sökbegrepp i ett hälsodataregister får användas uppgifter som enligt 4 § får ingå i ett hälsodataregister.
+
+### Direktåtkomst
+
+#### 8 §
+
+Endast den som är personuppgiftsansvarig får ha direktåtkomst till uppgifter i ett hälsodataregister.
+
+### Utlämnande på medium för automatiserad behandling
+
+#### 9 §
+
+Personuppgifter i ett hälsodataregister får lämnas ut på medium för automatiserad behandling endast om uppgifterna skall användas för de ändamål som anges i 3 §.
+
+### Sekretess
+
+#### 10 §
+
+I offentlighets- och sekretesslagen (2009:400) finns bestämmelser om begränsningar i rätten att lämna ut personuppgifter. *Lag (2009:472)*.
+
+#### 11 §
+
+Har upphävts genom *lag (2018:439)*.
+
+### Bemyndiganden
+
+#### 12 §
+
+Regeringen får meddela föreskrifter om
+
+1. vilka myndigheter som får föra hälsodataregister enligt 1 §,
+
+2. begränsning av de i 3 § angivna ändamålen,
+
+3. begränsningar av de uppgifter som ett hälsodataregister enligt 4 § får innehålla,
+
+4. begränsningar av samkörning enligt 5 §,
+
+5. uppgiftsskyldighet enligt 6 §, och
+
+6. begränsningar i rätten att bevara uppgifter.
+
+## Övergångsbestämmelser
+
+**1998:543**
+
+Denna lag träder i kraft den 24 oktober 1998. Om behandling av personuppgifter för ett ändamål som avses i denna lag påbörjats före ikraftträdandet gäller äldre bestämmelser t.o.m. den 30 september 2001 om behandlingen inte omfattas av ett hälsodataregister enligt denna lag.

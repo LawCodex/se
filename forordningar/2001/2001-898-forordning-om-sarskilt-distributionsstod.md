@@ -1,0 +1,43 @@
+---
+title: "Förordning (2001:898) om särskilt distributionsstöd"
+identifier: "SFS 2001:898"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2001-11-29
+amended_through: "SFS 2005:887"
+department: "Utbildnings- och kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-898.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:898"
+retrieved: 2026-10-11
+---
+# Förordning (2001:898) om särskilt distributionsstöd
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om särskilt distributionsstöd som under åren 2002, 2003, 2004, 2005 och 2006 kan lämnas till företag som ger ut dagstidningar.
+
+Om inte annat sägs i denna förordning skall bestämmelserna i presstödsförordningen (1990:524) tillämpas.
+
+*Förordning (2005:887)*.
+
+### 2 §
+
+Stöd kan lämnas för utdelning av dagstidningar på lördagar i gles- och landsbygdsområden.
+
+### 3 §
+
+Presstödsnämnden bestämmer storleken på stödet efter vad som i det enskilda fallet är skäligt med hänsyn till kostnaden för distribution i området. Stödet får dock uppgå till högst 4 kr per distribuerat exemplar och får endast avse kostnader som överstiger 6 kr per distribuerat exemplar. Stöd får inte lämnas om tidningens sammanlagda kostnad för distribution under måndag-lördag understiger 16 kr per abonnent.
+
+### 4 §
+
+Presstödsnämnden betalar ut stödet årsvis i efterskott.
+
+## Övergångsbestämmelser
+
+**2004:1378**
+
+Denna förordning träder i kraft den 1 februari 2005.
+
+Förordningen skall dock tillämpas från och med den 1 januari 2005.

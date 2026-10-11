@@ -1,0 +1,71 @@
+---
+title: "Förordning (1996:1191) om överlåtelse av statens lösa egendom"
+identifier: "SFS 1996:1191"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1996-11-28
+amended_through: "SFS 2025:1195"
+department: "Finansdepartementet BA ToT"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1996-1191.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1996:1191"
+retrieved: 2026-10-11
+---
+# Förordning (1996:1191) om överlåtelse av statens lösa egendom
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning finns bestämmelser i anslutning till 8 kap. 4, 6 och 7 §§ budgetlagen (2011:203). *Förordning (2011:220)*.
+
+### 2 §
+
+Förordningen gäller för myndigheter under regeringen.
+
+*Förordning (1998:1427)*.
+
+### 3 §
+
+Denna förordning gäller försäljning av statens lösa egendom. Vad som sägs om försäljning gäller även byte.
+
+### 4 §
+
+Förordningen gäller inte försäljning av frivilligt efterfrågade varor som staten tillhandahåller som ett led i en avgiftsbelagd verksamhet. Bestämmelser om detta finns i avgiftsförordningen (1992:191).
+
+Förordningen gäller inte heller försäljning som är förenad med rätt till hyra och återköp eller liknande förfarande.
+
+Bestämmelser om detta finns i 2 kap. 5 § kapitalförsörjningsförordningen (2011:210).
+
+I förordningen (1996:1190) om överlåtelse av statens fasta egendom, m.m. finns bestämmelser om upplåtelse av tomträtt samt överlåtelse av tomträtt och sådan byggnad som är lös egendom. *Förordning (2011:220)*.
+
+## Aktier
+
+### 5 §
+
+Försäljning av aktier och andelar får endast ske efter särskilt medgivande från regeringen.
+
+Ett sådant medgivande krävs inte vid försäljning av aktier som är upptagna till handel på en reglerad marknad eller föremål för handel på någon annan organiserad marknadsplats, om en myndighet har tagit emot dem som gåva eller förvärvat dem genom förordnande i testamente. *Förordning (2011:220)*.
+
+## Övrig lös egendom
+
+### 6 §
+
+Försäljning av övrig lös egendom får ske om egendomen inte längre behövs för statens verksamhet eller blivit obrukbar.
+
+## Affärsmässighet
+
+### 7 §
+
+Försäljning skall genomföras affärsmässigt.
+
+### 8 §
+
+I kapitalförsörjningsförordningen (2011:210) finns bestämmelser om dispositionen av försäljningsinkomster.
+
+*Förordning (2011:220)*.
+
+### 9 §
+
+Statskontoret får meddela de föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (2025:1195)*.

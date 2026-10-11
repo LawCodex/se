@@ -1,0 +1,51 @@
+---
+title: "Förordning (2000:523) om statsbidrag för att främja internationella kontakter inom skolans område"
+identifier: "SFS 2000:523"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2000-06-08
+amended_through: "SFS 2015:805"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2000-523.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2000:523"
+retrieved: 2026-10-11
+---
+# Förordning (2000:523) om statsbidrag för att främja internationella kontakter inom skolans område
+
+## 1 §
+
+Statsbidrag lämnas enligt denna förordning för att främja utvecklingen av internationella kontakter till
+
+1. huvudmän inom skolväsendet,
+
+2. huvudmän för internationella skolor som har fått ett godkännande enligt 24 kap. 3 a § skollagen (2010:800) eller en förklaring om rätt till bidrag enligt 24 kap. 6 § samma lag, och
+
+3. anordnare av utbildning som får statligt stöd enligt förordningen (2000:521) om statligt stöd till kompletterande utbildningar. *Förordning (2015:805)*.
+
+## 2 §
+
+Statsbidraget omfattar
+
+1. stipendier för att främja lärares och skolledares internationella kontakter samt för kostnader för deltagande i internationella konferenser och dylikt, och
+
+2. bidrag till skolhuvudmän för utvecklingsarbete som syftar till att med hjälp av internationella kontakter förverkliga de mål som anges i skolans läroplaner.
+
+Stipendier enligt första stycket 1 kan ges till en enskild person eller en grupp personer.
+
+Bidrag enligt första stycket 2 får lämnas med högst ett belopp som motsvarar vad huvudmannen själv avser att bidra med.
+
+## 3 §
+
+Ansökan om stipendium eller bidrag ska göras hos Universitets- och högskolerådet enligt de föreskrifter som myndigheten meddelar. *Förordning (2012:716)*.
+
+## 4 §
+
+Universitets- och högskolerådet beslutar om vilka som ska få stipendium eller bidrag, beloppets storlek och eventuella villkor som ska gälla för stipendiet eller bidraget.
+
+*Förordning (2012:716)*.
+
+## 5 §
+
+Universitets- och högskolerådets beslut om stipendium eller bidrag får inte överklagas. *Förordning (2012:716)*.

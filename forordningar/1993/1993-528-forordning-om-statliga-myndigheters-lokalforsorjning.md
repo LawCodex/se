@@ -1,0 +1,147 @@
+---
+title: "Förordning (1993:528) om statliga myndigheters lokalförsörjning"
+identifier: "SFS 1993:528"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1993-05-27
+amended_through: "SFS 2026:1376"
+department: "Finansdepartementet SFÖ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-528.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:528"
+retrieved: 2026-10-11
+---
+# Förordning (1993:528) om statliga myndigheters lokalförsörjning
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning gäller för myndigheter under regeringen.
+
+För affärsverken gäller dock inte 9 § andra och fjärde styckena samt 10 §. *Förordning (2007:710)*.
+
+#### 2 §
+
+Har upphävts genom *förordning (2026:1376)*.
+
+#### 3 §
+
+Med lokalförsörjning avses i denna förordning åtgärder för att, genom hyra eller arrende, förse en myndighet med lokaler, mark och anläggningar för myndighetens verksamhet.
+
+#### 4 §
+
+Bestämmelser om förvaltning av fast egendom som tillhör staten finns i förordningen (1993:527) om förvaltning av statliga fastigheter, m. m.
+
+#### 4 a §
+
+Har upphävts genom *förordning (2025:1190)*.
+
+### Lokalförsörjningsplanering
+
+#### 5 §
+
+En myndighet ska verka för en effektiv och ändamålsenlig anskaffning och användning av lokaler när den planerar för sin lokalförsörjning. Myndigheten ska också pröva om den kan minska statens kostnader eller uppnå andra fördelar genom samverkan med andra myndigheter.
+
+En myndighet med få årsarbetskrafter på en arbetsort eller ett arbetsställe ska dessutom pröva om den kan minska statens kostnader eller uppnå andra fördelar genom att samlokalisera med andra myndigheter. *Förordning (2026:1376)*.
+
+### Ansvar
+
+#### 6 §
+
+Varje myndighet ansvarar för hur de lokaler som den disponerar används. Myndigheten företräder därvid staten som arbetsgivare i frågor enligt arbetsmiljölagstiftningen. Den företräder också staten som lokalhyresgäst eller arrendator i frågor enligt jordabalken.
+
+### Uppgiftsskyldighet avseende hyresavtal
+
+#### 7 §
+
+Varje myndighet ska lämna uppgifter om ingångna hyresavtal och om förändringar i dessa till Statskontoret.
+
+Skyldigheten gäller inte uppgifter som omfattas av sekretess eller uppgifter som avser lokaler belägna utanför Sverige.
+
+*Förordning (2026:1376)*.
+
+#### 7 a §
+
+Bestämmelser om hur en myndighet ska redovisa förväntade större förändringar i sitt behov av lokaler finns i 9 kap. 6 § förordningen (2000:605) om årsredovisning och budgetunderlag.
+
+*Förordning (2026:1376)*.
+
+### Befogenheter
+
+#### 8 §
+
+Inom ramen för vad regeringen beslutat i fråga om lokalisering av myndigheten och med de begränsningar som följer av 9 och 10 §§, får varje myndighet besluta om sin egen lokalförsörjning.
+
+#### 9 §
+
+Inom ramen för de resurser som myndigheten förfogar över får myndigheten ingå de hyres- och arrendeavtal som behövs för myndighetens verksamhet eller för att uppfylla krav som följer av denna förordning eller av föreskrifter som meddelats med stöd av 12 §.
+
+Andra myndigheter än universitet och högskolor får ingå sådana avtal med en längre löptid än sex år endast efter regeringens medgivande till löptiden. Om avtalet har en löptid som är sex år eller kortare krävs i stället regeringens medgivande till den ekonomiska förpliktelsen om resultatet vid en beräkning enligt följande formel blir större än 6:
+
+(a x z)+b) ___________
+
+```
+     a
+```
+
+där a = hyres- eller arrendekostnaden per år,
+
+z = den avtalade löptiden i antal år, och
+
+b = övriga kostnadsåtaganden i avtalet.
+
+Universitet och högskolor får ingå sådana avtal med en längre löptid än tio år endast efter regeringens medgivande till löptiden. Om avtalet har en löptid som är tio år eller kortare, krävs i stället regeringens medgivande till den ekonomiska förpliktelsen om resultatet vid en beräkning enligt formeln i andra stycket blir större än 10. Detsamma gäller myndigheter som enligt beslut av regeringen är huvudman för högre utbildning och forskning, när de ingår avtal om lokaler m.m. för den verksamheten.
+
+Myndigheten ska inhämta ett yttrande från Statskontoret om sådana hyresavtal som kräver regeringens medgivande.
+
+*Förordning (2026:1376)*.
+
+#### 9 a §
+
+En myndighet får inte ingå hyresavtal för bostadslägenhet i syfte att upplåta lägenheten i andra hand för att förse någon enskild med bostad.
+
+Första stycket gäller inte
+
+1. universitet och högskolor som omfattas av högskolelagen (1992:1434) och som i syfte att säkerställa internationaliseringen i högskolan och rörligheten bland forskare upplåter bostadslägenheter till studenter eller forskare i enlighet med förordningen (2022:1515) om möjlighet för universitet och högskolor att tillhandahålla bostäder,
+
+2. utlandsmyndigheter,
+
+3. om något annat följer av lag eller annan författning, eller
+
+4. om regeringen i ett enskilt fall beslutat annat.
+
+*Förordning (2022:1516)*.
+
+#### 10 §
+
+Om en planerad lokalförändring förutsätter ökad tilldelning av anslagsmedel, höjning av avgifter eller motsvarande får myndigheten besluta om förändringen endast efter medgivande av regeringen.
+
+Begäran om sådant medgivande ska ges in när myndigheten lämnar sitt budgetunderlag till regeringen. *Förordning (2007:710)*.
+
+#### 10 a §
+
+Att Statskontoret samlar in och tillhandahåller uppgifter om den statliga lokalförsörjningen framgår av förordningen (2025:681) med instruktion för Statskontoret.
+
+*Förordning (2025:1190)*.
+
+### Överklagande
+
+#### 11 §
+
+Beslut enligt denna förordning får inte överklagas.
+
+### Verkställighetsföreskrifter
+
+#### 12 §
+
+Statskontoret får meddela föreskrifter om verkställigheten av 5 §, 7 § första stycket och 9 §. Föreskrifter som meddelas med stöd av första stycket gäller inte för Regeringskansliet. *Förordning (2026:1376)*.
+
+## Övergångsbestämmelser
+
+**1993:528**
+
+1. Denna förordning träder i kraft den 1 juli 1993.
+
+2. Genom förordningen upphävs regeringens beslut den 15 februari 1979 med allmänna anvisningar för handläggning av statliga lokalförsörjningsärenden.

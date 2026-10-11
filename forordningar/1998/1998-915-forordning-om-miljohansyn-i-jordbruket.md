@@ -1,0 +1,249 @@
+---
+title: "Förordning (1998:915) om miljöhänsyn i jordbruket"
+identifier: "SFS 1998:915"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-06-25
+amended_through: "SFS 2026:903"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-915.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:915"
+retrieved: 2026-10-11
+---
+# Förordning (1998:915) om miljöhänsyn i jordbruket
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Denna förordning är meddelad med stöd av
+
+- 12 kap. 10 § miljöbalken i fråga om 2, 5-7, 9, 10 och 11 §§,
+
+- 12 kap. 9 § miljöbalken i fråga om 3 §,
+
+- 12 kap. 8 § miljöbalken i fråga om 4 §,
+
+- 9 kap. 5 § miljöbalken i fråga om 9 a §,
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2015:250)*.
+
+#### 2 §
+
+I denna förordning avses med
+
+djurenhet: detsamma som i miljöprövningsförordningen (2013:251),
+
+verksamhet eller åtgärd för förnybar energi, uppgradering och samlokaliserad energilagringsanläggning: detsamma som i lagen (2026:399) om verksamheter och åtgärder för förnybar energi.
+
+*Förordning (2026:903)*.
+
+### Hänsyn till natur- och kulturvärden
+
+#### 3 §
+
+Jordbruksmark får tas ur jordbruksproduktion tidigast åtta månader efter det att anmälan om åtgärden har gjorts till länsstyrelsen, om inte länsstyrelsen medger något annat.
+
+Anmälan behövs dock inte om åtgärden är av ringa betydelse för jordbruket på brukningsenheten eller för natur- och kulturmiljön och inte heller när marken tas i anspråk för verksamhet vars tillåtlighet prövats i särskild ordning.
+
+Statens jordbruksverk får efter samråd med Naturvårdsverket och Riksantikvarieämbetet meddela närmare föreskrifter om innehållet i en anmälan enligt första stycket om att ta jordbruksmark ur produktion.
+
+#### 4 §
+
+Föreskrifter som avses i 12 kap. 8 § miljöbalken om den hänsyn till natur- och kulturvärden som skall tas vid skötsel av jordbruksmark och vid annan markanvändning i jordbruket meddelas av Jordbruksverket efter samråd med Naturvårdsverket och Riksantikvarieämbetet.
+
+### Särskilda bestämmelser om handläggning av ärenden som rör verksamheter eller åtgärder för förnybar energi
+
+#### 4 a §
+
+Om en anmälan enligt 3 § avser en verksamhet eller åtgärd för förnybar energi ska länsstyrelsen, så snart som möjligt och senast 45 dagar efter att anmälan kom in till myndigheten,
+
+1. skicka information till anmälaren om att handläggningen av ärendet har påbörjats, eller
+
+2. om anmälan är bristfällig, förelägga anmälaren att komplettera ansökan.
+
+När bristerna har avhjälpts ska länsstyrelsen, så snart som möjligt och senast 45 dagar efter att bristerna avhjälptes, skicka information till anmälaren om att handläggningen av ärendet har påbörjats. *Förordning (2026:903)*.
+
+#### 4 b §
+
+Länsstyrelsen ska slutföra handläggningen av ett ärende som avses i 4 a § inom två år. Tidsfristen börjar löpa den dag länsstyrelsen skickar information till sökanden enligt 4 a § om att handläggningen av ärendet har påbörjats.
+
+Trots första stycket ska handläggningen slutföras inom ett år om ärendet avser
+
+1. uppgradering av en anläggning för produktion av förnybar el,
+
+2. uppförande av en anläggning för produktion av förnybar el med en installerad effekt som är lägre än 150 kilowatt,
+
+3. uppförande av en samlokaliserad energilagringsanläggning i anslutning till en verksamhet eller åtgärd som avses i 1 eller 2, eller
+
+4. anslutning till ett nät i samband med en verksamhet eller åtgärd som avses i 1, 2 eller 3. *Förordning (2026:903)*.
+
+#### 4 c §
+
+En tidsfrist enligt 4 b § första stycket får förlängas en gång med högst sex månader om det
+
+1. efter att tidsfristen börjat löpa uppstår behov av kompletteringar på grund av nya bestämmelser eller ny information,
+
+2. uppstår en försening vid handläggningen av ärendet och förseningen beror på någon yttre omständighet som länsstyrelsen inte hade kunnat påverka eller förutse när tidsfristen började löpa,
+
+3. är nödvändigt för att en prövning som krävs enligt EU- lagstiftning på miljöområdet ska kunna genomföras, eller
+
+4. finns andra synnerliga skäl än de som anges i 1-3.
+
+En tidsfrist enligt 4 b § andra stycket får förlängas en gång med högst tre månader om det finns skäl som anges i första stycket.
+
+Om tidsfristen förlängs ska anmälaren skriftligen informeras om förlängningen och skälen för den. *Förordning (2026:903)*.
+
+### Djurhållning och gödselhantering
+
+#### 5 §
+
+Känsliga områden enligt artikel 3 i rådets direktiv 91/676/EEG av den 12 december 1991 om skydd mot att vatten förorenas av nitrater från jordbruket, i den ursprungliga lydelsen, är
+
+1. Gotlands län, kustområdena i Stockholms, Södermanlands, Östergötlands, Kalmar och Västra Götalands län samt delar av Blekinge, Skåne och Hallands län, och
+
+2. övriga delar av Stockholms och Södermanlands län samt delar av Uppsala, Östergötlands, Jönköpings, Kalmar, Västra Götalands, Värmlands, Örebro, Västmanlands och Dalarnas län.
+
+Jordbruksverket får meddela föreskrifter om vilka kustområden och länsdelar som avses i första stycket.
+
+*Förordning (2015:250)*.
+
+#### 6 §
+
+Jordbruksföretag med fler än 100 djurenheter skall ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under
+
+1. åtta månader vid djurhållning som omfattar nötkreatur, hästar, får eller getter, samt
+
+2. tio månader vid annan djurhållning.
+
+Inom de områden som anges i 5 § första stycket 1 skall jordbruksföretag med fler än tio djurenheter ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under
+
+1. åtta månader vid djurhållning som omfattar nötkreatur, hästar, får eller getter, samt
+
+2. tio månader vid annan djurhållning.
+
+I övriga delar av landet skall jordbruksföretag med fler än tio djurenheter ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under
+
+1. sex månader vid djurhållning som omfattar nötkreatur, hästar, får eller getter, samt
+
+2. tio månader vid annan djurhållning.
+
+Inom områden som anges i 5 § skall jordbruksföretag där tio eller färre djurenheter hålls ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under sex månader. Jordbruksverket får föreskriva att kravet på lagringskapacitet inte skall gälla djurhållning som omfattar högst ett visst antal djur av ett visst djurslag.
+
+*Förordning (2003:581)*.
+
+#### 7 §
+
+Vid lagring av stallgödsel ska sådana lagringsutrymmen som avses i 6 § vara så utformade att avrinning eller läckage till omgivningen inte sker. *Förordning (2009:1529)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (2009:1529)*.
+
+#### 9 §
+
+Jordbruksverket får meddela ytterligare föreskrifter om lagring av stallgödsel.
+
+Om det finns särskilda skäl för det får länsstyrelsen medge undantag från 6 §. *Förordning (2009:1529)*.
+
+#### 9 a §
+
+Jordbruksverket får meddela föreskrifter om täckning av lagringsbehållare för sådant material som innehåller stallgödsel eller andra biologiska produkter från jordbruksverksamhet eller djurhållning och som har rötats i en biogasanläggning. *Förordning (2015:250)*.
+
+#### 10 §
+
+Jordbruksverket får meddela sådana föreskrifter som avses i 12 kap. 10 § miljöbalken om
+
+1. försiktighetsmått för gödselhantering när det gäller spridning av gödsel, och
+
+2. begränsning av antalet djur i ett jordbruk för jordbruksföretag med fler än tio djurenheter.
+
+Innan Jordbruksverket meddelar sådana föreskrifter ska verket höra Naturvårdsverket och Havs- och vattenmyndigheten.
+
+*Förordning (2015:250)*.
+
+### Växtodling
+
+#### 11 §
+
+Jordbruksföretag med mer än 5 ha åkermark i Blekinge, Skåne och Hallands län skall ha minst 60 procent av marken höst- eller vinterbevuxen. För Östergötlands, Jönköpings, Kronobergs, Kalmar, Gotlands och Västra Götalands län skall motsvarande andel av marken vara minst 50 procent.
+
+Jordbruksverket får meddela närmare föreskrifter om odlingen.
+
+Om det finns särskilda skäl, får länsstyrelsen besluta om undantag.
+
+### Tillsyn och avgifter
+
+#### 12 §
+
+Bestämmelser om tillsyn finns i 26 kap. miljöbalken och i miljötillsynsförordningen (2011:13). Bestämmelser om det tillsynsansvar som hör samman med denna förordning finns i 2 kap. 4, 30 och 32 §§ miljötillsynsförordningen.
+
+Bestämmelser om avgifter finns i förordningen (1998:940) om avgifter för prövning och tillsyn enligt miljöbalken.
+
+*Förordning (2020:637)*.
+
+### Överklagande
+
+#### 13 §
+
+I 19 kap. 1 § miljöbalken finns bestämmelser om överklagande.
+
+### Straff och förverkande
+
+#### 14 §
+
+I 29 kap. miljöbalken finns bestämmelser om straff och förverkande.
+
+### Rapportering
+
+#### 15 §
+
+Jordbruksverket ska ta fram underlag för rapportering enligt artikel 3.4 och artikel 10 i rådets direktiv 91/676/EEG.
+
+Underlaget för rapportering enligt artikel 3.4 ska lämnas till regeringen senast vid utgången av april månad vart fjärde år med start 2010.
+
+Underlaget för rapportering enligt artikel 10 ska lämnas till regeringen senast vid utgången av april månad vart fjärde år med start 2012. *Förordning (2009:1529)*.
+
+#### 15 a §
+
+När Jordbruksverket tar fram underlag enligt 15 § eller tar fram eller ändrar åtgärdsprogram enligt artikel 5 i rådets direktiv 91/676/EEG, i den ursprungliga lydelsen, ska verket följa kraven i fråga om allmänhetens medverkan i artikel 2.2 i Europaparlamentets och rådets direktiv 2003/35/EG av den 26 maj 2003 om åtgärder för allmänhetens deltagande i utarbetandet av vissa planer och program avseende miljön och om ändring, med avseende på allmänhetens deltagande och rätt till rättslig prövning, av rådets direktiv 85/337/EEG och 96/61/EG, i den ursprungliga lydelsen.
+
+*Förordning (2015:250)*.
+
+## Övergångsbestämmelser
+
+**1999:769**
+
+Denna förordning träder i kraft den 1 januari 2000. Är ett jordbruksföretag i drift den 1 november 1999 gäller inte 6 § andra stycket för då befintlig djurhållning förrän den 1 januari 2002.
+
+**2003:581**
+
+1. Denna förordning träder i kraft den 1 november 2003.
+
+2. Har upphävts genom *förordning (2011:1071)*.
+
+3. Bestämmelserna i 6 § fjärde stycket i dess nya lydelse skall tillämpas från och med den 1 juli 2007 för jordbruksföretag belägna inom områden som omfattas av 5 § första stycket 2.
+
+**2011:1071**
+
+1. Denna förordning träder i kraft den 1 januari 2013.
+
+2. Jordbruksföretag med fler än tio djurenheter och som är belägna inom områden som inte omfattades av 5 § första stycket 1 i sin äldre lydelse och som genom ikraftträdandet kommer att omfattas av 5 § första stycket 1 i sin nya lydelse ska tillämpa bestämmelserna i 6 § andra stycket från och med den 1 januari 2014. Jordbruksföretagen ska dock redan vid ikraftträdandet av denna förordning ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under sex månader.
+
+3. Jordbruksföretag med fler än tio djurenheter och som är belägna inom områden som inte omfattades av 5 § i sin äldre lydelse och som genom ikraftträdandet kommer att omfattas av 5 § första stycket 2 i sin nya lydelse ska tillämpa bestämmelserna i 6 § tredje stycket från och med den 1 januari 2014. Jordbruksföretagen ska dock redan vid ikraftträdandet av denna förordning ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under sex månader.
+
+4. Jordbruksföretag med fler än tio djurenheter och som är belägna inom områden som inte omfattades av 5 § i sin äldre lydelse och som genom ikraftträdandet inte heller kommer att omfattas av 5 § i sin nya lydelse ska tillämpa bestämmelserna i 6 § tredje stycket från och med den 1 januari 2014.
+
+Jordbruksföretagen ska dock redan vid ikraftträdandet av denna förordning ha utrymme för lagring av stallgödsel som minst motsvarar en gödselproduktion under sex månader.
+
+5. Jordbruksföretag med tio eller färre djurenheter och som är belägna inom områden som inte omfattades av 5 § i sin äldre lydelse och som genom ikraftträdandet kommer att omfattas av 5 § i sin nya lydelse ska tillämpa bestämmelserna i 6 § fjärde stycket från och med den 1 januari 2014.
+
+**2026:903**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller fortfarande för ärenden som har inletts före ikraftträdandet.

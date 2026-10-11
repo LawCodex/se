@@ -1,0 +1,53 @@
+---
+title: "Förordning (1982:314) om utnyttjande av kustbevakningen inom försvarsmakten"
+identifier: "SFS 1982:314"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1982-05-13
+amended_through: "SFS 1994:710"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-314.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:314"
+retrieved: 2026-10-11
+---
+# Förordning (1982:314) om utnyttjande av kustbevakningen inom försvarsmakten
+
+## 1 §
+
+Under krig skall personal och materiel ur Kustbevakningen inom Försvarsmakten användas för övervakning, transporter och andra uppgifter enligt närmare överenskommelse mellan Försvarsmakten och Kustbevakningen. Regeringen får föreskriva att detsamma skall gälla även annars under höjd beredskap.
+
+Fullgörandet av uppgifterna enligt första stycket begränsar inte de befogenheter som tillkommer personalen vid Kustbevakningen i egenskap av tjänstemän där. *Förordning (1994:710)*.
+
+## 2 §
+
+Om beredskapen höjs inom försvarsmakten eller när försvarsmakten i andra fall ingriper mot utländska statsfartyg enligt IKFN-förordningen (1982:756), skall kustbevakningen samverka med försvarsmakten. *Förordning (1988:488)*.
+
+## 3 §
+
+När 1 § tillämpas ingår chefen för kustbevakningen med erforderlig personal ur kustbevakningen i högkvarteret. *Förordning (1988:488)*.
+
+## 4 §
+
+När personal och materiel ur Kustbevakningen används för uppgifter inom Försvarsmakten enligt 1 § skall en kustbevakningstjänsteman till sin ordinarie uniform bära ett särskilt militärt tjänstetecken. Kustbevakningens fartyg skall då föra örlogsflagga och dess flygplan och fordon ha särskild märkning. *Förordning (1994:710)*.
+
+## 5 §
+
+Försvarsmakten tillhandahåller den särskilda utrustning som behövs för kustbevakningens verksamhet enligt 1 och 2 §§.
+
+Försvarsmakten svarar för att kustbevakningens personal får den utbildning som behövs för verksamheten. *Förordning (1994:710)*.
+
+## 6 §
+
+Kostnaderna för kustbevakningens verksamhet enligt 1 § betalas av försvarsmakten. Om kustbevakningen i övrigt fullgör uppgifter för för- svarsmakten, regleras kostnaderna genom överenskommelser mellan Försvarsmakten och kustbevakningen. *Förordning (1994:710)*.
+
+## 7 §
+
+Kustbevakningen skall hålla Försvarsmakten underrättad om sådana viktigare materielfrågor som har betydelse för Kustbevakningens uppgifter under höjd beredskap. *Förordning (1994:710)*.
+
+## 8 §
+
+Föreskrifter för verkställigheten av denna förordning meddelas av Försvarsmakten. Föreskrifterna meddelas i samråd med kustbevakningen.
+
+*Förordning (1994:710)*.

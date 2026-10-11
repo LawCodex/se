@@ -1,0 +1,57 @@
+---
+title: "Lag (1981:324) om medborgarvittnen"
+identifier: "SFS 1981:324"
+type: act
+jurisdiction: se
+language: sv
+date: 1981-04-09
+amended_through: "SFS 2022:635"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1981-324.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1981:324"
+retrieved: 2026-10-11
+---
+# Lag (1981:324) om medborgarvittnen
+
+## 1 §
+
+För att tillgodose allmänhetens intresse av insyn i polisverksamheten får en kommun utse trovärdiga personer att som medborgarvittnen följa Polismyndighetens arbete inom det län till vilket kommunen hör. *Lag (2014:586)*.
+
+## 2 §
+
+Medborgarvittnen väljs av kommunfullmäktige till det antal och för den tid som fullmäktige bestämmer.
+
+Valet ska vara proportionellt, om det begärs av minst så många ledamöter som motsvarar den kvot som erhålls om antalet närvarande ledamöter delas med det antal personer som valet avser, ökat med 1. Om kvoten är ett brutet tal, ska den avrundas till närmast högre hela tal. Bestämmelser om förfarandet vid sådant proportionellt val finns i lagen (2022:629) om proportionella val i kommuner och regioner.
+
+*Lag (2022:635)*.
+
+## 3 §
+
+Valbar till medborgarvittne är den som är folkbokförd inom kommunen och som inte är underårig eller har förvaltare enligt 11 kap. 7 § föräldrabalken. Den som inte är svensk medborgare är valbar endast om han eller hon sedan tre år är folkbokförd i Sverige. Den som är anställd av Polismyndigheten eller Säkerhetspolisen får inte väljas till medborgarvittne.
+
+Om ett medborgarvittne upphör att vara valbar, förfaller uppdraget genast. *Lag (2014:586)*.
+
+## 4 §
+
+Bestämmelser om medborgarvittnenas tjänstgöring meddelas av kommunen efter samråd med Polismyndigheten. Har en annan kommun inom länet utsett medborgarvittnen, ska samråd äga rum även med denna. *Lag (2014:586)*.
+
+## 5 §
+
+Har medborgarvittnen utsetts ska Polismyndigheten i enlighet med vad kommunen har bestämt bereda dem tillfälle att närvara när polisverksamhet utövas. Detta gäller dock inte om av särskilda skäl hinder möter med hänsyn till
+
+1. rikets säkerhet,
+
+2. allmän ordning och säkerhet,
+
+3. vittnets eller annan enskilds säkerhet till liv eller hälsa,
+
+4. Polismyndighetens uppgift att förebygga, förhindra eller upptäcka brottslig verksamhet eller utreda eller beivra brott.
+
+Det gäller inte heller om vittnets närvaro skulle vara oförenlig med en bestämmelse i lag eller annan författning.
+
+*Lag (2014:586)*.
+
+## 6 §
+
+Ett medborgarvittne får inte obehörigen röja eller utnyttja vad han eller hon som medborgarvittne har fått veta om enskildas personliga eller ekonomiska förhållanden eller förhållanden av betydelse för rikets säkerhet eller för Polismyndighetens verksamhet för att förebygga, förhindra eller upptäcka brottslig verksamhet, eller utreda eller beivra brott. *Lag (2014:586)*.

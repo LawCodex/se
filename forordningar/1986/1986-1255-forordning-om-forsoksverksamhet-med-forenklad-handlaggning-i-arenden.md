@@ -1,0 +1,30 @@
+---
+title: "Förordning (1986:1255) om försöksverksamhet med förenklad handläggning i ärenden om kommunala bostadstillägg"
+identifier: "SFS 1986:1255"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1986-12-11
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1986-1255.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1986:1255"
+retrieved: 2026-10-11
+---
+# Förordning (1986:1255) om försöksverksamhet med förenklad handläggning i ärenden om kommunala bostadstillägg
+
+## 1 §
+
+Föreskrifterna i denna förordning skall gälla vid försöksverksamhet under tiden den 1 januari 1987 -- den 30 juni 1988 hos Göteborgs allmänna försäkringskassa och Kopparbergs läns allmänna försäkringskassa i ärenden om kommunalt bostadstillägg enligt lagen (1962:392) om hustrutillägg och kommunalt bostadstillägg till folkpension.
+
+## 2 §
+
+För pensionsberättigade, som är bosatta i Göteborgs kommun eller inom verksamhetsområdena för lokalkontoren i Borlänge och Falun, får vederbörande försäkringskassa vid omprövning av kommunalt bostadstillägg som sker enbart på grund av ändrade bostadskostnader ändra bostadstillägget även om den pensionsberättigade inte har ansökt skriftligt om det.
+
+## 3 §
+
+Vad som sagts i 2 § gäller under förutsättning att försäkringskassan på annat sätt än genom skriftlig ansökan från den pensionsberättigade har tillgång till eller inhämtar de uppgifter som behövs för omprövningen.
+
+## 4 §
+
+Riksförsäkringsverket får meddela de ytterligare föreskrifter som behövs för verkställigheten av denna förordning.

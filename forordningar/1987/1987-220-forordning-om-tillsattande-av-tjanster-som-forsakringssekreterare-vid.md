@@ -1,0 +1,28 @@
+---
+title: "Förordning (1987:220) om tillsättande av tjänster som försäkringssekreterare vid Stockholms läns allmänna försäkringskassa"
+identifier: "SFS 1987:220"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1987-05-07
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-220.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:220"
+retrieved: 2026-10-11
+---
+# Förordning (1987:220) om tillsättande av tjänster som försäkringssekreterare vid Stockholms läns allmänna försäkringskassa
+
+## 1 §
+
+Denna förordning gäller tillsättandet av nyinrättade tjänster som försäkringssekreterare vid Stockholms läns allmänna försäkringskassa.
+
+Föreskrifterna gäller bara när tjänsterna tillsätts första gången.
+
+## 2 §
+
+En tjänst får, utan att kungöras ledig till ansökan, tillsättas med en tjänsteman som vid utgången av år 1986 innehade tjänst som assistent, biträdande assistent eller expeditör vid lokalkontor hos försäkringskassan, om tjänsten var tillsatt med förordnande tills vidare utan tidsbegränsning.
+
+## 3 §
+
+Vad som föreskrivs om tillsättande av tjänst utan ledigkungörande skall också tillämpas på långtidsvikariat på tjänst som försäkringssekreterare.

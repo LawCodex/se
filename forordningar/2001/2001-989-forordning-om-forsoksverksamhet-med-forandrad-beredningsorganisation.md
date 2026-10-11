@@ -1,0 +1,65 @@
+---
+title: "Förordning (2001:989) om försöksverksamhet med förändrad beredningsorganisation vid förvaltningsrätt"
+identifier: "SFS 2001:989"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2001-11-29
+amended_through: "SFS 2009:1402"
+department: "Justitiedepartementet DOM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-989.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:989"
+retrieved: 2026-10-11
+---
+# Förordning (2001:989) om försöksverksamhet med förändrad beredningsorganisation vid förvaltningsrätt
+
+## 1 §
+
+Försöksverksamhet enligt denna förordning får bedrivas vid samtliga förvaltningsrätter.
+
+Förordningen gäller vid sidan av förordningen (1996:382) med förvaltningsrättsinstruktion och notarieförordningen (1990:469). *Förordning (2009:1402)*.
+
+## 2 §
+
+Har upphävts genom *förordning (2003:328)*.
+
+## 3 §
+
+Föredragande som har fullgjort notariemeritering får ges förordnande enligt 20-21 §§ förordningen (1996:382) med förvaltningsrättsinstruktion.
+
+Vad som sägs om notarie i 14 § andra stycket, 20 § andra och tredje styckena och 21 § andra och tredje styckena förordningen med förvaltningsrättsinstruktion ska även gälla föredragande som fått förordnande enligt första stycket.
+
+*Förordning (2009:1402)*.
+
+## 3 a §
+
+Har upphävts genom *förordning (2007:649)*.
+
+## 4 §
+
+Lagmannen får förordna anställda vid förvaltningsrätten att på eget ansvar
+
+1. förordna offentligt biträde i mål enligt lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1991:1128) om psykiatrisk tvångsvård, lagen (1991:1129) om rättspsykiatrisk vård och utlänningslagen (2005:716), och
+
+2. förordna sakkunnig i mål enligt lagen om psykiatrisk tvångsvård och lagen om rättspsykiatrisk vård.
+
+*Förordning (2009:1402)*.
+
+## 5 §
+
+Lagmannen får förordna lagfarna föredragande som har tjänstgjort minst två år vid förvaltningsrätt och förvaltningsrättsnotarier som har tjänstgjort minst ett år, under förutsättning att de bedöms ha tillräcklig erfarenhet och i övrigt vara lämpliga, att på eget ansvar
+
+1. förordna offentligt biträde i mål enligt lagen (1990:52) med särskilda bestämmelser om vård av unga, och
+
+2. besluta om beviljande av rättshjälp.
+
+*Förordning (2009:1402)*.
+
+## 6 §
+
+Förordnande enligt 4 och 5 §§ får inte avse mål eller frågor som är omfattande eller svåra eller som av någon annan orsak kräver särskild erfarenhet.
+
+Uppkommer en fråga av sådant slag som anges i första stycket skall den som förordnats anmäla frågan för lagmannen eller den domare som lagmannen utsett. I förvaltningsrätt som är avdelningsindelad skall sådan fråga i stället anmälas för avdelningschefen eller den domare avdelningschefen utsett.
+
+*Förordning (2009:1402)*.

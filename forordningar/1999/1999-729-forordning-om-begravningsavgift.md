@@ -1,0 +1,49 @@
+---
+title: "Förordning (1999:729) om begravningsavgift"
+identifier: "SFS 1999:729"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1999-08-26
+amended_through: "SFS 2013:807"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-729.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:729"
+retrieved: 2026-10-11
+---
+# Förordning (1999:729) om begravningsavgift
+
+### 1 §
+
+Denna förordning gäller begravningsavgift enligt 9 kap. 1 § begravningslagen (1990:1144).
+
+### 2 §
+
+Kammarkollegiet får meddela föreskrifter om avgiftssatsen för begravningsavgift enligt 9 kap. 4 § begravningslagen (1990:1144). *Förordning (2013:807)*.
+
+### 3 §
+
+Svenska kyrkan ska senast den 1 november underrätta Kammarkollegiet om respektive huvudmans kostnadsberäkningar avseende begravningsverksamheten under det följande beskattningsåret. Om en församling eller kyrklig samfällighet vid denna tidpunkt inte beslutat om sin budget, ska Svenska kyrkan i stället underrätta Kammarkollegiet om den kostnadsberäkning som framgår av upprättat förslag till budget. I sådana fall ska Svenska kyrkan senast den 15 november underrätta Kammarkollegiet om den fastlagda kostnadsberäkningen, om denna avviker från den som framgår av förslaget till budget.
+
+Kammarkollegiet ska senast den 1 december underrätta Skatteverket och Svenska kyrkan om den avgiftssats för begravningsavgiften som ska gälla för det följande beskattningsåret och respektive huvudmans andel av de totala kostnaderna. *Förordning (2013:807)*.
+
+### 4 §
+
+Svenska kyrkan ska till Kammarkollegiet lämna de ytterligare uppgifter som behövs för att fastställa avgiftssatsen. Kammarkollegiet får meddela närmare föreskrifter om hur uppgifterna ska lämnas till kollegiet.
+
+*Förordning (2013:807)*.
+
+### 5 §
+
+Har upphävts genom *förordning (2012:138)*.
+
+### 6 §
+
+Kammarkollegiets beslut enligt denna förordning får inte överklagas.
+
+## Övergångsbestämmelser
+
+**2011:1454**
+
+Denna förordning träder i kraft den 1 januari 2012 och tillämpas första gången på avgifter som avser det beskattningsår som börjar den 1 januari 2013.

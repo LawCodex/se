@@ -1,0 +1,594 @@
+---
+title: "Konkursförordning (1987:916)"
+identifier: "SFS 1987:916"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1987-10-08
+amended_through: "SFS 2026:324"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-916.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:916"
+retrieved: 2026-10-11
+---
+# Konkursförordning (1987:916)
+
+> Rättelseblad 2003:122 har iakttagits.
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Denna förordning gäller handläggning av konkurser enligt konkurslagen (1987:672).
+
+#### 2 §
+
+Har upphävts genom *förordning (2021:548)*.
+
+#### 3 §
+
+Har upphävts genom *förordning (2026:324)*.
+
+### Konkursansökan
+
+#### 4 §
+
+En ansökan om konkurs ska ges in till den tingsrätt som enligt följande förteckning är behörig på grund av var gäldenären enligt 10 kap. rättegångsbalken svarar i tvistemål som gäller betalningsskyldighet i allmänhet.
+
+```
+Behörig tingsrätt i ett         Tingsrätt där 
+konkursärende                   gäldenären svarar i tvistemål
+Umeå tingsrätt                  Gällivare tingsrätt, Haparanda 
+                                tingsrätt, Luleå tingsrätt, 
+                                Lycksele tingsrätt, Skellefteå 
+                                tingsrätt, Umeå tingsrätt
+Sundsvalls tingsrätt            Gävle tingsrätt, Hälsinglands 
+                                tingsrätt, Sundsvalls 
+                                tingsrätt, Ångermanlands 
+                                tingsrätt, Östersunds tingsrätt
+Uppsala tingsrätt               Falu tingsrätt, Mora tingsrätt, 
+                                Uppsala tingsrätt, Västmanlands 
+                                tingsrätt
+Attunda tingsrätt               Attunda tingsrätt, Norrtälje 
+                                tingsrätt, Solna tingsrätt
+Stockholms tingsrätt            Gotlands tingsrätt, Nacka 
+                                tingsrätt, Stockholms tingsrätt
+Södertörns tingsrätt            Eskilstuna tingsrätt, Nyköpings 
+                                tingsrätt, Södertälje tingsrätt, 
+                                Södertörns tingsrätt
+Örebro tingsrätt                Linköpings tingsrätt, 
+                                Norrköpings tingsrätt, 
+                                Skaraborgs tingsrätt, Örebro 
+                                tingsrätt
+Jönköpings tingsrätt            Eksjö tingsrätt, Jönköpings 
+                                tingsrätt, Kalmar tingsrätt, 
+                                Växjö tingsrätt
+Borås tingsrätt                 Alingsås tingsrätt, Borås 
+                                tingsrätt, Halmstads tingsrätt, 
+                                Varbergs tingsrätt
+Göteborgs tingsrätt             Göteborgs tingsrätt, Uddevalla 
+                                tingsrätt, Vänersborgs 
+                                tingsrätt, Värmlands tingsrätt
+Helsingborgs tingsrätt          Helsingborgs tingsrätt, 
+                                Hässleholms tingsrätt, Lunds 
+                                tingsrätt
+
+Malmö tingsrätt                 Blekinge tingsrätt, 
+                                Kristianstads tingsrätt, Malmö 
+                                tingsrätt, Ystads tingsrätt
+```
+
+*Förordning (2026:324)*.
+
+#### 5 §
+
+I ett sådant föreläggande som avses i 2 kap. 1 § tredje stycket eller 5 § konkurslagen (1987:672) skall rätten erinra om att ansökningen kan avvisas, om bristen inte avhjälps.
+
+#### 6 §
+
+Om en tingsrätt enligt 8 § andra stycket lagen (1996:242) om domstolsärenden överlämnar en ansökan om konkurs till en annan tingsrätt, ska det framgå vilken dag ansökan kom in till den förra tingsrätten. *Förordning (2026:324)*.
+
+#### 6 a §
+
+Om företagsrekonstruktion pågår enligt lagen (2022:964) om företagsrekonstruktion, ska rätten ge rekonstruktören tillfälle att yttra sig över ansökan om att försätta gäldenären i konkurs. *Förordning (2022:1330)*.
+
+#### 7 §
+
+I en kallelse enligt 2 kap. 16 § tredje stycket konkurslagen (1987:672) ska tingsrätten uppmana gäldenären att till rätten anmäla
+
+1. den adress till vilken gäldenären kan ta emot kallelser och underrättelser, om inte adressen är rätt angiven i konkursansökan, och
+
+2. varje borgenär som har en fordran på lön eller pension och en sådan borgenärs adress. *Förordning (2021:548)*.
+
+### Säkerhetsåtgärder
+
+#### 8 §
+
+I beslut varigenom någon ålagts att lämna ifrån sig sitt pass skall rätten erinra om att den som inte rättar sig efter beslutet kan häktas.
+
+### Konkursbeslut m.m.
+
+#### 9 §
+
+Om rätten har grundat sin behörighet på någon annan omständighet än att gäldenären har eller vid sin död hade hemvist här i landet, skall det anges i konkursbeslutet.
+
+Om flera konkursansökningar mot samme gäldenär har varit anhängiga samtidigt och om en annan ansökan bifalls än den som kom in först, skall det i konkursbeslutet anmärkas vilken dag som den första ansökningen kom in till tingsrätten.
+
+### Kungörelsen om konkursbeslutet
+
+#### 10 §
+
+En kungörelse enligt 2 kap. 24 § första stycket konkurslagen (1987:672) ska innehålla uppgifter om
+
+1. konkursbeslutet och dagen för det,
+
+2. gäldenärens namn och adress samt, om uppgiften framgår av handlingarna, gäldenärens person- eller organisationsnummer eller motsvarande identifieringsnummer och företagsnamn eller annat näringskännetecken som gäldenären driver eller under det senaste året har drivit näringsverksamhet under,
+
+3. den tingsrätt som har beslutat om konkursen, och
+
+4. förvaltarens namn och adress, om denne har utsetts.
+
+Om det före konkursbeslutet har utfärdats kallelse på gäldenärens okända borgenärer och tiden för att anmäla fordran ännu inte har löpt ut, ska rätten i kungörelsen upplysa om att kallelsen fortfarande gäller.
+
+Kungörelsen ska hållas tillgänglig på tingsrättens kansli på samtliga kansliorter. *Förordning (2026:324)*.
+
+#### 11 §
+
+I fråga om skyldighet för tingsrätten att i vissa fall kungöra konkursbeslutet utomlands finns det såvitt gäller Danmark, Finland och Norge föreskrifter i 2 § lagen (1981:6) om konkurs som omfattar egendom i annat nordiskt land och såvitt gäller Island föreskrifter i 2 § lagen (1934:67) med bestämmelser om konkurs, som omfattar egendom i Danmark, Finland, Island eller Norge.
+
+### Underrättelser om konkurs m.m.
+
+#### 12 §
+
+Rätten ska genast skicka en kopia av kungörelsen om konkursbeslutet till
+
+1. förvaltaren och tillsynsmyndigheten,
+
+2. Skatteverket och Åklagarmyndigheten,
+
+3. inskrivningsmyndigheten för företagsinteckning,
+
+4. registermyndigheten, om gäldenären är en registrerad juridisk person eller en enskild näringsidkare som är införd i handelsregistret,
+
+5. tillståndsmyndigheten, om det är upplyst att gäldenären har tillstånd att utöva eller förestå en viss näringsverksamhet och tillståndet enligt lag eller någon annan författning kan komma att upphöra på grund av konkursen,
+
+6. Revisorsinspektionen, om gäldenären är auktoriserad eller godkänd revisor,
+
+7. överförmyndaren, om det är upplyst att gäldenären är förmyndare, god man eller förvaltare enligt 11 kap. 7 § föräldrabalken,
+
+8. inskrivningsmyndigheten, om det är upplyst att det i boet finns fast egendom eller tomträtt,
+
+9. registermyndigheten, om det är upplyst att det i boet finns registrerat skepp eller skeppsbygge, andel i sådan egendom eller villkorlig äganderätt till egendomen eller till andel i den,
+
+10. inskrivnings- och registermyndigheterna, om det är upplyst att det i boet finns registrerat luftfartyg eller andel i eller intecknade reservdelar till sådant luftfartyg,
+
+11. Sveriges advokatsamfund, om gäldenären är advokat eller biträdande jurist på en advokatbyrå,
+
+12. Sveriges riksbank och Finansinspektionen, om gäldenären är ett kreditinstitut,
+
+13. Fastighetsmäklarinspektionen, om gäldenären är fastighetsmäklare,
+
+14. svensk värdepapperscentral, om det är upplyst att det i boet finns finansiella instrument som är registrerade hos värdepapperscentralen,
+
+15. Finansinspektionen, om det är upplyst att gäldenären är deltagare i ett anmält avvecklingssystem enligt lagen (1999:1309) om system för avveckling av förpliktelser på finansmarknaden,
+
+16. Statens energimyndighet, om det är upplyst att det i boet finns elcertifikat som är registrerade i elcertifikatsregistret enligt lagen (2011:1200) om elcertifikat,
+
+17. Statens energimyndighet, om det är upplyst att det i boet finns utsläppsrätter som är registrerade i utsläppsrättsregistret enligt lagen (2020:1173) om vissa utsläpp av växthusgaser, och
+
+18. Centrala studiestödsnämnden, om gäldenären är en fysisk person.
+
+Första stycket 9 tillämpas också när egendomen är registrerad utomlands.
+
+Rätten ska genast underrätta tillsynsmyndigheten om den har verkställt ett beslut om kvarstad enligt 2 kap. 11 § konkurslagen (1987:672) om inte underrättelse om konkursen lämnas enligt första stycket 1. *Förordning (2026:324)*.
+
+#### 13 §
+
+I samband med en underrättelse enligt 12 § första stycket ska uppgifter lämnas om konkursförvaltarens namn och adress, om inte detta framgår av kungörelsen om konkursbeslutet. I samband med en underrättelse enligt 12 § första stycket 8, 9 eller 10 ska sådana uppgifter lämnas som är av betydelse för att mottagaren ska kunna identifiera egendomen. Underrättelse enligt 12 § första stycket 3 ska också innehålla en uppgift om gäldenärens person- eller organisationsnummer, om inte uppgiften framgår av kungörelsen om konkursbeslutet.
+
+Om flera borgenärer vid tidpunkten för konkursbeslutet har ansökt om gäldenärens konkurs, ska rätten i samband med underrättelsen enligt 12 § första stycket 1 skicka en kopia av samtliga konkursansökningar till tillsynsmyndigheten.
+
+Om rätten enligt 2 § lagen (1981:6) om konkurs som omfattar egendom i annat nordiskt land ska kungöra ett beslut om konkurs i ett annat nordiskt land och inskrivning av konkursen är föreskriven i det andra landet, ska rätten begära att konkursen skrivs in i fastighetsbok eller domstolsprotokoll (tingslysning) eller i annat offentligt register i det andra landet. *Förordning (2026:324)*.
+
+#### 14 §
+
+Att uppgift om konkursen ska föras in i den förteckning över konkurser som förs av inskrivningsmyndigheten för företagsinteckning framgår av förordningen (2003:552) om företagshypotek.
+
+När inskrivningsmyndigheten har underrättats enligt 12 § första stycket 8, ska myndigheten göra en anteckning om konkursen i fastighetsregistrets inskrivningsdel. Har en myndighet underrättats enligt 12 § första stycket 10, ska anteckning om konkursen göras i inskrivningsregistret. Anteckningen ska göras på den första inskrivningsdagen efter det att underrättelsen kom in till myndigheten.
+
+Att anteckning om konkursen i vissa fall ska göras även i fartygsregistrets skeppsdel och fartygsregistrets skeppsbyggnadsdel framgår av sjölagen (1994:1009).
+
+*Förordning (2008:999)*.
+
+#### 15 §
+
+Rätten ska genast skicka en kopia av ett beslut enligt konkurslagen (1987:672) om skyldighet för gäldenären eller någon annan att lämna ifrån sig sitt pass eller om förbud att utfärda pass till Polismyndigheten och tillsynsmyndigheten. Myndigheterna ska också underrättas så snart ett sådant beslut hävs eller passet återlämnas enligt 6 kap. 8 § konkurslagen.
+
+*Förordning (2026:324)*.
+
+### Överklagande
+
+#### 16 §
+
+Överklagas tingsrättens konkursbeslut, skall rätten snarast underrätta förvaltaren och tillsynsmyndigheten om överklagandet.
+
+Om en högre rätt upphäver ett beslut om konkurs, skall tingsrätten genast underrättas. Tingsrätten skall kungöra den högre rättens beslut och underrätta alla som har fått underrättelse om konkursen enligt 12 § första stycket.
+
+### Överlämnande av ett konkursärende
+
+#### 17 §
+
+Om rätten enligt 16 kap. 9 § konkurslagen (1987:672) beslutar att ett ansökningsärende ska lämnas över till en annan tingsrätt, ska rätten underrätta parterna i ärendet, förvaltaren och tillsynsmyndigheten om det. Om det behövs ska rätten även underrätta gäldenären. *Förordning (2026:324)*.
+
+### Bekräftelse av bouppteckningen och edgång
+
+#### 18 §
+
+Förvaltaren ska i bouppteckningen ange borgenärerna med namn. I en särskild handling ska förvaltaren också ange borgenärernas namn, adress och person- eller organisationsnummer eller motsvarande identifieringsnummer, om det finns ett sådant. Handlingen ska ges in till tillsynsmyndigheten. *Förordning (2026:324)*.
+
+#### 19 §
+
+Om gäldenären är en juridisk person med flera ställföreträdare och förvaltaren anser att någon av ställföreträdarna inte behöver bekräfta bouppteckningen enligt 6 kap. 4 § konkurslagen (1987:672), ska förvaltaren underrätta ställföreträdaren om detta. *Förordning (2026:324)*.
+
+#### 20 §
+
+Har upphävts genom *förordning (2021:548)*.
+
+#### 21 §
+
+Förvaltaren ska snarast underrätta gäldenärens make, om gäldenären är gift, och varje känd solidariskt ansvarig medgäldenär om bouppteckningssammanträdet enligt 6 kap. 2 b § första stycket konkurslagen (1987:672).
+
+Om edgångssammanträde ska hållas enligt 6 kap. 3 § andra stycket konkurslagen, ska rätten snarast underrätta dem som anges i första stycket om edgångssammanträdet. *Förordning (2021:548)*.
+
+#### 22 §
+
+Gäldenärens kallelse till bouppteckningssammanträdet enligt 6 kap. 2 b § andra stycket konkurslagen (1987:672) ska innehålla
+
+1. uppgifter om tiden och platsen för sammanträdet,
+
+2. en upplysning om att gäldenären är skyldig att bekräfta bouppteckningen vid sammanträdet, och
+
+3. en upplysning om att gäldenären enligt 6 kap. 6 § konkurslagen inte utan förvaltarens medgivande får resa utomlands innan han eller hon har bekräftat bouppteckningen.
+
+Första stycket gäller även för gäldenärens kallelse till ett edgångssammanträde enligt 6 kap. 3 § konkurslagen.
+
+*Förordning (2026:324)*.
+
+#### 22 a §
+
+Förvaltaren ska vid bouppteckningssammanträdet erinra gäldenären om dennes sanningsplikt och om konsekvenserna av att lämna oriktiga eller ofullständiga uppgifter. *Förordning (2021:548)*.
+
+#### 23 §
+
+Om gäldenären gör tillägg till eller ändringar av betydelse i bouppteckningen när han eller hon ska bekräfta den, ska förvaltaren underrätta tillsynsmyndigheten om dessa.
+
+Om någon annan som ska bekräfta bouppteckningen eller viss uppgift i den enligt 6 kap. 5 § konkurslagen (1987:672) gör tillägg till eller ändringar av betydelse i bouppteckningen, ska förvaltaren underrätta gäldenären och tillsynsmyndigheten om dessa. *Förordning (2026:324)*.
+
+#### 24 §
+
+Har upphävts genom *förordning (2021:548)*.
+
+#### 25 §
+
+Förvaltaren ska i samband med ett beslut om bevakningsförfarande bestämma en eller flera adresser dit bevakningar och anmärkningar får skickas. Adressen eller adresserna ska framgå av kungörelsen enligt 9 kap. 3 § konkurslagen (1987:672).
+
+På begäran av förvaltaren ska tillsynsmyndigheten ange kontaktuppgifter till det kontor där handlingarna i bevakningsförfarandet kommer att hållas tillgängliga.
+
+*Förordning (2026:324)*.
+
+### Bevaknings- och anmärkningsförfarandet
+
+#### 26 §
+
+Förvaltaren ska genast underrätta gäldenären, tillsynsmyndigheten, varje känd borgenär och dem som anges i 21 § om ett beslut att anordna ett bevakningsförfarande. Underrättelsen ska innehålla uppgifter om
+
+1. innehållet i den kungörelse som har utfärdats enligt 9 kap. 3 § konkurslagen (1987:672),
+
+2. att handlingarna hålls tillgängliga hos tillsynsmyndigheten och kontaktuppgifter till det kontor där handlingarna finns tillgängliga, och
+
+3. anmärkningstiden enligt 9 kap. 8 § konkurslagen.
+
+Om förvaltaren bestämmer anmärkningstiden vid en senare tidpunkt än vid beslutet om bevakningsförfarandet, ska förvaltaren snarast därefter underrätta dem som anges i första stycket om detta.
+
+I en underrättelse enligt första stycket ska förvaltaren upplysa om att borgenärerna i andra fall än som avses i 14 kap. 7 § första stycket konkurslagen endast på begäran kommer att ges tillfälle att yttra sig över förvaltarens arvodesansökan. *Förordning (2026:324)*.
+
+#### 27 §
+
+Förvaltaren ska underrätta varje känd solidariskt ansvarig medgäldenär om en anmärkning som har gjorts mot den fordran som medgäldenären är ansvarig för. Underrättelsen ska göras samtidigt som underrättelsen till den bevakande borgenären enligt 9 kap. 9 § tredje stycket konkurslagen (1987:672).
+
+Förvaltaren ska se till att den som har anmärkt mot en bevakning får del av det yttrande och de handlingar som den bevakande borgenären lämnar till förvaltaren efter en uppmaning enligt 9 kap. 13 § första stycket konkurslagen.
+
+*Förordning (2026:324)*.
+
+#### 28 §
+
+Om en bevakning återkallas ska förvaltaren underrätta den som har anmärkt mot bevakningen, gäldenären och tillsynsmyndigheten.
+
+Om en anmärkning återkallas ska förvaltaren underrätta den bevakande borgenären, gäldenären och tillsynsmyndigheten.
+
+Om en bevakningstvist förliks eller överlämnas till tingsrätten enligt 9 kap. 15 § konkurslagen (1987:672) ska förvaltaren underrätta gäldenären och tillsynsmyndigheten. I de fall tvisten överlämnas ska förvaltaren även underrätta parterna i tvisten. *Förordning (2026:324)*.
+
+#### 29 §
+
+Rätten ska skicka en kopia av beslutet i en bevakningstvist till förvaltaren, gäldenären och tillsynsmyndigheten. *Förordning (2026:324)*.
+
+### Efterbevakning
+
+#### 30 §
+
+Efterbevakningsavgiften enligt 9 kap. 20 § konkurslagen (1987:672) uppgår till ett belopp som motsvarar tre procent av prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken.
+
+Avgiften ska betalas till tillsynsmyndigheten. Tillsynsmyndigheten får meddela närmare föreskrifter om hur avgiften ska betalas. *Förordning (2026:324)*.
+
+#### 30 a §
+
+När en efterbevakning har gjorts ska förvaltaren underrätta tillsynsmyndigheten. Förvaltaren ska även lämna sådana uppgifter om den bevakande borgenären som myndigheten kan behöva.
+
+Förvaltaren ska upplysa borgenären om att en efterbevakningsavgift ska betalas till tillsynsmyndigheten och om att efterbevakningen inte kommer att leda till någon åtgärd förrän avgiften har betalats.
+
+Tillsynsmyndigheten ska begära efterbevakningsavgiften från borgenären. När avgiften har betalats ska myndigheten genast underrätta förvaltaren om när betalningen togs emot. *Förordning (2026:324)*.
+
+### Konkursens avslutande
+
+#### 31 §
+
+Förvaltaren ska efter bouppteckningssammanträdet underrätta varje känd borgenär om huruvida borgenären kan räkna med att få utdelning på sin fordran.
+
+Om konkursen inte ska avskrivas, ska förvaltaren i underrättelsen även upplysa varje känd borgenär om att
+
+1. borgenären kommer att underrättas om ett utdelningsförslag och slutredovisningen endast om han eller hon kommer i fråga för utdelning eller om han eller hon särskilt begär hos tillsynsmyndigheten att bli underrättad, och
+
+2. borgenären i andra fall än som avses i 14 kap. 7 § konkurslagen (1987:672) endast kommer att ges tillfälle att yttra sig över förvaltarens arvodesansökan om han eller hon begär det hos tillsynsmyndigheten.
+
+Förvaltaren ska skicka en kopia av underrättelsen till tillsynsmyndigheten. *Förordning (2026:324)*.
+
+#### 32 §
+
+En kungörelse enligt 11 kap. 6 § första stycket konkurslagen (1987:672) ska innehålla kontaktuppgifter till det kontor vid tillsynsmyndigheten där handlingarna finns tillgängliga.
+
+Tillsynsmyndigheten ska skicka en kopia av kungörelsen till
+
+1. varje borgenär som i utdelningsförslaget föreslås få utdelning,
+
+2. en annan borgenär som har begärt att bli underrättad,
+
+3. en annan borgenär, om det av särskilda skäl kan antas vara av betydelse för honom eller henne att bli underrättad, och
+
+4. förvaltaren.
+
+En borgenär som föreslås få utdelning ska upplysas om den utdelning som i utdelningsförslaget har beräknats för honom eller henne. En borgenär som avses i andra stycket 3 ska upplysas om de omständigheter som motiverar underrättelsen.
+
+*Förordning (2026:324)*.
+
+#### 32 a §
+
+En kungörelse enligt 13 kap. 6 § andra stycket konkurslagen (1987:672) ska innehålla kontaktuppgifter till det kontor vid tillsynsmyndigheten där slutredovisningen finns tillgänglig. *Förordning (2026:324)*.
+
+#### 33 §
+
+Om rätten enligt 11 kap. 7 § tredje stycket konkurslagen (1987:672) ska pröva ett utdelningsförslag, ska tillsynsmyndigheten tillsammans med sitt yttrande överlämna
+
+1. utdelningsförslaget,
+
+2. förvaltningsredogörelsen,
+
+3. de invändningar som har gjorts,
+
+4. slutredovisningen och de handlingar som hör till den, och
+
+5. förvaltarens arvodesansökan och de handlingar som hör till den.
+
+Tillsynsmyndigheten ska underrätta förvaltaren om att prövningen av utdelningsförslaget har överlämnats. Om utdelningsförslaget ska prövas vid ett sammanträde ska rätten underrätta tillsynsmyndigheten om det. *Förordning (2026:324)*.
+
+#### 34 §
+
+När konkursen har avslutats ska tillsynsmyndigheten underrätta
+
+1. inskrivningsmyndigheten för företagsinteckning,
+
+2. den registermyndighet som enligt 12 § första stycket 4 eller 17 har underrättats om konkursen, i förekommande fall med uppgift om att konkursen har avslutats med överskott, och
+
+3. Skatteverket.
+
+Om en konkurs har avslutats efter beslut av rätten, ska rätten underrätta tillsynsmyndigheten om det. Rätten ska bifoga en kopia av beslutet. *Förordning (2026:324)*.
+
+#### 34 a §
+
+Om förvaltaren överlämnar tillgångar till en borgenär enligt 10 kap. 4 § konkurslagen (1987:672) ska förvaltaren underrätta tillsynsmyndigheten om det. *Förordning (2026:324)*.
+
+### Anmälan till myndighet beträffande viss egendom som inte har sålts
+
+#### 35 §
+
+Om en konkurs i något annat fall än som avses i 2 kap. 25 § konkurslagen (1987:672) har upphört utan att försäljning har ägt rum av följande egendom, skall detta antecknas i angivna register.
+
+\------------------------------------------------------------------
+
+```
+Egendom                                 Register
+------------------------------------------------------------------
+1. Fast egendom                         Fastighetsregistrets
+```
+
+inskrivningsdel
+
+2. Här i Sverige registrerat skepp
+
+```
+eller andel i sådant skepp              Fartygsregistrets
+```
+
+skeppsdel
+
+3. Här i Sverige registrerat luftfartyg eller andel i eller intecknade reservdelar till
+
+```
+sådant luftfartyg.                      Inskrivningsregistret
+```
+
+för luftfartyg
+
+Förvaltaren skall anmäla förhållandet till de myndigheter som har underrättats om konkursen. *Förordning (2005:146)*.
+
+### Ackord i konkurs
+
+#### 36 §
+
+Har upphävts genom *förordning (2021:548)*.
+
+#### 37 §
+
+Rätten bestämmer efter samråd med förvaltaren tid och plats för ett sammanträde enligt 12 kap. 8 § konkurslagen (1987:672).
+
+Av kungörelsen med kallelse till sammanträdet ska det framgå att handlingarna finns tillgängliga hos förvaltaren.
+
+Rätten ska genast skicka en kopia av kungörelsen till gäldenären och alla kända borgenärer. Rätten ska samtidigt skicka ansökan om ackord med tillhörande handlingar och förvaltarens yttrande till borgenärerna. Om en borgenär blir känd först senare ska rätten så snart som möjligt skicka handlingarna till honom eller henne. *Förordning (2026:324)*.
+
+#### 38 §
+
+Medges ändring av ackordsförslaget och beslutas av den anledningen med stöd av 12 kap. 14 § andra stycket konkurslagen (1987:672) att ett fortsatt sammanträde skall hållas, skall rätten genast tillkännage tid och plats för det fortsatta sammanträdet. Varje röstberättigad borgenär med känd adress som inte var närvarande vid det sammanträde då tillkännagivandet gjordes skall underrättas om tid och plats för det fortsatta sammanträdet. I underrättelsen skall det anges vilken ändring som har gjorts i ackordsförslaget och om förvaltaren tillstyrker ändringen eller inte.
+
+Beslutas ett fortsatt sammanträde av någon annan anledning än som avses i första stycket, behöver någon underrättelse inte skickas till de borgenärer som inte var närvarande vid det sammanträde då tid och plats för det fortsatta sammanträdet tillkännagavs.
+
+#### 39 §
+
+Skall sammanträde hållas enligt 12 kap. 19 § tredje stycket konkurslagen (1987:672) för ny prövning av ackordsförslaget, skall kungörelsen om sammanträdet utfärdas snarast. Rätten skall samtidigt skicka en särskild underrättelse om kungörelsens innehåll till förvaltaren, gäldenären och varje röstberättigad borgenär med känd adress.
+
+### Förvaltarens slutredovisning
+
+#### 40 §
+
+Tillsynsmyndigheten ska skicka en kopia av en kungörelse enligt 13 kap. 6 § andra stycket konkurslagen (1987:672) till förvaltaren, gäldenären och varje känd borgenär. En kopia behöver inte skickas till borgenärer med fordringar utan förmånsrätt, om en redovisning har lämnats enligt 13 kap. 2 § 8 konkurslagen. *Förordning (2026:324)*.
+
+### Näringsförbud
+
+#### 41 §
+
+Om inte förvaltaren har gjort någon anmälan om näringsförbud enligt 7 kap. 16 § andra stycket konkurslagen (1987:672), skall tillsynsmyndigheten snarast göra en sådan anmälan, om det finns anledning till det. Tillsynsmyndigheten skall till sin anmälan foga den utredning som finns hos myndigheten.
+
+### Tillsynsavgift
+
+#### 41 a §
+
+Statens kostnader för tillsyn i konkurs ska ersättas genom en tillsynsavgift. Konkursboet ska betala tillsynsavgiften när en konkurs avslutas enligt 11 kap. 1-8 §§ konkurslagen (1987:672). *Förordning (2026:324)*.
+
+#### 41 b §
+
+Tillsynsavgiften uppgår till ett belopp som motsvarar tio procent av i konkursen fastställda förvaltararvoden upp till sammanlagt 500 000 kronor och fyra procent av den del av arvodena som överstiger 500 000 kronor. *Förordning (2026:324)*.
+
+#### 41 c §
+
+Förvaltaren ska redovisa tillsynsavgiften till tillsynsmyndigheten.
+
+Tillsynsmyndigheten får meddela närmare föreskrifter om hur avgiften ska betalas. *Förordning (2026:324)*.
+
+### Konkurskostnader
+
+#### 42 §
+
+Kostnader som enligt 14 kap. 2 § konkurslagen (1987:672) ska betalas av staten betalas ut av tillsynsmyndigheten.
+
+*Förordning (2026:324)*.
+
+#### 43 §
+
+Kostnader som enligt 14 kap. 3 § konkurslagen (1987:672) ska betalas av sökande borgenär ska betalas till tillsynsmyndigheten.
+
+Tillsynsmyndigheten får meddela närmare föreskrifter om hur kostnaderna ska betalas. *Förordning (2026:324)*.
+
+#### 44 §
+
+Den taxa för arvode som avses i 14 kap. 4 § tredje stycket konkurslagen (1987:672) fastställs av domstolsverket på grundval av en timkostnadsnorm som beslutas av regeringen. *Förordning (1991:1407)*.
+
+#### 45 §
+
+Har upphävts genom *förordning (2026:324)*.
+
+#### 46 §
+
+Har upphävts genom *förordning (2026:324)*.
+
+### Vissa kreditinrättningars konkurs
+
+#### 47 §
+
+I en konkurs hos ett kreditinstitut eller ett försäkringsföretag får förvaltaren i samråd med tillsynsmyndigheten bestämma att insättnings- eller försäkringsborgenärerna ska underrättas på något annat sätt än som anges i 26, 31, 32 och 37-40 §§, i den utsträckning det är lämpligt.
+
+Förvaltaren ska kungöra en upplysning om vad som har bestämts.
+
+*Förordning (2026:324)*.
+
+#### 48 §
+
+I en konkurs hos ett kreditinstitut ska förvaltaren skicka en sådan förteckning som avses i 9 kap. 6 b § konkurslagen (1987:672) till vart och ett av institutets kontor så att förteckningen under bevakningstiden kan hållas tillgänglig där för var och en som vill ta del av den. *Förordning (2026:324)*.
+
+#### 49 §
+
+En underrättelse enligt 26 § till en insättnings- eller försäkringsborgenär ska innehålla upplysningar om att en förteckning enligt 9 kap. 6 b eller 6 c § konkurslagen (1987:672) har upprättats, om var förteckningen finns och om att en borgenär inte behöver bevaka sin fordran i den utsträckning fordringsbeloppet har tagits upp i förteckningen.
+
+*Förordning (2026:324)*.
+
+### Avslutande bestämmelser
+
+#### 50 §
+
+Kallelser och underrättelser enligt denna förordning ska ske med post eller på annat lämpligt sätt. *Förordning (2021:548)*.
+
+#### 51 §
+
+När tillsynsmyndigheten överlämnar ett överklagande av ett beslut till rätten ska myndigheten lämna ett eget yttrande över överklagandet. *Förordning (2026:324)*.
+
+#### 51 a §
+
+När förvaltarens beslut har överklagats ska rätten begära in beslutet från honom eller henne. Det gäller inte om rätten får del av beslutet på något annat sätt.
+
+*Förordning (2026:324)*.
+
+#### 52 §
+
+Är en handling som kommer in till rätten avfattad på danska eller norska eller är en handling från en utländsk borgenär som är bosatt utomlands avfattad på engelska, franska eller tyska, skall handlingen godtas utan översättning till svenska.
+
+#### 53 §
+
+Underrättelser eller andra handlingar som rätten skickar till eller delger den som vistas utomlands och som inte har något känt ombud här i landet skall vara avfattade på ett språk som mottagaren kan antas förstå. Utrikesdepartementet lämnar biträde för översättning av handlingar.
+
+## Övergångsbestämmelser
+
+**1987:916**
+
+Denna förordning träder i kraft den 1 januari 1988 då konkursförordningen (1979:801) upphör att gälla. Äldre bestämmelser gäller fortfarande i fråga om konkurser, där konkursbeslutet har meddelats före ikraftträdandet. Vad som i dessa bestämmelser sägs om konkursdomaren skall dock i stället avse tingsrätten. Vidtas en åtgärd enligt den nya konkurslagen, tillämpas bestämmelserna för motsvarande åtgärd i den nya förordningen.
+
+**1990:1076**
+
+Regeringen föreskriver att 44 § konkursförordningen (1987:916) skall upphöra att gälla vid utgången av år 1990. Taxor som har fastställts före den tidpunkten och som skall börja tillämpas den 1 januari 1991 eller senare skall för att vara giltiga underställas regeringen för godkännande.
+
+**2021:548**
+
+1. Denna förordning träder i kraft den 1 juli 2021.
+
+2. Om konkursen har beslutats före ikraftträdandet gäller 10, 17, 18,
+
+21-23 och 26 §§ i den äldre lydelsen.
+
+3. De upphävda 19 och 20 §§ gäller fortfarande för konkurser som har beslutats före ikraftträdandet.
+
+**2026:324**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Den upphävda 25 § gäller fortfarande, om en förlikningsman har utsetts före ikraftträdandet.
+
+3. Den tidigare 26 § och de äldre lydelserna av 27-30 §§ gäller fortfarande, om ett bevakningsförfarande har inletts före ikraftträdandet. Då gäller inte de nya 25 och 30 a §§.
+
+4. De äldre lydelserna av 32, 33 och 40 §§ gäller fortfarande, om ett utdelningsförslag har getts in till rätten före ikraftträdandet.
+
+5. Den äldre lydelsen av 34 § gäller fortfarande, om rätten beslutar att avsluta konkursen på grund av en ansökan om avskrivning, ett utdelningsförslag, en ansökan om nedläggning av konkursen eller ett ackordsförslag, som har getts in före ikraftträdandet.
+
+6. Den nya 41 b § gäller inte, om konkursen har beslutats före ikraftträdandet.
+
+7. Den nya 41 c § gäller inte när rätten beslutar om utdelning på grund av ett utdelningsförslag som har getts in före ikraftträdandet.
+
+8. Den äldre lydelsen av 42 § och den upphävda 46 § gäller fortfarande, om en ansökan om arvode, förskott på arvode eller ersättning för kostnader har getts in till rätten före ikraftträdandet.
+
+9. Den nya lydelsen av 43 § gäller inte, om en ansökan om avskrivning har getts in till rätten före ikraftträdandet.

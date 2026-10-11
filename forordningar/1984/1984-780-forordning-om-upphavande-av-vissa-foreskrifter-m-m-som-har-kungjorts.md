@@ -1,0 +1,44 @@
+---
+title: "Förordning (1984:780) om upphävande av vissa föreskrifter m.m. som har kungjorts i statens personalnämnds författningssamling"
+identifier: "SFS 1984:780"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1984-09-20
+department: "Civildepartementet RS1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-780.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:780"
+retrieved: 2026-10-11
+---
+# Förordning (1984:780) om upphävande av vissa föreskrifter m.m. som har kungjorts i statens personalnämnds författningssamling
+
+Regeringen föreskriver att nedan angivna föreskrifter m.m. som har kungjorts i statens personalnämnds författningssamling (SPNFS) skall, i den mån de fortfarande gäller, upphöra att gälla vid utgången av september 1985.
+
+```
+1977:5   Statens personalnämnds föreskrifter m.m. till förordningen
+         (1976:1060) om sjukvård i statligt reglerad
+         anställning m.m.,
+1977:6   Statens personalnämnds föreskrifter m.m. till förordningen
+         (1976:1061) om sjukledighet i statligt reglerad
+         anställning m.m.,
+1977:10  Statens personalnämnds föreskrifter m.m. till
+         förordningen (1976:1062) om läkare för sjukvård eller
+         företagshälsovård hos statsmyndigheterna,
+1977:14  Statens personalutbildningsnämnds anvisningar till
+         förordningen (SPNFS 1977:13) om försöksverksamhet med
+         ersättning för vissa merkostnader för barntillsyn i samband
+         med internatutbildning,
+1978:2   Statens personalnämnds föreskrifter m.m. till förordningen
+         (1977:754) om begränsning av vikariatsförordnanden hos
+         statsmyndigheterna, m.m.,
+1979:1   Statens personalnämnds föreskrifter m.m. angående
+         redovisning 1979 av statlig praktikverksamhet,
+1979:2   Regeringens förordning om studiecirklar i jämställdhet vid
+         statsmyndigheterna,
+1979:3   Regeringens förordning om ersättning för merkostnader för
+         barntillsyn i samband med statlig internatutbildning,
+1979:6   Statens personalnämnds föreskrifter m. m. till förordningen
+         (SPNFS 1979:2) om studiecirklar i jämställdhet vid
+         statsmyndigheterna.
+```

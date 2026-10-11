@@ -1,0 +1,74 @@
+---
+title: "Förordning (1991:978) om statsbidrag till produktion av vissa läromedel"
+identifier: "SFS 1991:978"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1991-06-13
+amended_through: "SFS 2024:266"
+reprinted: "SFS 1993:454"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-978.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:978"
+retrieved: 2026-10-11
+---
+# Förordning (1991:978) om statsbidrag till produktion av vissa läromedel
+
+### 1 §
+
+Statsbidrag enligt denna förordning lämnas för produktion av läroböcker, andra läromedel och lärarhandledningar i ämnen och ämnesområden där det är brist på sådant material.
+
+Statsbidrag lämnas endast för produktion av
+
+1. läroböcker, andra läromedel och lärarhandledningar som är avsedda att användas vid
+
+a) modersmålsträning i förskolan för barn med annat modersmål än svenska,
+
+b) undervisning som står under tillsyn av Statens skolinspektion,
+
+2. tolkordlistor. *Förordning (2024:266)*.
+
+### 2 §
+
+Frågor om statsbidrag prövas av Statens skolverk, om inte något annat följer av 3 §.
+
+Ansökan om statsbidrag görs hos Skolverket.
+
+*Förordning (2008:615)*.
+
+### 3 §
+
+Frågor om statsbidrag till produktion av läroböcker och andra läromedel för elever med funktionsnedsättning och till produktion av lärarhandledningar till sådana läroböcker och andra läromedel prövas av Specialpedagogiska skolmyndigheten.
+
+Ansökan om statsbidrag görs hos myndigheten. *Förordning (2024:266)*.
+
+### 4 §
+
+Statsbidrag får lämnas i form av
+
+1. bidrag till hela produktionskostnaden eller en del av denna,
+
+2. bidrag med återbetalningsskyldighet av hela eller en del av bidraget,
+
+3. garanti om stöd vid förlust. *Förordning (1993:454)*.
+
+### 5 §
+
+Beslut i ärenden om statsbidrag får inte överklagas. *Förordning (1993:454)*.
+
+### 6 §
+
+Statens skolverk och Specialpedagogiska skolmyndigheten får var och en inom sitt område meddela de föreskrifter som behövs för verkställigheten av denna förordning.
+
+*Förordning (2008:615)*.
+
+## Övergångsbestämmelser
+
+**2008:395**
+
+Denna förordning träder i kraft den 1 juli 2008. Äldre bestämmelser gäller fortfarande för bidrag som har beslutats före ikraftträdandet.
+
+**2008:615**
+
+Denna förordning träder i kraft den 1 oktober 2008. Äldre bestämmelser gäller fortfarande för bidrag som har beslutats före ikraftträdandet.

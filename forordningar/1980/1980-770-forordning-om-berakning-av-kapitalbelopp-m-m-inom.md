@@ -1,0 +1,49 @@
+---
+title: "Förordning (1980:770) om beräkning av kapitalbelopp m.m. inom sjömanspensioneringen"
+identifier: "SFS 1980:770"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1980-10-09
+amended_through: "SFS 2009:1179"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1980-770.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1980:770"
+retrieved: 2026-10-11
+---
+# Förordning (1980:770) om beräkning av kapitalbelopp m.m. inom sjömanspensioneringen
+
+## 1 §
+
+I denna förordning anges de grunder som skall tillämpas vid
+
+1. beräkning av kapitalbelopp och fondkapital enligt punkt 7 övergångsbestämmelserna till kungörelsen (1972:412) om sjömanspension,
+
+2. beräkning av kapitalbelopp och engångsbelopp enligt 11 a § kungörelsen om sjömanspension och enligt punkt 4 i övergångsbestämmelserna till förordningen (1980:432) om ändring i kungörelsen,
+
+3. omräkning av pensionsbelopp enligt punkt 3 i övergångsbestämmelserna till sistnämnda förordning.
+
+## 2 §
+
+Beräkningen skall göras med utgångspunkt från aktuell pensionsnivå.
+
+## 3 §
+
+Räntefoten antas till 2,5 procent för pension som omräknas vid ändring av basbeloppet (värdesäkrad pension) och 7,5 procent för annan pension (ej värdesäkrad pension).
+
+## 4 §
+
+Som antaganden i fråga om dödlighet gäller de formler som försäkringsinspektionen har fastställt enligt punkt 2.a i bilagan till kungörelsen (BFFS 1977:5) om försäkringstekniska grunder att tillämpas vid beräkning av kapitalvärde enligt 3 § lagen (1967:531) om tryggande av pensionsutfästelse m.m.
+
+## 5 §
+
+Vid tillämpning av 11a § tredje stycket kungörelsen (1972:412) om sjömanspension får det enligt 2-4 §§ beräknade beloppet sättas ned, om det är motiverat med hänsyn till den försäkrades allmänna hälsotillstånd eller med hänsyn till förväntad nedsättning av pensionsbeloppet på grund av samordning med annan pension.
+
+## 6 §
+
+Belopp som har räknats fram enligt 2-5 §§ skall höjas med tre procent (omkostnadstillägg).
+
+## 7 §
+
+Närmare föreskrifter om beräkning av sådana kapitalbelopp m.m. som avses i denna förordning meddelas av Pensionsmyndigheten. *Förordning (2009:1179)*.

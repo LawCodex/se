@@ -1,0 +1,53 @@
+---
+title: "Lag (1988:695) med anledning av Sveriges tillträde till den europeiska konventionen mot tortyr m.m."
+identifier: "SFS 1988:695"
+type: act
+jurisdiction: se
+language: sv
+date: 1988-06-09
+amended_through: "SFS 2009:438"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1988-695.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1988:695"
+retrieved: 2026-10-11
+---
+# Lag (1988:695) med anledning av Sveriges tillträde till den europeiska konventionen mot tortyr m.m.
+
+## 1 §
+
+I denna lag meddelas föreskrifter med anledning av Sveriges åtaganden enligt
+
+1. den europeiska konventionen den 26 november 1987 till förhindrande av tortyr och omänsklig eller förnedrande behandling eller bestraffning (konventionen), och
+
+2. det fakultativa protokollet den 18 december 2002 till Förenta nationernas konvention mot tortyr och annan grym, omänsklig eller förnedrande behandling eller bestraffning (protokollet). *Lag (2005:511)*.
+
+## 2 §
+
+De kommittéer som har upprättats enligt konventionen respektive protokollet har rätt att besöka varje plats här i riket där en person som har berövats sin frihet genom en myndighets åtgärd är placerad, om
+
+1. besöket har till syfte att undersöka hur personen behandlas, och
+
+2. kommittén har underrättat regeringen om sin avsikt att göra besöket. *Lag (2005:511)*.
+
+## 3 §
+
+Den som ansvarar för en frihetsberövad ska lämna kommittéerna det biträde som de behöver för att kunna fullgöra sina uppgifter. Denne ska därvid ge kommittéerna
+
+1. tillträde till och möjlighet att fritt förflytta sig inom de platser där personer som berövats sin frihet är placerade,
+
+2. möjlighet till enskilda samtal med frihetsberövade personer och med andra som kan ge upplysningar om en sådan persons behandling, och
+
+3. information som behövs för att syftet med besöket ska kunna uppnås.
+
+Upplysningar och information som avses i första stycket får lämnas utan hinder av sekretess enligt offentlighets- och sekretesslagen (2009:400). *Lag (2009:438)*.
+
+## 4 §
+
+Om en myndighet som är berörd av ett avsett besök har invändningar mot kommitténs förslag i fråga om tid eller plats för besöket, skall myndigheten genast anmäla detta till regeringen. Regeringen avgör om en invändning skall framställas hos kommittén enligt artikel 9 i konventionen respektive artikel 14 punkt 2 i protokollet.
+
+Regeringen får besluta om förflyttning av personer som en kommitté avser att besöka för att göra det möjligt för kommittén att genomföra sin uppgift. *Lag (2005:511)*.
+
+## 5 §
+
+Bestämmelser om immunitet för ledamöter och experter i kommittéerna finns i lagen (1976:661) om immunitet och privilegier i vissa fall. *Lag (2005:511)*.

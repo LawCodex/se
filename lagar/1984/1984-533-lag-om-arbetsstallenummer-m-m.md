@@ -1,0 +1,77 @@
+---
+title: "Lag (1984:533) om arbetsställenummer m.m."
+identifier: "SFS 1984:533"
+type: act
+jurisdiction: se
+language: sv
+date: 1984-06-07
+amended_through: "SFS 2017:389"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1984-533.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1984:533"
+retrieved: 2026-10-11
+---
+# Lag (1984:533) om arbetsställenummer m.m.
+
+#### 1 §
+
+Har upphävts genom *lag (1995:609)*.
+
+#### 2 §
+
+Har upphävts genom *lag (1995:609)*.
+
+### Arbetsställenummer
+
+#### 3 §
+
+De arbetsgivare som stadigvarande bedriver sin verksamhet i flera lokaler (arbetsställen) skall av statistiska centralbyrån tilldelas ett arbetsställenummer för varje sådant arbetsställe.
+
+Det åligger centralbyrån att varje år före november månads utgång underrätta berörda arbetsgivare om deras arbetsställenummer.
+
+### Uppgiftsskyldighet
+
+#### 4 §
+
+I 15 kap. 9 § och 26 kap. 19 b § skatteförfarandelagen (2011:1244) finns bestämmelser om att uppgift om arbetsställenummer i vissa fall ska lämnas i en kontrolluppgift om intäkt i inkomstslaget tjänst eller per betalningsmottagare i en arbetsgivardeklaration.
+
+*Lag (2017:389)*.
+
+### Anmaningar
+
+#### 5 §
+
+Om uppgift om arbetsställenummer inte lämnas inom den tid som gäller för avlämnande av kontrolluppgiften, får statistiska centralbyrån anmana den uppgiftsskyldige att fullgöra sin skyldighet.
+
+Innan en anmaning utfärdas, bör den uppgiftsskyldige, om det kan ske utan någon olägenhet, på lämpligt sätt erinras om sin skyldighet att lämna uppgift om arbetsställenummer.
+
+Viten m. m.
+
+#### 6 §
+
+Om den uppgiftsskyldige inte följer en anmaning enligt 5 §, får Statistiska centralbyrån förelägga den uppgiftsskyldige att göra detta vid vite.
+
+Vitet bestäms till lägst 100 och högst 1 000 kronor.
+
+*Lag (2003:653)*.
+
+#### 7 §
+
+Beslut om vitesföreläggande får inte överklagas.
+
+#### 8 §
+
+Frågor om utdömande av förelagt vite skall på begäran av Statistiska centralbyrån prövas av den förvaltningsrätt inom vars domkrets uppgiftsskyldigheten skall fullgöras.
+
+*Lag (2009:797)*.
+
+#### 9 §
+
+Har upphävts genom *lag (1995:609)*.
+
+## Övergångsbestämmelser
+
+**1984:533**
+
+Denna lag träder i kraft den 1 juli 1984 och skall tillämpas första gången på de kontrolluppgifter som skall lämnas senast den 31 januari 1986.

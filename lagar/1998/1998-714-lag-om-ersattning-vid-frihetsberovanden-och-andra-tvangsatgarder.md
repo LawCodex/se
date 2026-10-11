@@ -1,0 +1,131 @@
+---
+title: "Lag (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder"
+identifier: "SFS 1998:714"
+type: act
+jurisdiction: se
+language: sv
+date: 1998-06-17
+amended_through: "SFS 2026:1671"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-714.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:714"
+retrieved: 2026-10-11
+---
+# Lag (1998:714) om ersättning vid frihetsberövanden och andra tvångsåtgärder
+
+### 1 §
+
+Denna lag gäller ersättning från staten för skador som orsakas av frihetsberövanden och andra tvångsåtgärder.
+
+### 2 §
+
+Den som har varit häktad på grund av misstanke om brott har rätt till ersättning,
+
+1. om det meddelas frikännande dom, åtalet avvisas eller avskrivs eller förundersökningen avslutas utan att åtal väcks,
+
+2. om det för en viss del av brottsligheten meddelas frikännande dom, åtalet avvisas eller avskrivs eller förundersökningen avslutas utan att åtal väcks, och det är uppenbart att frihetsinskränkningen inte skulle ha beslu-tats endast för den övriga brottsligheten,
+
+3. om något brott i domen hänförs till en mildare straffbestämmelse och det är uppenbart att frihetsinskränkningen vid en sådan bedömning inte skulle ha beslutats,
+
+4. om beslutet om frihetsinskränkning efter överklagande eller överprövning upphävs eller ersätts av ett beslut om en mindre ingripande åtgärd, eller
+
+5. om beslutet om frihetsinskränkning undanröjs utan att det beslutas om ny handläggning.
+
+Vad som sägs i första stycket gäller också den som på grund av misstanke om brott har varit anhållen under minst 24 timmar i sträck. Den som har utsatts för en sådan frihetsinskränkning har också rätt till ersättning, om beslutet om anhållande upphävs efter avslag på en häktningsframställning.
+
+Vad som sägs i första stycket 1, 2, 4 och 5 gäller också den som på grund av misstanke om brott under minst 24 timmar i sträck har varit underkastad reseförbud eller anmälnings- skyldighet, intagen för rättspsykiatrisk undersökning eller tagen i förvar av befälhavare på fartyg eller luftfartyg.
+
+### 3 §
+
+Bestämmelserna i 2 § tillämpas också då någon på grund av en svensk myndighets efterlysning för brott eller begäran om anhållande, överlämnande eller utlämning för brott har varit utsatt för ett motsvarande frihetsberövande utomlands.
+
+*Lag (2003:1168)*.
+
+### 4 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Den som har avtjänat fängelsestraff, säkerhetsförvaring eller förvandlingsstraff för böter har rätt till ersättning, om det efter överklagande eller anlitande av särskilt rättsmedel meddelas frikännande dom eller döms ut en mindre ingripande påföljd eller om den dom som har legat till grund för verkställigheten undanröjs utan beslut om ny handläggning. Detsamma gäller den som efter beslut av domstol enligt 31 kap. 3 § brottsbalken har varit intagen för rättspsykiatrisk vård.
+
+*Lag (2026:528)*.
+
+### 4 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Den som har avtjänat ett ovillkorligt fängelsestraff, säkerhetsförvaring eller förvandlingsstraff för böter har rätt till ersättning, om det efter överklagande eller anlitande av särskilt rättsmedel meddelas frikännande dom eller döms ut en mindre ingripande påföljd eller om den dom som har legat till grund för verkställigheten undanröjs utan beslut om ny handläggning. Detsamma gäller den som efter beslut av domstol enligt 31 kap. 3 § brottsbalken har varit intagen för rättspsykiatrisk vård. *Lag (2026:1671)*.
+
+### 5 §
+
+Den som har varit berövad friheten till följd av beslut vid myndighetsutövning utan att ha rätt till ersättning enligt 2-4 §§ har rätt till ersättning, om det står klart att beslutet vilade på felaktiga grunder och därför var oriktigt.
+
+### 6 §
+
+Den skadelidande har inte rätt till ersättning enligt 2-5 §§, om han eller hon själv uppsåtligen har föranlett beslutet om frihetsinskränkning.
+
+Ersättningen får vägras eller sättas ned, om det inte är skäligt att ersättning lämnas med hänsyn till
+
+1. att den skadelidande har försökt undanröja bevis eller på annat sätt försvåra sakens utredning, eller vid misstanke om brott har försökt undandra sig förundersökning eller lagföring,
+
+2. att den skadelidandes eget beteende har inverkat på beslutet om frihetsinskränkning, eller
+
+3. övriga omständigheter.
+
+Om tiden för frihetsinskränkning har avräknats eller annars beaktats vid fastställande eller verkställighet av brottspåföljd, kan ersättningen sättas ned efter vad som är skäligt. *Lag (2026:1209)*.
+
+### 7 §
+
+Ersättning enligt 2-5 §§ lämnas för utgifter, förlorad arbetsförtjänst, intrång i näringsverksamhet och lidande.
+
+Ersättning för lidande bestäms efter vad som är skäligt med hänsyn till frihetsinskränkningens art och varaktighet samt övriga omständigheter. *Lag (2026:1209)*.
+
+### 8 §
+
+Den som drabbas av en personskada eller en sakskada genom våld har rätt till ersättning, om den skadelidande inte har betett sig på ett sådant sätt att det varit påkallat att använda våld mot hans eller hennes person eller egendom, och våldet utövas med stöd av
+
+1. 10 §, 10 a § eller 29 § första stycket första meningen polislagen (1984:387),
+
+2. 3 och 4 §§ lagen (2025:1062) om polisens användning av skjutvapen,
+
+3. 2 kap. 17 § utsökningsbalken,
+
+4. 2 kap. 4 eller 6 § eller 6 kap. 2 § kustbevakningslagen (2019:32), eller
+
+5. 2 kap. 3 eller 7 § tullbefogenhetslagen (2024:710).
+
+*Lag (2025:1065)*.
+
+### 9 §
+
+Anspråk på ersättning enligt denna lag får inte överlåtas innan ersättningen blivit slutligt bestämd.
+
+### 10 §
+
+Om ersättning betalas enligt denna lag och den ersättningsberättigade har rätt till skadestånd av någon annan, inträder staten i motsvarande mån i den ersättningsberättigades rätt.
+
+### 11 §
+
+Den som har varit utsatt för en frihetsinskränkning på grund av misstanke om brott och fått ersättning enligt denna lag är skyldig att betala tillbaka det mottagna beloppet, om han eller hon senare döms för gärningen och till följd av domens innehåll inte skulle ha haft rätt till ersättning vid en prövning enligt 2 § 3. Återbetalningsskyldigheten får jämkas, om det finns särskilda skäl.
+
+## Övergångsbestämmelser
+
+**1998:714**
+
+1. Denna lag träder i kraft den 1 januari 1999, då lagen (1974:515) om ersättning vid frihetsinskränkning upphör att gälla.
+
+2. Den nya lagen tillämpas även i fråga om åtgärder som har vidtagits före ikraftträdandet men inte har upphört före denna tidpunkt.
+
+**2016:271**
+
+1. Denna lag träder i kraft den 1 maj 2016.
+
+2. Äldre bestämmelser gäller fortfarande för tullkontroller som inletts före ikraftträdandet.
+
+**2026:528**
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller för den som har avtjänat sluten ungdomsvård.
+
+**2026:1209**
+
+1. Denna lag träder i kraft den 1 september 2026.
+
+2. Lagen tillämpas även i fråga om åtgärder som har vidtagits före ikraftträdandet men inte har upphört före denna tidpunkt.

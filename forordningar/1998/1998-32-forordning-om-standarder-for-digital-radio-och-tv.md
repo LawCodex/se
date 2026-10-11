@@ -1,0 +1,39 @@
+---
+title: "Förordning (1998:32) om standarder för digital radio och tv"
+identifier: "SFS 1998:32"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-01-29
+amended_through: "SFS 2023:847"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-32.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:32"
+retrieved: 2026-10-11
+---
+# Förordning (1998:32) om standarder för digital radio och tv
+
+## 1 §
+
+Denna förordning innehåller kompletterande bestämmelser till lagen (1998:31) om standarder för digital radio och tv.
+
+*Förordning (2022:514)*.
+
+## 2 §
+
+Mediemyndigheten får meddela föreskrifter om följande i lagen (1998:31) om standarder för digital radio och tv:
+
+1. viss utrustning för tv-mottagare med stöd av 3 §,
+
+2. verkställigheten av 4 §,
+
+3. utrustning för villkorad tillgång till digitala tv-tjänster med stöd av 5 § andra stycket, och
+
+4. kostnader för provtagning och undersökning av prover med stöd av 14 §. *Förordning (2023:847)*.
+
+## 3 §
+
+Mediemyndigheten ska utöva tillsyn över att lagen (1998:31) om standarder för digital radio och tv och de föreskrifter som har meddelats i anslutning till lagen följs.
+
+*Förordning (2023:847)*.

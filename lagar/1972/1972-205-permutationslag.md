@@ -1,0 +1,55 @@
+---
+title: "Permutationslag (1972:205)"
+identifier: "SFS 1972:205"
+type: act
+jurisdiction: se
+language: sv
+date: 1972-05-19
+amended_through: "SFS 2009:247"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1972-205.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1972:205"
+retrieved: 2026-10-11
+---
+# Permutationslag (1972:205)
+
+### 1 §
+
+Kan bestämmelse, som enskild meddelat i gåvobrev, testamente, stiftelseförordnande eller liknande handling, på grund av ändrade förhållanden ej längre iakttagas eller har bestämmelsen blivit uppenbart onyttig eller uppenbart stridande mot utfärdarens avsikter eller föreligger annat särskilt skäl, kan på ansökan bestämmelsen ändras eller upphävas eller undantag medges för särskilt fall (permutation).
+
+Avser permutation ändring av det ändamål som skall tillgodoses, skall det nya ändamålet så nära som möjligt motsvara det ursprungliga.
+
+### 2 §
+
+Fråga om permutation prövas, såvitt rör fideikommiss som avses i 1 § lagen (1963:583) om avveckling av fideikommiss, av fideikommissnämnden och i annat fall av kammarkollegiet.
+
+### 3 §
+
+Avser ärende om permutation ändrad ändamålsbestämning för egendom av mera betydande värde eller uppkommer i ärendet fråga av särskild vikt från allmän synpunkt, ska Fideikommissnämnden med eget yttrande överlämna ärendet till regeringen för avgörande. *Lag (2009:247)*.
+
+### 4 §
+
+Fideikommissnämndens beslut enligt denna lag får överklagas hos regeringen.
+
+Kammarkollegiets beslut enligt denna lag får överklagas hos allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätten. *Lag (2009:247)*.
+
+### 5 §
+
+Denna lag gäller ej stiftelser på vilka 6 kap. stiftelselagen (1994:1220) är tillämpligt och ej heller sådana pensions- eller personalstiftelser som avses i lagen (1967:531) om tryggande av pensionsutfästelse m. m. *Lag (1994:1224)*.
+
+## Övergångsbestämmelser
+
+**1994:1224**
+
+1. Denna lag träder i kraft den 1 januari 1996.
+
+2. En ansökan om permutation som har gjorts före lagens ikraftträdande prövas enligt äldre bestämmelser.
+
+**2009:247**
+
+1. Denna lag träder i kraft den 1 januari 2010.
+
+2. Ett ärende som Kammarkollegiet med stöd av 3 § har överlämnat till regeringen före ikraftträdandet och som vid ikraftträdandet ännu inte har avgjorts handläggs enligt äldre bestämmelser.
+
+3. Äldre bestämmelser gäller i fråga om överklagande av Kammarkollegiets beslut, om beslutet har meddelats före ikraftträdandet.

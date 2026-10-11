@@ -1,0 +1,37 @@
+---
+title: "Lag (1982:316) om förbud mot könsstympning av kvinnor och oskuldsingrepp på kvinnor"
+identifier: "SFS 1982:316"
+type: act
+jurisdiction: se
+language: sv
+date: 1982-05-27
+amended_through: "SFS 2025:1010"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1982-316.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1982:316"
+retrieved: 2026-10-11
+---
+# Lag (1982:316) om förbud mot könsstympning av kvinnor och oskuldsingrepp på kvinnor
+
+## 1 §
+
+Ingrepp i de kvinnliga yttre könsorganen i syfte att stympa dem eller åstadkomma andra bestående förändringar av dem (könsstympning) får inte utföras, oavsett om samtycke till ingreppet har lämnats eller inte. *Lag (2025:1010)*.
+
+## 1 a §
+
+Ingrepp i någon annans kvinnliga könsorgan i syfte att det ska framstå som att personen inte har haft vaginalt samlag eller deltagit i jämförbara penetrerande sexuella handlingar (oskuldsingrepp) får inte utföras, oavsett om samtycke till ingreppet har lämnats eller inte. *Lag (2025:1010)*.
+
+## 2 §
+
+Den som bryter mot 1 § döms till fängelse i lägst två och högst sex år.
+
+Är brottet med hänsyn till omständigheterna mindre grovt, döms till fängelse i högst fyra år.
+
+Är brottet grovt, döms till fängelse i lägst fem och högst tio år. Vid bedömningen av om brottet är grovt ska det särskilt beaktas om könsstympningen är särskilt omfattande eller om gärningen har orsakat livsfara eller allvarlig sjukdom eller om gärningsmannen i annat fall har visat synnerlig hänsynslöshet.
+
+För försök, förberedelse och stämpling samt för underlåtenhet att avslöja eller förhindra brott döms det till ansvar enligt 23 kap. brottsbalken. *Lag (2017:333)*.
+
+## 3 §
+
+Den som bryter mot 1 a § döms till fängelse i högst ett år. *Lag (2025:1010)*.

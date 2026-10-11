@@ -1,0 +1,281 @@
+---
+title: "Skattebrottslag (1971:69)"
+identifier: "SFS 1971:69"
+type: act
+jurisdiction: se
+language: sv
+date: 1971-04-02
+amended_through: "SFS 2026:1531"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1971-69.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1971:69"
+retrieved: 2026-10-11
+---
+# Skattebrottslag (1971:69)
+
+### 1 §
+
+Denna lag gäller i fråga om skatt och, om så särskilt föreskrivs, annan avgift till det allmänna som inte betecknas som skatt.
+
+Lagen tillämpas inte i fråga om
+
+1. gärningar som är belagda med straff i lagen (2000:1225) om straff för smuggling,
+
+2. skatt enligt lagen (2014:1470) om beskattning av viss privatinförsel av cigaretter, och
+
+3. skattetillägg, ränta, dröjsmålsavgift, förseningsavgift eller liknande avgift.
+
+I tullbefogenhetslagen (2024:710) finns bestämmelser om utredning och lagföring av brott som avses i 2-4 §§, om brottet rör skatt enligt lagen (1994:1776) om skatt på energi, lagen (2022:155) om tobaksskatt eller lagen (2022:156) om alkoholskatt. *Lag (2024:718)*.
+
+### 2 §
+
+Den som uppsåtligen lämnar oriktig uppgift till en myndighet eller låter bli att till en myndighet lämna deklaration, kontrolluppgift eller annan föreskriven uppgift och därigenom ger upphov till fara för att skatt undandras det allmänna eller felaktigt tillgodoräknas eller återbetalas till personen själv eller annan, döms för skattebrott till fängelse i högst två år. *Lag (2026:109)*.
+
+### 3 §
+
+Om brott som avses i 2 § är att anse som ringa, döms för skatteförseelse till böter. *Lag (1996:658)*.
+
+### 4 §
+
+Om brott som avses i 2 § är att anse som grovt, döms för grovt skattebrott till fängelse i lägst ett och högst sex år.
+
+Vid bedömningen av om brottet är grovt ska det särskilt beaktas om det rört mycket betydande belopp, om gärningsmannen använt falska handlingar eller vilseledande bokföring eller om förfarandet ingått som ett led i en brottslighet som utövats systematiskt eller i större omfattning eller i annat fall varit av synnerligen farlig art. *Lag (2026:1320)*.
+
+### 5 §
+
+Den som av grov oaktsamhet lämnar oriktig uppgift till en myndighet och därigenom ger upphov till fara för att skatt undandras det allmänna eller felaktigt tillgodoräknas eller återbetalas till uppgiftslämnaren eller annan döms för vårdslös skatteuppgift till böter eller fängelse i högst ett år.
+
+Om gärningen med hänsyn till skattebeloppet och övriga omständigheter är av mindre allvarlig art, ska det inte dömas till ansvar enligt första stycket. *Lag (2026:109)*.
+
+### 6 §
+
+Den som uppsåtligen eller av grov oaktsamhet underlåter att fullgöra skyldighet att göra skatteavdrag på sätt som föreskrivs i skatteförfarandelagen (2011:1244) döms för skatteavdragsbrott till böter eller fängelse i högst ett år.
+
+I ringa fall ska inte dömas till ansvar enligt första stycket.
+
+*Lag (2011:1247)*.
+
+### 7 §
+
+Den som, i annat fall än som avses i 2 §, uppsåtligen lämnar oriktig uppgift till
+
+1. en myndighet, om uppgiften rör förhållande som har betydelse för skyldigheten för uppgiftslämnaren eller annan att betala skatt,
+
+2. någon som är skyldig att för henne eller honom innehålla skatt eller lämna kontrolluppgift eller motsvarande underrättelse, om uppgiften rör förhållande som har betydelse för skyldighetens fullgörande eller för skyldigheten för uppgiftslämnaren eller annan att betala skatt,
+
+döms för skatteredovisningsbrott till böter eller fängelse i högst sex månader.
+
+Detsamma gäller den som, i annat fall än som avses i 2 §, uppsåtligen låter bli att lämna en föreskriven uppgift angående sådant förhållande som anges i första stycket 1 eller 2 till någon som avses där. Detta gäller dock endast under förutsättning att uppgiften ska lämnas utan föreläggande eller uppmaning och inte avser egen inkomstdeklaration.
+
+I ringa fall ska det inte dömas till ansvar enligt första eller andra stycket. *Lag (2026:109)*.
+
+### 8 §
+
+Den som av grov oaktsamhet begår en gärning som avses i 7 § första stycket 2 eller andra stycket döms för vårdslös skatteredovisning till böter eller fängelse i högst sex månader.
+
+I ringa fall ska det inte dömas till ansvar enligt första stycket. *Lag (2026:109)*.
+
+### 9 §
+
+Har upphävts genom *lag (1996:658)*.
+
+### 10 §
+
+Den som uppsåtligen eller av grov oaktsamhet åsidosätter bokföringsskyldighet eller sådan skyldighet att föra och bevara räkenskaper, som föreskrivs för vissa uppgiftsskyldiga och därigenom ger upphov till fara för att myndighets kontrollverksamhet vid beräkning eller uppbörd av skatt eller avgift allvarligt försvåras, döms för försvårande av skattekontroll till böter eller fängelse i högst två år eller, om brottet är grovt, till fängelse i lägst sex månader och högst fyra år.
+
+I ringa fall ska det inte dömas till ansvar enligt första stycket. *Lag (2026:109)*.
+
+### 11 §
+
+För förberedelse eller stämpling till grovt skattebrott döms det till ansvar enligt 23 kap. brottsbalken.
+
+*Lag (2016:511)*.
+
+### 12 §
+
+Den som på eget initiativ vidtar åtgärd som leder till att skatten kan påföras, tillgodoräknas eller återbetalas med rätt belopp, döms inte till ansvar enligt 2-8 §§.
+
+Ansvar enligt 10 § inträder inte för den som på eget initiativ uppfyller skyldighet som där avses.
+
+En vidtagen åtgärd enligt första stycket anses inte vara på eget initiativ om
+
+1. Skatteverket har informerat om att myndigheten ska genomföra en generell kontroll,
+
+2. åtgärden har en koppling till den generella kontrollen, och
+
+3. åtgärden vidtas först två månader efter utgången av den månad då Skatteverket informerade om den generella kontrollen.
+
+*Lag (2026:109)*.
+
+### 13 §
+
+Åtal för brott enligt 3 § får väckas endast om det är påkallat av särskilda skäl. Detsamma gäller åtal för brott enligt 2, 5 och 6 §§, om
+
+1. det undandragna skattebeloppet understiger två prisbasbelopp, och
+
+2. en felaktighet eller passivitet som skulle omfattas av åtalet även kan läggas till grund för beslut om skattetillägg för samma person.
+
+Med prisbasbelopp avses det prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken som gällde det år då brottet begicks. *Lag (2015:634)*.
+
+### 13 a §
+
+Bestämmelserna om brottsvinstförverkande i 36 kap. brottsbalken ska inte tillämpas i fråga om brott enligt denna lag.
+
+Första stycket gäller inte brottsvinst från förberedelse till grovt skattebrott eller vad någon har tagit emot som ersättning för kostnader i samband med ett sådant brott.
+
+*Lag (2024:799)*.
+
+### 13 b §
+
+Om Skatteverket har beslutat att ta ut skattetillägg av en fysisk person, får åklagaren inte väcka åtal, utfärda strafföreläggande eller besluta om åtalsunderlåtelse för samma person i fråga om den felaktighet eller passivitet som ligger till grund för beslutet om skattetillägg.
+
+Om Skatteverket har krävt en fysisk person på betalning av ett skattetillägg eller en rapportavgift som avser en juridisk person eller om en överenskommelse om betalningsskyldighet enligt 59 kap. 19 § skatteförfarandelagen (2011:1244) har träffats och fullföljts inom rätt tid, får åklagaren inte väcka åtal, utfärda strafföreläggande eller besluta om åtalsunderlåtelse för samma fysiska person i fråga om den felaktighet eller passivitet som ligger till grund för beslutet om skattetillägg eller rapportavgift. *Lag (2023:876)*.
+
+### 14 §
+
+Trots 35 kap. 2 § brottsbalken får påföljd för brott enligt 3 och 5-8 §§ dömas ut, om den misstänkte häktats, fått del av åtal eller godkänt ett strafföreläggande för brottet inom fem år från brottet. Om den bokföringsskyldige eller den uppgiftsskyldige vid brott som avses i 10 § har blivit föremål för revision av Skatteverket inom fem år från brottet, ska de i 35 kap. 2 § brottsbalken angivna tiderna räknas från den dag då revisionen beslutades.
+
+Påföljd får dömas ut för brott enligt denna lag även om den misstänkte inte fått del av åtal för brottet inom den tid som anges i 35 kap. 2 § brottsbalken eller första stycket denna paragraf, om den misstänkte inom samma tid har delgetts underrättelse om att han eller hon är skäligen misstänkt för brottet. Underrättelsen ska ha skett under en förundersökning som senare lett till allmänt åtal mot den misstänkte för brottet. Den ska ha utfärdats av åklagaren och ange de omständigheter som utgör grund för misstanken. Delgivningen ska ha skett på det sätt som gäller för delgivning av stämning i brottmål. Om ett mål avvisas eller avskrivs mot någon sedan han eller hon delgetts misstanke om brott enligt detta stycke, ska delgivning av underrättelsen inte anses ha skett när frågan om preskription avgörs. *Lag (2025:153)*.
+
+### 14 a §
+
+För brott enligt 2 eller 4 § får rätten på ansökan av åklagaren besluta om förlängning av den tid som anges i 35 kap. 2 § brottsbalken. Beslut om förlängning får meddelas, om stämning eller underrättelse enligt 14 § andra stycket avseende sådant brott inte har kunnat delges den misstänkte på grund av att han eller hon
+
+1. har saknat känd hemvist och det inte har kunnat klarläggas var han eller hon uppehållit sig,
+
+2. inte har kunnat anträffas på känd hemvist i Sverige och det inte har kunnat klarläggas var han eller hon uppehållit sig och det kan antas att han eller hon hållit sig undan, eller
+
+3. har stadigvarande vistats utomlands.
+
+Förlängningstiden ska bestämmas med hänsyn till vad som kan antas behövas för att delgivning ska ske med den misstänkte, dock till minst sex månader. Om det visar sig att den bestämda tiden är otillräcklig, får rätten på ansökan av åklagaren medge ytterligare förlängning.
+
+Förlängning enligt denna paragraf får inte omfatta längre tid än sammanlagt fem år. *Lag (2025:153)*.
+
+### 14 b §
+
+En ansökan enligt 14 a § ska ha kommit in till tingsrätten före utgången av den tid som begärs förlängd.
+
+Har ansökningen getts in i rätt tid, bortfaller möjligheten att döma ut påföljd för brottet tidigast när beslut på grund av ansökningen har fattats. Om ansökningen inte bifalls, ska det i fråga om möjligheten att döma ut påföljd anses som om någon ansökan inte har gjorts. *Lag (2026:109)*.
+
+### 14 c §
+
+Tingsrättens handläggning av mål enligt 14 a § är skriftlig. I handläggningen får muntlig förhandling ingå när det kan antas vara till fördel för utredningen. Den misstänkte och dennes försvarare ska beredas tillfälle att yttra sig över åklagarens ansökan om så kan ske.
+
+Beslut varigenom en domstol lämnat en ansökan enligt 14 a § utan bifall får inte överklagas. Beslut av tingsrätt att medge förlängning enligt 14 a § får överklagas. Överklagandet ska ha kommit in inom två veckor från den dag då den misstänkte, på sätt som gäller för delgivning av stämning i brottmål, delgavs beslutet.
+
+I övrigt ska vad som är föreskrivet i rättegångsbalken om brottmål gälla i tillämpliga delar. *Lag (2026:109)*.
+
+### 15 §
+
+Har ett mål om brott enligt denna lag samband med en fråga om skatt eller avgift som handläggs vid en förvaltningsdomstol eller en förvaltningsmyndighet, får handläggningen av brottmålet vila i avvaktan på utgången i skatte- eller avgiftsfrågan endast om det är av avgörande betydelse för prövningen av målet att den frågan avgörs först.
+
+I mål som avses i första stycket ska rätten samråda med förvaltningsdomstolen eller förvaltningsmyndigheten om målets handläggning, om det inte är obehövligt. *Lag (2026:109)*.
+
+### 16 §
+
+En fråga om skatt eller avgift som handläggs vid en förvaltningsdomstol eller en förvaltningsmyndighet ska handläggas med förtur, om handläggningens resultat är av väsentlig betydelse för en förundersökning om brott enligt denna lag eller ett åtal för sådant brott.
+
+Åklagaren ska se till att den domstol eller myndighet som avses i första stycket underrättas om sådana omständigheter som kan vara av betydelse för frågan om förtursbehandling.
+
+*Lag (2026:109)*.
+
+### 17 §
+
+Förvaltningsmyndigheter som handlägger frågor om skatter eller avgifter ska göra anmälan till åklagaren så snart det finns anledning att anta att brott enligt denna lag har begåtts. Detta gäller dock inte om det kan antas att brottet inte kommer att medföra påföljd enligt denna lag eller om anmälan av annat skäl inte behövs. Skatteverket får fullgöra anmälningsskyldigheten till enhet inom myndigheten som ska medverka vid brottsutredning, om det inte finns skäl att anta att brottet föranleder annan påföljd än böter och den misstänkte kan antas erkänna gärningen. Detta gäller dock endast om den misstänkte fyllt arton år.
+
+Har i lag eller förordning meddelats bestämmelse som avviker från föreskrifterna i första stycket gäller den bestämmelsen.
+
+*Lag (2026:1531)*.
+
+## Övergångsbestämmelser
+
+**1971:69**
+
+Denna lag träder i kraft den 1 januari 1972, då skattestrafflagen (1943:313) skall upphöra att gälla. Den upphävda lagen gäller dock fortfarande i fråga om gärning som begåtts före ikraftträdandet.
+
+**1975:1180**
+
+Denna lag träder i kraft den 1 januari 1976. Äldre lydelse av 1 § gäller dock fortfarande i fråga om gärning som begåtts före ikraftträdandet.
+
+**1981:1157**
+
+Denna lag träder i kraft den 1 januari 1982. Den äldre lydelsen av 1 § gäller fortfarande i fråga om skatter och avgifter som belöper på tid före ikraftträdandet.
+
+**1983:220**
+
+Denna lag träder i kraft en vecka efter den dag då lagen enligt uppgift på den kommit ut från trycket i Svensk författningssamling. Den äldre lydelsen av 1 § gäller fortfarande i fråga om skatter och avgifter som belöper på tid före ikraftträdandet.
+
+**1984:169**
+
+Denna lag träder i kraft den 1 juli 1984. Den äldre lydelsen av 1 § gäller fortfarande i fråga om skatt som belöper på tid före ikraftträdandet.
+
+**1984:1059**
+
+Denna lag träder i kraft den 1 januari 1985. Äldre bestämmelser gäller dock fortfarande i fråga om avgift enligt lagen (1982:1194) om hyreshusavgift.
+
+**1985:105**
+
+Denna lag träder i kraft den 1 juli 1985.
+
+De nya bestämmelserna i 14 § andra stycket och 14 a § tillämpas även på brott som har begåtts före ikraftträdandet, om inte möjligheten att ådöma påföljd har bortfallit dessförinnan enligt äldre bestämmelser.
+
+Såvitt gäller underrättelse om brottsmisstanke tillämpas de nya bestämmelserna endast på underrättelser som delges efter ikraftträdandet.
+
+**1991:700**
+
+Denna lag träder i kraft, i fråga om 1 § första stycket 1 avseende lagen (1991:687) om särskild löneskatt på pensionskostnader den 1 juli 1991, och i övrigt den 1 januari 1992.
+
+**1992:629**
+
+Denna lag träder i kraft den 1 januari 1993. Äldre föreskrifter gäller dock fortfarande i fråga om restavgift.
+
+**1994:207**
+
+Denna lag träder i kraft den 1 juli 1994. Den äldre lydelsen av 1 § gäller dock fortfarande i fråga om mervärdesskatt som belöper på tid före ikraftträdandet.
+
+**1994:1787**
+
+Denna lag träder i kraft den 1 januari 1995 såvitt avser 1 § första stycket 3 och i övrigt samtidigt med lagen (1994:1500) med anledning av Sveriges anslutning till Europeiska unionen. Den äldre lydelsen av 1 § första stycket 3 gäller dock fortfarande i fråga om avgift enligt lagen (1992:1745) om allmän sjukförsäkringsavgift och lagen (1993:1441) om allmän avgift för finansiering av kontantförmåner vid arbetslöshet.
+
+**1995:1669**
+
+Denna lag träder i kraft den 1 juli 1996. Den äldre lydelsen av 1 § gäller dock fortfarande i fråga om gärningar som begåtts före ikraftträdandet.
+
+**1996:658**
+
+Denna lag träder i kraft den 1 juli 1996. Äldre bestämmelser tillämpas dock fortfarande i fråga om gärningar som begåtts före ikraftträdandet.
+
+**1997:486**
+
+Denna lag träder i kraft den 1 november 1997. Äldre föreskrifter gäller fortfarande i fråga om avgiftstillägg för utgiftsåret 1997 och tidigare år.
+
+**2003:805**
+
+Denna lag träder i kraft den 1 januari 2004. Äldre föreskrifter gäller fortfarande för förhållanden som hänför sig till tiden före ikraftträdandet.
+
+**2011:1247**
+
+1. Denna lag träder i kraft den 1 januari 2012.
+
+2. Äldre bestämmelser gäller fortfarande i fråga om gärningar som har begåtts före ikraftträdandet.
+
+3. Den nya bestämmelsen i 7 § andra stycket tillämpas på beskattningsår som börjar efter den 31 januari 2012.
+
+Bestämmelsen tillämpas även på förlängda räkenskapsår som avslutas efter utgången av 2012 och på förkortade räkenskapsår som både påbörjas och avslutas under 2012.
+
+4. Bestämmelserna i 12 § i dess nya lydelse tillämpas på åtgärder som vidtas efter ikraftträdandet, oavsett när gärningen har begåtts.
+
+**2018:564**
+
+1. Denna lag träder i kraft den 1 augusti 2018.
+
+2. Bestämmelserna i 12 § i den nya lydelsen tillämpas första gången på åtgärder som vidtas efter ikraftträdandet och som har en koppling till sådan information om generell kontroll som Skatteverket har lämnat efter ikraftträdandet.
+
+**2025:153**
+
+1. Denna lag träder i kraft den 1 april 2025.
+
+2. Bestämmelserna i 14 § första stycket i den nya lydelsen tillämpas även på brott som har begåtts före ikraftträdandet, om inte möjligheten att döma till påföljd har bortfallit dessförinnan enligt äldre bestämmelser.
+
+3. Punkt 2 gäller inte bestämmelsen om att godkännandet av ett strafföreläggande utgör en preskriptionshindrande åtgärd.

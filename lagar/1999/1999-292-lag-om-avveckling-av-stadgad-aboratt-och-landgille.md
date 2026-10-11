@@ -1,0 +1,73 @@
+---
+title: "Lag (1999:292) om avveckling av stadgad åborätt och landgille"
+identifier: "SFS 1999:292"
+type: act
+jurisdiction: se
+language: sv
+date: 1999-05-04
+amended_through: "SFS 2026:1499"
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-292.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:292"
+retrieved: 2026-10-11
+---
+# Lag (1999:292) om avveckling av stadgad åborätt och landgille
+
+## Stadgad åborätt
+
+### 1 §
+
+Den som är rätt innehavare av besittningsrätten till fastighet under stadgad åborätt skall inneha fastigheten med full äganderätt.
+
+### 2 §
+
+Rätt innehavare enligt 1 § är den som
+
+1. enligt grunderna för tidigare gällande bestämmelser skulle ha kunnat skatteköpa fastigheten,
+
+2. enligt grunderna för tidigare gällande bestämmelser skulle ha kunnat villkorligt inrymmas eller antas som åbo,
+
+3. sedan minst tio år innehar fastigheten på ett sådant sätt att han eller hon enligt 1 kap. 5 § fastighetstaxeringslagen (1979:1152) är att anse som ägare av fastigheten, eller
+
+4. i annat fall efter kungörelse har gjort sannolikt att han eller hon är rätt innehavare.
+
+### 3 §
+
+Länsstyrelsen prövar vem som är rätt innehavare enligt 1 §.
+
+Länsstyrelsens beslut får överklagas hos Kammarkollegiet.
+
+Kammarkollegiets beslut får överklagas hos allmän förvaltningsdomstol. Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+### 4 §
+
+Ett beslut om att någon är rätt innehavare av åborätt är att anse som en fångeshandling. När beslutet har vunnit laga kraft, skall länsstyrelsen genast för förvärvarens räkning ansöka om lagfart.
+
+### 4 a §
+
+*/Träder i kraft I:2027-01-01/* Den eller de länsstyrelser som regeringen bestämmer ansvarar för uppgifter enligt 3 och 4 §§. *Lag (2026:1499)*.
+
+## Landgille
+
+### 5 §
+
+Skyldighet att betala landgille upphör i och med att denna lag träder i kraft.
+
+### 6 §
+
+Om en brukare inte äger den mark som han eller hon är skyldig att betala landgille för, skall äganderätten överföras till brukaren.
+
+### 7 §
+
+Den statliga lantmäterimyndigheten ska vid behov utreda vilken jord som är föremål för landgille och vem som är att anse som brukare av jorden. Vid utredning och redovisning ska i tillämpliga delar gälla det som sägs om äganderättsutredningen i lagen (1971:1037) om äganderättsutredning och legalisering.
+
+Staten ska dock betala förrättningskostnader som avses i 2 kap. 6 § fjärde stycket fastighetsbildningslagen (1970:988).
+
+Brukaren ska anses ha framställt anspråk på äganderätt till den brukade egendomen. Om landgillejord inte motsvarar en hel registerfastighet, ska fastigheten anses delad genom sämjedelning som är giltig.
+
+Vid överklagande ska 27 § lagen om äganderättsutredning och legalisering tillämpas. *Lag (2008:547)*.
+
+### 8 §
+
+Den som innan denna lag trädde i kraft hade rätt till landgille och som lider förlust genom att landgille upphör har rätt till ersättning för förlusten av staten.

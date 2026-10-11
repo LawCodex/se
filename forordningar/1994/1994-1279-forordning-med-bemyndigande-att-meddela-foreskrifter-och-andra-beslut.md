@@ -1,0 +1,91 @@
+---
+title: "Förordning (1994:1279) med bemyndigande att meddela föreskrifter och andra beslut enligt sjölagen (1994:1009)"
+identifier: "SFS 1994:1279"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-09-08
+amended_through: "SFS 2025:1533"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-1279.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:1279"
+retrieved: 2026-10-11
+---
+# Förordning (1994:1279) med bemyndigande att meddela föreskrifter och andra beslut enligt sjölagen (1994:1009)
+
+#### 1 §
+
+Denna förordning är meddelad med stöd av
+
+- 1 kap. 1 b, 1 c och 1 f §§ sjölagen (1994:1009) i fråga om 2 §,
+
+- 1 kap. 1 h § sjölagen i fråga om 3 §,
+
+- 6 kap. 4 § andra stycket sjölagen i fråga om 5 §,
+
+- 18 kap. 1 § andra stycket sjölagen i fråga om 6 § och 7 § 2,
+
+- 18 kap. 4 § sjölagen i fråga om 7 § 3,
+
+- 8 kap. 11 § regeringsformen i fråga om 4 § och 7 § 1, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2025:1533)*.
+
+### Beslut om att ett fartyg ska anses vara svenskt eller utländskt
+
+#### 2 §
+
+Transportstyrelsen prövar och beslutar i ärenden om att
+
+1. ett utländskt skepp vid skeppslega ska anses vara svenskt med rätt att föra svensk flagg enligt 1 kap. 1 b § sjölagen (1994:1009),
+
+2. ett svenskt skepp vid skeppslega ska anses ha annan nationalitet enligt 1 kap. 1 c § sjölagen, och
+
+3. ett utländskt fartyg ska anses vara svenskt med rätt att föra svensk flagg enligt 1 kap. 1 f § sjölagen.
+
+*Förordning (2025:1533)*.
+
+#### 3 §
+
+Transportstyrelsen får meddela föreskrifter om avgifter för prövning av ansökningar enligt 2 §. *Förordning (2025:1533)*.
+
+### Prejning och visitering
+
+#### 4 §
+
+Transportstyrelsen får, efter att ha gett Polismyndigheten, Försvars-makten, Kustbevakningen och Tullverket tillfälle att yttra sig, meddela föreskrifter om verkställigheten av 6 kap. 3 § sjölagen (1994:1009).
+
+*Förordning (2025:1533)*.
+
+### Skeppshandlingar
+
+#### 5 §
+
+Transportstyrelsen får meddela föreskrifter om befälhavarens skyldighet att medföra handlingar enligt 6 kap. 4 § andra stycket sjölagen (1994:1009). *Förordning (2025:1533)*.
+
+### Dagbok
+
+#### 6 §
+
+Transportstyrelsen får i enskilda fall besluta om undantag från skyldigheten att föra dagbok enligt 18 kap. 1 § sjölagen (1994:1009). *Förordning (2025:1533)*.
+
+#### 7 §
+
+Transportstyrelsen får meddela
+
+1. föreskrifter om verkställigheten av 6 §,
+
+2. föreskrifter om avgifter för prövning av ansökningar om undantag enligt 6 §, och
+
+3. ytterligare föreskrifter om dagböcker.
+
+*Förordning (2025:1533)*.
+
+## Övergångsbestämmelser
+
+**1994:1279**
+
+Denna förordning träder i kraft den 1 oktober 1994, då förordningen (1986:302) med bemyndigande att meddela föreskrifter enligt sjölagen (1891:35 s. 1) skall upphöra att gälla.

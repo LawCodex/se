@@ -1,0 +1,86 @@
+---
+title: "Förordning (1997:294) om elberedskap"
+identifier: "SFS 1997:294"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1997-05-29
+amended_through: "SFS 2012:446"
+reprinted: "SFS 2012:446"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1997-294.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1997:294"
+retrieved: 2026-10-11
+---
+# Förordning (1997:294) om elberedskap
+
+## Inledande bestämmelse
+
+### 1 §
+
+Affärsverket svenska kraftnät ska vara elberedskapsmyndighet enligt elberedskapslagen (1997:288).
+
+*Förordning (2012:446)*.
+
+## Beredskapsåtgärder
+
+### 2 §
+
+Elberedskapsmyndigheten får meddela föreskrifter om beredskapsåtgärder enligt 3 § elberedskapslagen (1997:288).
+
+*Förordning (2012:446)*.
+
+## Risk- och sårbarhetsanalyser
+
+### 3 §
+
+Elberedskapsmyndigheten får meddela föreskrifter om risk- och sårbarhetsanalyser enligt 4 § första stycket 2 elberedskapslagen (1997:288).
+
+Elberedskapsmyndigheten får även meddela föreskrifter om eller besluta om undantag från föreskrifterna i 4 § första stycket 2 elberedskapslagen. *Förordning (2012:446)*.
+
+### 4 §
+
+Elberedskapsmyndigheten får meddela föreskrifter om skyldigheten att lämna uppgifter till elberedskapsmyndigheten enligt 4 § första stycket 3 elberedskapslagen (1997:288).
+
+Elberedskapsmyndigheten får även meddela föreskrifter om eller besluta om undantag från föreskrifterna i 4 § första stycket 3 elberedskapslagen. *Förordning (2012:446)*.
+
+## Beslut om fysiska åtgärder
+
+### 5 §
+
+Innan elberedskapsmyndigheten beslutar om fysiska skyddsåtgärder enligt 5 § elberedskapslagen (1997:288) i verksamhet som omfattas av lagen (1984:3) om kärnteknisk verksamhet ska myndigheten höra Strålsäkerhetsmyndigheten.
+
+*Förordning (2012:446)*.
+
+## Anmälningsskyldighet
+
+### 6 §
+
+Elberedskapsmyndigheten får meddela föreskrifter om
+
+1. vilken typ av anläggningar och verksamheter som enligt 6 och 7 §§ elberedskapslagen (1997:288) ska anses vara av väsentlig betydelse för elförsörjningen, och
+
+2. vilka slag av verksamhetsförändringar som enligt 7 § elberedskapslagen ska anses vara av väsentlig betydelse.
+
+*Förordning (2012:446)*.
+
+### 7 §
+
+En anmälan enligt 6 eller 7 § elberedskapslagen (1997:288) ska vara skriftlig, om inte elberedskapsmyndigheten beslutar annat.
+
+Elberedskapsmyndigheten får meddela föreskrifter om vilka uppgifter en sådan anmälan ska innehålla.
+
+*Förordning (2012:446)*.
+
+## Informationsskyldighet
+
+### 8 §
+
+Elberedskapsmyndigheten får meddela föreskrifter om skyldighet för den som avses i 1 § andra stycket elberedskapslagen (1997:288) att lämna information till elberedskapsmyndigheten när det har uppstått en sådan störning i elförsörjningen som kan medföra svåra påfrestningar på samhället. *Förordning (2012:446)*.
+
+## Ytterligare föreskrifter
+
+### 9 §
+
+Elberedskapsmyndigheten får meddela ytterligare föreskrifter om verkställighet av elberedskapslagen (1997:288) samt föreskrifter om verkställighet av denna förordning. *Förordning (2012:446)*.

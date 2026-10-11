@@ -1,0 +1,95 @@
+---
+title: "Förordning (1987:1022) om äktenskapsregistret"
+identifier: "SFS 1987:1022"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1987-10-29
+amended_through: "SFS 2022:961"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-1022.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:1022"
+retrieved: 2026-10-11
+---
+# Förordning (1987:1022) om äktenskapsregistret
+
+### 1 §
+
+Har upphävts genom *förordning (2015:906)*.
+
+### 2 §
+
+Tingsrätterna ska till äktenskapsregistret sända in uppgifter om
+
+1. domar varigenom en vigsel har förklarats ogiltig eller domstolen har dömt till äktenskapsskillnad,
+
+2. domar eller beslut varigenom domstolen har avgjort ett mål om äktenskapsskillnad utan att ha dömt till äktenskapsskillnad, och
+
+3. beslut som avser ett utländskt avgörande om upplösning av ett äktenskap när beslutet har meddelats i ett förfarande enligt
+
+a) 3 kap. 8 § första stycket lagen (1904:26 s. 1) om vissa internationella rättsförhållanden rörande äktenskap och förmynderskap, eller
+
+b) artikel 30.3 eller artikel 40 i rådets förordning (EU) 2019/1111 av den 25 juni 2019 om behörighet, erkännande och verkställighet av avgöranden i äktenskapsmål och mål om föräldraansvar, och om internationella bortföranden av barn (Bryssel II-förordningen). *Förordning (2022:961)*.
+
+### 3 §
+
+Hovrätterna och Högsta domstolen ska lämna uppgifter om domar och slutliga beslut med anledning av överklagande av sådana avgöranden som den lägre rätten har varit skyldig att lämna uppgift om. De ska även lämna uppgifter om andra domar varigenom domstolen har förklarat en vigsel ogiltig eller dömt till äktenskapsskillnad. *Förordning (2015:906)*.
+
+### 4 §
+
+Uppgift om dom eller beslut ska sändas in till äktenskapsregistret inom tre dagar från det att tiden för att överklaga avgörandet gick ut. Det ska anges om överklagande har skett. *Förordning (2011:983)*.
+
+### 5 §
+
+Om tingsrätten har avvisat en talan mot en sådan dom som avses i 2 § 1 och avvisningsbeslutet överklagas, skall tingsrätten utan dröjsmål underrätta äktenskapsregistret om detta. Detsamma gäller för en hovrätt som har avvisat ett överklagande av en dom eller ett beslut som avses i 3 §. *Förordning (1996:277)*.
+
+### 6 §
+
+Domstolen skall anteckna dagen för avsändandet av uppgift eller underrättelse i sitt mål- och ärenderegister. *Förordning (1996:277)*.
+
+### 7 §
+
+Äktenskapsregistret ska vara ordnat så att de uppgifter som antecknats i registret lätt kan återfinnas.
+
+*Förordning (2011:983)*.
+
+### 8 §
+
+Har upphävts genom *förordning (1991:793)*.
+
+### 9 §
+
+Domstolsverket fastställer efter samråd med Skatteverket formulär och annat som domstolarna ska använda för att fullgöra sin uppgiftsskyldighet enligt denna förordning.
+
+*Förordning (2011:983)*.
+
+### 10 §
+
+Har upphävts genom *förordning (2015:906)*.
+
+### 11 §
+
+Har upphävts genom *förordning (2015:906)*.
+
+### 12 §
+
+Har upphävts genom *förordning (2015:906)*.
+
+### 13 §
+
+Har upphävts genom *förordning (2015:906)*.
+
+## Övergångsbestämmelser
+
+**1987:1022**
+
+1. Denna förordning träder i kraft den 1 januari 1988.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om fall som avses i 12 § lagen (1987:788) om införande av äktenskapsbalken och punkt 3 i övergångsbestämmelserna till lagen (1987:803) om ändring i fastighetsbildningslagen (1970:988).
+
+**2022:961**
+
+1. Denna förordning träder i kraft den 1 augusti 2022.
+
+2. Äldre bestämmelser gäller fortfarande för beslut som avser ett utländskt avgörande som har meddelats i ett förfarande som inletts före ikraftträdandet.

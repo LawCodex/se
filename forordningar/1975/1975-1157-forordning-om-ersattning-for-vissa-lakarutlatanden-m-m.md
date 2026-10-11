@@ -1,0 +1,67 @@
+---
+title: "Förordning (1975:1157) om ersättning för vissa läkarutlåtanden m.m."
+identifier: "SFS 1975:1157"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1975-12-11
+amended_through: "SFS 2017:81"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1975-1157.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1975:1157"
+retrieved: 2026-10-11
+---
+# Förordning (1975:1157) om ersättning för vissa läkarutlåtanden m.m.
+
+### 1 §
+
+I denna förordning meddelas föreskrifter om ersättning från den allmänna försäkringen för sådana kostnader för läkarundersökningar och läkarutlåtanden m.m. som avses i
+
+- 3 kap. 4 b § fjärde stycket och 8 a § femte stycket, 7 kap. 3 b § femte stycket och 16 kap. 1 och 2 §§ lagen (1962:381) om allmän försäkring,
+
+- 11 § tredje stycket lagen (1998:703) om handikappersättning och vårdbidrag, samt
+
+- 14 § lagen (1991:1047) om sjuklön.
+
+Förordningen avser även ersättning från den allmänna försäkringen för kostnader för läkarundersökningar och läkarutlåtanden som föranleds av bestämmelserna i 22 kap. 5 § andra stycket lagen om allmän försäkring.
+
+*Förordning (2003:427)*.
+
+### 2 §
+
+Beträffande läkarundersökningar och läkarutlåtanden m.m. som avses i 3 kap. 8 a § femte stycket och 7 kap. 3 b § femte stycket lagen (1962:381) om allmän försäkring gäller att ersättning betalas
+
+1. för patientavgift enligt förordningen (1984:908) om vissa statsbidrag för sjukvård m.m.,
+
+2. med belopp motsvarande den enskildes egenavgift vid resor som ersätts enligt lagen (1991:419) om resekostnadsersättning vid sjukresor,
+
+3. med skäligt belopp för andra resor och övriga kostnader.
+
+Ersättning betalas inte för avgift enligt 17 kap. 1 § hälso- och sjukvårdslagen (2017:30) avseende sjukhusvård, eller motsvarande avgift.
+
+Försäkringskassan får meddela närmare föreskrifter för tillämpningen av första stycket 3. *Förordning (2017:81)*.
+
+### 3 §
+
+Har upphävts genom *förordning (1984:909)*.
+
+### 4 §
+
+Försäkringskassan får meddela föreskrifter om ersättning för läkarutlåtande som ombesörjs av annan än sjukvårdshuvudman.
+
+*Förordning (2004:884)*.
+
+### 5 §
+
+Har upphävts genom *förordning (1991:1322)*
+
+## Övergångsbestämmelser
+
+**1991:1322**
+
+Denna förordning träder i kraft den 1 januari 1992. Äldre föreskrifter tillämpas fortfarande i fråga om läkarundersökningar och läkarutlåtanden som har ombesörjts före ikraftträdandet.
+
+**1995:1052**
+
+Denna förordning träder i kraft den 1 oktober 1995. I fråga om läkarundersökningar och läkarutlåtanden m. m. som har ombesörjts före ikraftträdandet tillämpas äldre föreskrifter.

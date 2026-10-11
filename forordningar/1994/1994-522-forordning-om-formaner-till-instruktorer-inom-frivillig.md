@@ -1,0 +1,65 @@
+---
+title: "Förordning (1994:522) om förmåner till instruktörer inom frivillig försvarsutbildning"
+identifier: "SFS 1994:522"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1994-05-19
+amended_through: "SFS 2025:1094"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-522.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:522"
+retrieved: 2026-10-11
+---
+# Förordning (1994:522) om förmåner till instruktörer inom frivillig försvarsutbildning
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning tillämpas på den som, utan att göra det i tjänsten, fullgör instruktörsuppgifter inom hemvärnet och annan frivillig utbildningsverksamhet inom totalförsvaret (instruktör).
+
+## Arvoden m.m.
+
+### 2 §
+
+En instruktör får ett veckokursarvode, när han eller hon medverkar vid en kurs, under förutsättning att kursen pågår minst tre kalenderdygn i en följd med minst sex timmars verksamhet varje dygn och att instruktören medverkar under huvuddelen av kurstiden.
+
+### 3 §
+
+En instruktör som är yrkesofficer skall vid ledighet för medverkan enligt 2 § inte få löne- eller semesteravdrag för ledigheten. En statlig myndighet får i ett särskilt fall medge att samma villkor skall tillämpas även på en annan tjänsteman vid myndigheten.
+
+### 4 §
+
+En instruktör som inte omfattas av bestämmelserna i 3 § får under medverkan enligt 2 § ersättning för förlorad arbetsförtjänst och för särskilda kostnader med högst det belopp som motsvarar sådan dagpenning som en totalförsvarspliktig får enligt 2 kap. 2 § förordningen (1995:239) om förmåner till totalförsvarspliktiga.
+
+Om det finns särskilda skäl får, utöver vad som följer av första stycket, ersättning betalas till instruktörer enligt föreskrifter som meddelas av Försvarsmakten i fråga om verksamheten inom det militära försvaret och av Myndigheten för civilt försvar i övrigt. *Förordning (2025:1094)*.
+
+### 5 §
+
+Vid annan medverkan som instruktör än som avses i 2 § får instruktören timarvode som skall innefatta ersättning för normalt förberedelse- och efterarbete samt restid.
+
+Om en instruktör under ett helt dygn medverkar i utbildning som bedrivs under sådana villkor som förutsätts för att en yrkesofficer skall få övningsdygnstillägg enligt kollektivavtal, får instruktören ett arvode som motsvarar övningsdygnstillägget.
+
+## Övriga förmåner
+
+### 6 §
+
+En instruktör får fria resor mellan bostaden eller arbetsplatsen och tjänstgöringsplatsen. Om någon färdbiljett inte tillhandahålls har instruktören rätt till resekostnadsersättning. Han eller hon har vidare rätt till traktamente m.m. under rese- och utbildningstiden.
+
+Vid beräkning av reseförmåner som avses i första stycket tillämpas bestämmelserna i 10 kap. Villkorsavtal/Villkorsavtal-T och Försvarsmaktens avtal om rörlighet och kostnadsersättningar för arbetstagare tillhörande OFR/O FM, OFR/S, Seko FM samt Saco-S FM.
+
+*Förordning (2018:201)*.
+
+## Övriga bestämmelser
+
+### 7 §
+
+Den berörda frivilliga försvarsorganisationen betalar kostnaderna för instruktörer utom kostnader enligt 3 §.
+
+Arvoden som avses i 2 och 5 §§ bestäms av Försvarsmakten i fråga om verksamheten inom det militära försvaret och i övrigt av Myndigheten för civilt försvar. Innan Försvarsmakten eller Myndigheten för civilt försvar meddelar ett sådant beslut ska de samråda med varandra. *Förordning (2025:1094)*.
+
+### 8 §
+
+De föreskrifter som behövs för verkställigheten av denna förordning får meddelas, efter hörande av berörda myndigheter och organisationer, av Försvarsmakten i fråga om verksamheten inom det militära försvaret och av Myndigheten för civilt försvar i övrigt. *Förordning (2025:1094)*.

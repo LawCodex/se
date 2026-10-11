@@ -1,0 +1,73 @@
+---
+title: "Förordning (1981:665) om exportkreditfinansiering med statligt stöd"
+identifier: "SFS 1981:665"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1981-06-18
+amended_through: "SFS 2025:791"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1981-665.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1981:665"
+retrieved: 2026-10-11
+---
+# Förordning (1981:665) om exportkreditfinansiering med statligt stöd
+
+### 1 §
+
+Exportkredit med statligt stöd får lämnas enligt denna förordning för att finansiera ett svenskt företags exportförsäljning, om det kan antas att ett konkurrerande utländskt företag på grund av utländskt kreditstöd kan erbjuda särskilt förmånliga kreditvillkor och att stödet behövs för att försäljningen ska komma till stånd.
+
+Krediten lämnas i svenska kronor eller i utländsk valuta till fast ränta. *Förordning (2025:791)*.
+
+### 2 §
+
+Exportkredit med statligt stöd får lämnas vid försäljning av varor eller tjänster om
+
+1. krediten har en löptid av minst två år, och
+
+2. försäljningen med avseende på varuslag eller tjänstens beskaffenhet samt kredittid och övriga villkor är sådan att exportkredit kan lämnas enligt förordningen (1990:113) om exportkreditgaranti. *Förordning (2002:675)*.
+
+### 3 §
+
+Vid försäljning av råvaror eller konsumtionsvaror får exportkredit med statligt stöd lämnas endast om särskilda skäl föranleder det. *Förordning (1994:252)*.
+
+### 4 §
+
+Villkoren för exportkredit med statligt stöd skall stå i överensstämmelse med inom EU antagna riktlinjer för statsstödda exportkrediter. *Förordning (2002:675)*.
+
+### 5 §
+
+Frågor om exportkredit med statligt stöd prövas av Aktiebolaget Svensk Exportkredit. Ansökan om sådan kredit ges in till Aktiebolaget Svensk Exportkredit eller Exportkreditnämnden.
+
+Frågor om stöd i samband med underskridande av de räntenivåer som anges i de riktlinjer som avses i 4 § prövas dock av regeringen. Stöd lämnas i sådant fall endast om särskilda skäl föreligger. *Förordning (2002:675)*.
+
+### 6 §
+
+Aktiebolaget Svensk Exportkredit kan på begäran utfästa sig att lämna kredit med statligt stöd. *Förordning (2002:675)*.
+
+### 7 §
+
+För lämnad exportkredit med statligt stöd kan Aktiebolaget Svensk Exportkredit ta ut ersättning om det finns särskilda skäl. *Förordning (2002:675)*.
+
+## Övergångsbestämmelser
+
+**1983:1096**
+
+Denna förordning träder i kraft den 1 januari 1984. Äldre bestämmelser tillämpas dock i fråga om ansökningar som har gjorts före den 22 december 1983.
+
+**1984:126**
+
+Denna förordning träder i kraft den 15 april 1984 och gäller i fråga om krediterbjudanden som lämnas efter ikraftträdandet.
+
+**1989:826**
+
+Denna förordning träder i kraft den 1 januari 1990. Äldre föreskrifter tillämpas dock om kreditgaranti har beviljats enligt förordningen (1986:553) om statligt stöd till fartygsfinansiering eller motsvarande äldre bestämmelser.
+
+**1994:1410**
+
+Denna förordning träder i kraft den 1 januari 1995. De nya bestämmelserna skall dock tillämpas för tid från och med den 9 juni 1994.
+
+**2002:675**
+
+Denna förordning träder i kraft den 1 september 2002. Äldre bestämmelser tillämpas dock i fråga om ansökningar som har kommit in före ikraftträdandet.

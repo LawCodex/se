@@ -1,0 +1,26 @@
+---
+title: "Kungl. Maj:ts Cirkulär (1973:874) om Sveriges tillträde till europeiska konventionen den 7 juni 1968 om avskaffande av legalisering av handlingar som utfärdas av diplomatiska eller konsulära tjänstemän"
+identifier: "SFS 1973:874"
+type: other
+jurisdiction: se
+language: sv
+date: 1973-10-26
+department: "Utrikesdepartementet UDR"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1973-874.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1973:874"
+retrieved: 2026-10-11
+---
+# Kungl. Maj:ts Cirkulär (1973:874) om Sveriges tillträde till europeiska konventionen den 7 juni 1968 om avskaffande av legalisering av handlingar som utfärdas av diplomatiska eller konsulära tjänstemän
+
+Europeiska konventionen den 7 juni 1968 om avskaffande av legalisering av handlingar som utfärdas av diplomatiska eller konsulära tjänstemän träder för Sveriges del i kraft den 28 december 1973.
+
+Konventionen föreskriver, att fördragsslutande stat skall undantaga från legalisering handling, som i tjänsten upprättats av en diplomatisk eller konsulär tjänsteman från en fördragsslutande stat för att företes inför myndighet tillhörande annan fördragsslutande stat. Detsamma skall gälla av diplomatisk eller konsulär tjänsteman utfärdade officiella intyg samt namnbestyrkanden.
+
+Med legalisering förstås i konventionen ett intygande av riktigheten av namnunderskrift på en handling och den egenskap vari den som undertecknat handlingen uppträtt samt, i förekommande fall, äktheten av sigill eller stämpel som åsatts handlingen.
+
+I händelse av tvist om äktheten av en handling som omfattas av konventionen kan frågan härom underställas den fördragsslutande stat från vilken handlingen härrör för uttalande. Ersättning för avgift eller kostnad utgår icke för ett i anledning därav lämnat meddelande.
+
+Utrikesdepartementet skall förmedla och mottaga framställningar som här avses.
+
+Konventionen har, förutom av Sverige, biträtts av följande stater: Cypern, Frankrike, Italien, Liechtenstein, Nederländerna, Schweiz, Storbritannien, Förbundsrepubliken Tyskland samt Österrike.

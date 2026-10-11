@@ -1,0 +1,93 @@
+---
+title: "Förordning (1995:1100) med instruktion för Svenska FAO-kommittén"
+identifier: "SFS 1995:1100"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1995-09-21
+amended_through: "SFS 2023:389"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-1100.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:1100"
+retrieved: 2026-10-11
+---
+# Förordning (1995:1100) med instruktion för Svenska FAO-kommittén
+
+## Uppgifter
+
+### 1 §
+
+Svenska FAO-kommittén har till uppgift att inom verksamhetsområdena för Förenta nationernas livsmedels- och jordbruksorganisation (FAO) bistå regeringen i syfte att främja en tryggad livsmedelsförsörjning för alla människor samtidigt som hänsyn tas till hållbar global utveckling och bevarad biologisk mångfald. Verksamhetsområdena är jordbruk, fiske och skogsbruk. *Förordning (2021:926)*.
+
+### 2 §
+
+Kommittén ska särskilt
+
+1. ge råd till regeringen i frågor som rör FAO:s verksamhet och Sveriges deltagande i denna verksamhet,
+
+2. sprida kännedom om och skapa intresse för FAO:s verksamhet, och
+
+3. samarbeta med motsvarande nationella kommittéer i andra länder, särskilt i övriga nordiska länder och i Europeiska unionens medlemsländer. *Förordning (2013:14)*.
+
+## Sammansättning
+
+### 3 §
+
+Kommittén består av en ordförande och högst fjorton andra ledamöter. *Förordning (2006:61)*.
+
+## Organisation
+
+### 4 §
+
+Föredragnings-, utrednings- och kansliuppgifter utförs av den personal som Landsbygds- och infrastrukturdepartementet ställer till förfogande. *Förordning (2023:389)*.
+
+## Ledning
+
+### 5 §
+
+Vid tillämpning av myndighetsförordningen (2007:515) ska med myndighetens ledning förstås kommittén.
+
+*Förordning (2007:1050)*.
+
+## Undantag från myndighetsförordningen
+
+### 6 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på kommittén:
+
+2 § om myndighetens ledning,
+
+5 § om delegering,
+
+9-18 §§ om enrådighetsmyndigheter, styrelsemyndigheter och nämndmyndigheter,
+
+22-24 §§ om anställningar och uppdrag,
+
+25 och 26 §§ om personalansvarsnämnd, samt
+
+27 § om myndighetens rätt att företräda staten vid domstol.
+
+*Förordning (2007:1050)*.
+
+## Ärendens handläggning
+
+### 7 §
+
+Kommittén är beslutför när ordföranden och minst hälften av de andra ledamöterna är närvarande.
+
+### 8 §
+
+Om ett ärende är brådskande, får det avgöras genom meddelanden mellan ordföranden och de andra ledamöterna.
+
+*Förordning (2021:926)*.
+
+### 9 §
+
+Kommittén får i arbetsordningen eller i särskilda beslut lämna över till ordföranden eller till någon som tjänstgör i kommittén att besluta i frågor som inte behöver prövas av kommittén. *Förordning (2021:926)*.
+
+## Förordnanden
+
+### 10 §
+
+Regeringen utser ordförande och andra ledamöter. *Förordning (2021:926)*.

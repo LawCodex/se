@@ -1,0 +1,38 @@
+---
+title: "Förordning (1995:1232) om dubbelbeskattningsavtal mellan Sverige och Amerikas Förenta Stater"
+identifier: "SFS 1995:1232"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1995-11-16
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-1232.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:1232"
+retrieved: 2026-10-11
+---
+# Förordning (1995:1232) om dubbelbeskattningsavtal mellan Sverige och Amerikas Förenta Stater
+
+Lagen (1994:1617) om dubbelbeskattningsavtal mellan Sverige och Amerikas Förenta Stater skall träda i kraft den 1 januari 1996 och tillämpas
+
+a) beträffande skatter på inkomst, på inkomst som förvärvas den 1 januari 1996 eller senare,
+
+b) beträffande förmögenhetsskatten, på skatt som påförs vid 1997 eller senare års taxering, och
+
+c) beträffande skatten på vissa premiebetalningar, på premiebetalningar som görs den 1 januari 1996 eller senare.
+
+Avtalet trädde i kraft den 26 oktober 1995.
+
+## Övergångsbestämmelser
+
+**1995:1232**
+
+1. Denna förordning träder i kraft den 1 januari 1996.
+
+2. Genom förordningen upphävs kungörelsen (1972:543) om kupongskatt för person som är bosatt i Amerikas Förenta Stater, m.m.
+
+3. Den upphävda kungörelsen samt kungörelsen (1965:38) om tillämpning av avtal den 23 mars 1939 mellan Sverige och Amerikas Förenta Stater för undvikande av dubbelbeskattning och fastställande av bestämmelser angående ömsesidig handräckning beträffande inkomst- och andra skatter och kungörelsen (1965:40) om uttagande i vissa fall av ogulden skatt på utdelning från företag i Amerikas Förenta Stater skall dock fortfarande tillämpas
+
+a) beträffande skatter på inkomst, på inkomst som förvärvas före den 1 januari 1996, och
+
+b) beträffande förmögenhetsskatten, på skatt som påförs vid 1996 eller tidigare års taxering.

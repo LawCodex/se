@@ -1,0 +1,45 @@
+---
+title: "Förordning (1993:1632) med bemyndigande för kommuner och länsstyrelser att meddela lokala föreskrifter enligt ordningslagen (1993:1617)"
+identifier: "SFS 1993:1632"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1993-12-16
+amended_through: "SFS 2017:1046"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-1632.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:1632"
+retrieved: 2026-10-11
+---
+# Förordning (1993:1632) med bemyndigande för kommuner och länsstyrelser att meddela lokala föreskrifter enligt ordningslagen (1993:1617)
+
+### 1 §
+
+Kommunerna får meddela föreskrifter enligt 1 kap. 2 § andra stycket samt 3 kap. 8 och 9 §§ och 10 § första stycket andra meningen ordningslagen (1993:1617).
+
+Kommunerna får dock inte meddela sådana föreskrifter som innebär en inskränkning i den enskildes frihet att framföra ett musikaliskt verk eller något annat konstnärligt verk.
+
+### 2 §
+
+Bestämmelser om kungörande och tillgängliggörande av kommunala föreskrifter finns i 8 kap. 13 § kommunallagen (2017:725).
+
+Om en länsstyrelse har upphävt en kommunal föreskrift enligt 3 kap. 13 § andra stycket ordningslagen (1993:1617), ska länsstyrelsen begära att beslutet anslås på kommunens anslagstavla. *Förordning (2017:1046)*.
+
+### 3 §
+
+En länsstyrelse får föreskriva att allmänna sammankomster och offentliga tillställningar inte får hållas inom länet eller del av detta, om det är nödvändigt för att motverka epidemi eller för att förebygga eller bekämpa epizooti enligt epizootilagen (1999:657).
+
+I 2 kap. 15 § ordningslagen (1993:1617) finns en bestämmelse om samråd med Statens jordbruksverk. *Förordning (2011:440)*.
+
+### 4 §
+
+Länsstyrelserna får meddela föreskrifter enligt 3 kap. 10 § första stycket tredje meningen och 11 § ordningslagen (1993:1617).
+
+Föreskrifter enligt 3 kap. 11 § ordningslagen gäller när de har kungjorts eller vid den senare tidpunkt som anges i beslutet. I brådskande fall får föreskrifterna kungöras genom att publiceras i ortstidning eller läsas upp i radio. Detsamma gäller i fråga om ändring eller upphävande av sådana föreskrifter.
+
+## Övergångsbestämmelser
+
+**1993:1632**
+
+Denna förordning träder i kraft den 1 april 1994, då förordningen (1982:1173) med bemyndigande för kommuner och länsstyrelser att meddela lokala ordningsföreskrifter skall upphöra att gälla.

@@ -1,0 +1,89 @@
+---
+title: "Förordning (1991:1124) om avgifter för prövning inom skolväsendet"
+identifier: "SFS 1991:1124"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1991-06-13
+amended_through: "SFS 2024:1030"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-1124.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:1124"
+retrieved: 2026-10-11
+---
+# Förordning (1991:1124) om avgifter för prövning inom skolväsendet
+
+### 1 §
+
+Huvudmannen för utbildningen får ta ut en avgift av den som vill gå igenom
+
+1. särskilt anordnad prövning i grundskolan,
+
+2. särskilt anordnad prövning i gymnasieskolan, om inte annat är föreskrivet,
+
+3. särskilt anordnad prövning inom kommunal vuxenutbildning på grundläggande eller gymnasial nivå eller kommunal vuxenutbildning som anpassad utbildning, och
+
+4. särskilt anordnad prövning inom kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning för den som har rätt att delta i sådan utbildning enligt skollagen (2010:800).
+
+Avgift får dock inte tas ut för
+
+1. den som har gått ut grundskolan och inte uppfyllt de betygskriterier som minst ska ha uppfyllts i årskurs 9 i det ämne prövningen gäller,
+
+2. en elev i gymnasieskolan som
+
+a) har fått betyget F på den nivå i det ämne som prövningen gäller,
+
+b) inte har fått betyg på den nivå i det ämne som prövningen gäller eftersom något sådant inte har satts enligt 15 kap. 27 § skollagen, eller
+
+c) har fått betyget F i det grundskoleämne prövningen gäller eller inte har fått något betyg i ämnet eftersom något sådant inte har satts enligt 15 kap. 27 § skollagen,
+
+3. en elev inom kommunal vuxenutbildning på grundläggande nivå som har fått betyget Icke godkänt på den kurs som prövningen gäller,
+
+4. den som efter avslutad kurs inom kommunal vuxenutbildning som anpassad utbildning på grundläggande nivå inte har nått upp till nivån för betyget Godkänt,
+
+5. en elev inom kommunal vuxenutbildning på gymnasial nivå som har fått betyget F på den nivå i det ämne som prövningen gäller,
+
+6. den som efter en avslutad nivå i ett ämne inom kommunal vuxenutbildning som anpassad utbildning på gymnasial nivå inte har nått upp till betyget E,
+
+7. den som efter avslutad kurs inom kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning för den som har rätt att delta i sådan utbildning enligt skollagen inte har nått upp till betyget Godkänt, eller
+
+8. en elev inom kommunal vuxenutbildning som inom ramen för utbildningen i en kurs eller ett ämne går igenom prövning efter validering. *Förordning (2024:1030)*.
+
+### 2 §
+
+Avgiften får uppgå till högst 500 kronor. *Förordning (2021:593)*.
+
+### 3 §
+
+Avgifterna för prövning tillfaller huvudmannen.
+
+*Förordning (2021:97)*.
+
+## Övergångsbestämmelser
+
+**2007:53**
+
+Denna förordning träder i kraft den 1 juli 2007. Äldre föreskrifter gäller fortfarande för betyg som har satts före ikraftträdandet.
+
+**2011:535**
+
+1. Denna förordning träder i kraft den 1 juli 2011.
+
+2. Vid tillämpningen av 1 och 3 §§ ska med utbildning i svenska för invandrare jämställas motsvarande utbildning enligt 13 kap.
+
+skollagen (1985:1100). Vidare ska vid tillämpningen av 1 § betyget E jämställas med betyget Godkänt och betyget F jämställas med betyget Icke godkänt.
+
+**2021:593**
+
+Denna förordning träder i kraft den 1 januari 2023.
+
+*Förordning (2021:1330)*.
+
+**2024:1030**
+
+1. Denna förordning träder i kraft den 20 december 2024.
+
+2. Förordningen tillämpas första gången i fråga om prövning av utbildning som påbörjas efter den 30 juni 2025.
+
+3. Äldre bestämmelser gäller fortfarande i fråga om prövning i kurser enligt de ämnesplaner som gäller utbildning som påbörjats före den 1 juli 2025.

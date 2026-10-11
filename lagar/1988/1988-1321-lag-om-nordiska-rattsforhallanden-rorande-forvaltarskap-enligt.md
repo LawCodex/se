@@ -1,0 +1,32 @@
+---
+title: "Lag (1988:1321) om nordiska rättsförhållanden rörande förvaltarskap enligt föräldrabalken m. m."
+identifier: "SFS 1988:1321"
+type: act
+jurisdiction: se
+language: sv
+date: 1988-12-01
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1988-1321.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1988:1321"
+retrieved: 2026-10-11
+---
+# Lag (1988:1321) om nordiska rättsförhållanden rörande förvaltarskap enligt föräldrabalken m. m.
+
+## 1 §
+
+Förvaltarskap enligt föräldrabalken anordnas i Sverige för den som är medborgare i en sådan stat som avses i förordningen (1931:429) om vissa internationella rättsförhållanden rörande äktenskap, adoption och förmynderskap och som har hemvist här i landet, om inte förmynderskap redan utövas av lagbestämd eller särskilt förordnad förmyndare i någon annan fördragsslutande stat. Tillfälligt förvaltarskap för en sådan medborgare får anordnas här i landet även om denne inte har hemvist här.
+
+Då förvaltarskap anordnas i Sverige för en sådan medborgare som avses i första stycket, tillämpas bestämmelserna om omyndighetsförklaring och förmynderskap i 16--20 §§ nämnda förordning. Ett förvaltarskap med begränsning av förvaltarens uppdrag får dock inte överflyttas till en annan fördragsslutande stat.
+
+Om ett förvaltarskap utan begränsning av förvaltarens uppdrag överflyttas från Sverige till en annan fördragsslutande stat, skall den som förvaltarskapet avser anses omyndigförklarad enligt den andra statens lag.
+
+Om ett förmynderskap för omyndigförklarad överflyttas till Sverige från en annan fördragsslutande stat, skall den omyndigförklarade anses ha förvaltare utan begränsning av uppdraget.
+
+## 2 §
+
+Om den som har förvaltare i Sverige omyndigförklaras i en annan fördragsslutande stat där han eller hon har tagit hemvist, upphör förvaltarens uppdrag.
+
+## 3 §
+
+En omyndigförklarad medborgare i en fördragsslutande stat är i Sverige likställd med en person som har förvaltare utan begränsning av förvaltaruppdraget när det gäller behörighet att inneha uppdrag och befattningar samt att bedriva tillståndspliktig verksamhet.

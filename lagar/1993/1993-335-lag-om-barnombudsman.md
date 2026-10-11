@@ -1,0 +1,73 @@
+---
+title: "Lag (1993:335) om Barnombudsman"
+identifier: "SFS 1993:335"
+type: act
+jurisdiction: se
+language: sv
+date: 1993-05-13
+amended_through: "SFS 2018:882"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-335.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:335"
+retrieved: 2026-10-11
+---
+# Lag (1993:335) om Barnombudsman
+
+## 1 §
+
+Barnombudsmannen har till uppgift att företräda barns och ungas rättigheter och intressen mot bakgrund av Sveriges åtagande enligt Förenta nationernas konvention om barnets rättigheter (barnkonventionen). *Lag (2002:377)*.
+
+## 2 §
+
+Barnombudsmannen skall driva på genomförandet och bevaka efterlevnaden av barnkonventionen. Barnombudsmannen skall därvid särskilt uppmärksamma att lagar och andra författningar samt deras tillämpning stämmer överens med barnkonventionen.
+
+*Lag (2002:377)*.
+
+## 3 §
+
+Barnombudsmannen skall inom sitt verksamhetsområde
+
+1. hos regeringen föreslå de författningsändringar eller andra åtgärder som behövs för att barns och ungas rättigheter och intressen skall tillgodoses,
+
+2. informera, bilda opinion och ta initiativ till lämpliga åtgärder i övrigt,
+
+3. företräda barns och ungas rättigheter och intressen i den allmänna debatten,
+
+4. samla kunskap och sammanställa statistik om barns och ungas levnadsvillkor, samt
+
+5. följa den internationella utvecklingen när det gäller barnkonventionens tolkning och dess tillämpning.
+
+*Lag (2002:377)*.
+
+## 4 §
+
+Barnombudsmannen skall senast den 1 april varje år lämna en rapport till regeringen om sin verksamhet under det närmast föregående kalenderåret samt om de frågor om barn och unga som ombudsmannen anser att regeringen behöver ha kännedom om.
+
+*Lag (2002:377)*.
+
+## 5 §
+
+Förvaltningsmyndigheter, kommuner och regioner ska på Barnombudsmannens uppmaning lämna uppgifter till ombudsmannen om vilka åtgärder som vidtagits för att i den egna verksamheten genomföra barns och ungas rättigheter enligt barnkonventionen. De är också skyldiga att på ombudsmannens uppmaning komma till överläggningar med denne.
+
+*Lag (2019:882)*.
+
+## 6 §
+
+Regeringen utser Barnombudsmannen för en bestämd tid.
+
+Ombudsmannen bestämmer själv sin organisation och den närmare inriktningen av sitt arbete. *Lag (2002:377)*.
+
+## 7 §
+
+Barnombudsmannen är skyldig att genast anmäla till socialnämnden om ombudsmannen i sin verksamhet får kännedom om eller misstänker att ett barn far illa.
+
+Barnombudsmannen är skyldig att lämna uppgifter om det förhållande anmälningsplikten omfattar. *Lag (2017:1245)*.
+
+## 8 §
+
+Barnombudsmannen får lämna
+
+1. socialnämnden uppgifter som kan vara av betydelse för utredning av ett barns behov av stöd och skydd,
+
+2. Inspektionen för vård och omsorg uppgifter som kan vara av betydelse för myndighetens tillsyn. *Lag (2017:1245)*.

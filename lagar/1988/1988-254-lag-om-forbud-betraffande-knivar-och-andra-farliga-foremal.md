@@ -1,0 +1,55 @@
+---
+title: "Lag (1988:254) om förbud beträffande knivar och andra farliga föremål"
+identifier: "SFS 1988:254"
+type: act
+jurisdiction: se
+language: sv
+date: 1988-05-05
+amended_through: "SFS 2026:413"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1988-254.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1988:254"
+retrieved: 2026-10-11
+---
+# Lag (1988:254) om förbud beträffande knivar och andra farliga föremål
+
+## 1 §
+
+Knivar, andra stick- och skärvapen och andra föremål som är ägnade att användas som vapen vid brott mot liv eller hälsa får inte innehas på allmän plats, inom skolområde där grundskole- eller gymnasieundervisning bedrivs, eller i fordon på allmän plats.
+
+Förbudet i första stycket gäller inte, om föremålet enligt särskilda föreskrifter ingår i utrustning för viss tjänst eller visst uppdrag eller om innehavet annars med hänsyn till föremålets art, innehavarens behov och övriga omständigheter är att anse som befogat.
+
+Stickvapen eller knivar som är konstruerade så att klingan eller bladet snabbt kan fällas eller skjutas ut ur sitt skaft (springstiletter eller springknivar) får inte innehas av personer under 21 år. *Lag (2000:148)*.
+
+## 2 §
+
+Knogjärn, kaststjärnor eller andra sådana föremål som är särskilt ägnade att användas som vapen vid brott mot liv eller hälsa samt springstiletter eller springknivar får inte överlåtas till personer under 21 år eller saluhållas. *Lag (1990:413)*.
+
+## 3 §
+
+I fråga om vapen och andra föremål som vapenlagen (2026:408) är tillämplig på gäller föreskrifterna där i stället för denna lag. *Lag (2026:413)*.
+
+## 4 §
+
+Den som uppsåtligen bryter mot 1 eller 2 § döms till böter eller fängelse i högst ett år.
+
+Om gärningen har begåtts av oaktsamhet, döms till böter eller fängelse i högst sex månader.
+
+Om ett brott som avses i första stycket är grovt, döms till fängelse i lägst sex månader och högst två år. Vid bedömningen av om brottet är grovt ska det särskilt beaktas om
+
+1. föremålet har innehafts i ett sammanhang där det kan befaras komma till användning vid brottsligt angrepp på någons liv, hälsa eller trygghet till person,
+
+2. föremålet har varit av särskilt farlig beskaffenhet,
+
+3. innehavet, överlåtelsen eller saluhållandet har avsett flera föremål, eller
+
+4. gärningen på annat sätt har varit av särskilt farlig art.
+
+Om det rör sig om ringa fall utgör gärningen dock inte brott.
+
+*Lag (2022:608)*.
+
+## 5 §
+
+Har upphävts genom *lag (2024:812)*.

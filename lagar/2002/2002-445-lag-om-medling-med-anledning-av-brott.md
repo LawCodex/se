@@ -1,0 +1,75 @@
+---
+title: "Lag (2002:445) om medling med anledning av brott"
+identifier: "SFS 2002:445"
+type: act
+jurisdiction: se
+language: sv
+date: 2002-05-30
+amended_through: "SFS 2014:625"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2002-445.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2002:445"
+retrieved: 2026-10-11
+---
+# Lag (2002:445) om medling med anledning av brott
+
+## Tillämpningsområde och syfte
+
+### 1 §
+
+Denna lag gäller medling som anordnas av staten eller av en kommun med anledning av brott.
+
+### 2 §
+
+Med medling avses i denna lag att en gärningsman och en målsägande möts inför en medlare för att tala om brottet och följderna av detta.
+
+### 3 §
+
+Medling skall ske i bägge parters intresse. Målet skall vara att minska de negativa följderna av brottet.
+
+Medlingen skall syfta till att gärningsmannen får ökad insikt om brottets konsekvenser och att målsäganden ges möjlighet att bearbeta sina upplevelser.
+
+### 4 §
+
+Till medlare skall en kompetent och rättrådig person utses.
+
+Medlaren skall vara opartisk.
+
+## Förutsättningar för medling
+
+### 5 §
+
+Medling ska vara frivillig för både gärningsman och målsägande. Det brott som medlingen avser ska vara anmält till Polismyndigheten. Dessutom ska gärningsmannen ha erkänt gärningen eller delaktighet i denna.
+
+Medling får endast ske om det med hänsyn till samtliga omständigheter framstår som lämpligt. Om gärningsmannen är under tolv år får medling ske endast om det finns synnerliga skäl. *Lag (2014:625)*.
+
+## Förberedelser
+
+### 6 §
+
+Medlingsförfarandet skall genomföras skyndsamt.
+
+Medlaren skall samråda med förundersökningsledaren om medling avses äga rum innan förundersökningen har avslutats. Om medling avses äga rum därefter, men innan det finns en lagakraftvunnen dom, skall medlaren samråda med åklagaren.
+
+### 7 §
+
+Både gärningsman och målsägande skall informeras om vad medlingen innebär och på annat sätt förberedas i den omfattning som behövs.
+
+### 8 §
+
+Vårdnadshavare för gärningsman och målsägande skall ges tillfälle att närvara vid medlingsmötet, om det inte finns särskilda skäl mot det. Även andra personer kan ges tillfälle att närvara vid medlingsmötet, om det är förenligt med syftet med medlingen och det i övrigt kan anses lämpligt.
+
+## Medlingsmötet
+
+### 9 §
+
+Vid medlingsmötet skall målsäganden ges möjlighet att berätta om sin upplevelse av brottet och dess följder.
+
+Gärningsmannen skall få möjlighet att berätta varför gärningen kom att begås och ge sin syn på sin situation. Målsäganden kan också framställa önskemål om gottgörelse, och gärningsmannen kan framföra en ursäkt för sitt handlande.
+
+### 10 §
+
+Medlaren skall medverka till att avtal om gottgörelse träffas endast om det är uppenbart att innehållet i avtalet inte är oskäligt.
+
+Om det framkommer att gärningsmannen inte uppfyller ett avtal som har träffats mellan parterna, skall medlaren se till att åklagaren genast underrättas om detta, om det inte är obehövligt.

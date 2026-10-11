@@ -1,0 +1,49 @@
+---
+title: "Lag (1992:1197) om dubbelbeskattningsavtal mellan Sverige och Botswana"
+identifier: "SFS 1992:1197"
+type: act
+jurisdiction: se
+language: sv
+date: 1992-12-10
+amended_through: "SFS 2015:591"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-1197.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:1197"
+retrieved: 2026-10-11
+---
+# Lag (1992:1197) om dubbelbeskattningsavtal mellan Sverige och Botswana
+
+> Bilagan är inte med här. Bilagan senast ändrad genom lag (2013:1017).
+
+### 1 §
+
+Det avtal för undvikande av dubbelbeskattning och förhindrande av skatteflykt beträffande skatter på inkomst som Sverige och Botswana undertecknade den 19 oktober 1992 ska, i den lydelse som detta har fått genom det protokoll om ändring i avtalet som undertecknades den 20 februari 2013, gälla som lag här i landet.
+
+Avtalets innehåll framgår av bilaga till denna lag.
+
+*Lag (2013:1017)*.
+
+### 2 §
+
+Avtalets beskattningsregler ska tillämpas endast till den del dessa medför inskränkning av den skattskyldighet i Sverige som annars skulle föreligga. *Lag (2013:1017)*.
+
+### 3 §
+
+Har upphävts genom *lag (2011:1354)*.
+
+## Övergångsbestämmelser
+
+**2013:1017**
+
+1. Denna lag träder i kraft den dag regeringen bestämmer.
+
+2. Denna lag tillämpas beträffande
+
+a) källskatter, på belopp som betalas eller tillgodoförs den 1 januari det år som följer närmast efter den dag då lagen träder i kraft eller senare,
+
+b) andra skatter på inkomst, på skatt som tas ut för beskattningsår som börjar den 1 januari det år som följer närmast efter den dag då lagen träder i kraft eller senare, och
+
+c) informationsutbyte enligt artikel 26 i avtalet, på begäran som framställts dagen för ikraftträdandet av lagen eller senare.
+
+/Bilagan är inte med här. Bilagan senast ändrad genom *lag (2013:1017)*./

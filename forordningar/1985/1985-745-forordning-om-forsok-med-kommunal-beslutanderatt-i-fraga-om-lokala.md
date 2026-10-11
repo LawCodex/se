@@ -1,0 +1,28 @@
+---
+title: "Förordning (1985:745) om försök med kommunal beslutanderätt i fråga om lokala trafikföreskrifter i vissa fall"
+identifier: "SFS 1985:745"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1985-09-12
+department: "Näringsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1985-745.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1985:745"
+retrieved: 2026-10-11
+---
+# Förordning (1985:745) om försök med kommunal beslutanderätt i fråga om lokala trafikföreskrifter i vissa fall
+
+Med avvikelse från vad som föreskrivs i 148 § vägtrafikkungörelsen (1972:603) gäller i Haninge, Tyresö, Gnosjö, Helsingborgs, Varbergs, Ale, Örebro, Sandvikens och Bräcke kommuner följande.
+
+I fråga om sådana vägar inom en kommuns tätorter som inte är riksvägar eller länsvägar med nummer 100--499 meddelas lokala trafikföreskrifter enligt 147 § andra stycket 4 och 5 vägtrafikkungörelsen av kommunen.
+
+Med riksvägar och länsvägar förstås detsamma som i vägkungörelsen (1971:954).
+
+## Övergångsbestämmelser
+
+**1985:745**
+
+Denna förordning träder i kraft två veckor efter den dag då förordningen enligt uppgift på den utkom från trycket i Svensk författningssamling och gäller till utgången av mars 1986.
+
+Lokala trafikföreskrifter som har meddelats enligt 148 § vägtrafikkungörelsen (1972:603) skall fortsätta att gälla i den mån inte annat förordnas enligt denna förordning. Föreskrifter enligt denna förordning skall fortsätta att gälla efter utgången av mars 1986 i den mån inte annat förordnas enligt 147 § vägtrafikkungörelsen i dess lydelse från och med den 1 april 1986.

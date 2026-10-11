@@ -1,0 +1,33 @@
+---
+title: "Förordning (2003:440) om säkerheten på örlogsfartyg"
+identifier: "SFS 2003:440"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2003-06-12
+amended_through: "SFS 2008:1139"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-440.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:440"
+retrieved: 2026-10-11
+---
+# Förordning (2003:440) om säkerheten på örlogsfartyg
+
+### 1 §
+
+För örlogsfartyg gäller bestämmelserna i 1 kap. 3 §, 2 kap. 1, 2 och 4 §§ samt 5 § första stycket, 5 kap. 1 § första stycket, 7 kap. 12 § första meningen samt 9 kap. 1-3 §§ fartygssäkerhetslagen (2003:364). Bestämmelsen i 5 kap. 1 § första stycket fartygssäkerhetslagen om tillsyn av rederiers och fartygs säkerhetsorganisation gäller dock inte för örlogsfartyg, och 9 kap. 2 § samma lag gäller endast i den mån Transportstyrelsen utövar tillsyn.
+
+Högsta tillåtna antalet passagerare på ett örlogsfartyg skall bestämmas i enlighet med vad som anges i 3 kap. 2 § fartygssäkerhetslagen. *Förordning (2008:1139)*.
+
+### 2 §
+
+Transportstyrelsen får i fråga om örlogsfartyg meddela föreskrifter för verkställigheten av bestämmelserna i 1 § samt föreskrifter om anmälan av inträffade olycksfall eller olyckstillbud, uppkomna skador samt vidtagna åtgärder av betydelse för fartygets sjövärdighet. *Förordning (2008:1139)*.
+
+## Övergångsbestämmelser
+
+**2003:440**
+
+Denna förordning träder i kraft den 21 juli 2003, då förordningen (1988:595) om säkerheten på örlogsfartyg upphör att gälla.
+
+En föreskrift som har meddelats med stöd av den gamla förordningen och som gäller vid ikraftträdandet skall fortfarande gälla och vid tillämpningen av den nya förordningen anses ha meddelats enligt denna.

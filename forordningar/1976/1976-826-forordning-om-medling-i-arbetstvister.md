@@ -1,0 +1,55 @@
+---
+title: "Förordning (1976:826) om medling i arbetstvister"
+identifier: "SFS 1976:826"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1976-11-18
+amended_through: "SFS 2013:706"
+department: "Arbetsmarknadsdepartementet ARM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1976-826.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1976:826"
+retrieved: 2026-10-11
+---
+# Förordning (1976:826) om medling i arbetstvister
+
+## 1 §
+
+En medlare enligt 47 a och 47 b § lagen (1976:580) om medbestämmande i arbetslivet, förordnas av Medlingsinstitutet på ett fast medlingsuppdrag eller för medling i en viss uppkommen arbetstvist. *Förordning (2000:259)*.
+
+## 2 §
+
+Ett uppdrag att verka som fast medlare skall avse ett visst av Medlingsinstitutet bestämt verksamhetsområde och skall meddelas till högst åtta personer på sådant sätt att medlarna får spridning över landet. En fast medlare förordnas för högst ett år i taget. *Förordning (2000:259)*.
+
+## 3 §
+
+En fast medlare skall utföra de medlingsuppdrag och fullgöra de övriga uppgifter som Medlingsinstitutet tilldelar honom eller henne samt följa förhållandena på arbetsmarknaden.
+
+*Förordning (2000:259)*.
+
+## 4 §
+
+Ett uppdrag att medla i en uppkommen arbetstvist skall i första hand tilldelas den fasta medlare inom vars verksamhetsområde tvisten har uppstått. Om det framstår som lämpligare kan Medlingsinstitutet förordna en annan fast medlare för ett visst uppdrag eller utse en annan person att medla i tvisten. *Förordning (2000:259)*.
+
+## 5 §
+
+En medlare får inte ta emot någon form av gottgörelse av en arbetsgivare eller arbetstagare eller deras organisationer för sin medverkan i en arbetstvist. *Förordning (2013:706)*.
+
+## 6 §
+
+En medlare ska lämna en rapport till Medlingsinstitutet efter varje avslutat medlingsärende. *Förordning (2007:1446)*.
+
+## 7 §
+
+En fast medlare skall senast den 20 januari varje år sända in en berättelse över sin verksamhet under det föregående kalenderåret till Medlingsinstitutet. *Förordning (2004:503)*.
+
+## 8 §
+
+Har upphävts genom *förordning (2000:259)*.
+
+## 9 §
+
+Medlarna står under tillsyn av Medlingsinstitutet.
+
+Närmare föreskrifter om medlarnas verksamhet meddelas av Medlingsinstitutet. *Förordning (2000:259)*.

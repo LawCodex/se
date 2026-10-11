@@ -1,0 +1,49 @@
+---
+title: "Förordning (1992:98) om användande av skjutvapen vid vakttjänst inom Försvarsmakten"
+identifier: "SFS 1992:98"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1992-03-05
+amended_through: "SFS 2019:775"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-98.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:98"
+retrieved: 2026-10-11
+---
+# Förordning (1992:98) om användande av skjutvapen vid vakttjänst inom Försvarsmakten
+
+Tillämpningsområde m. m.
+
+### 1 §
+
+Bestämmelserna i denna förordning gäller för Försvarsmaktens personal när den tjänstgör för bevakning. I fråga om militär personal gäller bestämmelserna även när den tjänstgör för att upprätthålla ordning. Bestämmelserna gäller dock inte Försvarsmaktens användande av våld i enlighet med internationell rätt och sedvänja. *Förordning (2006:153)*.
+
+## Användande av skjutvapen
+
+### 2 §
+
+Den som handlar i nödvärn enligt 24 kap. 1 § brottsbalken får använda skjutvapen för att avvärja svårare våld mot sig själv eller någon annan eller hot som innebär trängande fara för sådant våld.
+
+### 3 §
+
+Den som enligt 24 kap. 2 § brottsbalken, 10 och 29 §§ polislagen (1984:387) eller 11 § andra stycket skyddslagen (2010:305) får använda våld för att genomföra en tjänsteåtgärd får då använda skjutvapen, om det är absolut nödvändigt med hänsyn till åtgärdens vikt. *Förordning (2019:775)*.
+
+### 4 §
+
+Innan skjutvapen används, skall risken för att utomstående skadas särskilt beaktas. Skottlossning inom ett område där många människor bor eller vistas skall undvikas i det längsta.
+
+### 5 §
+
+Innan skott avlossas, skall tydlig varning ges genom tillrop, om det inte är uppenbart att en sådan varning skulle vara utan verkan. Om omständigheterna tillåter det, skall varningsskott först avlossas.
+
+### 6 §
+
+Vid skottlossning mot en person skall eftersträvas att denne oskadliggörs endast för tillfället.
+
+## Verkställighetsföreskrifter
+
+### 7 §
+
+Försvarsmakten får meddela de föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (1994:170)*.

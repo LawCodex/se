@@ -1,0 +1,325 @@
+---
+title: "Förordning (2001:637) om behandling av personuppgifter inom socialtjänsten"
+identifier: "SFS 2001:637"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2001-08-23
+amended_through: "SFS 2026:875"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-637.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:637"
+retrieved: 2026-10-11
+---
+# Förordning (2001:637) om behandling av personuppgifter inom socialtjänsten
+
+> Rättelseblad 2003:138 har iakttagits.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning reglerar behandlingen av personuppgifter inom socialtjänsten för Statens institutionsstyrelse, kommunala myndigheter, privat verksamhet, Inspektionen för vård och omsorg, Socialstyrelsen och Folkhälsomyndigheten enligt lagen (2001:454) om behandling av personuppgifter inom socialtjänsten. *Förordning (2026:875)*.
+
+#### 2 §
+
+Särskilda bestämmelser om behandling av personuppgifter inom socialtjänsten finns i lagen (2001:454) om behandling av personuppgifter inom socialtjänsten, socialtjänstlagen (2025:400), lagen (1993:387) om stöd och service till vissa funktionshindrade och lagen (2022:913) om sammanhållen vård- och omsorgsdokumentation. *Förordning (2025:481)*.
+
+#### 3 §
+
+*/Upphör att gälla U:2027-07-02/* Förordningen innehåller:
+
+- inledande bestämmelser (1-5 §§ ),
+
+- bestämmelser om personuppgiftsansvar (6, 11, 17 och 22 §§ ),
+
+- bestämmelser om för vilka ändamål personuppgifter får behandlas (7, 12, 18 och 23 §§ ),
+
+- bestämmelser om direktåtkomst (24 § ),
+
+- bestämmelser om sökbegrepp och samkörning (9, 10, 10 a, 15, 20, 21 och 25 §§ ),
+
+- bestämmelser om överföring av personuppgifter till tredjeland (16 § ), och
+
+- bestämmelser om bemyndiganden (26-28 §§ ).
+
+*Förordning (2023:861)*.
+
+#### 3 §
+
+*/Träder i kraft I:2027-07-02/* Förordningen innehåller:
+
+- inledande bestämmelser (1-5 §§ ),
+
+- bestämmelser om personuppgiftsansvar (6, 11, 17, 22 och 25 a §§ ),
+
+- bestämmelser om för vilka ändamål personuppgifter får behandlas (7, 12, 18, 23 och 25 b §§ ),
+
+- bestämmelser om direktåtkomst (24 och 25 c §§ ),
+
+- bestämmelser om sökbegrepp och samkörning (9-10 a, 15, 20, 21, 25 och 25 d §§ ),
+
+- bestämmelser om överföring av personuppgifter till tredjeland (16 § ), och
+
+- bestämmelser om bemyndiganden (26-28 §§ ).
+
+*Förordning (2026:875)*.
+
+### Verksamhet enligt lagen (2026:871) om utredningar för att förebygga suicid
+
+#### 4 §
+
+Har upphävts genom *förordning (2018:457)*.
+
+#### 5 §
+
+I förordningen avses med privat verksamhet yrkesmässig verksamhet som bedrivs med tillstånd av Inspektionen för vård och omsorg enligt socialtjänstlagen (2025:400) eller enligt lagen (1993:387) om stöd och service till vissa funktionshindrade och sådan privat verksamhet inom socialtjänsten som i övrigt bedrivs enligt avtal med kommunen.
+
+*Förordning (2025:481)*.
+
+### Statens institutionsstyrelse
+
+### Personuppgiftsansvar
+
+#### 6 §
+
+Statens institutionsstyrelse är personuppgiftsansvarig för den behandling av personuppgifter inom socialtjänsten som görs i dess verksamhet.
+
+### Ändamålen för behandling av personuppgifter
+
+#### 7 §
+
+Statens institutionsstyrelse får behandla personuppgifter för
+
+1. platsanvisning och institutionsplaceringar inom styrelsens verksamhetsområde,
+
+2. dokumentation av vård, behandling och behandlingsresultat samt verkställighet,
+
+3. underlag, beslut och övriga åtgärder i ärenden inom verksamhetsområdet, samt
+
+4. uppföljning, utvärdering, kvalitetssäkring och administration av verksamheten. *Förordning (2009:1141)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (2003:138)*.
+
+### Sökbegrepp
+
+#### 9 §
+
+Ett hem som drivs av Statens institutionsstyrelse får i sådan verksamhet som avses i 7 § 1-3 endast använda uppgifter om namn eller uppgifter om person-, samordnings- eller ärendenummer som sökbegrepp vid sökning efter uppgifter eller i samband med sammanställningar.
+
+### Samkörning
+
+#### 10 §
+
+Ett hem som drivs av Statens institutionsstyrelse får inte hämta personuppgifter från ett annat hem som drivs av styrelsen för behandling av uppgifter genom samkörning.
+
+#### 10 a §
+
+Har upphävts genom *förordning (2026:548)*.
+
+### Kommunal myndighet
+
+### Personuppgiftsansvar
+
+#### 11 §
+
+En kommunal myndighet är personuppgiftsansvarig för den behandling av personuppgifter inom socialtjänsten som myndigheten utför.
+
+Om behandlingen görs gemensamt för flera myndigheter inom kommunen är varje myndighet personuppgiftsansvarig för den behandling som utförs hos den myndigheten.
+
+### Ändamålen för behandling av personuppgifter
+
+#### 12 §
+
+En kommunal myndighet får behandla personuppgifter för
+
+1. handläggning av ärenden om insatser samt genomförande av insatser som följer av bestämmelserna i socialtjänstlagen (2025:400) och 2 kap. 7 § lagen (2009:47) om vissa kommunala befogenheter,
+
+2. faderskapsutredningar, utredning om vårdnad av barn, adoptionsärenden samt annan verksamhet inom familjerätten som följer av bestämmelserna i föräldrabalken,
+
+3. handläggning av ärenden och annan verksamhet som följer av bestämmelserna i lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga och lagen (2024:79) om placering av barn i skyddat boende,
+
+4. handläggning av ärenden om insatser och för särskilda uppgifter som följer av bestämmelserna i lagen (1993:387) om stöd och service till vissa funktionshindrade,
+
+5. handläggning av ärenden om tillstånd till parkering för rörelsehindrade,
+
+6. handläggning av ärenden om bistånd som lämnas av socialnämnd enligt lagstiftning om mottagande av asylsökande m.fl.,
+
+7. handläggning av ärenden om introduktionsersättning för flyktingar och vissa andra utlänningar,
+
+8. handläggning av ärenden och annan verksamhet inom socialtjänsten som utförs vid kommunal invandrarbyrå,
+
+9. handläggning av ärenden som följer av bestämmelserna i lagen (1964:167) med särskilda bestämmelser om unga lagöverträdare och körkortsförordningen (1998:980),
+
+10. tillsyn, uppföljning, utvärdering, kvalitetssäkring och administration av verksamheten, och
+
+11. handläggning av ärenden om anmälan om oro för barn som följer av bestämmelserna i socialtjänstlagen.
+
+Vid handläggning av ärenden om tillstånd till parkering för rörelsehindrade och som följer av bestämmelserna i körkortsförordningen får en kommunal myndighet inte behandla andra sådana känsliga personuppgifter som avses i 7 § första stycket 2 lagen (2001:454) om behandling av personuppgifter inom socialtjänsten än uppgifter som rör hälsa.
+
+*Förordning (2025:481)*.
+
+#### 13 §
+
+Har upphävts genom *förordning (2003:138)*.
+
+#### 14 §
+
+Har upphävts genom *förordning (2003:138)*.
+
+### Sökbegrepp
+
+#### 15 §
+
+Vid handläggning av ärenden och i verksamhet som avses i 12 § 1-9 får en kommunal myndighet endast använda uppgifter om namn eller uppgifter om person-, samordnings- eller ärendenummer som sökbegrepp vid sökning efter uppgifter eller i samband med sammanställningar.
+
+### Överföring av personuppgifter till tredjeland
+
+#### 16 §
+
+En kommunal myndighet får föra över uppgifter till tredjeland i ett ärende om fastställande av faderskap och om internationella adoptioner. *Förordning (2018:457)*.
+
+### Privat verksamhet
+
+### Personuppgiftsansvar
+
+#### 17 §
+
+En juridisk eller fysisk person som ansvarar för privat verksamhet är personuppgiftsansvarig för den behandling som görs i dess verksamhet.
+
+### Ändamålen för behandling av personuppgifter
+
+#### 18 §
+
+I privat verksamhet får personuppgifter behandlas för dokumentation av sådan vård, behandling eller omsorg av enskilda som ges inom verksamheten. Personuppgifter får även behandlas för kvalitetssäkring, administration, uppföljning och utvärdering av verksamheten. *Förordning (2025:481)*.
+
+#### 19 §
+
+Har upphävts genom *förordning (2003:138)*.
+
+### Sökbegrepp
+
+#### 20 §
+
+I privat verksamhet får endast uppgifter om namn eller uppgifter om person-, samordnings- eller ärendenummer användas som sökbegrepp vid sökning efter uppgifter eller i samband med sammanställningar.
+
+### Samkörning
+
+#### 21 §
+
+Ett boende, en öppen verksamhet eller en annan enhet i privat verksamhet får inte hämta personuppgifter från annat boende, annan öppen verksamhet eller annan enhet inom privat verksamhet för behandling av uppgifter genom samkörning.
+
+### Verksamhet enligt lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall
+
+### Personuppgiftsansvar
+
+#### 22 §
+
+Socialstyrelsen är personuppgiftsansvarig för den behandling av personuppgifter inom socialtjänsten som görs i dess verksamhet enligt lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall. *Förordning (2018:1379)*.
+
+### Ändamålen för behandling av personuppgifter
+
+#### 23 §
+
+Socialstyrelsen får behandla personuppgifter för sådan verksamhet som avses i lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall. Sådana uppgifter får behandlas endast i syfte att ge underlag till förslag om åtgärder som har som mål att förebygga att
+
+1. barn far illa, eller
+
+2. vuxna utsätts för våld eller andra övergrepp av närstående eller tidigare närstående personer. *Förordning (2018:1379)*.
+
+### Direktåtkomst
+
+#### 24 §
+
+Socialstyrelsen får i verksamhet som avses i lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall inte medge andra myndigheter eller enskilda direktåtkomst till personuppgifter. *Förordning (2018:1379)*.
+
+### Sökbegrepp
+
+#### 25 §
+
+Socialstyrelsen får i verksamhet som avses i lagen (2007:606) om utredningar för att förebygga vissa skador och dödsfall använda de sökbegrepp vid sökning efter uppgifter eller i samband med sammanställningar som behövs för utredningsverksamheten. *Förordning (2018:1379)*.
+
+### Personuppgiftsansvar
+
+#### 25 a §
+
+Folkhälsomyndigheten är personuppgiftsansvarig för den behandling av personuppgifter som görs i socialtjänsten i dess verksamhet enligt lagen (2026:871) om utredningar för att förebygga suicid. *Förordning (2026:875)*.
+
+### Ändamålen för behandling av personuppgifter
+
+#### 25 b §
+
+Folkhälsomyndigheten får behandla personuppgifter för sådan verksamhet som avses i lagen (2026:871) om utredningar för att förebygga suicid. Sådana uppgifter får behandlas endast i syfte att förebygga suicid. *Förordning (2026:875)*.
+
+### Direktåtkomst
+
+#### 25 c §
+
+Folkhälsomyndigheten får i verksamhet som avses i lagen (2026:871) om utredningar för att förebygga suicid inte medge andra myndigheter eller enskilda direktåtkomst till personuppgifter. *Förordning (2026:875)*.
+
+### Sökbegrepp
+
+#### 25 d §
+
+Folkhälsomyndigheten får i verksamhet som avses i lagen (2026:871) om utredningar för att förebygga suicid använda de sökbegrepp som behövs för utredningsverksamheten vid sökning efter uppgifter eller i samband med sammanställningar.
+
+*Förordning (2026:875)*.
+
+### Bemyndiganden
+
+#### 26 §
+
+Socialstyrelsen får, efter att ha gett Integritetsskyddsmyndigheten tillfälle att yttra sig, meddela ytterligare föreskrifter om
+
+1. sammanställning av personuppgifter enligt 7 a § lagen (2001:454) om behandling av personuppgifter inom socialtjänsten, och
+
+2. krav som gäller för den personuppgiftsansvarige enligt 9 § första stycket den lagen. *Förordning (2023:861)*.
+
+#### 27 §
+
+Socialstyrelsen får, efter att ha gett Integritetsskyddsmyndigheten tillfälle att yttra sig, meddela föreskrifter om verkställigheten av bestämmelserna i lagen (2001:454) om behandling av personuppgifter inom socialtjänsten som rör
+
+1. villkor för tilldelning av behörighet för åtkomst till uppgifter som förs helt eller delvis automatiserat i 10 § första stycket 1 den lagen, och
+
+2. dokumentation och kontroll av åtkomst i 10 § första stycket 2 och 3 den lagen.
+
+Socialstyrelsen får även, efter att ha gett Integritetsskyddsmyndigheten tillfälle att yttra sig, meddela föreskrifter om verkställigheten av bestämmelserna i lagen (2022:913) om sammanhållen vård- och omsorgsdokumentation som rör
+
+1. krav på säkerhetsåtgärder som ska gälla vid direktåtkomst eller annat elektroniskt utlämnande i 4 kap. 2 § den lagen,
+
+2. tilldelning av behörighet för åtkomst till uppgifter som förs helt eller delvis automatiserat i 4 kap. 3 § den lagen,
+
+3. dokumentation och kontroll av åtkomst i 4 kap. 4 § den lagen,
+
+4. den information som ska ges till omsorgsmottagare i 4 kap. 5 § den lagen, och
+
+5. krav på säkerhetsåtgärder i övrigt vid helt eller delvis automatiserad behandling av personuppgifter enligt den lagen.
+
+*Förordning (2023:861)*.
+
+#### 28 §
+
+Socialstyrelsen får meddela föreskrifter om verkställigheten av denna förordning. *Förordning (2023:861)*.
+
+## Övergångsbestämmelser
+
+**2001:637**
+
+1. Denna förordning träder i kraft den 1 oktober 2001.
+
+2. Hänvisningar i denna förordning till socialtjänstlagen (2001:453) skall till utgången av år 2001 i stället avse motsvarande bestämmelser i socialtjänstlagen (1980:620).
+
+**2005:662**
+
+1. Denna förordning träder i kraft den 1 oktober 2005.
+
+2. Uppgiftsskyldigheten enligt 10 a § andra stycket skall omfatta även den som vid ikraftträdandet genomgår sluten ungdomsvård, om den sammanlagda vårdtiden är minst ett år.
+
+**2026:548**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Den upphävda paragrafen gäller dock fortfarande i fråga om personer som är intagna i eller som tas in i ett särskilt ung- domshem med stöd av lagen (1998:603) om verkställighet av sluten ungdomsvård.

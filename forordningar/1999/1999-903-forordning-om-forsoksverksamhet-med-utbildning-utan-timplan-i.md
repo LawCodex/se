@@ -1,0 +1,61 @@
+---
+title: "Förordning (1999:903) om försöksverksamhet med utbildning utan timplan i grundskolan"
+identifier: "SFS 1999:903"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1999-11-18
+amended_through: "SFS 2010:339"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1999-903.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1999:903"
+retrieved: 2026-10-11
+---
+# Förordning (1999:903) om försöksverksamhet med utbildning utan timplan i grundskolan
+
+### 1 §
+
+En kommun får enligt bestämmelserna i denna förordning inom ramen för det totalt garanterade antalet timmar bedriva försöksverksamhet med utbildning i grundskolan utan att tillämpa föreskrifterna om antalet timmar för ämnen och ämnesgrupper i bilaga 3 till skollagen (1985:1100).
+
+### 2 §
+
+För att få delta i försöksverksamheten krävs att kommunen:
+
+1. redovisar hur utbildningen kommer att bedrivas under försöksverksamheten,
+
+2. samråder med berörd skolpersonal, elever och föräldrar,
+
+3. redovisar hur utbildningens kvalitet skall följas upp och utvärderas,
+
+4. redovisar hur försöksverksamheten skall organiseras,
+
+5. redovisar hur man avser att stödja de skolor som ingår i försöksverksamheten, och
+
+6. medverkar i uppföljning och utvärdering av försöksverksamheten.
+
+Kommunen får inte bedriva försöksverksamhet i större omfattning än vad Timplanedelegationen har beslutat. *Förordning (2005:141)*.
+
+### 3 §
+
+Delegationen har beslutat om vilka kommuner som får delta i försöksverksamheten. Delegationen får inte besluta att ytterligare kommuner får delta i verksamheten.
+
+*Förordning (2005:141)*.
+
+### 4 §
+
+Har upphävts genom *förordning (2005:141)*.
+
+### 5 §
+
+Högst åttio kommuner får delta i försöksverksamheten. Bland de sökande kommunerna skall delegationen göra ett för skolväsendet representativt urval som grundar sig på faktorer som kommunernas storlek och geografiska läge.
+
+### 6 §
+
+Beslut av delegationen enligt denna förordning får inte överklagas.
+
+## Övergångsbestämmelser
+
+**1999:903**
+
+Denna förordning träder i kraft den 15 december 1999 och gäller till utgången av juni 2005. Förordningen tillämpas på utbildning som anordnas från och med läsåret 2000/01.

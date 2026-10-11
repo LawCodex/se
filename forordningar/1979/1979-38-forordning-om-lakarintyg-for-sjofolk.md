@@ -1,0 +1,67 @@
+---
+title: "Förordning (1979:38) om läkarintyg för sjöfolk"
+identifier: "SFS 1979:38"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1979-02-01
+amended_through: "SFS 2013:988"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1979-38.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1979:38"
+retrieved: 2026-10-11
+---
+# Förordning (1979:38) om läkarintyg för sjöfolk
+
+### 1 §
+
+Med läkarintyg för sjöfolk avses i denna förordning läkarintyg enligt mönstringslagen (1983:929) eller fartygssäkerhetsförordningen (2003:438). *Förordning (2003:446)*.
+
+### 2 §
+
+Läkarintyg för sjöfolk får i Sverige utfärdas av den som är behörig att här utöva läkaryrket.
+
+### 3 §
+
+Chefen för utrikesdepartementet utser de läkare som utom riket får utfärda läkarintyg för sjöfolk och publicerar en förteckning över dessa läkare.
+
+### 4 §
+
+Vid läkarundersökning som skall ligga till grund för läkarintyg för sjöfolk skall sjömannen lämna en skriftlig hälsodeklaration och därvid på heder och samvete försäkra att uppgifterna i denna är riktiga. När undersökningen bara gäller syn- och hörselförmågan behöver någon hälsodeklaration dock inte lämnas.
+
+### 5 §
+
+Närmare föreskrifter om läkarundersökningen får meddelas av Transportstyrelsen efter samråd med Socialstyrelsen.
+
+Transportstyrelsen fastställer efter samråd med Socialstyrelsen formulär för läkarintyg för sjöfolk och hälsodeklaration och tillhandahåller de blanketter som behövs.
+
+*Förordning (2008:1105)*.
+
+### 6 §
+
+Ytterligare föreskrifter om kraven på syn- och hörselförmåga får meddelas av Transportstyrelsen efter att Socialstyrelsen har hörts.
+
+Transportstyrelsen får i enskilda fall efter att Socialstyrelsen har hörts besluta om undantag från föreskrifter som meddelats enligt första stycket.
+
+Transportstyrelsen får meddela föreskrifter om avgifter för prövning av en ansökan om undantag. Avgifterna får bestämmas upp till full kostnadstäckning. *Förordning (2013:988)*.
+
+### 7 §
+
+När föreskrifter utfärdas med stöd av 5 eller 6 § skall samråd också ske med berörda organisationer för redare och ombordanställda.
+
+### 8 §
+
+Bestämmelser om att i vissa fall godta andra dokument och intyg i stället för läkarintyg enligt denna förordning finns i 2 kap. 1 § andra stycket förordningen (2007:237) om behörigheter för sjöpersonal och i 3 och 3 a §§ förordningen (1984:831) om mönstring av sjömän. *Förordning (2007:240)*.
+
+### 9 §
+
+Ett beslut av Transportstyrelsen enligt denna förordning får överklagas hos regeringen. *Förordning (2008:1105)*.
+
+## Övergångsbestämmelser
+
+**1989:921**
+
+Denna förordning träder i kraft den 1 januari 1990.
+
+En föreskrift eller ett beslut som har meddelats med stöd av äldre bestämmelser och som gäller vid ikraftträdandet skall vid tillämpning av denna förordning anses ha meddelats enligt denna.

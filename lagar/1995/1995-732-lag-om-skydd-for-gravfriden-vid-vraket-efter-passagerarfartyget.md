@@ -1,0 +1,51 @@
+---
+title: "Lag (1995:732) om skydd för gravfriden vid vraket efter passagerarfartyget Estonia"
+identifier: "SFS 1995:732"
+type: act
+jurisdiction: se
+language: sv
+date: 1995-06-08
+amended_through: "SFS 2024:826"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-732.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:732"
+retrieved: 2026-10-11
+---
+# Lag (1995:732) om skydd för gravfriden vid vraket efter passagerarfartyget Estonia
+
+## 1 §
+
+I denna lag finns bestämmelser till skydd för gravfriden i vraket efter passagerarfartyget Estonia och i ett anslutande område i Östersjön. Det skyddade området är rektangulärt och har, enligt det geodetiska referenssystemet World Geodetic System 1984 (WGS 84), följande positioner som hörn.
+
+1.59 grader 23,500 minuter nordlig bredd
+
+21 grader 40,000 minuter östlig längd
+
+2.59 grader 23,500 minuter nordlig bredd
+
+21 grader 42,000 minuter östlig längd
+
+3.59 grader 22,500 minuter nordlig bredd
+
+21 grader 42,000 minuter östlig längd
+
+4.59 grader 22,500 minuter nordlig bredd
+
+21 grader 40,000 minuter östlig längd
+
+## 2 §
+
+Dykning och annan undervattensverksamhet får inte bedrivas i vraket efter passagerarfartyget Estonia eller inom det område som anges i 1 § andra stycket. Förbudet gäller dock inte verksamhet som avser att utreda förlisningen, att täcka över eller skydda vraket eller att förhindra förorening av den marina miljön från vraket, om verksamheten bedrivs av en myndighet i Estland, Finland eller Sverige eller på uppdrag av en sådan myndighet. *Lag (2021:557)*.
+
+## 3 §
+
+Den som uppsåtligen bryter mot 2 § döms till böter eller fängelse i högst två år. För försök döms till ansvar enligt 23 kap. brottsbalken.
+
+## 4 §
+
+Har upphävts genom *lag (2024:826)*.
+
+## 5 §
+
+Svensk domstol är behörig att döma över brott mot denna lag även om det inte finns domsrätt enligt 2 kap. 3 § brottsbalken. *Lag (2021:1030)*.

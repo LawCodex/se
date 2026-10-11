@@ -1,0 +1,37 @@
+---
+title: "Lag (1987:269) om kriterier för bestämmande av människans död"
+identifier: "SFS 1987:269"
+type: act
+jurisdiction: se
+language: sv
+date: 1987-05-21
+amended_through: "SFS 2020:581"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1987-269.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1987:269"
+retrieved: 2026-10-11
+---
+# Lag (1987:269) om kriterier för bestämmande av människans död
+
+## 1 §
+
+Vid tillämpning av bestämmelser i lag eller annan författning som tillskriver en människas död rättslig betydelse skall gälla att en människa är död när hjärnans samtliga funktioner totalt och oåterkalleligt har fallit bort.
+
+## 2 §
+
+Det ankommer på läkare att i överensstämmelse med vetenskap och beprövad erfarenhet fastställa att döden har inträtt.
+
+Detta skall ske, om andning och blodcirkulation upphört och stilleståndet varat så lång tid att det med säkerhet kan avgöras att hjärnans samtliga funktioner totalt och oåterkalleligt har fallit bort.
+
+Upprätthålls andning och blodcirkulation på konstgjord väg, skall dödens inträde i stället fastställas, om en undersökning av hjärnan med säkerhet visar att hjärnans samtliga funktioner totalt och oåterkalleligt har fallit bort.
+
+## 2 a §
+
+När det har fastställts att döden har inträtt får medicinska insatser påbörjas eller fortsättas, om det behövs för att bevara organ eller annat biologiskt material i avvaktan på ett transplantationsingrepp eller, med avseende på en gravid kvinna som bär på ett livsdugligt foster, för att rädda livet på det väntade barnet. Insatserna får inte pågå längre tid än 24 timmar, om det inte finns synnerliga skäl.
+
+*Lag (2022:581)*.
+
+## 3 §
+
+Om dödförklaring i vissa fall finns bestämmelser i lagen (2005:130) om dödförklaring. *Lag (2005:132)*.

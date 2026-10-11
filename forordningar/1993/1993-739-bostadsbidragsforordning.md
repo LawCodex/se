@@ -1,0 +1,87 @@
+---
+title: "Bostadsbidragsförordning (1993:739)"
+identifier: "SFS 1993:739"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1993-06-10
+amended_through: "SFS 2026:175"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-739.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:739"
+retrieved: 2026-10-11
+---
+# Bostadsbidragsförordning (1993:739)
+
+### 1 §
+
+I denna förordning ges föreskrifter om bostadsbidrag enligt socialförsäkringsbalken. *Förordning (2010:1683)*.
+
+### 1 a §
+
+Om det i kostnaderna för en bostad ingår ränta för upplånat kapital, skall vid beräkning av bostadsbidrag bortses från så stor del av räntan som motsvarar tre procent av den skuld på vilken räntan, före avdrag för eventuellt räntebidrag, beräknats.
+
+*Förordning (1996:883)*.
+
+### 1 b §
+
+Centrala studiestödsnämnden ska på begäran lämna Försäkringskassan uppgifter om utbetalda studiemedel i form av studiebidrag, utom när det gäller den del som avser tilläggsbidrag. Uppgifterna ska lämnas på medium för automatiserad behandling.
+
+Bestämmelser om skyldighet att lämna uppgifter från Skatteverkets beskattningsverksamhet finns i förordning (2026:162) om utlämnande av uppgifter från Skatteverkets beskattningsverksamhet. *Förordning (2026:175)*.
+
+### 2 §
+
+Har upphävts genom *förordning (2008:870)*.
+
+### 3 §
+
+Bidraget skall kunna lyftas den 27 i månaden. Om utbetalningsdagen infaller på en söndag, annan allmän helgdag, en lördag eller midsommarafton skall bidraget kunna lyftas närmast föregående vardag. *Förordning (1999:1014)*.
+
+### 4 §
+
+Försäkringskassan får meddela de ytterligare föreskrifter som behövs för verkställigheten av bestämmelserna i socialförsäkringsbalken om bostadsbidrag i fråga om
+
+1. ansökningsförfarandet,
+
+2. bidragsgrundande inkomst,
+
+3. beräkningen av bidragets storlek,
+
+4. beräkning av bostadskostnadens storlek,
+
+5. vad som gäller när bostaden utgör del av upplåtarens bostad, hyrs ut i andra hand eller är gemensam för flera hushåll,
+
+6. anmälningsskyldighet,
+
+7. utbetalning av bidrag,
+
+8. återbetalning av bidrag.
+
+Försäkringskassan får också meddela närmare föreskrifter om tillägg och avgift enligt 98 kap. 7 § socialförsäkringsbalken.
+
+*Förordning (2010:1683)*.
+
+## Övergångsbestämmelser
+
+**1993:739**
+
+Denna förordning träder i kraft den 1 juli 1993 och tillämpas i fråga om bidrag från och med den 1 januari 1994.
+
+Genom förordningen upphävs bostadsbidragsförordningen (1988:787) vid utgången av år 1993.
+
+**1996:883**
+
+Denna förordning träder i kraft den 1 oktober 1996 och tillämpas på bidrag som avser tid från och med den 1 januari 1997.
+
+**1999:1014**
+
+Denna förordning träder i kraft den 1 januari 2000.
+
+Bestämmelsen i 1 b § andra stycket i sin nya lydelse tillämpas första gången i fråga om räntebidrag för år 1998.
+
+**2006:1476**
+
+1. Denna förordning träder i kraft den 1 januari 2007.
+
+2. Äldre bestämmelser gäller fortfarande för rekryteringsbidrag som lämnats enligt den upphävda lagen (2002:624) om rekryteringsbidrag till vuxenstuderande.

@@ -1,0 +1,81 @@
+---
+title: "Lag (1991:1488) om handläggning av vissa ersättningar till den som tjänstgör inom totalförsvaret"
+identifier: "SFS 1991:1488"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-11-21
+amended_through: "SFS 2025:939"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-1488.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:1488"
+retrieved: 2026-10-11
+---
+# Lag (1991:1488) om handläggning av vissa ersättningar till den som tjänstgör inom totalförsvaret
+
+#### 1 §
+
+Försäkringskassan handhar frågor om familjebidrag och dagpenning till den som tjänstgör inom totalförsvaret.
+
+*Lag (2004:823)*.
+
+#### 2 §
+
+Har upphävts genom *lag (2004:823)*.
+
+#### 3 §
+
+Fordran på familjebidrag får inte överlåtas och inte heller tas i anspråk genom utmätning. *Lag (1995:309)*.
+
+#### 4 §
+
+I fråga om familjebidrag och dagpenning tillämpas bestämmelserna om ändring och omprövning samt om överklagande i 113 kap. 2-17, 19, 20 och 21 §§ socialförsäkringsbalken.
+
+Beträffande familjebidrag tillämpas dessutom följande bestämmelser i socialförsäkringsbalken:
+
+- 107 kap. 12 § om preskription,
+
+- 108 kap. 2, 11 och 22 §§ om återbetalningsskyldighet,
+
+- 108 kap. 15, 16, 19 och 21 §§ om ränta,
+
+- 110 kap. 13 § om skyldighet att lämna uppgifter,
+
+- 110 kap. 14 § 1 och 2 om utredningsåtgärder,
+
+- 110 kap. 31, 31 a och 31 c §§ och 115 kap. 4 § om skyldighet att lämna uppgifter, i de delar som gäller uppgifter som avser den försäkrade,
+
+- 110 kap. 52 § första stycket 2 och andra stycket samt 53 § om indragning eller nedsättning av ersättning,
+
+- 112 kap. 2 och 3 §§ samt 108 kap. 10 § om interimistiska beslut. *Lag (2025:939)*.
+
+## Övergångsbestämmelser
+
+**1991:1488**
+
+Denna lag träder i kraft den 1 januari 1992.
+
+### Bestämmelserna i denna lag om handhavande av familjebidrag skall inte tillämpas i den utsträckning regeringen föreskriver
+
+att familjebidragslagen (1978:520) i fråga om bestämmelserna om kommunernas skyldighet att pröva ansökningar om familjebidrag och att utge sådana bidrag skall upphöra att gälla vid en senare tidpunkt än den 1 januari 1992 eller
+
+att försvarets civilförvaltning skall handha familjebidrag efter utgången av år 1991.
+
+2004:823
+
+1. Denna lag träder i kraft den 1 januari 2005.
+
+2. Beträffande omprövning eller överklagande av beslut som har meddelats av en allmän försäkringskassa tillämpas föreskrifterna i punkt 4 ikraftträdande- och övergångsbestämmelserna till lagen (2004:781) om ändring i lagen (1962:381) om allmän försäkring. Vidare tillämpas föreskriften i punkt 5 samma ikraftträdande- och övergångsbestämmelser om avvisningsbeslut har meddelats av en allmän försäkringskassa.
+
+2007:201
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. De nya bestämmelserna tillämpas första gången på sådana återkrav som har beslutats av Försäkringskassan efter ikraftträdandet.
+
+2013:94
+
+1. Denna lag träder i kraft den 1 juli 2013.
+
+2. Äldre föreskrifter gäller för beslut som har meddelats före ikraftträdandet.

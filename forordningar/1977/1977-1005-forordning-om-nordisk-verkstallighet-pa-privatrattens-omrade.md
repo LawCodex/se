@@ -1,0 +1,49 @@
+---
+title: "Förordning (1977:1005) om nordisk verkställighet på privaträttens område"
+identifier: "SFS 1977:1005"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1977-12-01
+amended_through: "SFS 2015:765"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1977-1005.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1977:1005"
+retrieved: 2026-10-11
+---
+# Förordning (1977:1005) om nordisk verkställighet på privaträttens område
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning avser verkställighet med stöd av konventionen den 11 oktober 1977 mellan Sverige, Danmark, Finland, Island och Norge om erkännande och verkställighet av domar på privaträttens område.
+
+### 2 §
+
+Kronofogdemyndigheten för förteckning över verkställighetsmyndigheter i de nordiska länderna. Myndigheten lämnar på begäran upplysning om behörig verkställighetsmyndighet och om vad sökanden skall iakttaga vid ansökan om verkställighet.
+
+Kronofogdemyndigheten underrättar justitiedepartementen i de övriga nordiska länderna om ändringar i fråga om tingsrätternas behörighet. *Förordning (2006:757)*.
+
+## Verkställighet i Sverige
+
+### 3 §
+
+Ansökan om verkställighet enligt lagen (1977:595) om erkännande och verkställighet av nordiska domar på privaträttens område görs skriftligen hos Kronofogdemyndigheten eller den tingsrätt som är behörig att pröva ansökningen.
+
+*Förordning (2006:757)*.
+
+### 4 §
+
+Kronofogdemyndigheten för en förteckning över vilka myndigheter i de nordiska länderna som utfärdar bevis om att en exekutionstitel får verkställas eller att den kan utgöra grund för verkställighet i ursprungsstaten. Kronofogdemyndigheten lämnar på begäran upplysningar om vilken myndighet i ursprungsstaten som är behörig att utfärda sådana bevis. *Förordning (2015:765)*.
+
+## Verkställighet i annat nordiskt land
+
+### 5 §
+
+En ansökan om verkställighet av svensk exekutionstitel görs i Danmark hos fogedrett, i Finland hos tingsrätt och i Norge hos tingsrett. *Förordning (2007:66)*.
+
+### 6 §
+
+Bevis, som vid verkställighet i annat nordiskt land krävs om att exekutionstitel får verkställas eller kan utgöra grund för verkställighet i Sverige, utfärdas av Kronofogdemyndigheten. (*Förordning (2006:757)*.

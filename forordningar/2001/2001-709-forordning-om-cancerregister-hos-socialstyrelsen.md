@@ -1,0 +1,71 @@
+---
+title: "Förordning (2001:709) om cancerregister hos Socialstyrelsen"
+identifier: "SFS 2001:709"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2001-09-06
+amended_through: "SFS 2018:460"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2001-709.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2001:709"
+retrieved: 2026-10-11
+---
+# Förordning (2001:709) om cancerregister hos Socialstyrelsen
+
+## Inledning
+
+### 1 §
+
+Socialstyrelsen får föra hälsodataregister enligt 1 § lagen (1998:543) om hälsodataregister i form av ett cancerregister.
+
+## Personuppgiftsansvarig
+
+### 2 §
+
+Av 1 § lagen (1998:543) om hälsodataregister följer att Socialstyrelsen är personuppgiftsansvarig för behandlingen av personuppgifter.
+
+## Ändamål för behandling av personuppgifter
+
+### 3 §
+
+Personuppgifter i cancerregistret får behandlas för framställning av statistik, uppföljning och utvärdering av insatser för att förebygga cancersjuklighet, utvärdering av hälsokontroller samt forskning och epidemiologiska undersökningar inom cancerområdet.
+
+## Personuppgifter som får behandlas
+
+### 4 §
+
+Sådana personuppgifter får behandlas som rör patienter som diagnostiserats för tumörer eller tumörliknande tillstånd.
+
+Behandlingen får avse uppgifter om
+
+1. namn, personnummer, kön, hemortskod, vårdenhet, laboratorium och andra tumördiagnostiserande enheter samt diagnos, tumörutbredning, diagnosdatum, diagnosgrund och preparatnummer,
+
+2. folkbokföringsort, fastighetskoordinater, födelsehemort eller födelseort för den registrerade samt dennes föräldrar, medborgarskap, civilstånd, inflyttning från och utflyttning till utlandet, personnummerförändringar och dödsdatum.
+
+### 5 §
+
+Utan hinder av 4 § får de uppgifter behandlas som vid ikraftträdandet finns i Socialstyrelsens cancerregister.
+
+## Uppgiftsskyldighet
+
+### 6 §
+
+Den som bedriver verksamhet inom hälso- och sjukvården skall, för de ändamål som anges i 3 § lagen (1998:543) om hälsodataregister, lämna de uppgifter som avses i 4 § 1 till cancerregistret.
+
+Statistiska centralbyrån skall lämna uppgift om namn samt de personuppgifter som avses i 4 § 2 till cancerregistret.
+
+Socialstyrelsen får utfärda föreskrifter om hur den uppgiftsskyldighet som avses i första stycket skall fullgöras.
+
+## Information
+
+### 7 §
+
+Utöver vad som framgår av artiklarna 13 och 14 i Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) ska den som är personuppgiftsansvarig enligt denna förordning lämna information till den registrerade om
+
+1. innebörden och omfattningen av det sekretess- och säkerhetsskydd som gäller för registret, och
+
+2. vad som gäller i fråga om sökbegrepp, direktåtkomst och utlämnande på medium för automatiserad behandling.
+
+Socialstyrelsen ska på lämpligt sätt informera allmänheten om registret. *Förordning (2018:460)*.

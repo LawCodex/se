@@ -1,0 +1,77 @@
+---
+title: "/Rubriken upphör att gälla U:2027-01-01/ Lag (2000:130) om försvarsunderrättelseverksamhet /Rubriken träder i kraft I:2027-01-01/ Lag (2000:130) om utrikesunderrättelseverksamhet"
+identifier: "SFS 2000:130"
+type: act
+jurisdiction: se
+language: sv
+date: 2000-03-30
+amended_through: "SFS 2026:1577"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2000-130.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2000:130"
+retrieved: 2026-10-11
+---
+# /Rubriken upphör att gälla U:2027-01-01/ Lag (2000:130) om försvarsunderrättelseverksamhet /Rubriken träder i kraft I:2027-01-01/ Lag (2000:130) om utrikesunderrättelseverksamhet
+
+## 1 §
+
+*/Upphör att gälla U:2027-01-01/* Försvarsunderrättelseverksamhet skall bedrivas till stöd för svensk utrikes-, säkerhets- och försvarspolitik samt i övrigt för kartläggning av yttre hot mot landet. I verksamheten ingår att medverka i svenskt deltagande i internationellt säkerhetssamarbete. Försvarsunderrättelseverksamhet får endast avse utländska förhållanden.
+
+Regeringen skall bestämma försvarsunderrättelseverksamhetens inriktning. Inom ramen för denna inriktning får de myndigheter som regeringen bestämmer ange en närmare inriktning av verksamheten.
+
+Försvarsunderrättelseverksamhet skall bedrivas av den eller de myndigheter som regeringen bestämmer. *Lag (2007:664)*.
+
+## 1 §
+
+*/Träder i kraft I:2027-01-01/* Utrikesunderrättelseverksamhet ska bedrivas till stöd för svensk utrikes-, säkerhets- och försvarspolitik samt i övrigt för kartläggning av yttre hot mot landet. I verksamheten ingår att medverka i svenskt deltagande i internationellt säkerhetssamarbete. Utrikesunderrättelseverksamhet får endast avse utländska förhållanden.
+
+Regeringen ska bestämma utrikesunderrättelseverksamhetens inriktning. Inom ramen för denna inriktning får de myndigheter som regeringen bestämmer ange en närmare inriktning av verksamheten.
+
+Utrikesunderrättelseverksamhet ska bedrivas av den eller de myndigheter som regeringen bestämmer. *Lag (2026:1577)*.
+
+## 2 §
+
+*/Upphör att gälla U:2027-01-01/* Verksamheten enligt 1 § skall fullgöras genom inhämtning, bearbetning och analys av information. Underrättelser skall rapporteras till berörda myndigheter.
+
+I verksamheten används teknisk och personbaserad inhämtning.
+
+Vissa bestämmelser om teknisk inhämtning finns i lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+*Lag (2008:718)*.
+
+## 2 §
+
+*/Träder i kraft I:2027-01-01/* Verksamheten enligt 1 § ska fullgöras genom inhämtning, bearbetning och analys av information. Underrättelser ska rapporteras till berörda myndigheter.
+
+I verksamheten används teknisk och personbaserad inhämtning. Vissa bestämmelser om teknisk inhämtning finns i lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet.
+
+*Lag (2026:1577)*.
+
+## 3 §
+
+*/Upphör att gälla U:2027-01-01/* Den eller de myndigheter som skall bedriva försvarsunderrättelseverksamhet får, enligt regeringens närmare bestämmande, etablera och upprätthålla samarbete i underrättelsefrågor med andra länder och internationella organisationer. *Lag (2007:664)*.
+
+## 3 §
+
+*/Träder i kraft I:2027-01-01/* Den eller de myndigheter som ska bedriva utrikesunderrättelseverksamhet får, enligt regeringens närmare bestämmande, etablera och upprätthålla samarbete i underrättelsefrågor med andra länder och internationella organisationer. *Lag (2026:1577)*.
+
+## 4 §
+
+*/Upphör att gälla U:2027-01-01/* Inom försvarsunderrättelseverksamheten får det inte vidtas åtgärder som syftar till att lösa uppgifter som enligt lagar eller andra föreskrifter ligger inom ramen för Polismyndighetens, Säkerhetspolisens och andra myndigheters brottsbekämpande och brottsförebyggande verksamhet.
+
+Om det inte finns hinder enligt andra bestämmelser, får dock de myndigheter som bedriver försvarsunderrättelseverksamhet lämna stöd till andra myndigheters brottsbekämpande och brottsförebyggande verksamhet. *Lag (2014:687)*.
+
+## 4 §
+
+*/Träder i kraft I:2027-01-01/* Inom utrikesunderrättelseverksamheten får det inte vidtas åtgärder som syftar till att lösa uppgifter som enligt lagar eller andra föreskrifter ligger inom ramen för Polismyndighetens, Säkerhetspolisens och andra myndigheters brottsbekämpande och brottsförebyggande verksamhet.
+
+Om det inte finns hinder enligt andra bestämmelser, får dock de myndigheter som bedriver utrikesunderrättelseverksamhet lämna stöd till andra myndigheters brottsbekämpande och brottsförebyggande verksamhet. *Lag (2026:1577)*.
+
+## 5 §
+
+*/Upphör att gälla U:2027-01-01/* Den myndighet som regeringen bestämmer skall kontrollera försvarsunderrättelseverksamheten. *Lag (2007:664)*.
+
+## 5 §
+
+*/Träder i kraft I:2027-01-01/* Den myndighet som regeringen bestämmer ska kontrollera utrikesunderrättelseverksamheten. *Lag (2026:1577)*.

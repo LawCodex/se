@@ -1,0 +1,117 @@
+---
+title: "Förordning (1991:1339) om betalningsföreläggande och handräckning"
+identifier: "SFS 1991:1339"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1991-10-17
+amended_through: "SFS 2026:174"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-1339.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:1339"
+retrieved: 2026-10-11
+---
+# Förordning (1991:1339) om betalningsföreläggande och handräckning
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning är tillämplig i fråga om mål som handläggs enligt lagen (1990:746) om betalningsföreläggande och handräckning.
+
+### Ansökan
+
+#### 2 §
+
+Om en uppgift om parterna, som sökanden har lämnat i ansökningen eller på annat sätt, behöver ändras eller kompletteras, skall detta genast anmälas till Kronofogdemyndigheten. *Förordning (2006:770)*.
+
+#### 3 §
+
+Om sökanden begär ränta på huvudfordringen, bör han ange vilket belopp räntefordringen uppgår till när ansökan görs. Om någon sådan uppgift inte har lämnats, får Kronofogdemyndigheten förelägga sökanden att göra det vid påföljd att ansökningen i den delen annars avvisas. För ett sådant föreläggande gäller det som anges i 20 § första stycket lagen (1990:746) om betalningsföreläggande och handräckning. *Förordning (2006:770)*.
+
+#### 4 §
+
+Om sökandens anspråk grundas på ett löpande skuldebrev eller en annan handling, vars företeende utgör villkor för rätt att kräva betalning eller kräva fullgörelse av annan förpliktelse, skall det anges i ansökningen att anspråket grundas på en sådan handling. *Förordning (1997:376)*.
+
+#### 5 §
+
+Vid inbetalning av ansökningsavgiften ska sökanden ange svarandens personnummer eller organisationsnummer.
+
+I mål om avlägsnande behöver sådana uppgifter lämnas endast om de är kända för sökanden. *Förordning (2017:470)*.
+
+#### 6 §
+
+Kronofogdemyndigheten får medge undantag från kravet på underskrift för ansökningar som ges in elektroniskt.
+
+#### 7 §
+
+Undantag enligt 6 § får innebära tillstånd att ge in en ansökan elektroniskt utan underskrift. Ett sådant tillstånd får ges till någon som kan antas komma att på ett betryggande och tekniskt ändamålsenligt sätt ge in ett stort antal ansökningar. Tillståndet får återkallas om det finns skäl för det. *Förordning (2018:503)*.
+
+#### 8 §
+
+En ansökan om avlägsnande ska så långt möjligt innehålla uppgifter om svarandenas antal, hur länge de har funnits på platsen och om ansökan kan antas avse barn.
+
+Om sådana uppgifter om svaranden som avses i 18 § första stycket lagen (1990:746) om betalningsföreläggande och handräckning saknas eller är ofullständiga, ska sökanden ange vad han eller hon har gjort för att få fram dessa uppgifter. *Förordning (2017:470)*.
+
+#### 8 a §
+
+Om ansökan avser någon som inte har fyllt 18 år, skall Kronofogdemyndigheten genast sända en underrättelse om detta till överförmyndaren tillsammans med en kopia av ansökan.
+
+*Förordning (2006:770)*.
+
+#### 9 §
+
+Vid en ansökan om avlägsnande ska Kronofogdemyndigheten genast underrätta socialnämnden i den kommun där avlägsnandet enligt ansökan ska ske. Av underrättelsen ska det framgå om det kan antas att avlägsnandet avser barn.
+
+*Förordning (2017:470)*.
+
+#### 10 §
+
+Har upphävts genom *förordning (2006:770)*.
+
+#### 11 §
+
+Har upphävts genom *förordning (2006:770)*.
+
+### Föreläggande för svaranden m.m.
+
+#### 12 §
+
+Ett föreläggande enligt 25 § lagen (1990:746) om betalningsföreläggande och handräckning ska innehålla, förutom vad som anges i 25-27 §§ samma lag, upplysning om svarandens skyldighet enligt 32 § samma lag och information om förenklad delgivning enligt 60 a § samma lag.
+
+Kronofogdemyndigheten får meddela ytterligare föreskrifter om vilka upplysningar ett sådant föreläggande ska innehålla. *Förordning (2011:160)*.
+
+#### 13 §
+
+Har upphävts genom *förordning (2006:770)*.
+
+### Dagbok och aktbildning
+
+#### 14 §
+
+Kronofogdemyndigheten får meddela föreskrifter om hur dagbok i målen ska föras. *Förordning (2026:174)*.
+
+#### 15 §
+
+Skriftliga ansökningar och yttranden från parterna i målet skall föras samman till en akt. Delgivningsbevis skall föras samman för sig eller föras till akten. *Förordning (1993:196)*.
+
+#### 16 §
+
+Om ett mål ska överlämnas till en tingsrätt eller en annan myndighet med stöd av 36 § lagen (1990:746) om betalningsföreläggande och handräckning eller efter ansökan om återvinning, ska Kronofogdemyndigheten lämna över alla handlingar i målet inklusive delgivningsbevis. Vid behov ska Kronofogdemyndigheten ta fram utskrift av ansökan, förelägganden, beslut, utslag, dagbok och andra uppgifter som kan vara av betydelse för den fortsatta handläggningen. Handlingarna ska sedan ingå i den mottagande myndighetens akt.
+
+Första stycket gäller även när ett utslag överklagas till tingsrätten. *Förordning (2026:174)*.
+
+### Underrättelse till kreditupplysningsföretag
+
+#### 17 §
+
+Om en uppgift i ett mål om betalningsföreläggande eller handräckning har lämnats ut till ett kreditupplysningsföretag, ska Kronofogdemyndigheten genast underrätta kreditupplysningsföretaget om uppgiften blockeras med stöd av 18 § kronofogdedatalagen (2026:128). *Förordning (2026:174)*.
+
+## Övergångsbestämmelser
+
+**2026:174**
+
+1. Denna förordning träder i kraft den 2 april 2026.
+
+2. Äldre bestämmelser gäller fortfarande för uppgifter som har blockerats av Kronofogdemyndigheten med stöd av 3 kap. 3 a § den upphävda lagen (2001:184) om behandling av uppgifter i Kronofogdemyndighetens verksamhet.

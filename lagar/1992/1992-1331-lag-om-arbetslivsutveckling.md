@@ -1,0 +1,41 @@
+---
+title: "Lag (1992:1331) om arbetslivsutveckling"
+identifier: "SFS 1992:1331"
+type: act
+jurisdiction: se
+language: sv
+date: 1992-12-17
+amended_through: "SFS 1994:1675"
+department: "Arbetsmarknadsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-1331.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:1331"
+retrieved: 2026-10-11
+---
+# Lag (1992:1331) om arbetslivsutveckling
+
+### 1 §
+
+Den som av Länsarbetsnämnden anvisats till verksamhet för arbetslivsutveckling skall inte anses som arbetstagare när han deltar i verksamheten. När sådan verksamhet bedrivs på en arbetsplats, skall han dock likställas med arbetstagare vid tillämpning av 2 kap. 1--9 §§, 3 kap. 1--4 och 7--13 §§, 4 kap. 1--4 och 8--10 §§ samt 7--9 kap.
+
+arbetsmiljölagen (1977:1160). Därvid skall vad i arbetsmiljölagen sägs om arbetsgivare gälla den som upplåtit en arbetsplats för verksamhet för arbetslivsutveckling.
+
+### 2 §
+
+Den tid under vilken en arbetslös deltagit i verksamhet för arbetslivsutveckling i enlighet med länsarbetsnämndens anvisning jämställs med tid under vilken en arbetslös enligt 6 § lagen (1973:370) om arbetslöshetsförsäkring eller 6 § lagen (1973:371) om kontant arbetsmarknadsstöd skall ha utfört förvärvsarbete. Vid bestämmande av ramtid enligt samma bestämmelser räknas inte tid då den arbetslöse varit hindrad att arbeta på grund av deltagandet, i den mån tiden inte jämställs enligt vad som nyss sagts.
+
+*Lag (1994:1675)*.
+
+### 3 §
+
+Vad som föreskrivs om arbetsmarknadsutbildning i 31 § lagen (1973:370) om arbetslöshetsförsäkring och i 28 § lagen (1973:371) om kontant arbetsmarknadsstöd skall gälla också i fråga om verksamhet som avses i 1 §. *Lag (1994:1675)*.
+
+## Övergångsbestämmelser
+
+**1993:720**
+
+Denna lag träder i kraft den 1 juli 1993 och tillämpas på beslut om avstängning som grundar sig på händelser som inträffar efter ikraftträdandet.
+
+**1994:931**
+
+Denna lag träder i kraft den 1 juli 1994. De äldre bestämmelserna skall fortfarande gälla i fråga om verksamhet för arbetslivsutveckling som anvisats före ikraftträdandet.

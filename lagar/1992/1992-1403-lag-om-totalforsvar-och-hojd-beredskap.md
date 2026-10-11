@@ -1,0 +1,55 @@
+---
+title: "Lag (1992:1403) om totalförsvar och höjd beredskap"
+identifier: "SFS 1992:1403"
+type: act
+jurisdiction: se
+language: sv
+date: 1992-12-17
+amended_through: "SFS 2019:880"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1992-1403.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1992:1403"
+retrieved: 2026-10-11
+---
+# Lag (1992:1403) om totalförsvar och höjd beredskap
+
+## 1 §
+
+Totalförsvar är verksamhet som behövs för att förbereda Sverige för krig.
+
+För att stärka landets försvarsförmåga kan beredskapen höjas. Höjd beredskap är antingen skärpt beredskap eller högsta beredskap. Under högsta beredskap är totalförsvar all samhällsverksamhet som då skall bedrivas.
+
+Totalförsvar består av militär verksamhet (militärt försvar) och civil verksamhet (civilt försvar). *Lag (1996:1470)*.
+
+## 2 §
+
+Totalförsvarsresurser skall utformas så att de även kan användas vid internationella fredsfrämjande och humanitära insatser och stärka samhällets förmåga att förebygga och hantera svåra påfrestningar på samhället. *Lag (1996:1470)*.
+
+## 3 §
+
+Är Sverige i krig råder högsta beredskap.
+
+Är Sverige i krigsfara eller råder det sådana utomordentliga förhållanden som är föranledda av att det är krig utanför Sveriges gränser eller av att Sverige har varit i krig eller krigsfara, får regeringen besluta om skärpt eller högsta beredskap. *Lag (1996:1470)*.
+
+## 4 §
+
+Beslut enligt 3 § får avse en viss del av landet eller en viss verksamhet. *Lag (1996:1470)*.
+
+## 5 §
+
+När förhållanden som avses i 3 § inte längre råder, skall regeringen besluta att höjd beredskap inte längre skall gälla.
+
+*Lag (1996:1470)*.
+
+## 6 §
+
+Beslut om höjd beredskap skall tillkännages på det sätt som regeringen bestämmer. *Lag (1996:1470)*.
+
+## 7 §
+
+Vid höjd beredskap ska kommuner och regioner vidta de särskilda åtgärder i fråga om planering och inriktning av verksamheten, tjänstgöring och ledighet för personal samt användning av tillgängliga resurser som är nödvändiga för att de under de rådande förhållandena ska kunna fullgöra sina uppgifter inom totalförsvaret.
+
+Vid höjd beredskap ska de enskilda organisationer och företag som enligt överenskommelse eller på annan grund är skyldiga att fortsätta sin verksamhet i krig vidta de särskilda åtgärder i fråga om planering och inriktning av verksamheten, tjänstgöring och ledighet för personal samt användning av tillgängliga resurser som är nödvändiga för att de under de rådande förhållandena ska kunna fullgöra dessa skyldigheter.
+
+Innebörden i övrigt av att höjd beredskap råder framgår av andra författningar. *Lag (2019:880)*.

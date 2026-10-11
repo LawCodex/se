@@ -1,0 +1,35 @@
+---
+title: "Förordning (1998:796) om statlig inköpssamordning"
+identifier: "SFS 1998:796"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-06-25
+amended_through: "SFS 2010:1869"
+department: "Finansdepartementet SFÖ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-796.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:796"
+retrieved: 2026-10-11
+---
+# Förordning (1998:796) om statlig inköpssamordning
+
+## 1 §
+
+I denna förordning finns bestämmelser om samordning av statliga myndigheters inköp i syfte att åstadkomma besparingar för staten.
+
+Förordningen gäller för myndigheter under regeringen.
+
+*Förordning (2010:1869)*.
+
+## 2 §
+
+För varor och tjänster som myndigheterna upphandlar ofta, i stor omfattning eller som uppgår till stora värden skall det finnas ramavtal eller andra gemensamma avtal som effektiviserar upphandlingarna. Därvid skall små och medelstora företags möjligheter att delta i upphandlingar beaktas.
+
+## 3 §
+
+En myndighet skall använda de avtal som avses i 2 § om myndigheten inte finner att en annan form av avtal sammantaget är bättre.
+
+## 4 §
+
+Kammarkollegiet ska verka för att avtal som avses i 2 § träffas. När en myndighet avser att upphandla utan att använda de avtal som avses i 2 §, ska Kammarkollegiet underrättas om skälen till detta. *Förordning (2010:1869)*.

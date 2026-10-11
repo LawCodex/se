@@ -1,0 +1,59 @@
+---
+title: "Lag (1993:305) om rätt att förrätta vigsel inom trossamfund"
+identifier: "SFS 1993:305"
+type: act
+jurisdiction: se
+language: sv
+date: 1993-05-06
+amended_through: "SFS 2014:380"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1993-305.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1993:305"
+retrieved: 2026-10-11
+---
+# Lag (1993:305) om rätt att förrätta vigsel inom trossamfund
+
+### 1 §
+
+Ett trossamfund får ges tillstånd att förrätta vigsel, om samfundets verksamhet är varaktig och samfundet har en sådan organisation att det på goda grunder kan antas att äktenskapsbalkens bestämmelser om vigsel och därmed sammanhängande åtgärder kommer att tillämpas. Något tillstånd ska inte ges om det på goda grunder kan antas att befattningshavare inom samfundet kommer att genomföra ceremonier som ger upphov till sådana äktenskapsliknande förbindelser som avses i 4 kap. 4 c § andra stycket brottsbalken i fall där någon av parterna är under 18 år eller inte samtycker till att ingå förbindelsen.
+
+Om tillstånd har getts, får vigsel inom samfundet förrättas av den som har förordnats enligt 2 § att vara vigselförrättare.
+
+Frågor om tillstånd enligt första stycket prövas av Kammarkollegiet efter ansökan av samfundet. Ett tillstånd gäller tills vidare. *Lag (2014:380)*.
+
+### 2 §
+
+Kammarkollegiet får, efter ansökan av ett trossamfund som har fått tillstånd att förrätta vigsel, förordna en präst eller någon annan befattningshavare inom samfundet att vara vigselförrättare.
+
+Innan en person förordnas till vigselförrättare ska Kammarkollegiet pröva att han eller hon har de kunskaper som behövs för uppdraget. Kammarkollegiet får uppdra åt trossamfundet att utföra denna prövning. Något förordnande ska inte ges om det på goda grunder kan antas att personen kommer att genomföra ceremonier som ger upphov till sådana äktenskapsliknande förbindelser som avses i 4 kap. 4 c § andra stycket brottsbalken i fall där någon av parterna är under 18 år eller inte samtycker till att ingå förbindelsen.
+
+Ett förordnande att vara vigselförrättare gäller tills vidare, om det inte har begränsats att gälla till en angiven dag.
+
+*Lag (2014:380)*.
+
+### 3 §
+
+Om Kammarkollegiet finner att ett trossamfund som fått tillstånd att förrätta vigsel inte längre uppfyller kraven enligt 1 §, skall Kammarkollegiet återkalla tillståndet.
+
+Uppfyller en vigselförrättare inte längre kraven enligt 2 § andra stycket eller missköter vigselförrättaren sin uppgift, skall Kammarkollegiet återkalla förordnandet att vara vigselförrättare. I samband med en sådan återkallelse skall Kammarkollegiet utreda om det finns grund för att enligt första stycket återkalla samfundets tillstånd att förrätta vigsel.
+
+Ett förordnande att vara vigselförrättare skall återkallas av Kammarkollegiet, om samfundet begär det.
+
+Om en vigselförrättare avlider, skall samfundet snarast anmäla detta till Kammarkollegiet. *Lag (2004:145)*.
+
+### 4 §
+
+Ett trossamfund som har fått tillstånd att förrätta vigsel skall hålla Kammarkollegiet underrättat om vem som är behörig att företräda samfundet samt om samfundets postadress.
+
+Den som har förordnats till vigselförrättare skall hålla Kammarkollegiet underrättat om sin postadress.
+
+### 5 §
+
+Beslut av Kammarkollegiet enligt denna lag får inte överklagas.
+
+## Övergångsbestämmelser
+
+**1993:305**
+
+Ett förordnande att vara vigselförrättare som har meddelats före ikraft- trädandet och som inte har upphört att gälla före den tidpunkten gäller som om det hade meddelats med tillämpning av denna lag.

@@ -1,0 +1,61 @@
+---
+title: "Lag (1991:673) om dubbelbeskattningsavtal mellan Sverige och Frankrike"
+identifier: "SFS 1991:673"
+type: act
+jurisdiction: se
+language: sv
+date: 1991-05-30
+amended_through: "SFS 2026:1706"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1991-673.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1991:673"
+retrieved: 2026-10-11
+---
+# Lag (1991:673) om dubbelbeskattningsavtal mellan Sverige och Frankrike
+
+> Bilagan är inte med här
+
+### 1 §
+
+Det avtal för att undvika dubbelbeskattning och förhindra skatteflykt beträffande skatter på inkomst och på förmögenhet som Sverige och Frankrike undertecknade den 27 november 1990, i den lydelse som detta har genom det protokoll om ändring som undertecknades den 22 maj 2023, ska tillsammans med det protokoll och det tilläggsavtal som är fogade till avtalet gälla som lag här i landet. Avtalets, protokollets och tilläggsavtalets innehåll framgår av bilagan till denna lag.
+
+*Lag (2023:698)*.
+
+### 2 §
+
+Avtalets beskattningsregler skall tillämpas endast i den mån dessa medför inskränkning av den skattskyldighet i Sverige som annars skulle föreligga.
+
+### 3 §
+
+Om en person som är bosatt i Sverige förvärvar inkomst som enligt bestämmelserna i artikel 8 punkt 1, artikel 13 punkt 5 eller artikel 19 punkterna 1 och 2 i avtalet beskattas endast i Frankrike ska följande iakttas. Beskattas personen i fråga till statlig inkomstskatt för annan inkomst som är att hänföra till förvärvsinkomst uträknas först den statliga inkomstskatt som skulle ha påförts om den skattskyldiges hela förvärvsinkomst beskattats endast i Sverige. Därefter fastställs hur stor procent den sålunda uträknade skatten utgör av hela den beskattningsbara förvärvsinkomst på vilken skatten beräknats.
+
+Med den därmed erhållna procentsatsen tas skatt ut på den förvärvsinkomst som ska beskattas i Sverige. Förfarandet ska användas endast om detta leder till högre skatt. *Lag (2011:1342)*.
+
+### 4 §
+
+Ärende, som enligt artikel 24 punkt 6 i avtalet skall avgöras genom ömsesidig överenskommelse mellan de behöriga myndigheterna i de avtalsslutande staterna, skall på svensk sida handläggas av Skatteverket. Är sådant ärende av särskild betydelse eller annars av sådan beskaffenhet att det bör avgöras av regeringen, skall dock Skatteverket med eget yttrande överlämna ärendet till finansdepartementet.
+
+Skatteverkets beslut enligt denna lag får inte överklagas.
+
+*Lag (2003:702)*.
+
+## Övergångsbestämmelser
+
+**1991:673**
+
+1. Denna lag träder i kraft den dag regeringen bestämmer.
+
+2. Genom lagen upphävs kungörelsen (1972:433) om tillämpning av avtal mellan Sverige och Frankrike för undvikande av dubbelbeskattning och fastställande av bestämmelser angående ömsesidig handräckning beträffande direkta skatter.
+
+3. Den upphävda kungörelsen skall dock alltjämt tillämpas till dess regeringen annorledes bestämmer.
+
+**2023:698**
+
+1. Denna lag träder i kraft den 1 oktober 2026.
+
+2. Lagen tillämpas i fråga om
+
+a) källskatter, på belopp som betalas eller tillgodoförs den 1 januari det år som följer närmast efter den dag då lagen träder i kraft eller senare,
+
+b) andra skatter på inkomst, på skatt som påförs för beskattningsår som börjar den 1 januari det år som följer närmast efter den dag då lagen träder i kraft eller senare.

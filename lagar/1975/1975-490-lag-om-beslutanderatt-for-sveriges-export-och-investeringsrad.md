@@ -1,0 +1,57 @@
+---
+title: "Lag (1975:490) om beslutanderätt för Sveriges export- och investeringsråd beträffande handelssekreterare m.m."
+identifier: "SFS 1975:490"
+type: act
+jurisdiction: se
+language: sv
+date: 1975-06-05
+amended_through: "SFS 2018:786"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1975-490.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1975:490"
+retrieved: 2026-10-11
+---
+# Lag (1975:490) om beslutanderätt för Sveriges export- och investeringsråd beträffande handelssekreterare m.m.
+
+### 1 §
+
+Enligt de närmare föreskrifter regeringen beslutar får Sveriges export- och investeringsråd
+
+1. planera och leda handelssekreterarnas verksamhet,
+
+2. besluta om handelssekreterares anställnings- och arbetsvillkor, i den mån dessa inte bestäms genom avtal eller det enligt särskilda bestämmelser är en myndighet som har beslutanderätt, dock inte i frågor om tillsättning av eller skiljande från tjänst, eller om disciplinansvar, åtalsanmälan, avstängning eller läkarundersökning,
+
+3. besluta om statliga bidrag till språkutbildning med inriktning på affärsspråk.
+
+Vid utövande av en befogenhet som rådet har enligt första stycket, ska rådet i sak tillämpa de föreskrifter som skulle gälla för en statlig förvaltningsmyndighet i motsvarande fall.
+
+*Lag (2012:536)*.
+
+### 2 §
+
+Förvaltningslagen (2017:900) tillämpas vid handläggning av ärenden hos Sveriges export- och investeringsråd enligt 1 §.
+
+Beslut i sådana ärenden får överklagas hos regeringen, om något annat inte följer av
+
+- lagen (1971:309) om behörighet för allmän förvaltningsdomstol att pröva vissa mål,
+
+- lagen (1987:439) om inskränkning i rätten att överklaga,
+
+- andra föreskrifter. *Lag (2018:786)*.
+
+### 3 §
+
+Vad någon i samband med Sveriges export- och investeringsråds befattning med handelssekreterares verksamhet eller på grund av uppdrag hos rådet har fått veta om enskilda företags eller sammanslutningars affärs- eller driftförhållanden får han eller hon inte obehörigen yppa eller utnyttja. *Lag (2012:536)*.
+
+## Övergångsbestämmelser
+
+**1986:1172**
+
+Denna lag träder i kraft den 1 januari 1987. I fråga om beslut som har meddelats före ikraftträdandet gäller dock äldre föreskrifter.
+
+**2012:536**
+
+1. Denna lag träder i kraft den 1 januari 2013.
+
+2. För sådant som någon har erfarit med anledning av Sveriges exportråds verksamhet gäller dock 3 § i sin äldre lydelse.

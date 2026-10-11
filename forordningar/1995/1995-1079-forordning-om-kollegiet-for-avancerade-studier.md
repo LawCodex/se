@@ -1,0 +1,56 @@
+---
+title: "Förordning (1995:1079) om Kollegiet för avancerade studier"
+identifier: "SFS 1995:1079"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1995-09-07
+amended_through: "SFS 2017:205"
+reprinted: "SFS 1997:1303"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1995-1079.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1995:1079"
+retrieved: 2026-10-11
+---
+# Förordning (1995:1079) om Kollegiet för avancerade studier
+
+## Inledande bestämmelser
+
+### 1 §
+
+Vid Uppsala universitet finns Kollegiet för avancerade studier. *Förordning (2017:205)*.
+
+## Uppgifter
+
+### 2 §
+
+Kollegiet är ett institut för avancerade studier inom främst samhällsvetenskap och humaniora. Kollegiet skall i internationell samverkan bedriva verksamhet i form av gästforskarprogram och tematiska forskningsprogram. Kollegiet skall också medverka i utbildning på forskarnivå.
+
+*Förordning (2007:426)*.
+
+## Organisation
+
+### 3 §
+
+Kollegiet leds av en styrelse. Styrelsen består av en ordförande och sex andra ledamöter. Samtliga utses av styrelsen för Uppsala universitet för en tid av högst tre år. Fem av ledamöterna skall utses efter förslag av Lunds universitet, Göteborgs universitet, Stockholms universitet, Umeå universitet och Linköpings universitet som lämnar förslag på en ledamot var.
+
+En styrelseledamot får inte utses för mer än två mandatperioder i följd. *Förordning (1997:1303)*.
+
+### 4 §
+
+Under kollegiets styrelse finns det en föreståndare.
+
+Föreståndaren anställs tills vidare för en tid av högst sex år genom beslut av styrelsen. *Förordning (2011:1109)*.
+
+### 5 §
+
+Den som har varit anställd som föreståndare i sex år och som på grund av den anställningen frånträtt en anställning som professor ska ha rätt till anställning som professor vid kollegiet. *Förordning (2011:1109)*.
+
+## Redovisning
+
+### 6 §
+
+Kollegiets styrelse beslutar i frågor som rör budget och verksamhetsplanering samt avger årsredovisning, delårsrapport och budgetunderlag till Uppsala universitet.
+
+Universitetet skall i årsredovisning, delårsrapport och budgetunderlag m.m. enligt förordningen (2000:605) om årsredovisning och budgetunderlag redovisa kollegiets verksamhet särskilt. *Förordning (2000:608)*.

@@ -1,0 +1,137 @@
+---
+title: "Förordning (1989:548) om tillstånd för anställning på fartyg"
+identifier: "SFS 1989:548"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1989-06-08
+amended_through: "SFS 2025:1530"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1989-548.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1989:548"
+retrieved: 2026-10-11
+---
+# Förordning (1989:548) om tillstånd för anställning på fartyg
+
+### Inledande bestämmelse
+
+#### 1 §
+
+I lagen (1989:532) om tillstånd för anställning på fartyg ges bestämmelser om tillstånd för en utlänning att ha anställning som avser befattning på svenskt fartyg i utrikes trafik (anställningstillstånd).
+
+### Undantag från kravet på anställningstillstånd
+
+#### 2 §
+
+En utlänning behöver inte ha anställningstillstånd om han eller hon
+
+1. har arbetstillstånd som gäller för anställning inom sjömansyrket,
+
+2. enligt 5 kap. 2 § första stycket 5 eller 3 § utlänningsförordningen (2006:97) är undantagen från skyldigheten att ha arbetstillstånd, eller
+
+3. i tolv månader under de senaste 18 månaderna haft befattning på svenskt fartyg,
+
+4. efter senaste inträdet i svensk arbetslöshetskassa för sjömän varit medlem i minst tolv månader och under en ramtid av tolv månader omedelbart före arbetslöshetens inträde utfört förvärvsarbete såsom arbetstagare i minst fem månader samt är anmäld vid den offentliga arbetsförmedlingen.
+
+Med tid för befattning på svenskt fartyg enligt första stycket 3 jämställs väntetid enligt 3 § sjömanslagen (1973:282) och tid, under vilken sjömannen i pågående anställning har semester eller ledighet till följd av sjukdom eller skada.
+
+*Förordning (2007:916)*.
+
+#### 3 §
+
+En utlänning får befrias från skyldigheten att ha anställningstillstånd
+
+1. för resa till närmaste bestämmelsehamn, eller
+
+2. för en tid av högst 30 dagar eller för resa till närmaste lastnings- eller lossningshamn som fartyget anlöper under resan eller, om sådan hamn inte anlöps under denna tid, till nästa hamn.
+
+Beslut om befrielse får meddelas i efterhand och tiden för befrielse får förlängas, om det finns särskilda skäl.
+
+Befrielse från tillståndsskyldigheten får medges endast om utlänningens arbetsgivare har åtagit sig att, om utlänningen inte väljer att stanna i den hamn där han lämnar anställningen, bekosta utlänningens återresa till den hamn där han tillträtt anställningen eller resa till en närmare belägen plats efter det att giltighetstiden för befrielsen gått ut utan att anställningstillstånd har beviljats.
+
+### Beslutande myndighet
+
+#### 4 §
+
+Ärenden om anställningstillstånd och befrielse från tillståndsskyldigheten enligt 3 § prövas av Arbetsförmedlingen.
+
+Sådana ärenden ska prövas av handläggare med kunskap om sjöarbetsförhållanden (sjöarbetsförmedling).
+
+*Förordning (2007:916)*.
+
+### Ansökan om anställningstillstånd
+
+#### 5 §
+
+En ansökan om anställningstillstånd ges in till Arbetsförmedlingen. Arbetsförmedlingen ska säkerställa att ärendehanteringen enligt denna förordning samordnas nationellt.
+
+*Förordning (2007:916)*.
+
+### Handläggningen
+
+#### 6 §
+
+Innan ett ärende om anställningstillstånd avgörs ska berörda svenska organisationer av redare och ombordanställda få tillfälle att yttra sig. *Förordning (2007:916)*.
+
+### Särskilt medgivande
+
+#### 7 §
+
+Om ett fartygs redare eller ägare helt eller delvis har upplåtit driften av fartyget till en utlänning, får Transportstyrelsen, om det finns särskilda skäl, efter ansökan av redaren eller, om denne är utlänning, efter ansökan av ägaren medge att 1 § lagen (1989:532) om tillstånd för anställning på fartyg inte ska gälla i fråga om anställning för befattning på fartyget eller inom avdelning av fartyget. Medgivandet ska begränsas till viss tid och får förenas med de villkor som behövs. *Förordning (2025:1530)*.
+
+#### 7 a §
+
+Innan ett ärende enligt 7 § avgörs ska Transportstyrelsen ge berörda svenska organisationer för redare och ombordanställda och Arbetsförmedlingen tillfälle att yttra sig. *Förordning (2025:1530)*.
+
+#### 7 b §
+
+Transportstyrelsen ska med eget yttrande överlämna ett ärende enligt 7 § till regeringen för prövning, om
+
+1. någon av de ombordanställdas organisationer har motsatt sig bifall till ansökan, eller
+
+2. ärendet bedöms ha större principiell betydelse eller allmän räckvidd. *Förordning (2025:1530)*.
+
+#### 7 c §
+
+Transportstyrelsens beslut enligt 7 § får överklagas till regeringen. *Förordning (2025:1530)*.
+
+#### 7 d §
+
+Transportstyrelsen får meddela föreskrifter om avgift för prövning av en ansökan om medgivande enligt 7 §.
+
+*Förordning (2025:1530)*.
+
+### Omprövning m.m.
+
+#### 8 §
+
+Arbetsförmedlingens beslut enligt denna förordning ska omprövas hos myndighetens centrala enhet för omprövning, om det begärs av den som beslutet angår.
+
+En begäran om omprövning ska ske skriftligt. Skrivelsen ska ges in till Arbetsförmedlingen och ska ha kommit in dit inom tre veckor från den dag då den som begär omprövning fick del av beslutet. *Förordning (2007:916)*.
+
+#### 8 a §
+
+Arbetsförmedlingens beslut enligt denna förordning får inte överklagas. *Förordning (2007:916)*.
+
+### Indrivning
+
+#### 9 §
+
+Bestämmelser om begäran om indrivning m. m. finns i 4--9 §§ indrivningsförordningen (1993:1229). Att den betalningsskyldige skall uppmanas att betala fordringen innan ansökan om indrivning görs framgår av 3 § nämnda förordning.
+
+Indrivning behöver inte begäras för en fordran som understiger 100 kronor om indrivning inte krävs från allmän synpunkt.
+
+*Förordning (1993:1253)*.
+
+### Föreskrifter
+
+#### 10 §
+
+Arbetsförmedlingen får, efter samråd med Transportstyrelsen, Migrationsverket, andra myndigheter som berörs samt redarnas och de ombordanställdas organisationer, meddela de närmare föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (2008:1156)*.
+
+## Övergångsbestämmelser
+
+**1989:995**
+
+Denna förordning träder i kraft den 1 januari 1990. Ansökningar om medgivande enligt 7 § som har kommit in till arbetsmarknadsstyrelsen men som inte har prövats slutligt skall vid ikraftträdandet överlämnas till sjöfartsverket.

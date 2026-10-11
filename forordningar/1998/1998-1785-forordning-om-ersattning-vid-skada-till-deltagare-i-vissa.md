@@ -1,0 +1,79 @@
+---
+title: "Förordning (1998:1785) om ersättning vid skada till deltagare i vissa arbetsmarknadspolitiska program m.m."
+identifier: "SFS 1998:1785"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1998-12-17
+amended_through: "SFS 2017:1162"
+department: "Arbetsmarknadsdepartementet AA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1998-1785.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1998:1785"
+retrieved: 2026-10-11
+---
+# Förordning (1998:1785) om ersättning vid skada till deltagare i vissa arbetsmarknadspolitiska program m.m.
+
+### 1 §
+
+Ersättning av statsmedel för skada som omfattas av bestämmelserna om arbetsskadeförsäkring i socialförsäkringsbalken lämnas enligt denna förordning till den som
+
+1. deltar i ett arbetsmarknadspolitiskt program, dock inte stöd till start av näringsverksamhet, och får aktivitetsstöd, utvecklingsersättning eller etableringsersättning enligt förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser,
+
+2. utan att få aktivitetsstöd eller utvecklingsersättning
+
+a) deltar i jobbgarantin för ungdomar och är under 18 år, eller
+
+b) deltar i jobb- och utvecklingsgarantin, eller
+
+3. före anvisning till ett arbetsmarknadspolitiskt program efter beslut av Arbetsförmedlingen deltar i ett obligatoriskt studiebesök eller besök för kartläggning av sökandens yrkeskunskaper.
+
+Ersättning lämnas enligt denna förordning till en deltagare i ett arbetsmarknadspolitiskt program enligt första stycket 1 även när deltagaren är avstängd från rätt till aktivitetsstöd, utvecklingsersättning eller etableringsersättning, och när deltagaren inte får sådan ersättning på grund av att ersättningen minskas med de belopp som han eller hon för samma dag får lön eller andra anställningsförmåner från en arbetsgivare. *Förordning (2017:1162)*.
+
+### 2 §
+
+Ersättning lämnas i enlighet med bestämmelserna i kollektivavtalet Avtal om ersättning vid personskada (PSA).
+
+### 3 §
+
+Ansökan om ersättning ska ges in till Arbetsförmedlingen.
+
+*Förordning (2007:922)*.
+
+### 4 §
+
+Ersättning beslutas och betalas ut av Kammarkollegiet.
+
+*Förordning (2002:248)*.
+
+### 5 §
+
+Arbetsförmedlingen får efter samråd med Kammarkollegiet meddela de föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (2007:922)*.
+
+## Övergångsbestämmelser
+
+**1998:1785**
+
+Denna förordning träder i kraft den 1 januari 1999, då förordningen (AMSFS 1992:5) om ersättning vid ideell skada till elev i arbetsmarknadsutbildning m.m. skall upphöra att gälla.
+
+Den upphävda förordningen gäller dock fortfarande i fråga om
+
+**2000:645**
+
+Denna förordning träder i kraft den 1 augusti 2000. Äldre föreskrifter gäller fortfarande i fråga om skada som har inträffat före ikraftträdandet.
+
+**2006:1554**
+
+1. Denna förordning träder i kraft den 1 januari 2007.
+
+2. Den äldre lydelsen gäller fortfarande för den som anvisats friåret.
+
+**2010:1707**
+
+Denna förordning träder i kraft den 1 januari 2011. Äldre föreskrifter gäller fortfarande i fråga om skadefall som har inträffat före ikraftträdandet.
+
+**2017:1162**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller för den som när skadefallet inträffade hade en etableringsplan enligt den upphävda lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare.

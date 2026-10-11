@@ -1,0 +1,51 @@
+---
+title: "Lag (1994:588) om utbildning inom ramen för internationellt militärt samarbete"
+identifier: "SFS 1994:588"
+type: act
+jurisdiction: se
+language: sv
+date: 1994-06-02
+amended_through: "SFS 2016:647"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1994-588.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1994:588"
+retrieved: 2026-10-11
+---
+# Lag (1994:588) om utbildning inom ramen för internationellt militärt samarbete
+
+### 1 §
+
+Regeringen får sända en väpnad styrka utomlands för att delta i utbildning inom ramen för internationellt militärt samarbete. *Lag (2016:647)*.
+
+### 2 §
+
+Den som i Sverige eller utomlands ska delta i utbildning inom ramen för internationellt militärt samarbete och som inte är anställd i Försvarsmakten ska ha samtyckt till att delta i utbildningen.
+
+Samtycke krävs dock inte i fråga om sådan utbildning som
+
+```
+enligt 5 kap.   3 § lagen (1994:1809) om totalförsvarsplikt 
+```
+
+ingår i grundutbildning eller repetitionsutbildning.
+
+*Lag (2016:647)*.
+
+### 3 §
+
+En totalförsvarspliktig som under sin grundutbildning enligt lagen (1994:1809) om totalförsvarsplikt deltar i annan utbildning inom ramen för internationellt militärt samarbete än sådan som avses i 5 kap. 3 § nämnda lag ska även då anses fullgöra grundutbildningen.
+
+En totalförsvarspliktig som fullgjort grundutbildningen och som deltar i annan utbildning inom ramen för internationellt militärt samarbete än sådan som avses i 5 kap. 3 § lagen om totalförsvarsplikt ska anses fullgöra repetitionsutbildning.
+
+*Lag (2016:647)*.
+
+### 4 §
+
+Har upphävts genom *lag (2004:1003)*.
+
+## Övergångsbestämmelser
+
+**1994:2064**
+
+Denna lag träder i kraft den 1 juli 1995. Äldre bestämmelser tillämpas beträffande den som före ikraftträdandet antagits till grundutbildning enligt lagen (1980:1021) om militär grundutbildning för kvinnor.

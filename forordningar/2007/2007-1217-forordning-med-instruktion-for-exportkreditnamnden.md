@@ -1,0 +1,167 @@
+---
+title: "Förordning (2007:1217) med instruktion för Exportkreditnämnden"
+identifier: "SFS 2007:1217"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-29
+amended_through: "SFS 2026:803"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1217.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1217"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1217) med instruktion för Exportkreditnämnden
+
+## Uppgifter
+
+### 1 §
+
+Exportkreditnämnden ska främja svensk export och import genom att utfärda garantier.
+
+Myndigheten ansvarar för att, i enlighet med de närmare föreskrifter som regeringen meddelar, utfärda statliga kredit- och investeringsförsäkringar (s.k. statsgarantier) enligt
+
+1. förordningen (2007:656) om exportkreditgaranti,
+
+2. förordningen (2005:746) om investeringsgaranti,
+
+3. förordningen (2022:1360) om kreditgaranti för att säkra tillgången på råvaror,
+
+4. förordningen (2024:102) om särskilda exportkreditgarantier för Ukraina, och
+
+5. förordningen (2025:786) om särskilda exportkreditgarantier för försvarsexport till den ukrainska staten.
+
+Myndigheten får lämna garanti för sådana refinansieringslån som ges för reglering av förfallande fordringar som har garanterats inom ramen för den statliga exportkreditgarantigivningen.
+
+Om ett ärende som avses i andra stycket är av större vikt eller väsentlig betydelse, får myndigheten med eget yttrande hänskjuta ärendet till regeringens prövning. *Förordning (2025:787)*.
+
+### 1 a §
+
+Exportkreditnämnden ansvarar för att besluta om och betala ut biståndsmedel som kombineras med exportfinansiering enligt förordningen (2025:790) om biståndsmedel i kombination med exportfinansiering. *Förordning (2025:792)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. pröva förutsättningarna för beviljande av garanti,
+
+2. verka för att garantierna utformas med beaktande av de villkor som erbjuds i exportföretagens viktigare konkurrensländer och verka för konkurrensneutralitet mellan garantiinstituten,
+
+3. verka för att små och medelstora företag har tillgång till exportkreditgarantier,
+
+4. vid beviljande av garanti iaktta målet att garantiverksamheten totalt sett ska vara självbärande över tiden,
+
+5. sprida riskerna i engagemanget, eftersträva riskdelning och vidta åtgärder för att minska riskkoncentrationen,
+
+6. bedriva en effektivt skadeförebyggande och skadereglerande verksamhet med syfte att begränsa förlusterna,
+
+7. vidta de åtgärder i övrigt som behövs till tryggande av statens rätt med undantag av förhandlingar inom ramen för den s.k. Parisklubben,
+
+8. informera om de garantiformer myndigheten erbjuder och om de allmänna förutsättningar och villkor som gäller för att få garanti,
+
+9. se till att villkoren för garantierna stämmer överens med de internationella överenskommelser som Sverige har ingått om statsstödda exportkrediter och förmedla den information som behövs för tillämpningen av Sveriges överenskommelser,
+
+10. verka för att det generationsmål för miljöarbetet och de miljökvalitetsmål som riksdagen har fastställt nås och vid behov föreslå åtgärder för miljöarbetets utveckling,
+
+11. lämna det underlag till Riksgäldskontoret som den myndigheten behöver för att fullgöra sin rapporteringsskyldighet till regeringen,
+
+12. lämna en redovisning till regeringen vid två tillfällen varje år, senast den 1 mars i samband med att myndigheten lämnar sitt budgetunderlag och senast den 10 augusti, av hur exportkreditgarantiramen och investerings-garantiramen har utnyttjats och en bedömning av hur stora garantiramarna bör vara under nästkommande år, och
+
+13. bedriva ett systematiskt arbete för att säkerställa ett tillfredsställande skydd av verksamheten, inklusive informationssäkerhet, cybersäkerhet och verksamhetskontinuitet. *Förordning (2026:803)*.
+
+### 2 a §
+
+Exportkreditnämnden ska i sin årsredovisning redovisa det totala antalet garanterade affärer och den samlade garantivolymen, fördelat efter region och bransch, antalet nya kunder bland små och medelstora företag samt vilka åtgärder myndigheten har vidtagit för att nå ut till dessa företag. I årsredovisningen ska även myndighetens återförsäkringar på den privata marknaden redovisas, inklusive omfattning, motiv, typ av garantiåtaganden och en bedömning av hur återförsäkringarna påverkar risken i den samlade garantiverksamheten.
+
+*Förordning (2026:803)*.
+
+### 3 §
+
+Myndigheten ska integrera ett jämställdhets- och ett hållbarhetsperspektiv i hela sin verksamhet. Förenta nationernas (FN) Agenda 2030 och de globala målen för hållbar utveckling ska vara vägledande för detta arbete.
+
+Myndigheten ska i sitt arbete med hållbart företagande följa Organisationen för ekonomiskt samarbete och utvecklings (OECD) rekommendationer om korruption vid statsstödda exportkrediter och gemensamma förhållningssätt för exportkreditinstitut, samt bidra till en hållbar skuldsituation genom att följa OECD:s riktlinjer om hållbar långivning.
+
+Myndigheten ska säkerställa att den exportfrämjande verksamheten bedrivs i enlighet med FN:s principer för företag och mänskliga rättigheter, OECD:s riktlinjer för multinationella företag samt principerna om hållbart företagande i FN:s Global Compact. *Förordning (2021:125)*.
+
+## Tjänsteexport
+
+### 3 a §
+
+Myndigheten får bedriva tjänsteexport som är direkt kopplad till myndighetens kärnverksamhet inom ramen för de uppgifter och verksamhetsområden som anges i denna instruktion eller i annan förordning. *Förordning (2021:125)*.
+
+## Samverkan
+
+### 4 §
+
+Myndigheten ska samverka med Aktiebolaget Svensk Exportkredit i frågor som rör exportkrediter enligt förordningen (1981:665) om exportkreditfinansiering med statligt stöd.
+
+Myndigheten ska samverka med andra svenska exportfrämjande aktörer och vara en del av Sveriges samlade exportfrämjande. Myndigheten ska bedriva verksamheten så att den kan ta tillvara samarbetsmöjligheter med de myndigheter och organisationer som har till uppgift att nationellt stödja företagsutveckling och internationalisering, inklusive genom systemexport. *Förordning (2026:803)*.
+
+### 4 a §
+
+Myndigheten ska i fråga om sitt miljöarbete rapportera till Naturvårdsverket och samråda med verket om vilken rapportering som behövs. *Förordning (2011:86)*.
+
+### 4 b §
+
+Exportkreditnämnden ska, inom ramen för sitt uppdrag och vid behov i samverkan med andra myndigheter, säkerställa ett effektivt genomförande av restriktiva åtgärder som har beslutats av EU. För att främja efterlevnaden av EU:s sanktionsförordningar och den svenska sanktionslagstiftningen ska myndigheten vidta lämpliga förebyggande åtgärder.
+
+*Förordning (2026:803)*.
+
+## Ledning
+
+### 5 §
+
+Myndigheten leds av en styrelse.
+
+### 6 §
+
+Styrelsen ska bestå av högst tio ledamöter.
+
+Om ett ärende är så brådskande att styrelsen inte hinner sammanträda för att behandla det, får ärendet avgöras av ordföranden samt minst tre övriga ledamöter, bland dem generaldirektören. Om styrelsens beslut inte kan avvaktas utan väsentlig olägenhet för myndighetens verksamhet får generaldirektören ensam avgöra ärendet. Sådana beslut ska anmälas vid nästa sammanträde med styrelsen.
+
+## Anställningar och uppdrag
+
+### 7 §
+
+Generaldirektören är myndighetschef.
+
+## Personalansvarsnämnd
+
+### 8 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd
+
+## Tillämpligheten av vissa förordningar
+
+### 9 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 10 §
+
+I samband med förhandlingar med gäldenärer och gäldenärsländer om betalning av garanterade fordringar får myndigheten efter överenskommelse med ägaren till en ogaranterad fordran, om det finns särskilda skäl, även inkludera sådan fordran i myndighetens förhandlingsansträngningar. Myndigheten får ta ut och disponera avgifter för sådan medverkan. Avgifterna ska lägst täcka kostnaderna för denna medverkan. Avgifterna beslutas i varje särskilt fall av myndigheten.
+
+Senast den 28 februari året efter budgetåret ska myndigheten redovisa den del av garantiavgiften som överstiger kostnaden för den förväntade förlusten mot en inkomsttitel på statens budget. Överskottet beräknas genom att inbetalda garantiavgifter som överstiger förväntad förlust minskas med de kostnader som myndigheten har haft för premiematchning.
+
+Garantier som kan förtidsinlösas och som löper med högre premie än förväntad förlust, redovisas årligen mot en inkomsttitel.
+
+Myndigheten får göra undantag för regressrätten enligt 10 § förordningen (2011:211) om utlåning och garantier om det förbättrar statens möjligheter att återvinna skadebeloppet.
+
+*Förordning (2011:300)*.
+
+## Undantag från myndighetsförordningen
+
+### 11 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+- 12 § om styrelsens beslutsförhet,
+
+- 29 § om ärendeförteckning, och
+
+- 30 § om överklagande av beslut i ärenden om föreskrifter.
+
+*Förordning (2026:803)*.

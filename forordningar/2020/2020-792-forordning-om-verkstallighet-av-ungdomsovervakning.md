@@ -1,0 +1,107 @@
+---
+title: "Förordning (2020:792) om verkställighet av ungdomsövervakning"
+identifier: "SFS 2020:792"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-09-17
+amended_through: "SFS 2026:1571"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-792.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:792"
+retrieved: 2026-10-11
+---
+# Förordning (2020:792) om verkställighet av ungdomsövervakning
+
+### 1 §
+
+Denna förordning innehåller bestämmelser som kompletterar lagen (2020:616) om verkställighet av ungdomsövervakning. Uttryck som används i förordningen har samma innebörd och tillämpningsområde som i lagen.
+
+## Nöjdförklaring
+
+### 2 §
+
+Den som tar emot en nöjdförklaring enligt 4 § lagen (2020:616) om verkställighet av ungdomsövervakning ska dokumentera uppgifter om
+
+1. den dömdes identitet,
+
+2. den dom eller det beslut som nöjdförklaringen avser,
+
+3. när och på vilket sätt nöjdförklaringen har lämnats,
+
+4. huruvida den dömde har biträtts av tolk vid nöjdförklaringen,
+
+5. vittnets namn, och
+
+6. vem som har tagit emot förklaringen.
+
+### 3 §
+
+När Kriminalvården har tagit emot en nöjdförklaring, ska myndigheten så snart som möjligt underrätta den domstol som har meddelat domen eller beslutet.
+
+Om domen eller beslutet har överklagats av den dömde, ska myndigheten i stället så snart som möjligt underrätta den domstol som ska pröva överklagandet.
+
+### 4 §
+
+När domstolen har tagit emot en nöjdförklaring, ska domstolen så snart som möjligt underrätta Kriminalvården.
+
+Om domen eller beslutet har överklagats av den dömde, ska domstolen så snart som möjligt underrätta den domstol som ska pröva överklagandet.
+
+## Särskild koordinator och biträdande koordinator
+
+### 5 §
+
+Till särskild koordinator eller biträdande koordinator ska en tjänsteman vid Kriminalvården eller en annan lämplig person förordnas. *Förordning (2026:1571)*.
+
+### 6 §
+
+Kriminalvården får entlediga koordinatorn och i stället förordna någon annan till särskild koordinator eller biträdande koordinator. *Förordning (2026:1571)*.
+
+### 6 a §
+
+En biträdande koordinator har rätt till ersättning för sitt uppdrag. Kriminalvården prövar frågor om och betalar ut sådan ersättning. Om den biträdande koordinatorn är en tjänsteman vid Kriminalvården som fullgör uppdraget i tjänsten, lämnas dock inte någon ersättning.
+
+Kriminalvården får meddela föreskrifter om ersättningens storlek. *Förordning (2026:1571)*.
+
+## Ersättning till den som biträder vid tillsynen över den dömde
+
+### 6 b §
+
+Det som anges om ersättning till en biträdande koordinator enligt 6 a § gäller också den som med stöd av 21 a § lagen (2020:616) om verkställighet av ungdomsövervakning har förordnats att biträda vid tillsynen över den dömde. *Förordning (2026:1571)*.
+
+## Särskild handläggare
+
+### 7 §
+
+Till särskild handläggare ska det utses en tjänsteman vid socialnämnden i den kommun som enligt socialtjänstlagen (2025:400) har ansvar för den dömde.
+
+Den särskilda handläggaren ska medverka vid verkställighetsplaneringen. Handläggaren ska redovisa socialtjänstens bedömning av vilka åtgärder och insatser som bör ingå i den individuella verkställighetsplanen.
+
+*Förordning (2025:503)*.
+
+## Underrättelse om omhändertagande
+
+### 8 §
+
+Polismyndigheten ska omedelbart efter det att en dömd har tillfälligt omhändertagits enligt 24 § lagen (2020:616) om verkställighet av ungdomsövervakning underrätta Kriminalvården om datum och tidpunkt för omhändertagandet.
+
+## Journal
+
+### 9 §
+
+För den vars dom på ungdomsövervakning verkställs ska Kriminalvården föra en journal.
+
+## Uppgifter om var den dömde befinner sig
+
+### 10 §
+
+I 5 kap. 9 § lagen (2018:1699) om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område finns bestämmelser om hur länge uppgifter om den dömde som tagits fram genom elektronisk övervakning får behandlas.
+
+*Förordning (2026:108)*.
+
+## Bemyndigande
+
+### 11 §
+
+Kriminalvården får meddela föreskrifter om verkställigheten av lagen (2020:616) om verkställighet av ungdomsövervakning och föreskrifter om verkställigheten av denna förordning.

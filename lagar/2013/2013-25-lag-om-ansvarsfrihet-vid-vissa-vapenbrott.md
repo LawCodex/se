@@ -1,0 +1,38 @@
+---
+title: "Lag (2013:25) om ansvarsfrihet vid vissa vapenbrott"
+identifier: "SFS 2013:25"
+type: act
+jurisdiction: se
+language: sv
+date: 2013-01-31
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-25.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:25"
+retrieved: 2026-10-11
+---
+# Lag (2013:25) om ansvarsfrihet vid vissa vapenbrott
+
+## 1 §
+
+Den som innehar ett skjutvapen eller ammunition utan att ha rätt till det ska inte dömas till ansvar för detta enligt 9 kap. 1 § eller 2 § första stycket d vapenlagen (1996:67), om han eller hon frivilligt lämnar in eller låter lämna in vapnet eller ammunitionen till en polismyndighet under tiden mars-maj 2013.
+
+Det som sägs om skjutvapen i denna lag gäller även sådana föremål som anges i 1 kap. 3 § vapenlagen.
+
+## 2 §
+
+Den som lämnar in eller låter lämna in skjutvapen eller ammunition enligt 1 § har rätt att vara anonym.
+
+## 3 §
+
+Skjutvapen och ammunition som har lämnats in enligt 1 § tillfaller staten.
+
+Första stycket gäller inte om egendomen har lämnats in utan ägarens samtycke och ägaren gör anspråk på egendomen. Om egendomens ägare är känd, ska ett sådant anspråk göras inom en månad från det att ägaren fick del av en underrättelse från polismyndigheten om att egendomen lämnats in till myndigheten. Om ägaren inte är känd, ska anspråket göras inom tre månader från det att egendomen lämnades in.
+
+## 4 §
+
+Skjutvapen och ammunition som har tillfallit staten enligt 3 § ska förstöras, om egendomen inte behövs för musealt eller militärt ändamål eller för Statens kriminaltekniska laboratoriums verksamhet.
+
+## 5 §
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar föreskrifter om hanteringen av skjutvapen och ammunition som har lämnats in enligt denna lag.

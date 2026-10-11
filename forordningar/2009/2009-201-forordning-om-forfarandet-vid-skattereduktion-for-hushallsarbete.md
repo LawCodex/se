@@ -1,0 +1,47 @@
+---
+title: "Förordning (2009:201) om förfarandet vid skattereduktion för hushållsarbete"
+identifier: "SFS 2009:201"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-03-19
+amended_through: "SFS 2014:1459"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-201.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:201"
+retrieved: 2026-10-11
+---
+# Förordning (2009:201) om förfarandet vid skattereduktion för hushållsarbete
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning gäller vid tillämpning av lagen (2009:194) om förfarandet vid skattereduktion för hushållsarbete.
+
+#### 2 §
+
+Har upphävts genom *förordning (2014:1459)*.
+
+### Indrivning av fordran för återbetalning
+
+#### 3 §
+
+Bestämmelser om begäran om indrivning m.m. finns i 4-9 §§ indrivningsförordningen (1993:1229). Av 3 § samma förordning framgår att den betalningsskyldige ska uppmanas att betala fordringen innan ansökan om indrivning görs.
+
+Indrivning behöver inte begäras för en fordran som understiger 100 kronor om indrivning inte krävs från allmän synpunkt.
+
+### Bemyndigande
+
+#### 4 §
+
+Skatteverket får meddela ytterligare föreskrifter om verkställigheten av lagen (2009:194) om förfarandet vid skattereduktion för hushållsarbete. *Förordning (2014:1459)*.
+
+## Övergångsbestämmelser
+
+**2014:1459**
+
+1. Denna förordning träder i kraft den 1 januari 2015.
+
+2. Den upphävda paragrafen gäller fortfarande för begäran om utbetalning som avser arbete som har betalats av köparen före den 1 april 2015.

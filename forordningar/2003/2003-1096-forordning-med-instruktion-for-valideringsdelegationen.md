@@ -1,0 +1,115 @@
+---
+title: "Förordning (2003:1096) med instruktion för Valideringsdelegationen"
+identifier: "SFS 2003:1096"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2003-12-04
+amended_through: "SFS 2006:1365"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-1096.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:1096"
+retrieved: 2026-10-11
+---
+# Förordning (2003:1096) med instruktion för Valideringsdelegationen
+
+#### 1 §
+
+Valideringsdelegationen har till uppgift att under åren 2004-2007 i fråga om validering av vuxnas kunskaper och kompetens
+
+- främja kvalitet, legitimitet och likvärdighet,
+
+- bedriva och stödja utveckling av metoder och verksamhetsformer,
+
+- stärka och främja ett regionalt samarbete,
+
+- informera, samt
+
+- utforma förslag om vilka åtgärder som kan behöva vidtas för att säkerställa en verksamhet med validering.
+
+#### 2 §
+
+Följande bestämmelser i verksförordningen (1995:1322) skall tillämpas på myndigheten:
+
+18 § om myndighetens organisation,
+
+24 § om föredragning,
+
+26 § om vem som får begära in upplysningar och yttranden,
+
+29 § om inhämtande av uppgifter,
+
+30 § om ärendeförteckning,
+
+31 § om myndighetens beslut, och
+
+35 § om överklagande. *Förordning (2006:1365)*.
+
+### Organisation
+
+#### 3 §
+
+Myndigheten leds av en delegation som skall bestå av högst elva personer. En av ledamöterna skall vara ordförande.
+
+#### 4 §
+
+Vid myndigheten skall det finnas en direktör.
+
+I övrigt bestämmer myndigheten sin organisation.
+
+### Samverkan
+
+#### 5 §
+
+Myndigheten skall samverka med arbetslivet och utbildningsväsendet.
+
+Myndigheten får vid behov inrätta referensgrupper där företrädare för myndigheter, kommuner, landsting, organisationer eller företag ingår.
+
+### Delegationens ansvar och uppgifter
+
+#### 6 §
+
+Delegationen har det ansvar för verksamheten och de uppgifter som anges i 6-9, 11, 13 och 15 §§ verksförordningen (1995:1322).
+
+#### 7 §
+
+Delegationen är beslutför när ordföranden och minst hälften av övriga ledamöter är närvarande.
+
+Delegationen får överlåta till direktören att besluta i sådana ärenden som är av det slaget att de inte behöver prövas av delegationen.
+
+### Direktörens ansvar och uppgifter
+
+#### 8 §
+
+Direktören ansvarar för den löpande verksamheten enligt de riktlinjer och direktiv som delegationen beslutar om.
+
+#### 9 §
+
+Direktören skall biträda delegationen och föreslå de åtgärder som direktören finner motiverade.
+
+### Förordnanden och anställningar
+
+#### 10 §
+
+Ordförande och övriga ledamöter i delegationen skall utses av regeringen för en bestämd tid.
+
+#### 11 §
+
+Direktören skall anställas genom beslut av regeringen.
+
+Övrig personal anställs av myndigheten.
+
+### Överklagande
+
+#### 12 §
+
+Myndighetens beslut i andra ärenden än anställningsärenden får inte överklagas. *Förordning (2006:1365)*.
+
+Övriga beslut får inte överklagas.
+
+## Övergångsbestämmelser
+
+**2006:1365**
+
+Denna förordning träder i kraft den 1 januari 2007. Äldre föreskrifter gäller fortfarande för överklagande av sådana beslut i anställningsärenden som har meddelats före ikraftträdandet.

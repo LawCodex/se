@@ -1,0 +1,221 @@
+---
+title: "Förordning (2017:1180) om förvaltningen av kärnavfallsfondens medel"
+identifier: "SFS 2017:1180"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-11-23
+amended_through: "SFS 2026:868"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-1180.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:1180"
+retrieved: 2026-10-11
+---
+# Förordning (2017:1180) om förvaltningen av kärnavfallsfondens medel
+
+### 1 §
+
+Denna förordning gäller förvaltningen av de medel som har avsatts i en särskild fond enligt lagen (2006:647) om finansiering av kärntekniska restprodukter.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+## Ordförklaringar
+
+### 2 §
+
+Med derivatinstrument, företagsgrupp, penningmarknads- instrument, värdepappersfond och överlåtbart värdepapper avses i denna förordning detsamma som i lagen (2004:46) om värdepappersfonder. *Förordning (2026:868)*.
+
+### 2 a §
+
+Med specialfond, EES-baserad alternativ investeringsfond och AIF-förvaltare avses i denna förordning detsamma som i lagen (2013:561) om förvaltare av alternativa investeringsfonder. *Förordning (2026:868)*.
+
+### 3 §
+
+Med emittent, kreditinstitut, reglerad marknad och utländskt kreditinstitut avses i denna förordning detsamma som i lagen (2007:528) om värdepappersmarknaden. *Förordning (2026:868)*.
+
+### 4 §
+
+Förkortningen EES betyder i denna förordning Europeiska ekonomiska samarbetsområdet.
+
+### 5 §
+
+I övrigt har ord och uttryck i denna förordning samma betydelse som i lagen (2006:647) om finansiering av kärntekniska restprodukter.
+
+## Kärnavfallsfonden förvaltar kärnavfallsfonden
+
+### 6 §
+
+Medlen i den fond som avses i 5 a § lagen (2006:647) om finansiering av kärntekniska restprodukter (kärnavfallsfonden) ska förvaltas av myndigheten Kärnavfallsfonden. Bestämmelser om myndigheten finns i förordningen (2007:1055) med instruktion för Kärnavfallsfonden.
+
+## Övergripande krav på förvaltningen
+
+### 7 §
+
+Fondmedlen ska förvaltas
+
+1. på ett aktsamt sätt så att de med hög sannolikhet räcker till för det förväntade behovet av utbetalningar från fonden, har en väl avvägd risknivå och ger en tillfredsställande betalningsberedskap, och
+
+2. på ett ansvarsfullt sätt med hänsyn till miljöaspekter och sociala aspekter, utan att kraven i 1 åsidosätts.
+
+## Tillåtna placeringar
+
+### 8 §
+
+Av varje tillståndshavares andel av fondmedlen ska ett belopp som motsvarar summan av det diskonterade värdet av de förväntade nettoutbetalningarna av fondmedel under innevarande kalenderår och de närmast följande nio kalenderåren, dock minst sextio procent av tillståndshavarens andel av fondmedlen, vara placerade
+
+1. på räntebärande konto i Riksgäldskontoret eller på konto i ett kreditinstitut eller ett utländskt kreditinstitut,
+
+2. i skuldförbindelser utfärdade av svenska staten eller en utländsk stat,
+
+3. i skuldförbindelser utgivna enligt lagen (2003:1223) om utgivning av säkerställda obligationer eller motsvarande utländska skuldförbindelser,
+
+4. i andra likvida skuldförbindelser med låg kreditrisk,
+
+5. i andra likvida penningmarknadsinstrument än sådana instrument som avses i 2, om
+
+a) kreditrisken är låg, eller
+
+b) instrumentet och emissionen eller emittenten uppfyller de krav som anges i 5 kap. 4 § lagen (2004:46) om värdepappersfonder,
+
+6. i sådana fondandelar som avses i 9 § 4, om fonden placerar medel endast
+
+a) på sådana konton eller i sådana tillgångar som avses i 1-5 eller 7, eller
+
+b) i fondandelar i någon annan fond som placerar medel endast på sådana konton eller i sådana tillgångar som avses i 1-5 eller 7, eller
+
+7. i derivatinstrument vars underliggande tillgångar utgörs av eller hänför sig till
+
+a) skuldförbindelser eller penningmarknadsinstrument enligt 2-5,
+
+b) räntesatser,
+
+c) växelkurser,
+
+d) utländska valutor, eller
+
+e) finansiella index för räntesatser eller valutor.
+
+Med undantag från sådana penningmarknadsinstrument som avses i första stycket 5 b ska derivatinstrument enligt första stycket 7 omsättas på en sådan reglerad marknad som avses i 10 § första stycket.
+
+Om kravet i första stycket inte är uppfyllt ska Kärnavfallsfonden vidta rättelse så snart som möjligt i enlighet med kravet i 7 § 1 på aktsam förvaltning. *Förordning (2026:868)*.
+
+### 9 §
+
+Fondmedel som inte är placerade enligt 8 § får endast placeras i likvida finansiella tillgångar som utgörs av
+
+1. överlåtbara värdepapper,
+
+2. penningmarknadsinstrument,
+
+3. derivatinstrument, eller
+
+4. andelar i
+
+a) värdepappersfonder,
+
+b) fondföretag som avses i artikel 1.2 i Europaparlamentets och rådets direktiv 2009/65/EG av den 13 juli 2009 om samordning av lagar och andra författningar som avser företag för kollektiva investeringar i överlåtbara värdepapper (fondföretag), eller
+
+c) specialfonder och EES-baserade alternativa investeringsfonder som förvaltas av en auktoriserad AIF- förvaltare och som uppfyller kraven i 4 kap. 2 § andra meningen 1-3 lagen (2013:561) om förvaltare av alternativa investeringsfonder. *Förordning (2026:868)*.
+
+## Överlåtbara värdepapper och penningmarknadsinstrument
+
+### 10 §
+
+Placering av fondmedel enligt 8 § första stycket 4 eller 5 eller 9 § 1 eller 2 får endast avse penningmark- nadsinstrument som är, eller skuldförbindelser och andra överlåtbara värdepapper som är eller inom ett år från emissionen avses bli,
+
+1. upptagna till handel på en reglerad marknad eller en motsvarande marknad utanför EES, eller
+
+2. föremål för regelbunden handel vid någon annan marknad som är reglerad och öppen för allmänheten.
+
+Första stycket gäller inte placering i sådana penningmarknadsinstrument som avses i 8 § första stycket 5 b. *Förordning (2026:868)*.
+
+### 11 §
+
+Överlåtbara värdepapper och penningmarknadsinstrument från en och samma emittent får inte uppgå till mer än fem procent av fondens värde.
+
+Överlåtbara värdepapper och penningmarknadsinstrument från en och samma emittent får dock uppgå till
+
+1. etthundra procent av fondens värde, om de är utgivna eller garanterade av svenska staten,
+
+2. högst trettiofem procent av fondens värde, om de är utgivna eller garanterade av en stat, en kommun eller en statlig eller kommunal myndighet i ett land inom EES eller av en mellanstatlig organisation som en eller flera stater inom EES är medlemmar i,
+
+3. högst tjugofem procent av fondens värde, om
+
+a) de består av skuldförbindelser utgivna enligt lagen (2003:1223) om utgivning av säkerställda obligationer eller av motsvarande utländska skuldförbindelser, och
+
+b) det sammanlagda värdet av sådana skuldförbindelser är högst åttio procent av fondens värde, och
+
+4. högst tio procent av fondens värde i andra fall än de som anges i 1-3, om det sammanlagda värdet av sådana tillgångar som har högre värde än det som anges i första stycket är högst fyrtio procent av fondens värde.
+
+### 12 §
+
+Fondmedlen får inte placeras i överlåtbara värdepapper och penningmarknadsinstrument som är utgivna eller garanterade av ett företag som bedriver eller ingår i en företagsgrupp där något annat företag bedriver kärnteknisk verksamhet enligt lagen (1984:3) om kärnteknisk verksamhet eller motsvarande verksamhet i ett annat land.
+
+### 13 §
+
+Kärnavfallsfonden får inte förvärva aktier med sådan rösträtt som gör det möjligt för myndigheten att utöva ett väsentligt inflytande över ledningen av ett företag.
+
+## Derivatinstrument
+
+### 14 §
+
+Placering av fondmedel i derivatinstrument enligt 8 § första stycket 7 eller 9 § 3 får göras endast i syfte att begränsa risker och effektivisera förvaltningen av fondmedlen. *Förordning (2026:868)*.
+
+### 15 §
+
+Placering av fondmedel enligt 9 § 3 får endast avse derivatinstrument, om de omsätts på en sådan reglerad marknad som avses i 10 § första stycket och de underliggande tillgångarna utgörs av eller hänför sig till
+
+a) någon sådan tillgång som anges i 9 §,
+
+b) finansiella index,
+
+c) räntesatser,
+
+d) växelkurser, eller
+
+e) utländska valutor. *Förordning (2026:868)*.
+
+### 16 §
+
+Trots kraven i 8 § första stycket 7 och 15 § får fond- medel placeras i derivatinstrument som handlas direkt mellan parterna, om
+
+1. motparten omfattas av tillsyn och tillhör de kategorier av företag som godkänts som motparter av Finansinspektionen, och
+
+2. derivatinstrumenten
+
+a) är föremål för en daglig, tillförlitlig och kontrollerbar värdering, och
+
+b) vid varje tidpunkt på Kärnavfallsfondens begäran kan säljas, lösas in eller avslutas genom en utjämnande transaktion till ett rimligt värde. *Förordning (2026:868)*.
+
+### 17 §
+
+I fråga om derivatinstrument som inte är indexbaserade, ska de begränsningar som anges i 11 och 12 §§ också tillämpas i fråga om exponering mot en emittent som har gett ut överlåtbara värdepapper eller penningmarknadsinstrument som utgör en underliggande tillgång i derivatinstrument.
+
+### 18 §
+
+Vid placering i derivatinstrument får exponeringen mot en och samma motpart uppgå till högst
+
+1. tio procent av fondens värde, om motparten är ett svenskt kreditinstitut eller ett utländskt kreditinstitut med säte inom EES eller som omfattas av tillsynsregler som motsvarar dem som fastställs i EU:s lagstiftning, eller
+
+2. fem procents av fondens värde i andra fall.
+
+## Begränsning av emittentrisker
+
+### 19 §
+
+Exponeringar mot ett och samma företag, eller mot företag i en och samma företagsgrupp, får tillsammans inte överstiga 20 procent av fondens värde genom placeringar
+
+a) i överlåtbara värdepapper, penningmarknadsinstrument och derivatinstrument, eller
+
+b) på konto i ett kreditinstitut eller ett utländskt kreditinstitut. *Förordning (2026:868)*.
+
+## Organisation och redovisning av medelsförvaltningen
+
+### 20 §
+
+Kärnavfallsfondens medelsförvaltning ska organiseras och redovisas på ett sådant sätt att det framgår
+
+1. hur fondmedel som är hänförliga till kärnavfallsavgifter är fördelade på tillståndshavarna, och
+
+2. hur stor del av fondmedlen som är hänförliga till avgifter enligt lagen (1988:1597) om finansiering av hanteringen av visst radioaktivt avfall m.m.

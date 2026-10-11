@@ -1,0 +1,145 @@
+---
+title: "Förordning (2014:1079) med instruktion för Statens historiska museer"
+identifier: "SFS 2014:1079"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-09-11
+amended_through: "SFS 2026:1475"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-1079.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:1079"
+retrieved: 2026-10-11
+---
+# Förordning (2014:1079) med instruktion för Statens historiska museer
+
+## Uppgifter
+
+### 1 §
+
+Statens historiska museer har till uppgift att främja kunskapen om och intresset för Sveriges historia och att bevara och utveckla det kulturarv som myndigheten förvaltar. Myndigheten ska verka för att dess verksamhet ska vara en angelägenhet för alla människor i samhället.
+
+I myndigheten ingår Statens historiska museum, Livrustkammaren, Kungl. myntkabinettet - Sveriges ekonomiska museum, Sveriges museum om Förintelsen och Skoklosters slott.
+
+Myndigheten förvaltar Stiftelsen Hallwylska museet.
+
+*Förordning (2022:580)*.
+
+### 2 §
+
+Statens historiska museers verksamhetsområde är Sveriges historia, byggd främst på de samlingar som myndigheten förvaltar. *Förordning (2017:1261)*.
+
+### 3 §
+
+Samlingsområdet för Statens historiska museum omfattar främst arkeologiskt material samt kyrklig konsthistoria.
+
+Samlingsområdet för Livrustkammaren omfattar föremål från den forna arsenalen, de kungliga livrust-, kläd- och skattkamrarna och hovstallet samt jämförliga föremålsgrupper av främst personhistorisk karaktär.
+
+Samlingsområdet för Kungl. myntkabinettet - Sveriges ekonomiska museum omfattar mynt och andra betalningsmedel samt medaljer och andra föremål med numismatisk eller finanshistorisk anknytning.
+
+Samlingsområdet för Sveriges museum om Förintelsen omfattar föremål, dokument och annat material som belyser Förintelsens historiska sammanhang, däribland vittnesmål från överlevande med anknytning till Sverige samt från deras anhöriga och efterlevande.
+
+De samlingar som hör till Skoklosters slott omfattar företrädesvis konst, konsthantverk, vapen, möbler och annan inredning samt boksamlingar med anknytning till slottsbyggnaden och dess användning. *Förordning (2022:580)*.
+
+### 4 §
+
+Myndigheten ska bedriva arkeologisk uppdragsverksamhet.
+
+### 5 §
+
+Myndigheten ska särskilt
+
+1. vårda, förteckna, vetenskapligt bearbeta och genom nyförvärv berika de samlingar som har anförtrotts myndigheten,
+
+2. förvalta och vårda de fornfynd som Riksantikvarieämbetet beslutar att tillföra myndigheten,
+
+3. hålla ett urval av samlingarna tillgängligt för allmänheten samt bedriva utställningsverksamhet och annan pedagogisk verksamhet,
+
+4. stödja regionala och lokala museer inom sitt verksamhetsområde,
+
+5. verka för ökad kunskap grundad på forskning och samverkan med andra, exempelvis universitet och högskolor, och förmedla kunskap inom sitt verksamhetsområde, och
+
+6. bedriva internationellt och interkulturellt utbyte och samarbete. *Förordning (2017:1261)*.
+
+### 6 §
+
+Utöver de uppgifter som myndigheten har enligt 1-5 §§ får den tillhandahålla varor samt åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde. *Förordning (2026:1475)*.
+
+## Rapportering
+
+### 7 §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs.
+
+### 8 §
+
+Myndigheten ska rapportera uppgifter om sin besöksutveckling till Myndigheten för kulturanalys.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2026:1475)*.
+
+### 9 §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1475)*.
+
+## Ledning
+
+### 10 §
+
+Myndigheten leds av en myndighetschef.
+
+### 11 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst sex ledamöter. *Förordning (2022:580)*.
+
+## Anställningar och uppdrag
+
+### 12 §
+
+Överintendenten är myndighetschef.
+
+## Personalansvarsnämnd
+
+### 13 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 14 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 15 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 5 § 3 och 4 och för lokaler.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 4 och 6 §§.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1475)*.
+
+### 16 §
+
+För barn och unga under 19 år ska myndigheten ha fri entré till alla utställningar. *Förordning (2026:1475)*.
+
+## Undantag från myndighetsförordningen
+
+### 17 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning.

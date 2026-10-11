@@ -1,0 +1,85 @@
+---
+title: "Förordning (2019:167) om vissa officiella beteckningar"
+identifier: "SFS 2019:167"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-03-21
+amended_through: "SFS 2025:959"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-167.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:167"
+retrieved: 2026-10-11
+---
+# Förordning (2019:167) om vissa officiella beteckningar
+
+### 1 §
+
+Denna förordning innehåller bestämmelser som kompletterar mönsterskyddslagen (1970:485) och lagen (1970:498) om skydd för vapen och vissa andra officiella beteckningar.
+
+*Förordning (2025:959)*.
+
+### 2 §
+
+Frågor om sådana tillstånd att använda svensk officiell beteckning som avses i mönsterskyddslagen (1970:485) och lagen (1970:498) om skydd för vapen och vissa andra officiella beteckningar prövas av
+
+1. Patent- och registreringsverket när det gäller
+
+a) statsvapen, statsflaggor eller andra statsemblem, statliga kontroll- eller garantibeteckningar, andra beteckningar som syftar på svenska staten och därigenom ger ett mönster eller ett kännetecken en officiell karaktär, eller
+
+b) beteckningar som lätt kan förväxlas med sådana beteckningar som avses i a,
+
+2. berörd länsstyrelse när det gäller landskaps-, läns- eller häradsvapen eller därmed jämförliga vapen, eller beteckningar som lätt kan förväxlas med sådana vapen, och
+
+3. fullmäktige i berörd kommun eller nämnd som kommunfullmäktige bestämmer när det gäller andra kommunala vapen, eller beteckningar som lätt kan förväxlas med sådana vapen.
+
+Behörig länsstyrelse i fråga om landskapsvapen är den länsstyrelse som har sitt säte inom landskapet eller länsstyrelsen i det län som innehåller den största delen av landskapet. Innan ärenden om landskapsvapen avgörs ska behörig länsstyrelse samråda med annan länsstyrelse som ärendet rör.
+
+### 3 §
+
+En ansökan om tillstånd som avses i 2 § ska vara skriftlig och innehålla
+
+1. sökandens namn eller företagsnamn och adress,
+
+2. en tydlig uppgift om det mönster eller kännetecken som ansökan avser,
+
+3. uppgift om de varuslag eller tjänster som mönstret eller kännetecknet ska användas för, eller om de förhållanden under vilka statsvapen annars ska användas i näringsverksamhet, och
+
+4. de skäl som sökanden anger som stöd för sin ansökan.
+
+Till ansökan ska en tydlig avbildning av mönstret eller känne- tecknet bifogas.
+
+### 4 §
+
+Patent- och registreringsverket ska ta ut en avgift för att pröva en ansökan enligt 2 § 1. Bestämmelserna i 9-14 §§ avgiftsförordningen (1992:191) och avgiftsklass 3 ska då tillämpas.
+
+### 5 §
+
+På begäran av den myndighet som prövar en ansökan enligt denna förordning ska Riksarkivet yttra sig i ärendet. Ansökan får inte bifallas utan att ett sådant yttrande har inhämtats, om inte ärendet uppenbarligen saknar heraldiskt intresse.
+
+För ett yttrande enligt första stycket ska den som har ansökt om tillstånd betala en avgift på 600 kronor i förskott till Riksarkivet. Riksarkivet ska förelägga sökanden att betala avgiften inom en viss tid och i föreläggandet ange att följden av att det inte följs kan bli att ansökan inte tas upp till prövning.
+
+Den myndighet som har begärt ett yttrande enligt första stycket ska skicka en kopia av beslutet till Riksarkivet.
+
+### 6 §
+
+Patent- och registreringsverket får meddela föreskrifter om att ett varumärke eller ett annat kännetecken för varor eller tjänster som används i näringsverksamhet inte utan särskilt tillstånd får innehålla en mellanstatlig organisations vapen, flagga, emblem, benämning, eller förkortning av benämning, eller en beteckning som lätt kan förväxlas med en sådan skyddad beteckning. Sådana föreskrifter får endast meddelas med anledning av ett avtal som Sverige har ingått med en främmande stat eller mellanstatlig organisation.
+
+*Förordning (2025:959)*.
+
+### 7 §
+
+Patent- och registreringsverket ska publicera avbildningar av vapen, flaggor eller emblem i myndighetens registreringstidning för varumärken. *Förordning (2025:959)*.
+
+### 8 §
+
+Patent- och registreringsverkets och länsstyrelsens beslut får överklagas till regeringen. *Förordning (2025:959)*.
+
+## Övergångsbestämmelser
+
+**2025:959**
+
+Denna förordning träder i kraft den 1 december 2025 i fråga om 6 och 8 §§ och i övrigt den 1 mars 2026.
+
+Bilaga Har upphävts genom *förordning (2025:959)*.

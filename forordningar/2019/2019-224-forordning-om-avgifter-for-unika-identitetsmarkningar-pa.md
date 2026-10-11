@@ -1,0 +1,49 @@
+---
+title: "Förordning (2019:224) om avgifter för unika identitetsmärkningar på tobaksförpackningar"
+identifier: "SFS 2019:224"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-05-02
+amended_through: "SFS 2024:258"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-224.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:224"
+retrieved: 2026-10-11
+---
+# Förordning (2019:224) om avgifter för unika identitetsmärkningar på tobaksförpackningar
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om sådana avgifter för unika identitetsmärkningar som avses i 11 kap. 19 § lagen (2018:2088) om tobak och liknande produkter.
+
+### 2 §
+
+De uttryck som används i denna förordning har samma betydelse som i kommissionens genomförandeförordning (EU) 2018/574 av den 15 december 2017 om tekniska standarder för inrättande och drift av ett spårbarhetssystem för tobaksvaror.
+
+### 3 §
+
+Avgift får tas ut i de fall som framgår av denna förordning.
+
+## Avgiftens storlek
+
+### 4 §
+
+För varje unik identitetsmärkning tas en avgift om 0,003453 kronor ut.
+
+Folkhälsomyndigheten eller den som enligt 3 kap. 3 § andra stycket förordningen (2019:223) om tobak och liknande produkter är id-utfärdare ska ta ut avgiften.
+
+*Förordning (2024:258)*.
+
+## Verkställighetsföreskrifter
+
+### 5 §
+
+Folkhälsomyndigheten får meddela föreskrifter om verkställigheten av denna förordning. *Förordning (2019:333)*.
+
+### 6 §
+
+Har betecknats 5 § genom *förordning (2019:333)*.

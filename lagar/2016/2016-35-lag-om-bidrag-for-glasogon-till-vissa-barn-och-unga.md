@@ -1,0 +1,35 @@
+---
+title: "Lag (2016:35) om bidrag för glasögon till vissa barn och unga"
+identifier: "SFS 2016:35"
+type: act
+jurisdiction: se
+language: sv
+date: 2016-02-04
+amended_through: "SFS 2019:968"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-35.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:35"
+retrieved: 2026-10-11
+---
+# Lag (2016:35) om bidrag för glasögon till vissa barn och unga
+
+## 1 §
+
+Denna lag innehåller bestämmelser om regionernas skyldighet att lämna bidrag för kostnader för glasögon eller kontaktlinser till vissa barn och unga.
+
+Särskilda bestämmelser om regionernas skyldigheter att erbjuda hälso- och sjukvård finns i hälso- och sjukvårdslagen (2017:30), lagen (2008:344) om hälso- och sjukvård åt asylsökande m.fl. och lagen (2013:407) om hälso- och sjukvård till vissa utlänningar som vistas i Sverige utan nödvändiga tillstånd. *Lag (2019:968)*.
+
+## 2 §
+
+En region ska lämna bidrag för kostnad för glasögon eller kontaktlinser till barn och unga som är mellan 8 och 19 år och som omfattas av regionens skyldighet att erbjuda hjälpmedel enligt 8 kap. 7 § hälso- och sjukvårdslagen (2017:30). Detsamma gäller den som erbjuds hälso- och sjukvård med stöd av lagen (2008:344) om hälso- och sjukvård åt asylsökande m.fl. och lagen (2013:407) om hälso- och sjukvård till vissa utlänningar som vistas i Sverige utan nödvändiga tillstånd.
+
+Regeringen får meddela föreskrifter om bidragets storlek och övriga villkor för bidraget samt om återbetalningsskyldighet.
+
+*Lag (2019:968)*.
+
+## 3 §
+
+Beslut om bidrag för kostnad för glasögon eller kontaktlinser till barn och unga enligt 2 § får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.

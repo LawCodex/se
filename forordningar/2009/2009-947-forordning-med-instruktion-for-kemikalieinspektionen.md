@@ -1,0 +1,145 @@
+---
+title: "Förordning (2009:947) med instruktion för Kemikalieinspektionen"
+identifier: "SFS 2009:947"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-10-08
+amended_through: "SFS 2024:131"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-947.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:947"
+retrieved: 2026-10-11
+---
+# Förordning (2009:947) med instruktion för Kemikalieinspektionen
+
+## Uppgifter
+
+### 1 §
+
+Kemikalieinspektionen är, i den mån inte någon annan myndighet har uppgiften, förvaltningsmyndighet för ärenden om hälso- och miljörisker med
+
+1. kemiska produkter,
+
+2. biotekniska organismer, och
+
+3. varor som på grund av sitt innehåll eller behandling har sådana egenskaper att de behöver regleras som kemiska produkter eller biotekniska organismer.
+
+### 2 §
+
+Kemikalieinspektionen ska verka för att det generationsmål för miljöarbetet och de miljökvalitetsmål som riksdagen har fastställt nås och ska vid behov föreslå åtgärder för miljöarbetets utveckling samt samordna uppföljning, utvärdering och rapportering i fråga om miljökvalitetsmålet Giftfri miljö.
+
+Inspektionen ska i fråga om sitt miljöarbete enligt första stycket rapportera till Naturvårdsverket och samråda med verket om vilken rapportering som behövs.
+
+*Förordning (2011:89)*.
+
+### 3 §
+
+Kemikalieinspektionen ska inom sitt verksamhetsområde medverka
+
+1. i samarbetet inom Europeiska unionen,
+
+2. i det miljöarbete som bedrivs inom ramen för svenskt utvecklingssamarbete,
+
+3. inom den svenska politiken för global utveckling, och
+
+4. inom det internationella samarbetet i övrigt.
+
+Inspektionen ska även vara regeringens expert i det arbete som regeringen bedriver inom dessa områden.
+
+### 4 §
+
+Kemikalieinspektionen ska särskilt
+
+1. följa utvecklingen, hålla regeringen informerad och vid behov föreslå åtgärder i fråga om sådana produkter, organismer och varor som anges i 1 § och deras hälso- och miljörisker,
+
+2. pröva frågor om godkännande av bekämpningsmedel,
+
+3. föra och utveckla register över kemiska produkter och biotekniska organismer,
+
+4. informera, stödja och samverka med företag, myndigheter och andra berörda om kemiska produkter, biotekniska organismer, kemikaliesäkerhet och gällande regler samt i frågor som rör inspektionens verksamhet,
+
+5. bidra med kunskap för att främja forsknings- och utvecklingssamarbete som har särskild betydelse för att kunna nå miljökvalitetsmålet Giftfri miljö,
+
+6. löpande omvärldsbevaka för att öka förutsättningarna för att tidigt upptäcka möjliga nya kemikaliehot, och
+
+7. ansvara för den centrala tillsynsvägledningen inom sitt verksamhetsområde. *Förordning (2017:226)*.
+
+### 4 a §
+
+Kemikalieinspektionen får lämna förslag till åtgärder i fråga om sådana produkter, biotekniska organismer och varor som avses i 1 § till
+
+1. Europeiska kemikaliemyndigheten enligt artiklarna 59.3, 69.4 och 129.3 i Europaparlamentets och rådets förordning (EG) nr 1907/2006 av den 18 december 2006 om registrering, utvärdering, godkännande och begränsning av kemikalier (Reach), inrättande av en europeisk kemikaliemyndighet, ändring av direktiv 1999/45/EG och upphävande av rådets förordning (EEG) nr 793/93 och kommissionens förordning (EG) nr 1488/94 samt rådets direktiv 76/769/EEG och kommissionens direktiv 91/155/EEG, 93/67/EEG, 93/105/EG och 2000/21/EG, och
+
+2. Europeiska kommissionen enligt artikel 6.1 i Europaparlamentets och rådets direktiv 2011/65/EU av den 8 juni 2011 om begränsning av användning av vissa farliga ämnen i elektrisk och elektronisk utrustning, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2017/2102.
+
+*Förordning (2018:518)*.
+
+### 4 b §
+
+Kemikalieinspektionen får ansöka om att föra upp utgångsämnen, sammansättningar eller beståndsdelar på, eller ta bort dem från, de europeiska positivlistorna enligt artikel 11.5 i Europaparlamentets och rådets direktiv (EU) 2020/2184 av den 16 december 2020 om kvaliteten på dricksvatten, i den ursprungliga lydelsen. Kemikalieinspektionen ska ge stöd och vägledning till en ekonomisk aktör som vill göra en sådan ansökan.
+
+*Förordning (2024:131)*.
+
+### 5 §
+
+Kemikalieinspektionen ska se till att de regelverk och rutiner som myndigheten disponerar över är kostnadseffektiva och enkla för medborgare och företag.
+
+### 5 a §
+
+Kemikalieinspektionen får, inom ramen för full kostnadstäckning, bedriva sådan tjänsteexport som är förenlig med myndighetens uppgifter och verksamhetsområde.
+
+*Förordning (2011:89)*.
+
+### 5 b §
+
+Kemikalieinspektionen har till uppgift att utöva marknadskontroll inom sitt ansvarsområde.
+
+*Förordning (2022:1172)*.
+
+## Ledning
+
+### 6 §
+
+Kemikalieinspektionen leds av en myndighetschef.
+
+## Insynsråd
+
+### 7 §
+
+Vid Kemikalieinspektionen ska det finnas ett insynsråd med högst tio ledamöter.
+
+### 8 §
+
+Har upphävts genom *förordning (2014:1559)*.
+
+### 9 §
+
+Har upphävts genom *förordning (2014:1559)*.
+
+## Toxikologiska rådet
+
+### 10 §
+
+Vid Kemikalieinspektionen finns Toxikologiska rådet som är ett expertorgan för rådgivning och samråd i toxikologiska frågor. Toxikologiska rådet ska inom ramen för sitt uppdrag värdera och signalera nya potentiella kemikaliehot. *Förordning (2017:226)*.
+
+### 11 §
+
+Toxikologiska rådet utses av Kemikalieinspektionen och består av representanter för myndigheter samt enskilda forskare. Kemikalieinspektionen utser rådets ordförande. Rådet utser inom sig en vice ordförande. *Förordning (2017:226)*.
+
+## Anställning som myndighetschef
+
+### 12 §
+
+Generaldirektören är myndighetschef.
+
+## Personalfrågor
+
+### 13 §
+
+Vid Kemikalieinspektionen ska det finnas en personalansvarsnämnd.
+
+### 14 §
+
+Kemikalieinspektionen ska tillämpa personalföreträdarförordningen (1987:1101).

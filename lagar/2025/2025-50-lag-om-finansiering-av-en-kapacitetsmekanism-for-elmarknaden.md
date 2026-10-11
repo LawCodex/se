@@ -1,0 +1,79 @@
+---
+title: "Lag (2025:50) om finansiering av en kapacitetsmekanism för elmarknaden"
+identifier: "SFS 2025:50"
+type: act
+jurisdiction: se
+language: sv
+date: 2025-01-30
+amended_through: "SFS 2026:1297"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-50.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:50"
+retrieved: 2026-10-11
+---
+# Lag (2025:50) om finansiering av en kapacitetsmekanism för elmarknaden
+
+## Lagens innehåll
+
+### 1 §
+
+I denna lag finns bestämmelser om finansiering av en sådan kapacitetsmekanism som avses i artikel 2.22 i Europaparlamentets och rådets förordning (EU) 2019/943 av den 5 juni 2019 om den inre marknaden för el.
+
+## Ord och uttryck
+
+### 2 §
+
+*/Upphör att gälla U:2027-01-01/* Ord och uttryck som används i lagen har samma innebörd som i ellagen (1997:857).
+
+### 2 §
+
+*/Träder i kraft I:2027-01-01/* Ord och uttryck som används i lagen har samma innebörd som i elmarknadslagen (2026:1281). *Lag (2026:1297)*.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+## Avgift till den systemansvariga myndigheten
+
+### 3 §
+
+*/Upphör att gälla U:2027-01-01/* För att täcka den systemansvariga myndighetens kostnader enligt sådana avtal som myndigheten ingår för att det ska finnas en kapacitetsmekanism, får myndigheten ta ut en avgift av den som har åtagit sig ett sådant balansansvar som enligt 8 kap. 12 § ellagen (1997:857) krävs för att en elleverantör ska få leverera el i en uttagspunkt.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+## Avgift till Affärsverket svenska kraftnät
+
+### 3 §
+
+*/Träder i kraft I:2027-01-01/* För att täcka Affärsverket svenska kraftnäts kostnader enligt sådana avtal som verket ingår för att det ska finnas en kapacitetsmekanism, får verket ta ut en avgift av den som har åtagit sig ett sådant balansansvar som enligt 11 kap. 2 § elmarknadslagen (2026:1281) krävs för att en elleverantör ska få leverera el i en uttagspunkt. *Lag (2026:1297)*.
+
+### 4 §
+
+Avgiftens storlek ska baseras på den mängd el som tas ut för förbrukning i uttagspunkter som omfattas av balansansvaret under den tidsperiod som avgiften avser.
+
+### 5 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om avgifter enligt 3 §.
+
+### 6 §
+
+*/Upphör att gälla U:2027-01-01/* Den systemansvariga myndigheten får i enskilda fall besluta om avgifter.
+
+### 6 §
+
+*/Träder i kraft I:2027-01-01/* Affärsverket svenska kraftnät får i enskilda fall besluta om avgifter. *Lag (2026:1297)*.
+
+## Överklagande
+
+### 7 §
+
+*/Upphör att gälla U:2027-01-01/* Den systemansvariga myndighetens beslut enligt 6 § får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+### 7 §
+
+*/Träder i kraft I:2027-01-01/* Affärsverket svenska kraftnäts beslut enligt 6 § får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2026:1297)*.

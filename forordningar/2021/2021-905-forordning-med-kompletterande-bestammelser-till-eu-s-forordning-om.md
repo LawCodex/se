@@ -1,0 +1,43 @@
+---
+title: "Förordning (2021:905) med kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering"
+identifier: "SFS 2021:905"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2021-10-15
+amended_through: "SFS 2025:207"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2021-905.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2021:905"
+retrieved: 2026-10-11
+---
+# Förordning (2021:905) med kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering
+
+## 1 §
+
+Denna förordning kompletterar lagen (2021:899) med kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering. Termer och uttryck i denna förordning har samma betydelse som i den lagen.
+
+Förordningen är meddelad med stöd av
+
+- 1 kap. 5 och 6 a §§ lagen med kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering i fråga om 2 och 5 §§, och
+
+- 8 kap. 7 § regeringsformen i fråga om 3 och 4 §§.
+
+*Förordning (2025:207)*.
+
+## 2 §
+
+Finansinspektionen får meddela föreskrifter om på vilket språk investeringsfaktablad enligt artiklarna 23 och 24 och klagomål enligt artikel 38 i EU-förordningen ska upprättas.
+
+## 3 §
+
+Finansinspektionen ska snarast underrätta Bolagsverket, om inspektionen med stöd av 3 kap. 5 § lagen (2021:899) med kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering beslutat att en fysisk person under en viss tid inte får vara styrelseledamot eller verkställande direktör, eller ersättare för någon av dem, i en leverantör av gräsrotsfinansieringstjänster.
+
+## 4 §
+
+Finansinspektionen och Konsumentverket ska på begäran lämna varandra de uppgifter som behövs för tillsynen över sådan marknadsföringskommunikation som avses i artikel 27 i EU-förordningen.
+
+## 5 §
+
+Polismyndigheten får meddela föreskrifter om hur uppgifter enligt 1 kap. 6 a § första stycket lagen (2021:899) med kompletterande bestämmelser till EU:s förordning om gräsrotsfinansiering ska lämnas. *Förordning (2025:207)*.

@@ -1,0 +1,45 @@
+---
+title: "Lag (2014:514) om ansvar för vissa säkerhetsfrågor vid statsministerns tjänstebostäder"
+identifier: "SFS 2014:514"
+type: act
+jurisdiction: se
+language: sv
+date: 2014-06-12
+amended_through: "SFS 2021:953"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-514.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:514"
+retrieved: 2026-10-11
+---
+# Lag (2014:514) om ansvar för vissa säkerhetsfrågor vid statsministerns tjänstebostäder
+
+## Lagens tillämpningsområde
+
+### 1 §
+
+Denna lag innehåller särskilda bestämmelser som rör verksamheten vid och skyddet för egendom som används som tjänstebostad för statsministern. Bestämmelserna utgör kompletteringar till och undantag från skyddslagen (2010:305) och säkerhetsskyddslagen (2018:585). *Lag (2018:595)*.
+
+## Tillträdesbegränsning och frågor om skyddsobjekt
+
+### 2 §
+
+Säkerhetspolisen har ansvaret för fysisk säkerhet enligt 2 kap. 3 § säkerhetsskyddslagen (2018:585) vid egendom som används som tjänstebostad för statsministern.
+
+Inför att åtgärder som rör fysisk säkerhet vidtas ska Säkerhetspolisen samråda med den eller de myndigheter som förvaltar egendomen och som berörs av åtgärden. När det gäller åtgärder som rör fysisk säkerhet som är av större betydelse ska Säkerhetspolisen även samråda med Regeringskansliet. *Lag (2018:595)*.
+
+### 3 §
+
+Säkerhetspolisen beslutar i frågor om skyddsobjekt enligt skyddslagen (2010:305) när det gäller egendom som används som tjänstebostad för statsministern.
+
+Säkerhetspolisen ansvarar för att beslutade skyddsobjekt som gäller sådan egendom bevakas och för att upplysning om sådana beslut lämnas genom tydlig skyltning.
+
+## Samråd inför att säkerhetsskyddsavtal ska träffas och inför beslut om placering i säkerhetsklass
+
+### 4 §
+
+Inför att säkerhetsskyddsavtal ska träffas enligt 4 kap. 1 § första stycket säkerhetsskyddslagen (2018:585) med anledning av upphandling till egendom som används som tjänstebostad för statsministern ska den upphandlande myndigheten samråda med Säkerhetspolisen. *Lag (2021:953)*.
+
+### 5 §
+
+Inför beslut om placering i säkerhetsklass enligt 3 kap. 5 § säkerhetsskyddslagen (2018:585) av anställningar eller annat deltagande i verksamheten vid egendom som används som tjänstebostad för statsministern ska den som bedriver verksamheten samråda med Säkerhetspolisen. *Lag (2018:595)*.

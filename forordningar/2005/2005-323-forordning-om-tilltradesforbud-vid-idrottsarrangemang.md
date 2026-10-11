@@ -1,0 +1,45 @@
+---
+title: "Förordning (2005:323) om tillträdesförbud vid idrottsarrangemang"
+identifier: "SFS 2005:323"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2005-05-19
+amended_through: "SFS 2018:1945"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-323.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:323"
+retrieved: 2026-10-11
+---
+# Förordning (2005:323) om tillträdesförbud vid idrottsarrangemang
+
+## 1 §
+
+När åklagaren har beslutat i fråga om tillträdesförbud ska parterna underrättas om beslutet. Har Polismyndigheten gjort en anmälan om tillträdesförbud ska myndigheten underrättas om åklagarens beslut.
+
+Att beslut om tillträdesförbud ska delges den mot vilken förbudet avses gälla framgår av 4 § lagen (2005:321) om tillträdesförbud vid idrottsarrangemang.
+
+*Förordning (2014:1168)*.
+
+## 2 §
+
+Om en domstol eller en åklagare beslutar om tillträdesförbud eller häver eller ändrar ett sådant förbud, ska Polismyndigheten underrättas om beslutet. Åklagarmyndigheten ska, i fråga om den som är föremål för registrering i tillträdesförbudsregistret, till Polismyndigheten även lämna sådana uppgifter som anges i 5 kap. 24 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område och som myndigheten har tillgång till i ett ärende som rör tillträdesförbud.
+
+Bestämmelser om registrering av beslut om tillträdesförbud finns i
+
+1. lagen (1998:620) om belastningsregister,
+
+2. förordningen (1999:1134) om belastningsregister,
+
+3. förordningen (2015:54) om register över tillträdesförbud vid idrottsarrangemang, och
+
+4. lagen om polisens behandling av personuppgifter inom brottsdatalagens område. *Förordning (2018:1945)*.
+
+## 3 §
+
+Om Polismyndighetens anmälan om tillträdesförbud har gjorts muntligen ska åklagaren dokumentera vem anmälan avser, vem som gjort anmälan och de omständigheter som anförs till stöd för anmälan. *Förordning (2014:1168)*.
+
+## 4 §
+
+Ytterligare föreskrifter för tillämpningen av lagen (2005:321) om tillträdesförbud vid idrottsarrangemang får meddelas av Åklagarmyndigheten. *Förordning (2009:104)*.

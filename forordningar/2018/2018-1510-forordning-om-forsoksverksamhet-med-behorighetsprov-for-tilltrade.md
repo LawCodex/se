@@ -1,0 +1,55 @@
+---
+title: "Förordning (2018:1510) om försöksverksamhet med behörighetsprov för tillträde till högskoleutbildning"
+identifier: "SFS 2018:1510"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-07-05
+amended_through: "SFS 2021:925"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1510.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1510"
+retrieved: 2026-10-11
+---
+# Förordning (2018:1510) om försöksverksamhet med behörighetsprov för tillträde till högskoleutbildning
+
+### 1 §
+
+Den som inte har grundläggande behörighet till högskoleutbildning som påbörjas på grundnivå ska, inom ramen för en försöksverksamhet som ska bedrivas 2022-2023, ha möjlighet att genom ett behörighetsprov visa att han eller hon har de nödvändiga kompetenser som krävs för grundläggande behörighet enligt 7 kap. 5 § högskoleförordningen (1993:100).
+
+### 2 §
+
+Universitets- och högskolerådet ansvarar för att ta fram och genomföra provet och beslutar om resultat på detta.
+
+Provet ska genomföras vid ett provtillfälle under det andra kalenderhalvåret 2022 och vid ett provtillfälle under det andra kalenderhalvåret 2023. *Förordning (2021:925)*.
+
+### 3 §
+
+Alla universitet och högskolor som omfattas av högskolelagen (1992:1434) ska använda sig av samma behörighetsprov.
+
+### 4 §
+
+Endast den som har fyllt eller fyller 24 år senast det kalenderår då provet genomförs får delta i behörighetsprovet.
+
+Universitets- och högskolerådet får besluta att endast ett visst högsta antal deltagare får delta i provet under försöksverksamheten.
+
+Beslut om tilldelning av platser vid provtillfällena ska fattas på objektiva grunder. *Förordning (2021:925)*.
+
+### 5 §
+
+Universitets- och högskolerådets beslut om provresultat får inte överklagas.
+
+### 6 §
+
+Universitets- och högskolerådet får meddela ytterligare föreskrifter om försöksverksamheten.
+
+## Övergångsbestämmelser
+
+**2018:1510**
+
+1. Denna förordning träder i kraft den 1 januari 2022.
+
+2. Förordningen upphör att gälla vid utgången av 2023.
+
+3. Ett godkänt resultat på behörighetsprovet ska dock vara giltigt även efter utgången av 2023.

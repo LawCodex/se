@@ -1,0 +1,62 @@
+---
+title: "Lag (2026:241) om skydd för deltagande i den offentliga debatten vid tvister med gränsöverskridande följder"
+identifier: "SFS 2026:241"
+type: act
+jurisdiction: se
+language: sv
+date: 2026-03-12
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2026-241.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2026:241"
+retrieved: 2026-10-11
+---
+# Lag (2026:241) om skydd för deltagande i den offentliga debatten vid tvister med gränsöverskridande följder
+
+## Lagens tillämpningsområde
+
+### 1 §
+
+Denna lag gäller vid handläggning av tvistemål där förlikning om saken är tillåten, om tvisten rör någons deltagande i den offentliga debatten och tvisten har gränsöverskridande följder.
+
+Tvisten ska anses ha gränsöverskridande följder om inte båda parter har sin hemvist i den medlemsstat där den domstol vid vilken talan väcks har sitt säte och alla andra faktorer som är relevanta för den berörda situationen är belägna endast i den medlemsstaten. Hemvist ska fastställas i enlighet med förordning (EU) 1215/2012.
+
+### 2 §
+
+Lagen gäller inte vid handläggning av talan om enskilt anspråk i anledning av brott som förs i samband med åtal för brottet. Den gäller inte heller vid handläggning av ett tryckfrihets- eller yttrandefrihetsmål.
+
+### 3 §
+
+Vid handläggningen av en tvist enligt denna lag ska 1 kap. 3 d § rättegångsbalken inte tillämpas.
+
+## Skyndsam handläggning
+
+### 4 §
+
+En tvist enligt denna lag ska på yrkande av någon av parterna behandlas skyndsamt.
+
+## Säkerhet för rättegångskostnader
+
+### 5 §
+
+I en tvist enligt denna lag, som rör svarandens deltagande i den offentliga debatten, ska käranden ställa säkerhet för de rättegångskostnader som käranden kan bli skyldig att betala genom ett lagakraftägande avgörande. Käranden ska ställa sådan säkerhet om svaranden yrkar det, och det finns särskilda skäl.
+
+I fråga om ett yrkande enligt första stycket tillämpas 3 och 4 §§ lagen (1980:307) om skyldighet för utländska kärande att ställa säkerhet för rättegångskostnader.
+
+### 6 §
+
+I den utsträckning det har avtalats i internationella överenskommelser som har ingåtts med ett tredjeland, som är bindande för Sverige och som har ingåtts före den 6 maj 2024, är käranden befriad från skyldigheten i 5 § att ställa säkerhet.
+
+## Svensk domstols behörighet i vissa fall
+
+### 7 §
+
+Svensk domstol får ta upp en talan om ersättning för skada eller kostnader som har uppstått eller kan uppstå i samband med ett förfarande vid en domstol utanför Europeiska unionen, om talan vid den utländska domstolen
+
+1. avser en parts deltagande i den offentliga debatten, och
+
+2. förs av en kärande med hemvist utanför Europeiska unionen mot en svarande med hemvist i Sverige.
+
+En talan enligt första stycket får, förutom vid en domstol som är behörig enligt rättegångsbalken, väckas vid tingsrätten i den ort där svaranden i det utländska förfarandet har sin hemvist.
+
+Bestämmelserna i denna paragraf gäller inte om något annat följer av konventionen den 30 oktober 2007 om domstols behörighet och om erkännande och verkställighet av domar på privaträttens område (Luganokonventionen).

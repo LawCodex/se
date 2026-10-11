@@ -1,0 +1,39 @@
+---
+title: "Förordning (2020:979) om tillfälligt förbud mot besök i särskilda boendeformer för äldre för att förhindra spridningen av sjukdomen covid-19"
+identifier: "SFS 2020:979"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-11-19
+amended_through: "SFS 2021:91"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-979.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:979"
+retrieved: 2026-10-11
+---
+# Förordning (2020:979) om tillfälligt förbud mot besök i särskilda boendeformer för äldre för att förhindra spridningen av sjukdomen covid-19
+
+## 1 §
+
+Denna förordning innehåller bestämmelser som syftar till att förhindra spridning av sjukdomen covid-19 till personer som vistas i vissa boenden för äldre.
+
+Förordningen är meddelad med stöd av 16 kap. 10 § socialtjänstlagen (2001:453).
+
+## 2 §
+
+Folkhälsomyndigheten får meddela föreskrifter om att besök till den som bor i en sådan boendeform som avses i 5 kap. 5 § andra eller tredje stycket socialtjänstlagen (2001:453) eller i motsvarande boendeform i 7 kap. 1 § första stycket 2 samma lag ska vara förbjudet om det behövs för att förhindra spridning av sjukdomen covid-19. Sådana föreskrifter får avse hela landet, ett län eller delar av ett län.
+
+Ett sådant förbud mot besök som avses i första stycket ska inte gälla den som i sin yrkesutövning har behov av att vistas i ett sådant boende.
+
+## 3 §
+
+En person under 18 år får, trots ett sådant förbud mot besök som avses i 2 §, besöka en förälder eller någon annan som han eller hon varaktigt bor eller tidigare bott tillsammans med. Detta gäller dock endast om den verksamhetsansvarige bedömer att risken för spridning av sjukdomen covid-19 är liten i boendet.
+
+## 4 §
+
+Den verksamhetsansvarige för ett boende får i det enskilda fallet medge undantag från ett sådant förbud mot besök som avses i 2 §. Undantag får beviljas om besöket görs för att bryta en separation mellan makar, sambor eller registrerade partner eller om det annars finns särskilda omständigheter. Undantag får dock medges endast om den verksamhetsansvarige bedömer att risken för spridning av sjukdomen covid-19 är liten i boendet.
+
+## 5 §
+
+Beslut enligt denna förordning får inte överklagas.

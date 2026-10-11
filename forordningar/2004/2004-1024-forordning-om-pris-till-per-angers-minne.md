@@ -1,0 +1,55 @@
+---
+title: "Förordning (2004:1024) om pris till Per Angers minne"
+identifier: "SFS 2004:1024"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2004-11-18
+amended_through: "SFS 2019:659"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2004-1024.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2004:1024"
+retrieved: 2026-10-11
+---
+# Förordning (2004:1024) om pris till Per Angers minne
+
+## 1 §
+
+I denna förordning ges föreskrifter om priset till Per Angers minne. Priset lämnas för humanitära och demokratifrämjande insatser.
+
+## 2 §
+
+Priset får delas ut till en person eller en organisation som genom sina handlingar verkat för mänskliga rättigheter och för stärkt demokrati och medmänsklighet i den humanistiska anda som kännetecknade Per Anger.
+
+## 3 §
+
+Priset kan ha en eller flera mottagare. En pristagare får inte utses postumt.
+
+Priset delas ut årligen.
+
+## 4 §
+
+En särskild jury inom Forum för levande historia har hand om nomineringen och beslutar om pristagare. Juryn består av högst fem ledamöter. I juryn ingår myndighetschefen vid Forum för levande historia och en representant för Per Angers familj.
+
+*Förordning (2007:1200)*.
+
+## 5 §
+
+Vid juryns handläggning av ärenden tillämpas endast följande bestämmelser i förvaltningslagen (2017:900):
+
+- 16-18 §§ om jäv,
+
+- 28 och 29 §§ om hur beslut fattas och om omröstning.
+
+*Förordning (2018:1004)*.
+
+## 6 §
+
+Har upphävts genom *förordning (2019:659)*.
+
+## 7 §
+
+Beslut enligt denna förordning får inte överklagas.
+
+*Förordning (2007:1200)*.

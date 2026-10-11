@@ -1,0 +1,155 @@
+---
+title: "Förordning (2025:764) om fritidskort"
+identifier: "SFS 2025:764"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2025-06-19
+amended_through: "SFS 2026:1435"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-764.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:764"
+retrieved: 2026-10-11
+---
+# Förordning (2025:764) om fritidskort
+
+## Inledande bestämmelser
+
+### 1 §
+
+Grundläggande bestämmelser om stöd i form av fritidskort finns i lagen (2025:759) om fritidskort. Denna förordning innehåller kompletterande bestämmelser om stödet.
+
+### 2 §
+
+Förordningen är meddelad med stöd av
+
+- 10 § andra stycket lagen (2025:759) om fritidskort i fråga om 19 §,
+
+- 9 § första stycket samma lag i fråga om 20 §,
+
+- 8 kap. 11 § regeringsformen i fråga om 22 §, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+## Ord och uttryck i förordningen
+
+### 3 §
+
+I förordningen avses med utförare en utförare av fritidsaktiviteter för barn som registrerats enligt förordningen (2025:763) om register över vissa utförare av fritidsaktiviteter för barn.
+
+De övriga ord och uttryck som används i förordningen har samma betydelse som i lagen (2025:759) om fritidskort.
+
+## Förutsättningar för rätt till stöd
+
+### 4 §
+
+Stöd får lämnas för barns fritidsaktiviteter från och med det år då barnet fyller 6 år till och med det år då barnet fyller 16 år. *Förordning (2026:1435)*.
+
+### 5 §
+
+Stöd lämnas med 550 kronor per kalenderår och barn.
+
+Stöd lämnas med ytterligare 1 950 kronor per kalenderår och barn om vårdnadshavaren har, för någon del av det närmast föregående kalenderåret, beviljats preliminärt bostadsbidrag enligt 95 kap. 4 § socialförsäkringsbalken eller beviljats bostadstillägg enligt 101 kap. 3-6 §§ socialförsäkringsbalken.
+
+*Förordning (2026:1435)*.
+
+## Förutsättningar för att använda stödet till fritidsaktiviteter
+
+### 6 §
+
+Stödet får användas för betalning av avgifter för fritidsaktiviteter som
+
+1. ägt rum eller äger rum under innevarande kalenderår eller närmast följande kalenderår, och
+
+2. är ledarledda och tillhandahålls av en utförare minst sex gånger under en sammanhängande period om sex månader.
+
+## Förutsättningar för att använda stödet till hyra
+
+### 7 §
+
+Stödet får användas för betalning av avgifter för hyra av utrustning och hjälpmedel som tillhandahålls av en utförare och som möjliggör att barnet kan delta i en sådan fritidsaktivitet som avses i 6 §.
+
+## Ansökan om stöd
+
+### 8 §
+
+Stödet beviljas efter ansökan.
+
+### 9 §
+
+Ansökan ska göras skriftligen av vårdnadshavaren och lämnas in till E-hälsomyndigheten senast vid den tidpunkt som myndigheten bestämmer. Ansökan ska vara undertecknad eller skrivas under med en elektronisk underskrift av vårdnadshavaren. *Förordning (2026:1435)*.
+
+### 10 §
+
+Vårdnadshavaren ska på begäran av E-hälsomyndigheten lämna de uppgifter som behövs för att myndigheten ska kunna pröva ansökan eller i övrigt kunna tillämpa lagen (2025:759) om fritidskort eller denna förordning.
+
+### 11 §
+
+Uppgifterna i ansökan ska lämnas på heder och samvete.
+
+## Beslut om stöd
+
+### 12 §
+
+Bedömningen av om förutsättningarna för rätt till stöd och att använda stödet för betalning är uppfyllda ska göras utifrån förhållandena vid tidpunkten för besluten.
+
+### 13 §
+
+E-hälsomyndigheten får besluta att ett beslutat stöd inte ska betalas ut om stödet inte kommer att användas för betalning enligt 6 eller 7 §, eller om det finns grund för återbetalning enligt 5 eller 6 § lagen (2025:759) om fritidskort.
+
+Beslut enligt första stycket gäller omedelbart.
+
+## Utbetalning av stöd
+
+### 14 §
+
+Stödet ska betalas ut till utföraren genom att beloppet överförs till ett konto hos ett kreditinstitut eller till ett konto hos en betaltjänstleverantör, som är registrerat som bank- eller plusgiro enligt förordningen (2025:763) om register över vissa utförare av fritidsaktiviteter för barn.
+
+Innan stödet betalas ut enligt första stycket ska vårdnadshavaren lämna sitt samtycke till att uppgifter om stöd som avses i 5 § andra stycket lämnas ut.
+
+## Återbetalning och återkrav
+
+### 15 §
+
+Vårdnadshavaren ska utan uppmaning betala tillbaka ett stöd som hon eller han har mottagit av en utförare. Återbetalning ska ske till E-hälsomyndigheten senast 30 dagar efter det att vårdnadshavaren tog emot betalningen.
+
+### 16 §
+
+Om vårdnadshavaren inte fullgör sin återbetalningsskyldighet enligt 15 § ska E-hälsomyndigheten besluta att kräva tillbaka stödet. Om det finns särskilda skäl får myndigheten helt eller delvis sätta ned ett krav på återbetalning.
+
+## Underrättelseskyldighet
+
+### 17 §
+
+Försäkringskassan ska underrätta E-hälsomyndigheten om en utförare inte längre är registrerad enligt 11 eller 12 § förordningen (2025:763) om register över vissa utförare av fritidsaktiviteter för barn.
+
+## Skyldighet att lämna uppgifter
+
+### 18 §
+
+Försäkringskassan ska på begäran av E-hälsomyndigheten lämna de uppgifter som behövs för att myndigheten ska kunna handlägga ärenden om stöd enligt denna förordning.
+
+### 18 a §
+
+Pensionsmyndigheten ska på begäran av E- hälsomyndigheten lämna de uppgifter som behövs för att myndigheten ska kunna handlägga ärenden om stöd enligt denna förordning. *Förordning (2026:1435)*.
+
+### 19 §
+
+Utförare ska på begäran av E-hälsomyndigheten lämna de uppgifter som behövs för att säkerställa korrekta utbetalningar av stödet.
+
+### 20 §
+
+Kreditinstitut och betaltjänstleverantörer ska på begäran av E-hälsomyndigheten lämna uppgifter som avser en namngiven fysisk eller juridisk persons förhållande till institutet eller leverantören. Uppgifterna ska lämnas om de är nödvändiga för att myndigheten ska kunna granska utbetalningar av stödet. Uppgifterna ska lämnas snarast möjligt och i elektronisk form.
+
+## Överklagande
+
+### 21 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+## Bemyndigande
+
+### 22 §
+
+E-hälsomyndigheten får meddela föreskrifter om verkställigheten av lagen (2025:759) om fritidskort och om verkställigheten av denna förordning.

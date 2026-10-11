@@ -1,0 +1,147 @@
+---
+title: "Förordning (2023:797) med instruktion för Kriminalvården"
+identifier: "SFS 2023:797"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2023-11-30
+amended_through: "SFS 2026:998"
+department: "Justitiedepartementet KRIM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2023-797.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2023:797"
+retrieved: 2026-10-11
+---
+# Förordning (2023:797) med instruktion för Kriminalvården
+
+### Uppgifter
+
+#### 1 §
+
+Kriminalvården ansvarar för att verkställa utdömda påföljder, bedriva häktesverksamhet och utföra personutredningar i brottmål.
+
+#### 2 §
+
+Myndighetens verksamhet ska bedrivas på ett säkert, humant och effektivt sätt. Återfall i brott ska förebyggas.
+
+Myndigheten ska särskilt vidta åtgärder som syftar till att
+
+1. brottslighet under verkställigheten förhindras,
+
+2. narkotikamissbruk bekämpas,
+
+3. innehållet i verkställigheten anpassas efter varje individs behov, och
+
+4. frigivningen förbereds.
+
+#### 3 §
+
+Myndigheten ska
+
+1. delta i det myndighetsgemensamma arbetet mot den grova och organiserade brottsligheten,
+
+2. delta i ett myndighetsgemensamt arbete för att möjliggöra ett särskilt snabbförfarande enligt 45 kap. 13 a § rättegångsbalken och 3 b § förundersökningskungörelsen (1947:948),
+
+3. verkställa de transporter som Polismyndigheten och Säkerhetspolisen överlämnar enligt 29 a § polislagen (1984:387) samt lämna andra myndigheter den hjälp med transport som är särskilt föreskrivet, och
+
+4. övervaka genomförandet av och fullgöra uppgifter enligt en överenskommelse som Sverige har ingått med en annan stat om verkställighet av svenska fängelsestraff i den staten.
+
+För varje person som transporteras av myndigheten enligt första stycket 3 ska det föras journal. *Förordning (2026:998)*.
+
+#### 4 §
+
+Myndigheten är beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap.
+
+I förordningen (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning finns bestämmelser om myndighetens ansvar med anledning av Europaparlamentets och rådets förordning (EU) 2019/1896 av den 13 november 2019 om den europeiska gräns- och kustbevakningen och om upphävande av förordningarna (EU) nr 1052/2013 och (EU) 2016/1624.
+
+#### 5 §
+
+Myndigheten får
+
+1. bedriva forskning av betydelse för verksamheten,
+
+2. bidra till internationell civil krishantering inom sin profession, och
+
+3. utföra administrativa uppgifter åt övervakningsnämnderna enligt överenskommelse mellan myndigheten och respektive övervakningsnämnd.
+
+#### 5 a §
+
+Myndigheten får ingå en internationell överenskommelse som kompletterar en överenskommelse som Sverige har ingått med en annan stat om verkställighet av svenska fängelsestraff i den staten. Detta gäller dock inte om överenskommelsen kräver riksdagens eller Utrikesnämndens medverkan.
+
+En internationell överenskommelse ska ingås av generaldirektören. Innan en internationell överenskommelse ingås ska Regeringskansliet (Justitiedepartementet) underrättas. *Förordning (2026:998)*.
+
+#### 6 §
+
+Säkerheten inom myndigheten ska vara väl anpassad till verksamhetens behov.
+
+#### 7 §
+
+Antalet häktes- och anstaltsplatser ska fortlöpande anpassas till behovet. Häktes- och anstaltsorganisationen ska vara utformad så att den tillgodoser olika behov av övervakning och kontroll.
+
+Anstaltsorganisationen ska vara utformad så att den tillgodoser intagnas rättigheter och olika behov av sysselsättning och annat innehåll i verkställigheten samt främjar en ändamålsenlig planering av intagnas frigivning.
+
+Häktesorganisationen ska vara utformad så att den tillgodoser intagnas rättigheter och främjar ett effektivt samarbete med övriga myndigheter inom rättsväsendet.
+
+#### 8 §
+
+Frivårdsorganisationen ska vara utformad så att den tillgodoser behovet av kontroll, stöd och andra åtgärder för att minska klienternas risk för återfall i brott. Ett effektivt samarbete med Kriminalvårdens övriga verksamheter och med andra myndigheter ska främjas.
+
+#### 9 §
+
+Myndigheten ska tillämpa ett jämställdhetsperspektiv när den utför sina uppgifter.
+
+### Ledning och organisation
+
+#### 10 §
+
+Myndigheten ska ledas av en myndighetschef.
+
+#### 11 §
+
+Vid myndigheten ska det finnas ett insynsråd som ska bestå av högst tio ledamöter.
+
+### Anställningar och uppdrag
+
+#### 12 §
+
+Generaldirektören är myndighetschef.
+
+#### 13 §
+
+Vid myndigheten ska det finnas en överdirektör.
+
+### Personalansvarsnämnd
+
+#### 14 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+### Tillämplighet av vissa förordningar
+
+#### 15 §
+
+Myndigheten ska tillämpa internrevisionsförordningen (2006:1228) och personalföreträdarförordningen (1987:1101).
+
+### Avgifter
+
+#### 16 §
+
+Myndigheten får mot avgift tillhandahålla sådana produkter och tjänster som produceras huvudsakligen av intagna som ett led i verksamheten i anstalt och häkte.
+
+Myndigheten får ta ut avgifter för måltider som myndigheten tillhandahåller andra än intagna.
+
+Myndigheten får bestämma storleken på avgifterna och disponera avgiftsintäkterna.
+
+### Rätt att meddela föreskrifter
+
+#### 17 §
+
+Myndigheten får meddela de föreskrifter i organisatoriskt hänseende som behövs för att uppnå samordning, effektivitet, enhetlighet och följdriktighet inom myndighetens verksamhet.
+
+## Övergångsbestämmelser
+
+**2023:797**
+
+1. Denna förordning träder i kraft den 1 januari 2024.
+
+2. Genom förordningen upphävs förordningen (2007:1172) med instruktion för Kriminalvården.

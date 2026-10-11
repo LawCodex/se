@@ -1,0 +1,105 @@
+---
+title: "Förordning (2025:237) om det nationella cybersäkerhetscentret vid Försvarets radioanstalt"
+identifier: "SFS 2025:237"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2025-03-20
+amended_through: "SFS 2026:1203"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-237.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:237"
+retrieved: 2026-10-11
+---
+# Förordning (2025:237) om det nationella cybersäkerhetscentret vid Försvarets radioanstalt
+
+## 1 §
+
+Denna förordning innehåller kompletterande bestämmelser om den verksamhet som ska bedrivas av det nationella cybersäkerhetscenter som finns inom Försvarets radioanstalt.
+
+Enligt 4 a § förordningen (2007:937) med instruktion för Försvarets radioanstalt har centret till uppgift att utveckla och stärka Sveriges samlade förmåga att förebygga, upptäcka och hantera antagonistiska cyberhot och andra it-incidenter.
+
+## 2 §
+
+Det nationella cybersäkerhetscentret ska utgöra en nationell plattform för samverkan och informationsutbyte mellan aktörer, såväl privata som offentliga, i frågor som rör cybersäkerhet. Centret ska också vara en kontaktpunkt för sådana frågor.
+
+## 3 §
+
+Det nationella cybersäkerhetscentret ska särskilt
+
+1. samordna och harmonisera det nationella cybersäkerhetsarbetet samt analysera och bedöma omvärldsutvecklingen inom cybersäkerhetsområdet,
+
+2. lämna råd och stöd till privata och offentliga aktörer i frågor om hot, sårbarheter och risker med koppling till cybersäkerhet,
+
+3. lämna råd och stöd till privata och offentliga aktörer vid it-incidenter,
+
+4. genomföra utbildningar, övningar och andra kompetenshöjande insatser inom cybersäkerhetsområdet,
+
+5. till privata och offentliga aktörer ta fram samlade lägesbilder av antagonistiska cyberhot och andra it- incidenter,
+
+6. bistå Regeringskansliet (Försvarsdepartementet) med samlade lägesbilder som bland annat innehåller bedömningar av hotnivån,
+
+7. vara en kontaktpunkt gentemot motsvarande funktioner i internationella sammanhang och utveckla samarbetet och informationsutbytet med dessa,
+
+8. rapportera till regeringen om förhållanden på cybersäkerhetsområdet som kan leda till behov av åtgärder samt lämna förslag på sådana åtgärder, och
+
+9. informera regeringen om relevanta förhållanden vid ett sådant hot eller annan incident som avses i 5 § andra stycket.
+
+*Förordning (2026:622)*.
+
+## 4 §
+
+Försvarets radioanstalt ska organisera, leda och planera verksamheten som bedrivs inom ramen för det nationella cybersäkerhetscentret.
+
+Försvarets radioanstalt ska i den verksamhet som bedrivs inom ramen för centret samverka med Försvarets materielverk, Försvarsmakten, Myndigheten för civilt försvar, Polismyndigheten, Post- och telestyrelsen och Säkerhetspolisen (samverkansmyndigheterna). *Förordning (2025:1168)*.
+
+## 5 §
+
+Samverkansmyndigheterna ska, inom ramen för sina respektive befintliga ansvarsområden, löpande bistå det nationella cybersäkerhetscentret med kunskap, kompetens och information. Det nationella cybersäkerhetscentret ska löpande bistå samverkansmyndigheterna med kunskap och information.
+
+Vid ett antagonistiskt cyberhot eller annan it-incident som har vållat eller som kan antas ha potential att vålla betydande skada ska det nationella cybersäkerhetscentret och samverkansmyndigheterna utbyta kunskap, kompetens och information i syfte att förbättra samordningen mellan myndigheterna och bidra till att effektivisera myndigheternas arbete med att hantera cyberhotet eller incidenten.
+
+Försvarets radioanstalt och samverkansmyndigheterna är skyldiga att lämna uppgifter enligt lagen (2026:1200) om uppgiftsskyldighet vid samverkan inom det nationella cybersäkerhetscentret. *Förordning (2026:1203)*.
+
+## 6 §
+
+Försvarets radioanstalt ska årligen lämna en rapport till regeringen med en sammanställning av de incidenter som har rapporterats in till myndigheten av statliga myndigheter enligt 14 § förordningen (2022:524) om statliga myndigheters beredskap och 2 kap. 5-8 §§ cybersäkerhetslagen (2025:1506). Inför arbetet med att sammanställa rapporten ska myndigheten inhämta upplysningar från Säkerhetspolisen och Försvarsmakten om de incidenter som har rapporterats in till de myndigheterna enligt 2 kap. 4 § första stycket 2 säkerhetsskyddsförordningen (2021:955). *Förordning (2026:622)*.
+
+## 7 §
+
+Försvarets radioanstalt ska ansvara för att Sverige har en nationell funktion med uppgift att stödja samhället i arbetet med att förebygga och hantera it-incidenter. Myndigheten ska
+
+1. agera skyndsamt vid it-incidenter genom att sprida information samt vid behov arbeta med samordning av åtgärder och medverka i det arbete som krävs för att avhjälpa eller lindra effekter av det inträffade,
+
+2. återrapportera till berörda aktörer i samband med att en it-incident har rapporterats,
+
+3. samverka med myndigheter med särskilda uppgifter inom informationssäkerhetsområdet, och
+
+4. vara Sveriges kontaktpunkt gentemot motsvarande funktioner i andra länder samt utveckla samarbetet och informationsutbytet med dessa. *Förordning (2026:622)*.
+
+## 8 §
+
+Försvarets radioanstalt ska vara svensk teknisk kontaktpunkt för Organisationen för säkerhet och samarbete i Europas (OSSE) verksamhet på cyberområdet. Innan svar på informationsförfrågningar lämnas ska myndigheten informera Regeringskansliet (Utrikesdepartementet). *Förordning (2026:622)*.
+
+## 9 §
+
+Försvarets radioanstalt ska vara nationellt samordningscenter enligt artikel 6 i Europaparlamentets och rådets förordning (EU) 2021/887 av den 20 maj 2021 om inrättande av Europeiska kompetenscentrumet för cybersäkerhet inom näringsliv, teknik och forskning och av nätverket av nationella samordningscentrum.
+
+## 10 §
+
+Försvarets radioanstalt ska vara nationellt cybernav enligt artikel 4 Europaparlamentets och rådets förordning (EU) 2025/38 av den 19 december 2024 om åtgärder för att stärka solidariteten och kapaciteten i unionen att upptäcka, förbereda sig inför och hantera cyberhot och cybersäkerhets- incidenter och om ändring av förordning (EU) 2021/694 (cybersolidaritetsförordningen).
+
+## 11 §
+
+Försvarets radioanstalt ska senast den 1 mars varje år lämna en redovisning av det arbete som har utförts inom det nationella cybersäkerhetscentret till Regeringskansliet (Försvarsdepartementet). Försvarets radioanstalt ska i redovisningen värdera, sammanställa och rapportera resultatet av arbetet i centret. *Förordning (2026:622)*.
+
+## 12 §
+
+Inom det nationella cybersäkerhetscentret ska det finnas ett strategiskt samverkansråd i vilket myndigheterna som anges i 4 § ska vara representerade. Rådet ska ge Försvarets radioanstalt stöd i utformningen av den strategiska inriktningen av centrets verksamhet. *Förordning (2026:622)*.
+
+## 13 §
+
+Myndigheterna ska i det strategiska samverkansrådet företrädas av sina myndighetschefer eller deras ställföreträdare. I rådet ska även chefen för det nationella cybersäkerhetscentret delta.
+
+Ordförande i rådet ska vara generaldirektören för Försvarets radioanstalt eller hans eller hennes ställföreträdare. Ledamöterna i rådet får bland sig utse en vice ordförande för en viss tid. *Förordning (2026:622)*.

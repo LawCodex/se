@@ -1,0 +1,36 @@
+---
+title: "Finansinspektionens tillkännagivande (2010:1842) om ändring av vissa skadelivräntor"
+identifier: "SFS 2010:1842"
+type: other
+jurisdiction: se
+language: sv
+date: 2010-12-17
+department: "Finansinspektionen"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1842.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1842"
+retrieved: 2026-10-11
+---
+# Finansinspektionens tillkännagivande (2010:1842) om ändring av vissa skadelivräntor
+
+Finansinspektionen har, med stöd av 2 § kungörelsen (1967:667) med tilllämpningsföreskrifter till lagen (1967:663) om tillägg till vissa trafiklivräntor och 2 § förordningen (2003:832) om värdesäkring av vissa skadeståndslivräntor, beslutat om ändring av vissa skadelivräntor enligt följande.
+
+1. Livränta föranledd av en händelse som inträffat före utgången av år 1973:
+
+a) Trafiklivränta ökas med 0,94 procent (jfr SFS 1967:663).
+
+b) Skadelivränta som betalas med statsmedel ökas med 0,94 procent (jfr SFS 1971:14).
+
+c) Annan ansvarslivränta än sådan som dels anges i 1 a och 1 b, dels har fastställts före den 1 januari 2004, ökas med fyra procent (jfr SFS 1973:214). Sådan livränta som har fastställts den 1 januari 2004 eller senare ökas med 0,94 procent.
+
+2. Livränta föranledd av en händelse som dels har inträffat efter utgången av år 1973, dels har fastställts före den 1 januari 2004:
+
+a) Skadelivränta enligt lagen (1973:213) om ändring av skadeståndslivräntor ökas med en procent. Detsamma gäller livränta enligt samma lag som har fastställts genom dom den 1 januari 2004 eller senare, om dom i målet i första instans har meddelats före den 1 januari 2004.
+
+b) Det som anges i 2 a ska enligt 9 § trafikskadelagen (1975:1410) tillämpas även när det gäller trafikskadeersättning.
+
+3. Livränta föranledd av en händelse som dels har inträffat efter utgången av år 1973, dels har fastställts den 1 januari 2004 eller senare:
+
+a) Skadelivränta enligt lagen (1973:213) om ändring av skadeståndslivräntor ökas med 0,94 procent.
+
+b) Det som anges i 3 a ska enligt 9 § trafikskadelagen (1975:1410) tillämpas även när det gäller trafikskadeersättning.

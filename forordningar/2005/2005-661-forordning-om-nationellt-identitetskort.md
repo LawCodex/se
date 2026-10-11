@@ -1,0 +1,223 @@
+---
+title: "Förordning (2005:661) om nationellt identitetskort"
+identifier: "SFS 2005:661"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2005-09-01
+amended_through: "SFS 2026:1361"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-661.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:661"
+retrieved: 2026-10-11
+---
+# Förordning (2005:661) om nationellt identitetskort
+
+#### 1 §
+
+Den myndighet som enligt 2 § passlagen (1978:302) är passmyndighet kan på ansökan av en svensk medborgare även utfärda ett nationellt identitetskort.
+
+#### 1 a §
+
+Det nationella identitetskortet ska ha den utformning och det innehåll som följer av rådets förordning (EU) 2025/1208 av den 12 juni 2025 om säkrare identitetskort för unionsmedborgare och uppehållshandlingar som utfärdas till unionsmedborgare och deras familjemedlemmar när de utövar rätten till fri rörlighet. *Förordning (2025:874)*.
+
+#### 1 b §
+
+*/Träder i kraft I:2026-12-01/* I förordningen (2026:1359) om statlig e-legitimation och elektronisk identifiering finns bestämmelser om att för svenska medborgare ska den statliga e-legitimationen utfärdas på ett nationellt identitetskort.
+
+Det nationella identitetskortet ska kunna fungera som bärare till den statliga e-legitimationen. *Förordning (2026:1361)*.
+
+### Ansökan
+
+#### 2 §
+
+Den som ansöker om ett nationellt identitetskort ska inställa sig personligen hos passmyndigheten.
+
+*Förordning (2021:435)*.
+
+#### 3 §
+
+En ansökan om ett nationellt identitetskort ska göras skriftligen och undertecknas av sökanden i närvaro av den person som tar emot den. Kravet på att ansökan ska undertecknas gäller inte den som inte kan skriva sitt namn.
+
+Sökanden är skyldig att i samband med ansökan
+
+1. låta passmyndigheten ta sökandens fingeravtryck och en bild i digitalt format av sökandens ansikte,
+
+2. styrka sin identitet, sitt svenska medborgarskap och övriga personuppgifter, och
+
+3. ge in ett skriftligt medgivande från vårdnadshavare, om sökanden är under arton år och det inte finns synnerliga skäl att ändå utfärda ett nationellt identitetskort.
+
+Kravet på att lämna fingeravtryck gäller inte barn under sex år och personer som av fysiska skäl är förhindrade att lämna fingeravtryck.
+
+Om ett nationellt identitetskort tidigare har utfärdats för sökanden och det inte har förstörts, förkommit eller makulerats, ska kortet, om det fortfarande är giltigt, ges in för makulering i samband med ansökan. Det gäller inte om särskilda skäl föranleder annat. *Förordning (2021:435)*.
+
+#### 4 §
+
+*/Upphör att gälla U:2026-12-01/* Fingeravtrycken och ansiktsbilden enligt 3 § andra stycket 1 ska sparas i ett lagringsmedium i identitetskortet.
+
+Fingeravtryck som inte sparats i ett sådant medium och de biometriska data som tas fram ur fingeravtrycken och ur ansiktsbilden ska omedelbart förstöras när identitetskortet har lämnats ut eller, om kortet inte har lämnats ut, när det har gått 90 dagar från den dag då det utfärdades. Om ansökan har återkallats eller avslagits ska uppgifterna omedelbart förstöras. *Förordning (2021:435)*.
+
+#### 4 §
+
+*/Träder i kraft I:2026-12-01/* Fingeravtrycken och ansiktsbilden enligt 3 § andra stycket 1 ska sparas i ett lagringsmedium i identitetskortet.
+
+Fingeravtryck som inte sparats i ett sådant medium och de biometriska uppgifter som tas fram ur fingeravtrycken och ur ansiktsbilden ska omedelbart förstöras när identitetskortet har lämnats ut eller, om kortet inte har lämnats ut, när det har gått 90 dagar från den dag då det utfärdades. Om ansökan har återkallats eller avslagits ska uppgifterna omedelbart förstöras.
+
+Av 3 kap. 6 § 2 lagen (2026:1358) om statlig e-legitimation och elektronisk identifiering framgår att biometriska uppgifter som kan tas fram ur en ansiktsbild som har tagits vid ansökan får sparas i registret över ärenden om statlig e- legitimation. *Förordning (2026:1361)*.
+
+#### 5 §
+
+Ett nationellt identitetskort ska utfärdas med en giltighetstid av fem år.
+
+En kortare giltighetstid än fem år ska gälla i följande fall:
+
+1. När sökanden inte har fyllt tolv år. Kortet ska då vara giltigt i tre år.
+
+2. När sökanden av fysiska skäl är tillfälligt förhindrad att lämna fingeravtryck. Kortet ska då vara giltigt i högst ett år.
+
+3. När sökanden kan antas komma att förlora eller befrias från sitt svenska medborgarskap. Kortet ska då vara giltigt endast till den tidpunkt då medborgarskapet beräknas upphöra.
+
+Polismyndigheten får meddela föreskrifter om en kortare giltighetstid än tre år när identitetskort utfärdas inom landet för barn som ännu inte har förvärvat personnamn. Regeringskansliet (Utrikesdepartementet) får meddela motsvarande föreskrifter för passmyndigheter utomlands.
+
+*Förordning (2021:435)*.
+
+#### 6 §
+
+Ett nationellt identitetskort skall lämnas ut till sökanden personligen. När ett nationellt identitetskort skall lämnas ut av en passmyndighet utom riket, får myndigheten medge att det görs hos ett ombud för myndigheten.
+
+#### 7 §
+
+När en ansökan om ett nationellt identitetskort har tagits emot av en passmyndighet utom riket, ska myndigheten snarast sända ett exemplar av ansökningsblanketten tillsammans med ett fotografi till Polismyndigheten.
+
+*Förordning (2014:1169)*.
+
+#### 8 §
+
+En ansökan om ett nationellt identitetskort skall avslås om vad som sägs i 2 § eller 3 § inte har iakttagits och sökanden inte har följt uppmaningen att avhjälpa bristen.
+
+### Återkallelse
+
+#### 9 §
+
+En passmyndighet skall återkalla ett nationellt identitetskort, om innehavaren har förlorat eller efter ansökan har befriats från sitt svenska medborgarskap.
+
+Återkallelse skall också ske om hinder mot bifall till ansökan förelåg vid tiden för det nationella identitetskortets utfärdande och hindret består. Därutöver skall kortet återkallas när någon annan än den för vilket ett nationellt identitetskort är utställt förfogar över kortet.
+
+#### 10 §
+
+Passmyndigheten på den ort där kortinnehavaren uppehåller sig när ärendet tas upp beslutar om återkallelse av ett nationellt identitetskort. Beslut om återkallelse får också meddelas av den passmyndighet som har utfärdat kortet.
+
+#### 11 §
+
+En passmyndighet som enligt 10 § är behörig att besluta i ärenden om återkallelse skall så snart som möjligt ta upp ett sådant ärende om myndigheten får kännedom om att en sådan omständighet som avses i 9 § föreligger. Är även en annan myndighet behörig, skall den myndigheten underrättas om att ärendet har tagits upp.
+
+#### 12 §
+
+En passmyndighet utom riket ska omedelbart underrätta Polismyndigheten om ett beslut att återkalla ett nationellt identitetskort. *Förordning (2014:1169)*.
+
+#### 13 §
+
+Om ett nationellt identitetskort har återkallats, är kortinnehavaren eller den som annars förfogar över kortet skyldig att på begäran av en passmyndighet överlämna kortet till passmyndigheten eller en annan myndighet.
+
+Om ett nationellt identitetskort som enligt första stycket skall överlämnas till en myndighet finns hos en passmyndighet eller uppvisas för en sådan myndighet, kan myndigheten ta hand om det. Finns kortet hos en annan myndighet, skall det på begäran av passmyndigheten överlämnas till denna.
+
+### Register
+
+#### 14 §
+
+Polismyndigheten ska med hjälp av automatiserad behandling föra ett register över nationella identitetskort.
+
+Myndigheten är personuppgiftsansvarig för behandling av personuppgifter i registret. *Förordning (2014:1169)*.
+
+#### 15 §
+
+Registret skall ha till ändamål att ge information om sådana uppgifter som behövs i verksamhet hos en passmyndighet för utfärdande av nationellt identitetskort.
+
+#### 16 §
+
+Registret skall innehålla uppgifter om
+
+1. sökandens namn, personnummer, längd och kön,
+
+2. dag för utfärdandet av identitetskortet, kortnummer och giltighetstid,
+
+3. sökandens namnteckning och kopia av den ansiktsbild som identitetskortet har försetts med, och
+
+4. beslut om ansökan har avslagits eller återkallats samt uppgift om vad som har utgjort grund för ett sådant beslut.
+
+#### 17 §
+
+En uppgift i registret skall gallras senast sex månader efter att giltighetstiden för ett identitetskort har gått ut.
+
+#### 18 §
+
+*/Upphör att gälla U:2026-12-01/* Fingeravtrycken enligt 3 § andra stycket 1 och ansiktsbilden enligt 3 § andra stycket 1 och 16 § 3 får inte användas vid sökning med hjälp av automatiserad behandling. Detsamma gäller de biometriska data som kan tas fram ur fingeravtrycken och ansiktsbilden.
+
+Om en myndighet har genomfört en kontroll av om innehavarens fingeravtryck eller ansikte motsvarar fingeravtrycken eller ansiktsbilden i lagringsmediet, ska de fingeravtryck och den ansiktsbild samt de biometriska data som då har tagits fram omedelbart förstöras. *Förordning (2021:435)*.
+
+#### 18 §
+
+*/Träder i kraft I:2026-12-01/* Fingeravtrycken enligt 3 § andra stycket 1 och ansiktsbilden enligt 3 § andra stycket 1 och 16 § 3 får inte användas vid sökning med hjälp av automatiserad behandling. Detsamma gäller de biometriska uppgifter som kan tas fram ur fingeravtrycken och ansiktsbilden.
+
+Av 3 kap. 9 § andra stycket lagen (2026:1358) om statlig e- legitimation och elektronisk identifiering framgår att den ansiktsbild som tas i samband med ansökan och de biometriska uppgifter som kan tas fram ur ansiktsbilden får användas vid sökning i registret över ärenden om statlig e-legitimation för att kontrollera sökandens identitet och innehav av en e- legitimation i samband med ansökan.
+
+Om en myndighet har genomfört en kontroll av om innehavarens fingeravtryck eller ansikte motsvarar fingeravtrycken eller ansiktsbilden i lagringsmediet, ska de fingeravtryck och den ansiktsbild samt de biometriska uppgifter som då har tagits fram omedelbart förstöras. *Förordning (2026:1361)*.
+
+#### 19 §
+
+Har upphävts genom *förordning (2021:435)*.
+
+### Övriga bestämmelser
+
+#### 20 §
+
+En innehavare av ett identitetskort har rätt att hos en passmyndighet kontrollera den information som har sparats i lagringsmediet i identitetskortet.
+
+#### 21 §
+
+En passmyndighet skall makulera ett nationellt identitetskort som har återkallats. Makulering skall också ske när innehavaren ansöker om ett nytt nationellt identitetskort eller, om innehavaren har behov av det tidigare nationella identitetskortet under handläggningstiden, när det nya kortet lämnas ut.
+
+#### 22 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:1009)*.
+
+#### 23 §
+
+Beslut som enligt denna förordning meddelas av en passmyndighet gäller omedelbart.
+
+#### 24 §
+
+Polismyndigheten får, efter att ha hört Regeringskansliet (Utrikesdepartementet), meddela ytterligare föreskrifter för verkställigheten av denna förordning när det gäller nationella identitetskort som utfärdas inom riket.
+
+Regeringskansliet får, efter att ha hört Polismyndigheten, meddela motsvarande föreskrifter för passmyndigheter utom riket.
+
+Regeringskansliet får medge avvikelse från denna förordning, när det krävs på grund av särskilda förhållanden.
+
+*Förordning (2014:1169)*.
+
+#### 25 §
+
+*/Upphör att gälla U:2026-12-01/* För prövning av ansökan enligt denna förordning ska sökanden betala en ansökningsavgift om 400 kronor.
+
+För prövning av ansökan gäller i övrigt bestämmelserna i 11-14 §§ avgiftsförordningen (1992:191).
+
+För identitetskort som utfärdas vid passmyndighet utom riket tas avgift ut enligt förordningen (1997:691) om avgifter vid utlandsmyndigheterna. *Förordning (2022:1490)*.
+
+#### 25 §
+
+*/Träder i kraft I:2026-12-01/* För prövning av ansökan enligt denna förordning ska sökanden betala en ansökningsavgift om 500 kronor.
+
+För prövning av ansökan gäller i övrigt bestämmelserna i 11-14 §§ avgiftsförordningen (1992:191).
+
+För identitetskort som utfärdas vid passmyndighet utom riket tas avgift ut enligt förordningen (1997:691) om avgifter vid utlandsmyndigheterna. *Förordning (2026:1361)*.
+
+## Övergångsbestämmelser
+
+**2021:435**
+
+1. Denna förordning träder i kraft den 2 augusti 2021.
+
+2. Ett nationellt identitetskort som har utfärdats enligt äldre bestämmelser och inte återkallats gäller fortfarande under den tid som anges i identitetskortet.

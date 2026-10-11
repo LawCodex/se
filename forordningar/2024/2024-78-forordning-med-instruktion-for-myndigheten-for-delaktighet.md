@@ -1,0 +1,139 @@
+---
+title: "Förordning (2024:78) med instruktion för Myndigheten för delaktighet"
+identifier: "SFS 2024:78"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2024-02-22
+amended_through: "SFS 2026:355"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-78.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:78"
+retrieved: 2026-10-11
+---
+# Förordning (2024:78) med instruktion för Myndigheten för delaktighet
+
+> Rättelsesida till 2026:355 har iakttagits.
+
+#### 1 §
+
+Myndigheten för delaktighet har till uppgift att verka för att det nationella målet för funktionshinderspolitiken uppnås.
+
+Myndigheten har ett samordningsansvar för genomförandet av de åtaganden som följer av FN:s konvention om rättigheter för personer med funktionsnedsättning.
+
+Myndighetens arbete ska ha ett jämställdhets-, mångfalds- och barnrättsperspektiv. *Förordning (2026:355)*.
+
+#### 2 §
+
+Myndigheten ska med utgångspunkt i FN:s konvention om rättigheter för personer med funktionsnedsättning främja ett systematiskt och effektivt genomförande av funktionshinderspolitikens mål och inriktningar genom att samordna, följa upp, samla in och analysera insatser inom funktionshinderspolitiken från statliga myndigheter, kommuner, regioner och andra aktörer. *Förordning (2026:355)*.
+
+#### 3 §
+
+Myndigheten ska
+
+1. införskaffa och sammanställa kunskap om utvecklingen av levnadsvillkoren för personer med funktionsnedsättning,
+
+2. årligen i en samlad rapport redovisa utvecklingen av levnadsvillkoren och av offentliga aktörers samlade arbete för att nå det nationella målet för funktionshinderspolitiken,
+
+3. följa relevant forskning om funktionshinder och vid behov initiera utveckling av ny kunskap, och
+
+4. ta fram stöd och vägledning till olika samhällsaktörer i syfte att säkerställa tillgänglighet och delaktighet för personer med funktionsnedsättning inom olika samhällsområden.
+
+#### 4 §
+
+Myndigheten ska även
+
+1. ge stöd till delegater som representerar svenska funktionshindersorganisationer i samband med statspartsmötet för Förenta nationernas konvention om rättigheter för personer med funktionsnedsättning,
+
+2. ansvara för Sveriges deltagande i Europeiska kommissionens tävling Access City Award, och
+
+3. bidra till att Sverige uppfyller sina åtaganden inom ramen för skyddet av mänskliga rättigheter samt vid behov bistå i rapportering relaterad till Sveriges åtaganden gällande personer med funktionsnedsättning.
+
+#### 5 §
+
+Myndigheten är förvaltningsmyndighet för ledarhundsverksamhet och ska fullgöra de uppgifter som följer av lagen (2023:692) om dispositionsrätt till ledarhund.
+
+### Samverkan
+
+#### 6 §
+
+Bestämmelser om samverkan med vissa andra myndigheter finns i förordningen (2015:155) om statlig styrning med kunskap avseende hälso- och sjukvård och socialtjänst.
+
+#### 6 a §
+
+Vid myndigheten finns en nationell funktion för samordning av tolktjänst för personer med dövhet, hörselskada och dövblindhet som ska ansvara för
+
+1. information och kunskapsstöd,
+
+2. nationell uppföljning,
+
+3. samordning av utvecklingsinsatser, och
+
+4. utbetalning av statsbidrag till regionerna för tolktjänst.
+
+Myndigheten ska årligen i sin årsredovisning redovisa vilka åtgärder och aktiviteter den nationella funktionen har vidtagit. *Förordning (2026:355)*.
+
+### Ledning
+
+#### 7 §
+
+Myndigheten leds av en myndighetschef.
+
+#### 8 §
+
+Vid myndigheten finns ett insynsråd som består av högst sex ledamöter.
+
+### Särskilda organ
+
+#### 9 §
+
+Inom myndigheten finns ett rådgivande organ som benämns Strategiska rådet för funktionshinderspolitiken. Det rådgivande organet ska bidra med kunskap och stöd i genomförandet av funktionshinderspolitiken.
+
+Strategiska rådet för funktionshinderspolitiken består av myndighetschefen, som är ordförande, och myndighetscheferna i de myndigheter som är strategiskt betydelsefulla. Rådets arbete ska redovisas årligen i samband med årsredovisningen.
+
+#### 10 §
+
+Inom myndigheten finns ett rådgivande organ som benämns Användarrådet för ledarhundsverksamheten. Det rådgivande organet ska bidra med kunskap och erfarenhet i frågor som rör den ledarhundsverksamhet som myndigheten ansvarar för.
+
+Användarrådet för ledarhundsverksamheten består av en representant från myndigheten som är ordförande och högst tio andra ledamöter. Ledamöterna ska representera organisationer för personer med synnedsättning, för ledarhundsverksamhet och andra relevanta aktörer. *Förordning (2026:355)*.
+
+### Anställningar och uppdrag
+
+#### 11 §
+
+Generaldirektören är myndighetschef.
+
+#### 12 §
+
+Ledamöterna i Strategiska rådet för funktionshinderspolitiken utses av myndigheten.
+
+#### 13 §
+
+Ledamöterna i Användarrådet för ledarhundsverksamheten utses av myndigheten.
+
+### Personalansvarsnämnd
+
+#### 14 §
+
+Vid myndigheten finns en personalansvarsnämnd.
+
+### Tillämpligheten av vissa förordningar
+
+#### 15 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+### Rätt att meddela föreskrifter
+
+#### 16 §
+
+Myndigheten får meddela föreskrifter om sådana uppgifter och intyg samt om sådan veterinärvård och sådana hälsokontroller för ledarhundar som avses i 10 § lagen (2023:692) om dispositionsrätt till ledarhund.
+
+## Övergångsbestämmelser
+
+**2024:78**
+
+1. Denna förordning träder i kraft den 1 april 2024.
+
+2. Genom förordningen upphävs förordningen (2014:134) med instruktion för Myndigheten för delaktighet.

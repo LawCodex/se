@@ -1,0 +1,71 @@
+---
+title: "Bidragsbrottslag (2007:612)"
+identifier: "SFS 2007:612"
+type: act
+jurisdiction: se
+language: sv
+date: 2007-06-20
+amended_through: "SFS 2026:1322"
+department: "Finansdepartementet RS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-612.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:612"
+retrieved: 2026-10-11
+---
+# Bidragsbrottslag (2007:612)
+
+### 1 §
+
+Denna lag gäller sådana bidrag, ersättningar, pensioner och lån för personligt ändamål som enligt lag eller förordning beslutas av Försäkringskassan, Pensionsmyndigheten, Centrala studiestödsnämnden, Migrationsverket, Arbetsförmedlingen, en kommun eller en arbetslöshetskassa och betalas ut till en enskild person (ekonomisk förmån).
+
+Denna lag gäller även sådana stöd, bidrag och ersättningar som enligt lag eller förordning beslutas av Försäkringskassan, Arbetsförmedlingen eller en kommun och avser en enskild person, men betalas ut till eller tillgodoräknas någon annan än den enskilde (ekonomiskt stöd). *Lag (2019:652)*.
+
+### 2 §
+
+Den som lämnar oriktiga uppgifter eller inte anmäler ändrade förhållanden som han eller hon är skyldig att anmäla enligt lag eller förordning, och på så sätt orsakar fara för att en ekonomisk förmån eller ett ekonomiskt stöd felaktigt betalas ut, felaktigt tillgodoräknas, betalas ut med ett för högt belopp eller tillgodoräknas med ett för högt belopp, döms för bidragsbrott till fängelse i högst två år eller, om brottet är ringa, till böter eller fängelse i högst sex månader. *Lag (2019:652)*.
+
+### 3 §
+
+Om brott som avses i 2 § är grovt, döms för grovt bidragsbrott till fängelse i lägst ett och högst sex år.
+
+Vid bedömningen av om brottet är grovt ska det särskilt beaktas om
+
+1. brottet rört betydande belopp,
+
+2. den som begått brottet använt falska handlingar, eller
+
+3. gärningen ingått i en brottslighet som utövats systematiskt eller i större omfattning. *Lag (2026:1322)*.
+
+### 4 §
+
+Den som av grov oaktsamhet begår en sådan gärning som avses i 2 §, döms för vårdslöst bidragsbrott till böter eller fängelse i högst ett år.
+
+Om gärningen med hänsyn till beloppet, risken för slutlig ekonomisk skada och övriga omständigheter är mindre allvarlig, döms inte till ansvar. *Lag (2019:652)*.
+
+### 5 §
+
+Den som före utbetalning eller tillgodoräknande av en ekonomisk förmån eller ett ekonomiskt stöd frivilligt vidtar en åtgärd som leder till att ett korrekt beslut om förmånen eller stödet kan fattas, döms inte till ansvar enligt 2-4 §§.
+
+*Lag (2019:652)*.
+
+### 6 §
+
+Myndigheter som anges i 1 § samt kommuner och arbetslöshetskassor ska göra anmälan till Polismyndigheten om det kan misstänkas att brott enligt denna lag har begåtts.
+
+Om en administrativ sanktionsavgift kan påföras samma person för samma gärning som misstanken avser gäller anmälningsskyldigheten i första stycket endast om det kan misstänkas att brott enligt 3 § har begåtts eller om det finns särskilda skäl. *Lag (2026:725)*.
+
+### 6 a §
+
+Åklagaren får inte väcka åtal, utfärda strafföreläggande eller besluta om åtalsunderlåtelse i fråga om ett oriktigt uppgiftslämnande eller en underlåtenhet att anmäla ändrade förhållanden, om uppgiftslämnandet eller underlåtenheten har legat till grund för ett beslut om administrativ sanktionsavgift för samma person som åklagarens åtgärd skulle avse. *Lag (2026:725)*.
+
+### 7 §
+
+Bestämmelserna i 35 kap. 2 § brottsbalken hindrar inte att en person får dömas till påföljd för bidragsbrott som är ringa enligt 2 § eller vårdslöst bidragsbrott enligt 4 §, om den misstänkte häktats, fått del av åtal eller godkänt ett strafföreläggande för brottet inom fem år från brottet.
+
+*Lag (2025:162)*.
+
+## Övergångsbestämmelser
+
+**2007:615**
+
+Denna lag träder i kraft den 1 januari 2008. Äldre föreskrifter gäller fortfarande för brott som begåtts före ikraftträdandet.

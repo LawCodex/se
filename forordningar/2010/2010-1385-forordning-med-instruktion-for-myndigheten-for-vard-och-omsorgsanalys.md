@@ -1,0 +1,111 @@
+---
+title: "Förordning (2010:1385) med instruktion för Myndigheten för vård- och omsorgsanalys"
+identifier: "SFS 2010:1385"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-11-25
+amended_through: "SFS 2026:461"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1385.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1385"
+retrieved: 2026-10-11
+---
+# Förordning (2010:1385) med instruktion för Myndigheten för vård- och omsorgsanalys
+
+## Uppgifter
+
+### 1 §
+
+Myndigheten för vård- och omsorgsanalys har till uppgift att ur ett patient-, brukar- och medborgarperspektiv följa upp, analysera och granska verksamheter och förhållanden inom hälso- och sjukvård, tandvård och omsorg.
+
+*Förordning (2026:461)*.
+
+### 2 §
+
+Myndigheten ska
+
+1. följa upp och analysera vårdens och omsorgens funktionssätt,
+
+2. effektivitetsgranska statliga åtaganden och verksamheter, samt
+
+3. inom sitt verksamhetsområde bistå regeringen med underlag och rekommendationer för effektivisering av statlig verksamhet och styrning.
+
+### 3 §
+
+Myndigheten har även till uppgift att
+
+1. kontinuerligt utvärdera sådan information om vården och omsorgen som lämnas till den enskilde, i fråga om informationens innehåll, kvalitet, ändamålsenlighet och tillgänglighet,
+
+2. på regeringens uppdrag bistå med utvärderingar och uppföljningar av beslutade eller genomförda statliga reformer och andra statliga initiativ, samt
+
+3. inom sitt verksamhetsområde bedriva omvärldsbevakning och genomföra internationella jämförelser.
+
+### 3 a §
+
+Myndigheten ska i sitt arbete enligt 1-3 §§ inkludera ett jämställdhetsperspektiv där det är möjligt.
+
+*Förordning (2018:1524)*.
+
+### 3 b §
+
+Effektivitetsgranskningen enligt 2 § 2 ska främja en sådan utveckling att staten med hänsyn till allmänna samhällsintressen får ett effektivt utbyte av sina insatser.
+
+Effektivitetsgranskningen ska huvudsakligen inriktas på granskning av hushållning, resursutnyttjande och måluppfyllelse. Som ett led i effektivitetsgranskningen får förslag lämnas om alternativa insatser för att nå avsedda resultat. *Förordning (2026:461)*.
+
+### 4 §
+
+Myndigheten ska senast den 1 februari varje år ange i en särskild analys- och granskningsplan vilken huvudsaklig inriktning verksamheten ska ha under året.
+
+## Ledning
+
+### 5 §
+
+Myndigheten leds av en styrelse.
+
+### 6 §
+
+Styrelsen ska bestå av högst sju ledamöter.
+
+### 7 §
+
+Utöver vad som framgår av myndighetsförordningen (2007:515) ska styrelsen fatta beslut om publicering av resultatet av sådana analyser, granskningar, uppföljningar och utvärderingar som avses i 1-3 §§, samt om en sådan analys- och granskningsplan som avses i 4 §.
+
+## Rådgivande organ
+
+### 8 §
+
+Vid myndigheten ska det finnas ett patient- och brukarråd. Rådet ska särskilt
+
+1. identifiera och lämna förslag på lämpliga områden för analys och granskning, samt
+
+2. bistå myndigheten i arbetet med att identifiera patienters, brukares och medborgares behov av information.
+
+Styrelsen beslutar om övriga uppgifter.
+
+*Förordning (2015:169)*.
+
+### 9 §
+
+Patient- och brukarrådet består av myndighetens direktör, som är ordförande, och högst 20 andra ledamöter. Rådet ska innehålla företrädare för t.ex. patientnämnder, patientföreningar och brukarorganisationer.
+
+*Förordning (2015:169)*.
+
+## Anställningar och uppdrag
+
+### 10 §
+
+Generaldirektören är myndighetschef. *Förordning (2016:1255)*.
+
+### 11 §
+
+Ledamöterna i patient- och brukarrådet utses av styrelsen för en bestämd tid, dock längst tre år.
+
+*Förordning (2015:169)*.
+
+## Rapportering
+
+### 12 §
+
+Myndigheten ska löpande redovisa till regeringen resultatet av sådana analyser, granskningar, uppföljningar och utvärderingar som avses i 1-3 §§.

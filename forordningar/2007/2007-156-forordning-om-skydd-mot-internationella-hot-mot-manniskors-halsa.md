@@ -1,0 +1,83 @@
+---
+title: "Förordning (2007:156) om skydd mot internationella hot mot människors hälsa"
+identifier: "SFS 2007:156"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-04-12
+amended_through: "SFS 2019:1057"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-156.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:156"
+retrieved: 2026-10-11
+---
+# Förordning (2007:156) om skydd mot internationella hot mot människors hälsa
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning ges kompletterande föreskrifter till lagen (2006:1570) om skydd mot internationella hot mot människors hälsa. De uttryck och benämningar som används i förordningen har samma betydelse som i lagen.
+
+### 2 §
+
+Polio skall alltid anses utgöra ett internationellt hot mot människors hälsa.
+
+## Ansvarsfördelning och organisatoriska bestämmelser
+
+### 3 §
+
+Folkhälsomyndigheten ska efter samråd med berörda kommuner och regioner besluta vilka hamnar och flygplatser som ska vara karantänshamnar respektive karantänsflygplatser.
+
+*Förordning (2019:1057)*.
+
+### 4 §
+
+Folkhälsomyndigheten får meddela föreskrifter om vilken personal och vilken utrustning som karantänshamnar och karantänsflygplatser ska ha. *Förordning (2015:162)*.
+
+## Underrättelseskyldighet
+
+### 5 §
+
+Folkhälsomyndigheten får meddela föreskrifter om
+
+1. vilka misstänkta eller konstaterade fall av sjukdomar som ska rapporteras till Folkhälsomyndigheten enligt 10 § första stycket lagen (2006:1570) om skydd mot internationella hot mot människors hälsa, och
+
+2. vilka uppgifter en underrättelse som avses i 10 § första stycket lagen om skydd mot internationella hot mot människors hälsa ska innehålla. *Förordning (2015:162)*.
+
+## Åtgärder vid ankomst till Sverige
+
+### 6 §
+
+Folkhälsomyndigheten får meddela föreskrifter om vilka åtgärder till skydd för människors hälsa som ansvariga myndigheter och kommuner får vidta mot drabbade fartyg och luftfartyg. *Förordning (2015:162)*.
+
+### 6 a §
+
+Sådant informationslämnande som avses i 16 § första stycket lagen (2006:1570) om skydd mot internationella hot mot människors hälsa ska fullgöras med hjälp av Sveriges nationella system för rapporteringsformaliteter för fartyg (Single Window). *Förordning (2015:243)*.
+
+## Hälsointyg och andra intyg
+
+### 7 §
+
+Folkhälsomyndigheten får meddela föreskrifter om
+
+1. vem som får utfärda intyg,
+
+2. skyldighet att visa upp intyg och om undantag från sådan skyldighet, och
+
+3. andra behövliga föreskrifter om intyg enligt lagen (2006:1570) om skydd mot internationella hot mot människors hälsa. *Förordning (2015:162)*.
+
+## Avgifter
+
+### 8 §
+
+Kommuner får ta ut avgifter av ägaren till fartyget för undersökning och åtgärder som avses i 17 och 23 §§ lagen (2006:1570) om skydd mot internationella hot mot människors hälsa.
+
+Avgiften skall motsvara den faktiska kostnaden för åtgärden.
+
+## Ytterligare föreskrifter
+
+### 9 §
+
+Folkhälsomyndigheten får meddela de ytterligare föreskrifter till skydd för enskilda som behövs för att hindra att smittämnen eller andra ämnen som kan utgöra ett allvarligt hot mot människors hälsa förs in i landet eller sprids till andra länder. *Förordning (2015:162)*.

@@ -1,0 +1,43 @@
+---
+title: "Kustbevakningsdataförordning (2019:438)"
+identifier: "SFS 2019:438"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-06-05
+amended_through: "SFS 2025:1156"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-438.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:438"
+retrieved: 2026-10-11
+---
+# Kustbevakningsdataförordning (2019:438)
+
+### 1 §
+
+I denna förordning finns kompletterande föreskrifter om sådan behandling av personuppgifter som omfattas av kustbevakningsdatalagen (2019:429).
+
+## Tillgången till personuppgifter
+
+### 2 §
+
+Kustbevakningen ansvarar för att det inom myndigheten finns rutiner för att tilldela, förändra, ta bort och regelbundet följa upp behörigheter för åtkomst till personuppgifter.
+
+## Direktåtkomst
+
+### 3 §
+
+Polismyndigheten, Tullverket, Havs- och vattenmyndigheten, Naturvårdsverket, Sveriges meteorologiska och hydrologiska institut, Sjöfartsverket, Strålsäkerhetsmyndigheten, Transportstyrelsen, Sveriges geologiska undersökning, Myndigheten för civilt försvar och Försvarsmakten får medges direktåtkomst till personuppgifter som Kustbevakningen behandlar för att samordna civila behov av sjöövervakning och för att förmedla civil sjöinformation till berörda myndigheter. Om Kustbevakningen medger direktåtkomst gäller det som anges i 20 och 22 §§ kustbevakningsdatalagen (2019:429). *Förordning (2025:1156)*.
+
+### 4 §
+
+Kustbevakningen får ställa villkor i fråga om behörighet och säkerhet för att myndigheten ska medge direktåtkomst för de myndigheter som anges i 3 § denna förordning.
+
+Direktåtkomst får inte medges innan Kustbevakningen har försäkrat sig om att den mottagande myndigheten uppfyller kraven på behörighet och säkerhet.
+
+## Rätt att meddela föreskrifter
+
+### 5 §
+
+Riksarkivet får, efter att ha gett Kustbevakningen tillfälle att yttra sig, meddela föreskrifter om att personuppgifter som ska gallras enligt 24 § kustbevakningsdatalagen (2019:429) får bevaras för arkivändamål av allmänt intresse, vetenskapliga eller historiska forskningsändamål eller statistiska ändamål.

@@ -1,0 +1,133 @@
+---
+title: "Förordning (2007:375) om handel med finansiella instrument"
+identifier: "SFS 2007:375"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-05-31
+amended_through: "SFS 2026:650"
+department: "Finansdepartementet FMA V"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-375.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:375"
+retrieved: 2026-10-11
+---
+# Förordning (2007:375) om handel med finansiella instrument
+
+### Information som Finansinspektionen ska offentliggöra
+
+#### 1 §
+
+När Finansinspektionen skall offentliggöra information enligt 4 kap. 11 § lagen (1991:980) om handel med finansiella instrument, får inspektionen lämna informationen till någon annan för offentliggörande. Informationen skall offentliggöras på ett sådant sätt att den kan få god spridning bland allmänheten i Sverige och övriga stater inom Europeiska ekonomiska samarbetsområdet så samtidigt som möjligt.
+
+När Finansinspektionen lämnar sådan information för offentliggörande, skall
+
+1. det framgå att det är fråga om sådan information som inspektionen skall offentliggöra enligt den bestämmelsen,
+
+2. det framgå vilket aktiebolag informationen avser samt vilken dag och tid som Finansinspektionen lämnade informationen för offentliggörande,
+
+3. informationen vara upprättad som oredigerad och fullständig text,
+
+4. informationen lämnas på ett sådant sätt att uppgifter inte förvanskas eller att obehöriga får tillgång till informationen, och
+
+5. det framgå att informationen kommer från Finansinspektionen.
+
+Om det uppstår ett fel eller ett avbrott i samband med att informationen lämnas för offentliggörande, skall detta åtgärdas snarast.
+
+#### 2 §
+
+Information som avses i 1 § skall offentliggöras på svenska, danska, norska eller på ett språk som används allmänt på de internationella finansiella marknaderna.
+
+Om aktierna är upptagna till handel på en reglerad marknad i en eller flera andra stater inom Europeiska ekonomiska samarbetsområdet, skall informationen offentliggöras på något av de språk som anges i första stycket och som godtas av de behöriga myndigheterna i de stater där aktierna är upptagna till handel.
+
+#### 3 §
+
+Finansinspektionen ska på sin webbplats offentliggöra
+
+1. en förteckning över vad som enligt 4 § 6 ska avses med handelsdagar, och
+
+2. den information om beslut som ska offentliggöras enligt artikel 29 i Europaparlamentets och rådets direktiv 2004/109/EG av den 15 december 2004 om harmonisering av insynskraven angående upplysningar om emittenter vars värdepapper är upptagna till handel på en reglerad marknad och om ändring av direktiv 2001/34/EG, i lydelsen enligt Europaparlamentets och rådets direktiv 2013/50/EU.
+
+*Förordning (2015:962)*.
+
+### Bemyndiganden
+
+Bemyndiganden enligt lagen (1991:980) om handel med finansiella instrument
+
+#### 4 §
+
+När det gäller lagen (1991:980) om handel med finansiella instrument får Finansinspektionen meddela föreskrifter om
+
+1. villkor för avtal om förfoganden över finansiella instrument som tillhör någon annan enligt 3 kap. 1 och 3 §§,
+
+2. på vilket språk sådan information som avses i 4 kap. 1 § tredje stycket, 9 § första stycket eller 18 § ska offentliggöras,
+
+3. vilka finansiella instrument som avses i 4 kap. 2 § första stycket 2 och 3,
+
+4. en anmälan enligt 4 kap. 3 § och 9 § andra stycket,
+
+5. vad som ska avses med handelsdagar i 4 kap. 9-11 §§,
+
+6. hur information som avses i 4 kap. 9 § första stycket eller 18 § ska offentliggöras,
+
+7. den längsta tid som aktier får innehas för att undantag ska få göras enligt 4 kap. 12 § 1,
+
+8. vilka upplysningar som marknadsgaranter som inte är värdepappersinstitut och som har utnyttjat undantaget i 4 kap. 14 § första stycket ska lämna till Finansinspektionen,
+
+9. vad som krävs för att undantag från sammanläggning av moder- och dotterföretags innehav ska få göras enligt 4 kap. 16 och 17 §§,
+
+10. offentliggörande enligt 4 kap. 19 § av förvärv eller överlåtelse av egna aktier,
+
+11. att sådana anmälningar som enligt 4 kap. 19 § ska göras till Finansinspektionen i stället ska göras till den börs som driver den reglerade marknad där aktierna är upptagna till handel,
+
+12. information som ska lämnas till Finansinspektionen enligt 4 kap. 21 § första stycket,
+
+13. förutsättningarna för att sådana krav i en utländsk reglering som avses i 4 kap. 23 och 24 §§ ska anses motsvara dem som följer av Europaparlamentets och rådets direktiv 2004/109/EG, i lydelsen enligt Europaparlamentets och rådets direktiv 2013/50/EU, och
+
+14. hur skyldigheten att lämna uppgifter till Finansinspektionen enligt 6 kap. 1 a § ska fullgöras.
+
+*Förordning (2026:649)*.
+
+### Bemyndiganden enligt lagen (2006:451) om offentliga uppköpserbjudanden på aktiemarknaden
+
+#### 4 a §
+
+*/Träder i kraft I:2030-01-10/* När det gäller lagen (2006:451) om offentliga uppköpserbjudanden på aktiemarknaden får Finansinspektionen meddela föreskrifter om
+
+1. information som ska lämnas till Finansinspektionen enligt 2 kap. 2 § andra stycket,
+
+2. den erbjudandehandling som ska lämnas till Finansinspektionen för godkännande enligt 2 kap. 3 § första stycket,
+
+3. information som ska lämnas till Finansinspektionen enligt 4 kap. 2 § första stycket, och
+
+4. en anmälan enligt 7 kap. 12 § första stycket.
+
+*Förordning (2026:650)*.
+
+#### 5 §
+
+Finansinspektionen får meddela föreskrifter om att frågor som avses i 2 kap. 3 § andra stycket, 3 kap. 4 § samt 7 kap. 4 och 5 §§ lagen (2006:451) om offentliga uppköpserbjudanden på aktiemarknaden får beslutas av ett organ med representativa företrädare för näringslivet. *Förordning (2007:591)*.
+
+#### 6 §
+
+Finansinspektionen får meddela närmare föreskrifter om kungörande av beslut enligt 7 kap. 9 § lagen (2006:451) om offentliga uppköpserbjudanden på aktiemarknaden.
+
+*Förordning (2007:591)*.
+
+#### 7 §
+
+Har upphävts genom *förordning (2007:591)*.
+
+#### 8 §
+
+Har betecknats 5 § genom *förordning (2007:591)*.
+
+#### 9 §
+
+Har betecknats 6 § genom fördning (2007:591).
+
+## Övergångsbestämmelser
+
+**2007:375**
+
+Denna förordning träder i kraft den 1 juli 2007. Genom förordningen upphävs förordningen (1991:1007) om handel och tjänster på värdepappersmarknaden.

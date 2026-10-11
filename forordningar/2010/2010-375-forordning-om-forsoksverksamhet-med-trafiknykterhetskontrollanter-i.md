@@ -1,0 +1,79 @@
+---
+title: "Förordning (2010:375) om försöksverksamhet med trafiknykterhetskontrollanter i hamnar"
+identifier: "SFS 2010:375"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-05-20
+amended_through: "SFS 2014:1179"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-375.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:375"
+retrieved: 2026-10-11
+---
+# Förordning (2010:375) om försöksverksamhet med trafiknykterhetskontrollanter i hamnar
+
+## 1 §
+
+Denna förordning innehåller föreskrifter som ansluter till lagen (2010:374) om försöksverksamhet med trafiknykterhetskontrollanter i hamnar.
+
+## 2 §
+
+En ansökan om förordnande som trafiknykterhetskontrollant ska vara skriftlig och ges in till Polismyndigheten.
+
+*Förordning (2014:1179)*.
+
+## 3 §
+
+Återkallas ett förordnande som trafiknykterhetskontrollant eller stängs trafiknykterhetskontrollanten av från tjänstgöring, ska han eller hon omedelbart överlämna sitt bevis om förordnande till Polismyndigheten eller till en polisman. Om en avstängning upphör utan att förordnandet återkallas, ska trafiknykterhetskontrollanten få tillbaka beviset.
+
+*Förordning (2014:1179)*.
+
+## 4 §
+
+En trafiknykterhetskontrollant ska bära klädsel eller kännetecken som gör att det klart framgår att han eller hon tjänstgör som trafiknykterhetskontrollant.
+
+## 5 §
+
+Utbildning av trafiknykterhetskontrollanter bedrivs av Polismyndigheten eller, om det finns särskilda skäl för det, av den som har fått tillstånd av Polismyndigheten att bedriva sådan utbildning.
+
+Ett tillstånd att bedriva utbildning får ges endast till den som har tillräcklig kompetens och lämplig organisation för att kunna genomföra utbildningen på ett sakkunnigt och omdömesgillt sätt. *Förordning (2014:1179)*.
+
+## 6 §
+
+Polismyndigheten får återkalla ett tillstånd att bedriva utbildning av trafiknykterhetskontrollanter om det inte längre finns förutsättningar för tillståndet eller om det finns andra särskilda skäl för återkallelse.
+
+*Förordning (2014:1179)*.
+
+## 7 §
+
+Polismyndigheten får ta ut en avgift för sådan utbildning av trafiknykterhetskontrollanter som myndigheten genomför.
+
+Myndigheten bestämmer storleken på avgiften och får disponera avgiftsintäkterna. *Förordning (2014:1179)*.
+
+## 8 §
+
+En avgift får tas ut för prövning av ansökan enligt 2 §.
+
+För ansökningsavgiftens storlek m.m. gäller bestämmelserna i 9-14 §§ avgiftsförordningen (1992:191), varvid avgiftsklass 2 tillämpas.
+
+## 9 §
+
+I 22 a § förvaltningslagen (1986:223) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut av Polismyndigheten än beslut enligt 6 § får inte överklagas.
+
+*Förordning (2014:1179)*.
+
+## 10 §
+
+Polismyndigheten får meddela
+
+1. ytterligare föreskrifter om trafiknykterhetskontrollanters klädsel,
+
+2. föreskrifter om trafiknykterhetskontrollanters utrustning,
+
+3. föreskrifter om den särskilda utbildningen för trafiknykterhetskontrollanter, och
+
+4. de ytterligare föreskrifter som behövs för verkställigheten av lagen (2010:374) om försöksverksamhet med trafiknykterhetskontrollanter i hamnar och denna förordning.
+
+*Förordning (2014:1179)*.

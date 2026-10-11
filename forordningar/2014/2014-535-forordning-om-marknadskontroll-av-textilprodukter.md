@@ -1,0 +1,29 @@
+---
+title: "Förordning (2014:535) om marknadskontroll av textilprodukter"
+identifier: "SFS 2014:535"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-06-12
+amended_through: "SFS 2022:1187"
+department: "Finansdepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-535.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:535"
+retrieved: 2026-10-11
+---
+# Förordning (2014:535) om marknadskontroll av textilprodukter
+
+### 1 §
+
+Konsumentverket är marknadskontrollmyndighet och utövar marknadskontroll enligt Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011 över att produkter överensstämmer med kraven i förordning (EU) nr 1007/2011 av den 27 september 2011 om benämningar på textilfibrer och därtill hörande etikettering och märkning av fibersammansättningen i textilprodukter och om upphävande av rådets direktiv 73/44/EEG och Europaparlamentets och rådets direktiv 96/73/EG och 2008/121/EG.
+
+Bestämmelser om en marknadskontrollmyndighets befogenhet att besluta om åtgärder enligt förordning (EU) 2019/1020 finns i lagen (2014:534) med kompletterande bestämmelser till EU:s textilmärkningsförordning. *Förordning (2022:1187)*.
+
+## Övergångsbestämmelser
+
+**2014:535**
+
+1. Denna förordning träder i kraft den 1 augusti 2014, då förordningen (1993:969) om märkning av textilier ska upphöra att gälla.
+
+2. Äldre föreskrifter gäller till och med den 9 november 2014 i fråga om textilprodukter som har släppts ut på marknaden före den 8 maj 2012.

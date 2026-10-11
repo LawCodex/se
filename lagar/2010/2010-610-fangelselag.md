@@ -1,0 +1,1029 @@
+---
+title: "Fängelselag (2010:610)"
+identifier: "SFS 2010:610"
+type: act
+jurisdiction: se
+language: sv
+date: 2010-06-10
+amended_through: "2026:1673"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-610.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:610"
+retrieved: 2026-10-11
+---
+# Fängelselag (2010:610)
+
+> Rättelseblad 2017:1013 har iakttagits.
+
+## 1 kap. Inledande bestämmelser
+
+### Lagens innehåll och tillämpningsområde
+
+#### 1 §
+
+Denna lag innehåller bestämmelser om verkställighet av fängelse i kriminalvårdsanstalt i Sverige. Bestämmelserna avser
+
+- placering (2 kap.),
+
+- sysselsättning och ersättning (3 kap.),
+
+- fritid (4 kap.),
+
+- personliga tillhörigheter (5 kap.),
+
+- vistelse i gemensamhet och avskildhet (6 kap.),
+
+- besök och andra kontakter (7 kap.),
+
+- särskilda kontroll- och tvångsåtgärder (8 kap.),
+
+- hälso- och sjukvård (9 kap.),
+
+- permission och annan tillfällig vistelse utanför anstalt
+
+(10 kap.),
+
+- frigivningsförberedande åtgärder (11 kap.),
+
+- varning och uppskjuten villkorlig frigivning (12 kap.),
+
+- avbrott i verkställigheten (12 a kap.), och
+
+- beslut och överklagande m.m. (13-15 kap.). *Lag (2026:990)*.
+
+#### 1 a §
+
+Verkställighet av fängelse får även ske i en kriminalvårdsanstalt utomlands enligt lagen (2026:983) om tillfällig verkställighet av svenska fängelsestraff utomlands.
+
+Verkställighet av fängelse i en kriminalvårdsanstalt får dock inte inledas i en kriminalvårdsanstalt utomlands.
+
+*Lag (2026:990)*.
+
+#### 2 §
+
+Den som är intagen i anstalt får under verkställigheten vistas utanför anstalten i enlighet med vad som föreskrivs i denna lag. En intagen får under verkställigheten även vistas utanför anstalten om det sker med stöd av bestämmelser i annan lag om tillfälligt överförande av frihetsberövade personer till en annan stat.
+
+Som vistelse utanför anstalt anses inte att en intagen, genom Kriminalvårdens försorg, transporteras utanför en anstalt med anledning av att ett beslut enligt lagen ska verkställas.
+
+Vid avtjänande av en del av fängelsestraffet genom en frigivningsförberedande åtgärd som innebär att den intagne enligt 11 kap. 1 § har sin dygnsvila utanför anstalt gäller inte 2-10 kap. *Lag (2026:927)*.
+
+#### 3 §
+
+Bestämmelser om när fängelsestraff får verkställas och hur strafftid ska beräknas finns i strafftidslagen (2018:1251). *Lag (2018:1259)*.
+
+### Verkställighetens mål och utformning
+
+#### 4 §
+
+Varje intagen ska bemötas med respekt för sitt människovärde och med förståelse för de särskilda svårigheter som är förenade med frihetsberövandet.
+
+#### 4 a §
+
+Vid alla åtgärder som rör intagna som inte har fyllt arton år ska i första hand beaktas vad som bedöms vara barnets bästa. En intagen som inte har fyllt arton år ska ges möjlighet att framföra sina åsikter i frågor som rör honom eller henne och vid bedömningen av barnets bästa ska hänsyn tas till barnets åsikter. *Lag (2026:530)*.
+
+#### 5 §
+
+Verkställigheten ska utformas så att den intagnes anpassning i samhället underlättas och så att negativa följder av frihetsberövandet motverkas.
+
+Verkställigheten ska, i den utsträckning det är möjligt utan att kravet på samhällsskydd eftersätts, särskilt inriktas på åtgärder som är ägnade att förebygga återfall i brott. För varje intagen ska det upprättas en individuellt utformad verkställighetsplan.
+
+Verkställigheten ska planeras och utformas efter samråd med den intagne och i samverkan med berörda myndigheter.
+
+För en intagen som inte har fyllt arton år ska verkställigheten utöver vad som framgår av tredje stycket, om det är möjligt, planeras och utformas efter samråd med den intagnes vårdnadshavare. I de fall det bedöms lämpligt får samråd även ske med andra personer. Vid behov ska samverkan även ske med andra berörda aktörer. *Lag (2026:530)*.
+
+#### 5 a §
+
+Socialnämnden i den kommun som enligt 29 kap. socialtjänstlagen (2025:400) har ansvar för en intagen som inte har fyllt arton år ska utse en särskild handläggare för honom eller henne. *Lag (2026:530)*.
+
+#### 6 §
+
+Verkställigheten får inte innebära andra begränsningar i den intagnes frihet än som följer av denna lag eller som är nödvändiga för att ordningen eller säkerheten ska kunna upprätthållas.
+
+En kontroll- eller tvångsåtgärd får endast användas om den står i rimlig proportion till syftet med åtgärden. Om en mindre ingripande åtgärd är tillräcklig ska den användas.
+
+### Särskilda villkor för långtidsdömda
+
+#### 7 §
+
+För en intagen som avtjänar fängelse i lägst fyra år ska det, om det inte är uppenbart obehövligt, beslutas om de särskilda villkor som av säkerhetsskäl är nödvändiga när det gäller
+
+1. placering i anstalt,
+
+2. verkställighet av fängelse enligt lagen (2026:983) om tillfällig verkställighet av svenska fängelsestraff utomlands,
+
+3. vistelse utanför anstalt enligt 10 kap. 1 och 2 §§, och
+
+4. frigivningsförberedande åtgärder enligt 11 kap. 1 §.
+
+Om det finns särskilda skäl ska villkor enligt första stycket också beslutas för en intagen som har dömts till fängelse i lägst två år. *Lag (2026:990)*.
+
+#### 8 §
+
+Prövning av vilka särskilda villkor som ska gälla för verkställigheten enligt 7 § ska ske så snart verkställigheten påbörjas eller annars när det finns behov av det. Villkoren ska omprövas när det finns anledning till det.
+
+Ett beslut om placering, permission, särskild permission eller frigivningsförberedande åtgärder får inte meddelas i strid med de särskilda villkoren. *Lag (2026:927)*.
+
+## 2 kap. Placering
+
+### Placering i anstalt
+
+#### 1 §
+
+En intagen får inte placeras så att han eller hon underkastas mer ingripande övervakning och kontroll än som är nödvändigt för att ordningen eller säkerheten ska kunna upprätthållas.
+
+Vid beslut om placering ska, i den utsträckning det är möjligt, hänsyn tas till den intagnes behov av sysselsättning, omvårdnad och en lämplig frigivningsplanering.
+
+#### 2 §
+
+En intagen får inte placeras så att han eller hon vistas tillsammans med intagna av motsatt kön. En sådan placering får dock göras om det finns särskilda skäl för det och om det i övrigt är lämpligt. *Lag (2024:244)*.
+
+### Placering av barn och unga
+
+#### 3 §
+
+En intagen som inte har fyllt arton år får inte vistas tillsammans med intagna som har fyllt arton år och ska placeras på en avdelning som är särskilt anpassad utifrån barns behov och rättigheter (barn- och ungdomsavdelning).
+
+Undantag från första stycket får göras endast om det är till den intagnes bästa. *Lag (2026:530)*.
+
+#### 3 a §
+
+En intagen som har fyllt arton men inte tjugoett år får placeras på en barn- och ungdomsavdelning om det finns särskilda skäl och det är till det bästa för intagna barn på avdelningen. *Lag (2026:530)*.
+
+### Placering på säkerhetsavdelning
+
+#### 4 §
+
+En intagen får placeras på en avdelning med särskild hög grad av övervakning och kontroll (säkerhetsavdelning) om
+
+1. det finns en varaktig risk för att den intagne rymmer eller fritas och det kan antas att han eller hon är särskilt benägen att fortsätta allvarlig brottslig verksamhet, eller
+
+2. det finns särskild anledning att anta att det behövs för att hindra den intagne från allvarlig brottslig verksamhet under vistelsen i anstalt.
+
+Ett beslut om placering på en säkerhetsavdelning ska omprövas så ofta det finns anledning till det, dock minst en gång i månaden.
+
+En intagen som inte har fyllt arton år får inte placeras på en säkerhetsavdelning. *Lag (2026:530)*.
+
+### Placering i häkte
+
+#### 4 a §
+
+I anslutning till omplacering får en intagen placeras i häkte
+
+1. i avvaktan på anstaltsplacering, om det är nödvändigt med hänsyn till ordningen eller säkerheten, eller
+
+2. om det behövs med hänsyn till transportförhållandena.
+
+Den intagne får i de fall som avses i första stycket tillfälligt placeras i polisarrest. Är den intagne under arton år får han eller hon placeras i polisarrest endast om det är absolut nödvändigt. *Lag (2018:1259)*.
+
+#### 4 b §
+
+Tiden i häkte med stöd av 4 a § första stycket får inte vara längre än nödvändigt och inte längre än sju dagar, om det inte finns särskilda skäl för en längre tid. Även om det finns särskilda skäl får tiden inte vara längre än trettio dagar.
+
+Vid tillämpning av första stycket ska tid i polisarrest räknas som tid i häkte. *Lag (2018:1259)*.
+
+### Tillstånd att ha spädbarn hos sig
+
+#### 5 §
+
+En intagen får medges att ha sitt spädbarn hos sig, om det kan anses vara till barnets bästa.
+
+## 3 kap. Sysselsättning och ersättning
+
+### Den intagnes rätt till sysselsättning
+
+#### 1 §
+
+En intagen ska ges möjlighet till sysselsättning i form av arbete, utbildning, brotts- och missbruksrelaterad programverksamhet eller annan strukturerad verksamhet.
+
+En intagen som inte har fyllt arton år får inte erbjudas sysselsättning i form av arbete. *Lag (2026:530)*.
+
+### Sysselsättningsplikt
+
+#### 2 §
+
+En intagen är skyldig att utföra eller delta i den sysselsättning som anvisas honom eller henne.
+
+En intagen som uppbär ålderspension enligt socialförsäkringsbalken får inte åläggas någon sysselsättning.
+
+En intagen som har beviljats sjukersättning eller aktivitetsersättning enligt samma balk får åläggas sysselsättning bara av den art och den omfattning som kan anses lämplig för honom eller henne.
+
+En intagen får inte åläggas att underkasta sig behandling av medicinsk karaktär.
+
+### Ersättning
+
+#### 3 §
+
+En intagen har rätt till ersättning från Kriminalvården om
+
+1. han eller hon har utfört eller deltagit i anvisad sysselsättning, och
+
+2. ersättning för sysselsättningen inte betalas ut av någon annan.
+
+#### 4 §
+
+Kriminalvården ska, för permissions- och frigivningsändamål, hålla inne en tiondel av den ersättning som avses i 3 §. Kriminalvården får i särskilda fall medge att den ersättning som hålls inne används för annat ändamål.
+
+Ersättning som hålls inne ska betalas ut till den intagne senast i samband med att han eller hon inte längre ska vara berövad friheten.
+
+I fråga om den som är dömd till utvisning får ersättning som hålls inne enligt första stycket användas för betalning av en sådan resa som avses i 19 kap. 1 § utlänningslagen (2005:716).
+
+#### 5 §
+
+Om en intagen uppsåtligen har skadat egendom som tillhör eller har upplåtits till Kriminalvården, får Kriminalvården av den ersättning som avses i 3 § ta ut ett belopp som motsvarar kostnaderna för att ersätta eller på annat sätt återställa egendomen.
+
+#### 6 §
+
+Ersättning som avses i 3 § får inte utmätas.
+
+## 4 kap. Fritid
+
+### Vistelse utomhus
+
+#### 1 §
+
+En intagen ska ges möjlighet att vistas utomhus minst en timme varje dag, om det inte finns synnerliga skäl mot det.
+
+### Fritidssysselsättning
+
+#### 2 §
+
+En intagen ska ges möjlighet att på lämpligt sätt ägna sig åt fysisk aktivitet och annan fritidssysselsättning.
+
+### Utbud av massmedier
+
+#### 3 §
+
+En intagen ska ges möjlighet att på lämpligt sätt följa vad som händer i omvärlden.
+
+### Religionsutövning
+
+#### 4 §
+
+En intagen ska ges möjlighet att på lämpligt sätt utöva sin religion.
+
+### Förtroenderåd
+
+#### 5 §
+
+En intagen ska ges möjlighet att på lämpligt sätt sammanträda med andra intagna för överläggning i frågor som är av gemensamt intresse för de intagna (förtroenderåd).
+
+Ett förtroenderåd ska ges möjlighet att på lämpligt sätt överlägga med ledningen för anstalten.
+
+## 5 kap. Personliga tillhörigheter
+
+#### 1 §
+
+En intagen får ta emot och inneha böcker, tidskrifter och tidningar, dock inte sådana som kan
+
+1. äventyra ordningen eller säkerheten, eller
+
+2. antas motverka den behandling som han eller hon genomgår.
+
+I övrigt får en intagen ta emot och inneha de personliga tillhörigheter som är motiverade med hänsyn till att verkställigheten ska kunna genomföras på ett ändamålsenligt sätt.
+
+#### 2 §
+
+Tillhörigheter som en intagen inte får ta emot och inneha får omhändertas och förvaras för den intagnes räkning.
+
+Tillhörigheter som omhändertagits ska lämnas ut till den intagne senast i samband med att han eller hon inte längre ska vara berövad friheten.
+
+En intagen får inte utan särskilt medgivande disponera pass och pengar som omhändertagits enligt första stycket.
+
+#### 3 §
+
+Tillhörigheter som omhändertagits får på den intagnes bekostnad sändas till den adress där han eller hon är folkbokförd eller till annan adress som han eller hon anger.
+
+#### 4 §
+
+Lämnar en intagen kvar tillhörigheter i en anstalt ska tillhörigheterna förvaras av Kriminalvården i tre månader från det att frihetsberövandet upphört. Om tillhörigheterna inte har hämtats ut inom denna tid, får de genom Kriminalvårdens försorg säljas eller, om det inte är möjligt, förstöras.
+
+Om Kriminalvården har sålt en intagens tillhörigheter, har han eller hon rätt till skälig ersättning. Sådan ersättning får inte betalas ut med ett högre belopp än som har kommit in vid försäljningen. *Lag (2026:990)*.
+
+## 6 kap. Vistelse i gemensamhet och avskildhet
+
+### Gemensamhet
+
+#### 1 §
+
+En intagen ska under den tid då han eller hon är skyldig att utföra eller delta i sysselsättning vistas tillsammans med andra intagna (gemensamhet), om inte annat anges i denna lag eller följer av sysselsättningens särskilda beskaffenhet.
+
+#### 2 §
+
+En intagen ska ges möjlighet att på sin fritid vistas i gemensamhet, om inte annat anges i denna lag.
+
+### Avskildhet vid dygnsvila
+
+#### 3 §
+
+Intagna får hållas avskilda från varandra i anslutning till dygnsvilan.
+
+Intagna som inte har fyllt arton år får i anslutning till dygnsvilan inte hållas avskilda från varandra under en längre period än elva timmar, utöver tid för inlåsning och upplåsning. Inlåsning får påbörjas tidigast 15 minuter före den bestämda tiden för inlåsning på bostadsrummen och upplåsning ska avslutas senast 15 minuter efter den bestämda tiden för upplåsning av bostadsrummen. *Lag (2026:530)*.
+
+### Avskildhet på egen begäran
+
+#### 4 §
+
+En intagen får, om det är lämpligt, medges att på egen begäran hållas avskild från andra intagna.
+
+Ett medgivande till avskildhet enligt första stycket ska omprövas så ofta det finns anledning till det, dock minst en gång i månaden.
+
+### Avskildhet av ordnings- och säkerhetsskäl
+
+#### 5 §
+
+Intagna får tillfälligt hållas avskilda från varandra, om det är nödvändigt för att ordningen eller säkerheten ska kunna upprätthållas.
+
+#### 6 §
+
+En intagen får tillfälligt hållas avskild från andra intagna, om det är nödvändigt på grund av att den intagne är våldsam eller berusad.
+
+Om ett avskiljande enligt första stycket inte kan verkställas i anstalt, får den intagne placeras i häkte i högst två dygn.
+
+#### 7 §
+
+En intagen får hållas avskild från andra intagna om det är nödvändigt
+
+1. med hänsyn till rikets säkerhet,
+
+2. med hänsyn till att det finns en risk för den intagnes eller någon annans säkerhet till liv eller hälsa eller för allvarlig skadegörelse på egendom som tillhör eller har upplåtits till Kriminalvården,
+
+3. med hänsyn till att det finns en risk för att den intagne rymmer eller fritas och det kan antas att han eller hon är särskilt benägen att fortsätta allvarlig brottslig verksamhet,
+
+4. för att hindra att den intagne påverkar någon annan intagen att allvarligt störa ordningen i anstalten,
+
+5. för att hindra att den intagne medverkar till att någon annan intagen får tillgång till alkohol, narkotika, något annat berusningsmedel, något sådant medel som avses i 1 § lagen (1991:1969) om förbud mot vissa dopningsmedel eller någon sådan vara som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga varor, eller
+
+6. för att hindra att den intagne allvarligt ofredar någon annan intagen.
+
+Ett beslut om avskildhet enligt första stycket ska omprövas så ofta det finns anledning till det, dock minst var tionde dag.
+
+### Avskildhet vid utredning av misskötsamhet
+
+#### 8 §
+
+Under utredning av frågor enligt 12 kap. 1 § denna lag eller enligt 26 kap. 6 a och 7 §§ brottsbalken får en intagen tillfälligt hållas avskild från andra intagna i den utsträckning det är absolut nödvändigt för att syftet med utredningen inte ska äventyras. Den intagne får inte hållas avskild under längre tid än fyra dygn.
+
+En intagen som hålls avskild från andra intagna enligt första stycket får vägras kontakt med andra personer genom besök, elektronisk kommunikation eller försändelser, om det är absolut nödvändigt för att syftet med utredningen inte ska äventyras.
+
+Om ett avskiljande enligt första stycket inte kan verkställas i anstalt, får den intagne placeras i häkte. *Lag (2018:1259)*.
+
+### Avskildhet vid kroppsbesiktning
+
+#### 9 §
+
+En intagen får hållas avskild från andra intagna om det är nödvändigt för att genomföra en kroppsbesiktning.
+
+### Läkarundersökning
+
+#### 10 §
+
+En intagen som hålls avskild från andra intagna på grund av att han eller hon uppträder våldsamt eller är farlig för sin egen säkerhet till liv eller hälsa ska undersökas av läkare så snart som möjligt. En intagen som av andra skäl hålls avskild från andra intagna ska undersökas av läkare om det behövs med hänsyn till den intagnes hälsotillstånd, dock minst en gång i månaden.
+
+### Uppföljande samtal för intagna som inte har fyllt arton år
+
+#### 11 §
+
+En intagen som inte har fyllt arton år ska, om det inte är uppenbart obehövligt, erbjudas ett uppföljande samtal efter att ett beslut om avskildhet har verkställts om beslutet avser
+
+1. avskildhet av ordnings- och säkerhetsskäl enligt 5, 6 eller 7 §,
+
+2. avskildhet vid utredning av misskötsamhet enligt 8 §, eller
+
+3. avskildhet vid kroppsbesiktning enligt 9 §.
+
+Vid samtalet ska den intagne informeras om skälet för åtgärden och ges möjlighet att framföra sin uppfattning om den.
+
+*Lag (2026:530)*.
+
+## 7 kap. Besök och andra kontakter
+
+### Besök
+
+#### 1 §
+
+En intagen får ta emot besök i den utsträckning det lämpligen kan ske. Ett besök får dock vägras om det
+
+1. kan äventyra säkerheten på ett sätt som inte kan avhjälpas genom kontroll enligt 2 eller 3 §,
+
+2. kan motverka den intagnes anpassning i samhället, eller
+
+3. på annat sätt kan vara till skada för den intagne eller någon annan.
+
+#### 2 §
+
+Ett besök får, om det är nödvändigt av säkerhetsskäl, kontrolleras genom att
+
+1. personal övervakar besöket, eller
+
+2. besöket äger rum i ett besöksrum som är så utformat att det omöjliggör att föremål överlämnas.
+
+Ett besök av en advokat som biträder den intagne i en rättslig angelägenhet får kontrolleras endast om advokaten eller den intagne begär det.
+
+#### 3 §
+
+Ett besök får, om det är nödvändigt av säkerhetsskäl, villkoras av att besökaren underkastar sig kroppsvisitation eller ytlig kroppsbesiktning.
+
+### Elektronisk kommunikation
+
+#### 4 §
+
+En intagen får stå i förbindelse med en annan person genom elektronisk kommunikation i den utsträckning det lämpligen kan ske. Sådan kommunikation får dock vägras om den
+
+1. kan äventyra säkerheten på ett sätt som inte kan avhjälpas genom avlyssning enligt 5 §,
+
+2. kan motverka den intagnes anpassning i samhället, eller
+
+3. på annat sätt kan vara till skada för den intagne eller någon annan.
+
+#### 5 §
+
+Elektronisk kommunikation mellan en intagen och en annan person får avlyssnas om det är nödvändigt av säkerhetsskäl. De som ska kommunicera med varandra ska i förväg informeras om kontrollen.
+
+Elektronisk kommunikation mellan en intagen och en advokat som biträder den intagne i en rättslig angelägenhet får inte avlyssnas.
+
+### Försändelser
+
+#### 6 §
+
+En försändelse mellan en intagen och en advokat, en svensk myndighet eller ett internationellt organ som har av Sverige erkänd behörighet att ta emot klagomål från enskilda ska vidarebefordras utan granskning. Om det finns anledning att anta att uppgiften om avsändare av en sådan försändelse till en intagen är oriktig, får försändelsen granskas i syfte att utreda vem avsändaren är.
+
+#### 7 §
+
+I andra fall än som avses i 6 § får en försändelse till eller från en intagen i anstalt granskas, om det är nödvändigt med hänsyn till ordningen eller säkerheten. Syftet med granskningen ska vara att undersöka om försändelsen
+
+1. innehåller något otillåtet föremål, eller
+
+2. är ett led i en pågående eller planerad brottslig verksamhet, ett planerat avvikande eller något annat liknande förfarande.
+
+#### 8 §
+
+En försändelse som har granskats ska, om inte särskilda skäl talar mot det, lämnas ut till den intagne så snart som möjligt och senast när han eller hon inte längre ska vara berövad friheten.
+
+#### 9 §
+
+Bestämmelserna i 6-8 §§ gäller även en försändelse till eller från en sammanslutning av intagna.
+
+### Gemensamma bestämmelser
+
+#### 10 §
+
+Om det behövs för att kunna bedöma om besök eller elektronisk kommunikation kan tillåtas enligt 1 eller 4 § eller ska kontrolleras enligt 2 eller 5 §, ska det i förväg undersökas om den som kontakten ska äga rum med är dömd eller misstänkt för brott eller för att utöva brottslig verksamhet.
+
+I den utsträckning det behövs får upplysningar också inhämtas om hans eller hennes personliga förhållanden i övrigt.
+
+#### 11 §
+
+Regeringen får när det gäller en viss intagen besluta om undantag från bestämmelserna i detta kapitel, om det behövs med hänsyn till rikets säkerhet eller risken för att den intagne under verkställigheten i anstalt medverkar till terroristbrott enligt 4 § terroristbrottslagen (2022:666).
+
+*Lag (2022:680)*.
+
+#### 12 §
+
+Bestämmelser om att en intagen får vägras kontakt med andra personer genom besök, elektronisk kommunikation och försändelser finns också i 6 kap. 8 § andra stycket.
+
+#### 13 §
+
+I frågor som rör besök och andra kontakter ska särskilt beaktas den rätt som intagna som inte har fyllt arton år har att hålla kontakt med sin familj. *Lag (2026:530)*.
+
+## 8 kap. Särskilda kontroll- och tvångsåtgärder
+
+### Fotografering
+
+#### 1 §
+
+Fotografi får tas av en intagen för biometrisk autentisering eller annan identifiering av honom eller henne.
+
+*Lag (2026:103)*.
+
+### Kontroll av bostadsrum
+
+#### 2 §
+
+En intagens bostadsrum och hans eller hennes tillhörigheter får kontrolleras i den utsträckning det är nödvändigt för att ordningen eller säkerheten ska kunna upprätthållas.
+
+Första stycket gäller även andra slutna förvaringsställen som den intagne disponerar.
+
+### Kroppsvisitation och kroppsbesiktning
+
+#### 3 §
+
+Den som ska tas in i en anstalt ska kroppsvisiteras eller kroppsbesiktigas för eftersökande av otillåtna föremål när han eller hon kommer till anstalten, om det inte är uppenbart obehövligt.
+
+#### 4 §
+
+En intagen får kroppsvisiteras eller kroppsbesiktigas för eftersökande av otillåtna föremål om
+
+1. det finns anledning att anta att ett sådant föremål kommer att anträffas på honom eller henne,
+
+2. han eller hon återkommer efter en vistelse utanför anstalt,
+
+3. han eller hon ska ha eller har haft ett besök utan sådan kontroll som avses i 7 kap. 2 §, eller
+
+4. det sker i en stickprovskontroll eller i anslutning till en större undersökning som av säkerhetsskäl görs av ett utrymme inom anstalten och den intagne har eller har haft särskild anknytning till utrymmet.
+
+#### 5 §
+
+En intagen får även i andra fall än som avses i 3 och 4 §§ kroppsvisiteras för eftersökande av vapen och andra farliga föremål, om det är nödvändigt av säkerhetsskäl.
+
+#### 6 §
+
+En intagen är, om inte annat motiveras av medicinska eller liknande skäl, skyldig att på begäran lämna urin-, utandnings-, saliv-, svett-, blod- eller hårprov för kontroll av att han eller hon inte är påverkad av alkohol, narkotika, något annat berusningsmedel, något sådant medel som avses i 1 § lagen (1991:1969) om förbud mot vissa dopningsmedel eller någon sådan vara som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga varor.
+
+#### 7 §
+
+Kroppsvisitation eller kroppsbesiktning får inte utföras eller bevittnas av någon av motsatt kön som inte är läkare eller legitimerad sjuksköterska. Detta gäller dock inte
+
+1. en kroppsvisitation som avses i 5 §,
+
+2. en kroppsvisitation som enbart innebär att föremål som en person bär med sig undersöks,
+
+3. en kroppsvisitation med metalldetektor eller liknande teknisk anordning, eller
+
+4. en kroppsbesiktning som enbart innebär att andra prov än urinprov tas enligt 6 §.
+
+Om det är nödvändigt får en kroppsvisitation eller en kroppsbesiktning av en man utföras eller bevittnas av en kvinna även i andra fall än som avses i första stycket.
+
+### Upptagning av fingeravtryck och andra underlag
+
+#### 7 a §
+
+Fingeravtryck, salivprov för dna-analys och fotografi av ansikte ska tas av en intagen vid verkställighet av en dom eller ett beslut på fängelse, om sådana uppgifter om den intagne inte finns i biometriregister som förs enligt lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område. Upptagningen ska göras så snart som möjligt efter det att verkställigheten har inletts.
+
+Fingeravtryck, salivprov för dna-analys och fotografi av ansikte får tas på nytt, om det finns särskilda skäl.
+
+Upptagningen ska utföras av Kriminalvården eller, om det är lämpligare, Polismyndigheten. Om Kriminalvården utför upptagningen ska underlagen och de biometriska uppgifter som tas fram ur dessa förstöras av Kriminalvården omedelbart efter det att underlagen har tagits emot av Polismyndigheten.
+
+Bestämmelserna gäller inte vid verkställighet av beslut om förvandling av böter enligt bötesverkställighetslagen (1979:189) i de fall förvandlingsstraffet endast avser brott där fängelse inte ingår i straffskalan. Bestämmelserna gäller inte heller vid verkställighet av beslut om förvandling av vite enligt den lagen. *Lag (2025:143)*.
+
+### Omhändertagande av otillåtna föremål
+
+#### 8 §
+
+Alkohol, narkotika, andra berusningsmedel, sådana medel som avses i 1 § lagen (1991:1969) om förbud mot vissa dopningsmedel eller sådana varor som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga varor får omhändertas och förstöras
+
+1. om de medförs av någon som ska tas in i en anstalt,
+
+2. om de påträffas hos en intagen,
+
+3. om de sänds till en intagen, eller
+
+4. om de på annat sätt påträffas inom en anstalt och det inte finns någon känd ägare till dem.
+
+Första stycket gäller även injektionssprutor, kanyler och andra föremål som är särskilt ägnade att användas vid narkotikamissbruk eller för annan befattning med narkotika.
+
+#### 9 §
+
+Ett föremål som påträffas i en anstalt får i andra fall än som avses i 8 § och 5 kap. 2 § omhändertas, om det kan antas att föremålet kommer att tas i beslag. Omhändertagandet ska så snart som möjligt anmälas till den som får besluta om beslag.
+
+### Fängsel
+
+#### 10 §
+
+En intagen får beläggas med fängsel
+
+1. vid förflyttning inom anstalt och vid transport eller annan vistelse utanför anstalt, om det är nödvändigt av säkerhetsskäl, eller
+
+2. om han eller hon uppträder våldsamt och det är absolut nödvändigt med hänsyn till den intagnes egen eller någon annans säkerhet till liv eller hälsa.
+
+En läkare ska så snart som möjligt undersöka en intagen som har belagts med fängsel enligt första stycket 2.
+
+En intagen som inte har fyllt arton år får inte beläggas med fängsel som innebär att den intagne fixeras i en bältessäng eller på annat liknande sätt. *Lag (2026:530)*.
+
+### Uppföljande samtal för intagna som inte har fyllt arton år
+
+#### 10 a §
+
+En intagen som inte har fyllt arton år ska, om det inte är uppenbart obehövligt, erbjudas ett uppföljande samtal efter att ett beslut har verkställts om beslutet avser
+
+1. kontroll av bostadsrum enligt 2 §,
+
+2. kroppsvisitation enligt 3, 4 eller 5 §,
+
+3. kroppsbesiktning enligt 3, 4 eller 6 §, eller
+
+4. fängsel enligt 10 §.
+
+Vid samtalet ska den intagne informeras om skälet för åtgärden och ges möjlighet att framföra sin uppfattning om den.
+
+*Lag (2026:530)*.
+
+### Allmän inpasseringskontroll
+
+#### 11 §
+
+Om det är nödvändigt för att säkerheten ska kunna upprätthållas vid en anstalt får Kriminalvården besluta att alla personer som passerar in i anstalten ska kroppsvisiteras (allmän inpasseringskontroll). Syftet med allmän inpasseringskontroll ska vara att söka efter otillåtna föremål. Skriftliga meddelanden får inte granskas.
+
+Ett beslut om allmän inpasseringskontroll får gälla i högst tre månader.
+
+Kriminalvården får i enskilda fall medge undantag från allmän inpasseringskontroll, om det finns särskilda skäl.
+
+### Kontroll av fordon
+
+#### 12 §
+
+Om det är nödvändigt för att säkerheten ska kunna upprätthållas vid en anstalt, får ett fordon i anslutning till att det passerar in i eller ut ur anstalten genomsökas efter otillåtna föremål eller personer som utan tillåtelse försöker ta sig in i eller ut ur anstalten. Skriftliga meddelanden får inte granskas.
+
+### Befogenheter mot obehöriga personer
+
+#### 13 §
+
+En tjänsteman inom kriminalvården får avvisa eller avlägsna den som obehörigen försöker ta sig in i eller vägrar att lämna en anstalt.
+
+Den som ska avlägsnas får i anslutning till ingripandet
+
+1. kroppsvisiteras enligt 5 §, eller
+
+2. beläggas med fängsel enligt 10 § första stycket 2.
+
+Ett ingripande enligt första eller andra stycket ska dokumenteras.
+
+## 9 kap. Hälso- och sjukvård
+
+#### 1 §
+
+En intagen som behöver hälso- och sjukvård ska vårdas enligt de anvisningar som ges av läkare. Om den intagne inte kan undersökas eller behandlas på ett lämpligt sätt i anstalten, ska den allmänna sjukvården anlitas. Om det behövs, ska den intagne föras över till sjukhus.
+
+Ett tillstånd till vistelse utanför anstalt enligt första stycket ska förenas med de villkor som behövs. Om det är nödvändigt av säkerhetsskäl, ska den intagne stå under bevakning.
+
+#### 2 §
+
+Bestämmelser om psykiatrisk tvångsvård för den som är intagen finns i lagen (1991:1129) om rättspsykiatrisk vård.
+
+Bestämmelserna i 18-24 §§ lagen (1991:1128) om psykiatrisk tvångsvård samt bestämmelserna i 8 § andra och tredje styckena lagen om rättspsykiatrisk vård om befogenhet för Kriminalvården och regeringen att besluta om särskilda restriktioner för en viss intagen och i 8 a § ska tillämpas på en intagen som för frivillig psykiatrisk vård har förts över till en sådan sjukvårdsinrättning som avses i 6 § första stycket lagen om rättspsykiatrisk vård. *Lag (2014:524)*.
+
+#### 3 §
+
+Om en transport kan befaras skada den intagnes hälsa, ska läkares medgivande till transporten inhämtas.
+
+## 10 kap. Permission och annan tillfällig vistelse utanför anstalt
+
+### Permission
+
+#### 1 §
+
+För att underlätta den intagnes anpassning i samhället får han eller hon beviljas tillstånd att vistas utanför anstalt för viss kort tid (permission) om
+
+1. minst en fjärdedel av strafftiden, dock minst två månader, har avtjänats, och
+
+2. det inte finns en påtaglig risk för att den intagne kommer att begå brott, undandra sig straffets fullgörande eller på annat sätt missköta sig.
+
+Vid prövningen av om permission ska beviljas ska det särskilt beaktas om den intagne
+
+1. under verkställigheten inte har deltagit i eller har misskött anvisade åtgärder som syftar till att förebygga återfall i brott eller på annat sätt främja hans eller hennes anpassning i samhället,
+
+2. annars på ett allvarligt sätt har brutit mot de föreskrifter och villkor som gäller för verkställigheten, eller
+
+3. är involverad i, eller har koppling till, en grupp av personer som utövar allvarlig brottslighet.
+
+För en intagen som avtjänar ett livstidsstraff ska tiden enligt första stycket 1 bestämmas som om strafftiden är arton år.
+
+Om det finns särskilda skäl får permission beviljas tidigare än vad som följer av första stycket 1. Vid bedömningen av om det finns särskilda skäl ska det särskilt beaktas om den intagne inte har fyllt arton år.
+
+En intagen som har fyllt arton år och som är involverad i, eller har koppling till, en grupp av personer som utövar allvarlig brottslighet får aldrig beviljas permission tidigare än vad som följer av första stycket 1. *Lag (2026:927)*.
+
+### Särskild permission
+
+#### 2 §
+
+Om det finns särskilt ömmande skäl får en intagen beviljas tillstånd att vistas utanför anstalt för viss kort tid (särskild permission) om
+
+1. hans eller hennes behov av vistelse utanför anstalt inte kan tillgodoses genom permission enligt 1 §, och
+
+2. vistelsen utanför anstalt kan beviljas med hänsyn till den risk som finns för att den intagne kommer att begå brott, undandra sig straffets fullgörande eller på annat sätt missköta sig.
+
+Vid prövningen enligt första stycket 2 ska det särskilt beaktas om den intagne är involverad i, eller har koppling till, en grupp av personer som utövar allvarlig brottslighet.
+
+*Lag (2026:927)*.
+
+### Inställelse vid domstol eller annan myndighet
+
+#### 3 §
+
+En intagen får tillfälligt vistas utanför anstalt om en myndighet begär att han eller hon ska inställa sig vid myndigheten. Sådan inställelse ska alltid ske om det är en domstol eller en övervakningsnämnd som begär att en intagen ska inställas.
+
+### Utredning om återfallsrisk
+
+#### 4 §
+
+En intagen som ska genomgå en utredning om risk för återfall i brottslighet enligt 12 kap. 6 § eller enligt 10 § lagen (2006:45) om omvandling av fängelse på livstid, får vistas utanför anstalt i den utsträckning som den myndighet som ansvarar för utredningen bedömer är nödvändig för att utredningen ska kunna genomföras. *Lag (2025:1419)*.
+
+### Kontroll
+
+#### 5 §
+
+Ett tillstånd till vistelse utanför anstalt enligt 1-4 §§ ska förenas med de villkor som behövs. Om det är nödvändigt av säkerhetsskäl, ska den intagne stå under bevakning. Vid prövningen ska det särskilt beaktas om den intagne är involverad i, eller har koppling till, en grupp av personer som utövar allvarlig brottslighet.
+
+Vid vistelse utanför anstalt enligt 1 och 2 §§ får elektronisk övervakning användas för att kontrollera meddelade villkor.
+
+*Lag (2026:927)*.
+
+### Placering i häkte
+
+#### 6 §
+
+I anslutning till en vistelse utanför anstalt enligt 2-4 §§ och 9 kap. 1 § denna lag, 4 kap. 29, 29 a och 31 §§ lagen (2000:562) om internationell rättslig hjälp i brottmål samt 2 kap. 12 § och 3 kap. 3 § lagen (2017:1000) om en europeisk utredningsorder får en intagen tillfälligt placeras i häkte, om det är nödvändigt av säkerhetsskäl eller med hänsyn till transportförhållandena. *Lag (2017:1013)*.
+
+## 11 kap. Frigivningsförberedande åtgärder
+
+#### 1 §
+
+För att minska risken för att en intagen återfaller i brott eller för att på annat sätt underlätta hans eller hennes anpassning i samhället får Kriminalvården bevilja den intagne frigivningsförberedande åtgärder.
+
+En frigivningsförberedande åtgärd innebär att den intagne får avtjäna en del av fängelsestraffet utanför anstalt under kontrollerade former. En sådan åtgärd kan innebära att den intagne har sin dygnsvila i ett av Kriminalvården kontrollerat hem som är anpassat för att ge intagna särskilt stöd eller tillsyn (kontrollerat hem), i ett sådant hem som avses i 9 kap. 1 § socialtjänstlagen (2025:400) eller i sin bostad.
+
+*Lag (2026:927)*.
+
+#### 2 §
+
+En frigivningsförberedande åtgärd får inte beviljas om det finns en beaktansvärd risk för att den intagne kommer att begå brott, undandra sig fängelsestraffets fullgörande eller på annat sätt allvarligt missköta sig under den tid som fängelsestraffet verkställs utanför anstalt. Vid denna bedömning ska det särskilt beaktas om den intagne
+
+1. under verkställigheten inte har deltagit i eller har misskött anvisade åtgärder som syftar till att förebygga återfall i brott eller på annat sätt främja hans eller hennes anpassning i samhället, eller
+
+2. annars på ett allvarligt sätt har brutit mot de föreskrifter och villkor som gäller för verkställigheten.
+
+*Lag (2026:927)*.
+
+#### 3 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* En frigivningsföreberedande åtgärd får inte beviljas innan minst halva strafftiden, dock minst tre månader, har avtjänats.
+
+Om det finns särskilda skäl får en sådan åtgärd beviljas trots att den tid som avses i första stycket inte har förflutit.
+
+*Lag (2026:927)*.
+
+#### 3 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* En frigivningsföreberedande åtgärd får inte beviljas innan minst halva strafftiden, dock minst tre månader, har avtjänats.
+
+Om missbruk av beroendeframkallande medel eller något annat särskilt förhållande som kräver vård eller annan behandling i väsentlig grad har bidragit till att brottet har begåtts får en sådan åtgärd beviljas trots att den tid som avses i första stycket inte har förflutit. Detsamma gäller om det annars finns särskilda skäl. *Lag (2026:1673)*.
+
+#### 4 §
+
+En frigivningsförberedande åtgärd ska som utgångspunkt planeras så att den kan pågå fram till tidpunkten för villkorlig frigivning.
+
+Vid bedömningen av vilken eller vilka frigivningsförberedande åtgärder som kan beviljas ska det särskilt beaktas om den intagne
+
+1. har behov av introduktion i arbetslivet eller i annan verksamhet som kan främja en stabil tillvaro efter frigivningen,
+
+2. har behov av vård eller behandling mot missbruk av beroendeframkallande medel eller mot något annat särskilt förhållande som kan antas ha samband med hans eller hennes brottslighet,
+
+3. har behov av särskilt stöd eller tillsyn,
+
+4. har tillgång till bostad, eller
+
+5. arbetar, får behandling eller deltar i utbildning eller särskilt anordnad verksamhet. *Lag (2026:927)*.
+
+#### 5 §
+
+En frigivningsförberedande åtgärd ska förenas med de villkor som behövs för att syftet med åtgärden ska uppnås eller för att Kriminalvården ska kunna utöva nödvändig kontroll. Elektronisk övervakning får användas för att kontrollera att meddelade villkor följs.
+
+Om det på grund av nya omständigheter finns skäl för det, får Kriminalvården ändra, upphäva eller besluta om nya villkor.
+
+Om det finns särskilda skäl får Kriminalvården förena en frigivningsförberedande åtgärd som innebär att en intagen är placerad i ett sådant hem som avses i 9 kap. 1 § socialtjänstlagen (2025:400) med en särskild föreskrift som avses i 26 kap. 16 § andra stycket 4 brottsbalken som ska gälla för tiden efter villkorlig frigivning. Om det på grund av nya omständigheter finns skäl för det, får Kriminalvården ändra, upphäva eller besluta om en ny särskild föreskrift.
+
+*Lag (2026:927)*.
+
+#### 6 §
+
+En frigivningsförberedande åtgärd som innebär att den intagne har sin dygnsvila utanför anstalt ska förenas med villkor om att han eller hon inte får vistas utanför ett kontrollerat hem, ett sådant hem som avses i 9 kap. 1 § socialtjänstlagen (2025:400) eller sin bostad annat än på särskilt bestämda tider. Om en frigivningsförberedande åtgärd innebär att den intagne har sin dygnsvila i sin bostad ska villkoret inledningsvis kontrolleras genom elektronisk övervakning under högst sex månader. *Lag (2026:927)*.
+
+#### 7 §
+
+Den som är beviljad en frigivningsförberedande åtgärd är skyldig att på begäran lämna urin-, utandnings-, saliv-, svett-, blod- eller hårprov för kontroll av att han eller hon inte är påverkad av alkohol, narkotika, något annat berusningsmedel, något sådant medel som avses i 1 § lagen (1991:1969) om förbud mot vissa dopningsmedel eller någon sådan vara som omfattas av lagen (1999:42) om förbud mot vissa hälsofarliga varor. *Lag (2026:927)*.
+
+#### 8 §
+
+Ett tillstånd till en frigivningsförberedande åtgärd ska upphävas och den intagne omedelbart föras till en anstalt för fortsatt verkställighet av fängelsestraffet i anstalten om
+
+1. det inte längre finns förutsättningar för åtgärden, eller
+
+2. den intagne inte rättar sig efter de villkor som meddelats eller fullgör de skyldigheter som gäller för åtgärden, och misskötsamheten inte är av mindre betydelse. *Lag (2026:927)*.
+
+#### 9 §
+
+Kriminalvården får anlita ett bolag, en förening, en samfällighet eller en stiftelse för verksamhet som avser ett kontrollerat hem. *Lag (2026:927)*.
+
+#### 10 §
+
+Den som bedriver ett kontrollerat hem i enskild regi enligt 9 § eller ett sådant hem som avses i 9 kap. 1 § socialtjänstlagen (2025:400) ska
+
+1. fortlöpande hålla Kriminalvården underrättad om hur verksamheten fortskrider,
+
+2. samråda med Kriminalvården i frågor av större vikt, och
+
+3. omedelbart anmäla om den intagne inte rättar sig efter de villkor som meddelats eller fullgör de skyldigheter som gäller för den frigivningsförberedande åtgärden. *Lag (2026:927)*.
+
+#### 11 §
+
+Den som är anställd av eller har ett uppdrag hos ett bolag, en förening, en samfällighet eller en stiftelse som bedriver verksamhet i ett kontrollerat hem eller ett sådant hem som avses i 9 kap. 1 § socialtjänstlagen (2025:400), får inte obehörigen röja eller utnyttja vad han eller hon på grund av sin anställning eller sitt uppdrag har fått veta om en enskilds personliga förhållanden eller förhållanden av betydelse för att utreda och lagföra brott. *Lag (2026:927)*.
+
+#### 12 §
+
+Har upphävts genom *lag (2026:927)*.
+
+## 12 kap. Varning och uppskjuten villkorlig frigivning
+
+### Varning
+
+#### 1 §
+
+En intagen som bryter mot de föreskrifter och villkor som gäller för verkställigheten får tilldelas en varning.
+
+### Uppskjuten villkorlig frigivning
+
+#### 2 §
+
+Bestämmelser om att den villkorliga frigivningen kan skjutas upp finns i 26 kap. 6 a och 7 §§ brottsbalken.
+
+*Lag (2018:1259)*.
+
+### Bestämmelser om handläggningen
+
+#### 3 §
+
+Frågor om varning enligt 1 § eller uppskjutande av villkorlig frigivning enligt 26 kap. 6 a och 7 §§ brottsbalken ska avgöras skyndsamt. *Lag (2018:1259)*.
+
+#### 4 §
+
+Innan ett beslut om varning meddelas ska förhör hållas med den intagne.
+
+#### 5 §
+
+I mål och ärenden om uppskjuten villkorlig frigivning enligt 26 kap. 6 a och 7 §§ brottsbalken ska ett offentligt biträde förordnas för den intagne, om det inte måste antas att behov av biträde saknas. Innan ett beslut om uppskjuten villkorlig frigivning meddelas ska den intagne ges tillfälle att yttra sig. *Lag (2018:1259)*.
+
+#### 6 §
+
+Kriminalvården får besluta att hämta in en utredning med utlåtande om risken för att den dömde begår nya brott av allvarligt slag (riskutredning). *Lag (2025:1419)*.
+
+#### 7 §
+
+Ett beslut om uppskjuten villkorlig frigivning på grund av risk för nya brott av allvarligt slag får bara meddelas om en riskutredning enligt 6 § har hämtats in. En sådan utredning behöver dock inte hämtas in om det är uppenbart obehövligt.
+
+*Lag (2025:1419)*.
+
+#### 8 §
+
+En riskutredning enligt 6 § ska utföras av Rättsmedicinalverket. Utredningen ska utföras skyndsamt och ges in till Kriminalvården inom sex veckor från det att beslutet om riskutredning kom in till Rättsmedicinalverket.
+
+*Lag (2025:1419)*.
+
+#### 9 §
+
+Ett urin-, utandnings-, saliv-, svett-, blod- eller hårprov får tas på en person som genomgår en riskutredning enligt 6 § om det behövs för att kunna bedöma personens psykiska eller kroppsliga tillstånd.
+
+En urinprovtagning får inte utföras eller bevittnas av någon av motsatt kön som inte är läkare eller legitimerad sjuksköterska. *Lag (2025:1419)*.
+
+#### 10 §
+
+Sådana uppgifter om den dömde som behövs för genomförandet av en riskutredning enligt 6 § ska lämnas ut till Rättsmedicinalverket från en verksamhet där det gäller
+
+1. sekretess enligt 25 kap. 1-5 §§, 26 kap. 1 § eller 35 kap. 15 § offentlighets- och sekretesslagen (2009:400), eller
+
+2. tystnadsplikt enligt 29 § lagen (1993:387) om stöd och service till vissa funktionshindrade, 6 kap. 12 § patientsäkerhetslagen (2010:659) eller 17 kap. 11 § socialtjänstlagen (2025:400). *Lag (2025:1419)*.
+
+12 a kap.
+
+### Avbrott i verkställigheten
+
+#### 1 §
+
+Om verkställigheten avbryts ska den tid under vilken avbrottet varat inte räknas som verkställd tid.
+
+Verkställigheten anses inte avbruten om en intagen häktas med anledning av misstanke om brott eller med anledning av brott som prövats i ett mål eller som en påföljd avser.
+
+*Lag (2018:1259)*.
+
+#### 2 §
+
+Frågor om avbrott i verkställigheten med anledning av att en intagen avvikit ska prövas utan dröjsmål när verkställigheten återupptas. *Lag (2018:1259)*.
+
+#### 3 §
+
+Innan ett beslut om avbrott i verkställigheten enligt 2 § meddelas ska förhör hållas med den intagne. *Lag (2018:1259)*.
+
+## 13 kap. Beslut
+
+#### 1 §
+
+Ett beslut enligt denna lag fattas av Kriminalvården, om inte annat följer av 3, 4 eller 6 §.
+
+#### 2 §
+
+Ett beslut enligt denna lag gäller omedelbart, om inte något annat förordnas.
+
+#### 3 §
+
+En fråga om att upphäva ett tillstånd till en påbörjad frigivningsförberedande åtgärd som innebär att den intagne har sin dygnsvila utanför anstalt prövas av en övervakningsnämnd efter en anmälan av Kriminalvården. Nämnden får också självmant ta upp frågan till prövning. *Lag (2026:927)*.
+
+#### 4 §
+
+I fall som avses i 3 § får Kriminalvården omedelbart upphäva tillståndet i avvaktan på övervakningsnämndens prövning.
+
+Kriminalvårdens beslut ska omedelbart underställas övervakningsnämnden. Övervakningsnämnden ska senast den första arbetsdagen efter den dag då Kriminalvårdens beslut meddelades pröva om beslutet ska bestå, i avvaktan på den slutliga prövningen. Fastställer inte nämnden beslutet inom den tiden, upphör det att gälla. Nämnden ska skyndsamt ta upp frågan till slutlig prövning.
+
+#### 5 §
+
+En fråga om att upphäva ett tillstånd till en frigivningsförberedande åtgärd enligt 3 och 4 §§ prövas av den övervakningsnämnd inom vars verksamhetsområde det frivårdskontor där den intagne är inskriven är beläget. Om det finns särskilda skäl, får en annan övervakningsnämnd pröva en sådan fråga. *Lag (2026:927)*.
+
+#### 6 §
+
+Regeringen får när det gäller en viss intagen besluta att ett ärende om vistelse utanför anstalt ska överlämnas till regeringens prövning, om det behövs med hänsyn till rikets säkerhet eller risken för att den intagne under verkställigheten medverkar till terroristbrott enligt 4 § terroristbrottslagen (2022:666). *Lag (2022:680)*.
+
+## 14 kap. Överklagande
+
+#### 1 §
+
+Kriminalvårdens beslut enligt denna lag får överklagas till allmän förvaltningsdomstol, om inte annat följer av 5 §.
+
+Ett beslut överklagas till den förvaltningsrätt inom vars domkrets den anstalt, det häkte eller det frivårdskontor är beläget där den klagande var inskriven när det första beslutet i ärendet fattades.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+#### 2 §
+
+Ett beslut får inte överklagas enligt 1 § första stycket innan beslutet har omprövats av Kriminalvården. En sådan omprövning får begäras av den beslutet angår om det har gått honom eller henne emot. Ett överklagande av ett beslut som inte har omprövats ska anses som en begäran om omprövning.
+
+Vid omprövning enligt första stycket får beslutet inte ändras till den klagandes nackdel.
+
+#### 3 §
+
+En begäran om omprövning ska vara skriftlig och ha kommit in till Kriminalvården inom tre veckor från den dag då den klagande fick del av beslutet. I begäran om omprövning ska den klagande ange vilket beslut som avses och vilken ändring i beslutet som han eller hon begär.
+
+Kriminalvården prövar om skrivelsen med begäran om omprövning har kommit in i rätt tid. Om skrivelsen har kommit in för sent
+
+```
+ska den     avvisas, om inte förseningen beror på att
+```
+
+myndigheten lämnat den klagande felaktig underrättelse om hur man begär omprövning.
+
+#### 4 §
+
+En övervakningsnämnds beslut enligt 13 kap. 3 § får överklagas till allmän förvaltningsdomstol.
+
+Övervakningsnämnden ska inte vara part i domstolen.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+#### 5 §
+
+Ett beslut om vistelse utanför anstalt för en intagen som regeringen har meddelat ett förordnande för enligt 7 kap. 11 § får överklagas till regeringen.
+
+## 15 kap. Övriga bestämmelser
+
+### Straff
+
+#### 1 §
+
+Den som olovligen överlämnar eller försöker överlämna ett vapen eller annat farligt föremål till en intagen döms till böter eller fängelse i högst ett år, om inte gärningen är belagd med strängare straff i brottsbalken.
+
+#### 2 §
+
+Den som till en intagen lämnar alkohol eller annat berusningsmedel eller injektionsspruta eller kanyl som kan användas vid narkotikamissbruk döms till böter eller fängelse i högst sex månader, om inte gärningen är belagd med strängare straff i annan lag. Detsamma gäller den som på annat sätt hjälper en intagen att få tillgång till sådant berusningsmedel eller föremål.
+
+### Förpassning
+
+#### 2 a §
+
+Påträffas en intagen som avvikit ska han eller hon återföras till kriminalvårdsanstalt för fortsatt verkställighet av fängelsestraffet. Polismyndigheten ska förpassa den intagne till ett häkte eller en kriminalvårdsanstalt.
+
+Vad som sägs i 2 kap. 4 a § första stycket 2 och andra stycket samt 4 b § ska gälla också beträffande den som enligt första stycket ska återföras till den kriminalvårdsanstalt från vilken han eller hon avvek. *Lag (2018:1259)*.
+
+### Bevakningsföretag
+
+#### 3 §
+
+Kriminalvården får förordna en väktare i ett auktoriserat bevakningsföretag att, inom ramen för sin anställning i företaget, utföra vissa bevakningsuppdrag när en intagen ska vistas utanför en anstalt. Om det finns särskilda skäl, får ett sådant förordnande avse vissa bevakningsuppgifter inom en anstalt. I förordnandet ska uppdragets art och omfattning anges. Förordnandet får återkallas.
+
+#### 4 §
+
+En väktare med ett förordnande enligt 3 § får inte obehörigen röja eller utnyttja vad han eller hon på grund av sitt uppdrag har fått veta om en enskilds personliga förhållanden eller förhållanden av betydelse för rikets säkerhet eller för att utreda och lagföra brott.
+
+I det allmännas verksamhet tillämpas i stället offentlighets- och sekretesslagen (2009:400).
+
+### Hjälp vid transport
+
+#### 4 a §
+
+Om det på grund av risk för fritagning eller av någon annan särskild anledning behövs för att en transport ska kunna genomföras på ett betryggande sätt, får Kriminalvården begära hjälp av Polismyndigheten. *Lag (2017:124)*.
+
+### Verkställighetsföreskrifter
+
+#### 5 §
+
+Föreskrifter om verkställighet av lagen meddelas av regeringen eller den myndighet som regeringen bestämmer.
+
+## Övergångsbestämmelser
+
+**2018:1259**
+
+1. Denna lag träder i kraft den 1 april 2019.
+
+2. Den upphävda lagen (1974:202) om beräkning av strafftid m.m. gäller dock fortfarande i fråga om tillfällig placering i häkte eller polisarrest som med tillämpning av 11 § den lagen pågår vid ikraftträdandet.
+
+**2022:736**
+
+1. Denna lag träder i kraft den 1 juli 2025. *Lag (2025:143)*.
+
+2. Äldre föreskrifter gäller fortfarande i fråga om verkställighet som pågår vid ikraftträdandet. *Lag (2025:143)*.

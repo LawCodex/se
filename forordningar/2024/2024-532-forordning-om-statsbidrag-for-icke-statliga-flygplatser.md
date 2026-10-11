@@ -1,0 +1,127 @@
+---
+title: "Förordning (2024:532) om statsbidrag för icke-statliga flygplatser"
+identifier: "SFS 2024:532"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2024-06-20
+amended_through: "SFS 2026:1197"
+department: "Landsbygds- och infrastrukturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-532.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:532"
+retrieved: 2026-10-11
+---
+# Förordning (2024:532) om statsbidrag för icke-statliga flygplatser
+
+> Rättelsesida till 2026:1197 har iakttagits.
+
+#### 1 §
+
+Om det inom utgiftsområde 22 finns medel för icke-statliga flygplatser, får statsbidrag enligt denna förordning ges till kommuner för att finansiera delar av icke-statliga flygplatsers driftunderskott.
+
+Förordningen är meddelad med stöd av
+
+- 8 kap. 11 § regeringsformen i fråga om 13 §, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+### Prövningsmyndighet
+
+#### 2 §
+
+Trafikverket prövar frågor om bidrag och beslutar årligen om fördelningen av bidraget i enlighet med denna förordning.
+
+### Flygplatser som en kommun kan få bidrag för
+
+#### 3 §
+
+Bidrag får ges för icke-statliga flygplatser där
+
+1. det utförs flygtrafik som omfattas av allmän trafikplikt enligt artikel 16 i Europaparlamentets och rådets förordning (EG) nr 1008/2008 av den 24 september 2008 om gemensamma regler för tillhandahållande av lufttrafik i gemenskapen,
+
+2. flygplatshavaren har ingått en överenskommelse med staten, genom Trafikverket, om att flygplatsen ska vara beredskapsflygplats, eller
+
+3. det bedrivs reguljär inrikes linjetrafik av betydande omfattning.
+
+### Bidragsmottagare
+
+#### 4 §
+
+Bidrag ges till den kommun där flygplatsen ligger.
+
+### Förutsättningar för bidrag
+
+#### 5 §
+
+Bidrag får ges endast om kommunen inför Trafikverkets årliga prövning ger in en aktuell årsredovisning och andra relevanta uppgifter och nyckeltal som visar att flygplatsen bedrivs på ett effektivt sätt.
+
+#### 6 §
+
+Bidrag får ges endast om kommunen inför Trafikverkets årliga prövning ger in dokumentation som visar att flygplatshavarens flygplatsverksamhet är fossilfri eller att åtgärder har genomförts eller planeras för att den ska bli fossilfri.
+
+#### 7 §
+
+Bidrag får ges endast om kommunen inför Trafikverkets årliga prövning lämnar information om den statsstödsrättsliga grund som flygplatsen omfattas av.
+
+#### 8 §
+
+Om det finns särskilda skäl, får Trafikverket ge bidrag även om inte alla förutsättningar i 5 eller 6 § är uppfyllda.
+
+### Bidragens storlek och fördelning mellan flygplatser
+
+#### 9 §
+
+Bidrag ska ges så att de medel som är tillgängliga under ett verksamhetsår fördelas för de flygplatser som bidrag får avse enligt 5-8 §§ genom att
+
+1. en miljon kronor ges för varje flygplats när dess flygplatsverksamhet för första gången har blivit fossilfri och flygplatshavaren har informerat Trafikverket om detta,
+
+2. tio miljoner kronor fördelas lika för flygplatser i Pajala, Gällivare, Storumans, Arvidsjaurs, Lycksele och Vilhelmina kommuner, och
+
+3. återstoden av medlen fördelas mellan flygplatserna med en lika stor procentuell andel av varje flygplats faktiska underskott föregående år. *Förordning (2026:58)*.
+
+#### 10 §
+
+Om det vid den årliga prövningen när det gäller en viss flygplats visar sig att föregående års bidrag enligt 9 § första stycket 2 och 3 och tilläggsbidrag var större än 75 procent av flygplatsens faktiska underskott det året, ska den överskjutande delen av bidraget betalas tillbaka eller bidraget för innevarande år minskas i motsvarande mån.
+
+*Förordning (2026:1197)*.
+
+### Återkrav och återbetalning
+
+#### 11 §
+
+Trafikverket får besluta att kräva tillbaka bidraget om det
+
+1. har beviljats felaktigt,
+
+2. på grund av regler om statligt stöd inte får användas för den flygplats som bidraget avser,
+
+3. inte har kommit till avsedd användning under verksamhetsåret, eller
+
+4. ska betalas tillbaka till följd av en prövning enligt 10 §.
+
+*Förordning (2026:58)*.
+
+#### 12 §
+
+Om det finns grund för återkrav enligt 11 § är kommunen skyldig att betala tillbaka bidraget.
+
+### Bemyndigande
+
+#### 13 §
+
+Trafikverket får meddela föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 14 §
+
+Trafikverkets beslut får överklagas till regeringen.
+
+## Övergångsbestämmelser
+
+**2024:532**
+
+1. Denna förordning träder i kraft den 1 januari 2025 i fråga om 6 § och i övrigt den 1 augusti 2024.
+
+2. Genom förordningen upphävs förordningen (2006:1577) om statsbidrag för icke statliga flygplatser.

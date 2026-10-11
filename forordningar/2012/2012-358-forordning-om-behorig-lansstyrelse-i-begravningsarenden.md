@@ -1,0 +1,163 @@
+---
+title: "Förordning (2012:358) om behörig länsstyrelse i begravningsärenden"
+identifier: "SFS 2012:358"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2012-05-31
+amended_through: "SFS 2024:210"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-358.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:358"
+retrieved: 2026-10-11
+---
+# Förordning (2012:358) om behörig länsstyrelse i begravningsärenden
+
+## 1 §
+
+Denna förordning innehåller föreskrifter om behörig länsstyrelse i begravningsärenden enligt begravningslagen (1990:1144) och begravningsförordningen (1990:1147).
+
+## 2 §
+
+Frågor om tillstånd till anordnande och hållande av enskild begravningsplats enligt 2 kap. 6-8 §§ begravningslagen (1990:1144) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när begravningsplatsen är eller avses bli anordnad i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när begravningsplatsen är eller avses bli anordnad i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när begravningsplatsen är eller avses bli anordnad i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när begravningsplatsen är eller avses bli anordnad i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när begravningsplatsen är eller avses bli anordnad i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när begravningsplatsen är eller avses bli anordnad i Blekinge, Kronobergs eller Skåne län.
+
+*Förordning (2024:210)*.
+
+## 3 §
+
+Frågor om tillstånd till överlåtelse, användning för annat ändamål eller nedläggning av begravningsplats enligt 2 kap. 14 §, tillstånd till flyttning av gravsatt stoft eller aska enligt 6 kap. 2 § andra stycket, flyttning eller upphörande av gravrätt enligt 7 kap. 34 § samt om att förelägga någon vid vite enligt 11 kap. 4 § begravningslagen (1990:1144) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när begravningsplatsen är anordnad i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när begravningsplatsen är anordnad i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när begravningsplatsen är anordnad i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när begravningsplatsen är anordnad i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när begravningsplatsen är anordnad i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när begravningsplatsen är anordnad i Blekinge, Kronobergs eller Skåne län.
+
+*Förordning (2024:210)*.
+
+## 4 §
+
+Tvister om kremering eller gravsättning enligt 5 kap. 3 § andra stycket och 4 § begravningslagen (1990:1144) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när den avlidne senast var folkbokförd i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när den avlidne senast var folkbokförd i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när den avlidne senast var folkbokförd i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när den avlidne senast var folkbokförd i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när den avlidne senast var folkbokförd i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när den avlidne senast var folkbokförd i Blekinge, Kronobergs eller Skåne län.
+
+*Förordning (2024:210)*.
+
+## 5 §
+
+Tillsyn enligt 10 kap. 1 § begravningslagen (1990:1144) utövas av
+
+1. Länsstyrelsen i Norrbottens län, när huvudmannen eller en annan innehavare är verksam i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när huvudmannen eller en annan innehavare är verksam i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när huvudmannen eller en annan innehavare är verksam i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när huvudmannen eller en annan innehavare är verksam i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när huvudmannen eller en annan innehavare är verksam i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när huvudmannen eller en annan innehavare är verksam i Blekinge, Kronobergs eller Skåne län.
+
+*Förordning (2024:210)*.
+
+## 6 §
+
+Frågor om förordnande av begravningsombud enligt 10 kap. 2 §, att förelägga någon vid vite enligt 11 kap. 2 § och överklaganden av beslut enligt 11 kap. 6 § begravningslagen (1990:1144) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när huvudmannen eller en annan innehavare är verksam i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när huvudmannen eller en annan innehavare är verksam i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när huvudmannen eller en annan innehavare är verksam i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när huvudmannen eller en annan innehavare är verksam i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när huvudmannen eller en annan innehavare är verksam i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när huvudmannen eller en annan innehavare är verksam i Blekinge, Kronobergs eller Skåne län.
+
+*Förordning (2024:210)*.
+
+## 7 §
+
+Frågor om att förelägga någon vid vite enligt 11 kap. 3 § begravningslagen (1990:1144) prövas av Länsstyrelsen i Stockholms län.
+
+## 8 §
+
+Frågor om hantering av aska enligt 5 kap. 5 § andra stycket begravningslagen (1990:1144) och 30 § begravningsförordningen (1990:1147) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när avsikten är att askan ska strös ut i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när avsikten är att askan ska strös ut i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när avsikten är att askan ska strös ut i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när avsikten är att askan ska strös ut i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när avsikten är att askan ska strös ut i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när avsikten är att askan ska strös ut i Blekinge, Kronobergs eller Skåne län.
+
+*Förordning (2024:210)*.
+
+## 9 §
+
+Frågor om delning av aska enligt 31 § begravningsförordningen (1990:1147) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när kremering skett i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när kremering skett i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när kremering skett i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när kremering skett i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när kremering skett i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när kremering skett i Blekinge, Kronobergs eller Skåne län. *Förordning (2024:210)*.
+
+## 10 §
+
+Överklaganden enligt 59 § begravningsförordningen (1990:1147) prövas av
+
+1. Länsstyrelsen i Norrbottens län, när dödsfallet inträffat i Jämtlands, Norrbottens, Västerbottens eller Västernorrlands län,
+
+2. Länsstyrelsen i Örebro län, när dödsfallet inträffat i Dalarnas, Gävleborgs, Södermanlands, Uppsala, Värmlands, Västmanlands eller Örebro län,
+
+3. Länsstyrelsen i Stockholms län, när dödsfallet inträffat i Gotlands eller Stockholms län,
+
+4. Länsstyrelsen i Östergötlands län, när dödsfallet inträffat i Jönköpings, Kalmar eller Östergötlands län,
+
+5. Länsstyrelsen i Västra Götalands län, när dödsfallet inträffat i Hallands eller Västra Götalands län, och
+
+6. Länsstyrelsen i Skåne län, när dödsfallet inträffat i Blekinge, Kronobergs eller Skåne län. *Förordning (2024:210)*.

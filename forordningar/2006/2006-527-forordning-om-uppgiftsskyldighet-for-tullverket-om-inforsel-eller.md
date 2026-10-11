@@ -1,0 +1,47 @@
+---
+title: "Förordning (2006:527) om uppgiftsskyldighet för Tullverket om införsel eller utförsel av skjutvapen"
+identifier: "SFS 2006:527"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-05-24
+amended_through: "SFS 2026:437"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-527.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:527"
+retrieved: 2026-10-11
+---
+# Förordning (2006:527) om uppgiftsskyldighet för Tullverket om införsel eller utförsel av skjutvapen
+
+## 1 §
+
+Tullverket ska i enlighet med vad som föreskrivs i denna förordning lämna uppgifter till Polismyndigheten om skjutvapen som förs in i eller ut ur Sverige.
+
+*Förordning (2014:1210)*.
+
+## 2 §
+
+Uppgifter ska lämnas enligt 1 § då ett skjutvapen som omfattas av bestämmelserna i vapenlagen (2026:408) förs in i eller ut ur landet.
+
+Uppgifter behöver inte lämnas om ändamålet med införseln eller utförseln av skjutvapnet är att det ska användas tillfälligt för jakt eller tävling och, i fråga om uppgifter om införsel, införseln sker med stöd av ett införseltillstånd.
+
+*Förordning (2026:437)*.
+
+## 3 §
+
+Uppgiftsskyldigheten avser
+
+1. vapnets identifikationsnummer eller annan uppgift som gör det möjligt att identifiera vapnet och, i förekommande fall, märkning som visar att det har förts in till Sverige och året för införseln,
+
+2. vapentypen,
+
+3. införsel- eller utförselorten,
+
+4. datum för införseln eller utförseln, och
+
+5. uppgift om innehavstillståndet, vapenhandlartillståndet, utförseltillståndet eller annat motsvarande tillstånd. *Förordning (2011:574)*.
+
+## 4 §
+
+Tullverket får meddela närmare föreskrifter om verkställigheten av denna förordning.

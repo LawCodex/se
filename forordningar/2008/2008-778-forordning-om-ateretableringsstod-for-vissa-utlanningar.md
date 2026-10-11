@@ -1,0 +1,69 @@
+---
+title: "Förordning (2008:778) om återetableringsstöd för vissa utlänningar"
+identifier: "SFS 2008:778"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-09-25
+amended_through: "SFS 2026:1180"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-778.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:778"
+retrieved: 2026-10-11
+---
+# Förordning (2008:778) om återetableringsstöd för vissa utlänningar
+
+### 1 §
+
+Migrationsverket får efter ansökan besluta om statligt bidrag (återetableringsstöd) till en utlänning, om
+
+1. utlänningen har fått avslag på en ansökan om internationellt skydd enligt Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU,
+
+2. utlänningen avser att självmant återvända till ett land eller en del av ett land som på grund av svåra motsättningar har mycket begränsade förutsättningar för återetablering av återvändande, och
+
+3. det framstår som sannolikt att utlänningen kommer att tas emot i det land han eller hon avser att återvända till.
+
+*Förordning (2026:1180)*.
+
+### 2 §
+
+Ansökan om återetableringsstöd ska ges in i nära anslutning till att en ansökan om internationellt skydd har avslagits.
+
+Även om ansökan har getts in senare än vad som anges i första stycket får återetableringsstöd lämnas om det bedöms vara nödvändigt för att uppfylla en internationell överenskommelse som Sverige har ingått eller om det bedöms vara av särskild betydelse för arbetet med att främja ett självmant återvändande. *Förordning (2026:1180)*.
+
+### 3 §
+
+Återetableringsstöd får ges även till make eller sambo som följer med till det land dit utlänningen avser att återvända.
+
+Återetableringsstöd får också ges till utlänningens medföljande barn som inte har fyllt 18 år. Om det finns särskilda skäl får återetableringsstöd därutöver ges till annan medföljande anhörig som lever i hushållsgemenskap med utlänningen i Sverige.
+
+### 4 §
+
+Återetableringsstöd får inte ges till den som är svensk medborgare och inte heller till den som tidigare fått sådant stöd.
+
+### 5 §
+
+Återetableringsstöd lämnas i mån av tillgång på medel.
+
+### 6 §
+
+Återetableringsstöd får betalas ut med 30 000 kronor för den som har fyllt 18 år och med 15 000 kronor för den som inte har fyllt 18 år, dock med högst 75 000 kronor per familj.
+
+Återetableringsstödet ska betalas ut i samband med återvändandet.
+
+### 7 §
+
+Migrationsverket får besluta att återkräva återetableringsstöd helt eller delvis, om mottagaren inte återvänder självmant eller efter återvändandet reser in olagligt i Sverige. Detsamma gäller om mottagaren genom oriktiga uppgifter eller på något annat sätt har förorsakat att återetableringsstöd felaktigt har lämnats eller har lämnats med för högt belopp.
+
+### 8 §
+
+Beslut enligt denna förordning får inte överklagas.
+
+## Övergångsbestämmelser
+
+**2026:1180**
+
+1. Denna förordning träder i kraft den 12 juli 2026.
+
+2. För en utlänning som har fått avslag på en ansökan om uppehållstillstånd enligt 5 kap. 1 § utlänningslagen (2005:716) i dess lydelse före den 12 juli 2026 gäller 1 § i den äldre lydelsen.

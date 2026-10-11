@@ -1,0 +1,37 @@
+---
+title: "Lag (2007:171) om registerkontroll av personal vid vissa boenden som tar emot barn"
+identifier: "SFS 2007:171"
+type: act
+jurisdiction: se
+language: sv
+date: 2007-04-19
+amended_through: "SFS 2025:433"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-171.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:171"
+retrieved: 2026-10-11
+---
+# Lag (2007:171) om registerkontroll av personal vid vissa boenden som tar emot barn
+
+## 1 §
+
+Hem för vård eller boende, stödboenden eller skyddade boenden enligt 9 kap. socialtjänstlagen (2025:400) som tar emot barn får inte anställa någon om inte kontroll gjorts av register som förs enligt lagen (1998:620) om belastningsregister och lagen (1998:621) om misstankeregister avseende honom eller henne. Detsamma ska gälla den som, utan att det innebär anställning, erbjuds uppdrag, praktiktjänstgöring, volontärarbete eller liknande vid ett sådant hem under omständigheter liknande dem som förekommer vid en anställning inom verksamheten.
+
+Den som erbjuds en anställning, uppdrag, praktiktjänstgöring, volontärarbete eller liknande vid ett sådant hem för vård eller boende, ett sådant stödboende eller ett sådant skyddat boende som sägs i första stycket, ska till den som erbjuder anställningen lämna utdrag ur belastningsregistret och misstankeregistret.
+
+Skyldigheten att lämna utdrag ur register gäller dock inte om den som erbjuder anställningen, uppdraget, praktiktjänstgöringen, volontärarbetet eller liknande själv inhämtar utdraget.
+
+Utdraget ska vara högst sex månader gammalt. I lagen om belastningsregister och lagen om misstankeregister finns bestämmelser om att regeringen får meddela föreskrifter om innehållet i sådana utdrag. *Lag (2025:433)*.
+
+## 2 §
+
+Trots bestämmelsen i 1 § får den som inom sex månader erbjuds en förnyad anställning hos samma arbetsgivare eller en förnyad möjlighet att på annat sätt delta i verksamheten anställas, anlitas eller erbjudas arbete, uppdrag, praktiktjänstgöring, volontärarbete eller liknande utan att en registerkontroll enligt 1 § första stycket utförs. I sådana fall behöver den enskilde inte heller lämna registerutdrag enligt 1 § andra stycket. *Lag (2024:87)*.
+
+## 3 §
+
+På begäran av den som lämnat ett registerutdrag ska det återlämnas i original. Ett utdrag eller en kopia av registerutdraget ska dock bevaras under minst två år från det att anställningen, uppdraget, praktiktjänstgöringen, volontärarbetet eller liknande påbörjades. *Lag (2024:87)*.
+
+## 4 §
+
+I 28 kap. 13 § socialtjänstlagen (2025:400) finns bestämmelser om förbud att driva stödboende, skyddat boende eller hem för vård eller boende på grund av underlåtenhet att göra registerkontroll enligt 1 §. *Lag (2025:433)*.

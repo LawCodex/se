@@ -1,0 +1,133 @@
+---
+title: "Postförordning (2010:1049)"
+identifier: "SFS 2010:1049"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-07-01
+amended_through: "SFS 2026:513"
+department: "Finansdepartementet DIS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1049.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1049"
+retrieved: 2026-10-11
+---
+# Postförordning (2010:1049)
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna förordning gäller sådan postverksamhet och samhällsomfattande posttjänst som avses i postlagen (2010:1045).
+
+## Postverksamhet
+
+### 2 §
+
+Post- och telestyrelsen är tillståndsmyndighet enligt postlagen (2010:1045).
+
+### 3 §
+
+Post- och telestyrelsen får enligt 2 kap. 8 § postlagen (2010:1045) meddela föreskrifter om och i vilken utsträckning det ska framgå av ett brev vem som har befordrat det.
+
+### 4 §
+
+I ett ärende om tillstånd att bedriva postverksamhet enligt 2 kap. 1 § postlagen (2010:1045) ska Post- och telestyrelsen meddela beslut inom tre månader efter det att en fullständig ansökan kom in till myndigheten. Om det är nödvändigt på grund av utredningen av ärendet, får handläggningstiden vid högst ett tillfälle förlängas med högst en månad. Sökanden ska informeras om skälen för att handläggningstiden förlängs innan den ursprungliga tidsfristen har gått ut.
+
+I 8 § lagen (2009:1079) om tjänster på den inre marknaden finns bestämmelser om att ett mottagningsbevis ska skickas till sökanden när en fullständig ansökan har kommit in och om innehållet i ett sådant bevis.
+
+Ett beslut att förlänga handläggningstiden får inte överklagas.
+
+## Samhällsomfattande posttjänst
+
+### 5 §
+
+Post- och telestyrelsen får för en eller flera tillståndshavare förena tillståndet att bedriva postverksamhet med villkor om skyldighet att tillhandahålla hela eller delar av den samhällsomfattande posttjänsten.
+
+### 6 §
+
+Den samhällsomfattande posttjänsten ska, utöver vad som anges i 3 kap. 1 § postlagen (2010:1045), när det gäller de inrikes brev som har lämnats in för tredagarsbefordran före angiven senaste inlämningstid, oavsett var i landet breven har lämnats in, uppfylla kravet att
+
+1. minst 85 procent av breven ska ha delats ut inom tre påföljande arbetsdagar, och
+
+2. minst 97 procent av breven ska ha delats ut inom fem påföljande arbetsdagar.
+
+När det gäller adresserade försändelser som väger högst 2 kg, som har överlämnats i den slutliga form i vilken de ska transporteras av en tillhandahållare av posttjänster och som före angiven senaste inlämningstid har lämnats in för gränsöverskridande postbefordran inom den snabbaste normal- kategorin inom Europeiska unionen, ska den samhällsomfattande posttjänsten uppfylla kravet att
+
+1. minst 85 procent av försändelserna ska ha delats ut inom tre påföljande arbetsdagar, och
+
+2. minst 97 procent av försändelserna ska ha delats ut inom fem påföljande arbetsdagar.
+
+Post- och telestyrelsen ska årligen kontrollera att kravet i första stycket uppfylls och årligen offentliggöra resultatet av denna kontroll.
+
+Post- och telestyrelsen får meddela föreskrifter om senaste inlämningstid och ytterligare föreskrifter om krav på befordringstider enligt 3 kap. 1 § andra stycket postlagen.
+
+*Förordning (2026:513)*.
+
+### 7 §
+
+Post- och telestyrelsen får meddela föreskrifter om vilka tjänster som ska ingå i den samhällsomfattande posttjänsten och om på vilket sätt kravet enligt 3 kap. 1 § första stycket 1 postlagen (2010:1045) på utdelning av postförsändelser ska fullgöras. *Förordning (2018:61)*.
+
+### 8 §
+
+Post- och telestyrelsen ska underrätta Europeiska kommissionen och de nationella tillsynsmyndigheterna inom Europeiska unionen om
+
+1. undantag från kravet i 3 kap. 1 § första stycket 1 postlagen (2010:1045) på att det varje arbetsdag och minst fem dagar i veckan ska göras minst en insamling och minst en utdelning av postförsändelser, och
+
+2. i vilka fall utdelning av postförsändelser inte behöver ske vid en fysisk persons bostad eller en juridisk persons lokaler. *Förordning (2018:61)*.
+
+### 9 §
+
+Den som tillhandahåller en samhällsomfattande posttjänst får per kalenderår inte höja priser för befordran av frimärkta brev som omfattas av 6 § första stycket och som väger högst 250 gram, mer än summan av
+
+1. den procentuella ökningen av konsumentprisindex mellan juli närmast föregående år och juli året dessförinnan, och
+
+2. den procentuella förändringen närmast föregående år av an- talet sådana brev multiplicerat med en faktor som motsvarar den förändring av genomsnittskostnaden för befordran av breven som förändringen ger upphov till.
+
+Ett utrymme för prishöjning som inte utnyttjats under ett ka- lenderår får användas under ett av de tre närmast följande åren.
+
+Den som tillhandahåller den samhällsomfattande posttjänsten ska på begäran av Post- och telestyrelsen lämna det underlag som behövs för att fastställa faktorn enligt 9 a §.
+
+*Förordning (2019:531)*.
+
+### 9 a §
+
+Post- och telestyrelsen ska minst vart tredje år fast- ställa den faktor som anges i 9 § första stycket 2. *Förordning (2019:531)*.
+
+### 10 §
+
+Post- och telestyrelsen får enligt 3 kap. 2 § femte stycket postlagen (2010:1045) meddela föreskrifter om sådana krav på prissättningen och redovisningen av den samhällsomfattande posttjänsten som anges i 2 § första och andra styckena samma kapitel.
+
+### 11 §
+
+Post- och telestyrelsen får enligt 3 kap. 2 § femte stycket postlagen (2010:1045) meddela föreskrifter om sådana krav på prissättningen och tillhörande villkor som anges i 2 § tredje stycket samma kapitel och som ska gälla om den som utsetts att tillhandahålla hela eller delar av den samhällsomfattande posttjänsten tillämpar särskilda priser och andra särskilda villkor.
+
+## Gemensamma bestämmelser om postverksamhet och samhällsomfattande posttjänst
+
+## Postnummersystem
+
+### 12 §
+
+Post- och telestyrelsen ska utse en tillståndshavare som tillhandahåller posttjänster att också tillhandahålla och förvalta postnummersystemet.
+
+Den tillståndshavare som utses att tillhandahålla och förvalta postnummersystemet ska vid ändringar av systemet främja god ortnamnssed.
+
+## Totalförsvarets behov av postkommunikationer
+
+### 13 §
+
+Post- och telestyrelsen får meddela sådana föreskrifter om planering och andra åtgärder för totalförsvarets behov av postkommunikationer som avses i 4 kap. 9 § andra stycket postlagen (2010:1045).
+
+Innan sådana föreskrifter som avses i första stycket meddelas, ska Post- och telestyrelsen samråda med Försvarsmakten och Myndigheten för civilt försvar. *Förordning (2025:1133)*.
+
+## Klagomålshantering
+
+### 14 §
+
+Post- och telestyrelsen får meddela föreskrifter enligt 4 kap. 12 § postlagen (2010:1045) om tillståndshavares klagomålshantering samt om det offentliggörande av uppgifter om klagomål som ska ske av den som utsetts att tillhandahålla hela eller delar av den samhällsomfattande posttjänsten.
+
+## Verkställighetsföreskrifter
+
+### 15 §
+
+Post- och telestyrelsen får meddela de verkställighetsföreskrifter som behövs för tillämpningen av postlagen (2010:1045) i fråga om befordran av brev, obeställbara brev och tillsyn.

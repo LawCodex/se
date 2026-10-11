@@ -1,0 +1,50 @@
+---
+title: "Förordning (2023:286) om Rättsmedicinalverkets hantering av humanbiologiskt material"
+identifier: "SFS 2023:286"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2023-05-17
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2023-286.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2023:286"
+retrieved: 2026-10-11
+---
+# Förordning (2023:286) om Rättsmedicinalverkets hantering av humanbiologiskt material
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning finns kompletterande föreskrifter till lagen (2023:281) om Rättsmedicinalverkets hantering av humanbiologiskt material.
+
+### 2 §
+
+Denna förordning är meddelad med stöd av
+
+- 12 § lagen (2023:281) om Rättsmedicinalverkets hantering av humanbiologiskt material i fråga om 5 § 1,
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+### 3 §
+
+De ord och uttryck som används i denna förordning har samma betydelse som i lagen (2023:281) om Rättsmedicinalverkets hantering av humanbiologiskt material.
+
+## Tillgången till humanbiologiskt material
+
+### 4 §
+
+Rättsmedicinalverket ansvarar för att det inom myndigheten finns rutiner för tilldelning, förändring, borttagning och regelbunden uppföljning av behörigheter för åtkomst till humanbiologiskt material.
+
+## Bemyndiganden
+
+### 5 §
+
+Rättsmedicinalverket får meddela
+
+1. föreskrifter om bevarande och förstöring av humanbiologiskt material,
+
+2. ytterligare föreskrifter om verkställigheten av lagen (2023:281) om Rättsmedicinalverkets hantering av humanbiologiskt material, och
+
+3. föreskrifter om verkställigheten av denna förordning.

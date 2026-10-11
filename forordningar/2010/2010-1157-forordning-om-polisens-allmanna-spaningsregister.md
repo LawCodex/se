@@ -1,0 +1,61 @@
+---
+title: "Förordning (2010:1157) om polisens allmänna spaningsregister"
+identifier: "SFS 2010:1157"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-10-28
+amended_through: "SFS 2014:1182"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1157.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1157"
+retrieved: 2026-10-11
+---
+# Förordning (2010:1157) om polisens allmänna spaningsregister
+
+## Allmänna bestämmelser
+
+### 1 §
+
+I denna förordning finns kompletterande föreskrifter om sådan behandling av personuppgifter som omfattas av lagen (2010:362) om polisens allmänna spaningsregister.
+
+Begrepp och uttryck som används i denna förordning har samma innebörd och tillämpningsområde som i lagen.
+
+### 2 §
+
+Har upphävts genom *förordning (2014:1182)*.
+
+### 3 §
+
+Direktåtkomst till uppgifter som behandlas enligt lagen (2010:362) om polisens allmänna spaningsregister får inte medges innan Polismyndigheten har försäkrat sig om att den mottagande myndigheten uppfyller Polismyndighetens krav på behörighet och säkerhet. *Förordning (2014:1182)*.
+
+### 4 §
+
+Begränsningen i 19 § första meningen lagen (2010:362) om polisens allmänna spaningsregister gäller inte för myndigheter som får ha direktåtkomst enligt 20 § samma lag.
+
+### 5 §
+
+Om det följer av en internationell överenskommelse får fler personuppgifter än vad som anges i 19 § första meningen lagen (2010:362) om polisens allmänna spaningsregister lämnas ut på medium för automatiserad behandling till Europol och Interpol.
+
+Gallring
+
+### 6 §
+
+Polismyndigheten får, efter samråd med Riksarkivet, meddela närmare föreskrifter om gallring.
+
+*Förordning (2014:1182)*.
+
+### 7 §
+
+Riksarkivet får, efter samråd med Polismyndigheten, meddela föreskrifter om att uppgifter som ska gallras enligt 21-23 §§ lagen (2010:362) om polisens allmänna spaningsregister får bevaras för historiska, statistiska eller vetenskapliga ändamål. *Förordning (2014:1182)*.
+
+### 8 §
+
+Polismyndigheten får meddela de ytterligare föreskrifter som behövs för verkställighet av lagen (2010:362) om polisens allmänna spaningsregister och denna förordning.
+
+*Förordning (2014:1182)*.
+
+### 9 §
+
+Innan Polismyndigheten meddelar föreskrifter med stöd av denna förordning ska myndigheten samråda med Datainspektionen i frågor som anges i 8 och 9 §§ lagen (2010:362) om polisens allmänna spaningsregister och med både Datainspektionen och Säkerhets- och integritetsskyddsnämnden i frågor som anges i 12 och 14 §§ den lagen. *Förordning (2014:1182)*.

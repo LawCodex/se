@@ -1,0 +1,47 @@
+---
+title: "Lag (2017:571) om försöksverksamhet med branschskolor"
+identifier: "SFS 2017:571"
+type: act
+jurisdiction: se
+language: sv
+date: 2017-06-15
+amended_through: "SFS 2020:454"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-571.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:571"
+retrieved: 2026-10-11
+---
+# Lag (2017:571) om försöksverksamhet med branschskolor
+
+### 1 §
+
+En huvudman för utbildning på ett yrkesprogram inom gymnasieskolan eller för kommunal vuxenutbildning enligt skollagen (2010:800) får, inom ramen för en försöksverksamhet, med bibehållet huvudmannaskap sluta avtal med en branschskola om att skolan utför vissa uppgifter inom sådan utbildning (entreprenad). De uppgifter som får överlämnas på entreprenad är undervisning i karaktärsämnen som har en yrkesinriktad profil (yrkesämnen) och undervisning som avser sådant gymnasiearbete eller komvuxarbete som ingår i utbildningen enligt skollagen.
+
+Om sådan undervisning överlämnas på entreprenad, får även den myndighetsutövning som hör till en lärares undervisningsuppgift och uppgifter som inte är hänförliga till undervisningen överlämnas till branschskolan på entreprenad.
+
+Endast en kommun, en region eller en enskild fysisk eller juridisk person som uppfyller vissa villkor kan efter ansökan till den myndighet som regeringen bestämmer få ett godkännande att bedriva branschskola.
+
+Regeringen får meddela föreskrifter om sådana villkor och om urval. *Lag (2020:454)*.
+
+### 2 §
+
+I försöksverksamheten tillämpas de bestämmelser om utbildning inom gymnasieskolan och inom kommunal vuxenutbildning på gymnasial nivå som finns i skollagen (2010:800) och i föreskrifter som meddelats i anslutning till den lagen. Bestämmelserna om entreprenad i 23 kap. skollagen och i föreskrifter som meddelats i anslutning till de bestämmelserna ska dock inte tillämpas i försöksverksamheten.
+
+### 3 §
+
+Trots bestämmelsen i 2 kap. 1 § kommunallagen (2017:725) om anknytning till kommunens eller regionens område eller deras medlemmar får en kommun eller en region genom sådan entreprenad som avses i 1 § utföra uppgifter åt en annan huvudman inom skolväsendet. *Lag (2019:978)*.
+
+### 4 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om verkställigheten av denna lag.
+
+## Övergångsbestämmelser
+
+**2017:571**
+
+1. Denna lag träder i kraft den 1 augusti 2017.
+
+2. Lagen tillämpas på utbildning efter den 1 juli 2018.
+
+3. Lagen upphör att gälla vid utgången av juni månad 2023.

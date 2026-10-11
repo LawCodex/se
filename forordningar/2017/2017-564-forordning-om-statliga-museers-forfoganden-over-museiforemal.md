@@ -1,0 +1,50 @@
+---
+title: "Förordning (2017:564) om statliga museers förfoganden över museiföremål"
+identifier: "SFS 2017:564"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-06-08
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-564.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:564"
+retrieved: 2026-10-11
+---
+# Förordning (2017:564) om statliga museers förfoganden över museiföremål
+
+## 1 §
+
+I denna förordning finns bestämmelser om gåva och destruktion av museiföremål i de statliga museernas samlingar. Bestämmelserna syftar till att främja en aktiv förvaltning av de statliga museernas samlingar.
+
+Förordningen är meddelad med stöd av 10 § museilagen (2017:563).
+
+## 2 §
+
+I förordningen (1996:1191) om överlåtelse av statens lösa egendom finns bestämmelser för myndigheter under regeringen om försäljning och byte av statens lösa egendom.
+
+## 3 §
+
+Med museiföremål avses i denna förordning sådan lös egendom som ingår i de statliga museernas samlingar.
+
+Övriga uttryck har samma betydelse som i museilagen (2017:563).
+
+## 4 §
+
+De statliga museerna ska vid tillämpningen av denna förordning beakta egendomens kulturhistoriska och vetenskapliga värde ur ett långsiktigt perspektiv. Även samlingarnas sammansättning och användarnas behov ska beaktas.
+
+## 5 §
+
+De statliga museerna får genom gåva överlåta museiföremål till andra museer i det allmänna museiväsendet.
+
+## 6 §
+
+De statliga museerna får genom gåva överlåta museiföremål som har ett begränsat kulturhistoriskt och vetenskapligt värde till
+
+1. annan offentlig verksamhet,
+
+2. museer utanför det allmänna museiväsendet, och
+
+3. ideell kulturarvsverksamhet.
+
+Om museiföremålet inte bedöms kunna överlåtas enligt första stycket, får det destrueras.

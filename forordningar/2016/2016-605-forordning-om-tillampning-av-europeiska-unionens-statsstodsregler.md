@@ -1,0 +1,83 @@
+---
+title: "Förordning (2016:605) om tillämpning av Europeiska unionens statsstödsregler"
+identifier: "SFS 2016:605"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-06-02
+amended_through: "SFS 2026:1416"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-605.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:605"
+retrieved: 2026-10-11
+---
+# Förordning (2016:605) om tillämpning av Europeiska unionens statsstödsregler
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning innehåller kompletterande bestämmelser till lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler.
+
+### Återkrav av olagligt statsstöd
+
+#### 2 §
+
+Frågor om återkrav av stöd enligt 2 § andra stycket lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler prövas av den myndighet som lämnat stödet, om inte regeringen i det enskilda fallet bestämmer något annat.
+
+### Uppgiftslämnande
+
+#### 3 §
+
+/Upphör att gälla U:2027-01-01 genom *förordning (2026:1416)*./ Enligt 12 a § första stycket 1 lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler ska den som genomför en stödåtgärd lämna uppgifter för offentliggörande av stöd. Myndigheten för tillväxtpolitiska utvärderingar och analyser får meddela föreskrifter om på vilket sätt uppgifterna ska lämnas.
+
+#### 4 §
+
+*/Upphör att gälla U:2027-01-01/* Enligt 12 a § första stycket 1 lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler ska den som genomför en stödåtgärd lämna uppgifter för rapportering av stöd. Myndigheten för tillväxtpolitiska utvärderingar och analyser får meddela föreskrifter om på vilket sätt uppgifterna ska lämnas.
+
+#### 4 §
+
+*/Träder i kraft I:2027-01-01/* Enligt 12 a § första stycket 1 lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler ska den som genomför en stödåtgärd lämna uppgifter för
+
+1. registrering av stöd,
+
+2. offentliggörande av stöd, och
+
+3. rapportering av stöd.
+
+Myndigheten för tillväxt- och transportanalys får meddela föreskrifter om på vilket sätt uppgifterna i första stycket ska lämnas. *Förordning (2026:1416)*.
+
+#### 4 a §
+
+/Upphör att gälla U:2027-01-01 genom *förordning (2026:1416)*./ Enligt 12 a § första stycket 1 lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler ska den som genomför en stödåtgärd lämna uppgifter för registrering av stöd. Myndigheten för tillväxtpolitiska utvärderingar och analyser får meddela föreskrifter om på vilket sätt upp- gifterna ska lämnas. *Förordning (2025:1247)*.
+
+### Registerföring
+
+#### 5 §
+
+I fråga om skyldigheten att föra register enligt 12 a § första stycket 2 lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler tillämpas 6 och 7 §§, om inte regeringen föreskriver något annat.
+
+#### 6 §
+
+Den som genomför en stödåtgärd som omfattas av någon av nedan angivna kommissionsförordningar ska föra det register som avses i
+
+1. artikel 12 i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget,
+
+2. artikel 13 i kommissionens förordning (EU) 2022/2472 av den 14 december 2022 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt, eller
+
+3. artikel 13 i kommissionens förordning (EU) 2022/2473 av den 14 december 2022 genom vilken vissa kategorier av stöd till företag som är verksamma inom produktion, beredning och saluföring av fiskeri- och vattenbruksprodukter förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt.
+
+*Förordning (2023:294)*.
+
+#### 7 §
+
+Den som genomför en stödåtgärd som omfattas av kommissionens förordning (EU) nr 717/2014 av den 27 juni 2014 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse inom fiskeri- och vattenbrukssektorn ska föra det register som avses i artikel 6.4 i förordningen. *Förordning (2025:85)*.
+
+## Övergångsbestämmelser
+
+**2023:294**
+
+1. Denna förordning träder i kraft den 1 juli 2023.
+
+2. Äldre föreskrifter gäller fortfarande för stödåtgärder som omfattas av kommissionens förordning (EU) nr 702/2014 av den 25 juni 2014 genom vilken vissa kategorier av stöd inom jordbruks- och skogsbrukssektorn och i landsbygdsområden förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt eller kommissionens förordning (EU) nr 1388/2014 av den 16 december 2014 genom vilken vissa kategorier av stöd till företag som är verksamma inom produktion, beredning och saluföring av fiskeri- och vattenbruksprodukter förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt.

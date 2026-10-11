@@ -1,0 +1,367 @@
+---
+title: "/Rubriken upphör att gälla U:2027-01-01/ Lag (2008:717) om signalspaning i försvarsunderrättelseverksamhet /Rubriken träder i kraft I:2027-01-01/ Lag (2008:717) om signalspaning i utrikesunderrättelseverksamhet"
+identifier: "SFS 2008:717"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-07-10
+amended_through: "SFS 2026:1579"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-717.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:717"
+retrieved: 2026-10-11
+---
+# /Rubriken upphör att gälla U:2027-01-01/ Lag (2008:717) om signalspaning i försvarsunderrättelseverksamhet /Rubriken träder i kraft I:2027-01-01/ Lag (2008:717) om signalspaning i utrikesunderrättelseverksamhet
+
+### Signalspaningens omfattning
+
+#### 1 §
+
+*/Upphör att gälla U:2027-01-01/* I försvarsunderrättelseverksamhet enligt lagen (2000:130) om försvarsunderrättelseverksamhet får den myndighet som regeringen bestämmer (signalspaningsmyndigheten) inhämta signaler i elektronisk form vid signalspaning, oavsett om signalerna är under förmedling eller lagrade. Signalspaning i försvarsunderrättelseverksamhet får endast ske i de fall regeringen eller en myndighet som anges i 4 § närmare har bestämt inriktningen av signalspaningen.
+
+Signalspaning i försvarsunderrättelseverksamhet får ske endast i syfte att kartlägga
+
+1. yttre militära hot mot landet,
+
+2. förutsättningar för svenskt deltagande i fredsfrämjande och humanitära internationella insatser eller hot mot säkerheten för svenska intressen vid genomförandet av sådana insatser,
+
+3. internationell terrorism och annan grov gränsöverskridande brottslighet som kan hota väsentliga nationella intressen,
+
+4. utveckling och spridning av massförstörelsevapen, krigsmateriel och produkter som avses i lagen (2000:1064) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd samt strategiska förhållanden som gäller sådana utländska direktinvesteringar som avses i lagen (2023:560) om granskning av utländska direktinvesteringar,
+
+5. allvarliga yttre hot mot samhällets infrastrukturer,
+
+6. konflikter utomlands med konsekvenser för internationell säkerhet,
+
+7. främmande underrättelseverksamhet mot svenska intressen,
+
+8. främmande makts agerande eller avsikter av väsentlig betydelse för svensk utrikes-, säkerhets- eller försvarspolitik, eller
+
+9. sådana företeelser som avses i 1-8, men som inte riktas mot Sverige eller rör svenska intressen, om det är nödvändigt för ett samarbete i underrättelsefrågor med andra länder och internationella organisationer som signalspaningsmyndigheten deltar i.
+
+Om det är nödvändigt för försvarsunderrättelseverksamheten får signaler i elektronisk form inhämtas vid signalspaning även för att
+
+1. följa förändringar i signalmiljön i omvärlden, den tekniska utvecklingen och signalskyddet, samt
+
+2. fortlöpande utveckla den teknik och metodik som behövs för att bedriva verksamhet enligt denna lag. *Lag (2026:957)*.
+
+#### 1 §
+
+*/Träder i kraft I:2027-01-01/* I utrikesunderrättelseverksamhet enligt lagen (2000:130) om utrikesunderrättelseverksamhet får den myndighet som regeringen bestämmer (signalspaningsmyndigheten) inhämta signaler i elektronisk form vid signalspaning, oavsett om signalerna är under förmedling eller lagrade. Signalspaning i utrikesunderrättelseverksamhet får endast ske i de fall regeringen eller en myndighet som anges i 4 § närmare har bestämt inriktningen av signalspaningen.
+
+Signalspaning i utrikesunderrättelseverksamhet får ske endast i syfte att kartlägga
+
+1. yttre militära hot mot landet,
+
+2. förutsättningar för svenskt deltagande i fredsfrämjande och humanitära internationella insatser eller hot mot säkerheten för svenska intressen vid genomförandet av sådana insatser,
+
+3. internationell terrorism och annan grov gränsöverskridande brottslighet som kan hota väsentliga nationella intressen,
+
+4. utveckling och spridning av massförstörelsevapen, krigsmateriel och produkter som avses i lagen (2000:1064) om kontroll av produkter med dubbla användningsområden och av tekniskt bistånd samt strategiska förhållanden som gäller sådana utländska direktinvesteringar som avses i lagen (2023:560) om granskning av utländska direktinvesteringar,
+
+5. allvarliga yttre hot mot samhällets infrastrukturer,
+
+6. konflikter utomlands med konsekvenser för internationell säkerhet,
+
+7. främmande underrättelseverksamhet mot svenska intressen,
+
+8. främmande makts agerande eller avsikter av väsentlig betydelse för svensk utrikes-, säkerhets- eller försvarspolitik, eller
+
+9. sådana företeelser som avses i 1-8, men som inte riktas mot Sverige eller rör svenska intressen, om det är nödvändigt för ett samarbete i underrättelsefrågor med andra länder och internationella organisationer som signalspaningsmyndigheten deltar i.
+
+Om det är nödvändigt för utrikesunderrättelseverksamheten får signaler i elektronisk form inhämtas vid signalspaning även för att
+
+1. följa förändringar i signalmiljön i omvärlden, den tekniska utvecklingen och signalskyddet, samt
+
+2. fortlöpande utveckla den teknik och metodik som behövs för att bedriva verksamhet enligt denna lag. *Lag (2026:1579)*.
+
+#### 1 a §
+
+Utöver vad som följer av 1 § får signaler i elektronisk form även inhämtas vid övning, om det är nödvändigt för att utveckla förmågan att verka under höjd beredskap.
+
+*Lag (2026:957)*.
+
+#### 1 b §
+
+Vid inhämtning enligt 1 och 1 a §§ av signaler i elektronisk form får signalspaningsmyndigheten vidta de tekniska åtgärder som är nödvändiga för att genomföra inhämtningen. *Lag (2026:957)*.
+
+#### 2 §
+
+Inhämtning som sker i tråd får endast avse signaler som förs över Sveriges gräns i tråd som ägs av en operatör.
+
+#### 2 a §
+
+Inhämtning får inte avse signaler mellan en avsändare och mottagare som båda befinner sig i Sverige. Om sådana signaler inte kan avskiljas redan vid inhämtningen, ska upptagningen eller uppteckningen förstöras så snart det står klart att sådana signaler har inhämtats. Kravet på förstöring gäller även i fråga om upptagningar och uppteckningar som signalspaningsmyndigheten har fått från ett annat land eller en internationell organisation inom ramen för ett internationellt samarbete.
+
+Första stycket tillämpas inte i fråga om
+
+1. signaler som utväxlas autonomt mellan tekniska system i sådana fall där signalerna inte innehåller personuppgifter,
+
+2. signaler som sänds från eller till utländsk militär personal, utländska statsfartyg, statsluftfartyg eller militära fordon, eller
+
+3. signaler mellan en avsändare och en mottagare vid sådan övningsverksamhet som anges i 1 a §.
+
+Första stycket och andra stycket 2 och 3 tillämpas även på signaler som lagras i Sverige. *Lag (2026:957)*.
+
+#### 2 b §
+
+Bestämmelsen i 2 a § första stycket tillämpas inte i fråga om signaler i sådana brådskande situationer som innebär fara för människors liv eller hälsa eller för omfattande förstörelse av egendom.
+
+Om sådana signaler som anges i 2 a § första stycket inte kan avskiljas redan vid inhämtningen, behöver upptagningen eller uppteckningen inte förstöras om den innehåller
+
+1. uppgifter om en brådskande situation, och
+
+2. uppgifterna bedöms vara av avgörande betydelse för att skydda människors liv eller hälsa eller för att undvika omfattande förstörelse av egendom. *Lag (2026:957)*.
+
+### Sökbegrepp
+
+#### 3 §
+
+Inhämtning av signaler i tråd ska ske automatiserat.
+
+Sådan inhämtning får avse endast signaler som identifierats genom sökbegrepp. Även vid annan automatiserad inhämtning ska sökbegrepp användas för identifiering av signaler.
+
+Sökbegreppen ska utformas och användas med respekt för enskildas personliga integritet och så att signalspaningen medför ett så begränsat integritetsintrång som möjligt. För sökbegrepp som är direkt hänförliga till en viss fysisk person gäller därutöver att de får användas endast om det är av synnerlig vikt för verksamheten. *Lag (2009:967)*.
+
+### Inriktning
+
+#### 4 §
+
+*/Upphör att gälla U:2027-01-01/* I lagen (2000:130) om försvarsunderrättelseverksamhet finns bestämmelser om regeringens och myndigheters inriktning av sådan verksamhet. Inriktning av signalspaning får anges endast av regeringen, Regeringskansliet, Försvarsmakten, Säkerhetspolisen och Nationella operativa avdelningen i Polismyndigheten.
+
+Regeringen bestämmer inriktningen av sådan verksamhet som bedrivs enligt 1 § andra stycket 9 och tredje stycket.
+
+Regeringen och Försvarsmakten bestämmer inriktningen av sådan verksamhet som bedrivs enligt 1 a §.
+
+En inriktning av signalspaningen får inte avse endast en viss fysisk person. *Lag (2026:957)*.
+
+#### 4 §
+
+*/Träder i kraft I:2027-01-01/* I lagen (2000:130) om utrikesunderrättelseverksamhet finns bestämmelser om regeringens och myndigheters inriktning av sådan verksamhet. Inriktning av signalspaning får anges endast av regeringen, Regeringskansliet, Försvarsmakten, Säkerhetspolisen, Nationella operativa avdelningen i Polismyndigheten och Sveriges utrikes underrättelsetjänst.
+
+Regeringen bestämmer inriktningen av sådan verksamhet som bedrivs enligt 1 § andra stycket 9 och tredje stycket.
+
+Regeringen och Försvarsmakten bestämmer inriktningen av sådan verksamhet som bedrivs enligt 1 a §.
+
+En inriktning av signalspaningen får inte avse endast en viss fysisk person. *Lag (2026:1579)*.
+
+### Tillstånd
+
+#### 4 a §
+
+*/Upphör att gälla U:2027-01-01/* Signalspaningsmyndigheten ska ansöka om tillstånd hos Försvarsunderrättelsedomstolen för signalspaning enligt 1 och 1 a §§. En sådan ansökan ska innehålla uppgifter om
+
+1. det inhämtningsuppdrag som ansökan avser, med en närmare redogörelse för det behov som föranleder ansökan och uppgift om vilken inriktning uppdraget hänför sig till,
+
+2. vilken eller vilka signalbärare avseende signaler i tråd som signalspaningsmyndigheten behöver ha tillgång till för att fullgöra uppdraget samt en övergripande redovisning av övrig inhämtning,
+
+3. de sökbegrepp eller kategorier av sökbegrepp som är avsedda att användas vid inhämtningen,
+
+4. vilken tid tillståndet ska gälla, och
+
+5. de omständigheter i övrigt som myndigheten vill åberopa till stöd för sin ansökan. *Lag (2026:957)*.
+
+#### 4 a §
+
+*/Träder i kraft I:2027-01-01/* Signalspaningsmyndigheten ska ansöka om tillstånd hos Underrättelsedomstolen för signalspaning enligt 1 och 1 a §§. En sådan ansökan ska innehålla uppgifter om
+
+1. det inhämtningsuppdrag som ansökan avser, med en närmare redogörelse för det behov som föranleder ansökan och uppgift om vilken inriktning uppdraget hänför sig till,
+
+2. vilken eller vilka signalbärare avseende signaler i tråd som signalspaningsmyndigheten behöver ha tillgång till för att fullgöra uppdraget samt en övergripande redovisning av övrig inhämtning,
+
+3. de sökbegrepp eller kategorier av sökbegrepp som är avsedda att användas vid inhämtningen,
+
+4. vilken tid tillståndet ska gälla, och
+
+5. de omständigheter i övrigt som myndigheten vill åberopa till stöd för sin ansökan. *Lag (2026:1579)*.
+
+#### 5 §
+
+*/Upphör att gälla U:2027-01-01/* Tillstånd för signalspaning enligt visst inhämtningsuppdrag får lämnas endast om
+
+1. uppdraget är förenligt med lagen (2000:130) om försvarsunderrättelseverksamhet och denna lag,
+
+2. syftet med inhämtningen inte kan tillgodoses på ett mindre ingripande sätt,
+
+3. uppdraget beräknas ge information vars värde är klart större än det integritetsintrång som inhämtning i enlighet med ansökan kan innebära,
+
+4. de sökbegrepp eller kategorier av sökbegrepp som är avsedda att användas är förenliga med 3 §, och
+
+5. ansökan inte avser endast en viss fysisk person.
+
+*Lag (2009:967)*.
+
+#### 5 §
+
+*/Träder i kraft I:2027-01-01/* Tillstånd för signalspaning enligt visst inhämtningsuppdrag får lämnas endast om
+
+1. uppdraget är förenligt med lagen (2000:130) om utrikesunderrättelseverksamhet och denna lag,
+
+2. syftet med inhämtningen inte kan tillgodoses på ett mindre ingripande sätt,
+
+3. uppdraget beräknas ge information vars värde är klart större än det integritetsintrång som inhämtning i enlighet med ansökan kan innebära,
+
+4. de sökbegrepp eller kategorier av sökbegrepp som är avsedda att användas är förenliga med 3 §, och
+
+5. ansökan inte avser endast en viss fysisk person.
+
+*Lag (2026:1579)*.
+
+#### 5 a §
+
+I ett tillstånd ska anges
+
+1. det inhämtningsuppdrag för vilket inhämtning får ske,
+
+2. vilken eller vilka signalbärare avseende signaler i tråd som signalspaningsmyndigheten ska få tillgång till för att fullgöra uppdraget,
+
+3. vilka sökbegrepp eller kategorier av sökbegrepp som får användas vid inhämtningen,
+
+4. den tid som tillståndet avser, och
+
+5. de villkor i övrigt som behövs för att begränsa intrånget i enskildas personliga integritet.
+
+Ett tillstånd får ges för högst sex månader från dagen för beslutet och kan efter förnyad prövning förlängas med högst sex månader i taget.
+
+Om det för fullgörande av inhämtningsuppdrag för vilket tillstånd getts uppstår behov av tillgång till ytterligare signalbärare eller användning av andra tillståndspliktiga sökbegrepp, ska särskilt tillstånd sökas. Särskilt tillstånd ska även sökas vid undantag enligt 2 b § första stycket. Vid ansökan och prövning gäller 4 a och 5 §§ i tillämpliga delar. Ett sådant särskilt tillstånd ska som längst ha samma varaktighet som tillståndet för det inhämtningsuppdrag som det särskilda tillståndet hänför sig till. *Lag (2026:957)*.
+
+#### 5 b §
+
+*/Upphör att gälla U:2027-01-01/* Om det kan befaras att inhämtande av Försvarsunderrättelsedomstolens tillstånd skulle medföra sådan fördröjning eller annan olägenhet som är av väsentlig betydelse för något av de i 1 § angivna syftena, får tillstånd till signalspaningen ges av den befattningshavare vid signalspaningsmyndigheten som regeringen föreskriver. Ett sådant tillstånd ska utformas i enlighet med 5 a §.
+
+Har tillstånd lämnats enligt första stycket ska åtgärden genast anmälas skriftligen till Försvarsunderrättelsedomstolen. I anmälan ska skälen för åtgärden anges. Försvarsunderrättelsedomstolen ska skyndsamt pröva ärendet och, om den finner att det inte finns skäl för åtgärden, upphäva eller ändra beslutet. Om ett beslut enligt första stycket har upphört att gälla innan domstolen har prövat ärendet, ska signalspaningsmyndigheten anmäla åtgärden till kontrollmyndigheten.
+
+Om Försvarsunderrättelsedomstolen upphäver eller ändrar ett beslut enligt första stycket ska upptagning eller uppteckning av uppgifter som redan inhämtats omgående förstöras i den utsträckning upptagningen eller uppteckningen kan hänföras till ändringen. *Lag (2009:967)*.
+
+#### 5 b §
+
+*/Träder i kraft I:2027-01-01/* Om det kan befaras att inhämtande av Underrättelsedomstolens tillstånd skulle medföra sådan fördröjning eller annan olägenhet som är av väsentlig betydelse för något av de i 1 § angivna syftena, får tillstånd till signalspaningen ges av den befattningshavare vid signalspaningsmyndigheten som regeringen föreskriver. Ett sådant tillstånd ska utformas i enlighet med 5 a §.
+
+Har tillstånd lämnats enligt första stycket ska åtgärden genast anmälas skriftligen till Underrättelsedomstolen. I anmälan ska skälen för åtgärden anges. Underrättelsedomstolen ska skyndsamt pröva ärendet och, om den finner att det inte finns skäl för åtgärden, upphäva eller ändra beslutet. Om ett beslut enligt första stycket har upphört att gälla innan domstolen har prövat ärendet, ska signalspaningsmyndigheten anmäla åtgärden till kontrollmyndigheten.
+
+Om Underrättelsedomstolen upphäver eller ändrar ett beslut enligt första stycket ska upptagning eller uppteckning av uppgifter som redan inhämtats omgående förstöras i den utsträckning upptagningen eller uppteckningen kan hänföras till ändringen. *Lag (2026:1579)*.
+
+#### 6 §
+
+*/Upphör att gälla U:2027-01-01/* Bestämmelser om Försvarsunderrättelsedomstolen finns i lagen (2009:966) om Försvarsunderrättelsedomstol.
+
+*Lag (2009:967)*.
+
+#### 6 §
+
+*/Träder i kraft I:2027-01-01/* Bestämmelser om Underrättelsedomstolen finns i lagen (2009:966) om Underrättelsedomstol. *Lag (2026:1579)*.
+
+### Förstöringsskyldighet
+
+#### 7 §
+
+En upptagning eller uppteckning av uppgifter som har inhämtats enligt denna lag eller som signalspaningsmyndigheten har fått från ett annat land eller en internationell organisation inom ramen för ett internationellt samarbete ska omgående förstöras om innehållet
+
+1. har bedömts sakna betydelse för verksamhet som avses i 1 § eller 1 a §,
+
+2. avser uppgifter för vilka tystnadsplikt gäller enligt 3 kap. 3 § tryckfrihetsförordningen eller 2 kap. 3 § yttrandefrihetsgrundlagen, eller som omfattas av efterforskningsförbudet i 3 kap. 5 § tryckfrihetsförordningen eller 2 kap. 5 § yttrandefrihetsgrundlagen,
+
+3. omfattar uppgifter i sådana meddelanden mellan en person som är misstänkt för brott och hans eller hennes försvarare vilka skyddas enligt 27 kap. 22 § första stycket rättegångsbalken, eller
+
+4. avser uppgifter lämnade under bikt eller enskild själavård, såvida det inte finns synnerliga skäl att behandla uppgifterna för syften som anges i 1 § andra stycket. *Lag (2026:957)*.
+
+### Rapportering
+
+#### 8 §
+
+*/Upphör att gälla U:2027-01-01/* Underrättelser med uppgifter som inhämtats enligt denna lag ska rapporteras till berörda myndigheter i enlighet med det som föreskrivs i lagen (2000:130) om försvarsunderrättelseverksamhet. Om uppgifterna berör en viss fysisk person, får rapporteringen endast avse förhållanden som är av betydelse i de hänseenden som anges i 1 § den lagen.
+
+Uppgifter som inhämtats med stöd av 1 a § får inte resultera i underrättelser. *Lag (2026:957)*.
+
+#### 8 §
+
+*/Träder i kraft I:2027-01-01/* Underrättelser med uppgifter som inhämtats enligt denna lag ska rapporteras till berörda myndigheter i enlighet med det som föreskrivs i lagen (2000:130) om utrikesunderrättelseverksamhet. Om uppgifterna berör en viss fysisk person, får rapporteringen endast avse förhållanden som är av betydelse i de hänseenden som anges i 1 § den lagen.
+
+Uppgifter som inhämtats med stöd av 1 a § får inte resultera i underrättelser. *Lag (2026:1579)*.
+
+### Internationellt samarbete
+
+#### 9 §
+
+*/Upphör att gälla U:2027-01-01/* I lagen (2000:130) om försvarsunderrättelseverksamhet finns bestämmelser om internationellt samarbete på försvarsunderrättelseområdet.
+
+Signalspaningsmyndigheten får för den verksamhet som anges i 1 § tredje stycket och 1 a §, enligt regeringens närmare bestämmande, etablera och upprätthålla samarbete i signalspaningsfrågor med andra länder och internationella organisationer. *Lag (2026:957)*.
+
+#### 9 §
+
+*/Träder i kraft I:2027-01-01/* I lagen (2000:130) om utrikesunderrättelseverksamhet finns bestämmelser om internationellt samarbete på utrikesunderrättelseområdet.
+
+Signalspaningsmyndigheten får för den verksamhet som anges i 1 § tredje stycket och 1 a §, enligt regeringens närmare bestämmande, etablera och upprätthålla samarbete i signalspaningsfrågor med andra länder och internationella organisationer. *Lag (2026:1579)*.
+
+### Kontroll
+
+#### 10 §
+
+Den myndighet som regeringen bestämmer (kontrollmyndigheten) ska kontrollera att denna lag följs.
+
+Kontrollen ska särskilt avse granskning av sökbegrepp som avses i 3 §, förstöring av uppgifter som avses i 7 § samt rapportering enligt 8 §.
+
+Myndigheten får besluta att viss inhämtning ska upphöra eller att upptagning eller uppteckning av inhämtade uppgifter ska förstöras, om det vid kontroll framkommer att inhämtningen inte är förenlig med tillstånd meddelat enligt denna lag.
+
+Myndigheten ska ledas av en nämnd vars ledamöter utses av regeringen för en bestämd tid, minst fyra år. Ordföranden och vice ordföranden ska vara eller ha varit ordinarie domare.
+
+Övriga ledamöter ska utses bland personer som föreslagits av partigrupperna i riksdagen. *Lag (2009:967)*.
+
+#### 10 a §
+
+Ett särskilt beslutandeorgan i kontrollmyndigheten är skyldigt att på begäran av en enskild kontrollera om hans eller hennes meddelanden eller lagrade uppgifter har inhämtats i samband med signalspaning enligt denna lag och, om så är fallet, huruvida inhämtningen och behandlingen av inhämtade uppgifter har skett i enlighet med lag. Beslutandeorganet ska underrätta den enskilde om att kontrollen har utförts. Underrättelsen ska innehålla en motivering.
+
+Beslutandeorganet får besluta att inhämtning avseende den som begärt kontrollen ska upphöra eller att upptagning eller uppteckning av inhämtade uppgifter ska förstöras, om det vid kontroll framkommer att inhämtningen inte är förenlig med tillstånd som lämnats enligt denna lag.
+
+Ledamöterna i beslutandeorganet utses av regeringen för en bestämd tid. Ordföranden och vice ordföranden ska vara eller ha varit ordinarie domare eller ha motsvarande juridisk erfarenhet. Övriga ledamöter ska utses bland personer som föreslagits av partigrupperna i riksdagen. *Lag (2026:957)*.
+
+#### 11 §
+
+Inom signalspaningsmyndigheten ska det finnas ett råd med uppgift att utöva fortlöpande insyn i de åtgärder som vidtas för att säkerställa integritetsskyddet i signalspaningsverksamheten. Rådets ledamöter utses av regeringen för viss tid. Rådet ska rapportera sina iakttagelser till signalspaningsmyndighetens ledning och, om rådet finner att det finns skäl för det, till kontrollmyndigheten. *Lag (2009:967)*.
+
+#### 11 a §
+
+Har upphävts genom *lag (2026:957)*.
+
+#### 11 b §
+
+Har upphävts genom *lag (2026:957)*.
+
+### Övriga bestämmelser
+
+#### 12 §
+
+I lagen (2022:482) om elektronisk kommunikation finns bestämmelser om operatörers skyldighet att överföra signaler för att möjliggöra inhämtning enligt denna lag.
+
+Endast kontrollmyndigheten ska ha rådighet över signalbärare innehållande sådana signaler som överförs i enlighet med de bestämmelser som avses i första stycket. Myndigheten ska ge signalspaningsmyndigheten tillgång till signalbärare endast i den utsträckning det följer av tillstånd enligt 5 a eller 5 b §. *Lag (2022:495)*.
+
+#### 12 a §
+
+I lagen (2021:000) om behandling av personuppgifter vid Försvarets radioanstalt finns ytterligare bestämmelser om behandlingen av inhämtade personuppgifter. *Lag (2021:1173)*.
+
+#### 12 b §
+
+*/Upphör att gälla U:2027-01-01/* I lagen (2026:956) om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara finns bestämmelser om signalspaning i försvarsunderrättelseverksamhet om Sverige är i krig eller i krigsfara eller det råder sådana extraordinära förhållanden som är föranledda av krig eller av krigsfara som Sverige har befunnit sig i. *Lag (2026:957)*.
+
+#### 12 b §
+
+*/Träder i kraft I:2027-01-01/* I lagen (2026:956) om signalspaning i utrikesunderrättelseverksamhet i krig eller krigsfara finns bestämmelser om signalspaning i utrikesunderrättelseverksamhet om Sverige är i krig eller i krigsfara eller det råder sådana extraordinära förhållanden som är föranledda av krig eller av krigsfara som Sverige har befunnit sig i. *Lag (2026:1579)*.
+
+#### 13 §
+
+Beslut enligt denna lag får inte överklagas.
+
+## Övergångsbestämmelser
+
+**2009:967**
+
+1. Denna lag träder i kraft den 1 december 2009.
+
+2. Verksamhet som vid ikraftträdandet bedrivs med stöd av tillstånd meddelade enligt äldre bestämmelser får bedrivas till dess att tiden för tillståndet löper ut.
+
+**2024:425**
+
+1. Denna lag träder i kraft den 1 januari 2025 i fråga om 10 a § och i övrigt den 1 juli 2024.
+
+2. Det särskilda beslutandeorganet i kontrollmyndigheten ska efter ikraftträdandet handlägga ärenden enligt 10 a § som har inletts hos kontrollmyndigheten.

@@ -1,0 +1,67 @@
+---
+title: "Förordning (2011:116) om register hos Socialstyrelsen över läkemedel som lämnats ut från apotek i Jämtlands län"
+identifier: "SFS 2011:116"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-02-10
+amended_through: "SFS 2018:467"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-116.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:116"
+retrieved: 2026-10-11
+---
+# Förordning (2011:116) om register hos Socialstyrelsen över läkemedel som lämnats ut från apotek i Jämtlands län
+
+## Inledning
+
+### 1 §
+
+Socialstyrelsen får föra ett register med uppgifter om läkemedel som lämnats ut från apotek i Jämtlands län under åren 1968-2005.
+
+## Personuppgiftsansvarig
+
+### 2 §
+
+Socialstyrelsen är personuppgiftsansvarig för behandlingen av personuppgifter.
+
+## Ändamål för behandling av personuppgifter
+
+### 3 §
+
+Personuppgifter i registret får behandlas för epidemiologiska undersökningar, forskning och framställning av statistik inom hälso- och sjukvårdsområdet.
+
+## Personuppgifter som får behandlas
+
+### 4 §
+
+I registret får endast behandlas personuppgifter om
+
+1. datum för utfärdande av recept och för expediering,
+
+2. vara, pris, antal förpackningar,
+
+3. uppgift om förstagångspreparat, kodnivå i Anatomic Therapeutic Chemical classification system (ATC-kodnivå),
+
+4. patientens personnummer, och
+
+5. förskrivarens arbetsplats.
+
+## Den enskildes inställning till behandling
+
+### 5 §
+
+Personuppgifter får inte behandlas i registret om den registrerade motsätter sig det.
+
+Om den enskilde motsätter sig personuppgiftsbehandlingen sedan den påbörjats, ska uppgifterna utplånas ur registret så snart som möjligt.
+
+### 6 §
+
+Har upphävts genom *förordning (2018:467)*.
+
+## Information
+
+### 7 §
+
+Socialstyrelsen ska på lämpligt sätt informera allmänheten om registret.

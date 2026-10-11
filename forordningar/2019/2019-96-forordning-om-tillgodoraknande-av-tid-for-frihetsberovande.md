@@ -1,0 +1,67 @@
+---
+title: "Förordning (2019:96) om tillgodoräknande av tid för frihetsberövande"
+identifier: "SFS 2019:96"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-02-28
+amended_through: "SFS 2026:557"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-96.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:96"
+retrieved: 2026-10-11
+---
+# Förordning (2019:96) om tillgodoräknande av tid för frihetsberövande
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning innehåller kompletterande bestämmelser till lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande. Begrepp och uttryck som används i förordningen har samma innebörd och tillämpningsområde som i lagen.
+
+### Underrättelse om verkställighet i vissa fall
+
+#### 2 §
+
+Om verkställighet av ett fängelsestraff eller säkerhetsförvaring påbörjas samtidigt som den dömde är häktad i ett annat mål, ska Kriminalvården så snart som möjligt underrätta åklagaren och domstolen i häktningsmålet om att det finns uppgifter hos Kriminalvården som är av betydelse för tillgodoräknande av tid för frihetsberövande enligt 2 § lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande.
+
+*Förordning (2026:283)*.
+
+#### 3 §
+
+Om verkställighet av ett fängelsestraff eller säkerhetsförvaring påbörjas samtidigt som den dömde är omhändertagen på ett sådant sätt som avses i 8 § strafftidslagen (2018:1251), ska Kriminalvården så snart som möjligt underrätta den övervakningsnämnd eller domstol som har beslutat om omhändertagande. *Förordning (2026:283)*.
+
+#### 4 §
+
+Har upphävts genom *förordning (2026:557)*.
+
+### Inhämtande av uppgifter om omhändertagande
+
+#### 5 §
+
+Om det uppkommer en fråga om att undanröja en skyddstillsyn eller att förverka villkorligt medgiven frihet ska rätten, innan en sådan åtgärd vidtas, hämta in uppgifter från Kriminalvården om huruvida det förekommit något omhändertagande som enligt 2 § lagen (2018:1250) om tillgodo- räknande av tid för frihetsberövande ska tillgodoräknas den dömde med anledning av rättens beslut.
+
+#### 6 §
+
+Om det uppkommer en fråga om att förverka villkorligt medgiven frihet ska övervakningsnämnden, innan en sådan åtgärd vidtas, hämta in uppgifter från Kriminalvården om huruvida det förekommit något omhändertagande som enligt 2 § lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande ska tillgodoräknas den dömde med anledning av nämndens beslut.
+
+#### 7 §
+
+Beslut om tillgodoräknande av tid för frihetsberövande utomlands enligt 2 § lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande ska grundas på de uppgifter som Kriminalvården får av den stat som verkställer överlämnandet, om det inte är uppenbart att uppgifterna är oriktiga.
+
+*Förordning (2026:557)*.
+
+## Övergångsbestämmelser
+
+**2019:96**
+
+1. Denna förordning träder i kraft den 1 april 2019.
+
+2. Äldre bestämmelser gäller fortfarande för frihetsberövanden som ägt rum före ikraftträdandet.
+
+**2026:557**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller i fråga om domar på sluten ungdomsvård.

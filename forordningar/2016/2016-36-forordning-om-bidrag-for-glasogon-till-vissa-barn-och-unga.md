@@ -1,0 +1,63 @@
+---
+title: "Förordning (2016:36) om bidrag för glasögon till vissa barn och unga"
+identifier: "SFS 2016:36"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-02-04
+amended_through: "SFS 2019:1115"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-36.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:36"
+retrieved: 2026-10-11
+---
+# Förordning (2016:36) om bidrag för glasögon till vissa barn och unga
+
+## Inledande bestämmelse
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om bidrag för kostnad för glasögon eller kontaktlinser till barn och unga enligt lagen (2016:35) om bidrag för glasögon till vissa barn och unga.
+
+### 2 §
+
+Har upphävts genom *förordning (2018:894)*.
+
+## Bidragets omfattning
+
+### 3 §
+
+Bidrag för kostnad enligt 1 § ska uppgå till 800 kr per person.
+
+Om kostnaden för glasögonen eller kontaktlinserna är lägre än 800 kr per person ska bidraget uppgå till den faktiska kostnaden.
+
+Bidrag lämnas inte för kostnad för glasögon eller kontaktlinser som har skadats eller tappats bort eller kostnad för reservglasögon eller motsvarande kontaktlinser.
+
+## Förutsättningar för bidraget
+
+### 4 §
+
+För att få bidrag för glasögon eller kontaktlinser krävs ett aktuellt recept eller ordinationsunderlag från en ögonläkare, ortoptist eller optiker.
+
+## Återbetalning och återkrav
+
+### 5 §
+
+Den som har tagit emot bidrag enligt denna förordning är återbetalningsskyldig, om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget inte har använts för det ändamål som det har beviljats för.
+
+Regionen får besluta att helt eller delvis kräva tillbaka ett bidrag om någon är återbetalningsskyldig enligt första stycket. *Förordning (2019:1115)*.
+
+## Överklagande
+
+### 6 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:894)*.

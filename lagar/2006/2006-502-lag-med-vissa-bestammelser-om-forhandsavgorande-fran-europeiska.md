@@ -1,0 +1,33 @@
+---
+title: "Lag (2006:502) med vissa bestämmelser om förhandsavgörande från Europeiska unionens domstol"
+identifier: "SFS 2006:502"
+type: act
+jurisdiction: se
+language: sv
+date: 2006-05-24
+amended_through: "SFS 2010:581"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-502.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:502"
+retrieved: 2026-10-11
+---
+# Lag (2006:502) med vissa bestämmelser om förhandsavgörande från Europeiska unionens domstol
+
+## Redovisning av ställningstagande
+
+### 1 §
+
+Om en part i ett mål eller ärende vid en domstol eller myndighet, som omfattas av skyldigheten att inhämta förhandsavgörande från Europeiska unionens domstol, har yrkat att ett förhandsavgörande ska inhämtas eller på annat sätt väckt frågan om en sådan åtgärd, ska domstolen eller myndigheten, i de fall den beslutar att inte inhämta ett förhandsavgörande, i sitt beslut ange skälen till detta.
+
+Första stycket gäller inte vid tillämpningen av 58 eller 59 kap. rättegångsbalken, 37 b eller 37 c § förvaltningsprocesslagen (1971:291) eller 42 § lagen (1996:242) om domstolsärenden. *Lag (2010:581)*.
+
+## Förhandsavgörande enligt vissa internationella överenskommelser
+
+### 2 §
+
+En domstol ska eller får inhämta förhandsavgörande från Europeiska unionens domstol om tolkningen av en bestämmelse i en internationell överenskommelse, som Sverige har tillträtt och som har ingåtts inom ramen för samarbete i Europeiska unionen, i den omfattning som Sverige enligt överenskommelsen har åtagit sig att ålägga domstol sådan skyldighet eller att ge domstol sådan behörighet.
+
+Om en annan lag innehåller någon bestämmelse om domstols rätt eller skyldighet att begära förhandsavgörande från Europeiska unionens domstol, gäller den bestämmelsen.
+
+Regeringen ger i Svensk författningssamling till känna åtaganden enligt första stycket och bestämmelser enligt andra stycket. *Lag (2010:581)*.

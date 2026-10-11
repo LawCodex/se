@@ -1,0 +1,395 @@
+---
+title: "Förordning (2009:975) med instruktion för Vetenskapsrådet"
+identifier: "SFS 2009:975"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-10-22
+amended_through: "SFS 2026:1363"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-975.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:975"
+retrieved: 2026-10-11
+---
+# Förordning (2009:975) med instruktion för Vetenskapsrådet
+
+> Rättelsesida 2024:1151 har iakttagits.
+
+### Uppgifter
+
+#### 1 §
+
+Vetenskapsrådet ska ge stöd till grundläggande forskning av högsta vetenskapliga kvalitet inom samtliga vetenskapsområden.
+
+Vetenskapsrådet ska
+
+1. främja den svenska grundforskningens kvalitet och förnyelse,
+
+2. stödja forskarinitierad forskning,
+
+3. initiera och stödja ämnesövergripande satsningar på forskning,
+
+4. fördela medel till forskning av internationellt hög kvalitet,
+
+5. främja och ta initiativ till internationellt forskningssamarbete och erfarenhetsutbyte, och
+
+6. utvärdera forskning och bedöma forskningen och dess vetenskapliga kvalitet och betydelse. *Förordning (2018:17)*.
+
+#### 1 a §
+
+Vetenskapsrådet ska i sin verksamhet beakta Sveriges utrikes-, säkerhets- och försvarspolitiska intressen.
+
+*Förordning (2022:875)*.
+
+#### 2 §
+
+Vetenskapsrådet ska också
+
+1. genomföra forskningspolitiska analyser och ge regeringen råd i forskningspolitiska frågor,
+
+2. initiera och stödja strategiska satsningar inom forskning och forskningsinfrastruktur,
+
+3. planera tillgången till forskningsinfrastruktur långsiktigt i samverkan med andra forskningsfinansiärer och forskningsutförare,
+
+4. fördela medel till nationell forskningsinfrastruktur och internationella åtaganden,
+
+5. följa upp Sveriges medlemskap i svenska, europeiska och internationella organisationer och infrastrukturer när det gäller kostnader i förhållande till deltagande,
+
+6. i samverkan med universitet och högskolor medverka till att skapa goda forskningsmiljöer, främja utbildning på forskarnivå av hög kvalitet, stödja forskare i början av sin karriär och främja forskares rörlighet,
+
+7. medverka i och främja det svenska deltagandet i Europeiska unionens verksamhet inom forskning och teknisk utveckling,
+
+8. företräda Sverige i de EU-organisationer och internationella organisationer som Regeringskansliet (Utbildningsdepartementet) informerar rådet om,
+
+9. ansvara övergripande för samordning av kommunikation om forskning och forskningsresultat,
+
+10. ansvara för kommunikation om forskning och forskningsresultat inom sina områden,
+
+11. utveckla samarbeten med de länder som Sverige har ingått avtal med inom forskningsområdet i de fall som Regeringskansliet (Utbildningsdepartementet) informerar rådet om,
+
+12. integrera ett jämställdhetsperspektiv i myndighetens verksamhet och främja jämställdhet vid fördelning av forskningsmedel,
+
+13. verka för att ett köns- och genusperspektiv inkluderas i den forskning som myndigheten finansierar, när det är tillämpligt,
+
+14. ta initiativ till att etiska frågor uppmärksammas vid forskning och förmedla information om forskningsetiska frågor,
+
+15. stödja och ge råd till Svenska Unescorådet inom ramen för Unescos vetenskapliga arbete,
+
+16. initiera och stödja satsningar på konstnärlig forskning,
+
+17. stödja och utveckla förutsättningarna för kliniska studier i Sverige,
+
+18. förbättra tillgängligheten till och underlätta användningen av registeruppgifter för forskningsändamål och bistå forskare med information om relevanta bestämmelser om register,
+
+19. ansvara för kommunikationssystemet Swedish University Computer Network (Sunet) och tillhandahålla grundanslutning åt anslutna organisa-tioner,
+
+20. bistå styrgruppen för avtalet mellan svenska staten och vissa landsting om samarbete om utbildning av läkare, klinisk forskning och utveckling av hälso- och sjukvården (ALF- avtalet) med administrativt stöd,
+
+21. samordna, följa upp och främja samverkan i arbetet för öppen tillgång till forskningsdata och varje år publicera en rapport med en samlad kartläggning, analys och bedömning av det nationella arbetet med öppen tillgång till forskningsdata,
+
+22. samordna och främja det svenska engagemanget i det europeiska öppna forskningsmolnet (EOSC),
+
+23. vara nationellt kontaktorgan för forskningsprogrammet European Cooperation in Science and Technology (Cost),
+
+24. bereda ärenden enligt förordningen (2024:1150) om vissa forskningsdatabaser, och
+
+25. förvalta den svenska statens aktier i Eiscat AB, European X-ray Free-Electron Laser Facility GmbH, Facility for Antiproton and Ion Research in Europe GmbH, och Nordunet AS.
+
+*Förordning (2026:1363)*.
+
+#### 2 a §
+
+Vetenskapsrådet får
+
+1. tillhandahålla tilläggstjänster inom Sunet åt anslutna organisationer, och
+
+2. tillhandahålla ett ansöknings- och ärendehanteringssystem för forskningsfinansiering åt myndigheter under regeringen. *Förordning (2023:8)*.
+
+### Ledning
+
+#### 3 §
+
+Vetenskapsrådet leds av en styrelse.
+
+#### 4 §
+
+Styrelsen ska bestå av nio ledamöter.
+
+### Organisation
+
+#### 5 §
+
+Vetenskapsrådet ska tillsammans med Verket för innovationssystem, Forskningsrådet för miljö, areella näringar och samhällsbyggande, Forskningsrådet för hälsa, arbetsliv och välfärd, Statens energimyndighet och Rymdstyrelsen ingå i en samordningsgrupp som består av myndighetscheferna. Gruppen ska samverka och gemensamt utarbeta analyser, strategier och forskningsprogram samt i övrigt ta initiativ för att utveckla och förnya formerna för forskningsverksamheten.
+
+*Förordning (2019:146)*.
+
+#### 6 §
+
+Vetenskapsrådet ska upplåta lokaler och utföra administrativa och handläggande uppgifter åt
+
+1. Överklagandenämnden för etikprövning, och
+
+2. Gentekniknämnden.
+
+*Förordning (2019:517)*.
+
+#### 7 §
+
+Har upphävts genom *förordning (2018:17)*.
+
+### Råd och kommittéer
+
+#### 8 §
+
+*/Upphör att gälla U:2028-01-01/* Inom Vetenskapsrådet finns följande råd och kommittéer:
+
+- Ämnesrådet för humaniora och samhällsvetenskap, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning inom humaniora, samhällsvetenskap, religionsvetenskap och rättsvetenskap,
+
+- Ämnesrådet för medicin och hälsa, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning, såväl grundforskning som tillämpad forskning, bland annat i syfte att överbrygga avståndet mellan experimentell biomedicinsk forskning och patientnära forskning inom medicin, inklusive vårdvetenskap, odontologi och farmaci,
+
+- Ämnesrådet för naturvetenskap och teknikvetenskap, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning inom naturvetenskap, matematik och teknikvetenskap,
+
+- Rådet för forskningens infrastrukturer, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskningens infrastrukturer,
+
+- Utbildningsvetenskapliga kommittén, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning och utbildning på forskarnivå med relevans för skolans och förskolans utveckling,
+
+- Kommittén för konstnärlig forskning, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till konstnärlig forskning,
+
+- Kommittén för klinisk behandlingsforskning, som beslutar om fördelning av sådana medel som har tilldelats Vetenskapsrådet för klinisk behandlingsforskning, och
+
+- de ytterligare kommittéer som Vetenskapsrådet bestämmer.
+
+*Förordning (2021:193)*.
+
+#### 8 §
+
+*/Träder i kraft I:2028-01-01/* Inom Vetenskapsrådet finns följande råd och kommittéer:
+
+- Ämnesrådet för humaniora och samhällsvetenskap, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning inom humaniora, samhällsvetenskap, religionsvetenskap och rättsvetenskap,
+
+- Ämnesrådet för medicin och hälsa, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning, såväl grundforskning som tillämpad forskning, bland annat i syfte att överbrygga avståndet mellan experimentell biomedicinsk forskning och patientnära forskning inom medicin, inklusive vårdvetenskap, odontologi och farmaci,
+
+- Ämnesrådet för naturvetenskap, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning inom naturvetenskap och matematik,
+
+- Ämnesrådet för teknikvetenskap, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning inom teknikvetenskap,
+
+- Rådet för forskningens infrastrukturer, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskningens infrastrukturer,
+
+- Utbildningsvetenskapliga kommittén, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till forskning och utbildning på forskarnivå med relevans för skolans och förskolans utveckling,
+
+- Kommittén för konstnärlig forskning, som i de ärenden som Vetenskapsrådet bestämmer, beslutar om fördelning av medel till konstnärlig forskning,
+
+- Kommittén för klinisk behandlingsforskning, som beslutar om fördelning av sådana medel som har tilldelats Vetenskapsrådet för klinisk behandlingsforskning, och
+
+- de ytterligare kommittéer som Vetenskapsrådet bestämmer.
+
+*Förordning (2026:1363)*.
+
+#### 9 §
+
+Råden och kommittéerna svarar för sina beslut och sin verksamhet inför Vetenskapsrådet. Råden och kommittéerna ska, med undantag av kommittén för klinisk behandlingsforskning, i sina beslut följa de principiella och strategiska beslut som fattats av Vetenskapsrådet. *Förordning (2018:17)*.
+
+#### 10 §
+
+Varje råd och kommitté ska på begäran av Vetenskapsrådet upprätta underlag till myndighetens beslut i principiella och strategiska frågor och får på eget initiativ väcka sådana frågor hos myndigheten.
+
+### Ämnesråden
+
+#### 11 §
+
+*/Upphör att gälla U:2028-01-01/* Varje ämnesråd ska bestå av elva ledamöter. I ämnesrådet för medicin och hälsa ska det ingå minst en ledamot från vårdsektorn och minst en ledamot från läkemedelsindustrin eller den biotekniska industrin. *Förordning (2024:611)*.
+
+#### 11 §
+
+*/Träder i kraft I:2028-01-01/* Varje ämnesråd ska bestå av elva ledamöter. I ämnesrådet för medicin och hälsa ska det ingå minst en ledamot från vårdsektorn och minst en ledamot från läkemedelsindustrin eller den biotekniska industrin. I ämnesrådet för teknikvetenskap ska det ingå två ledamöter från näringslivet med vetenskaplig kompetens. *Förordning (2026:1363)*.
+
+#### 12 §
+
+Ett ämnesråd är beslutfört när en majoritet av ledamöterna är närvarande.
+
+#### 13 §
+
+Om ett ärende är så brådskande att ämnesrådet inte hinner sammanträda för att behandla det får ärendet avgöras genom kontakter mellan ordföranden och de andra ledamöterna.
+
+### Rådet för forskningens infrastrukturer
+
+#### 14 §
+
+Rådet för forskningens infrastrukturer ska bestå av en ordförande och det antal andra ledamöter som Vetenskapsrådet bestämmer. Vetenskapsrådet ska utse ordföranden och övriga ledamöter. Flertalet av ledamöterna ska vara forskare.
+
+### Kommittéer
+
+#### 15 §
+
+Utbildningsvetenskapliga kommittén ska bestå av en ordförande och det antal andra ledamöter som Vetenskapsrådet bestämmer. Vetenskapsrådet ska utse ordföranden och de övriga ledamöterna. Flertalet av ledamöterna ska vara forskare, och bland ledamöterna ska det finnas representanter för olika vetenskapliga discipliner med relevans för utbildningsvetenskaplig forskning. *Förordning (2010:1183)*.
+
+#### 16 §
+
+Kommittén för konstnärlig forskning ska bestå av en ordförande och det antal ledamöter som Vetenskapsrådet bestämmer. Vetenskapsrådet ska utse ordföranden och övriga ledamöter. Flertalet av ledamöterna ska vara verksamma inom konstnärlig forskning eller utvecklingsarbete vid ett universitet eller en högskola. *Förordning (2014:101)*.
+
+#### 16 a §
+
+Kommittén för klinisk behandlingsforskning ska bestå av en ordförande och tolv andra ledamöter. Regeringen ska utse ordföranden och sex andra ledamöter, varav tre ledamöter ska utses efter förslag från Vetenskapsrådet. Innan Vetenskapsrådet lämnar sina förslag ska rådet samråda med Verket för innovationssystem. Regionerna ska utse sex ledamöter. *Förordning (2019:1075)*.
+
+#### 16 b §
+
+Har upphävts genom *förordning (2021:193)*.
+
+### Anställningar och uppdrag
+
+#### 17 §
+
+Generaldirektören är myndighetschef.
+
+#### 18 §
+
+Sex av ledamöterna i Vetenskapsrådets styrelse ska utses enligt förordningen (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd.
+
+Tre av ledamöterna i Vetenskapsrådets styrelse, däribland ordföranden, ska utses av regeringen. *Förordning (2012:521)*.
+
+#### 19 §
+
+Styrelsens ordförande och övriga ledamöter, utom generaldirektören, ska utses för tre år. Ingen får utses till ledamot för mer än två mandatperioder i följd.
+
+Om det uppstår en vakans för en ledamot som har utsetts enligt förordningen (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd, ska regeringen efter förslag från Vetenskapsrådet utse en ny ledamot för återstående delen av mandatperioden. *Förordning (2012:521)*.
+
+#### 20 §
+
+*/Upphör att gälla U:2028-01-01/* Elva ledamöter i respektive ämnesråd för humaniora och samhällsvetenskap samt naturvetenskap och teknikvetenskap och nio ledamöter i ämnesrådet för medicin och hälsa ska utses enligt förordningen (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd.
+
+De två ledamöter i ämnesrådet för medicin och hälsa som avses i 11 § ska utses av regeringen. *Förordning (2024:611)*.
+
+#### 20 §
+
+*/Träder i kraft I:2028-01-01/* Elva ledamöter i ämnesrådet för humaniora och samhällsvetenskap samt ämnesrådet för naturvetenskap och nio ledamöter i ämnesrådet för medicin och hälsa samt ämnesrådet för teknikvetenskap ska utses enligt förordningen (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd.
+
+De två ledamöter i ämnesrådet för medicin och hälsa samt ämnesrådet för teknikvetenskap som avses i 11 § ska utses av regeringen. *Förordning (2026:1363)*.
+
+#### 21 §
+
+Ämnesrådens ledamöter ska utses för tre år. En person får inte utses till ledamot för mer än två mandatperioder i följd.
+
+Om det uppstår en vakans för en ledamot som har utsetts enligt förordningen (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd, ska regeringen efter förslag från Vetenskapsrådet utse en ny ledamot för återstående delen av mandatperioden. *Förordning (2012:521)*.
+
+#### 22 §
+
+För vart och ett av de fem ämnesområdena humaniora och samhällsvetenskap, medicin och hälsa, naturvetenskap, teknikvetenskap och utbildningsvetenskap samt för forskningens infrastrukturer ska det finnas en huvudsekreterare med hög vetenskaplig kompetens. Vetenskapsrådet får besluta att det ska finnas huvudsekreterare även inom andra områden. Huvudsekreteraren ska tillföra myndigheten nödvändig kompetens och erfarenhet inom sitt område.
+
+Huvudsekreterare ska anställas för en bestämd tid. Den sammanlagda anställningstiden får överstiga sex år bara om det finns särskilda skäl. *Förordning (2025:1457)*.
+
+#### 23 §
+
+Har upphävts genom *förordning (2010:1183)*.
+
+### Medelsfördelning
+
+#### 23 §
+
+En ansökan om medel ska vara skriftlig och lämnas på det sätt och inom den tid som Vetenskapsrådet bestämmer. *Förordning (2025:1457)*.
+
+#### 24 §
+
+*/Upphör att gälla U:2027-01-01/* Ett beslut av Vetenskapsrådet eller ett råd eller en kommitté inom Vetenskapsrådet om att bevilja medel får avse högst sex år. Medel för rekrytering av framstående forskare samt för forskningsinfrastruktur av nationellt intresse får dock beviljas för högst tio år. Ett beslut ska förenas med villkor för medlens användning. Av beslutet ska det framgå vem som är mottagare av medlen och att mottagaren ansvarar för att medlen används enligt de villkor som ställs.
+
+Om den verksamhet som beviljats medel inte uppfyller ställda krav, får Vetenskapsrådet eller det råd eller den kommitté inom Vetenskapsrådet som beviljat medel besluta att medel inte längre ska betalas ut. Beslutet får avse viss tid. En upplysning om detta ska tas in i beslutet att bevilja medel.
+
+*Förordning (2024:57)*.
+
+#### 24 §
+
+*/Träder i kraft I:2027-01-01/* Ett beslut av Vetenskapsrådet eller ett råd eller en kommitté inom Vetenskapsrådet om att bevilja medel får avse högst sex år. Medel för rekrytering av framstående forskare samt för forskningsinfrastruktur av nationellt intresse får dock beviljas för högst tio år.
+
+Ett beslut ska förenas med de villkor som krävs för att syftet med medelsfördelningen ska tillgodoses. Av beslutet ska det framgå vem som är mottagare av medlen och att mottagaren ansvarar för att uppfylla de krav som ställs. Beslutet ska även innehålla en upplysning om bestämmelserna i 24 a §.
+
+*Förordning (2026:1363)*.
+
+#### 24 a §
+
+*/Träder i kraft I:2027-01-01/* Vetenskapsrådet får besluta att beviljade medel helt eller delvis inte ska betalas ut om
+
+1. den som ansökt om eller beviljats medel genom att lämna oriktiga uppgifter eller på något annat sätt har orsakat att medlen beviljats felaktigt eller betalats ut felaktigt eller med för högt belopp,
+
+2. medlen av något annat skäl än som anges i 1 har beviljats felaktigt eller har betalats ut felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. utbetalade medel inte har utnyttjats eller inte använts för avsedda syften eller inom avsedd tid,
+
+4. det av särskild anledning kan antas att ännu inte utbetalade medel inte kommer att utnyttjas eller användas för avsedda syften eller inom avsedd tid, eller
+
+5. villkoren för de beviljade medlen inte har följts.
+
+*Förordning (2026:1363)*.
+
+#### 25 §
+
+Vetenskapsrådet får, efter att ha hört de myndigheter som förvaltar medel som Vetenskapsrådet eller ett råd eller en kommitté inom Vetenskapsrådet beslutar om, meddela föreskrifter om
+
+1. vilka uppgifter som ska lämnas vid ansökan om medel,
+
+2. villkoren för disposition och redovisning av medlen, och
+
+3. skyldigheten för mottagaren att till Vetenskapsrådet lämna en redogörelse för den verksamhet för vilken medlen betalas.
+
+### Personalansvarsnämnd
+
+#### 26 §
+
+Vid Vetenskapsrådet ska det finnas en personalansvarsnämnd.
+
+### Tillämpligheten av vissa förordningar
+
+#### 27 §
+
+Vetenskapsrådet ska tillämpa förordningen (2012:520) om elektorsförsamling vid forskningsråd och ämnesråd och personalföreträdarförordningen (1987:1101).
+
+*Förordning (2012:521)*.
+
+### Avgifter
+
+#### 27 a §
+
+Myndigheten ska ta ut avgifter för grundanslutning och tilläggs-tjänster inom Sunet från anslutna organisationer. När det gäller universitet och högskolor ska avgifterna för grundanslutningen tas ut i proportion till respektive lärosätes andel av högskolesektorns totala intäkter.
+
+Myndigheten ska ta ut avgifter för tillhandahållande av ansöknings- och ärendehanteringssystem för forskningsfinansiering från myndigheter under regeringen.
+
+Myndigheten får ta ut avgifter upp till full kostnadstäckning och disponera intäkterna i verksamheten. *Förordning (2024:57)*.
+
+Överklagande
+
+28 § */Upphör att gälla U:2027-01-01/* I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 24 § andra stycket får dock inte överklagas. *Förordning (2018:1046)*.
+
+#### 28 §
+
+*/Träder i kraft I:2027-01-01/* I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 24 a § får dock inte överklagas.
+
+*Förordning (2026:1363)*.
+
+## Övergångsbestämmelser
+
+**2009:975**
+
+1. Denna förordning träder i kraft den 10 november 2009, då förordningen (2007:1397) med instruktion för Vetenskapsrådet ska upphöra att gälla.
+
+2. Den som enligt äldre föreskrifter har utsetts till ledamot till och med den 31 december 2009 kvarstår som ledamot i styrelsen till dess att ny styrelse har utsetts, dock längst till och med den 31 mars 2010.
+
+**2009:1274**
+
+1. Denna förordning träder i kraft den 21 december 2009.
+
+2. Den som med stöd av äldre föreskrifter har utsetts till ledamot till och med den 31 december 2009 kvarstår som ledamot i styrelsen till dess att ny styrelse har utsetts, dock längst till och med den 31 mars 2010.
+
+**2010:1183**
+
+Denna förordning träder i kraft den 1 januari 2011 i fråga om 23 § och i övrigt den 1 juli 2011.
+
+**2026:1363**
+
+1. Denna förordning träder i kraft
+
+a) den 1 augusti 2026 i fråga om 2 §,
+
+b) den 1 januari 2028 i fråga om 8, 11 och 20 §§ och
+
+c) i övrigt den 1 januari 2027.
+
+2. Bestämmelserna i 8, 11 och 20 §§ tillämpas även före ikraftträdandet när ledamöter till ämnesråd utses för tid efter den 31 december 2027.

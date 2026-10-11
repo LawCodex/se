@@ -1,0 +1,63 @@
+---
+title: "Lag (2014:447) om rätt att ta fordon i anspråk för fordringar på vissa skatter och avgifter"
+identifier: "SFS 2014:447"
+type: act
+jurisdiction: se
+language: sv
+date: 2014-06-05
+amended_through: "SFS 2025:395"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-447.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:447"
+retrieved: 2026-10-11
+---
+# Lag (2014:447) om rätt att ta fordon i anspråk för fordringar på vissa skatter och avgifter
+
+### 1 §
+
+Denna lag gäller rätt att ta fordon i anspråk för betalning av
+
+1. statens eller en kommuns fordringar på avgift enligt lagen (1976:206) om felparkeringsavgift,
+
+2. statens fordringar på trängselskatt eller avgift enligt lagen (2004:629) om trängselskatt,
+
+3. statens fordringar på fordonsskatt eller avgift avseende fordonsskatt enligt vägtrafikskattelagen (2006:227),
+
+4. statens fordringar på skatt eller avgift enligt lagen (2006:228) med särskilda bestämmelser om fordonsskatt, och
+
+5. statens fordringar på avgift enligt lagen (2024:172) om infrastrukturavgifter på väg eller föreskrifter som har meddelats med stöd av den lagen. *Lag (2025:395)*.
+
+### 2 §
+
+Vid indrivning av sådana fordringar som anges i 1 § får Kronofogdemyndigheten besluta att ta i anspråk det fordon som skatten eller avgiften avser för betalning av gäldenärens skuld om
+
+1. gäldenären saknar utmätningsbara tillgångar som räcker till betalning av skulden, och
+
+2. fordonet inte tillhör eller kan anses tillhöra gäldenären enligt bestämmelserna i utsökningsbalken.
+
+Ett fordon som har sålts vid en exekutiv försäljning eller enligt lagen (1982:129) om flyttning av fordon i vissa fall får inte tas i anspråk för skulder som uppkommit före eller samma dag som försäljningen. Den myndighet som har sålt fordonet ska till Transportstyrelsen lämna uppgifter om överlåtelsedatum och om att fordonet inte kan tas i anspråk för vissa skulder.
+
+I fråga om ianspråktagande enligt första stycket är i övrigt bestämmelserna om utmätning i utsökningsbalken tillämpliga. Det som föreskrivs i annan lag om utmätning tillämpas även för ianspråktagande. *Lag (2022:1235)*.
+
+### 3 §
+
+Uppgift om Kronofogdemyndighetens beslut ska föras in i vägtrafikregistret. *Lag (2019:379)*.
+
+## Övergångsbestämmelser
+
+**2014:447**
+
+Denna lag träder i kraft den 1 juli 2014, men tillämpas inte på sådana skatter och avgifter som har beslutats före ikraftträdandet.
+
+**2014:1562**
+
+1. Denna lag träder i kraft den 1 februari 2015.
+
+2. Lagen tillämpas inte på sådana infrastrukturavgifter som har beslutats före ikraftträdandet.
+
+**2025:395**
+
+1. Denna lag träder i kraft den 1 juli 2025.
+
+2. Äldre föreskrifter gäller fortfarande för fordringar som har beslutats före den 1 maj 2024.

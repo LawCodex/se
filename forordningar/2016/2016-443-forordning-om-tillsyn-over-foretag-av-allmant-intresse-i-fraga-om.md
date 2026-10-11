@@ -1,0 +1,41 @@
+---
+title: "Förordning (2016:443) om tillsyn över företag av allmänt intresse i fråga om revision"
+identifier: "SFS 2016:443"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-05-19
+amended_through: "SFS 2016:1353"
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-443.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:443"
+retrieved: 2026-10-11
+---
+# Förordning (2016:443) om tillsyn över företag av allmänt intresse i fråga om revision
+
+## 1 §
+
+Denna förordning innehåller närmare bestämmelser för tillämpningen av lagen (2016:429) om tillsyn över företag av allmänt intresse i fråga om revision. De termer som används i förordningen har samma betydelse som i lagen.
+
+## 2 §
+
+Finansinspektionen ska underrätta Bolagsverket och Revisorsinspektionen om vilka företag som är företag av allmänt intresse enligt 2 § 9 revisorslagen (2001:883).
+
+*Förordning (2016:1353)*.
+
+## 3 §
+
+Finansinspektionen ska lämna Revisorsinspektionen sådana uppgifter som Finansinspektionen har och som Revisorsinspektionen behöver för den rapport om utvecklingen på marknaden för tillhandahållande av revisionstjänster till företag av allmänt intresse som Revisorsinspektionen ska utarbeta enligt artikel 27 i Europaparlamentets och rådets förordning (EU) nr 537/2014 av den 16 april 2014 om särskilda krav avseende lagstadgad revision av företag av allmänt intresse och om upphävande av kommissionens beslut 2005/909/EG. *Förordning (2016:1353)*.
+
+## 4 §
+
+Finansinspektionen ska på sin webbplats offentliggöra beslut om ingripanden enligt 7 § lagen (2016:429) om tillsyn över företag av allmänt intresse i fråga om revision. Besluten ska offentliggöras i avidentifierad form.
+
+Om ett offentliggjort beslut har överklagats, ska det anges på webbplatsen i anslutning till beslutet.
+
+Ett beslut ska finnas tillgängligt på webbplatsen under minst fem år.
+
+## 5 §
+
+Om Finansinspektionen med stöd av 7 § lagen (2016:429) om tillsyn över företag av allmänt intresse i fråga om revision beslutar att en styrelseledamot eller en verkställande direktör i ett företag av allmänt intresse, eller en ställföreträdare för en sådan befattningshavare, under viss tid inte får ha den befattningen, ska inspektionen snarast underrätta Bolagsverket och Revisorsinspektionen om beslutet. *Förordning (2016:1353)*.

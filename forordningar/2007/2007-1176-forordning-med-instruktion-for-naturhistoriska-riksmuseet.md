@@ -1,0 +1,169 @@
+---
+title: "Förordning (2007:1176) med instruktion för Naturhistoriska riksmuseet"
+identifier: "SFS 2007:1176"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2026:1468"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1176.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1176"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1176) med instruktion för Naturhistoriska riksmuseet
+
+## Uppgifter
+
+### 1 §
+
+Naturhistoriska riksmuseet har till uppgift att främja intresset för och kunskapen och forskningen om universums, jordens och livets uppbyggnad och utveckling, biologisk mångfald, människans biologi samt miljö och landskap. Myndigheten ska verka för att dess verksamhet ska vara en angelägenhet för alla människor i samhället.
+
+*Förordning (2015:1000)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. vårda, förteckna, vetenskapligt bearbeta och genom nyförvärv berika de samlingar som anförtrotts myndigheten och hålla ett urval av samlingarna tillgängligt för allmänheten,
+
+2. driva och stödja publik och pedagogisk verksamhet och kommunicera kring frågor som rör myndighetens verksamhetsområde,
+
+3. verka för att öka förståelsen för och ge perspektiv på frågor inom myndighetens verksamhetsområde, främst när det gäller långsiktiga effekter på den biologiska mångfalden, miljön och landskapet,
+
+4. ansvara för pollenövervakningen i Sverige, vilket innefattar att genomföra polleninsamlingar och pollenanalyser, framställa och offentliggöra pollenprognoser samt utveckla metoder för pollenverksamheten,
+
+5. driva och stödja forskning inom de ämnesområden som omfattas av myndighetens verksamhet,
+
+6. bistå andra myndigheter i frågor som rör myndighetens verksamhetsområde, och
+
+7. verka för ökad kunskap grundad på forskning och samverkan med andra, exempelvis universitet och högskolor, och förmedla kunskap inom sitt verksamhetsområde. *Förordning (2021:1202)*.
+
+### 2 a §
+
+Myndigheten ska bedriva internationellt och interkulturellt utbyte och samarbete.
+
+*Förordning (2017:1088)*.
+
+### 3 §
+
+Utöver de uppgifter som myndigheten har enligt 1-2 a §§ får den tillhandahålla varor samt åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde. *Förordning (2026:1468)*.
+
+## Rapportering
+
+### 3 a §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:167)*.
+
+### 4 §
+
+Myndigheten ska rapportera uppgifter om sin besöksutveckling till Myndigheten för kulturanalys.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2026:1468)*.
+
+### 4 a §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1468)*.
+
+## Myndighetens ledning
+
+### 5 §
+
+Myndigheten leds av en myndighetschef.
+
+### 6 §
+
+Har upphävts genom *förordning (2010:1840)*.
+
+## Professorernas ansvar
+
+### 7 §
+
+Varje professor ska
+
+1. bedriva forskning inom det eller de ämnesområden som tjänsten omfattar,
+
+2. undervisa och handleda studerande samt förrätta examination i den omfattning och i den ordning som myndigheten bestämmer efter samråd med berörda universitet och högskolor, och
+
+3. i övrigt svara för den verksamhet som myndigheten bestämmer.
+
+## Anställningar och uppdrag
+
+### 8 §
+
+Överintendenten är myndighetschef.
+
+### 9 §
+
+Har upphävts genom *förordning (2010:1840)*.
+
+### 10 §
+
+Professorer anställs av myndigheten. Myndigheten ska informera om lediga sådana anställningar enligt 6 § anställningsförordningen (1994:373). *Förordning (2010:1840)*.
+
+### 11 §
+
+I fråga om tillsättning, behörighet och bedömningsgrunder vid anställning av en professor ska 4 kap. 3 och 7 §§ högskoleförordningen (1993:100) tillämpas. Med högskola avses därvid myndigheten och med rektor överintendenten.
+
+*Förordning (2010:1840)*.
+
+### 12 §
+
+Behörig till anställning som forskare är den som har avlagt doktorsexamen i ett ämne som tillhör myndighetens verksamhetsområde eller som har motsvarande kunskaper.
+
+*Förordning (2010:1840)*.
+
+### 13 §
+
+För anställning som doktorand vid myndigheten ska bestämmelserna om arbetsuppgifter, behörighet och tidsbegränsning av anställning i 5 kap. 2, 3 och 7 §§ högskoleförordningen (1993:100) tillämpas. Med högskola avses myndigheten. *Förordning (2010:1840)*.
+
+### 14 §
+
+Frågor som rör professorer och som avses i 34 § lagen (1994:260) om offentlig anställning prövas av Statens ansvarsnämnd.
+
+## Personalansvarsnämnd
+
+### 15 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 16 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 17 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 2 § 2 och för lokaler.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 3 §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1468)*.
+
+### 18 §
+
+För barn och unga under 19 år ska myndigheten ha fri entré till alla utställningar. *Förordning (2026:1468)*.
+
+## Undantag från myndighetsförordningen
+
+### 19 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning.

@@ -1,0 +1,219 @@
+---
+title: "Förordning (2019:676) om stöd till byggemenskaper"
+identifier: "SFS 2019:676"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-11-07
+amended_through: "SFS 2026:1269"
+department: "Landsbygds- och infrastrukturdepartementet BB"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-676.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:676"
+retrieved: 2026-10-11
+---
+# Förordning (2019:676) om stöd till byggemenskaper
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Statligt stöd enligt denna förordning får, i mån av tillgång på medel, lämnas till byggemenskaper för initiala projektkostnader i samband med anordnande av bostäder.
+
+#### 2 §
+
+Denna förordning är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+#### 3 §
+
+*/Upphör att gälla U:2027-01-01/* Med byggemenskap avses i denna förordning
+
+1. en ekonomisk förening enligt lagen (2018:672) om ekonomiska föreningar som bildats i syfte att anordna bostäder åt föreningens medlemmar genom nybyggnad, tillbyggnad eller ombyggnad av en byggnad som tidigare använts för annat ändamål, eller
+
+2. ett lokalt utvecklingsbolag som
+
+a) är ett aktiebolag med särskild vinstutdelningsbegränsning enligt aktiebolagslagen (2005:551),
+
+b) endast ägs av fysiska personer, och
+
+c) anordnar bostäder åt ägarna genom nybyggnad, tillbyggnad eller ombyggnad av en byggnad som tidigare använts för annat ändamål. *Förordning (2024:1035)*.
+
+#### 3 §
+
+*/Träder i kraft I:2027-01-01/* Med byggemenskap avses i denna förordning
+
+1. en ekonomisk förening enligt lagen (2018:672) om ekonomiska föreningar som bildats i syfte att anordna bostäder åt föreningens medlemmar genom nybyggnad eller tillbyggnad eller genom en sådan större byggnadsändring som avses i 1 kap. 4 § plan- och bygglagen (2010:900) av en byggnad som tidigare använts för annat ändamål, eller
+
+2. ett lokalt utvecklingsbolag som
+
+a) är ett aktiebolag med särskild vinstutdelningsbegränsning enligt aktiebolagslagen (2005:551),
+
+b) endast ägs av fysiska personer, och
+
+c) anordnar bostäder åt ägarna genom nybyggnad eller tillbyggnad eller genom en sådan större byggnadsändring som avses i 1 kap. 4 § plan- och bygglagen av en byggnad som tidigare använts för annat ändamål. *Förordning (2026:1269)*.
+
+#### 4 §
+
+*/Upphör att gälla U:2027-01-01/* I denna förordning avses med
+
+medlem i en byggemenskap: en fysisk person som är medlem i en sådan ekonomisk förening som avses i 3 § 1 eller en fysisk person som äger aktier i ett sådant bolag som avses i 3 § 2, och
+
+initial projektkostnad: kostnad i ett projekt för anordnande av bostäder fram till att byggnadsarbete har påbörjats i form av grundläggningsarbete vid nybyggnad eller tillbyggnad eller i form av rivnings- eller röjningsarbete vid ombyggnad.
+
+*Förordning (2024:1035)*.
+
+#### 4 §
+
+*/Träder i kraft I:2027-01-01/* I denna förordning avses med
+
+medlem i en byggemenskap: en fysisk person som är medlem i en sådan ekonomisk förening som avses i 3 § 1 eller en fysisk person som äger aktier i ett sådant bolag som avses i 3 § 2, och
+
+initial projektkostnad: kostnad i ett projekt för anordnande av bostäder fram till att byggnadsarbete har påbörjats i form av grundläggningsarbete vid nybyggnad eller tillbyggnad eller i form av rivnings- eller röjningsarbete vid en sådan större byggnadsändring som avses i 1 kap. 4 § plan- och bygglagen (2010:900). *Förordning (2026:1269)*.
+
+### Förutsättningar för stöd
+
+#### 5 §
+
+Stöd får lämnas endast om
+
+1. minst sex medlemmar i byggemenskapen har betalat en medlemsinsats i föreningen med minst 10 000 kronor per person eller, om byggemenskapen är ett bolag, äger aktier i bolaget till ett nominellt värde av minst 10 000 kronor per person, och
+
+2. byggemenskapen äger, eller genom avtal disponerar, mark som kommunen medger får bebyggas med bostadshus som kan antas inrymma bostäder åt samtliga medlemmar i byggemenskapen.
+
+*Förordning (2024:1035)*.
+
+#### 6 §
+
+Stöd får inte lämnas för kostnader som avser arbete eller utrustning som utförts eller levererats
+
+1. av en medlem i byggemenskapen, eller
+
+2. före beslutet om stöd.
+
+#### 7 §
+
+Stöd får inte lämnas till en byggemenskap som tidigare tagit emot stöd enligt denna förordning. Stöd får inte lämnas till företag i svårigheter så som begreppet definieras i punkt 20 i Europeiska kommissionens meddelande om riktlinjer för statligt stöd till undsättning och omstrukturering av icke-finansiella företag i svårigheter (2014/C 249/01).
+
+#### 8 §
+
+Stöd får endast lämnas i enlighet med kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse.
+
+*Förordning (2024:251)*.
+
+### Stödets storlek
+
+#### 9 §
+
+Stödet får inte överstiga 400 000 kronor per stödmottagare.
+
+### Prövningen av ett stödärende
+
+#### 10 §
+
+Frågor om stöd prövas av Boverket.
+
+#### 11 §
+
+En ansökan om stöd ska innehålla
+
+1. uppgifter enligt 5 §,
+
+2. en redogörelse för projektet,
+
+3. det stödbelopp som byggemenskapen ansöker om,
+
+4. en redogörelse för allt annat stöd av mindre betydelse som sökanden har tagit emot under den senaste treårsperioden,
+
+5. en redogörelse för allt annat stöd som sökanden tidigare ansökt om eller beviljats och som avser samma stödberättigande kostnader som ansökan omfattar, och
+
+6. de uppgifter och underlag som utöver det som följer av 1-5 behövs för prövningen av ansökan. *Förordning (2024:1035)*.
+
+#### 11 a §
+
+Innan ett stöd beviljas ska Boverket
+
+1. lämna de upplysningar till byggemenskapen som framgår av artikel 7.4 i kommissionens förordning (EU) 2023/2831, och
+
+2. genomföra den kontroll som framgår av artikel 6.4 i samma förordning. *Förordning (2024:251)*.
+
+#### 12 §
+
+Ett beslut om stöd ska förenas med villkor om vid vilken tidpunkt stödmottagaren senast ska lämna redovisning enligt 14 § och om att stödmottagaren på begäran av Boverket ska lämna de uppgifter som krävs för uppföljning och utvärdering av stödet.
+
+### Utbetalning av stöd
+
+#### 13 §
+
+Boverket ska betala ut hela stödbeloppet i nära anslutning till att beslut om stöd har fattats.
+
+### Redovisning
+
+#### 14 §
+
+Stödmottagaren ska redovisa verifierade initiala projektkostnader senast vid den tidpunkt Boverket beslutar, dock senast 18 månader efter beslutet om stöd.
+
+Boverket får förlänga tidpunkten för redovisning om det finns särskilda skäl.
+
+### Återbetalning och återkrav
+
+#### 15 §
+
+Stödmottagaren är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har förorsakat att stödet har beviljats på felaktig grund eller med ett för högt belopp,
+
+2. stödet av något annat skäl har lämnats på felaktig grund eller med ett för högt belopp och mottagaren borde ha insett detta,
+
+3. den redovisning som avses i 14 § inte lämnas in i tid, eller
+
+4. verifierade initiala projektkostnader som redovisas inte uppgår till stödbeloppet.
+
+#### 16 §
+
+Om en stödmottagare är återbetalningsskyldig enligt 15 §, ska Boverket helt eller delvis kräva tillbaka stödet. På det belopp som återkrävs ska ränta tas ut enligt räntelagen (1975:635). Om det finns särskilda skäl, får Boverket sätta ned kravet på återbetalning och ränta.
+
+### Överklagande
+
+#### 17 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut att helt eller delvis avslå ansökan om stöd eller beslut om återkrav enligt 16 § får dock inte överklagas.
+
+*Förordning (2024:251)*.
+
+### Uppföljning och utvärdering
+
+#### 18 §
+
+Boverket ansvarar för uppföljning och utvärdering av stödet.
+
+#### 19 §
+
+Boverket ska föra ett register över stöd som lämnats enligt denna förordning. Ett sådant register ska innehålla de uppgifter som behövs för att det ska vara möjligt att fastställa att de villkor för stöd som anges i kommissionens förordning (EU) 2023/2831 är uppfyllda.
+
+Uppgifterna i registret ska bevaras i tio år från den dag då stödet beslutades. *Förordning (2024:251)*.
+
+### Bemyndigande
+
+#### 20 §
+
+Boverket får meddela föreskrifter om verkställigheten av denna förordning.
+
+## Övergångsbestämmelser
+
+**2024:251**
+
+1. Denna förordning träder i kraft den 1 juni 2024.
+
+2. Äldre föreskrifter gäller fortfarande för stöd som har beviljats före ikraftträdandet.
+
+**2024:1035**
+
+1. Denna förordning träder i kraft den 31 december 2024.
+
+2. Äldre föreskrifter gäller fortfarande för stöd som har beviljats före ikraftträdandet.
+
+**2026:1269**
+
+1. Denna förordning träder i kraft den 1 januari 2027.
+
+2. Äldre bestämmelser gäller fortfarande för ärenden som har påbörjats före ikraftträdandet och för mål och ärenden som avser överklagande och överprövning av sådana mål och ärenden till dess målet eller ärendet är slutligt avgjort. I fråga om tillsynsåtgärder och påföljder med anledning av en åtgärd som innebär en överträdelse av de äldre bestämmelserna, ska dock de nya bestämmelserna tillämpas om åtgärden enligt de nya bestämmelserna inte är en överträdelse eller leder till en lindrigare påföljd.

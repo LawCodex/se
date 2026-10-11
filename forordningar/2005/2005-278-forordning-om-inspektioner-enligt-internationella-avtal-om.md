@@ -1,0 +1,63 @@
+---
+title: "Förordning (2005:278) om inspektioner enligt internationella avtal om förhindrande av spridning av kärnvapen"
+identifier: "SFS 2005:278"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2005-05-04
+amended_through: "SFS 2008:459"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-278.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:278"
+retrieved: 2026-10-11
+---
+# Förordning (2005:278) om inspektioner enligt internationella avtal om förhindrande av spridning av kärnvapen
+
+## 1 §
+
+Denna förordning innehåller föreskrifter som ansluter till lagen (2000:140) om inspektioner enligt internationella avtal om förhindrande av spridning av kärnvapen.
+
+## 2 §
+
+Med tilläggsprotokollet avses i denna förordning Tilläggsprotokollet av den 22 september 1998 till avtalet mellan Belgien, Danmark, Finland, Grekland, Irland, Italien, Luxemburg, Nederländerna, Portugal, Spanien, Sverige, Tyskland, Österrike, Europeiska atomenergigemenskapen och Internationella atomenergiorganet (IAEA) rörande tillämpningen av artikel III.1 och III.4 i fördraget om förhindrande av spridning av kärnvapen (SÖ 2000:29).
+
+## 3 §
+
+Strålsäkerhetsmyndigheten ska svara för kontakterna med Internationella atomenergiorganet i frågor som rör inspektioner med kompletterande tillträde enligt artiklarna 4-10 i tilläggsprotokollet.
+
+Strålsäkerhetsmyndigheten ska inom Sverige även svara för kontakterna med andra som berörs av inspektioner enligt tilläggsprotokollet. *Förordning (2008:459)*.
+
+## 4 §
+
+Strålsäkerhetsmyndigheten ska ha beredskap för att ta emot anmälningar från Internationella atomenergiorganet om inspektioner enligt artikel 4 b i tilläggsprotokollet.
+
+*Förordning (2008:459)*.
+
+## 5 §
+
+Strålsäkerhetsmyndigheten ska ta fram förslag till regeringens beslut om genomförande och åtgärder enligt 2 och 4 §§ lagen (2000:140) om inspektioner enligt internationella avtal om förhindrande av spridning av kärnvapen när det gäller inspektioner enligt artikel 4 b i) i tilläggsprotokollet.
+
+Förslaget ska lämnas till regeringen inom sex timmar från det att anmälan togs emot. *Förordning (2008:459)*.
+
+## 6 §
+
+Strålsäkerhetsmyndigheten får besluta i frågor som rör inspektioner som avses i artikel 4 b ii) i tilläggsprotokollet.
+
+*Förordning (2008:459)*.
+
+## 7 §
+
+Strålsäkerhetsmyndigheten ska närvara vid inspektioner enligt tilläggsprotokollet.
+
+Strålsäkerhetsmyndigheten får dock avstå från att närvara vid inspektioner enligt artikel 4 b ii) i tilläggsprotokollet om det av förhandsanmälan från Internationella atomenergiorganet framgår att inspektionen är av rutinkaraktär. *Förordning (2008:459)*.
+
+## 8 §
+
+Strålsäkerhetsmyndigheten får begära att inspektioner ska genomföras med tillämpning av s.k. reglerat tillträde enligt artikel 7 i tilläggsprotokollet. *Förordning (2008:459)*.
+
+## 9 §
+
+Strålsäkerhetsmyndigheten ska senast sju dagar efter att en inspektion har avslutats lämna en rapport till regeringen om denna.
+
+Strålsäkerhetsmyndigheten ska i sin årsredovisning redogöra för Internationella atomenergiorganets underrättelser enligt artikel 10 b) i tilläggsprotokollet samt redovisa sina egna slutsatser av underrättelserna. *Förordning (2008:459)*.

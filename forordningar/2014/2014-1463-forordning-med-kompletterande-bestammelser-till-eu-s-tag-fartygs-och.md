@@ -1,0 +1,43 @@
+---
+title: "Förordning (2014:1463) med kompletterande bestämmelser till EU:s tåg-, fartygs- och busspassagerarförordningar"
+identifier: "SFS 2014:1463"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-12-11
+amended_through: "SFS 2023:267"
+department: "Justitiedepartementet L3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-1463.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:1463"
+retrieved: 2026-10-11
+---
+# Förordning (2014:1463) med kompletterande bestämmelser till EU:s tåg-, fartygs- och busspassagerarförordningar
+
+## 1 §
+
+Konsumentverket är behörig myndighet och utövar tillsyn över att järnvägsföretag, biljettutfärdare, stationsförvaltare, researrangörer, transportörer, resebyråer, terminaloperatörer och hamnmyndigheter fullgör sina respektive skyldigheter enligt
+
+1. artiklarna 4-6.1, 6.3, 7, 9, 11-13, 15-25 och 28-30 i Europaparlamentets och rådets förordning (EU) 2021/782 av den 29 april 2021 om rättigheter och skyldigheter för tågresenärer (tågpassagerarförordningen),
+
+2. artiklarna 4-13, 15.4-20 och 22-24 i Europaparlamentets och rådets förordning (EU) nr 1177/2010 av den 24 november 2010 om passagerares rättigheter vid resor till sjöss och på inre vattenvägar och om ändring av förordning (EG) nr 2006/2004 (fartygspassagerarförordningen), och
+
+3. artiklarna 4-6, 8-11, 13-15, 17.3, 19-21 och 23-27 i Europaparlamentets och rådets förordning (EU) nr 181/2011 av den 16 februari 2011 om passagerares rättigheter vid busstransport och om ändring av förordning (EG) nr 2006/2004 (busspassagerarförordningen).
+
+Konsumentverket får meddela närmare föreskrifter om de skyldigheter som avses i första stycket. *Förordning (2023:267)*.
+
+## 2 §
+
+Transportstyrelsen är behörig myndighet och utövar tillsyn över att järnvägsföretag, biljettutfärdare, stationsförvaltare, infrastrukturförvaltare, transportörer och terminaloperatörer fullgör sina respektive skyldigheter enligt
+
+1. artiklarna 6.4, 10, 14, 26 och 27 i tågpassagerarförordningen,
+
+2. artikel 14 i fartygspassagerarförordningen, och
+
+3. artikel 16.1 i busspassagerarförordningen.
+
+Transportstyrelsen får meddela närmare föreskrifter om de skyldigheter som avses i första stycket. *Förordning (2023:267)*.
+
+## 3 §
+
+Transportstyrelsen får meddela föreskrifter om avgifter för tillsyn enligt tåg-, fartygs- och busspassagerarförordningarna.

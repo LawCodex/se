@@ -1,0 +1,77 @@
+---
+title: "Förordning (2018:704) om skatt på vissa nikotinhaltiga produkter"
+identifier: "SFS 2018:704"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-05-31
+amended_through: "SFS 2020:1020"
+department: "Finansdepartementet S2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-704.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:704"
+retrieved: 2026-10-11
+---
+# Förordning (2018:704) om skatt på vissa nikotinhaltiga produkter
+
+## Förordningens tillämpningsområde
+
+### 1 §
+
+Denna förordning gäller vid tillämpning av lagen (2018:696) om skatt på vissa nikotinhaltiga produkter.
+
+Förordningen är meddelad med stöd av
+
+- 8 kap. 11 § regeringsformen i fråga om 3 §
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+## Termer och uttryck
+
+### 2 §
+
+Termer och uttryck som används i denna förordning har samma betydelse och tillämpningsområde som i lagen (2018:696) om skatt på vissa nikotinhaltiga produkter.
+
+## Föreskrifter
+
+### 3 §
+
+Skatteverket får meddela föreskrifter om
+
+- lagerhållare som bedriver verksamhet i exportbutik enligt lagen (1999:445) om exportbutiker, och
+
+- tillsynen över att skattepliktiga varor förstörs enligt 11 a § lagen (2018:696) om skatt på vissa nikotinhaltiga produkter.
+
+Skatteverket får meddela de ytterligare föreskrifter som behövs för verkställigheten av lagen om skatt på vissa nikotinhaltiga produkter. *Förordning (2020:1020)*.
+
+## Godkännanden och anmälningar
+
+### 4 §
+
+Frågor om lagerhållare prövas av Skatteverket.
+
+Beslut om godkännande av lagerhållare meddelas efter särskild ansökan.
+
+### 5 §
+
+Den som avser att sälja varor till Sverige genom distansförsäljning enligt 6 § 2 b lagen (2018:696) om skatt på vissa nikotinhaltiga produkter ska anmäla detta till Skatteverket.
+
+### 6 §
+
+Lagerhållare ska anmäla till Skatteverket om
+
+1. det sker betydande ändringar av ägarförhållandena,
+
+2. firmatecknare, revisor eller styrelse ändras, eller
+
+3. det i övrigt sker ändringar av de uppgifter som
+
+a) har lämnats eller skulle ha lämnats i samband med ansökan om godkännande, eller
+
+b) efter godkännandet har anmälts till Skatteverket.
+
+## Former för ansökan
+
+### 7 §
+
+En sådan ansökan som avses i 4 § eller en sådan anmälan som avses i 5 § ska göras skriftligt på blankett enligt formulär som fastställs av Skatteverket.

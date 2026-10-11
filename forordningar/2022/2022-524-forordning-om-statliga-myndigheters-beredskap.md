@@ -1,0 +1,476 @@
+---
+title: "Förordning (2022:524) om statliga myndigheters beredskap"
+identifier: "SFS 2022:524"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2022-05-19
+amended_through: "SFS 2026:620"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-524.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:524"
+retrieved: 2026-10-11
+---
+# Förordning (2022:524) om statliga myndigheters beredskap
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om uppgifter som statliga myndigheter under regeringen har inför och vid fredstida krissituationer och höjd beredskap.
+
+Syftet med förordningen är att statliga myndigheter under regeringen genom sin verksamhet ska minska sårbarheten i samhället och utveckla en god förmåga att hantera sina uppgifter vid fredstida krissituationer och höjd beredskap.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+#### 2 §
+
+Bestämmelserna i denna förordning ska tillämpas bara om något annat inte följer av lag eller annan förordning.
+
+### Undantag från förordningens tillämpningsområde
+
+#### 3 §
+
+För Regeringskansliet, kommittéväsendet och Försvarsmakten gäller endast bestämmelsen i 13 § om informationshanteringssystem.
+
+För Bokföringsnämnden och Finanspolitiska rådet gäller inte bestämmelsen i 7 § om risk- och sårbarhetsanalys.
+
+För Klimatpolitiska rådet gäller inte bestämmelserna i 7 § om risk- och sårbarhetsanalys och 8 § om utbildning och övning.
+
+För Säkerhetspolisen gäller inte bestämmelserna i 12 § andra stycket, 22 § andra, tredje och femte styckena samt 22 a § om informationsskyldighet, 14 § om it-incidentrapportering och 19 § om risk- och sårbarhetsbedömning.
+
+För Fortifikationsverket, Försvarets materielverk, Försvarets radioanstalt, Försvarshögskolan, Försvarsunderrättelsedomstolen, Statens inspektion för försvarsunderrättelseverksamheten, Totalförsvarets forskningsinstitut och Totalförsvarets plikt- och prövningsverk gäller inte bestämmelserna i 12 § andra stycket om informationsskyldighet, 14 § om it-incidentrapportering och 17 § om risk- och sårbarhetsbedömning.
+
+För utlandsmyndigheterna tillämpas denna förordning endast i den utsträckning som bestäms i föreskrifter som meddelas av Regeringskansliet (Utrikesdepartementet). *Förordning (2026:8)*.
+
+### Bestämmelser om statliga myndigheters beredskap i andra författningar
+
+#### 4 §
+
+I lagen (1992:1403) om totalförsvar och höjd beredskap samt förordningen (2015:1053) om totalförsvar och höjd beredskap finns allmänna bestämmelser om totalförsvar och höjd beredskap.
+
+I lagen (2006:544) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap och förordningen (2006:637) om kommuners och regioners åtgärder inför och vid extraordinära händelser i fredstid och höjd beredskap finns bestämmelser om kommuners och regioners uppgifter.
+
+I förordningen (2017:870) om länsstyrelsernas krisberedskap och uppgifter inför och vid höjd beredskap finns ytterligare bestämmelser om länsstyrelsers uppgifter.
+
+I förordningen (2022:525) om civilområdesansvariga länsstyrelser finns bestämmelser om civilområdesansvariga länsstyrelser och deras uppgifter.
+
+### Uttryck i förordningen
+
+#### 5 §
+
+Med höjd beredskap och totalförsvar avses i denna förordning detsamma som i lagen (1992:1403) om totalförsvar och höjd beredskap.
+
+#### 6 §
+
+I denna förordning avses med
+
+1. fredstida krissituationer: situationer som
+
+- avviker från det normala,
+
+- drabbar många människor, stora delar av samhället eller hotar grundläggande värden,
+
+- innebär en allvarlig störning eller en överhängande risk för en allvarlig störning av viktiga samhällsfunktioner, och
+
+- kräver samordnade och skyndsamma åtgärder från flera aktörer,
+
+2. samhällsviktig verksamhet: verksamhet, tjänst eller infrastruktur som upprätthåller eller säkerställer samhällsfunktioner som är nödvändiga för samhällets grundläggande behov, värden eller säkerhet, och
+
+3. försörjningsberedskap: verksamhet som syftar till att vid fredstida krissituationer och höjd beredskap upprätthålla den försörjning av varor och tjänster som är nödvändig för att trygga befolkningens överlevnad, säkerställa de viktigaste samhällsfunktionerna eller bidra till det militära försvarets förmåga. *Förordning (2026:8)*.
+
+### Statliga myndigheters uppgifter inför och vid fredstida krissituationer och höjd beredskap
+
+### Risk- och sårbarhetsanalys
+
+#### 7 §
+
+Varje myndighet ska
+
+1. identifiera samhällsviktig verksamhet inom myndighetens ansvarsområde,
+
+2. kontinuerligt analysera om det inför eller vid fredstida krissituationer och höjd beredskap finns sårbarhet och hot eller risker som allvarligt kan hota, skada eller försämra förmågan till den samhällsviktiga verksamheten inom ansvarsområdet,
+
+3. bedriva ett systematiskt arbete för att kunna upprätthålla den egna samhällsviktiga verksamheten (kontinuitet) och verka för att andra aktörer inom ansvarsområdet också bedriver ett sådant arbete, och
+
+4. minst vartannat år värdera och sammanställa resultatet av analysarbetet enligt 1-3 i en risk- och sårbarhetsanalys. Risk- och sårbarhetsanalysen ska även omfatta vilka åtgärder som myndigheten vidtagit och planerar för att minska sårbarheten mot sådana hot och risker som identifierats samt en övergripande bedömning av vilka övriga åtgärder inom myndighetens ansvarsområde som bör vidtas i samma syfte.
+
+Bestämmelser om vissa myndigheters skyldighet att lämna en sammanfattande redovisning av risk- och sårbarhetsanalysen (risk- och sårbarhetsbedömning) finns i 17 och 19 §§.
+
+### Uppgifter inför och vid fredstida krissituationer
+
+#### 8 §
+
+Varje myndighet ska ansvara för att personalen vid myndigheten får den utbildning och övning som behövs för att den ska kunna utföra sina uppgifter vid fredstida krissituationer.
+
+#### 9 §
+
+Varje myndighet vars ansvarsområde berörs av en fredstida krissituation ska vidta de åtgärder som behövs för att hantera den uppkomna situationen och konsekvenserna av den. Myndigheterna ska samverka och stödja varandra vid en sådan krissituation.
+
+### Uppgifter inför och vid höjd beredskap
+
+#### 10 §
+
+Varje myndighet ska i sin verksamhet beakta totalförsvarets krav. I detta ingår att planera för att myndigheten vid höjd beredskap ska fortsätta sin verksamhet så långt det är möjligt med hänsyn till tillgången på personal och förhållandena i övrigt.
+
+Myndigheternas planering för totalförsvaret ska ske i samverkan med de övriga statliga myndigheter, kommuner, regioner, sammanslutningar och näringsidkare som är berörda.
+
+#### 11 §
+
+Personal som är anställd hos en myndighet och som inte tas i anspråk i totalförsvaret i övrigt får, med stöd av anställningsavtalet, krigsplaceras vid myndigheten.
+
+Personal som är krigsplacerad vid myndigheten med stöd av anställningsavtalet och personal som kan komma att beordras att tjänstgöra hos någon annan myndighet än den där den är anställd, ska genom myndighetens försorg ges skriftligt besked om sin krigsplacering eller avsedda tjänstgöring. Beskedet ska innehålla uppgift om inställelseplats.
+
+Varje myndighet ska ansvara för att personal som är krigsplacerad vid myndigheten får den utbildning och övning som behövs för att den ska kunna utföra sina uppgifter vid höjd beredskap.
+
+### Informationsskyldighet
+
+#### 12 §
+
+Varje myndighet ska på förfrågan från Regeringskansliet lämna den information som behövs för samlade lägesbilder.
+
+Varje myndighet ska även på förfrågan från Myndigheten för civilt försvar lämna den information som behövs för att Myndigheten för civilt försvar ska kunna fullgöra sina uppgifter enligt 7 § förordningen (2008:1002) med instruktion för Myndigheten för civilt försvar. När det gäller det civila försvarets stöd till det militära försvaret ska information endast lämnas i fråga om den eventuella påverkan stödet har på möjligheterna att tillgodose civila behov av samhällets resurser. *Förordning (2025:1161)*.
+
+### Informationssäkerhet
+
+#### 13 §
+
+Varje myndighet ansvarar för att egna informationshanteringssystem uppfyller sådana grundläggande och särskilda säkerhetskrav att myndighetens verksamhet kan utföras på ett tillfredsställande sätt. I ansvaret ingår att myndigheten särskilt ska beakta behovet av säkra ledningssystem.
+
+#### 14 §
+
+Till stöd för arbetet med samhällets informationssäkerhet ska en myndighet till Försvarets radioanstalt skyndsamt rapportera it-incidenter som inträffat i den rapporterande myndighetens informationssystem och som allvarligt kan påverka säkerheten i den informationshantering som myndigheten ansvarar för, eller som inträffat i tjänster som myndigheten tillhandahåller åt en annan organisation.
+
+En myndighet som tillhandahåller tjänster åt en annan organisation ska i samband med rapporteringen informera och vid behov samråda med den eller de uppdragsgivare som berörs av incidenten.
+
+Rapporteringsskyldigheten omfattar inte sådana incidenter som ska anmälas enligt 2 kap. 4 § första stycket 2 säkerhetsskyddsförordningen (2021:955).
+
+Om det kan antas att en incident som rapporterats till Försvarets radioanstalt har sin grund i en brottslig gärning, ska Försvarets radioanstalt skyndsamt uppmana den rapporterande myndigheten att anmäla incidenten till Polismyndigheten. *Lag (2026:620)*.
+
+### Tjänsteman i beredskap
+
+#### 15 §
+
+Vissa myndigheter ska enligt ett särskilt regeringsbeslut ha en tjänsteman i beredskap med uppgift att initiera och samordna det inledande arbetet för att upptäcka, verifiera, larma och informera vid fredstida krissituationer. Myndigheten för civilt försvar ska vid behov lämna förslag till Regerings- kansliet på förändringar av vilka myndigheter som ska ha en sådan tjänsteman. *Förordning (2025:1161)*.
+
+### Ledningsfunktion
+
+#### 16 §
+
+Vissa myndigheter ska enligt ett särskilt regeringsbeslut ha förmåga att, vid en fredstida krissituation som berör myndighetens eget ansvarsområde eller medför behov av samverkan med en annan myndighet, omgående kunna upprätta en ledningsfunktion. Myndigheten för civilt försvar ska vid behov lämna förslag till Regeringskansliet på förändringar av vilka myndigheter som ska ha en sådan förmåga. *Förordning (2025:1161)*.
+
+### Risk- och sårbarhetsbedömning
+
+#### 17 §
+
+Myndigheten för civilt försvar får i enskilda fall besluta att statliga myndigheter som inte är beredskapsmyndigheter senast vid utgången av september månad varje udda årtal ska lämna en sammanfattande redovisning (risk- och sårbarhetsbedömning) baserad på den risk- och sårbarhetsanalys som gjorts enligt 7 § till
+
+1. Regeringskansliet, och
+
+2. Myndigheten för civilt försvar.
+
+Risk- och sårbarhetsbedömningen ska innehålla dels uppgifter om de åtgärder som myndigheten vidtagit och planerar för att minska sårbarheten mot sådana hot och risker som identifierats i risk- och sårbarhetsanalysen, dels en övergripande bedömning av vilka övriga åtgärder inom myndighetens ansvarsområde som bör vidtas i samma syfte samt hur dessa åtgärder ska prioriteras. *Förordning (2026:8)*.
+
+### Beredskapsmyndigheters uppgifter inför och vid fredstida krissituationer och höjd beredskap
+
+### Beredskapsmyndigheter
+
+#### 18 §
+
+Statliga myndigheter med ansvar inom en eller flera viktiga samhällsfunktioner och vars verksamhet har särskild betydelse för samhällets krisberedskap och totalförsvaret ska vara beredskapsmyndigheter.
+
+Av bilaga 1 till denna förordning framgår vilka myndigheter som är beredskapsmyndigheter.
+
+Beredskapsmyndigheternas uppgifter, utöver de uppgifter som de har enligt 7-16 §§, följer av 19-22 §§.
+
+### Risk- och sårbarhetsbedömning
+
+#### 19 §
+
+Beredskapsmyndigheterna ska senast vid utgången av september månad varje udda årtal lämna en sammanfattande redovisning (risk- och sårbarhetsbedömning) baserad på den risk- och sårbarhetsanalys som gjorts enligt 7 § till
+
+1. Regeringskansliet, och
+
+2. Myndigheten för civilt försvar.
+
+De beredskapsmyndigheter som ingår i en beredskapssektor ska även lämna en risk- och sårbarhetsbedömning till den sektorsansvariga myndigheten.
+
+Länsstyrelser ska även lämna en risk- och sårbarhetsbedömning till den civilområdesansvariga länsstyrelsen.
+
+Risk- och sårbarhetsbedömningen ska innehålla dels uppgifter om de åtgärder som myndigheten vidtagit och planerar för att minska sårbarheten mot sådana hot och risker som identifierats i risk- och sårbarhetsanalysen, dels en övergripande bedömning av vilka övriga åtgärder inom myndighetens ansvarsområde som bör vidtas i samma syfte samt hur dessa åtgärder ska prioriteras. *Förordning (2026:8)*.
+
+### Beredskapsmyndigheters uppgifter inför och vid fredstida krissituationer och höjd beredskap
+
+#### 20 §
+
+Beredskapsmyndigheterna ska ha god förmåga att motstå hot och risker, förebygga sårbarheter, hantera fredstida krissituationer och genomföra sina uppgifter vid höjd beredskap. De ska även verka för att de övriga statliga myndigheter, kommuner, regioner, sammanslutningar och näringsidkare som är berörda utvecklar sin förmåga i dessa avseenden.
+
+Beredskapsmyndigheterna ska särskilt
+
+1. samverka med varandra,
+
+2. samverka med berörda länsstyrelser och civilområdesansvariga länsstyrelser i deras roll som geografiskt områdesansvariga myndigheter,
+
+3. samverka med de övriga statliga myndigheter, kommuner, regioner, sammanslutningar och näringsidkare som är berörda,
+
+4. samverka med Försvarsmakten avseende behovet av stöd till det militära försvaret,
+
+5. beakta det samarbete som sker inom Norden, Europeiska unionen, internationella forum och organisationer i frågor som rör samhällets krisberedskap och totalförsvar,
+
+6. beakta behovet av forsknings- och utvecklingsinsatser och annan kunskapsinhämtning såsom erfarenhetsåterföring av inträffade händelser,
+
+7. beakta behovet av säkerhet och kompatibilitet i de tekniska system som är nödvändiga för att myndigheterna ska kunna utföra sitt arbete,
+
+8. beakta behovet av deltagande i det samhällsgemensamma radiokommunikationssystemet för skydd och säkerhet som förvaltas av Myndigheten för civilt försvar,
+
+9. informera Myndigheten för civilt försvar om sin övningsverksamhet för att den ska kunna samordnas med den övningsverksamhet som Myndigheten för civilt försvar eller Försvarsmakten planerar samt delta i den övningsverksamhet som berör beredskapsmyndighetens ansvarsområde,
+
+10. genomföra den omvärldsbevakning, de utvecklingsinsatser samt de övriga förberedelser, inklusive anskaffning av förnödenheter och utrustning, som krävs för att myndigheten ska klara sina uppgifter vid fredstida krissituationer och höjd beredskap,
+
+11. planera, öva och utbilda personal och därutöver ha de planer som i övrigt behövs för att under höjd beredskap kunna övergå till krigsorganisation,
+
+12. planera för att, efter beslut av regeringen, kunna påskynda nödvändiga åtgärder inför höjd beredskap, och
+
+13. systematiskt arbeta med försörjningsberedskap, vidta åtgärder för att stärka försörjningsberedskapen inom myndighetens ansvarsområde och beakta behovet av att dela relevant information om behovs- och försörjningsanalyser med berörda myndigheter. *Förordning (2026:8)*.
+
+#### 21 §
+
+Beredskapsmyndigheterna ska vid höjd beredskap i första hand inrikta sin verksamhet på uppgifter som har betydelse för totalförsvaret.
+
+### Rapportering och annan informationsskyldighet
+
+#### 22 §
+
+Beredskapsmyndigheterna ska vid fredstida krissituationer och höjd beredskap hålla regeringen informerad om händelseutvecklingen, tillståndet, den förväntade utvecklingen och tillgängliga resurser inom sitt ansvarsområde samt om vidtagna och planerade åtgärder.
+
+Beredskapsmyndigheterna ska vid fredstida krissituationer och höjd beredskap även lämna Myndigheten för civilt försvar den information som behövs för att myndigheten ska kunna fullgöra sina uppgifter enligt 7 § förordningen (2008:1002) med instruktion för Myndigheten för civilt försvar. När det gäller det civila försvarets stöd till det militära försvaret ska information endast lämnas i fråga om den eventuella påverkan stödet har på möjligheterna att tillgodose civila behov av samhällets resurser.
+
+De beredskapsmyndigheter som ingår i en beredskapssektor ska inför och vid fredstida krissituationer och höjd beredskap även lämna den sektorsansvariga myndigheten den information som behövs för att den sektorsansvariga myndigheten ska kunna fullgöra sina uppgifter enligt 24 och 25 §§.
+
+I 8 § förordningen (2015:1053) om totalförsvar och höjd beredskap finns bestämmelser om att beredskapsmyndigheterna inför och vid höjd beredskap ska lämna underlag till Försvarsmakten.
+
+Beredskapsmyndigheterna ska inför och vid höjd beredskap lämna underlag till de civilområdesansvariga länsstyrelserna för att de ska kunna fullgöra sina uppgifter enligt förordningen (2022:525) om civilområdesansvariga länsstyrelser.
+
+*Förordning (2025:1161)*.
+
+#### 22 a §
+
+Beredskapsmyndigheterna ska lämna Myndigheten för civilt försvar den information som behövs för att myndigheten ska kunna fullgöra sina uppgifter enligt 1 d och 9 b §§ förordningen (2008:1002) med instruktion för Myndigheten för civilt försvar. *Förordning (2026:8)*.
+
+### Sektorsansvariga myndigheters uppgifter inför och vid fredstida krissituationer och höjd beredskap
+
+#### 23 §
+
+Vissa beredskapsmyndigheter ska ingå i beredskapssektorer. I varje beredskapssektor ska en av beredskapsmyndigheterna vara sektorsansvarig myndighet. Övriga beredskapsmyndigheter i sektorn ska delta i arbetet.
+
+Av bilaga 2 till denna förordning framgår beredskapssektorernas indelning och vilka beredskapsmyndigheter som är sektorsansvariga myndigheter.
+
+De sektorsansvariga myndigheternas uppgifter, utöver de uppgifter som beredskapsmyndigheterna har enligt 7-16 §§ och 19-22 §§, följer av 24 och 25 §§.
+
+#### 24 §
+
+En sektorsansvarig myndighet ska inom sin beredskapssektor leda arbetet med att samordna åtgärder inför och vid fredstida krissituationer och höjd beredskap. Den ska också driva på arbetet inom beredskapssektorn, stödja beredskapsmyndigheterna samt verka för att uppgifter och roller inom beredskapssektorn tydliggörs.
+
+En sektorsansvarig myndighet ska därutöver verka för att de åtgärder som beredskapsmyndigheterna inom beredskapssektorn vidtar är samordnade med de åtgärder som andra beredskapsmyndigheter, inklusive länsstyrelser och civilområdesansvariga länsstyrelser, samt Försvarsmakten vidtar. Den ska vidare verka för att samverkan med näringslivet sker i den utsträckning det behövs.
+
+#### 25 §
+
+En sektorsansvarig myndighets skyldighet att lämna information enligt 22 § och 8 § förordningen (2015:1053) om totalförsvar och höjd beredskap ska även omfatta läget inom beredskapssektorns ansvarsområde.
+
+En sektorsansvarig myndighet ska vid en fredstida krissituation eller höjd beredskap vid behov lämna underlag till regeringen avseende prioritering och fördelning av resurser inom beredskapssektorn.
+
+### Bemyndiganden
+
+#### 26 §
+
+Försvarets radioanstalt får meddela ytterligare föreskrifter om sådana säkerhetskrav för informationshanteringssystem som avses i 13 § utom i fråga om Regeringskansliet, kommittéväsendet och Försvarsmakten. Myndigheten ska därvid beakta nationell och internationell standard för informationssäkerhet.
+
+Försvarets radioanstalt får meddela närmare föreskrifter om it-incidentrapportering enligt 14 § efter att ha gett Försvarsmakten, Myndigheten för civilt försvar, Polismyndigheten och Säkerhetspolisen tillfälle att yttra sig.
+
+*Förordning (2026:620)*.
+
+#### 27 §
+
+Myndigheten för civilt försvar får meddela närmare föreskrifter om
+
+1. risk- och sårbarhetsanalyser enligt 7 § och risk- och sårbarhetsbedömningar enligt 17 och 19 §§,
+
+2. beredskapsmyndigheternas informationsskyldighet enligt 22 § andra stycket,
+
+3. uppgifter inför höjd beredskap enligt 10 och 11 §§ utom i fråga om Kustbevakningen, Försvarets materielverk, Försvarets radioanstalt, Totalförsvarets forskningsinstitut, Fortifikationsverket och Försvarshögskolan, och
+
+4. uppgifter inför och vid höjd beredskap enligt 20 § 10 och 11 samt 21 § utom i fråga om Kustbevakningen.
+
+*Förordning (2026:620)*.
+
+## Bilaga 1
+
+### Förteckning över beredskapsmyndigheter
+
+### Affärsverket svenska kraftnät
+
+### Arbetsförmedlingen
+
+### Bolagsverket
+
+### Boverket
+
+### Domstolsverket
+
+E-hälsomyndigheten
+
+### Energimarknadsinspektionen
+
+### Finansinspektionen
+
+### Folkhälsomyndigheten
+
+### Försäkringskassan
+
+### Kommerskollegium
+
+### Kriminalvården
+
+### Kustbevakningen
+
+### Lantmäteriet
+
+### Livsmedelsverket
+
+### Luftfartsverket
+
+### Läkemedelsverket
+
+### Länsstyrelserna
+
+### Migrationsverket
+
+### Myndigheten för civilt försvar
+
+### Myndigheten för digital förvaltning
+
+### Myndigheten för psykologiskt försvar
+
+### Naturvårdsverket
+
+### Pensionsmyndigheten
+
+### Polismyndigheten
+
+### Post- och telestyrelsen
+
+### Riksantikvarieämbetet
+
+### Riksarkivet
+
+### Riksgäldskontoret
+
+### Sjöfartsverket
+
+### Skatteverket
+
+### Socialstyrelsen
+
+### Statens energimyndighet
+
+### Statens jordbruksverk
+
+### Statens servicecenter
+
+### Statens skolverk
+
+### Statens veterinärmedicinska anstalt
+
+### Strålsäkerhetsmyndigheten
+
+### Sveriges geologiska undersökning
+
+### Sveriges meteorologiska och hydrologiska institut
+
+### Säkerhetspolisen
+
+### Tillväxtverket
+
+### Trafikverket
+
+### Transportstyrelsen
+
+### Tullverket
+
+### Utbetalningsmyndigheten
+
+Åklagarmyndigheten *Förordning (2025:1161)*.
+
+## Bilaga 2
+
+### Förteckning över beredskapssektorernas indelning
+
+```
+Beredskapssektor        Sektorsansvarig         Övriga
+                        myndighet               myndigheter som 
+                                                ingår i 
+                                                beredskapssektorn
+Ekonomisk säkerhet      Försäkringskassan       Arbetsförmedlingen
+                                                Pensionsmyndigheten
+                                                Riksgäldskontoret
+                                                Skatteverket
+                                                Statens 
+                                                servicecenter
+                                                Utbetalningsmyndigheten
+Elektroniska  kommunikationer och
+post                    Post- och               Affärsverket 
+                        telestyrelsen           svenska kraftnät
+                                                Myndigheten för 
+                                                civilt försvar
+                                                Trafikverket
+Energiförsörjning       Statens energimyndighet Affärsverket 
+                                                svenska kraftnät
+                                                Energimarknadsinspektionen
+                                                Strålsäkerhetsmyndigheten
+Finansiella tjänster    Finansinspektionen      Riksgäldskontoret
+Försörjning av
+grunddata               Skatteverket            Bolagsverket
+                                                Lantmäteriet
+                                                Myndigheten för 
+                                                digital förvaltning
+                                                Riksarkivet
+Hälsa, vård och omsorg  Socialstyrelsen         E-hälsomyndigheten
+                                                Folkhälsomyndigheten
+                                                Läkemedelsverket
+Industri, byggande
+och handel              Tillväxtverket          Boverket
+                                                Sveriges geologiska
+                                                undersökning
+Livsmedelsförsörjning
+och dricksvatten        Livsmedelsverket        Länsstyrelserna
+                                                Naturvårdsverket
+                                                Statens 
+                                                jordbruksverk
+                                                Statens 
+                                                veterinärmedicinska 
+                                                anstalt
+Ordning och säkerhet    Polismyndigheten        Domstolsverket
+                                                Kriminalvården
+                                                Kustbevakningen
+                                                Migrationsverket
+                                                Säkerhetspolisen
+                                                Tullverket
+                                                Åklagarmyndigheten
+Räddningstjänst och  skydd av
+civilbefolkningen       Myndigheten för         Kustbevakningen
+                        civilt försvar          Länsstyrelserna
+                                                Polismyndigheten
+                                                Sjöfartsverket
+                                                Strålsäkerhetsmyndigheten
+                                                Sveriges 
+                                                meteorologiska 
+                                                och hydrologiska 
+                                                institut
+Transporter             Trafikverket            Luftfartsverket
+                                                Sjöfartsverket
+                                                Transportstyrelsen
+Utrikeshandel           Kommerskollegium        Tullverket
+```
+
+*Förordning (2026:8)*.

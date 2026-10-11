@@ -1,0 +1,113 @@
+---
+title: "Lag (2013:156) om samhällsorientering för vissa nyanlända invandrare"
+identifier: "SFS 2013:156"
+type: act
+jurisdiction: se
+language: sv
+date: 2013-03-27
+amended_through: "SFS 2026:1690"
+department: "Arbetsmarknadsdepartementet IU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-156.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:156"
+retrieved: 2026-10-11
+---
+# Lag (2013:156) om samhällsorientering för vissa nyanlända invandrare
+
+### 1 §
+
+Denna lag innehåller bestämmelser om kommuners ansvar att erbjuda samhällsorientering för vissa nyanlända invandrare.
+
+*Lag (2017:596)*.
+
+### 1 a §
+
+Lagen gäller för nyanlända invandrare som har fyllt 18 år men inte har uppnått riktåldern för pension enligt 2 kap. 10 a-10 d §§ socialförsäkringsbalken, är folkbokförda i en kommun och har beviljats uppehållstillstånd
+
+1. som flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU eller motsvarande äldre bestämmelser,
+
+2. enligt 5 kap. 4 eller 6 §, 12 kap. 18 §, 21 kap. eller 22 kap. utlänningslagen (2005:716), eller
+
+3. efter vidarebosättning. *Lag (2026:1158)*.
+
+### 2 §
+
+Lagen gäller även för nyanlända invandrare som har fyllt 18 år men inte har uppnått riktåldern för pension enligt 2 kap. 10 a-10 d §§ socialförsäkringsbalken, är folkbokförda i en kommun och har beviljats
+
+1. uppehållstillstånd på grund av anknytning enligt 5 kap. 3, 3 a eller 3 d § utlänningslagen (2005:716),
+
+2. uppehållstillstånd på grund av anknytning enligt någon av 5 kap. 3 e-3 h §§ utlänningslagen,
+
+3. uppehållskort efter ansökan enligt 3 a kap. 10 § utlänningslagen,
+
+4. uppehållstillstånd som familjemedlem eller anhörig enligt föreskrifter som har meddelats med stöd av 5 kap. 23 § tredje, fjärde eller, när det gäller familjemedlem till en utlänning som har beviljats uppehållstillstånd för arbete, femte stycket utlänningslagen,
+
+5. uppehållstillstånd som familjemedlem enligt 6 a kap. 9 § utlänningslagen,
+
+6. uppehållstillstånd som familjemedlem enligt 6 b kap. 14 § utlänningslagen, eller
+
+7. uppehållstillstånd på grund av anknytning till en person som har beviljats uppehållstillstånd med stöd av någon av bestämmelserna i 1 a §. *Lag (2026:1690)*.
+
+### 2 a §
+
+Lagen gäller inte för nyanlända invandrare som går i gymnasieskola eller är medborgare i ett land som är anslutet till Europeiska ekonomiska samarbetsområdet eller i Schweiz. *Lag (2017:596)*.
+
+### 3 §
+
+Varje kommun ska erbjuda samhällsorientering till de nyanlända invandrare som är folkbokförda i kommunen och som omfattas av denna lag.
+
+### 4 §
+
+Samhällsorienteringen ska påbörjas så snart som möjligt efter det att den nyanlände har folkbokförts i kommunen.
+
+Kommunens skyldighet att erbjuda samhällsorientering upphör tre år efter det att den nyanlände första gången folkbokfördes i en kommun.
+
+### 5 §
+
+Kommunen ska aktivt verka för att nå de nyanlända i kommunen som har rätt till samhällsorientering och motivera dem att delta i samhällsorienteringen.
+
+### 6 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om samhällsorienteringens innehåll och omfattning.
+
+## Övergångsbestämmelser
+
+**2013:156**
+
+Denna lag träder i kraft den 1 maj 2013 och tillämpas på nyanlända invandrare som folkbokförs första gången i en kommun efter utgången av april 2013.
+
+**2014:954**
+
+Denna lag träder i kraft den 1 augusti 2014 och tillämpas på nyanlända som folkbokförs för första gången i en kommun efter utgången av juli 2014.
+
+**2017:596**
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Äldre föreskrifter gäller fortfarande för en nyanländ invandrare som har en etableringsplan enligt den upphävda lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare, så länge den planen gäller.
+
+**2022:893**
+
+1. Denna lag träder i kraft den 1 januari 2023.
+
+2. Äldre föreskrifter gäller fortfarande för den som har fyllt 65 år före ikraftträdandet.
+
+**2022:894**
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Äldre föreskrifter gäller fortfarande för den som har fyllt 66 år före ikraftträdandet.
+
+3. För en utlänning som har beviljats uppehållstillstånd enligt 5 kap. 15 a § första stycket 2 utlänningslagen (2005:716) gäller 2 § 4 i den äldre lydelsen. *Lag (2025:228)*.
+
+**2025:226**
+
+1. Denna lag träder i kraft den 1 april 2025.
+
+2. För en utlänning som har beviljats uppehållstillstånd enligt 5 kap. 15 a § första stycket 2 utlänningslagen (2005:716) gäller 2 § 4 i den äldre lydelsen.
+
+**2026:1690**
+
+1. Denna lag träder i kraft den 1 oktober 2026.
+
+2. För uppehållstillstånd som har beviljats enligt 5 kap. 3 eller 3 a § utlänningslagen (2005:716) i deras lydelse före den 1 oktober 2026 gäller 2 § i den äldre lydelsen.

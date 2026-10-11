@@ -1,0 +1,61 @@
+---
+title: "Förordning (2020:172) om hemlig dataavläsning"
+identifier: "SFS 2020:172"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-04-02
+amended_through: "SFS 2026:17"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-172.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:172"
+retrieved: 2026-10-11
+---
+# Förordning (2020:172) om hemlig dataavläsning
+
+## Inledande bestämmelse
+
+### 1 §
+
+I denna förordning finns kompletterande bestämmelser till lagen (2020:62) om hemlig dataavläsning. Begrepp och uttryck som används i förordningen har samma innebörd och tillämpningsområde som i lagen.
+
+## Otillåten tilläggsinformation
+
+### 2 §
+
+Den verkställande myndigheten ska skyndsamt underrätta åklagaren om att otillåten tilläggsinformation enligt 23 a § första stycket första meningen lagen (2020:62) om hemlig dataavläsning har hämtats in.
+
+Åklagaren ska därefter underrätta Säkerhets- och integritetsskyddsnämnden vid Myndigheten för säkerhet och integritetsskydd (nämnden) om
+
+1. i vilket ärende den otillåtna tilläggsinformationen har hämtats in,
+
+2. innehållet i beslutet om hemlig dataavläsning,
+
+3. vad den otillåtna tilläggsinformationen har omfattat,
+
+4. när och hur länge den otillåtna inhämtningen har pågått, och
+
+5. orsaken till att den otillåtna tilläggsinformationen har hämtats in.
+
+Underrättelsen till nämnden ska lämnas skyndsamt. Om de uppgifter som underrättelsen ska innehålla då inte finns tillgängliga ska underrättelsen så snart som möjligt kompletteras. *Förordning (2026:17)*.
+
+## Skyldighet att medverka
+
+### 3 §
+
+Vid sådan medverkan som avses i 24 § första stycket lagen (2020:62) om hemlig dataavläsning ska den som bedriver verksamhet som ska anmälas enligt 2 kap. 1 § lagen (2022:482) om elektronisk kommunikation bistå den verkställande myndigheten enligt myndighetens begäran. Sådan medverkan kan omfatta att den anmälningspliktige
+
+1. tillhandahåller tillgänglig teknisk information om det avläsningsbara informationssystem som omfattas av beslutet om hemlig dataavläsning,
+
+2. tillhandahåller tillgängliga upplysningar om vilka förbindelser som används av det avläsningsbara informationssystem som omfattas av beslutet om hemlig dataavläsning,
+
+3. använder tillgängliga tekniska metoder enligt 22 § lagen om hemlig dataavläsning eller tillhandahåller möjlighet att använda sådana metoder, eller
+
+4. tillhandahåller andra liknande tillgängliga åtgärder som kan användas för att möjliggöra verkställighet av hemlig dataavläsning. *Förordning (2022:522)*.
+
+## Bemyndigande om ersättning vid medverkan
+
+### 4 §
+
+Post- och telestyrelsen får, efter att ha hämtat in synpunkter från Ekobrottsmyndigheten, Polismyndigheten, Säkerhetspolisen och Tullverket, meddela föreskrifter om ersättningen enligt 24 § andra stycket lagen (2020:62) om hemlig dataavläsning.

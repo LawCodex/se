@@ -1,0 +1,105 @@
+---
+title: "Lag (2017:584) om ansvar för etableringsinsatser för vissa nyanlända invandrare"
+identifier: "SFS 2017:584"
+type: act
+jurisdiction: se
+language: sv
+date: 2017-06-22
+amended_through: "SFS 2026:1162"
+department: "Arbetsmarknadsdepartementet IU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-584.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:584"
+retrieved: 2026-10-11
+---
+# Lag (2017:584) om ansvar för etableringsinsatser för vissa nyanlända invandrare
+
+### Nyanlända invandrare som omfattas av lagen
+
+#### 1 §
+
+Lagen gäller för nyanlända invandrare som har fyllt 20 år men inte har uppnått riktåldern för pension enligt 2 kap. 10 a-10 d §§ socialförsäkringsbalken och som har ett uppehållstillstånd som kan ligga till grund för folkbokföring, om
+
+1. uppehållstillståndet har beviljats en flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU eller mot- svarande äldre bestämmelser,
+
+2. uppehållstillståndet har beviljats enligt 5 kap. 4 eller 6 §, 12 kap. 18 §, 21 kap. eller 22 kap. utlänningslagen (2005:716), eller
+
+3. uppehållstillståndet har beviljats efter vidarebosättning.
+
+*Lag (2026:1162)*.
+
+#### 2 §
+
+Lagen gäller också för nyanlända invandrare som har fyllt 20 år men inte har uppnått riktåldern för pension enligt 2 kap. 10 a-10 d §§ socialförsäkringsbalken och som har
+
+1. ett uppehållstillstånd som kan ligga till grund för folkbokföring på grund av anknytning till en person som har ett uppehållstillstånd med stöd av någon av bestämmelserna i 1 §, och
+
+2. ansökt om uppehållstillstånd inom sex år från det att den person som den nyanlände har anknytning till först togs emot i en kommun.
+
+Första stycket gäller inte om den person som den nyanlände har anknytning till var svensk medborgare vid tidpunkten för den nyanländes ansökan om uppehållstillstånd. *Lag (2022:896)*.
+
+#### 3 §
+
+Lagen gäller även för nyanlända invandrare som har haft ett uppehållstillstånd som avses i 1 eller 2 § och som inom giltighetstiden för uppehållstillståndet ansökt om ett nytt eller fortsatt tillstånd som avses i 1 eller 2 §. Om ansökan avslås gäller lagen fram tills beslutet har fått laga kraft.
+
+Första stycket gäller inte för en utlänning som har meddelats ett beslut om inhibition av verkställigheten enligt 12 kap. 16 e § första stycket eller 17 a § första stycket utlänningslagen (2005:716). *Lag (2026:389)*.
+
+### Ansvariga myndigheter
+
+#### 4 §
+
+Arbetsförmedlingen har ansvar för att nyanlända invandrare erbjuds insatser som syftar till att underlätta och påskynda deras etablering i arbets- och samhällslivet (etableringsinsatser).
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om
+
+1. de förutsättningar som ska gälla för att nyanlända invandrare ska erbjudas etableringsinsatser, och
+
+2. etableringsinsatsernas innehåll och omfattning.
+
+#### 5 §
+
+Arbetsförmedlingen ska samordna etableringsinsatser och vara stödjande och pådrivande i förhållande till berörda parter.
+
+#### 6 §
+
+Länsstyrelserna ska främja samverkan om etableringsinsatser mellan berörda kommuner, myndigheter, företag och organisationer.
+
+#### 7 §
+
+Har upphävts genom *lag (2022:1244)*.
+
+### Ersättning till nyanlända invandrare
+
+#### 8 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om ersättning till nyanlända invandrare.
+
+## Övergångsbestämmelser
+
+**2017:584**
+
+1. Denna lag träder i kraft den 1 januari 2018.
+
+2. Genom lagen upphävs lagen (2010:197) om etableringsinsatser för vissa nyanlända invandrare.
+
+3. Genom lagen utgår lagen (2017:358) om ändring i lagen om etableringsinsatser för vissa nyanlända invandrare.
+
+4. Den upphävda lagen gäller dock fortfarande för den som vid lagens ikraftträdande har en etableringsplan, så länge den planen gäller.
+
+**2022:895**
+
+1. Denna lag träder i kraft den 1 januari 2023.
+
+2. Äldre föreskrifter gäller fortfarande för den som har fyllt 65 år före ikraftträdandet.
+
+**2022:896**
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Äldre föreskrifter gäller fortfarande för den som har fyllt 66 år före ikraftträdandet.
+
+**2022:1244**
+
+1. Denna lag träder i kraft den 1 december 2022.
+
+2. Den upphävda paragrafen gäller dock fortfarande för uppgifter som den som är eller har varit verksam inom en yrkesmässigt bedriven verksamhet för nyanlända invandrare har fått del av före ikraftträdandet.

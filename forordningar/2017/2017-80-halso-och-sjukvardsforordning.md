@@ -1,0 +1,594 @@
+---
+title: "Hälso- och sjukvårdsförordning (2017:80)"
+identifier: "SFS 2017:80"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-02-16
+amended_through: "SFS 2026:1694"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-80.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:80"
+retrieved: 2026-10-11
+---
+# Hälso- och sjukvårdsförordning (2017:80)
+
+## 1 kap. Inledande bestämmelser
+
+#### 1 §
+
+I denna förordning finns kompletterande bestämmelser till hälso- och sjukvårdslagen (2017:30).
+
+De ord och benämningar som används i förordningen har samma betydelse som i den nämnda lagen.
+
+#### 2 §
+
+Det som sägs i denna förordning om regioner gäller också kommuner som inte ingår i en region. *Förordning (2019:1118)*.
+
+## 2 kap. Nationell högspecialiserad vård
+
+#### 1 §
+
+Socialstyrelsen beslutar vilken hälso- och sjukvård som ska utgöra nationell högspecialiserad vård enligt 2 kap. 7 § hälso- och sjukvårdslagen (2017:30) och på hur många enheter sådan vård ska bedrivas. *Förordning (2018:144)*.
+
+#### 2 §
+
+Socialstyrelsen beslutar efter ansökan från en region om tillstånd och villkor för att bedriva nationell högspecialiserad vård. Myndigheten beslutar också om återkallelse av ett sådant tillstånd. *Förordning (2019:1118)*.
+
+#### 3 §
+
+Socialstyrelsen får meddela föreskrifter om de villkor som ska gälla för tillstånd att bedriva nationell högspecialiserad vård och om återkallelse av ett sådant tillstånd. *Förordning (2018:144)*.
+
+#### 4 §
+
+Socialstyrelsen får meddela föreskrifter om verkställighet av hälso- och sjukvårdslagen (2017:30) i fråga om ansökningsförfarandet hos myndigheten.
+
+*Förordning (2018:144)*.
+
+## 3 kap. Samverkansregioner för hälso- och sjukvård
+
+#### 1 §
+
+För hälso- och sjukvård som berör flera regioner ska landet vara indelat i samverkansregioner som anges i nedanstående uppställning. Varje samverkansregion omfattar de län och de kommuner som anges i uppställningen.
+
+```
+Samverkansregion                Län
+                                Kommuner
+Samverkansregion Stockholm      Stockholms län
+                                Gotlands län
+Samverkansregion Linköping      Östergötlands län 
+                                Jönköpings län
+                                Kalmar län
+Samverkansregion Lund/Malmö     Kronobergs län
+                                Blekinge län
+                                Skåne län
+                                Halmstad kommun
+                                Hylte kommun
+                                Laholms kommun
+Samverkansregion Göteborg       Västra Götalands län
+                                Falkenbergs kommun
+                                Kungsbacka kommun
+                                Varbergs kommun
+Samverkansregion Uppsala/Örebro Uppsala län
+                                Södermanlands län
+                                Värmlands län 
+                                Örebro län
+                                Västmanlands län 
+                                Dalarnas län 
+                                Gävleborgs län
+Samverkansregion Umeå           Västernorrlands län 
+                                Jämtlands län
+                                Västerbottens län
+                                Norrbottens län
+```
+
+*Förordning (2019:1118)*.
+
+*/Kapitlet träder i kraft I:2028-01-01/*
+
+## 3 a kap. Hälso- och sjukvårdsverksamhet för personer med skadligt bruk eller beroende
+
+#### 1 §
+
+Regionen ska bedriva sin hälso- och sjukvårdsverksamhet så att personer med skadligt bruk eller beroende av alkohol, narkotika, andra beroendeframkallande medel, läkemedel, dopningsmedel eller spel om pengar erbjuds den vård som de behöver. *Förordning (2026:1694)*.
+
+## 4 kap. Behörighet och ansvar för vissa personalgrupper
+
+### Verksamhetschef
+
+#### 1 §
+
+En verksamhetschef enligt 4 kap. 2 § hälso- och sjukvårdslagen (2017:30) ska säkerställa att patientens behov av trygghet, kontinuitet, samordning och säkerhet i vården tillgodoses. *Förordning (2026:291)*.
+
+#### 2 §
+
+Verksamhetschefen ska utse en eller flera läkare att ha ansvar för att klinisk obduktion görs när det finns skäl för detta.
+
+#### 3 §
+
+Verksamhetschefen ska ansvara för att
+
+1. den som varit intagen på sjukhus på begäran avgiftsfritt får intyg om orsaken till intagningen och om tiden för intagningen och utskrivningen,
+
+2. överförmyndaren underrättas när en intagen person kan antas behöva god man eller förvaltare enligt föräldrabalken samt när ett förvaltaruppdrag bör upphöra,
+
+3. någon närstående omedelbart underrättas när en patient avlider eller en patients tillstånd allvarligt försämras,
+
+4. någon närstående omedelbart underrättas när en patient som lämnar eller avser att lämna sjukhuset är farlig för någon annans personliga säkerhet eller sitt eget liv. Om patienten är farlig för en viss person ansvarar verksamhetschefen för att även denna person och, om det behövs, lämplig myndighet omedelbart underrättas.
+
+#### 4 §
+
+Verksamhetschefen får bestämma över diagnostik eller vård och behandling av enskilda patienter endast om han eller hon har tillräcklig kompetens och erfarenhet för detta.
+
+#### 5 §
+
+Verksamhetschefen får uppdra åt sådana befattningshavare inom verksamheten som har tillräcklig kompetens och erfarenhet att fullgöra enskilda ledningsuppgifter.
+
+### Medicinskt ansvarig sjuksköterska och medicinskt ansvarig för rehabilitering
+
+#### 6 §
+
+En medicinskt ansvarig sjuksköterska enligt 11 kap. 4 § första stycket hälso- och sjukvårdslagen (2017:30) ska ansvara för att
+
+1. patienten får en säker och ändamålsenlig hälso- och sjukvård av god kvalitet inom kommunens ansvarsområde,
+
+2. patienten får den hälso- och sjukvård som hälso- och sjukvårdspersonal har förordnat om,
+
+3. journaler förs i den omfattning som föreskrivs i patientdatalagen (2008:355),
+
+4. beslut om att delegera ansvar för vårduppgifter är förenliga med patientsäkerheten,
+
+5. det finns ändamålsenliga och väl fungerande rutiner för
+
+a) läkemedelshantering,
+
+b) rapportering enligt 6 kap. 4 § patientsäkerhetslagen (2010:659), och
+
+c) att kontakta läkare eller annan hälso- och sjukvårdspersonal när en patients tillstånd fordrar det.
+
+Detsamma gäller i tillämplig omfattning en medicinskt ansvarig för rehabilitering enligt 11 kap. 4 § andra stycket hälso- och sjukvårdslagen. En medicinskt ansvarig för rehabilitering ska även ansvara för att det finns ändamålsenliga och väl fungerande rutiner för rehabilitering, habilitering, förskrivning och användning av hjälpmedel. *Förordning (2026:291)*.
+
+### Fast läkarkontakt
+
+#### 6 a §
+
+En fast läkarkontakt som avses i 7 kap. 3 § hälso- och sjukvårdslagen (2017:30) ska, när det gäller en patient som får kommunal hälso- och sjukvård i sådant boende eller sådan bostad som anges i 12 kap. 1 eller 2 § hälso- och sjukvårdslagen, ha i uppgift att delta i
+
+1. planering, samordning och uppföljning av patientens hälso- och sjukvård, och
+
+2. upprättandet av en individuell plan enligt 16 kap. 4 § hälso- och sjukvårdslagen.
+
+När uppgifterna utförs ska den fasta läkarkontakten samverka med patientens andra fasta vårdkontakter enligt 6 kap. 2 § patientlagen (2014:821) och i tillämpliga fall med dennes fasta omsorgskontakt enligt 10 kap. 7 § socialtjänstlagen (2025:400) samt andra berörda inom socialtjänsten, om bestämmelser om sekretess eller tystnadsplikt inte hindrar det. *Förordning (2026:291)*.
+
+### Fast vårdkontakt
+
+#### 6 b §
+
+En fast vårdkontakt som avses i 6 kap. 2 § patientlagen (2014:821) ska, när det gäller en patient som får kommunal hälso- och sjukvård i sådant boende eller sådan bostad som anges i 12 kap. 1 eller 2 § hälso- och sjukvårdslagen (2017:30), planera, samordna och följa upp patientens kommunala hälso- och sjukvårdsinsatser. Den fasta vårdkontakten ska hålla patienten informerad om planerade insatser. Den fasta vårdkontakten ska även hålla närstående informerade om planerade insatser, om patienten inte motsätter sig det.
+
+När uppgifterna utförs ska den fasta vårdkontakten samverka med patientens fasta läkarkontakt enligt 7 kap. 3 § hälso- och sjukvårdslagen, andra fasta vårdkontakter enligt 6 kap. 2 § patientlagen och i tillämpliga fall med dennes fasta omsorgskontakt enligt 10 kap. 7 § socialtjänstlagen (2025:400), andra berörda inom socialtjänsten och närstående, om bestämmelser om sekretess eller tystnadsplikt inte hindrar det.
+
+Den fasta vårdkontakten ska ha legitimation för ett yrke inom hälso- och sjukvården. *Förordning (2026:291)*.
+
+### Personal vid enheter där det bedrivs läkarutbildning eller forskning
+
+#### 7 §
+
+En läkare som är anställd vid en sjukvårdsenhet inom regionernas hälso- och sjukvård där det bedrivs högskoleutbildning för läkarexamen eller forskning är skyldig att biträda vid handledningen av medicine studerande.
+
+En specialistutbildad läkare som är anställd vid en sådan enhet som avses i första stycket är, i den mån den eller de nämnder som utövar ledningen av hälso- och sjukvårdsverksamheten vid enheten medger det, skyldig att inom sitt verksamhetsområde utföra den undervisning och den examination som behövs för att högskoleutbildning för läkarexamen ska kunna bedrivas på ett ändamålsenligt sätt.
+
+*Förordning (2019:1118)*.
+
+#### 8 §
+
+Kliniska assistenter och medicine studerande får biträda vid hälso- och sjukvård vid sådana enheter som avses i 7 § första stycket.
+
+## 5 kap. Behörighet för anställning och tillsättning av tjänster
+
+#### 1 §
+
+Detta kapitel gäller inom regionernas hälso- och sjukvård. Bestämmelsen i 5 § gäller även inom kommunernas hälso- och sjukvård. *Förordning (2019:1118)*.
+
+### Behörighet för anställning
+
+#### 2 §
+
+Behörig för anställning som läkare för allmäntjänstgöring är den som har
+
+1. avlagt läkarexamen, eller
+
+2. genomgått medicinsk utbildning utomlands och ska genomgå kompletterande utbildning.
+
+Behörig för anställning som läkare för specialiseringstjänstgöring är den som har legitimation som läkare.
+
+#### 3 §
+
+Behörig för annan anställning som läkare än som sägs i 2 § är den som har bevis om specialistkompetens. Om det finns särskilda skäl får Socialstyrelsen förklara en läkare behörig för sådan anställning även om läkaren inte uppfyller behörighetsvillkoren.
+
+#### 4 §
+
+Om regionen inte kan anställa någon som är behörig att utöva läkaryrket som vikarie för läkare vid semester eller annan ledighet eller under vakans, får Socialstyrelsen medge regionen att anställa någon annan som styrelsen bedömer i huvudsak kan fullgöra de med anställningen förenade uppgifterna. *Förordning (2019:1118)*.
+
+#### 5 §
+
+Behörig för anställning som barnmorska, fysioterapeut, psykolog, psykoterapeut, sjukhusfysiker eller sjuksköterska är den som har legitimation för sådant yrke och, vad gäller psykolog, även den som genomgår föreskriven praktisk tjänstgöring.
+
+Detsamma gäller vikarie på sådan anställning, om Socialstyrelsen inte medgett undantag.
+
+### Förfarandet vid anställning av läkare
+
+#### 6 §
+
+Bestämmelser om en sådan anställning vid en högskola som är förenad med en anställning utanför högskolan finns i 3 kap. 8 § högskolelagen (1992:1434). *Förordning (2025:546)*.
+
+#### 7 §
+
+Regionen ska kungöra anställningar för specialistutbildade läkare lediga till ansökan. Om det finns särskilda skäl får dock anställning ske utan kungörelse.
+
+Kungörelser som avses i första stycket ska införas i Post- och Inrikes Tidningar eller, om regeringen medger det, i en annan publikation med föreläggande av tre veckors ansökningstid, räknad från dagen för kungörandet. *Förordning (2019:1118)*.
+
+#### 8 §
+
+Vid andra anställningar för specialistutbildade läkare än som avses i 6 § vid en sjukvårdsenhet inom regionernas hälso- och sjukvård där det bedrivs högskoleutbildning för läkarexamen eller forskning, ska tre sakkunniga pröva varje sökandes behörighet och bedöma skickligheten hos samtliga behöriga sökande. Vid bedömningen av skickligheten ska hänsyn tas främst till utbildning samt till klinisk och vetenskaplig skicklighet. De sakkunniga ska föra upp de fyra främsta behöriga sökandena på förslag. Regionen får därefter anställa en av de föreslagna sökandena. *Förordning (2019:1118)*.
+
+#### 9 §
+
+Två av de sakkunniga som avses i 8 § och suppleanter för dem utses för högst fyra år på det sätt som den berörda högskolestyrelsen bestämmer. Regionen utser för samma tid en sakkunnig och suppleant för denne. Högskolestyrelsen utser ordförande och vice ordförande bland de sakkunniga.
+
+Om ingen av de sakkunniga är verksam inom det område som den lediga anställningen avser, ska de tillkalla en läkare inom verksamhetsområdet att ingå som sakkunnig.
+
+Om det behövs får de sakkunniga, efter medgivande av regionen, inhämta yttrande från en annan läkare med särskild erfarenhet från det verksamhetsområde som den lediga anställningen avser.
+
+*Förordning (2019:1118)*.
+
+#### 10 §
+
+Sakkunniga ska samråda med varandra och utan onödigt dröjsmål lämna sina anställningsförslag.
+
+I fråga om de sakkunnigas beslut tillämpas bestämmelserna i 29 och 30 §§ förvaltningslagen (2017:900) om omröstning och om reservation och avvikande mening. *Förordning (2018:911)*.
+
+#### 11 §
+
+Vid andra anställningar för specialistutbildade läkare än som avses i 6 och 8 §§ ska regionen fästa avseende främst vid skickligheten för anställningen. *Förordning (2019:1118)*.
+
+#### 12 §
+
+Vikariat på anställning som läkare som beräknas vara minst sex månader i följd ges i samma ordning som anställningen, om Socialstyrelsen inte medgett undantag.
+
+#### 13 §
+
+Läkare för allmäntjänstgöring anställs genom förordnande för högst två år. Förordnandet får förlängas om det finns särskilda skäl.
+
+#### 14 §
+
+Den myndighet som ska anställa någon som avses i denna förordning ska utan dröjsmål anslå de sakkunnigas beslut om anställningsförslag på regionens anslagstavla med uppgift om den dag då beslutet anslogs. *Förordning (2019:1118)*.
+
+### Möjlighet till anställning i regionerna för läkares allmäntjänstgöring
+
+#### 14 a §
+
+Bestämmelserna om möjlighet till anställning i regionerna för läkares allmäntjänstgöring i 10 kap. 5 § första stycket hälso- och sjukvårdslagen (2017:30) i lydelsen före den 1 juli 2021 gäller fortfarande för den som
+
+1. har avlagt läkarexamen enligt bilaga 2 till högskoleförordningen (1993:100) i lydelsen före den 1 juli 2019, eller
+
+2. är läkare med utländsk utbildning som föreskrivits allmäntjänstgöring. *Förordning (2020:1099)*.
+
+### Överklagande
+
+#### 15 §
+
+Beslut av sakkunniga om anställningsförslag får överklagas till Socialstyrelsen. Skrivelsen med överklagandet ska ha kommit in till Socialstyrelsen inom tre veckor från den dag då beslutet anslogs enligt 14 §.
+
+Socialstyrelsens beslut får inte överklagas.
+
+## 6 kap. Vårdgaranti
+
+#### 1 §
+
+Vårdgarantin enligt 9 kap. 1 § hälso- och sjukvårdslagen (2017:30) ska innehålla en försäkran om att den enskilde får
+
+1. kontakt med primärvården samma dag som den enskilde söker kontakt med primärvården (tillgänglighetsgaranti),
+
+2. en medicinsk bedömning av läkare eller annan legitimerad hälso- och sjukvårdspersonal inom primärvården inom tre dagar från det att den enskilde har sökt kontakt med primärvården, om vårdgivaren har bedömt att den enskilde behöver få en medicinsk bedömning och en sådan inte kan göras när den enskilde först söker kontakt (bedömningsgaranti inom primärvården),
+
+3. besöka den specialiserade vården inom 90 dagar från det att remiss har utfärdats eller, om någon remiss inte är nödvändig, från det att den enskilde har sökt kontakt med den specialiserade vården (besöksgaranti inom den specialiserade vården), och
+
+4. planerad vård inom 90 dagar från det att vårdgivaren har beslutat att den enskilde ska få den aktuella vården (behandlingsgaranti). *Förordning (2018:1129)*.
+
+#### 2 §
+
+Vid bedömningen av om vårdgarantin enligt 1 § 3 eller 4 är uppfylld ska inte räknas tid då den enskilde
+
+1. av medicinska skäl inte kan ges vård,
+
+2. utnyttjat sin möjlighet att välja vård i en annan region enligt 9 kap. 1 § patientlagen (2014:821), eller
+
+3. frivilligt avstår från vård.
+
+Den enskilde ska anses frivilligt avstå från vård om han eller hon har
+
+1. informerats om vårdgarantin,
+
+2. erbjudits vård i enlighet med vårdgarantin, och
+
+3. meddelat vårdgivaren att han eller hon avstår från erbjudandet om vård. *Förordning (2019:1118)*.
+
+#### 3 §
+
+Regionernas rapporteringsskyldighet enligt 9 kap. 3 § hälso- och sjukvårdslagen (2017:30) ska fullgöras genom att regionerna, till den nationella väntetidsdatabas som förs av Socialstyrelsen, lämnar uppgifter om väntetider som avser:
+
+1. aktivitet,
+
+2. tidpunkt för aktivitet,
+
+3. patientinformation,
+
+4. medicinsk patientinformation,
+
+5. vårdkontakt, och
+
+6. vårdgivare.
+
+Väntetidsdatabasen får inte innehålla uppgifter som avser en patients namn, personnummer, samordningsnummer eller andra liknande identitetsbeteckningar. *Förordning (2025:312)*.
+
+#### 3 a §
+
+Personuppgifter i den nationella väntetidsdatabasen får behandlas för följande ändamål:
+
+1. framställning av statistik,
+
+2. uppföljning, utvärdering och kvalitetssäkring av hälso- och sjukvård,
+
+3. forskning, och
+
+4. fullgörande av uppgiftslämnande som sker i överensstämmelse med lag eller förordning. *Förordning (2025:312)*.
+
+#### 3 b §
+
+Personuppgifter får lämnas ut elektroniskt, dock inte genom direktåtkomst. *Förordning (2025:312)*.
+
+#### 3 c §
+
+Socialstyrelsen ska bestämma villkor för tilldelning av behörighet för åtkomst till personuppgifter i den nationella väntetidsdatabasen. Behörigheten ska begränsas till det som var och en behöver för att fullgöra sina arbetsuppgifter.
+
+Åtkomsten till personuppgifter ska kontrolleras och följas upp regelbundet. *Förordning (2025:312)*.
+
+#### 4 §
+
+Socialstyrelsen får meddela ytterligare föreskrifter om regionernas rapporteringsskyldighet enligt 9 kap. 3 § hälso- och sjukvårdslagen (2017:30). *Förordning (2019:1118)*.
+
+## 6 a kap. Kommuners och regioners beredskap
+
+### Planering för hantering av katastroftillstånd och händelser som medför ett stort antal skadade eller sjuka
+
+#### 1 §
+
+Kommuner och regioner ska i sin planering för att upprätthålla beredskap för katastroftillstånd och händelser som medför ett stort antal skadade eller sjuka särskilt beakta
+
+1. behovet av åtgärder för ledning och samverkan på kort och lång sikt,
+
+2. behovet av åtgärder för uthållighet,
+
+3. behovet av och tillgången till resurser för hälso- och sjukvård, och
+
+4. behovet av att information når ut till alla grupper i samhället. *Förordning (2025:1318)*.
+
+#### 2 §
+
+Kommuner och regioner ska i en eller flera planer fastställa hur samverkan och ledning av hälso- och sjukvården på olika nivåer ska utövas när det råder katastroftillstånd och vid händelser som medför ett stort antal skadade eller sjuka.
+
+Av planen eller planerna ska särskilt framgå
+
+1. hur ansvaret för ledning och samverkan är fördelat på olika beslutande organ och enskilda tjänstemän,
+
+2. hur samverkan ska ske med aktörer på lokal, regional och nationell nivå och hur verksamheter ska samordnas,
+
+3. hur nödvändiga resurser kan tillgängliggöras,
+
+4. hur personal och andra resurser ska omdisponeras och hur resurser som inte finns omedelbart tillgängliga ska mobiliseras, och
+
+5. hur patienter vid behov skyndsamt ska kunna överföras för vård mellan regioner eller kommuner eller mellan en region och en kommun. *Förordning (2025:1318)*.
+
+### Tjänsteman i beredskap
+
+#### 3 §
+
+I varje region ska det finnas en funktion som ständigt är bemannad med uppgift att ta emot larm och larma vidare, verifiera uppgifter samt initiera och samordna det inledande arbetet vid katastroftillstånd eller händelser som medför ett stort antal skadade eller sjuka eller vid risk för sådana händelser (tjänsteman i beredskap). *Förordning (2025:1318)*.
+
+### Planeringsanvisningar för hälso- och sjukvård inför och under höjd beredskap
+
+#### 4 §
+
+Planeringsanvisningar för kommuners och regioners hälso- och sjukvård inför och under höjd beredskap ska utgå från regeringsbeslut som rör inriktningen av totalförsvaret och syfta till en sammanhängande planering för totalförsvarets hälso- och sjukvård inför och under höjd beredskap.
+
+Planeringsanvisningarna får innehålla särskilda åtgärder som en kommun eller region ska vidta för att säkerställa en viss förmåga. *Förordning (2025:1318)*.
+
+#### 5 §
+
+Socialstyrelsen får, efter att ha gett Försvarsmakten tillfälle att yttra sig, meddela ytterligare föreskrifter om planeringsanvisningar för hälso- och sjukvård inför och under höjd beredskap. *Förordning (2025:1318)*.
+
+#### 6 §
+
+Socialstyrelsen ska vid behov samverka med kommuner, regioner, Försvarsmakten, civilområdesansvariga länsstyrelser enligt förordningen (2022:525) om civilområdesansvariga länsstyrelser, Myndigheten för civilt försvar och de myndigheter som är beredskapsmyndigheter i beredskapssektorn hälsa, vård och omsorg enligt förordningen (2022:524) om statliga myndigheters beredskap, när Socialstyrelsen tar fram föreskrifter om planeringsanvisningar enligt 5 §.
+
+*Förordning (2025:1318)*.
+
+7§ Kommuner och regioner ska på begäran av Socialstyrelsen lämna de uppgifter som behövs för att myndigheten ska kunna ta fram föreskrifter om planeringsanvisningar enligt 5 §.
+
+Socialstyrelsen får meddela ytterligare föreskrifter om uppgiftsskyldigheten i första stycket. *Förordning (2025:1318)*.
+
+#### 8 §
+
+Kommuner och regioner ska, vid behov, samverka med varandra och med statliga myndigheter i genomförandet av sådana planeringsanvisningar som Socialstyrelsen får föreskriva om enligt 5 §. *Förordning (2025:1318)*.
+
+### Ärenden om hjälp under katastroftillstånd
+
+### Anmälan av hjälpbehov
+
+#### 9 §
+
+En anmälan om hjälp enligt 16 a kap. 3 § hälso- och sjukvårdslagen (2017:30) ska göras skyndsamt till Socialstyrelsen. *Förordning (2025:1318)*.
+
+#### 10 §
+
+Socialstyrelsen ska skyndsamt informera Regeringskansliet om att en kommun eller region har anmält ett hjälpbehov.
+
+*Förordning (2025:1318)*.
+
+### Samverkan och lägesbilder
+
+#### 11 §
+
+Kommuner, regioner och statliga myndigheter ska, efter det att en kommun eller region anmält ett hjälpbehov, på begäran av Socialstyrelsen samverka enligt 16 a kap. 4 § hälso- och sjukvårdslagen (2017:30) i frågor om att lämna hjälp. *Förordning (2025:1318)*.
+
+#### 12 §
+
+Socialstyrelsen ska, när en kommun eller region anmält ett hjälpbehov, löpande lämna en samlad lägesbild till Regeringskansliet. Den ska omfatta uppgifter om
+
+1. kommunens eller regionens hjälpbehov,
+
+2. andra kommuners och regioners möjlighet att lämna hjälp,
+
+3. statliga myndigheters möjlighet att lämna hjälp,
+
+4. hur situationen kan antas utvecklas över tid, och
+
+5. andra omständigheter av betydelse för en samlad lägesbild.
+
+*Förordning (2025:1318)*.
+
+### Skyldighet att lämna uppgifter
+
+#### 13 §
+
+Kommuner och regioner ska på begäran av Socialstyrelsen lämna de uppgifter som behövs i ärenden om hjälp enligt 16 a kap. 6 § hälso- och sjukvårdslagen (2017:30). Uppgifterna ska lämnas skyndsamt. *Förordning (2025:1318)*.
+
+### Beslut om hjälp
+
+#### 14 §
+
+Regeringens beslut om hjälp enligt 16 a kap. 5 § hälso- och sjukvårdslagen (2017:30) gäller omedelbart.
+
+*Förordning (2025:1318)*.
+
+#### 15 §
+
+Socialstyrelsen ska skyndsamt underrätta Regeringskansliet om det finns skäl för regeringen att besluta om att hjälp ska lämnas enligt 16 a kap. 5 § hälso- och sjukvårdslagen (2017:30).
+
+En underrättelse enligt första stycket ska innehålla
+
+1. en beskrivning av en kommuns eller regions hjälpbehov,
+
+2. förslag på hjälpåtgärder,
+
+3. när och hur hjälpen ska lämnas,
+
+4. omfattningen av hjälpen, och
+
+5. vilken kommun eller region som ska lämna hjälpen.
+
+*Förordning (2025:1318)*.
+
+#### 16 §
+
+Socialstyrelsen ska underrätta Regeringskansliet om det finns skäl för regeringen att besluta om att hjälp inte ska lämnas enligt 16 a kap. 5 § hälso- och sjukvårdslagen (2017:30). Underrättelsen ska innehålla den information som regeringen behöver. *Förordning (2025:1318)*.
+
+#### 17 §
+
+Efter att regeringen har fattat ett beslut om att hjälp ska lämnas, ska Socialstyrelsen följa upp och informera Regeringskansliet om läget för den kommun eller region som är mottagare av hjälpen. *Förordning (2025:1318)*.
+
+### Beslut om kvalificerat katastroftillstånd
+
+#### 18 §
+
+Socialstyrelsen ska skyndsamt underrätta Regeringskansliet om det finns skäl för regeringen att besluta om kvalificerat katastroftillstånd enligt 16 a kap. 9 § första stycket hälso- och sjukvårdslagen (2017:30).
+
+Socialstyrelsen ska skyndsamt underrätta Regeringskansliet om det finns skäl för regeringen att besluta om att det kvalificerade katastroftillståndet inte längre ska gälla enligt 16 a kap. 9 § andra stycket hälso- och sjukvårdslagen.
+
+*Förordning (2025:1318)*.
+
+### Övriga bemyndiganden
+
+#### 19 §
+
+Socialstyrelsen får meddela föreskrifter om kommuners och regioners skyldighet att erbjuda vård som är nödvändig för liv och hälsa enligt 16 a kap. 1 § hälso- och sjukvårdslagen (2017:30). *Förordning (2025:1318)*.
+
+#### 20 §
+
+Socialstyrelsen får meddela ytterligare föreskrifter om
+
+1. anmälan om hjälpbehov enligt 16 a kap. 3 § hälso- och sjukvårdslagen (2017:30),
+
+2. kommuners och regioners skyldighet att planera så att beredskap upprätthålls för katastroftillstånd och händelser som medför ett stort antal skadade eller sjuka enligt 7 kap. 2 b § och 11 kap. 2 a § hälso- och sjukvårdslagen,
+
+3. samverkan i frågor om att lämna hjälp enligt 16 a kap. 4 § hälso- och sjukvårdslagen, och
+
+4. kommuners och regioners uppgiftsskyldighet i ärenden om hjälp enligt 16 a kap. 6 § hälso- och sjukvårdslagen.
+
+*Förordning (2025:1318)*.
+
+#### 21 §
+
+Socialstyrelsen får meddela föreskrifter om verkställigheten av 1-20 §§. *Förordning (2025:1318)*.
+
+## 7 kap. Övriga bestämmelser
+
+#### 1 §
+
+Läkemedelsförråd som avses i 12 kap. 4 § hälso- och sjukvårdslagen (2017:30) ska innehålla flertalet av de läkemedel som de boende behöver (fullständigt förråd) eller enbart vissa basläkemedel (akutförråd).
+
+#### 2 §
+
+Regionen eller kommunen ska i fall som avses i 8 kap. 9 § eller 12 kap. 6 § hälso- och sjukvårdslagen (2017:30) tillhandahålla förbrukningsartiklar som fortlöpande behövs vid urininkontinens, urinretention eller tarminkontinens.
+
+*Förordning (2019:1118)*.
+
+## 8 kap. Övriga bemyndiganden
+
+#### 1 §
+
+Socialstyrelsen får meddela föreskrifter om hälso- och sjukvård som behövs till skydd för enskilda.
+
+#### 2 §
+
+Socialstyrelsen får meddela de ytterligare föreskrifter som behövs för verkställigheten av 5 kap. 4 § hälso- och sjukvårdslagen (2017:30).
+
+#### 3 §
+
+Socialstyrelsen får meddela föreskrifter om
+
+1. innehållet i den listningstjänst som avses i 7 kap. 3 a § tredje stycket hälso- och sjukvårdslagen (2017:30),
+
+2. kösystem inom listningstjänsten, och
+
+3. val av utförare på annat sätt än genom listningstjänsten.
+
+Socialstyrelsen får även meddela närmare föreskrifter om den listningstjänst som avses i 7 kap. 3 a § tredje stycket hälso- och sjukvårdslagen. *Förordning (2022:339)*.
+
+#### 4 §
+
+Socialstyrelsen får meddela föreskrifter om utformningen av och innehållet i sådana avtal om läkarmedverkan som avses i 16 kap. 1 § hälso- och sjukvårdslagen (2017:30). *Förordning (2026:1389)*.
+
+## Övergångsbestämmelser
+
+**2017:80**
+
+1. Denna förordning träder i kraft den 1 april 2017.
+
+2. Genom förordningen upphävs
+
+a) förordningen (1982:777) om rikets indelning i regioner för hälso- och sjukvård som berör flera landstingskommuner,
+
+b) förordningen (1996:933) om verksamhetschef inom hälso- och sjukvården,
+
+c) förordningen (1998:1518) om behörighet till vissa anställningar inom hälso- och sjukvården m.m.,
+
+d) förordningen (2010:349) om vårdgaranti.
+
+3. Vid tillämpningen av 4 kap. 6 § ska sjukgymnast jämställas med fysioterapeut.
+
+4. Behörig för anställning som läkare enligt 5 kap. 3 § är även den som har bevis om kompetens som allmänpraktiserande läkare (Europaläkare) enligt 4 kap. 7 § patientsäkerhetslagen (2010:659) i dess lydelse före den 1 juli 2012.
+
+5. Behörig för anställning som fysioterapeut enligt 5 kap. 5 §, eller som vikarie på sådan anställning, är även den som har legitimation som sjukgymnast.

@@ -1,0 +1,24 @@
+---
+title: "Lag (2005:106) om statliga grupplivförsäkringar"
+identifier: "SFS 2005:106"
+type: act
+jurisdiction: se
+language: sv
+date: 2005-03-10
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-106.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:106"
+retrieved: 2026-10-11
+---
+# Lag (2005:106) om statliga grupplivförsäkringar
+
+Bestämmelserna i 12 kap. 1-4 och 6-12 §§, 14 och 15 kap., 16 kap. 1-5 och 10 §§ samt 20 kap. 4, 10, 12 och 13 §§ försäkringsavtalslagen (2005:104) gäller för grupplivförsäkringar som meddelas av staten. Vid tillämpning av 14 och 15 kap. och i fråga om rätten till försäkringsersättning i övrigt anses varje försäkrad som försäkringstagare, om försäkringen gäller på hans liv.
+
+Försäkringsvillkor, som i jämförelse med de i första stycket angivna bestämmelserna är till nackdel för den försäkrade eller hans rättsinnehavare, är tillåtna om villkoren har godkänts av en central arbetstagarorganisation.
+
+## Övergångsbestämmelser
+
+**2005:106**
+
+Denna lag träder i kraft den 1 januari 2006 och tillämpas även på försäkringar som har meddelats dessförinnan. Det som sägs i punkterna 6 och 7 övergångsbestämmelserna till försäkringsavtalslagen (2005:104) skall dock tillämpas på motsvarande sätt. I fråga om försäkringsfall som har inträffat före ikraftträdandet tillämpas äldre rätt.

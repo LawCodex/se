@@ -1,0 +1,103 @@
+---
+title: "Lag (2015:51) om idrottsorganisationers behandling av uppgifter om tillträdesförbud"
+identifier: "SFS 2015:51"
+type: act
+jurisdiction: se
+language: sv
+date: 2015-02-19
+amended_through: "SFS 2018:1710"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2015-51.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:51"
+retrieved: 2026-10-11
+---
+# Lag (2015:51) om idrottsorganisationers behandling av uppgifter om tillträdesförbud
+
+## Lagens syfte
+
+### 1 §
+
+Syftet med denna lag är att göra det möjligt för idrottsorganisationer som anordnar idrottsarrangemang att behandla personuppgifter för att på ett ändamålsenligt sätt kunna upprätthålla gällande beslut enligt lagen (2005:321) om tillträdesförbud vid idrottsarrangemang och att skydda människor mot att deras personliga integritet kränks vid sådan behandling. *Lag (2018:1710)*.
+
+## Lagens tillämpningsområde
+
+### 2 §
+
+Denna lag gäller vid idrottsorganisationers behandling av personuppgifter från det tillträdesförbudsregister som förs enligt lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område för att upprätthålla gällande beslut om tillträdesförbud.
+
+Lagen gäller för behandling som är helt eller delvis automatiserad eller om personuppgifterna ingår i eller är avsedda att ingå i en strukturerad samling av personuppgifter som är tillgängliga för sökning eller sammanställning enligt särskilda kriterier. Lagen gäller även för annan behandling i fall som avses i 8 §. *Lag (2018:1710)*.
+
+## Förhållandet till annan reglering
+
+### 3 §
+
+Denna lag kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning).
+
+Vid behandling av personuppgifter enligt denna lag gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna lag eller föreskrifter som har meddelats i anslutning till lagen. *Lag (2018:1710)*.
+
+## Personuppgiftsansvar
+
+### 4 §
+
+Varje idrottsorganisation är personuppgiftsansvarig för den behandling av personuppgifter som organisationen utför. *Lag (2018:1710)*.
+
+## Ändamål med personuppgiftsbehandlingen
+
+### 5 §
+
+En idrottsorganisation får behandla personuppgifter från tillträdesförbudsregistret om det behövs för att förebygga, förhindra eller upptäcka överträdelse av ett tillträdesförbud vid ett idrottsarrangemang som organisationen anordnar.
+
+*Lag (2018:1710)*.
+
+## Tillgången till personuppgifter
+
+### 6 §
+
+Tillgången till personuppgifter ska begränsas till vad den som arbetar eller utför uppdrag åt en idrottsorganisation behöver för att kunna fullgöra arbetsuppgifterna eller uppdraget.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om tillgången till personuppgifter.
+
+*Lag (2018:1710)*.
+
+## Längsta tid som personuppgifter får behandlas
+
+### 7 §
+
+Personuppgifter som en idrottsorganisation har fått tillgång till från tillträdesförbudsregistret får inte behandlas efter det att tillträdesförbudets giltighetstid löpt ut eller om tillträdesförbudet dessförinnan upphävts.
+
+*Lag (2018:1710)*.
+
+## Tystnadsplikt
+
+### 8 §
+
+Den som arbetar eller utför uppdrag åt en idrottsorganisation och som tar befattning med en uppgift som har inhämtats med stöd av denna lag får inte obehörigen röja vad han eller hon på detta sätt har fått veta om någon enskilds personliga förhållanden. I det allmännas verksamhet tillämpas i stället bestämmelserna i offentlighets- och sekretesslagen (2009:400). *Lag (2018:1710)*.
+
+### 9 §
+
+Har upphävts genom *lag (2018:1710)*.
+
+### 10 §
+
+Har upphävts genom *lag (2018:1710)*.
+
+### 11 §
+
+Har betecknats 6 § genom *lag (2018:1710)*
+
+### 12 §
+
+Har upphävts genom *lag (2018:1710)*.
+
+### 13 §
+
+Har betecknats 7 § genom *lag (2018:1710)*.
+
+### 14 §
+
+Har betecknats 8 § genom *lag (2018:1710)*.
+
+### 15 §
+
+Har upphävts genom *lag (2018:1710)*.

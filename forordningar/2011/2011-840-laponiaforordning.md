@@ -1,0 +1,59 @@
+---
+title: "Laponiaförordning (2011:840)"
+identifier: "SFS 2011:840"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-06-16
+amended_through: "SFS 2026:863"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-840.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:840"
+retrieved: 2026-10-11
+---
+# Laponiaförordning (2011:840)
+
+## 1 §
+
+Denna förordning är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+## 2 §
+
+Med Laponiatjuottjudus avses i denna förordning en ideell förening som har bildats för förvaltning av världsarvet Laponia och som består av samebyarna Báste cearru, Gällivare, Jåhkågasska tjiellde, Luokta-Mávas, Sierri, Sirges, Tuorpon, Udtja och Unna tjerusj samt Länsstyrelsen i Norrbottens län, Naturvårdsverket, Gällivare kommun och Jokkmokks kommun.
+
+## 3 §
+
+Länsstyrelsen i Norrbottens län får i fråga om världsarvet Laponia överlåta till Laponiatjuottjudus att
+
+1. förvalta och sköta de nationalparker och naturreservat som ingår i Laponia enligt den skötselplan och de föreskrifter som gäller för parkerna och reservaten samt enligt den förvaltningsplan som i enlighet med Förenta nationernas samarbetsorgan Unescos riktlinjer har tagits fram för Laponia,
+
+2. sprida kunskap och information om de värden som ligger till grund för världsarvsutnämningen samt om de nationalparker och naturreservat som ingår i Laponia, och
+
+3. i enlighet med skötselplanen och förvaltningsplanen
+
+a) svara för att de byggnader och anläggningar för det rörliga friluftslivet som finns inom Laponia används på ett sätt som är förenligt med ändamålet med Laponia,
+
+b) underhålla och sköta det fjälledssystem som finns inom Laponia, och
+
+c) underhålla, sköta och utveckla anläggningar och byggnader för det rörliga friluftslivet samt övrig verksamhet inom Laponia. *Förordning (2026:863)*.
+
+## 4 §
+
+Uppgifter som innefattar myndighetsutövning får inte överlåtas enligt 3 §.
+
+## 5 §
+
+Om Laponiatjuottjudus har åtagit sig att utföra de uppgifter som anges i 3 §, ska Laponiatjuottjudus årligen till Länsstyrelsen i Norrbottens län redovisa
+
+1. hur uppgifterna har utförts,
+
+2. hur förvaltnings- och skötselplanen har uppfyllts,
+
+3. föreningens förvaltning och räkenskaper, inklusive revisionsberättelsen, och
+
+4. de behov av utveckling av förvaltningen som har identifierats och förslag på hur dessa behov kan tillgodoses. *Förordning (2026:863)*.
+
+## 6 §
+
+Länsstyrelsen i Norrbottens län ska senast den 15 april varje år till regeringen lämna en sammanfattning av Laponiatjuottjudus redovisning enligt 5 §. *Förordning (2026:863)*.

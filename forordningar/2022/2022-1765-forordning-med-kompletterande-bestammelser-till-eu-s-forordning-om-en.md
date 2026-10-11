@@ -1,0 +1,51 @@
+---
+title: "Förordning (2022:1765) med kompletterande bestämmelser till EU:s förordning om en paneuropeisk privat pensionsprodukt (PEPP-produkt)"
+identifier: "SFS 2022:1765"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2022-12-08
+amended_through: "SFS 2025:208"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-1765.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:1765"
+retrieved: 2026-10-11
+---
+# Förordning (2022:1765) med kompletterande bestämmelser till EU:s förordning om en paneuropeisk privat pensionsprodukt (PEPP-produkt)
+
+## 1 §
+
+Denna förordning kompletterar lagen (2022:1746) med kom- pletterande bestämmelser till EU:s förordning om en paneuropeisk privat pensionsprodukt (PEPP-produkt). Termer och uttryck i denna förordning har samma betydelse som i den lagen.
+
+Förordningen är meddelad med stöd av
+
+- 1 kap. 10 §, 2 kap. 5 § och 8 kap. 5 § lagen med kompletterande bestämmelser till EU:s förordning om en paneuropeisk privat pensionsprodukt (PEPP-produkt) i fråga om 2 och 4 §§, och
+
+- 8 kap. 7 § regeringsformen i fråga om 3 §.
+
+*Förordning (2025:208)*.
+
+## 2 §
+
+Finansinspektionen får meddela föreskrifter om
+
+1. kraven för bedömning av kunskap och kompetens enligt artikel 34.6 i EU-förordningen,
+
+2. att PEPP-sparinstitut ska förse PEPP-sparare med ytterligare prognoser för pensionsförmåner och om innehållet i sådana prognoser,
+
+3. på vilket språk ett PEPP-faktablad enligt artikel 26 i EU- förordningen ska upprättas,
+
+4. produktingripanden enligt artikel 63 i EU-förordningen, och
+
+5. information som ett PEPP-sparinstitut ska lämna enligt artikel 40.1 i EU-förordningen.
+
+## 3 §
+
+Finansinspektionen ska snarast underrätta Bolagsverket, om inspektionen med stöd av 9 kap. 7 § lagen (2022:1746) med kompletterande bestämmelser till EU:s förordning om en paneuropeisk privat pensionsprodukt (PEPP-produkt) har beslutat att en fysisk person under en viss tid inte får vara styrelseledamot eller verkställande direktör, eller ersättare för någon av dem, i ett svenskt PEPP-sparinstitut, en svensk PEPP-distributör eller ett svenskt förvaringsinstitut.
+
+## 4 §
+
+Polismyndigheten får meddela föreskrifter om hur uppgifter enligt 1 kap. 5 a § första stycket lagen (2022:1746) med kompletterande bestämmelser till EU:s förordning om en paneuropeisk privat pensionsprodukt (PEPP-produkt) ska lämnas.
+
+*Förordning (2025:208)*.

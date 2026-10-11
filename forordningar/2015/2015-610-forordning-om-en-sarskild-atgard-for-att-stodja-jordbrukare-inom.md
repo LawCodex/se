@@ -1,0 +1,77 @@
+---
+title: "Förordning (2015:610) om en särskild åtgärd för att stödja jordbrukare inom sektorn för animalieproduktion"
+identifier: "SFS 2015:610"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2015-10-29
+amended_through: "SFS 2015:1015"
+department: "Näringsdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2015-610.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:610"
+retrieved: 2026-10-11
+---
+# Förordning (2015:610) om en särskild åtgärd för att stödja jordbrukare inom sektorn för animalieproduktion
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning finns bestämmelser som kompletterar
+
+1. artikel 219.1 i Europaparlamentets och rådets förordning (EU) nr 1308/2013 av den 17 december 2013 om upprättande av en samlad marknadsordning för jordbruksprodukter och om upphävande av rådets förordningar (EEG) nr 922/72, (EEG) nr 234/79, (EG) nr 1037/2001 och (EG) nr 1234/2007, och
+
+2. kommissionens delegerade förordning (EU) 2015/1853 av den 15 oktober 2015 om tillfälligt extraordinärt stöd till jordbrukare inom sektorn för animalieproduktion.
+
+### 2 §
+
+Stöd enligt denna förordning får, i mån av tillgång på medel, lämnas till jordbrukare som producerat komjölk.
+
+Stödet lämnas för den mängd mjölk som rapporterats till Statens jordbruksverk för en jordbrukare enligt förordningen (1999:1319) om mjölkkvoter eller föreskrifter som har meddelats med stöd av den förordningen.
+
+Stödet lämnas med ett visst belopp per kilogram mjölk för den mängd mjölk som rapporterats enligt andra stycket. Stödet lämnas vid ett tillfälle under 2015 och ett tillfälle under 2016.
+
+## Villkor för stöd
+
+### 3 §
+
+Mjölken ska antingen ha levererats till mejeri eller sålts direkt under tidsperioden från och med den 1 april 2014 till och med den 31 mars 2015.
+
+### 4 §
+
+En förutsättning för att stöd ska lämnas under 2015 är att en jordbrukare har bedrivit mjölkproduktion under augusti 2015.
+
+En förutsättning för att stöd ska lämnas under 2016 är att en jordbrukare har bedrivit mjölkproduktion under april 2016.
+
+### 4 a §
+
+Om det finns särskilda skäl får stöd enligt förordningen lämnas även om villkoren i 3 och 4 §§ inte är uppfyllda. *Förordning (2015:1015)*.
+
+## Handläggning av stöd
+
+### 5 §
+
+Jordbruksverket prövar frågor om stöd och utbetalning av stöd utan ansökan.
+
+### 6 §
+
+Stöd betalas inte ut med belopp lägre än 1 000 kronor per betalningstillfälle.
+
+## Uppgifter om stöd
+
+### 7 §
+
+Jordbruksverket ska fullgöra den uppgiftsskyldighet som föreskrivs i artikel 3 i kommissionens delegerade förordning (EU) 2015/1853 av den 15 oktober 2015 om tillfälligt extraordinärt stöd till jordbrukare inom sektorn för animalieproduktion.
+
+## Föreskrifter om stöd
+
+### 8 §
+
+Jordbruksverket får meddela föreskrifter om det belopp som avses i 2 § tredje stycket.
+
+## Överklagande
+
+### 9 §
+
+Beslut enligt denna förordning får inte överklagas.

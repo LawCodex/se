@@ -1,0 +1,183 @@
+---
+title: "Förordning (2015:579) om stöd för att främja hållbara stadsmiljöer"
+identifier: "SFS 2015:579"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2015-10-01
+amended_through: "SFS 2019:1110"
+department: "Landsbygds- och infrastrukturdepartementet SPN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2015-579.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:579"
+retrieved: 2026-10-11
+---
+# Förordning (2015:579) om stöd för att främja hållbara stadsmiljöer
+
+> Rättelseblad 2017:9 har iakttagits.
+
+## Syfte
+
+### 1 §
+
+För att främja hållbara stadsmiljöer får Trafikverket, om det finns medel för ändamålet, ge stöd enligt denna förordning till kommuner och regioner för åtgärder i städer som leder till
+
+1. ökad andel persontransporter med kollektivtrafik eller cykeltrafik, eller
+
+2. hållbara godstransportlösningar.
+
+Åtgärderna ska leda till energieffektiva lösningar med låga utsläpp av växthusgaser och bidra till att miljökvalitetsmålet God bebyggd miljö nås.
+
+Stödet bör särskilt främja innovativa, kapacitetsstarka och resurseffektiva lösningar för kollektivtrafik, cykeltrafik eller godstransporter. *Förordning (2019:1110)*.
+
+## Åtgärder för att tillgodose lokala eller regionala transportbehov
+
+### 2 §
+
+Stöd får ges till investeringar som tillgodoser ett allmänt lokalt eller regionalt transportbehov och som avser
+
+1. en väg, gata, spåranläggning, kaj för lokala eller regionala persontransporter, perrong, hållplats, vänthall eller annan anläggning eller del av anläggning för lokal eller regional kollektivtrafik,
+
+2. ett cykelvägnät, en cykelparkering eller annan anläggning eller del av anläggning för cykeltrafik, eller
+
+3. en väg, gata, spåranläggning, lastplats, samlastningsplats eller annan anläggning eller del av anläggning för samlastning av godstransporter, samordnad citylogistik eller gods på cykel för lokal eller regional distribution.
+
+Stöd får dock inte ges till anläggningar med uthyrning av lokaler. *Förordning (2019:199)*.
+
+## Åtgärder för nya transportlösningar
+
+### 3 §
+
+Stöd får ges till investeringar i en anläggning eller del av anläggning för att demonstrera eller prova nya transportlösningar för lokal eller regional kollektivtrafik, cykeltrafik eller godstransport. *Förordning (2019:199)*.
+
+### 4 §
+
+Stöd enligt 3 § får endast ges i enlighet med kapitel I och artikel 56 i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget. *Förordning (2017:9)*.
+
+## Begränsningar för stöd
+
+### 5 §
+
+En förutsättning för stöd är att ansökan har getts in innan arbetet med den åtgärd som stödet söks för har inletts.
+
+## Stödnivå
+
+### 6 §
+
+Stöd får ges med högst 50 procent av kostnaderna för att genomföra åtgärden.
+
+Vid fastställandet av stödnivån ska Trafikverket ta hänsyn till om kommunen eller regionen har sökt eller beviljats annan offentlig eller privat finansiering för att genomföra åtgärden. *Förordning (2019:1110)*.
+
+## Motprestationer
+
+### 7 §
+
+Som villkor för stöd ska kommunen eller regionen genomföra motprestationer i form av andra åtgärder än de som stödet avser och som bidrar till en ökad andel hållbara transporter eller ökat bostadsbyggande. *Förordning (2019:1110)*.
+
+## Förfarandet
+
+### 8 §
+
+En ansökan om stöd ges in till och prövas av Trafikverket. Ansökan ska ske enligt det formulär som verket tillhandahåller.
+
+Ansökan ska innehålla
+
+1. en beskrivning av de åtgärder som stöd söks för, inklusive planerad start- och sluttidpunkt, och en analys av hur åtgärderna uppfyller syftet med förordningen,
+
+2. en förteckning över kostnader för åtgärderna enligt 1 och uppgift om när kostnaderna planeras att redovisas till verket,
+
+3. uppgift om huruvida annan finansiering har sökts eller beviljats för att genomföra åtgärderna enligt 1,
+
+4. en beskrivning av de motprestationer enligt 7 § som kommunen eller regionen åtar sig att genomföra, hur de passar in i kommunens eller regionens övergripande arbete med en hållbar stadsmiljö och deras planerade start- och sluttidpunkt, och
+
+5. övriga uppgifter som verket behöver för att pröva ansökan.
+
+*Förordning (2019:1110)*.
+
+### 9 §
+
+Trafikverkets beslut om stöd ska ange
+
+1. vilka åtgärder som stödet avser,
+
+2. de motprestationer som kommunen eller regionen enligt 7 § ska genomföra,
+
+3. stödnivå och ett högsta belopp som kan betalas ut,
+
+4. planerad start- och sluttidpunkt för åtgärderna enligt 1 och motprestationerna enligt 2,
+
+5. hur uppföljning, rapportering och redovisning av kostnader ska ske, och
+
+6. övriga villkor som behövs för att syftet med stödet ska tillgodoses. *Förordning (2019:1110)*.
+
+### 10 §
+
+Stödet betalas ut årsvis mot redovisning av nedlagda kostnader. Trafikverket får dock besluta att betala ut högst 50 procent av det beviljade stödet i förskott. De kostnader som kommunen eller regionen redovisar ska löpande räknas av mot det förskottsvis utbetalade beloppet.
+
+*Förordning (2019:1110)*.
+
+### 10 a §
+
+Trafikverket får inte betala ut ett stöd till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarar ett stöd olagligt och oförenligt med den inre marknaden.
+
+*Förordning (2017:366)*.
+
+### 11 §
+
+Trafikverket ska besluta att helt eller delvis inte betala ut stödet om
+
+1. stödet har beviljats felaktigt eller med för högt belopp, eller
+
+2. väsentliga villkor för stödet inte har följts.
+
+### 12 §
+
+Mottagaren av ett stöd som har betalats ut enligt denna förordning är återbetalningsskyldig om det finns grund för det enligt 11 §. *Förordning (2019:1110)*.
+
+### 12 a §
+
+Om en stödmottagare är återbetalningsskyldig enligt 12 § ska Trafikverket besluta att helt eller delvis kräva tillbaka stödet tillsammans med ränta. *Förordning (2019:1110)*.
+
+## Rapportering, uppföljning och registerföring
+
+### 13 §
+
+En kommun eller en region som har fått stöd ska i samband med redovisningen av kostnaderna till Trafikverket rapportera hur genomförandet av de åtgärder som stödet avser och de motprestationer som enligt 9 § 2 ska genomföras fortskrider.
+
+När de åtgärder som stödet avser har genomförts ska en slutrapport ges in till verket. Rapporten ska ges in inom sex månader från den planerade sluttidpunkt som framgår av stödbeslutet, om inte verket beslutar annat.
+
+Om motprestationerna enligt 9 § 2 inte har slutförts när slutrapporten ges in, ska en uppdaterad slutrapport ges in till verket senast sex månader efter att motprestationerna slutförts. *Förordning (2019:1110)*.
+
+### 14 §
+
+Slutrapporten ska innehålla
+
+1. en ekonomisk slutredovisning av de åtgärder som stödet beviljats för,
+
+2. en redovisning av vilka effekter som åtgärderna har gett,
+
+3. en redovisning av hur motprestationerna enligt 9 § 2 genomförts, och
+
+4. en redogörelse för kommunens eller regionens arbete för en hållbar stadsmiljö och hur åtgärderna och motprestationerna har bidragit i det arbetet. *Förordning (2019:1110)*.
+
+### 15 §
+
+Trafikverket ska följa upp att syftet med stödet enligt denna förordning tillgodoses. Verket ska varje år i samband med sin årsredovisning till regeringen rapportera hur medlen använts, vilka motprestationer som kommunerna och regionerna ska genomföra och vilka resultat som uppnåtts.
+
+*Förordning (2019:1110)*.
+
+### 16 §
+
+När stöd ges enligt 3 och 4 §§ ska Trafikverket föra det register som avses i artikel 12 i kommissionens förordning (EU) nr 651/2014. *Förordning (2017:9)*.
+
+## Bemyndigande
+
+### 17 §
+
+Trafikverket får meddela föreskrifter om verkställigheten av denna förordning.
+
+## Överklagande
+
+### 18 §
+
+Beslut enligt denna förordning får inte överklagas.

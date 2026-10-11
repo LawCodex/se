@@ -1,0 +1,131 @@
+---
+title: "Lag (2018:550) med kompletterande bestämmelser till EU:s energimärkningsförordning"
+identifier: "SFS 2018:550"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-05-24
+amended_through: "SFS 2022:1141"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-550.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:550"
+retrieved: 2026-10-11
+---
+# Lag (2018:550) med kompletterande bestämmelser till EU:s energimärkningsförordning
+
+### Lagens innehåll
+
+#### 1 §
+
+Denna lag kompletterar Europaparlamentets och rådets förordning (EU) 2017/1369 av den 4 juli 2017 om fastställande av en ram för energimärkning och om upphävande av direktiv 2010/30/EU, i den ursprungliga lydelsen (EU:s energimärkningsförordning).
+
+### Ordförklaringar
+
+#### 2 §
+
+I denna lag betyder
+
+- EU:s marknadskontrollförordning: Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011, och
+
+- marknadskontrollmyndighet: den myndighet som utövar marknadskontroll enligt EU:s energimärkningsförordning, EU:s marknadskontrollförordning och denna lag. *Lag (2022:1141)*.
+
+### Marknadskontrollmyndighet
+
+#### 3 §
+
+Den myndighet som regeringen bestämmer ska vara marknadskontrollmyndighet.
+
+Bestämmelser om marknadskontroll finns i EU:s energimärkningsförordning och i EU:s marknadskontrollförordning. *Lag (2021:682)*.
+
+#### 3 a §
+
+Vid marknadskontroll enligt EU;s marknadskontrollförordning har marknadskontrollmyndigheten befogenhet
+
+1. att enligt artikel 14.4 a-14.4 c kräva att ekonomiska aktörer ska tillhandahålla handlingar, specifikationer, data eller uppgifter,
+
+2. att enligt artikel 14.4 d utföra oanmälda inspektioner på plats och fysiska kontroller av produkter,
+
+3. att enligt artikel 14.4 e få tillträde till lokaler, mark eller transportmedel,
+
+4. att enligt artikel 14.4 f inleda undersökningar på eget initiativ,
+
+5. att enligt artikel 14.4 g kräva att ekonomiska aktörer ska vidta lämpliga åtgärder för att få en bristande överensstämmelse att upphöra eller att eliminera en risk,
+
+6. att enligt artikel 14.4 h själv vidta åtgärder,
+
+7. att enligt artikel 14.4 j införskaffa, inspektera och demontera varuprover, och
+
+8. att enligt artikel 14.4 k kräva att innehåll på ett onlinegränssnitt ska avlägsnas, att en varning ska visas eller att åtkomsten ska begränsas.
+
+Marknadskontrollmyndigheten får införskaffa ett varuprov under dold identitet enligt artikel 14.4 j i förordning (EU) 2019/1020 endast om det är nödvändigt för att syftet med kontrollen ska uppnås. Myndigheten ska underrätta den ekonomiska aktören om att införskaffandet har skett under dold identitet, så snart det går utan att syftet med åtgärden går förlorat.
+
+Befogenheten enligt första stycket 8 gäller inte i fråga om databaser som omfattas av tryckfrihetsförordningens eller yttrandefrihetsgrundlagens skydd.
+
+När ändrade förhållanden ger anledning till det, ska marknadskontrollmyndigheten besluta att en sådan skyldighet som avses i första stycket 8 inte längre ska gälla. *Lag (2022:1141)*.
+
+### Förelägganden
+
+#### 4 §
+
+Marknadskontrollmyndigheten får besluta de förelägganden som behövs i ett enskilt fall för att EU:s energimärkningsförordning och EU:s marknadskontrollförordning ska följas. *Lag (2022:1141)*.
+
+#### 5 §
+
+Ett beslut enligt 3 a eller 4 § får förenas med vite.
+
+*Lag (2021:682)*.
+
+### Omedelbar verkställbarhet
+
+#### 6 §
+
+Marknadskontrollmyndigheten får, när den fattar beslut enligt 3 a eller 4 §, bestämma att beslutet ska gälla omedelbart. *Lag (2021:682)*.
+
+### Hjälp från Polismyndigheten
+
+#### 7 §
+
+På begäran av marknadskontrollmyndigheten ska Polismyndigheten ge den hjälp som behövs när marknadskontrollmyndigheten vidtar åtgärder enligt 3 a §, om
+
+1. det på grund av särskilda omständigheter kan befaras att åtgärden inte kan utföras utan att en polismans särskilda befogenheter enligt 10 § polislagen (1984:387) behöver användas, eller
+
+2. det annars finns synnerliga skäl.
+
+*Lag (2021:682)*.
+
+### Ekonomisk ersättning
+
+#### 8 §
+
+En leverantör ska ersätta marknadskontrollmyndigheten för kostnader för granskning av handlingar samt för provtagning och undersökning av prov, om det vid kontrollen visar sig att produkten inte uppfyller kraven enligt EU:s energimärkningsförordning.
+
+#### 9 §
+
+Marknadskontrollmyndigheten ska ersätta en leverantör för varuprover och liknande, om det finns särskilda skäl för det.
+
+### Tystnadsplikt
+
+#### 10 §
+
+Den som har befattat sig med ett ärende som gäller marknadskontroll enligt EU:s energimärkningsförordning och denna lag får inte obehörigen röja eller utnyttja vad han eller hon då har fått veta om någons affärs- eller driftförhållanden.
+
+I det allmännas verksamhet tillämpas offentlighets- och sekretesslagen (2009:400).
+
+### Överklagande
+
+#### 11 §
+
+Marknadskontrollmyndighetens beslut enligt denna lag får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+## Övergångsbestämmelser
+
+**2018:550**
+
+1. Denna lag träder i kraft den 1 juli 2018.
+
+2. Genom lagen upphävs lagen (2011:721) om märkning av energirelaterade produkter.
+
+3. Äldre föreskrifter gäller fortfarande för förelägganden och förbud som har beslutats före ikraftträdandet.

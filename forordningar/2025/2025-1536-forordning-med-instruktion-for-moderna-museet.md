@@ -1,0 +1,179 @@
+---
+title: "Förordning (2025:1536) med instruktion för Moderna museet"
+identifier: "SFS 2025:1536"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2025-12-11
+amended_through: "SFS 2026:1479"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-1536.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:1536"
+retrieved: 2026-10-11
+---
+# Förordning (2025:1536) med instruktion för Moderna museet
+
+### Uppgifter
+
+#### 1 §
+
+Moderna museet har i uppgift att
+
+1. vårda, förteckna, vetenskapligt bearbeta och genom nyförvärv berika de samlingar som anförtrotts myndigheten,
+
+2. göra samlingarna tillgängliga för allmänheten, ordna utställningar, bedriva pedagogisk verksamhet samt bedriva utlånings- och depositionsverksamhet,
+
+3. medverka till att skapa offentlig konst och gestaltningar som blir betydelsefulla inslag i samhällets miljöer,
+
+4. främja förståelsen och intresset för konstens, den offentliga konstens, arkitekturens, designens och formens värden och betydelse för individen och för samhällets utveckling,
+
+5. verka för ökad kunskap grundad på praktik och forskning inom sitt verksamhetsområde, och
+
+6. bedriva internationellt och interkulturellt utbyte och samarbete.
+
+#### 2 §
+
+Myndighetens ansvars- och samlingsområden omfattar konst i alla dess former samt föremål som har samband med arkitekturområdet, företrädesvis från tiden efter år 1900.
+
+#### 2 a §
+
+Myndigheten ska delta i det samverkansråd vid Statens kulturråd som ska samordna de nationella kulturpolitiska intressena inom ramen för kultursamverkansmodellen.
+
+*Förordning (2026:1479)*.
+
+#### 3 §
+
+Myndigheten har tillsyn över konst som tillhör staten och som finns hos statliga myndigheter. Bestämmelser om denna tillsyn finns i förordningen (2025:1535) om vård av statens konst.
+
+#### 4 §
+
+Utöver de uppgifter som myndigheten har enligt 1-3 §§ får den tillhandahålla varor samt åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde.
+
+### Rapportering
+
+#### 5 §
+
+Myndigheten ska rapportera uppgifter om sin besöksutveckling till Myndigheten för kulturanalys. Myndigheterna ska samråda om vilken rapportering som behövs.
+
+#### 6 §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd. Myndigheterna ska samråda om vilken rapportering som behövs.
+
+#### 6 a §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1479)*.
+
+### Samverkan
+
+#### 7 §
+
+Myndigheten ska samverka med Nationalmuseum om gemensamma funktioner.
+
+### Ledning
+
+#### 8 §
+
+Myndigheten leds av en styrelse.
+
+#### 9 §
+
+Styrelsen består av högst nio ledamöter.
+
+### Centrum för arkitektur, form, design och offentlig konst
+
+#### 10 §
+
+Inom myndigheten finns ett centrum för arkitektur, form, design och offentlig konst.
+
+Inom sitt område ska centrumet vara en nationell mötesplats för kunskap grundad på praktik och forskning.
+
+Arbetet inom centrumet ska bidra till att det mål som riksdagen har fastställt för arkitektur, form och design uppnås.
+
+### Särskilt beslutsorgan
+
+#### 11 §
+
+Inom myndigheten finns ett särskilt beslutsorgan som benämns Statens konstråd.
+
+Statens konstråd beslutar om beställning och förvärv av samtidskonst till statens byggnader och andra lokaler.
+
+#### 12 §
+
+Statens konstråd består av en ordförande och högst sex andra ledamöter.
+
+Ordföranden och de andra ledamöterna i Statens konstråd utses av myndigheten för en bestämd tid, dock högst tre år.
+
+Statens konstråd är beslutsför när ordföranden och minst hälften av de andra ledamöterna är närvarande.
+
+#### 13 §
+
+Statens konstråd ansvarar för sina beslut.
+
+Statens konstråd ansvarar för sin verksamhet inför myndighetens ledning.
+
+#### 14 §
+
+Myndighetens ledning ansvarar inför regeringen för att Statens konstråd tilldelas resurser för sin verksamhet samt för att verksamheten bedrivs författningsenligt och effektivt och redovisas på ett tillförlitligt sätt.
+
+### Anställningar och uppdrag
+
+#### 15 §
+
+Överintendenten är myndighetschef.
+
+### Personalansvarsnämnd
+
+#### 16 §
+
+Vid myndigheten finns en personalansvarsnämnd.
+
+### Tillämpligheten av vissa förordningar
+
+#### 17 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+### Avgifter
+
+#### 18 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 1 § 2 och för lokaler.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 4 §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1479)*.
+
+#### 19 §
+
+För barn och unga under 19 år ska myndigheten ha fri entré till alla utställningar.
+
+### Undantag från myndighetsförordningen
+
+#### 20 §
+
+Myndigheten ska inte tillämpa 29 § myndighetsförordningen (2007:515) om ärendeförteckning.
+
+## Övergångsbestämmelser
+
+**2025:1536**
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Genom förordningen upphävs
+
+a) förordningen (2007:1177) med instruktion för Moderna museet,
+
+b) förordningen (2007:1188) med instruktion för Statens konstråd,
+
+c) förordningen (2013:71) med instruktion för Statens centrum för arkitektur och design.

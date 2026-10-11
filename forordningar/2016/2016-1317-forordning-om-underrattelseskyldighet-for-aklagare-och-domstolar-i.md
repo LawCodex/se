@@ -1,0 +1,41 @@
+---
+title: "Förordning (2016:1317) om underrättelseskyldighet för åklagare och domstolar i fråga om marknadsmissbruk"
+identifier: "SFS 2016:1317"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-12-20
+amended_through: "SFS 2026:210"
+department: "Finansdepartementet FMA V"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-1317.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:1317"
+retrieved: 2026-10-11
+---
+# Förordning (2016:1317) om underrättelseskyldighet för åklagare och domstolar i fråga om marknadsmissbruk
+
+## Åklagares underrättelse till Finansinspektionen
+
+### 1 §
+
+Åklagare ska i fråga om en överträdelse som kan leda till administrativ sanktion enligt 5 kap. 3 § lagen (2016:1306) med kompletterande bestämmelser till EU:s marknadsmissbruksförordning underrätta Finansinspektionen om att
+
+1. en sådan förundersökning om brott som avses i 5 kap. 11 § första stycket lagen med kompletterande bestämmelser till EU:s marknadsmissbruksförordning har inletts, om förundersökningen har inletts av någon annan anledning än efter en anmälan om brott av Finansinspektionen enligt 3 kap. 1 § lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden,
+
+2. överträdelsen inte längre är föremål för en sådan utredning om brott som avses i 5 kap. 11 § andra stycket lagen med kompletterande bestämmelser till EU:s marknadsmissbruksförordning och inte har prövats slutligt, och
+
+3. överträdelsen omfattas av ett sådant väckt åtal, utfärdat strafföreläggande eller beslut om åtalsunderlåtelse som avses i 5 kap. 12 § lagen med kompletterande bestämmelser till EU:s marknadsmissbruksförordning.
+
+## Domstolars underrättelse till Finansinspektionen
+
+### 2 §
+
+En domstol ska underrätta Finansinspektionen om en dom i mål enligt lagen (2016:1307) om straff för marknadsmissbruk på värdepappersmarknaden. En högre rätt ska även underrätta Finansinspektionen om ett slutligt beslut i sådana mål.
+
+Underrättelsen ska lämnas inom en vecka från det att domen eller beslutet meddelades.
+
+### 3 §
+
+En domstol ska underrätta Finansinspektionen om ett överklagande av en dom i mål enligt lagen (2016:1306) med kompletterande bestämmelser till EU:s marknadsmissbruksförordning som har lämnats in till domstolen.
+
+*Förordning (2026:210)*.

@@ -1,0 +1,67 @@
+---
+title: "Lag (2018:649) om förbud mot innehav av berusningsmedel m.m. vid hem för vård eller boende"
+identifier: "SFS 2018:649"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-05-31
+amended_through: "SFS 2026:1313"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-649.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:649"
+retrieved: 2026-10-11
+---
+# Lag (2018:649) om förbud mot innehav av berusningsmedel m.m. vid hem för vård eller boende
+
+## 1 §
+
+Denna lag tillämpas vid hem för vård eller boende som drivs av en kommun eller en region. Lagen tillämpas också i sådan enskild verksamhet i form av hem för vård eller boende som har tillstånd enligt 26 kap. 1 § första stycket 1 socialtjänstlagen (2025:400).
+
+Lagen tillämpas inte vid sådana särskilda boendeformer som avses i 8 kap. 4 § eller 8 kap. 11 § socialtjänstlagen. Lagen tillämpas inte heller vid hem för vård eller boende som Statens institutionsstyrelse driver eller med stöd av 9 kap. 9 § andra stycket socialtjänstlagen uppdragit åt en kommun eller en region att driva. *Lag (2025:454)*.
+
+## 2 §
+
+*/Upphör att gälla U:2028-01-01/* Den som förestår verksamheten vid hemmet får besluta att de som vårdas där inte får inneha
+
+1. alkoholhaltiga drycker,
+
+2. andra berusningsmedel,
+
+3. injektionssprutor, kanyler eller andra föremål som är särskilt ägnade att användas för missbruk av eller annan befattning med narkotika, eller
+
+4. någon annan egendom som kan skada den som vårdas eller någon annan eller äventyra säkerheten vid hemmet.
+
+## 2 §
+
+*/Träder i kraft I:2028-01-01/* Den som förestår verksamheten vid hemmet får besluta att de som vårdas där inte får inneha
+
+1. alkoholhaltiga drycker,
+
+2. andra berusningsmedel,
+
+3. injektionssprutor, kanyler eller andra föremål som är särskilt ägnade att användas för bruk av eller annan befattning med narkotika, eller
+
+4. någon annan egendom som kan skada den som vårdas eller någon annan eller äventyra säkerheten vid hemmet.
+
+*Lag (2026:1313)*.
+
+## 3 §
+
+Om egendom som omfattas av ett beslut enligt 2 § påträffas inom hemmet får den omhändertas. Detsamma gäller narkotika, sådana medel som avses i lagen (1991:1969) om förbud mot vissa dopningsmedel och sådana varor som omfattas av lagen (1999:42) om förbud mot hälsofarliga varor.
+
+## 4 §
+
+Om egendom som har omhändertagits enligt 3 § kan antas bli förverkad enligt 36 kap. 9, 10 eller 12 § brottsbalken, 6 § narkotikastrafflagen (1968:64) eller 18 kap. 12 § vapenlagen (2026:408), ska den som förestår verksamheten vid hemmet skyndsamt anmäla omhändertagandet till Polismyndigheten. Omhändertagandet får bestå tills frågan om egendomen ska tas i beslag har prövats. *Lag (2026:425)*.
+
+## 5 §
+
+Den som förestår verksamheten vid hemmet ska låta förstöra omhändertagen egendom som avses i 2 § 1-3 om värdet är ringa eller det annars kan anses försvarligt. I annat fall får egendomen säljas. Belopp som erhållits vid försäljningen tillfaller staten.
+
+## 6 §
+
+Beslut att förstöra eller sälja egendom enligt 5 § får överklagas till allmän förvaltningsdomstol.
+
+Den som driver ett hem för vård eller boende är motpart till den enskilde som överklagar ett beslut att förstöra eller sälja egendom enligt 5 §.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.

@@ -1,0 +1,95 @@
+---
+title: "Lag (2014:307) om straff för penningtvättsbrott"
+identifier: "SFS 2014:307"
+type: act
+jurisdiction: se
+language: sv
+date: 2014-05-15
+amended_through: "t.o.m SFS 2026:1323"
+department: "Justitiedepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-307.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:307"
+retrieved: 2026-10-11
+---
+# Lag (2014:307) om straff för penningtvättsbrott
+
+## Lagens tillämpningsområde
+
+### 1 §
+
+Denna lag innehåller straffrättsliga bestämmelser om penningtvätt.
+
+I lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism finns bestämmelser om åtgärder som den som bedriver finansiell verksamhet och annan näringsverksamhet är skyldig att vidta för att förhindra att verksamheten utnyttjas för penningtvätt eller finansiering av terrorism. *Lag (2017:660)*.
+
+### 2 §
+
+Med brott i 3 och 4 §§ avses
+
+1. gärning som utgör brott enligt svensk lag, eller
+
+2. gärning som utgör brott enligt utländsk lag och som motsvarar brott enligt svensk lag.
+
+## Ansvar
+
+### 3 §
+
+För penningtvättsbrott döms, om åtgärden syftar till att dölja att pengar eller annan egendom härrör från brott eller brottslig verksamhet eller till att främja möjligheterna för någon att tillgodogöra sig egendomen eller dess värde, den som
+
+1. överlåter, förvärvar, omsätter, förvarar eller vidtar annan sådan åtgärd med egendomen, eller
+
+2. tillhandahåller, förvärvar eller upprättar en handling som kan ge en skenbar förklaring till innehavet av egendomen, deltar i transaktioner som utförs för skens skull, uppträder som bulvan eller vidtar annan sådan åtgärd.
+
+Straffet är fängelse i högst två år.
+
+### 4 §
+
+För penningtvättsbrott döms även den som, utan att åtgärden har ett sådant syfte som anges i 3 §, otillbörligen främjar möjligheterna för någon att omsätta pengar eller annan egendom som härrör från brott eller brottslig verksamhet.
+
+### 5 §
+
+Är brott som avses i 3 eller 4 § grovt, döms för grovt penningtvättsbrott till fängelse i lägst ett och högst sex år.
+
+Vid bedömningen av om brottet är grovt ska det särskilt beaktas om gärningen avsett betydande värden, om de brottsliga åtgärderna har ingått som ett led i en brottslighet som utövats systematiskt eller i större omfattning eller i annat fall varit av särskilt farlig art. *Lag (2026:1323)*.
+
+### 6 §
+
+Är brott som avses i 3 eller 4 § ringa, döms för penningtvättsförseelse till böter eller fängelse i högst sex månader.
+
+För penningtvättsförseelse döms även den som i fall som avses i 3 eller 4 § inte insåg men hade skälig anledning att anta att egendomen härrörde från brott eller brottslig verksamhet.
+
+### 7 §
+
+Den som, i näringsverksamhet eller såsom led i en verksamhet som bedrivs vanemässigt eller annars i större omfattning, medverkar till en åtgärd som skäligen kan antas vara vidtagen i sådant syfte som anges i 3 §, döms för näringspenningtvätt till fängelse i högst två år.
+
+Är brottet grovt, döms till fängelse i lägst ett och högst sex år.
+
+Är brottet ringa, döms till böter eller fängelse i högst sex månader. Till samma straff döms den som i annat fall än som anges i första stycket medverkar till en åtgärd som skäligen kan antas vara vidtagen i sådant syfte som anges i 3 §.
+
+*Lag (2026:1323)*.
+
+### 8 §
+
+För försök, förberedelse eller stämpling till penningtvättsbrott, grovt penningtvättsbrott eller näringspenningtvätt som inte är ringa, döms det till ansvar enligt 23 kap. brottsbalken.
+
+### 9 §
+
+Har upphävts genom *lag (2024:874)*.
+
+### 10 §
+
+Har upphävts genom *lag (2024:874)*.
+
+## Särskilda bestämmelser om förverkande
+
+### 11 §
+
+Förverkande av egendom som har varit föremål för brott enligt denna lag får ske hos gärningsmannen eller hos den som har medverkat till brottet, även om egendomen tillhör någon annan. *Lag (2024:874)*.
+
+### 12 §
+
+Har upphävts genom *lag (2024:874)*.
+
+### 13 §
+
+Har upphävts genom *lag (2024:874)*.

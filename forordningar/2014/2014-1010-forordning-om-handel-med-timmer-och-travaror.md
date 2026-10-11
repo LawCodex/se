@@ -1,0 +1,43 @@
+---
+title: "Förordning (2014:1010) om handel med timmer och trävaror"
+identifier: "SFS 2014:1010"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-06-26
+amended_through: "SFS 2023:74"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-1010.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:1010"
+retrieved: 2026-10-11
+---
+# Förordning (2014:1010) om handel med timmer och trävaror
+
+## 1 §
+
+Denna förordning kompletterar
+
+1. Europaparlamentets och rådets förordning (EU) nr 995/2010 av den 20 oktober 2010 om fastställande av skyldigheter för verksamhetsutövare som släpper ut timmer och trävaror på marknaden, och
+
+2. förordningar som meddelats med stöd av Europaparlamentets och rådets förordning (EU) nr 995/2010.
+
+De ord och uttryck som används i denna förordning har samma betydelse som i Europaparlamentets och rådets förordning (EU) nr 995/2010.
+
+## 2 §
+
+Skogsstyrelsen ska utföra de uppgifter som en behörig myndighet har enligt de EU-förordningar som avses i 1 § och enligt lagen (2014:1009) om handel med timmer och trävaror.
+
+## 3 §
+
+I fråga om Europaparlamentets och rådets förordning (EU) nr 995/2010 ska Skogsstyrelsen
+
+1. senast den 28 mars varje år till Regeringskansliet (Landsbygds- och infrastrukturdepartementet) ge in underlag för den information som ska lämnas till Europeiska kommissionen enligt artikel 20.1, och
+
+2. senast den 30 april varje år göra den information som Regeringskansliet enligt artikel 20.1 lämnat till Europeiska kommissionen tillgänglig för allmänheten. *Förordning (2023:74)*.
+
+## 4 §
+
+Skogsstyrelsen får meddela verkställighetsföreskrifter till de EU-förordningar som avses i 1 § och till lagen (2014:1009) om handel med timmer och trävaror.
+
+*Förordning (2021:136)*.

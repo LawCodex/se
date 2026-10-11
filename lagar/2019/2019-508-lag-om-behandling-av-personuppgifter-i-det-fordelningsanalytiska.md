@@ -1,0 +1,131 @@
+---
+title: "Lag (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar"
+identifier: "SFS 2019:508"
+type: act
+jurisdiction: se
+language: sv
+date: 2019-06-27
+amended_through: "SFS 2026:1383"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-508.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:508"
+retrieved: 2026-10-11
+---
+# Lag (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar
+
+## Lagens tillämpningsområde
+
+### 1 §
+
+Denna lag ska tillämpas vid Statistiska centralbyråns behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar (Fasit) som myndigheten förvaltar.
+
+Lagen ska också tillämpas vid myndigheters behandling av personuppgifter i de urval som har lämnats ut enligt 9 §.
+
+Lagen innehåller dessutom bestämmelser om uppgiftsskyldighet för vissa företag. *Lag (2026:1383)*.
+
+## Förhållandet till annan reglering
+
+### 2 §
+
+Denna lag kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskyddsförordning.
+
+Vid behandling av personuppgifter enligt denna lag gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna lag eller föreskrifter som har meddelats i anslutning till lagen.
+
+Vid behandling av personuppgifter enligt denna lag gäller inte lagen (2001:99) om den officiella statistiken.
+
+## Personuppgiftsansvar
+
+### 3 §
+
+Statistiska centralbyrån är personuppgiftsansvarig för den behandling av personuppgifter som myndigheten utför enligt denna lag eller enligt föreskrifter som har meddelats i anslutning till den.
+
+Myndigheter som urvalen har lämnats ut till enligt 9 § är personuppgiftsansvariga för den behandling av personuppgifter som myndigheterna utför. *Lag (2026:1383)*.
+
+## Ändamål
+
+### 4 §
+
+Personuppgifter får behandlas i Fasit och i de urval som har lämnats ut enligt 9 § om det är nödvändigt för att
+
+1. simulera och beräkna effekter av befintliga och nya regelverk samt andra förändringar
+
+a) inom skatte-, avgifts- och bidragssystemen och de offentliga välfärdstjänsterna, och
+
+b) av hushållssektorns skulder och skuldbetalningar, eller
+
+2. ta fram statistik för analys av information
+
+a) inom skatte-, avgifts- och bidragssystemen och de offentliga välfärdstjänsterna, och
+
+b) om hushållssektorns skulder och skuldbetalningar.
+
+*Lag (2026:1383)*.
+
+### 5 §
+
+Utöver vad som anges i 4 § får Statistiska centralbyrån behandla personuppgifter om det är nödvändigt för att myndigheten ska kunna förvalta och utveckla Fasit.
+
+## Behandling av vissa kategorier av personuppgifter
+
+### 6 §
+
+Personuppgifter som avses i artikel 9.1 och artikel 10 i EU:s dataskyddsförordning får inte behandlas i Fasit eller i de urval som lämnas ut enligt 9 §.
+
+Första stycket gäller dock inte uppgifter som avslöjar etniskt ursprung eller medlemskap i fackförening och uppgifter om hälsa. *Lag (2026:1383)*.
+
+### 7 §
+
+Statistiska centralbyrån får behandla personnummer och samordningsnummer i Fasit.
+
+## Insamling och tillhandahållande av personuppgifter
+
+### 8 §
+
+Statistiska centralbyrån ska ta fram ett särskilt urval av personuppgifter i Fasit som inte direkt kan hänföras till en fysisk person för utlämnande enligt 9 §.
+
+I fråga om hushållssektorns skulder och skuldbetalningar ska Statistiska centralbyrån dock endast ta fram ett mindre urval av sådana personuppgifter som avses i första stycket.
+
+*Lag (2026:1383)*.
+
+### 8 a §
+
+Företag som omfattas av lagen (2004:297) om bank- och finansieringsrörelse och lagen (2016:1024) om verksamhet med bostadskrediter ska till Statistiska centralbyrån lämna uppgifter om hushållssektorns skulder och skuldbetalningar.
+
+Regeringen får meddela föreskrifter om vilka uppgifter som ska lämnas. *Lag (2026:1383)*.
+
+### 9 §
+
+Urvalen enligt 8 § får på begäran lämnas ut av Statistiska centralbyrån till Riksdagsförvaltningen och Riksrevisionen samt Regeringskansliet och andra myndigheter under regeringen.
+
+*Lag (2026:1383)*.
+
+### 10 §
+
+När personuppgifter lämnas ut enligt 9 § får de förses med en beteckning (löpnummer) som hos Statistiska centralbyrån kan kopplas till personnummer eller samordningsnummer, om det är nödvändigt för ändamålet med mottagarens behandling.
+
+En förteckning (kodnyckel) över löpnummer och personnummer eller samordningsnummer får bevaras hos Statistiska centralbyrån i högst ett år.
+
+Statistiska centralbyrån får i enskilda fall besluta om att en kodnyckel får bevaras för längre tid.
+
+## Särskilda skyddsåtgärder
+
+### 11 §
+
+Uppgifterna i Fasit får inte sammanföras med andra uppgifter i syfte att utröna en enskilds identitet. Detta gäller även uppgifter i ett sådant urval som har lämnats ut enligt 9 §.
+
+Den som bryter mot bestämmelsen i första stycket ska dömas för olovlig identifiering till böter eller fängelse i högst ett år, om gärningen inte är belagd med straff i brottsbalken. I ringa fall döms det inte till ansvar.
+
+## Begränsningar av vissa rättigheter
+
+### 12 §
+
+Artiklarna 16 och 18 i EU:s dataskyddsförordning om rätten till rättelse och rätten till begränsning av behandling av personuppgifter ska inte tillämpas vid Statistiska centralbyråns behandling av personuppgifter som omfattas av denna lag.
+
+## Bevarande och gallring
+
+### 13 §
+
+Personuppgifter i Fasit ska gallras när de inte längre behövs för något av de ändamål som avses i 4 och 5 §§.
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om att uppgifter får bevaras för arkivändamål eller för vetenskapliga eller historiska forskningsändamål.

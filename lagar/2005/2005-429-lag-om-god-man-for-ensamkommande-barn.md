@@ -1,0 +1,157 @@
+---
+title: "Lag (2005:429) om god man för ensamkommande barn"
+identifier: "SFS 2005:429"
+type: act
+jurisdiction: se
+language: sv
+date: 2005-06-09
+amended_through: "SFS 2026:1153"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-429.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:429"
+retrieved: 2026-10-11
+---
+# Lag (2005:429) om god man för ensamkommande barn
+
+### Lagens tillämpningsområde
+
+#### 1 §
+
+Denna lag innehåller bestämmelser om god man i vissa fall för den som är under 18 år och som är utländsk medborgare eller statslös.
+
+Om företrädare i andra fall för underåriga utländska medborgare finns bestämmelser i 4 kap. 3 § lagen (1904:26 s. 1) om vissa internationella rättsförhållanden rörande äktenskap och förmynderskap.
+
+#### 1 a §
+
+I denna lag avses med
+
+- asylprocedurförordningen: Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU,
+
+- asyl- och migrationshanteringsförordningen: Europaparlamentets och rådets förordning (EU) 2024/1351 av den 14 maj 2024 om asyl- och migrationshantering, om ändring av förordningarna (EU) 2021/1147 och (EU) 2021/1060 och om upphävande av förordning (EU) nr 604/2013,
+
+- screeningförordningen: Europaparlamentets och rådets förordning (EU) 2024/1356 av den 14 maj 2024 om införande av screening av tredjelandsmedborgare vid de yttre gränserna och om ändring av förordningarna (EG) nr 767/2008, (EU) 2017/2226, (EU) 2018/1240 och (EU) 2019/817, och
+
+- Eurodacförordningen: Europaparlamentets och rådets förordning (EU) 2024/1358 av den 14 maj 2024 om inrättande av Eurodac för jämförelse av biometriska uppgifter för att effektivt tillämpa Europaparlamentets och rådets förordningar (EU) 2024/1351 och (EU) 2024/1350 och rådets direktiv 2001/55/EG, och identifiera tredjelandsmedborgare och statslösa personer som vistas olagligt och om framställningar från medlemsstaternas brottsbekämpande myndigheter och Europol om jämförelse med Eurodacuppgifter för brottsbekämpande ändamål, om ändring av Europaparlamentets och rådets förordningar (EU) 2018/1240 och (EU) 2019/818 och om upp- hävande av Europaparlamentets och rådets förordning (EU) nr 603/2013. *Lag (2026:1153)*.
+
+#### 1 b §
+
+Denna lag gäller även i fråga om en sådan företrädare eller tillfällig företrädare som avses i artikel 23.2 i asylprocedurförordningen, artikel 23.2 i asyl- och migrationshanteringsförordningen, artikel 13.3 i screeningför- ordningen och artikel 14.1 i Eurodacförordningen.
+
+Av artikel 23.9 i asylprocedurförordningen, artikel 23.2 i asyl- och migrationshanteringsförordningen, artikel 13.4 i screeningförordningen och artikel 14.1 i Eurodacförordningen framgår vilka krav som ställs på en sådan företrädare eller tillfällig företrädare.
+
+I artikel 23.2 och 23.6-23.8 i asylprocedurförordningen och artikel 23.2 och 23.3 i asyl- och migrationshanteringsförordningen anges de tidsfrister som ska följas när en företrädare eller tillfällig företrädare förordnas enligt de förordningarna samt vilka särskilda uppgifter som en sådan företrädare eller tillfällig företrädare ska utföra.
+
+Av artikel 23.9 i asylprocedurförordningen, artikel 23.2 i asyl- och migrationshanteringsförordningen, artikel 13.4 i screeningförordningen och artikel 14.1 i Eurodacförordningen framgår vilka krav som ställs på en sådan företrädare eller tillfällig företrädare. *Lag (2026:1153)*.
+
+### När en god man ska utses
+
+#### 2 §
+
+Om barnet vid ankomsten till Sverige är skilt från båda sina föräldrar eller från någon annan vuxen person som får anses ha trätt i föräldrarnas ställe, ska överförmyndaren förordna en god man att i vårdnadshavares och förmyndares ställe ansvara för barnets personliga förhållanden och sköta dess angelägenheter. Detta gäller oavsett om barnet söker uppehållstillstånd i landet eller inte.
+
+En god man ska också förordnas, om barnets föräldrar eller en annan vuxen person, som får anses ha trätt i föräldrarnas ställe, på grund av dödsfall eller sjukdom eller av någon annan orsak upphör att kunna utöva förmynderskapet eller vårdnaden efter barnets ankomst till Sverige men innan barnet har fått uppehållstillstånd här.
+
+En god man ska inte förordnas, om det är uppenbart obehövligt eller om en företrädare eller en tillfällig företrädare ska utses enligt asylprocedurförordningen eller asyl- och migrationshanteringsförordningen. *Lag (2026:1153)*.
+
+#### 3 §
+
+Ansökan om god man får göras av Migrationsverket och av socialnämnden i den kommun där barnet vistas. Överförmyndaren får också självmant ta upp frågan.
+
+En god man ska förordnas så snart det är möjligt.
+
+I ett ärende om förordnande av god man ska överförmyndaren ge barnet tillfälle att yttra sig, om det kan ske.
+
+Överförmyndaren ska omedelbart efter förordnandet informera barnet om vem som har förordnats som god man. Informationen ska även lämnas till barnets boende och till det offentliga biträdet om ett sådant har förordnats för barnet.
+
+*Lag (2016:1241)*.
+
+### Vem som kan utses till god man
+
+#### 4 §
+
+I fråga om vem som kan utses till god man tillämpas 11 kap. 12, 12 a och 13 §§ föräldrabalken. Vid bedömningen av om den som utses är lämplig för uppdraget ska överförmyndaren fästa särskild vikt vid den utsatta situation som barnet befinner sig i. *Lag (2026:494)*.
+
+#### 4 a §
+
+Vid förordnande av en företrädare eller tillfällig företrädare enligt asylprocedurförordningen ska Migrationsverket lämna den information som anges i artikel 23.5 i den förordningen till barnet och företrädaren eller den tillfälliga företrädaren. *Lag (2026:1153)*. När godmanskapet upphör
+
+#### 5 §
+
+Ett godmanskap skall upphöra
+
+1. om någon av barnets föräldrar eller någon annan vuxen person som får anses ha trätt i föräldrarnas ställe anländer till Sverige och är i stånd att utöva förmynderskapet och vårdnaden,
+
+2. om barnet varaktigt lämnar Sverige,
+
+3. om en särskilt förordnad vårdnadshavare enligt föräldrabalken utses för barnet,
+
+4. om det är uppenbart att god man av någon annan anledning inte längre behövs.
+
+Överförmyndaren beslutar om upphörande av godmanskapet.
+
+När barnet fyller 18 år upphör godmanskapet utan särskilt beslut.
+
+#### 6 §
+
+En god man har rätt att på begäran bli entledigad från sitt uppdrag. Skall godmanskapet fortsätta, är den gode mannen dock skyldig att kvarstå till dess en ny god man har utsetts.
+
+En god man som gör sig skyldig till missbruk eller försummelse vid utövandet av sitt uppdrag eller som kommer på ekonomiskt obestånd och på grund av detta är olämplig för uppdraget eller som av någon annan orsak inte längre är lämplig att inneha uppdraget skall entledigas.
+
+Överförmyndaren beslutar om entledigande. Uppkommer en fråga om att entlediga den gode mannen enligt andra stycket och kan slutligt beslut inte ges omedelbart, får överförmyndaren besluta att den gode mannen skall skiljas från sitt uppdrag för tiden till dess ärendet avgörs, om dröjsmål skulle innebära fara för barnet.
+
+#### 7 §
+
+Ansökan om upphörande av godmanskap eller entledigande av en god man får göras av barnets föräldrar eller någon annan vuxen person som får anses ha trätt i föräldrarnas ställe samt av den gode mannen. Överförmyndaren får också självmant ta upp frågan.
+
+Överförmyndaren skall ge barnet tillfälle att yttra sig, om det kan ske och det inte är obehövligt.
+
+#### 8 §
+
+Dör en god man, skall den som har boet i sin vård utan dröjsmål anmäla förhållandet till den överförmyndare som har tillsyn över godmanskapet.
+
+#### 9 §
+
+Innan överförmyndaren förordnar någon till god man eller entledigar någon från ett sådant uppdrag, skall han eller hon ges tillfälle att yttra sig. Är det fråga om beslut enligt 6 § andra stycket, skall den gode mannen ges tillfälle att yttra sig, om det inte är fara i dröjsmål.
+
+### När ansökan om en särskilt förordnad vårdnadshavare ska göras
+
+#### 10 §
+
+När barnet har fått uppehållstillstånd, ska socialnämnden i den kommun där barnet vistas skyndsamt hos rätten väcka talan om eller anmäla behov av en särskilt förordnad vårdnadshavare enligt föräldrabalken, om inte särskilda skäl talar emot det. Överförmyndaren ska underrätta socialnämnden om att det finns förutsättningar för en sådan talan eller anmälan. *Lag (2026:494)*.
+
+### Behörig överförmyndare
+
+#### 11 §
+
+I fråga om behörig överförmyndare enligt denna lag finns bestämmelser i 11 kap. 25 § föräldrabalken.
+
+*/Rubriken upphör att gälla U:2028-01-01/*
+
+### Allmänna bestämmelser, tillsyn m.m.
+
+#### 12 §
+
+*/Upphör att gälla U:2028-01-01/* I frågor om god man enligt denna lag tillämpas 11 kap. 14 § samt 12, 14, 16 och 19-21 kap. föräldrabalken.
+
+*/Rubriken träder i kraft I:2028-01-01/*
+
+### Allmänna bestämmelser
+
+#### 12 §
+
+*/Träder i kraft I:2028-01-01/* I frågor om god man enligt denna lag tillämpas 11 kap. 12 b och 14 §§ samt 12, 14, 16 och 19-21 kap. föräldrabalken.
+
+*Lag (2026:494)*.
+
+## Övergångsbestämmelser
+
+**2005:429**
+
+1. Denna lag träder i kraft den 1 juli 2005.
+
+2. Den som vid utgången av juni 2005 var förordnad som tillfällig förmyndare eller som god man med stöd av 4 kap. 3 § lagen (1904:26 s. 1) om vissa internationella rättsförhållanden rörande äktenskap och förmynderskap för ett barn som omfattas av denna lag skall anses som god man enligt denna lag.
+
+**2026:494**
+
+Denna lag träder i kraft den 1 januari 2028 i fråga om 12 § och i övrigt den 1 juli 2026.

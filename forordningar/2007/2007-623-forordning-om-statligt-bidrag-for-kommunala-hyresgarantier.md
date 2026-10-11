@@ -1,0 +1,59 @@
+---
+title: "Förordning (2007:623) om statligt bidrag för kommunala hyresgarantier"
+identifier: "SFS 2007:623"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-06-20
+amended_through: "SFS 2025:485"
+department: "Landsbygds- och infrastrukturdepartementet BB"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-623.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:623"
+retrieved: 2026-10-11
+---
+# Förordning (2007:623) om statligt bidrag för kommunala hyresgarantier
+
+### 1 §
+
+Enligt denna förordning får statligt bidrag ges till en kommun som enligt 2 kap. 6 § lagen (2009:47) om vissa kommunala befogenheter ställt säkerhet för att ett avtal om hyra av bostadslägenhet fullgörs (hyresgaranti).
+
+Bidrag lämnas i mån av tillgång på medel.
+
+*Förordning (2010:41)*.
+
+### 2 §
+
+Som förutsättning för att bidrag ska lämnas gäller att
+
+1. den eller de som hyresgarantierna lämnas för har fått en bostad med hyresrätt som är garanterad med hyresavtal,
+
+2. hyresgarantin omfattar minst sex månadshyror och gäller under minst två år, och
+
+3. den eller de som hyresgarantierna lämnas för bedöms ha ekonomiska förutsättningar att fullgöra hyresbetalningar utan försörjningsstöd enligt socialtjänstlagen (2025:400).
+
+*Förordning (2025:485)*.
+
+### 3 §
+
+Bidrag lämnas med 5 000 kr per lämnad hyresgaranti.
+
+### 4 §
+
+En ansökan om bidrag lämnas in till Boverket. Boverket prövar ärenden om bidrag och sköter utbetalningen av bidragen.
+
+*Förordning (2012:549)*.
+
+### 5 §
+
+Boverket får meddela föreskrifter om verkställighet av denna förordning. *Förordning (2012:549)*.
+
+### 6 §
+
+Boverkets beslut enligt denna förordning får inte överklagas. *Förordning (2012:549)*.
+
+## Övergångsbestämmelser
+
+**2007:623**
+
+Denna förordning träder i kraft den 1 augusti 2007. Bidrag enligt förordningen lämnas dock för tid från och med den 1 juli 2007.

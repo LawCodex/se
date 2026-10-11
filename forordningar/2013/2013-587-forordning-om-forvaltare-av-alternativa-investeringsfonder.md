@@ -1,0 +1,193 @@
+---
+title: "Förordning (2013:587) om förvaltare av alternativa investeringsfonder"
+identifier: "SFS 2013:587"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2013-06-19
+amended_through: "SFS 2026:921"
+department: "Finansdepartementet FMA V"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-587.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:587"
+retrieved: 2026-10-11
+---
+# Förordning (2013:587) om förvaltare av alternativa investeringsfonder
+
+## 1 §
+
+Denna förordning gäller vid tillämpning av lagen (2013:561) om förvaltare av alternativa investeringsfonder.
+
+Termer och uttryck som används i förordningen har samma betydelse och tillämpningsområde som i lagen om förvaltare av alternativa investeringsfonder.
+
+## 2 §
+
+Finansinspektionen ska en gång varje kvartal underrätta Europeiska värdepappers- och marknadsmyndigheten om
+
+1. alla tillstånd som
+
+a) beviljats enligt 3 kap. 1 § lagen (2013:561) om förvaltare av alternativa investeringsfonder, och
+
+b) återkallats enligt 14 kap. 1 eller 4 § lagen om förvaltare av alternativa investeringsfonder, och
+
+2. eventuella ändringar som bör göras i den förteckning som Europeiska värdepappers- och marknadsmyndigheten för enligt artikel 7.5 i Europaparlamentets och rådets direktiv 2011/61/EU av den 8 juni 2011 om förvaltare av alternativa investeringsfonder samt om ändring av direktiv 2003/41/EG och 2009/65/EG och förordningarna (EG) nr 1060/2009 och (EU) nr 1095/2010, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2024/927. *Förordning (2026:918)*.
+
+## 3 §
+
+Om Finansinspektionen med stöd av 14 kap. 3 § lagen (2013:561) om förvaltare av alternativa investeringsfonder beslutar att en styrelseledamot eller verkställande direktör inte längre får vara det, ska inspektionen snarast underrätta Bolagsverket om beslutet. Detsamma gäller om inspektionen förordnar en ersättare för en styrelseledamot eller verkställande direktören.
+
+## 4 §
+
+Finansinspektionen får i fråga om lagen (2013:561) om förvaltare av alternativa investeringsfonder meddela föreskrifter om vilka uppgifter eller handlingar som ska ingå i
+
+1. en anmälan för registrering enligt 2 kap. 3 §,
+
+2. en underrättelse enligt 2 kap. 4 §,
+
+3. en ansökan om tillstånd enligt 3 kap. 2 §,
+
+4. en ansökan om tillstånd att förvalta en alternativ investeringsfond enligt 3 kap. 1 §, 5 kap. 2 § och 6 kap. 7 §,
+
+5. en ansökan om tillstånd till marknadsföring enligt 4 kap. 2-5 och 8 §§ samt 5 kap. 5-7 och 10-12 §§,
+
+6. en anmälan om väsentlig ändring enligt 3 kap. 10 §, 4 kap. 11 §, 5 kap. 9 § och 6 kap. 6 och 7 §§,
+
+7. en verksamhetsplan enligt 3 kap. 5 §, 4 kap. 9 § samt 6 kap. 1 och 3 §§,
+
+8. en ansökan enligt 8 a kap. 3 §, och
+
+9. en underrättelse enligt 8 a kap. 9 §. *Förordning (2026:918)*.
+
+## 5 §
+
+*/Upphör att gälla U:2030-01-10/* Finansinspektionen får i fråga om lagen (2013:561) om förvaltare av alternativa investeringsfonder meddela föreskrifter om
+
+1. vilka åtgärder en AIF-förvaltare ska vidta för att uppfylla de krav som följer av 3 kap. 2 § andra stycket,
+
+2. vad en AIF-förvaltare ska göra för att uppfylla skyldigheterna i 4 kap. 2 § första stycket 4 och 3 § andra stycket och 5 kap. 5 § tredje stycket,
+
+3. hur en AIF-förvaltare ska lämna uppgifter enligt 4 kap. 5 c § och 6 kap. 2 c § första stycket och hur den sonderande marknadsföringen ska dokumenteras enligt 4 kap. 5 b § första stycket 3 och 6 kap. 2 b § första stycket,
+
+4. tillhandahållande av information om de uppgifter som utförs genom sådana funktioner som avses i 5 kap. 2 § andra stycket 4, 6 § första stycket och 11 § första stycket 1,
+
+5. på vilket språk en AIF-förvaltare ska tillhandahålla funktionerna i 5 kap. 2 § andra stycket 4, 6 § första stycket och 11 § första stycket 1,
+
+6. hur en AIF-förvaltare ska offentliggöra avsikten att upphöra med marknadsföring enligt 5 kap. 7 a § första stycket 2,
+
+7. hur medel för distanskommunikation får användas när en AIF- förvaltare som efter en anmälan enligt 5 kap. 7 a § har upphört med marknadsföring i Sverige av andelar eller aktier i en alternativ investeringsfond ska tillhandahålla kvarvarande andels- eller aktieägare i fonden här i landet information enligt 5 kap. 7 c § första stycket,
+
+8. vilka poster som får räknas in i startkapitalet och kapitalbasen enligt 7 kap. 1-4 §§,
+
+9. vilka åtgärder en AIF-förvaltare ska vidta för att uppfylla de krav som följer av 8 kap. 1 a §,
+
+10. vilka uppgifter som ska ingå i en underrättelse enligt 8 kap. 14 § och i en ansökan om godkännande enligt 8 kap. 16 §, samt vilken information och vilka handlingar som samtidigt ska lämnas till Finansinspektionen,
+
+11. en AIF-förvaltares ersättningssystem och vad förvaltaren ska göra för att uppfylla villkoren enligt 8 kap. 22 §,
+
+12. vilka uppgifter som ska ingå i en informationsbroschyr enligt 10 kap. 1 § och 12 kap. 7 §,
+
+13. vilka uppgifter som ska ingå i ett faktablad enligt 10 kap. 2 § och 12 kap. 8 §,
+
+14. tillhandahållande av informationsbroschyr och faktablad enligt 10 kap. 3 §,
+
+15. hur volatiliteten i skillnaden mellan fondens avkastning och jämförelseindexets avkastning enligt 10 kap. 14 § ska beräknas,
+
+16. hur informationen enligt 10 kap. 16 § ska presenteras,
+
+17. vilka uppgifter som ska ingå i underrättelser enligt 11 kap. 4, 5 och 7 §§ samt vilken information och vilka handlingar som samtidigt ska lämnas till Finansinspektionen,
+
+18. vad AIF-förvaltaren ska göra för att uppfylla bestämmelserna i 12 kap. 3 §,
+
+19. innehåll i årsberättelser och halvårsredogörelser enligt 12 kap. 10 §,
+
+20. kriterier för de finansiella tillgångar som medel i en specialfond får placeras i, vilka tekniker och instrument en AIF-förvaltare får använda samt villkor och gränser för sådan användning, det system för riskhantering som en AIF-förvaltare som förvaltar specialfonder ska ha och beräkning av exponeringar enligt 12 kap. 13 §,
+
+21. på vilket sätt underrättelse ska lämnas, vilka fel och försummelser som ska rapporteras till Finansinspektionen samt förutsättningar för överföring av finansiella instrument och förvaltning enligt 12 kap. 14 §,
+
+22. hur beräkning och redovisning av en specialfonds risknivå ska utföras enligt 12 kap. 15 §,
+
+23. vilken information som ska lämnas till andelsägare, hur den ska utformas, på vilket sätt den ska tillhandahållas och vad som ska bifogas informationen enligt 12 kap. 16 §,
+
+24. vad som vid förvaltning av specialfonder ska göras för att uppfylla skyldigheterna i 12 kap. 19 §,
+
+25. vilka upplysningar AIF-förvaltare ska lämna till Finansinspektionen enligt 13 kap. 6 §, när upplysningarna ska lämnas och hur upplysningarna ska lämnas,
+
+26. att vissa uppgifter som enligt 13 kap. 6 § första stycket ska lämnas till Finansinspektionen i stället ska lämnas till Statistiska centralbyrån, och
+
+27. på vilket språk handlingar som avses i lagen ska upprättas. *Förordning (2026:918)*.
+
+## 5 §
+
+*/Träder i kraft I:2030-01-10/* Finansinspektionen får i fråga om lagen (2013:561) om förvaltare av alternativa investeringsfonder meddela föreskrifter om
+
+1. vilka åtgärder en AIF-förvaltare ska vidta för att uppfylla de krav som följer av 3 kap. 2 § andra stycket,
+
+2. vad en AIF-förvaltare ska göra för att uppfylla skyldigheterna i 4 kap. 2 § första stycket 4 och 3 § andra stycket och 5 kap. 5 § tredje stycket,
+
+3. hur en AIF-förvaltare ska lämna uppgifter enligt 4 kap. 5 c § och 6 kap. 2 c § första stycket och hur den sonderande marknadsföringen ska dokumenteras enligt 4 kap. 5 b § första stycket 3 och 6 kap. 2 b § första stycket,
+
+4. tillhandahållande av information om de uppgifter som utförs genom sådana funktioner som avses i 5 kap. 2 § andra stycket 4, 6 § första stycket och 11 § första stycket 1,
+
+5. på vilket språk en AIF-förvaltare ska tillhandahålla funktionerna i 5 kap. 2 § andra stycket 4, 6 § första stycket och 11 § första stycket 1,
+
+6. hur en AIF-förvaltare ska offentliggöra avsikten att upphöra med marknadsföring enligt 5 kap. 7 a § första stycket 2,
+
+7. hur medel för distanskommunikation får användas när en AIF- förvaltare som efter en anmälan enligt 5 kap. 7 a § har upphört med marknadsföring i Sverige av andelar eller aktier i en alternativ investeringsfond ska tillhandahålla kvarvarande andels- eller aktieägare i fonden här i landet information enligt 5 kap. 7 c § första stycket,
+
+8. vilka poster som får räknas in i startkapitalet och kapitalbasen enligt 7 kap. 1-4 §§,
+
+9. vilka åtgärder en AIF-förvaltare ska vidta för att uppfylla de krav som följer av 8 kap. 1 a §,
+
+10. vilka uppgifter som ska ingå i en underrättelse enligt 8 kap. 14 § och i en ansökan om godkännande enligt 8 kap. 16 §, samt vilken information och vilka handlingar som samtidigt ska lämnas till Finansinspektionen,
+
+11. en AIF-förvaltares ersättningssystem och vad förvaltaren ska göra för att uppfylla villkoren enligt 8 kap. 22 §,
+
+12. uppgifter som ska lämnas enligt 8 kap. 27 d §,
+
+13. vilka uppgifter som ska ingå i en informationsbroschyr enligt 10 kap. 1 § och 12 kap. 7 §,
+
+14. vilka uppgifter som ska ingå i ett faktablad enligt 10 kap. 2 § och 12 kap. 8 §,
+
+15. tillhandahållande av informationsbroschyr och faktablad enligt 10 kap. 3 §,
+
+16. hur volatiliteten i skillnaden mellan fondens avkastning och jämförelseindexets avkastning enligt 10 kap. 14 § ska beräknas,
+
+17. hur informationen enligt 10 kap. 16 § ska presenteras,
+
+18. vilka uppgifter som ska ingå i underrättelser enligt 11 kap. 4, 5 och 7 §§ samt vilken information och vilka handlingar som samtidigt ska lämnas till Finansinspektionen,
+
+19. vad AIF-förvaltaren ska göra för att uppfylla bestämmelserna i 12 kap. 3 §,
+
+20. innehåll i årsberättelser och halvårsredogörelser enligt 12 kap. 10 §,
+
+21. kriterier för de finansiella tillgångar som medel i en specialfond får placeras i, vilka tekniker och instrument en AIF-förvaltare får använda samt villkor och gränser för sådan användning, det system för riskhantering som en AIF-förvaltare som förvaltar specialfonder ska ha och beräkning av exponeringar enligt 12 kap. 13 §,
+
+22. på vilket sätt underrättelse ska lämnas, vilka fel och försummelser som ska rapporteras till Finansinspektionen samt förutsättningar för överföring av finansiella instrument och förvaltning enligt 12 kap. 14 §,
+
+23. hur beräkning och redovisning av en specialfonds risknivå ska utföras enligt 12 kap. 15 §,
+
+24. vilken information som ska lämnas till andelsägare, hur den ska utformas, på vilket sätt den ska tillhandahållas och vad som ska bifogas informationen enligt 12 kap. 16 §,
+
+25. vad som vid förvaltning av specialfonder ska göras för att uppfylla skyldigheterna i 12 kap. 19 §,
+
+26. vilka upplysningar AIF-förvaltare ska lämna till Finansinspektionen enligt 13 kap. 6 §, när upplysningarna ska lämnas och hur upplysningarna ska lämnas,
+
+27. att vissa uppgifter som enligt 13 kap. 6 § första stycket ska lämnas till Finansinspektionen i stället ska lämnas till Statistiska centralbyrån, och
+
+28. på vilket språk handlingar som avses i lagen ska upprättas. *Förordning (2026:921)*.
+
+## 6 §
+
+*/Upphör att gälla U:2030-01-10/* Innan Finansinspektionen meddelar föreskrifter med stöd av 5 § 26, ska inspektionen ge Riksbanken och Statistiska centralbyrån tillfälle att yttra sig. *Förordning (2026:918)*.
+
+## 6 §
+
+*/Träder i kraft I:2030-01-10/* Innan Finansinspektionen meddelar föreskrifter med stöd av 5 § 27, ska inspektionen ge Riksbanken och Statistiska centralbyrån tillfälle att yttra sig. *Förordning (2026:921)*.
+
+## 6 a §
+
+Finansinspektionen får meddela föreskrifter om utformningen och tillämpningen av de likviditetshanteringsverktyg som avses i 8 kap. 3 a och 3 c §§ lagen (2013:561) om förvaltare av alternativa investeringsfonder. *Förordning (2026:918)*.
+
+## 7 §
+
+Polismyndigheten får meddela föreskrifter om hur uppgifter enligt 8 kap. 24 a § första stycket och 25 § första stycket lagen (2013:561) om förvaltare av alternativa investeringsfonder ska lämnas. *Förordning (2025:201)*.

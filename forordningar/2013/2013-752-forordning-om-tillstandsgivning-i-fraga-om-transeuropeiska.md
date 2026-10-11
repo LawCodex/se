@@ -1,0 +1,61 @@
+---
+title: "Förordning (2013:752) om tillståndsgivning i fråga om transeuropeiska energiinfrastrukturer"
+identifier: "SFS 2013:752"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2013-10-03
+amended_through: "SFS 2023:49"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-752.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:752"
+retrieved: 2026-10-11
+---
+# Förordning (2013:752) om tillståndsgivning i fråga om transeuropeiska energiinfrastrukturer
+
+## Inledande bestämmelse
+
+### 1 §
+
+I denna förordning finns bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2022/869 av den 30 maj 2022 om riktlinjer för transeuropeisk energiinfrastruktur, om ändring av förordningarna (EG) nr 715/2009, (EU) 2019/942 och (EU) 2019/943 och direktiven 2009/73/EG och (EU) 2019/944, och om upphävande av förordning (EU) nr 347/2013. *Förordning (2023:49)*.
+
+## Behörig nationell myndighet
+
+### 2 §
+
+Regeringen är behörig nationell myndighet enligt artikel 8.1 i förordning (EU) 2022/869. *Förordning (2023:49)*.
+
+## Delegation till Energimarknadsinspektionen
+
+### 3 §
+
+Energimarknadsinspektionen ska fullgöra den behöriga myndighetens uppgifter när det gäller sådana kategorier av energiinfrastruktur som anges i bilaga 2 punkterna 1-4 till förordning (EU) 2022/869. Regeringen ansvarar dock för att fastställa tidsfrister.
+
+Energimarknadsinspektionen ska fortlöpande hålla regeringen underrättad om pågående förfaranden enligt artikel 10 i förordning (EU) 2022/869. *Förordning (2023:49)*.
+
+## Samarbetsschema
+
+### 4 §
+
+Ett sådant övergripande beslut som anges i artikel 2.3 i förordning (EU) 2022/869 ska utfärdas i enlighet med det samarbetsschema som avses i artikel 8.3 i förordningen.
+
+*Förordning (2023:49)*.
+
+## Handbok
+
+### 5 §
+
+Energimarknadsinspektionen ska utarbeta och offentliggöra en handbok i enlighet med artikel 9.1 i förordning (EU) 2022/869. *Förordning (2023:49)*.
+
+## Dialog om föransökningsförfarandet
+
+### 6 §
+
+När Energimarknadsinspektionen fullgör den behöriga myndighetens uppgifter ska inspektionen, så snart det finns en sådan projektansvarig som anges i artikel 2.8 i förordning (EU) 2022/869, inleda en dialog med den projektansvarige och med länsstyrelser som berörs av projektet om hur föransökningsförfarandet enligt artikel 10 i förordningen ska genomföras. *Förordning (2023:49)*.
+
+## Underrättelse till Naturvårdsverket
+
+### 7 §
+
+I 22 § miljöbedömningsförordningen (2017:966) finns bestämmelser om att statliga myndigheter som får kännedom om en verksamhet eller åtgärd som kan antas medföra en betydande miljöpåverkan i ett annat land ska underrätta Naturvårdsverket om detta. *Förordning (2017:1038)*.

@@ -1,0 +1,187 @@
+---
+title: "Förordning (2018:66) om statsbidrag till folkbibliotek"
+identifier: "SFS 2018:66"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-02-08
+amended_through: "SFS 2025:912"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-66.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:66"
+retrieved: 2026-10-11
+---
+# Förordning (2018:66) om statsbidrag till folkbibliotek
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag till kommuner för
+
+1. folkbibliotekens arbete med att främja läsning, och
+
+2. folk- och skolbibliotekens inköp av litteratur.
+
+Bidrag lämnas i mån av tillgång på medel.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.*Förordning (2024:33)*.
+
+### Syfte
+
+#### 2 §
+
+Ändamålet med statsbidragen är att
+
+1. stärka folkbibliotekens arbete med att främja läsning, och
+
+2. bidra till att tillgången på litteratur på folk- och skolbiblioteken förbättras i syfte att främja intresset för läsning och litteratur. *Förordning (2024:33)*.
+
+### Bidragsform
+
+#### 3 §
+
+Statsbidrag enligt denna förordning får lämnas i form av projektbidrag och bidrag till kostnad för inköp.
+
+### Förutsättningar för statsbidrag
+
+#### 4 §
+
+Bidrag enligt denna förordning får endast beviljas till en kommun som har upprättat en biblioteksplan enligt 17 § bibliotekslagen (2013:801).
+
+### Bidrag för folkbibliotekens arbete med att främja läsning
+
+#### 5 §
+
+En kommun får beviljas projektbidrag för att främja läsning. Projekt som riktar sig till barn och unga ska prioriteras. *Förordning (2024:33)*.
+
+### Bidrag för folk- och skolbibliotekens inköp av litteratur
+
+#### 6 §
+
+En kommun får beviljas statsbidrag för folk- och skolbibliotekens inköp av litteratur.
+
+Statsbidraget ska användas för inköp av främst barn- och ungdomslitteratur, men också för inköp av vuxenlitteratur som främjar barns och ungdomars intresse för läsning.
+
+#### 7 §
+
+Har upphävts genom *förordning (2025:91)*.
+
+### Ärendenas handläggning
+
+#### 8 §
+
+Frågor om statsbidrag enligt denna förordning prövas av Statens kulturråd.
+
+#### 9 §
+
+En ansökan om statsbidrag ska vara skriftlig. Ansökan ska innehålla uppgifter om
+
+1. vad bidraget ska användas till, och
+
+2. en redovisning av hur det uppfyller ändamålet med bidraget.
+
+Kommunen ska på begäran av Statens kulturråd lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan. *Förordning (2025:912)*.
+
+#### 9 a §
+
+En ansökan får avslås om kommunen har fått annat statligt bidrag för samma projekt som en ansökan enligt denna förordning avser. *Förordning (2025:912)*.
+
+#### 10 §
+
+Statens kulturråd ska vid sin fördelning av projektbidrag särskilt ta hänsyn till kommunernas olika förutsättningar att bedriva folkbiblioteksverksamhet och om projektet kan få långsiktiga effekter.
+
+#### 11 §
+
+I ett beslut om bidrag ska anges
+
+1. vilka åtgärder som bidraget beviljas för, och
+
+2. sista dag för redovisning enligt 12 §.
+
+#### 11 a §
+
+Ett beslut om bidrag får förenas med villkor. Villkoren ska framgå av beslutet. *Förordning (2025:912)*.
+
+### Redovisning
+
+#### 12 §
+
+En kommun som har tagit emot statsbidrag enligt denna förordning ska vid den tidpunkt som anges i beslutet lämna en redovisning till Statens kulturråd av hur de mottagna medlen använts. Kommunen ska samtidigt redovisa vilket resultat som har uppnåtts i förhållande till det ändamål som bidraget beviljats för.
+
+#### 13 §
+
+En kommun är skyldig att på begäran lämna de ytterligare uppgifter som Statens kulturråd behöver för att granska redovisningen.
+
+#### 14 §
+
+Statens kulturråd ska i samband med att de lämnar in sin årsredovisning till regeringen även lämna en redogörelse för vad statsbidragen har använts till, och om möjligt, en bedömning av statsbidragets resultat i förhållande till ändamålet med bidraget.
+
+### Anmälningsskyldighet
+
+#### 14 a §
+
+Kommunen ska snarast möjligt till Statens kulturråd anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget. *Förordning (2025:912)*.
+
+### Hinder mot utbetalning
+
+#### 14 b §
+
+Statens kulturråd ska besluta att ett beviljat bidrag helt eller delvis inte ska betalas ut om kommunen inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 15 §. Ett sådant beslut gäller omedelbart. *Förordning (2025:912)*.
+
+### Återbetalning och återkrav
+
+#### 15 §
+
+Kommunen är skyldig att betala tillbaka bidraget om
+
+1. kommunen genom att lämna oriktiga uppgifter eller på annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och kommunen borde ha insett detta,
+
+3. bidraget inte har utnyttjats eller använts för den verksamhet som det har beviljats för,
+
+4. kommunen inte har lämnat en sådan redovisning som avses i 12 § eller sådana uppgifter som avses i 13 §, eller
+
+5. villkor i beslutet inte har följts. *Förordning (2025:912)*.
+
+#### 16 §
+
+Statens kulturråd ska besluta att helt eller delvis kräva tillbaka bidraget, om kommunen är återbetalningsskyldig enligt 15 §.
+
+Om ett belopp som har återkrävts inte betalas i rätt tid, ska dröjsmålsränta enligt räntelagen (1975:635) tas ut på beloppet. *Förordning (2025:912)*.
+
+#### 16 a §
+
+Om det finns särskilda skäl för det, får Statens kulturråd besluta att helt eller delvis avstå från ett krav på återbetalning eller ett krav på ränta enligt 16 §.
+
+*Förordning (2025:912)*.
+
+### Bemyndigande
+
+#### 17 §
+
+Statens kulturråd får meddela närmare föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 18 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om hinder mot utbetalning enligt 14 b § och beslut om återkrav enligt 16 § får dock inte överklagas. *Förordning (2025:912)*.
+
+## Övergångsbestämmelser
+
+**2018:66**
+
+1. Denna förordning träder ikraft den 15 mars 2018.
+
+2. Genom förordningen upphävs förordningen (1996:1608) om statsbidrag till folkbibliotek.
+
+3. Den upphävda förordningen gäller dock fortfarande ifråga om statsbidrag som avser tid före ikraftträdandet.
+
+**2025:912**
+
+1. Denna förordning träder i kraft den 18 november 2025.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.

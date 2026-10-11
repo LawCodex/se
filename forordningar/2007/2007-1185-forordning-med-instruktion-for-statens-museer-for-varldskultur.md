@@ -1,0 +1,141 @@
+---
+title: "Förordning (2007:1185) med instruktion för Statens museer för världskultur"
+identifier: "SFS 2007:1185"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2026:865"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1185.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1185"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1185) med instruktion för Statens museer för världskultur
+
+## Uppgifter
+
+### 1 §
+
+Statens museer för världskultur har till uppgift att visa och levande-göra kulturer i världen med utgångspunkt i de samlingar som myndigheten förvaltar. Myndigheten ska verka för att dess verksamhet ska vara en angelägenhet för alla människor i samhället.
+
+Myndigheten ska dokumentera och belysa kulturers yttringar och villkor historiskt och i samtiden.
+
+Myndigheten ska främja tvärvetenskaplig kunskapsbildning och publik verksamhet i olika former. *Förordning (2021:856)*.
+
+### 2 §
+
+I myndigheten ingår Världskulturmuseet i Göteborg samt Etnografiska museet, Östasiatiska museet och Medelhavsmuseet i Stockholm.
+
+Myndigheten har sitt säte i Göteborg.
+
+### 3 §
+
+Myndigheten ska särskilt
+
+1. vårda, förteckna, vetenskapligt bearbeta och utveckla de samlingar som anförtrotts myndigheten,
+
+2. göra samlingarna tillgängliga för allmänheten och i det syftet bedriva utställningsverksamhet, pedagogisk verksamhet och annan förmedlingsverksamhet,
+
+3. genom kunskapsuppbyggnad och samarbeten med olika aktörer främja och berika samhällsdebatten inom sitt verksamhetsområde, och
+
+4. verka för ökad kunskap grundad på forskning och samverkan med andra, exempelvis universitet och högskolor, och förmedla kunskap inom sitt verksamhetsområde. *Förordning (2026:865)*.
+
+### 3 a §
+
+Myndigheten ska bedriva internationellt och interkulturellt utbyte och samarbete.
+
+*Förordning (2017:1090)*.
+
+### 3 b §
+
+Utöver de uppgifter som myndigheten har enligt 1, 3 och 3 a §§ får den tillhandahålla varor samt åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde. *Förordning (2026:865)*.
+
+## Rapportering
+
+### 3 c §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:172)*.
+
+### 4 §
+
+Myndigheten ska rapportera uppgifter om sin besöksutveckling till Myndigheten för kulturanalys.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2026:865)*.
+
+### 4 a §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultat-räkningen. *Förordning (2026:865)*.
+
+## Ledning
+
+### 5 §
+
+Myndigheten leds av en myndighetschef. *Förordning (2010:192)*.
+
+### 5 a §
+
+Vid myndigheten finns ett insynsråd som består av högst sex ledamöter. *Förordning (2026:865)*.
+
+## Anställningar och uppdrag
+
+### 6 §
+
+Överintendenten är myndighetschef. *Förordning (2010:192)*.
+
+## Personalansvarsnämnd
+
+### 7 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+*Förordning (2010:192)*.
+
+## Tillämpligheten av vissa förordningar
+
+### 8 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101). *Förordning (2010:192)*.
+
+## Avgifter
+
+### 9 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 3 § 2 och för lokaler.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 3 b §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:865)*.
+
+### 10 §
+
+För barn och unga under 19 år ska myndigheten ha fri entré till alla utställningar. *Förordning (2026:865)*.
+
+## Undantag från myndighetsförordningen
+
+### 11 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning. *Förordning (2010:192)*.
+
+### 12 §
+
+Ny beteckning 10 § genom *förordning (2010:192)*.
+
+### 13 §
+
+Ny beteckning 11 § genom *förordning (2010:192)*.

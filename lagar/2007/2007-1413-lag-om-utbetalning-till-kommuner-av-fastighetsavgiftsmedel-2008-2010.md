@@ -1,0 +1,31 @@
+---
+title: "Lag (2007:1413) om utbetalning till kommuner av fastighetsavgiftsmedel 2008-2010"
+identifier: "SFS 2007:1413"
+type: act
+jurisdiction: se
+language: sv
+date: 2007-12-18
+amended_through: "SFS 2009:1411"
+department: "Finansdepartementet BA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1413.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1413"
+retrieved: 2026-10-11
+---
+# Lag (2007:1413) om utbetalning till kommuner av fastighetsavgiftsmedel 2008-2010
+
+## 1 §
+
+En kommun har rätt att varje år under tiden 2008-2010 av staten uppbära fastighetsavgiftsmedel med ett belopp som bestäms enligt denna lag.
+
+## 2 §
+
+Ett totalt schablonbelopp avseende den sammanlagda fastighetsavgiften för 2008 ska fastställas av regeringen.
+
+Regeringen ska även fastställa ett totalt schablonbelopp avseende den sammanlagda tillkommande fastighetsavgiften för 2010. Skatteverket beslutar om fördelningen till kommunerna med ett enhetligt belopp per invånare den 1 november 2007.
+
+Utbetalning ska göras av Skatteverket på det sätt som närmare föreskrivs i 4 § fjärde stycket lagen (1965:269) med särskilda bestämmelser om kommuns och annan menighets utdebitering av skatt, m.m. *Lag (2009:1411)*.
+
+## 3 §
+
+Skatteverkets beslut enligt 2 § får överklagas hos regeringen.

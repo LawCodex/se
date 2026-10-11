@@ -1,0 +1,53 @@
+---
+title: "Lag (1932:242) om skyldighet i vissa fall att tillhandahålla förnödenheter m.m. för ordningsmaktens behov"
+identifier: "SFS 1932:242"
+type: act
+jurisdiction: se
+language: sv
+date: 1932-06-17
+amended_through: "SFS 1998:1553"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1932-242.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1932:242"
+retrieved: 2026-10-11
+---
+# Lag (1932:242) om skyldighet i vissa fall att tillhandahålla förnödenheter m.m. för ordningsmaktens behov
+
+## 1 §
+
+Polismyndigheten får, om det av särskilda skäl behövs då polisstyrka dras samman för att upprätthålla ordningen, förordna att ägare och inne-havare av förnödenheter, transportmedel, rum för personal och annat som är absolut nödvändigt för polisverksamheten och som inte tillräckligt fort kan anskaffas på annat sätt, skall vara skyldiga att på begäran av polisbefäl mot full ersättning tillhandahålla vad som begärs. Polismyndigheten bestämmer vilket polisbefäl som får framställa en sådan begäran.
+
+Polismyndigheten skall ange den ort och den tid, för vilken förordnandet gäller. *Lag (1998:1553)*.
+
+## 2 §
+
+Anfordran skall, där så lämpligen låter sig göra, i första hand riktas till den, som å orten driver rörelse eller eljest mot ersättning tillhandagår allmänheten med vad som är i fråga.
+
+Då så påfordras, skall anfordran göras skriftligen och överlämnas av polisman, försedd med vederbörligt tjänstetecken, samt kvitto lämnas å vad som mottages.
+
+## 3 §
+
+Transportmedel och rum tillhandahållas med nyttjanderätt. I övrigt skall tillhandahållande ske med äganderätt, därest ej annat vid anfordran bestämts eller får anses överenskommet.
+
+## 4 §
+
+I de fall, då begärd ersättning icke betalas av vederbörande polisbefäl, må framställning om ersättning göras hos länsstyrelsen, som har att utbetala vad som finnes skäligt. Erhåller sökanden efter klagan i vederbörlig ordning över länsstyrelsens beslut icke den ersättning han begärt, må han hos domstol föra talan i saken.
+
+## 5 §
+
+Vägrar eller försummar någon att fullgöra anfordran enligt denna lag, äger vederbörande polisbefäl låta uttaga det begärda.
+
+Den som gör sig skyldig till vägran eller försummelse, som nu sagts, döms till böter. *Lag (1991:249)*.
+
+## 6 §
+
+har upphävts genom *lag (1991:249)*.
+
+## 7 §
+
+Vad i denna lag stadgats skall äga motsvarande tillämpning, då militär personal enligt vad därom är föreskrivet tages i anspråk för upprätthållande av allmän ordning.
+
+## 8 §
+
+Närmare bestämmelser för tillämpning av denna lag meddelas av Konungen.

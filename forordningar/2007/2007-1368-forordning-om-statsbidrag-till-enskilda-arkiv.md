@@ -1,0 +1,83 @@
+---
+title: "Förordning (2007:1368) om statsbidrag till enskilda arkiv"
+identifier: "SFS 2007:1368"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-12-18
+amended_through: "SFS 2012:815"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1368.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1368"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1368) om statsbidrag till enskilda arkiv
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag till enskilda arkiv som inte omfattas av kultursamverkansmodellen enligt förordningen (2010:2012) om fördelning av vissa statsbidrag till regional kulturverksamhet.
+
+Statsbidrag lämnas i mån av tillgång på medel.
+
+*Förordning (2012:815)*.
+
+### Villkor för statsbidrag
+
+#### 2 §
+
+Statsbidrag får ges till enskilda arkivinstitutioner och institutioner eller föreningar med anknytning till arkivverksamhet.
+
+Statsbidrag får också ges till andra för bevarande och tillgängliggörande av företagsarkiv.
+
+#### 3 §
+
+I förordningen (1996:1598) om statsbidrag till regional kulturverksamhet finns särskilda bestämmelser om statsbidrag till regionala arkivinstitutioner.
+
+### Ärendenas handläggning
+
+#### 4 §
+
+Frågor om statsbidrag enligt denna förordning prövas av Riksarkivet.
+
+### Redovisning
+
+#### 5 §
+
+Den som har fått statsbidrag ska redovisa till Riksarkivet hur medlen har använts.
+
+### Återbetalning
+
+#### 6 §
+
+Statsbidrag får helt eller delvis krävas tillbaka om
+
+1. mottagaren av statsbidraget genom att lämna oriktiga uppgifter eller på annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. statsbidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. statsbidraget inte används för det ändamål som det har beviljats för,
+
+4. den som har mottagit statsbidraget inte lämnar sådan redovisning som avses i 5 §, eller
+
+5. villkor i beslutet inte har följts.
+
+### Bemyndigande
+
+#### 7 §
+
+Riksarkivet får meddela de föreskrifter som behövs för verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 8 §
+
+Beslut enligt denna förordning får inte överklagas.
+
+## Övergångsbestämmelser
+
+**2007:1368**
+
+Denna förordning träder i kraft den 15 januari 2008. Bidrag enligt förordningen lämnas dock för tid från och med den 1 januari 2008.

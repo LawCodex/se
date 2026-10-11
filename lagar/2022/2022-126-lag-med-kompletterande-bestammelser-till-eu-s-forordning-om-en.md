@@ -1,0 +1,51 @@
+---
+title: "Lag (2022:126) med kompletterande bestämmelser till EU:s förordning om en gemensam digital ingång"
+identifier: "SFS 2022:126"
+type: act
+jurisdiction: se
+language: sv
+date: 2022-02-24
+amended_through: "SFS 2024:145"
+department: "Finansdepartementet DOF"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-126.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:126"
+retrieved: 2026-10-11
+---
+# Lag (2022:126) med kompletterande bestämmelser till EU:s förordning om en gemensam digital ingång
+
+### 1 §
+
+I denna lag finns bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2018/1724 av den 2 oktober 2018 om inrättande av en gemensam digital ingång för tillhandahållande av information, förfaranden samt hjälp- och problemlösningstjänster och om ändring av förordning (EU) nr 1024/2012 (EU-förordningen).
+
+Termer och uttryck i lagen har samma betydelse som i EU- förordningen.
+
+### 2 §
+
+Regeringen bestämmer vilka förvaltningsmyndigheter under regeringen som ska vara nationella samordnare enligt EU- förordningen.
+
+Regeringen får meddela föreskrifter om vilka kommunala myndigheter och enskilda organ som ska vara nationella samordnare enligt EU-förordningen och vilka uppgifter som en samordnare ska ha enligt artikel 28.1 i EU-förordningen.
+
+*Lag (2024:145)*.
+
+### 3 §
+
+En behörig myndighet ska, inom ramen för sitt ansvarsområde enligt bilagorna I-III till EU-förordningen, genom den gemensamma digitala ingången ge tillgång till
+
+1. information som omfattas av artikel 4.1 a-c i EU- förordningen och som uppfyller kraven på kvalitet i artiklarna 9, 10.1, 10.4 och 11, och
+
+2. hjälp- och problemlösningstjänster som omfattas av artikel 2.2 c och som uppfyller kraven på tillgång i artikel 7.1.
+
+### 4 §
+
+En behörig myndighet ska, inom ramen för sitt ansvarsområde enligt bilagorna I-III till EU-förordningen, genom den gemensamma digitala ingången ge tillgång till förfaranden som omfattas av artikel 2.2 b i EU-förordningen och som uppfyller kraven på tillgång i artikel 6.1 eller i artikel 13.1 och 13.2.
+
+### 5 §
+
+En behörig myndighet ska lämna den information till en nationell samordnare som behövs för att denne ska kunna fullgöra sina uppgifter enligt EU-förordningen.
+
+## Övergångsbestämmelser
+
+**2022:126**
+
+Denna lag träder i kraft den 12 december 2023 i fråga om 4 § och i övrigt den 1 april 2022.

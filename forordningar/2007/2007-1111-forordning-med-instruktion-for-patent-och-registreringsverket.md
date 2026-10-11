@@ -1,0 +1,133 @@
+---
+title: "Förordning (2007:1111) med instruktion för Patent- och registreringsverket"
+identifier: "SFS 2007:1111"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-29
+amended_through: "SFS 2026:30"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1111.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1111"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1111) med instruktion för Patent- och registreringsverket
+
+## Uppgifter
+
+### 1 §
+
+Patent- och registreringsverket ska
+
+1. ansvara för ärenden om patent, varumärken och mönster,
+
+2. handlägga ärenden om registrering av kommunala vapen,
+
+3. vara internationell myndighet enligt förordningen (1978:218) om patent- och registreringsverkets verksamhet som internationell myndighet enligt konventionen om patentsamarbete,
+
+4. vara varumärkesmyndighet enligt 5 kap. varumärkeslagen (2010:1877) i Sverige i ärenden om internationell varumärkesregistrering,
+
+5. ansvara för att vidarebefordra uppgifter om herrelösa verk enligt 3 § femte stycket upphovsrättsförordningen (1993:1212),
+
+6. utöva tillsyn enligt lagen (2016:977) om kollektiv förvaltning av upphovsrätt,
+
+7. ansvara för skyddet av geografiska beteckningar på hantverks- och industriprodukter,
+
+8. pröva frågor om tillstånd och dispens enligt vad som är särskilt föreskrivet, och
+
+9. se till att de regelverk och rutiner verket disponerar över är kostnadseffektiva och enkla för medborgare och företag.
+
+*Förordning (2025:955)*.
+
+### 2 §
+
+Patent- och registreringsverket ger ut publikationer såsom patentdokument, årsregister till patent, tidning för kungörelser om patentansökningar och patent, registreringstidning för varumärken och registreringstidning för mönster.
+
+Verket utfärdar bevis och utdrag ur verkets register.
+
+*Förordning (2017:1060)*.
+
+### 2 a §
+
+Patent- och registreringsverket ska långsiktigt främja tillväxten samt stärka innovationsförmågan och konkurrenskraften i hela landet.
+
+Verket ska informera om och bidra till ökad förståelse för immateriella tillgångar och rättigheter. *Förordning (2017:1060)*.
+
+### 2 b §
+
+Patent- och registreringsverket ska tillhandahålla en förteckning över personer som har förklarat sig villiga att medla i tvister med anledning av åtgärder som vidtagits med stöd av 52 l § lagen (1960:729) om upphovsrätt till litterära och konstnärliga verk. Patent- och registreringsverket ska även tillhandahålla information om medling som tvistlösningsform i sådana tvister. *Förordning (2022:1717)*.
+
+### 3 §
+
+Patent- och registreringsverket får bedriva uppdragsverksamhet, såsom att tillhandahålla konsulttjänster för granskning och annan rådgivning, ombesörja bevakning av avgifter för patent, varumärken och mönsterskydd, bedriva kurs- och utbildningsverksamhet samt tillhandahålla tjänster avseende verkets dokumentation.
+
+Patent- och registreringsverket får bedriva tjänsteexport som är direkt kopplad till myndighetens verksamhetsområde och som ligger inom ramen för det uppdrag som anges i denna instruktion eller i annan förordning. *Förordning (2010:1533)*.
+
+### 4 §
+
+Patent- och registreringsverket får till en stat som inte ingår i Europeiska unionen eller är ansluten till Europeiska ekonomiska samarbetsområdet föra över personuppgifter i den utsträckning uppgifterna ingår i patent-, varumärkes- eller mönsterdokumentation som
+
+1. utgör allmän handling hos verket, eller
+
+2. ingår i verkets
+
+a. patentregister eller diarium enligt 9 kap. 16 § patentförordningen (2024:1020),
+
+b. varumärkesregister eller diarium enligt 1 kap. 1 § andra stycket varumärkesförordningen (2011:594), eller
+
+c. mönsterregister eller diarium enligt 6 § mönsterskyddsförordningen (1970:486). *Förordning (2024:1025)*.
+
+## Ledning
+
+### 5 §
+
+Patent- och registreringsverket leds av en myndighetschef.
+
+### 6 §
+
+Vid Patent- och registreringsverket ska det finnas ett insynsråd som består av högst tio ledamöter.
+
+## Organisation
+
+### 6 a §
+
+Patent- och registreringsverket ska upplåta lokaler och sköta administrativa och handläggande uppgifter åt Granskningsnämnden för försvarsuppfinningar.
+
+*Förordning (2026:30)*.
+
+## Anställningar och uppdrag
+
+### 7 §
+
+Generaldirektören är myndighetschef.
+
+## Personalansvarsnämnd
+
+### 8 §
+
+Vid Patent- och registreringsverket ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av viss förordning
+
+### 9 §
+
+Patent- och registreringsverket ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Ärendenas handläggning
+
+### 10 §
+
+Avdelningscheferna på patent- och varumärkesavdelningarna eller av dem särskilt förordnade tjänstemän får förordna om muntlig förhandling, om det behövs för att utreda ett ärende.
+
+En begäran av en sökande eller en behörig invändare om muntlig förhandling i ett patent-, varumärkes- eller mönsterärende får inte avslås om den som begärt förhandlingen inte förut fått tillfälle att yttra sig vid sådan förhandling. *Förordning (2017:1060)*.
+
+## Avgifter
+
+### 11 §
+
+Patent- och registreringsverket ansvarar för att ta ut avgifter för ärenden om patent, varumärken, mönster och kommunala vapen.
+
+Verket ska ta ut avgifter för den verksamhet som myndigheten bedriver enligt 3 §. Avgifter ska dock inte tas ut av Bolagsverket för tillgång till registerinformation när det gäller varumärken.
+
+Verket ansvarar för att avgiftsfördelning sker mellan Europeiska patentverket och Sverige när det gäller europeiska patent med enhetlig verkan. *Förordning (2024:1025)*.

@@ -1,0 +1,93 @@
+---
+title: "Förordning (2007:1233) med instruktion för Statens beredning för medicinsk och social utvärdering"
+identifier: "SFS 2007:1233"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-29
+amended_through: "SFS 2025:487"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1233.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1233"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1233) med instruktion för Statens beredning för medicinsk och social utvärdering
+
+## Uppgifter
+
+### 1 §
+
+Statens beredning för medicinsk och social utvärdering har till uppgift att utvärdera det vetenskapliga stödet för tillämpade och nya metoder i hälso- och sjukvården och i den verksamhet som bedrivs med stöd av socialtjänstlagen (2025:400) och lagen (1993:387) om stöd och service till vissa funktionshindrade ur, där det är aktuellt, ett medicinskt, socialt, ekonomiskt, samhälleligt och etiskt perspektiv. Myndigheten ska i sin utvärdering inkludera ett jämställdhetsperspektiv där det är möjligt.
+
+*Förordning (2025:487)*.
+
+### 1 a §
+
+Myndigheten ska systematiskt sammanställa kunskap om arbetsmiljöns betydelse för uppkomst av sjukdom. Sammanställningarna ska användas vid bedömning av arbetsskador enligt socialförsäkringsbalken.
+
+*Förordning (2018:1531)*.
+
+### 1 b §
+
+Myndigheten ska sammanställa utvärderingarna på ett enkelt och lättfattligt sätt och sprida dem så att huvudmän (regioner och kommuner), vårdgivare och andra berörda kan tillägna sig kunskapen. Myndigheten ska kontinuerligt utveckla sitt arbete med att sprida utvärderingarna så att dessa tillämpas i praktiken och leder till önskade förändringar inom hälso- och sjukvården och socialtjänsten.
+
+Myndigheten ska systematiskt identifiera och aktivt informera om sådana metoder i hälso- och sjukvården och socialtjänsten vars effekter det saknas tillräcklig kunskap om.
+
+*Förordning (2019:1065)*.
+
+### 2 §
+
+Myndigheten ska vara kontaktmyndighet i internationella frågor som rör utvärdering av medicinska metoder och stödja såväl det europeiska samarbetet som övrigt internationellt samarbete.
+
+## Samverkan
+
+### 2 a §
+
+Myndighetens arbete med att styra med kunskap ska planeras och utföras i samverkan med andra berörda myndigheter så att den statliga styrningen med kunskap avseende hälso- och sjukvård och socialtjänst är samordnad.
+
+Bestämmelser om samverkan med vissa andra myndigheter finns i förordningen (2015:155) om statlig styrning med kunskap avseende hälso- och sjukvård och socialtjänst.
+
+*Förordning (2015:167)*.
+
+## Ledning
+
+### 3 §
+
+Myndigheten leds av en myndighetschef.
+
+### 4 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst tio ledamöter. *Förordning (2023:293)*.
+
+### 4 a §
+
+Har upphävts genom *förordning (2023:293)*.
+
+### 4 b §
+
+Har upphävts genom *förordning (2023:293)*.
+
+## Anställningar och uppdrag
+
+### 5 §
+
+Generaldirektören är myndighetschef.
+
+*Förordning (2014:150)*.
+
+### 6 §
+
+Har upphävts genom *förordning (2023:293)*.
+
+## Personalansvarsnämnd
+
+### 7 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av viss förordning
+
+### 8 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).

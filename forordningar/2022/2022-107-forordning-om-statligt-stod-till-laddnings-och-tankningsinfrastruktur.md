@@ -1,0 +1,251 @@
+---
+title: "Förordning (2022:107) om statligt stöd till laddnings- och tankningsinfrastruktur för tunga transporter"
+identifier: "SFS 2022:107"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2022-02-10
+amended_through: "SFS 2026:1256"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-107.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:107"
+retrieved: 2026-10-11
+---
+# Förordning (2022:107) om statligt stöd till laddnings- och tankningsinfrastruktur för tunga transporter
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om statligt investeringsstöd för utveckling av laddnings- och tankningsinfrastruktur i hamnar och för bussar och tunga godstransporter på väg. Stödet syftar till att påskynda elektrifieringen av sådana tunga transporter.
+
+*Förordning (2026:1256)*.
+
+### 2 §
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+## Ord och uttryck
+
+### 3 §
+
+I denna förordning betyder
+
+1. infrastruktur för laddning och vätgastankning: en infrastruktur där en eller flera aktörer utvecklar laddningsstationer eller tankningsstationer för vätgas,
+
+2. elfordon: fordon som är försedda med ett framdrivningssystem som innehåller minst en icke-perifer elektrisk maskin som energiomvandlare med ett elektriskt uppladdningsbart energilagringssystem som kan laddas externt och som enligt lagen (2001:559) om vägtrafikdefinitioner är bussar eller tunga lastbilar,
+
+3. elfartyg: flytande konstruktioner, med ett eller flera deplacementskrov och ett eget framdrivningssystem, som innehåller minst en icke-perifer elektrisk maskin som energiomvandlare med ett elektriskt uppladdningsbart energilagringssystem som kan laddas externt,
+
+4. laddningsstation: en anläggning med en eller flera laddningspunkter,
+
+5. laddningspunkt: ett fast eller mobilt gränssnitt, med eller utan anslutning till ett elnät, som möjliggör överföring av el till ett elfordon eller elfartyg och som kan ladda endast ett elfordon eller elfartyg åt gången,
+
+6. tankningsstation för vätgas: en fysisk anläggning som finns på en viss plats och som består av en eller flera tankningspunkter,
+
+7. tankningspunkt: en tankningsanläggning för tillhandahållande av flytande eller gasformiga drivmedel, med en fast eller mobil installation som kan tanka endast ett fordon eller fartyg åt gången.
+
+I övrigt har ord och uttryck i förordningen samma betydelse som i kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse och i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget. *Förordning (2026:1256)*.
+
+## Förutsättningar för stöd
+
+### 4 §
+
+Stöd får, om det finns medel, lämnas för att uppföra, installera, uppgradera eller bygga ut en laddnings- eller tankningsinfrastruktur i enlighet med de villkor som anges i kapitel I och artikel 36a, 56b eller 56c i kommissionens förordning (EU) nr 651/2014 eller i kommissionens förordning (EU) 2023/2831.
+
+För att stöd ska få lämnas för en åtgärd som avser en laddnings- eller tankningsinfrastruktur som ska vara öppen för andra användare än stödmottagaren krävs också att
+
+1. stödmottagaren bedöms ha förutsättningar att sprida kunskap och information om åtgärden,
+
+2. stödmottagaren kan tillgängliggöra relevanta fordons-, fartygs-, laddnings- och tankningsrelaterade data om elektrifiering och optimerade logistikflöden, och
+
+3. laddnings- och tankningspunkterna utrustas på ett sådant sätt att information om dem kan förmedlas och offentliggöras i realtid. *Förordning (2026:1256)*.
+
+### 5 §
+
+Om ett stöd lämnas enligt 4 § får stöd, om det finns medel, även lämnas för
+
+1. utveckling, test och demonstration av infrastruktur för laddning och vätgastankning i enlighet med kapitel I och artikel 25.2 c i kommissionens förordning (EU) nr 651/2014, och
+
+2. insatser som är relevanta för att genomföra en satsning på infrastruktur för laddning och vätgastankning, i enlighet med kapitel I och artikel 27 i kommissionens förordning (EU) nr 651/2014.
+
+Stödet får även lämnas i enlighet med kommissionens förordning (EU) 2023/2831. *Förordning (2026:1256)*.
+
+### 5 a §
+
+För produkter som omfattas av artikel 28 i Europaparlamentets och rådets förordning (EU) 2024/1735 av den 13 juni 2024 om inrättande av en åtgärdsram för att stärka Europas ekosystem för tillverkning av nettonollteknik och om ändring av förordning (EU) 2018/1724, ska Statens energi- myndighet inför varje ansökningsperiod bestämma och offentliggöra kriterier som säkerställer att stödet särskilt främjar resiliens och hållbarhet. *Förordning (2026:1256)*.
+
+### 6 §
+
+Statens energimyndighet får lämna stöd trots att ett eller flera av urvalskriterierna i 4 § andra stycket inte är uppfyllda, om det behövs för att syftet med stödet ska uppfyllas. Stödberättigande åtgärder som inte uppfyller kriterierna enligt 5 a § ska få lägre stöd än åtgärder som uppfyller kriterierna.
+
+Statens energimyndighet får bestämma vilka ytterligare kriterier än de som anges i 4 § andra stycket och som avses i 5 a § som ska gälla. *Förordning (2026:1256)*.
+
+### 7 §
+
+En ansökan om stöd ska ha lämnats in innan arbetet med en åtgärd inleds. I ansökan ska det anges när åtgärden senast planeras vara slutförd och tagen i drift.
+
+*Förordning (2026:1256)*.
+
+### 8 §
+
+Om uppgifter om ett stöd till ett företag ska offentliggöras enligt artikel 9 i kommissionens förordning (EU) nr 651/2014, får stödet endast beviljas om företaget samtycker till offentliggörandet.
+
+### 9 §
+
+Stöd får inte lämnas för åtgärder som
+
+1. måste genomföras för att uppfylla en skyldighet enligt lag, annan författning eller villkor i ett tillstånd, eller
+
+2. har beviljats annat offentligt stöd för samma ändamål.
+
+### 9 a §
+
+Stöd får inte lämnas till ett företag som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Statens energimyndighet.
+
+*Förordning (2026:1256)*.
+
+### 9 b §
+
+Stöd får inte lämnas till ett företag om någon som har ett betydande inflytande i verksamheten har näringsförbud.
+
+*Förordning (2026:1256)*.
+
+### 9 c §
+
+Stöd får endast lämnas till företag som är godkända för F-skatt eller, i fråga om utländska företagare och företag, har ett intyg eller en annan handling som visar att företagaren eller företaget genomgår motsvarande kontroll i fråga om skatter och avgifter i sitt hemland.
+
+*Förordning (2026:1256)*.
+
+### 10 §
+
+Stöd av mindre betydelse som omfattas av kommissionens förordning (EU) 2023/2831 får inte lämnas till sådana företag i svårigheter som avses i artikel 2.18 i kommissionens förordning (EU) nr 651/2014. *Förordning (2024:387)*.
+
+### 11 §
+
+Stöd till andra juridiska personer än företag får lämnas i den omfattning som krävs för att en åtgärd ska kunna genomföras och ska, när det gäller stödberättigande kostnader och stödnivåer, följa samma villkor som gäller enligt 4 § första stycket och 5 §. *Förordning (2026:1256)*.
+
+## Prövning av stödärenden
+
+### 12 §
+
+Statens energimyndighet prövar frågor om stöd.
+
+En ansökan om stöd ska göras av en behörig företrädare för sökanden och lämnas elektroniskt till myndigheten på det sätt som myndigheten anvisar. *Förordning (2026:1256)*.
+
+### 13 §
+
+En ansökan om stöd enligt kommissionens förordning (EU) 2023/2831 ska innehålla en redogörelse för allt annat stöd
+
+1. av mindre betydelse som sökanden har tagit emot under den senaste treårsperioden, och
+
+2. som sökanden tidigare ansökt om eller beviljats och som avser samma stödberättigande kostnader som ansökan omfattar.
+
+*Förordning (2024:387)*.
+
+### 13 a §
+
+Statens energimyndighet får avslå en ansökan om stöd, om myndigheten med stöd av 18 § har beslutat att inte betala ut ett tidigare beviljat stöd eller med stöd av 20 § har beslutat att återkräva utbetalat stöd på grund av omständigheter som hänför sig till sökanden eller till en företrädare med väsentligt inflytande över stödmottagaren.
+
+*Förordning (2026:1256)*.
+
+## Beslut om stöd
+
+### 14 §
+
+Statens energimyndighet ska, innan ett stöd enligt kommissionens förordning (EU) 2023/2831 beviljas,
+
+1. lämna de upplysningar till stödmottagaren som framgår av artikel 7.4 i den förordningen, och
+
+2. genomföra den kontroll som framgår av artikel 6.4 i den förordningen. *Förordning (2024:387)*.
+
+### 15 §
+
+Ett beslut om stöd ska innehålla ett villkor om att stödmottagaren, på begäran av Statens energimyndighet, ska lämna de uppgifter som krävs för tillsyn, uppföljning och utvärdering av stödet. Beslutet ska även innehålla de övriga villkor som behövs för att uppfylla syftet med stödet.
+
+Av beslutet ska det även framgå när den åtgärd som stödet avser senast ska vara slutförd och tagen i drift.
+
+Om ett villkor innebär att en laddnings- eller tankningsstation ska vara i fortsatt drift under en viss tid, får den tidsperioden vara högst fem år. *Förordning (2026:1256)*.
+
+## Anmälningsskyldighet
+
+### 15 a §
+
+Den som ansöker om eller har beviljats stöd enligt denna förordning ska snarast möjligt till Statens energimyndighet anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på stödet.
+
+*Förordning (2026:1256)*.
+
+## Utbetalning av stöd
+
+### 16 §
+
+Ett stöd betalas ut efter slutfört arbete. Statens energimyndighet får dock betala ut högst 75 procent av det beviljade stödet i förskott.
+
+### 17 §
+
+Ett stöd som har beviljats enligt denna förordning får inte betalas ut till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarar att ett stöd beviljat av en svensk stödgivare är olagligt och oförenligt med den inre marknaden.
+
+### 18 §
+
+Statens energimyndighet ska besluta att ett stöd helt eller delvis inte ska betalas ut, om
+
+1. sökanden genom att lämna oriktiga uppgifter eller på något annat sätt har orsakat att stödet beviljats felaktigt eller med för högt belopp,
+
+2. stödet av någon annan orsak har lämnats felaktigt eller med för högt belopp och mottagaren skäligen borde ha insett detta,
+
+3. förhållandena som låg till grund för beslutet om stöd har ändrats på ett sådant sätt som avses i 15 a § och den sökande eller stödmottagaren inte har anmält det,
+
+4. den sökande eller stödmottagaren inte har lämnat sådana uppgifter som avses i 15 § första stycket efter en begäran av Statens energimyndighet, eller
+
+5. villkoren för stödet inte har följts och avvikelsen inte är av mindre betydelse. *Förordning (2026:1256)*.
+
+## Tillsyn, uppföljning och utvärdering
+
+### 19 §
+
+Statens energimyndighet utövar tillsyn över att villkoren för stödet följs.
+
+Myndigheten ska även följa upp och utvärdera stöd som har lämnats enligt denna förordning. *Förordning (2026:1256)*.
+
+## Återbetalning och återkrav
+
+### 20 §
+
+En stödmottagare är återbetalningsskyldig för stöd som har betalats ut
+
+1. i sådana situationer som anges i 18 §, eller
+
+2. om stödet helt eller delvis inte har utnyttjats eller inte har använts för det ändamål som det har beviljats för.
+
+På det belopp som en stödmottagare är återbetalningsskyldig för ska ränta enligt 5 § räntelagen (1975:635) betalas från och med den trettionde dagen efter den dag då beslutet om återkrav enligt 21 § fattades. *Förordning (2026:1256)*.
+
+### 21 §
+
+Om en stödmottagare är återbetalningsskyldig enligt 20 §, ska Statens energimyndighet besluta att helt eller delvis kräva tillbaka stödet tillsammans med ränta. Kravet eller räntan får helt eller delvis sättas ned om det finns särskilda skäl.
+
+## Offentliggörande, rapportering och registerföring
+
+### 22 §
+
+Bestämmelser om offentliggörande, rapportering och registerföring finns i 12 a § lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och i förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler.
+
+## Bemyndigande
+
+### 23 §
+
+Statens energimyndighet får meddela föreskrifter om verkställigheten av denna förordning.
+
+## Överklagande
+
+### 24 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 17, 18 och 21 §§ får dock inte överklagas.
+
+*Förordning (2024:387)*.

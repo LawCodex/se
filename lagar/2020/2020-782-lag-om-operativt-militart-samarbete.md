@@ -1,0 +1,109 @@
+---
+title: "Lag (2020:782) om operativt militärt samarbete"
+identifier: "SFS 2020:782"
+type: act
+jurisdiction: se
+language: sv
+date: 2020-09-10
+amended_through: "SFS 2026:1374"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-782.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:782"
+retrieved: 2026-10-11
+---
+# Lag (2020:782) om operativt militärt samarbete
+
+## Medgivande till regeringen att sätta in väpnade styrkor
+
+### 1 §
+
+Regeringen får, inom de närmare ramar som riksdagen beslutar om för ett kalenderår eller en annan period, sätta in svenska väpnade styrkor för att i enlighet med internationell rätt delta i operationer eller andra aktiviteter för Natos samlade avskräckning och försvar.
+
+Regeringen får också, utöver vad som följer av första stycket, sätta in svenska väpnade styrkor i sådan verksamhet som avses i första stycket om behovet av ett insättande uppkommer med kort varsel. Högst 500 personer får samtidigt tjänstgöra med stöd av detta stycke i varje enskild operation eller annan aktivitet. Högst 1 000 personer får samtidigt tjänstgöra med stöd av detta stycke. Ett insättande enligt detta stycke får för varje enskild operation eller annan aktivitet bestå under högst 90 dagar.
+
+Regeringen får även sätta in svenska väpnade styrkor i sådan verksamhet som avses i första stycket om ett dröjsmål i insättandet skulle leda till avsevärda men för angelägna svenska intressen. Högst 1 000 personer får samtidigt tjänstgöra med stöd av detta stycke. Ett insättande enligt detta stycke får för varje enskild operation eller annan aktivitet bestå under högst 60 dagar. *Lag (2025:998)*.
+
+### 1 a §
+
+Regeringen får, under förutsättning att Sverige inte är i krig och det inte råder en väpnad konflikt på finskt territorium, på begäran av Finland sätta in svenska väpnade styrkor för att i enlighet med internationell rätt stödja Finland med att hindra kränkningar av finskt territorium.
+
+*Lag (2025:998)*.
+
+## Bemyndigande att överlåta förvaltningsuppgifter för genomförande av militär verksamhet på svenskt territorium
+
+### 2 §
+
+Regeringen får besluta att Nato, eller en stat som är medlem i den organisationen eller i Europeiska unionen, vid genomförandet av militär verksamhet för avskräckning och försvar får vidta militära försvarsåtgärder i enlighet med internationell rätt på svenskt territorium och i och med det beslutet överlåta förvaltningsuppgifter till Nato eller den staten. *Lag (2026:1374)*.
+
+### 3 §
+
+Regeringen får besluta att 10 § första stycket 1, 2 och 4, 10 § andra stycket, 13 § och 19 § första stycket polislagen (1984:387) ska gälla även för utländsk militär personal när sådan personal agerar för att upprätthålla ordningen inom den utländska styrkan och styrkan kommer från
+
+1. Nato,
+
+2. en stat som är medlem i Nato, eller,
+
+3. en stat som är medlem i Europeiska unionen.
+
+*Lag (2026:1374)*.
+
+### 3 a §
+
+Har betecknats 3 § genom *lag (2026:1374)*.
+
+### 4 §
+
+Försvarsmakten får besluta att utländsk militär personal som genomför militär verksamhet för avskräckning och försvar får anlitas för bevakning av sådana skyddsobjekt som avses i 5 § 1, 3, 4 och 6 skyddslagen (2010:305), om
+
+1. det är lämpligt och förenligt med de uppgifter som styrkan har, och
+
+2. styrkan kommer från Nato eller en stat som är medlem i den organisationen eller i Europeiska unionen.
+
+Det som föreskrivs i 11-17 §§ skyddslagen och i 10 § första stycket 1, 2 och 4, 10 § andra stycket samt 19 § första stycket 1 polislagen (1984:387) ska även gälla utländsk militär personal som enligt första stycket bevakar skyddsobjekt. *Lag (2026:1374)*.
+
+### 5 §
+
+Försvarsmakten får besluta att utländsk militär personal som genomför militär verksamhet för avskräckning och försvar får genomföra beslut om undanförsel eller förstöring enligt lagen (1992:1402) om undanförsel och förstöring om styrkan kommer från
+
+1. Nato,
+
+2. en stat som är medlem i Nato, eller,
+
+3. en stat som är medlem i Europeiska unionen.
+
+*Lag (2026:1374)*.
+
+### 6 §
+
+Utländsk militär personal som utövar myndighet i Sverige enligt 3, 4 eller 5 § ska vara skyddad enligt 17 kap. 1-4 §§ brottsbalken på motsvarande sätt som om det hade varit fråga om svensk myndighetsutövning. *Lag (2026:1374)*.
+
+## Samarbete med Amerikas förenta stater
+
+### 7 §
+
+En amerikansk styrka och en utländsk leverantör till styrkan får inom ramen för avtalet den 5 december 2023 mellan Sverige och Amerikas förenta stater om försvarssamarbete bedriva hälso- och sjukvårdsverksamhet och tandvårdsverksamhet i Sverige när vårdtagarna ingår i den amerikanska styrkan, är anhöriga till medlemmar av styrkan eller leverantörer till styrkan. Verksamheten får bedrivas i enlighet med de bestämmelser som gäller i Amerikas förenta stater.
+
+En vårdtagare som tar emot sådan vård som avses i första stycket omfattas inte av svenska regler om hälso- och sjukvård och tandvård. *Lag (2024:553)*.
+
+### 8 §
+
+Sjukvårdsprodukter och den övriga utrustning som behövs för att bedriva sådan verksamhet som avses i 7 och 9 §§ får föras in till och ut från Sverige samt användas i Sverige i enlighet med de bestämmelser som gäller i Amerikas förenta stater. *Lag (2024:553)*.
+
+### 9 §
+
+En militär serviceverksamhet som inrättats av en amerikansk styrka för att i Sverige tillhandahålla service till medlemmar av styrkan eller deras anhöriga omfattas inte av svenska regler om tillstånd och tillsyn. *Lag (2024:553)*.
+
+### 10 §
+
+En medlem av en amerikansk styrka och en utländsk leverantör till styrkan får, inom ramen för avtalet den 5 december 2023 mellan Sverige och Amerikas förenta stater om försvarssamarbete, i Sverige utföra tjänster för styrkans personal, personalens anhöriga eller leverantörer till styrkan, samt för andra personer som gemensamt har bestämts av Sverige och Amerikas förenta stater, utan krav på svensk yrkeslegitimation, yrkeslicens eller motsvarande krav på tillstånd.
+
+Första stycket gäller under förutsättning att den enskilde har en gällande amerikansk yrkeslegitimation eller yrkeslicens eller en sådan legitimation eller licens från en medlemsstat i Europeiska ekonomiska samarbetsområdet eller andra lämpliga yrkeskvalifikationer som godtas av amerikanska myndigheter.
+
+*Lag (2024:553)*.
+
+### 11 §
+
+För arbete som utförs av en arbetstagare som är anställd hos en utländsk leverantör till en amerikansk styrka inom ramen för avtalet den 5 december 2023 mellan Sverige och Amerikas förenta stater om försvarssamarbete ska arbetstidslagen (1982:673) inte gälla.
+
+Första stycket gäller endast arbete som utförs av en sådan arbetstagare som inte är svensk medborgare eller stadigvarande bosatt i Sverige. *Lag (2024:553)*.

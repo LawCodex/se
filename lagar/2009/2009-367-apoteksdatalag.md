@@ -1,0 +1,207 @@
+---
+title: "Apoteksdatalag (2009:367)"
+identifier: "SFS 2009:367"
+type: act
+jurisdiction: se
+language: sv
+date: 2009-05-07
+amended_through: "SFS 2026:1348"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-367.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:367"
+retrieved: 2026-10-11
+---
+# Apoteksdatalag (2009:367)
+
+## Inledande bestämmelse
+
+### 1 §
+
+Denna lag tillämpas vid sådan personuppgiftsbehandling vid öppenvårdsapotekens detaljhandel med läkemedel m.m. som är helt eller delvis automatiserad, eller där uppgifterna ingår i eller är avsedda att ingå i en strukturerad samling av personuppgifter, som är tillgängliga för sökning eller sammanställning enligt särskilda kriterier.
+
+Personuppgifter som rör konsumenter och de som är behöriga att förordna läkemedel får behandlas för de ändamål som anges i 8 §.
+
+## Definitioner
+
+### 2 §
+
+I denna lag har termer och uttryck som också förekommer i läkemedelslagen (2015:315) samma betydelse som i den lagen.
+
+Det som i denna lag föreskrivs i fråga om läkemedel ska också gälla sådana varor och varugrupper som avses i 18 kap. 2 § läkemedelslagen. *Lag (2015:324)*.
+
+### 3 §
+
+Med öppenvårdsapotek avses i denna lag en sådan inrättning för detaljhandel med läkemedel som bedrivs med tillstånd enligt 2 kap. 1 § lagen (2009:366) om handel med läkemedel.
+
+Med tillståndshavare avses i denna lag den som enligt 2 kap. 1 § lagen om handel med läkemedel har fått tillstånd att bedriva detaljhandel med läkemedel.
+
+## Krav på behandling, hantering och förvaring
+
+### 4 §
+
+Personuppgifter ska behandlas så att den enskildes integritet respekteras.
+
+Dokumenterade personuppgifter ska hanteras och förvaras så att obehöriga inte får tillgång till dem.
+
+## Förhållandet till annan reglering
+
+### 5 §
+
+Denna lag innehåller bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskyddsförordning.
+
+Vid behandling av personuppgifter enligt denna lag gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna lag eller föreskrifter som har meddelats i anslutning till lagen. *Lag (2018:448)*.
+
+## Den enskildes inställning till personuppgiftsbehandlingen
+
+### 6 §
+
+Behandling av personuppgifter som är tillåten enligt denna lag får utföras även om den enskilde motsätter sig behandlingen.
+
+Behandling av personuppgifter som inte är tillåten enligt denna lag får ändå utföras, om den enskilde har lämnat ett uttryckligt samtycke till behandlingen.
+
+## Personuppgiftsansvar
+
+### 7 §
+
+Tillståndshavaren är personuppgiftsansvarig för den personuppgiftsbehandling som utförs på ett öppenvårdsapotek.
+
+## Ändamål med personuppgiftsbehandlingen
+
+### 8 §
+
+*/Upphör att gälla U:2027-01-01/* Personuppgifter får behandlas om det är nödvändigt för
+
+1. expediering av förordnade läkemedel, och sådana förordnade varor som omfattas av lagen (2002:160) om läkemedelsförmåner m.m. samt för åtgärder i anslutning till expedieringen,
+
+2. redovisning av uppgifter till E-hälsomyndigheten enligt 2 kap. 6 § 5, 7 eller 15 lagen (2009:366) om handel med läkemedel,
+
+3. hantering av reklamationer och indragningar,
+
+4. administrering av delbetalning av läkemedel och varor som omfattas av lagen om läkemedelsförmåner m.m.,
+
+5. administrering av fullmakter att hämta ut läkemedel,
+
+6. redovisning av uppgifter till Inspektionen för vård och omsorg och Läkemedelsverket för deras tillsyn,
+
+7. rapportering till förskrivare om utbyte av läkemedel enligt 21 § femte stycket, 21 a § fjärde stycket och 21 b § tredje stycket lagen om läkemedelsförmåner m.m.,
+
+8. hälsorelaterad kundservice,
+
+9. att kunna lämna ut recept eller blankett till konsumenten,
+
+10. systematisk och fortlöpande utveckling och säkerställande av öppenvårdsapotekens kvalitet, samt
+
+11. administration, planering, uppföljning och utvärdering av öppenvårdsapotekens verksamhet samt framställning av statistik.
+
+Sådan personuppgiftsbehandling som avses i första stycket 5 och 8 får inte omfatta någon annan än den som har lämnat sitt samtycke till behandlingen.
+
+För ändamål som avses i första stycket 10 och 11 får inga uppgifter redovisas som kan hänföras till en enskild person.
+
+*Lag (2021:1127)*.
+
+### 8 §
+
+*/Träder i kraft I:2027-01-01/* Personuppgifter får behandlas om det är nödvändigt för
+
+1. expediering av förordnade läkemedel, och sådana förordnade varor som omfattas av lagen (2002:160) om läkemedelsförmåner m.m. samt för åtgärder i anslutning till expedieringen,
+
+2. redovisning av uppgifter till E-hälsomyndigheten enligt 2 kap. 6 § 5, 7 eller 15 lagen (2009:366) om handel med läkemedel,
+
+3. hantering av reklamationer och indragningar,
+
+4. administrering av delbetalning av läkemedel och varor som omfattas av lagen om läkemedelsförmåner m.m.,
+
+5. administrering av fullmakter att hämta ut läkemedel,
+
+6. redovisning av uppgifter till Inspektionen för vård och omsorg och Läkemedelsverket för deras tillsyn,
+
+7. rapportering till förskrivare om utbyte av läkemedel enligt 21 § femte stycket, 21 a § fjärde stycket och 21 b § tredje stycket lagen om läkemedelsförmåner m.m.,
+
+8. hälsorelaterad kundservice,
+
+9. att kunna lämna ut recept eller blankett till konsumenten,
+
+10. systematisk och fortlöpande utveckling och säkerställande av öppenvårdsapotekens kvalitet,
+
+11. administration, planering, uppföljning och utvärdering av öppenvårdsapotekens verksamhet samt framställning av statistik, och
+
+12. hantering av receptfria läkemedel med krav på särskild rådgivning.
+
+Sådan personuppgiftsbehandling som avses i första stycket 5 och 8 får inte omfatta någon annan än den som har lämnat sitt samtycke till behandlingen.
+
+För ändamål som avses i första stycket 10 och 11 får inga uppgifter redovisas som kan hänföras till en enskild person.
+
+*Lag (2026:1348)*.
+
+## Personuppgiftsbehandling för annat ändamål
+
+### 9 §
+
+Personuppgifter som behandlas enligt 8 § får behandlas även för andra ändamål, under förutsättning att uppgifterna inte behandlas på ett sätt som är oförenligt med det ändamål för vilket uppgifterna samlades in. *Lag (2018:448)*.
+
+## Behandling av känsliga personuppgifter
+
+### 9 a §
+
+Personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning (känsliga personuppgifter) får behandlas med stöd av artikel 9.2 h i förordningen under förutsättning att kravet på tystnadsplikt i artikel 9.3 i förordningen är uppfyllt. *Lag (2018:448)*.
+
+## Sökbegrepp
+
+### 10 §
+
+Identitet får användas som sökbegrepp endast i fråga om
+
+1. konsument, för de ändamål som anges i 8 § första stycket 1, 3-5, 8 och 9, och
+
+2. den som är behörig att förordna läkemedel, för de ändamål som anges i 8 § första stycket 6 och 7.
+
+Förskrivningsorsak får inte användas som sökbegrepp.
+
+## Utlämnande på medium för automatiserad behandling
+
+### 11 §
+
+Får en personuppgift lämnas ut, får det ske på medium för automatiserad behandling.
+
+## Behörighetstilldelning
+
+### 12 §
+
+Tillståndshavaren ska bestämma villkor för tilldelning av behörighet för åtkomst till helt eller delvis automatiskt behandlade uppgifter om konsumenter och de som är behöriga att förordna läkemedel. Behörigheten ska begränsas till vad som behövs för att den som arbetar på ett öppenvårdsapotek ska kunna fullgöra sina arbetsuppgifter där.
+
+Regeringen, eller den myndighet som regeringen bestämmer, får meddela föreskrifter om tilldelning av behörighet för åtkomst till helt eller delvis automatiskt behandlade uppgifter.
+
+## Åtkomstkontroll
+
+### 13 §
+
+Tillståndshavaren ska se till att åtkomst till helt eller delvis automatiskt behandlade uppgifter om konsumenter och de som är behöriga att förordna läkemedel, dokumenteras så att de kan kontrolleras. Tillståndshavaren ska systematiskt och återkommande kontrollera om någon obehörigen kommer åt sådana uppgifter.
+
+Regeringen, eller den myndighet som regeringen bestämmer, får meddela föreskrifter om dokumentation och kontroll.
+
+## Bevarande
+
+### 14 §
+
+När en personuppgift inte längre behövs för behandling enligt ändamålen i 8 §, ska uppgiften tas bort.
+
+### 15 §
+
+Har upphävts genom *lag (2018:448)*.
+
+## Information
+
+### 16 §
+
+Utöver vad som framgår av artiklarna 13 och 14 i EU:s dataskyddsförordning ska den som är personuppgiftsansvarig enligt denna lag lämna information till den registrerade om
+
+1. den uppgiftsskyldighet som kan följa av lag eller förordning,
+
+2. de tystnadsplikts- och säkerhetsbestämmelser som gäller för uppgifterna och behandlingen,
+
+3. rätten enligt artikel 82 i EU:s dataskyddsförordning och 7 kap. 1 § lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning till skadestånd vid behandling av personuppgifter i strid med denna lag, och
+
+4. vad som gäller i fråga om sökbegrepp.
+
+*Lag (2018:448)*.

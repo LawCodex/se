@@ -1,0 +1,57 @@
+---
+title: "Förordning (2012:606) om samordning inom alkohol-, narkotika-, dopnings-, tobaks- och spelområdet"
+identifier: "SFS 2012:606"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2012-09-20
+amended_through: "SFS 2023:113"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-606.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:606"
+retrieved: 2026-10-11
+---
+# Förordning (2012:606) om samordning inom alkohol-, narkotika-, dopnings-, tobaks- och spelområdet
+
+## 1 §
+
+Denna förordning gäller länsstyrelsernas arbete inom alkohol-, narkotika-, dopnings-, tobaks- och spelområdet (ANDTS). *Förordning (2022:1218)*.
+
+## 2 §
+
+Vid varje länsstyrelse ska det finnas en särskild samordningsfunktion för ANDTS-frågor. *Förordning (2022:1218)*.
+
+## 3 §
+
+Länsstyrelserna ska genom samordningsfunktionen stödja
+
+1. genomförandet av den nationella ANDTS-politiken i länet,
+
+2. utvecklingen av ett långsiktigt kunskapsbaserat regionalt och lokalt arbete,
+
+3. utvecklingen av tvärsektoriella insatser i kommunerna och regionen,
+
+4. samarbetet på lokal, regional och nationell nivå, och
+
+5. utbildning och kompetensutveckling i länet.
+
+*Förordning (2022:1218)*.
+
+## 4 §
+
+Varje länsstyrelse ska samordna sitt förebyggande arbete på alkohol- och tobaksområdet med den tillsyn som länsstyrelsen ska utöva enligt 9 kap. 1 § alkohollagen (2010:1622), 7 kap. 2 § lagen (2018:2088) om tobak och liknande produkter samt 23 § lagen (2022:1257) om tobaksfria nikotinprodukter. *Förordning (2023:113)*.
+
+## 5 §
+
+Länsstyrelserna ska till Folkhälsomyndigheten årligen redovisa det arbete som samordningsfunktionen har utfört.
+
+I denna rapport ska länsstyrelsen särskilt redovisa regionala behov av stöd på ANDTS-området som samordningsfunktionen har uppmärksammat. *Förordning (2022:1218)*.
+
+## 6 §
+
+Länsstyrelserna ska också till Folkhälsomyndigheten årligen redovisa hur de har utövat sin tillsyn enligt alkohollagen (2010:1622), lagen (2018:2088) om tobak och liknande produkter samt lagen (2022:1257) om tobaksfria nikotinprodukter. Länsstyrelserna ska uppge vilka åtgärder som de har vidtagit för att övervaka och stödja den tillsyn som kommunerna bedriver enligt dessa lagar samt resultatet av detta arbete. *Förordning (2023:113)*.
+
+## 7 §
+
+Folkhälsomyndigheten får meddela närmare föreskrifter om redovisningens utformning. *Förordning (2013:915)*.

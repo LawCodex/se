@@ -1,0 +1,161 @@
+---
+title: "Förordning (2007:975) med instruktion för Integritetsskyddsmyndigheten"
+identifier: "SFS 2007:975"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2026:1178"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-975.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:975"
+retrieved: 2026-10-11
+---
+# Förordning (2007:975) med instruktion för Integritetsskyddsmyndigheten
+
+### Uppgifter
+
+#### 1 §
+
+Integritetsskyddsmyndighetens uppgift är att arbeta för att människors grundläggande fri- och rättigheter skyddas i samband med behandling av personuppgifter och att underlätta det fria flödet av sådana uppgifter inom Europeiska unionen.
+
+Myndigheten ska följa, analysera och beskriva utvecklingen på it-området när det gäller frågor som rör integritet och ny teknik. En redovisning av utvecklingen på området ska lämnas till regeringen senast den 1 oktober vart fjärde år.
+
+*Förordning (2023:726)*.
+
+#### 2 §
+
+Integritetsskyddsmyndigheten utövar tillsyn över kamerabevakning enligt kamerabevakningslagen (2018:1200).
+
+*Förordning (2020:1123)*.
+
+#### 2 a §
+
+Myndigheten är tillstånds- och tillsynsmyndighet enligt kreditupplysningslagen (1973:1173).
+
+Myndigheten är tillsynsmyndighet enligt
+
+- artikel 51.1 i Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning),
+
+- lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och andra föreskrifter som kompletterar Europaparlamentets och rådets förordning (EU) 2016/679,
+
+- artikel 41.1 i Europaparlamentets och rådets direktiv (EU) 2016/680 av den 27 april 2016 om skydd för fysiska personer med avseende på behöriga myndigheters behandling av personuppgifter för att förebygga, förhindra, utreda, avslöja eller lagföra brott eller verkställa straffrättsliga påföljder, och det fria flödet av sådana uppgifter och om upphävande av rådets rambeslut 2008/977/RIF,
+
+- lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter,
+
+- lagen (2021:1171) om behandling av personuppgifter vid Försvarsmakten och lagen (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt, och
+
+- artikel 15.1 i Europaparlamentets och rådets direktiv (EU) 2016/681 av den 27 april 2016 om användning av passageraruppgiftssamlingar (PNRuppgifter) för att förebygga, förhindra, upptäcka, utreda och lagföra terroristbrott och grov brottslighet.
+
+Myndigheten ska delta i Europeiska dataskyddsstyrelsens arbete. *Förordning (2023:726)*.
+
+#### 3 §
+
+Myndigheten fullgör de förpliktelser som nämns i artikel 13 i Europarådets konvention om skydd för enskilda vid automatisk databehandling av personuppgifter när det gäller att lämna uppgifter till behörig myndighet i en stat som är ansluten till konventionen.
+
+#### 3 a §
+
+Myndigheten är behörig myndighet för kontroll och intygande av att sådana enskilda system för insamling av stödförklaringar via internet som används för lagring i Sverige uppfyller de krav som följer av Europaparlamentets och rådets förordning (EU) 2019/788 av den 17 april 2019 om det europeiska medborgarinitiativet. *Förordning (2019:1143)*.
+
+#### 3 b §
+
+Myndigheten ska fullgöra de uppgifter som avses i artiklarna 15 och 16 i avtalet mellan Europeiska unionen och Amerikas förenta stater om behandling och överföring av uppgifter om finansiella betalningsmeddelanden från Europeiska unionen till Förenta staterna i enlighet med programmet för att spåra finansiering av terrorism (TFTP).
+
+*Förordning (2014:244)*.
+
+#### 3 c §
+
+Myndigheten är tillsynsmyndighet för behandling av personuppgifter enligt avtalet av den 16 december 2011 mellan Konungariket Sveriges regering och Amerikas förenta staters regering om ett förstärkt samarbete för att förebygga och bekämpa brottslighet och fullgör de förpliktelser som nämns i 8 kap. 12 § förordningen (2017:504) om internationellt polisiärt samarbete. *Förordning (2017:512)*.
+
+#### 3 d §
+
+Myndigheten är marknadskontrollmyndighet i fråga om användning av system för artificiell intelligens för biometrisk fjärridentifiering i realtid på allmänt tillgängliga platser för brottsbekämpande ändamål enligt Europaparlamentets och rådets förordning (EU) 2024/1689 av den 13 juni 2024 om harmoniserade regler för artificiell intelligens och om ändring av förordningarna (EG) nr 300/2008, (EU) nr 167/2013, (EU) nr 168/2013, (EU) 2018/858, (EU) 2018/1139 och (EU) 2019/2144 samt direktiven 2014/90/EU, (EU) 2016/797 och (EU) 2020/1828 (förordning om artificiell intelligens). *Förordning (2026:817)*.
+
+#### 4 §
+
+Myndigheten är nationell tillsynsmyndighet enligt
+
+- artikel 19 i Europaparlamentets och rådets förordning (EU) 2018/1860 av den 28 november 2018 om användning av Schengens informationssystem för återvändande av tredjelandsmedborgare som vistas olagligt i medlemsstaterna,
+
+- artikel 55 i Europaparlamentets och rådets förordning (EU) 2018/1861 av den 28 november 2018 om inrättande, drift och användning av Schengens informationssystem (SIS) på området in- och utresekontroller, om ändring av konventionen om tillämpning av Schengenavtalet och om ändring och upphävande av förordning (EG) nr 1987/2006,
+
+- artikel 69 i Europaparlamentets och rådets förordning (EU) 2018/1862 av den 28 november 2018 om inrättande, drift och användning av Schengens informationssystem (SIS) på området polissamarbete och straffrättsligt samarbete, om ändring och upphävande av rådets beslut 2007/533/RIF och om upphävande av Europaparlamentets och rådets förordning (EG) nr 1986/2006 och kommissionens beslut 2010/261/EU,
+
+- artikel 37 i rådets förordning (EG) 515/97 av den 13 mars 1997 om ömsesidigt bistånd mellan medlemsstaternas administrativa myndigheter och om samarbete mellan dessa och kommissionen för att säkerställa en korrekt tillämpning av tull- och jordbrukslagstiftningen (förordning 515/97),
+
+- artikel 42 i Europaparlamentets och rådets förordning (EU) 2016/794 av den 11 maj 2016 om Europeiska unionens byrå för samarbete inom brottsbekämpning (Europol) och om ersättande och upphävande av rådets beslut 2009/371/RIF, 2009/934/RIF, 2009/935/RIF, 2009/936/RIF och 2009/968/RIF,
+
+- artikel 30.5 i rådets beslut 2008/615/RIF av den 23 juni 2008 om ett fördjupat gränsöverskridande samarbete, särskilt för bekämpning av terrorism och gränsöverskridande brottslighet (Prümrådsbeslutet),
+
+- artikel 41 i Europaparlamentets och rådets förordning (EG) nr 767/2008 av den 9 juli 2008 om informationssystemet för viseringar (VIS) och utbytet mellan medlemsstaterna av uppgifter om viseringar för kortare vistelse (VIS- förordningen),
+
+- artikel 7.1 och 7.2 i Europaparlamentets och rådets direktiv (EU) 2015/413 av den 11 mars 2015 om underlättande av gräns- överskridande informationsutbyte om trafiksäkerhetsrelaterade brott (CBE-direktivet), i den ursprungliga lydelsen,
+
+- artikel 8.5 i rådets beslut 2008/633/RIF av den 23 juni 2008 om åtkomst till informationssystemet för viseringar (VIS) för sökningar för medlemsstaternas utsedda myndigheter och för Europol i syfte att förhindra, upptäcka och utreda terroristbrott och andra grova brott (VIS-rådsbeslutet),
+
+- artiklarna 44.1 och 47.1 i Europaparlamentets och rådets förordning (EU) 2024/1358 av den 14 maj 2024 om inrättande av Eurodac för jämförelse av biometriska uppgifter för att effektivt tillämpa Europaparlamentets och rådets förordningar (EU) 2024/1351 och (EU) 2024/1350 och rådets direktiv 2001/55/EG, och identifiera tredjelandsmedborgare och statslösa personer som vistas olagligt och om framställningar från medlemsstaternas brottsbekämpande myndigheter och Europol om jämförelse med Eurodacuppgifter för brottsbekämpande ändamål, om ändring av Europaparlamentets och rådets förordningar (EU) 2018/1240 och (EU) 2019/818 och om upphävande av Europaparlamentets och rådets förordning (EU) nr 603/2013,
+
+- artikel 42 i Europaparlamentets och rådets förordning (EU) 2018/1727 av den 14 november 2018 om Europeiska unionens byrå för straffrättsligt samarbete (Eurojust) och om ersättning och upphävande av rådets beslut 2002/187/RIF,
+
+- artikel 55 och artikel 58.2 i Europaparlamentets och rådets förordning (EU) 2017/2226 av den 30 november 2017 om inrättande av ett in- och utresesystem för registrering av in- och utreseuppgifter och av uppgifter om nekad inresa för tredjelandsmedborgare som passerar medlemsstaternas yttre gränser, om fastställande av villkoren för åtkomst till in- och utresesystemet för brottsbekämpande ändamål och om ändring av konventionen om tillämpning av Schengenavtalet och förordningarna (EG) nr 767/2008 och (EU) nr 1077/2011, och
+
+- artikel 22.1 i Europaparlamentets och rådets förordning (EU) 2024/900 av den 13 mars 2024 om transparens och inriktning när det gäller politisk reklam.
+
+*Förordning (2026:1178)*.
+
+### Ledning
+
+#### 5 §
+
+Myndigheten leds av en myndighetschef, som anställs genom beslut av regeringen för en period om minst fyra år. Anställningen får förlängas. *Förordning (2018:242)*.
+
+#### 6 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst nio ledamöter. *Förordning (2020:48)*.
+
+### Anställningar och uppdrag
+
+#### 7 §
+
+Generaldirektören är myndighetschef.
+
+### Personalansvarsnämnd
+
+#### 8 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+### Tillämpligheten av vissa förordningar
+
+#### 9 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+### Avgifter
+
+#### 10 §
+
+Myndigheten får mot avgift tillhandahålla konferenser, kurser, informationsmaterial och kursmaterial. Myndigheten får bestämma avgifternas storlek upp till full kostnadstäckning och disponera avgifterna i verksamheten.
+
+*Förordning (2017:1074)*.
+
+## Övergångsbestämmelser
+
+**2007:975**
+
+1. Denna förordning träder i kraft den 1 januari 2008, då förordningen (1998:1192) med instruktion för Datainspektionen ska upphöra att gälla.
+
+2. Bestämmelserna i 1 § i den upphävda förordningen (1988:912) med instruktion för Datainspektionen gäller dock fortfarande i Datainspektionens verksamhet i de fall datalagen (1973:289) ska tillämpas enligt ikraftträdande- och övergångsbestämmelserna till personuppgiftslagen (1998:204).
+
+**2019:555**
+
+1. Denna förordning träder i kraft den 1 september 2019.
+
+2. Redovisningen enligt 1 § andra stycket ska lämnas första gången senast den 1 oktober 2020.
+
+**2019:1143**
+
+1. Denna förordning träder i kraft den 1 januari 2020.
+
+2. Äldre föreskrifter gäller fortfarande för medborgarinitiativ som registrerats före ikraftträdandet.

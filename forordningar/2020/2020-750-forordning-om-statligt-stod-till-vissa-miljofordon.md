@@ -1,0 +1,487 @@
+---
+title: "Förordning (2020:750) om statligt stöd till vissa miljöfordon"
+identifier: "SFS 2020:750"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-08-13
+amended_through: "SFS 2026:1437"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-750.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:750"
+retrieved: 2026-10-11
+---
+# Förordning (2020:750) om statligt stöd till vissa miljöfordon
+
+#### 1 §
+
+*/Upphör att gälla U:2027-10-31/* För att främja introduktionen av miljöarbetsmaskiner, utsläppsfria tunga lastbilar, lätta ellastbilar och fordonsgaslastbilar på marknaden och bidra till att minska utsläppen av växthusgaser, får Statens energimyndighet bevilja statligt stöd i form av bidrag enligt denna förordning för köp av sådana fordon. Statligt stöd i form av bidrag enligt denna förordning får även beviljas för leasing av utsläppsfria tunga lastbilar eller fordonsgaslastbilar.
+
+Bidrag ges om det finns medel.
+
+Förordningen är meddelad med stöd av 8 kap. 11 § regeringsformen i fråga om 19 § och 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser. *Förordning (2026:80)*.
+
+#### 1 §
+
+*/Träder i kraft I:2027-10-31/* För att främja introduktionen av miljöarbetsmaskiner, utsläppsfria tunga lastbilar och fordonsgaslastbilar på marknaden och bidra till att minska utsläppen av växthusgaser, får Statens energimyndighet bevilja statligt stöd i form av bidrag enligt denna förordning för köp av sådana fordon. Statligt stöd i form av bidrag enligt denna förordning får även beviljas för leasing av utsläppsfria tunga lastbilar eller fordonsgaslastbilar.
+
+Bidrag ges om det finns medel.
+
+Förordningen är meddelad med stöd av 8 kap. 11 § regeringsformen i fråga om 19 § och 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser. *Förordning (2026:82)*.
+
+### Ordförklaringar
+
+#### 2 §
+
+*/Upphör att gälla U:2027-10-31/* I denna förordning betyder
+
+- miljöarbetsmaskin: ett motorredskap eller en traktor enligt lagen (2001:559) om vägtrafikdefinitioner, som har en kontinuerlig motoreffekt på minst 10 kW samt är avsedd att drivas med el eller sådana bränslen som är tillåtna enligt artikel 36 i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget,
+
+- utsläppsfri tung lastbil: en tung lastbil enligt lagen om vägtrafikdefinitioner som är ett utsläppsfritt fordon enligt artikel 2.102g c i kommissionens förordning (EU) nr 651/2014,
+
+- lätt ellastbil: en lätt lastbil enligt lagen om vägtrafikdefinitioner som är ett utsläppsfritt fordon enligt artikel 2.102g b i kommissionens förordning (EU) nr 651/2014,
+
+- fordonsgaslastbil: en tung lastbil enligt lagen om vägtrafikdefinitioner som är avsedd att drivas med biogas,
+
+- vägtrafikregistret: den uppgiftssamling som avses i 2 kap. 1 § vägtrafikdatalagen (2019:369),
+
+- leasing: hyra av en lastbil för en bestämd hyrestid på minst 12 månader,
+
+- leasegivare: den som hyr ut en lastbil för en bestämd hyrestid på minst 12 månader, och
+
+- leasetagare: den som leasar en bil.
+
+I övrigt har ord och uttryck i förordningen samma betydelse som i kommissionens förordning (EU) nr 651/2014 och kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse.
+
+*Förordning (2026:80)*.
+
+#### 2 §
+
+*/Träder i kraft I:2027-10-31/* I denna förordning betyder
+
+- miljöarbetsmaskin: ett motorredskap eller en traktor enligt lagen (2001:559) om vägtrafikdefinitioner, som har en kontinuerlig motoreffekt på minst 10 kW samt är avsedd att drivas med el eller sådana bränslen som är tillåtna enligt artikel 36 i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget,
+
+- utsläppsfri tung lastbil: en tung lastbil enligt lagen om vägtrafikdefinitioner som är ett utsläppsfritt fordon enligt artikel 2.102g c i kommissionens förordning (EU) nr 651/2014,
+
+- fordonsgaslastbil: en tung lastbil enligt lagen om vägtrafikdefinitioner som är avsedd att drivas med biogas,
+
+- vägtrafikregistret: den uppgiftssamling som avses i 2 kap. 1 § vägtrafikdatalagen (2019:369),
+
+- leasing: hyra av en lastbil för en bestämd hyrestid på minst 12 månader,
+
+- leasegivare: den som hyr ut en lastbil för en bestämd hyrestid på minst 12 månader, och
+
+- leasetagare: den som leasar en bil.
+
+I övrigt har ord och uttryck i förordningen samma betydelse som i kommissionens förordning (EU) nr 651/2014 och kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse.
+
+*Förordning (2026:82)*.
+
+#### 2 a §
+
+Bestämmelser om kriterier för att bestämma storlek på företag finns i bilaga I till kommissionens förordning (EU) nr 651/2014. *Förordning (2024:18)*.
+
+### Förutsättningar för stöd
+
+#### 3 §
+
+*/Upphör att gälla U:2027-10-31/* Stöd får lämnas till företag, kommuner och regioner för köp av en miljöarbetsmaskin, utsläppsfri tung lastbil, lätt ellastbil eller fordonsgaslastbil som
+
+1. är eller ska bli registrerad enligt förordningen (2019:383) om fordons registrering och användning,
+
+2. ska ställas på enligt förordningen om fordons registrering och användning och inte tidigare har varit påställd enligt den förordningen, och
+
+3. inte tidigare har tagits i bruk i Sverige eller någon annanstans genom att användas för sitt ändamål.
+
+Stöd får även lämnas för köp av en miljöarbetsmaskin som inte tidigare har tagits i bruk i Sverige eller någon annanstans och som inte omfattas av kraven på registrering i förordningen om fordons registrering och användning, om maskinen kan identifieras med hjälp av ett unikt identifikationsnummer eller annan uppgift som gör maskinen möjlig att identifiera.
+
+Stöd får även lämnas till ett företag, en kommun eller en region som leasar en utsläppsfri tung lastbil eller en fordonsgaslastbil. *Förordning (2026:80)*.
+
+#### 3 §
+
+*/Träder i kraft I:2027-10-31/* Stöd får lämnas till företag, kommuner och regioner för köp av en miljöarbetsmaskin, utsläppsfri tung lastbil eller fordonsgaslastbil som
+
+1. är eller ska bli registrerad enligt förordningen (2019:383) om fordons registrering och användning,
+
+2. ska ställas på enligt förordningen om fordons registrering och användning och inte tidigare har varit påställd enligt den förordningen, och
+
+3. inte tidigare har tagits i bruk i Sverige eller någon annanstans genom att användas för sitt ändamål.
+
+Stöd får även lämnas för köp av en miljöarbetsmaskin som inte tidigare har tagits i bruk i Sverige eller någon annanstans och som inte omfattas av kraven på registrering i förordningen om fordons registrering och användning, om maskinen kan identifieras med hjälp av ett unikt identifikationsnummer eller annan uppgift som gör maskinen möjlig att identifiera.
+
+Stöd får även lämnas till ett företag, en kommun eller en region som leasar en utsläppsfri tung lastbil eller en fordonsgaslastbil. *Förordning (2026:82)*.
+
+#### 4 §
+
+Stöd till företag för köp av miljöarbetsmaskiner får endast beviljas i enlighet med de villkor som anges i kapitel I och artikel 36 i kommissionens förordning (EU) nr 651/2014. *Förordning (2024:18)*.
+
+#### 4 a §
+
+*/Upphör att gälla U:2027-10-31/* Stöd till företag för köp av utsläppsfria tunga lastbilar eller av lätta ellastbilar eller för leasing av utsläppsfria tunga lastbilar får endast lämnas i enlighet med de villkor som anges i kapitel I och artikel 36b i kommissionens förordning (EU) nr 651/2014.
+
+*Förordning (2026:80)*.
+
+#### 4 a §
+
+*/Träder i kraft I:2027-10-31/* Stöd till företag för köp eller leasing av utsläppsfria tunga lastbilar får endast lämnas i enlighet med de villkor som anges i kapitel I och artikel 36b i kommissionens förordning (EU) nr 651/2014. *Förordning (2026:82)*.
+
+#### 4 b §
+
+Stöd till företag för köp eller leasing av fordonsgaslastbilar får endast beviljas i enlighet med de villkor som anges i kommissionens förordning (EU) 2023/2831.
+
+*Förordning (2024:628)*.
+
+#### 5 §
+
+Om uppgifter om ett stöd till ett företag ska offentliggöras enligt artikel 9 i kommissionens förordning (EU) nr 651/2014, får stödet endast beviljas om företaget samtycker till offentliggörandet. *Förordning (2021:1274)*.
+
+#### 6 §
+
+*/Upphör att gälla U:2027-10-31/* Stöd får inte lämnas för köp eller leasing av lastbilar eller miljöarbetsmaskiner som
+
+1. måste köpas eller leasas för att uppfylla en skyldighet enligt lag eller annan författning eller enligt villkor i ett tillstånd, eller
+
+2. har beställts innan ansökan om stöd har lämnats in till Statens energimyndighet. *Förordning (2026:80)*.
+
+#### 6 §
+
+*/Träder i kraft I:2027-10-31/* Stöd får inte lämnas för köp eller leasing av lastbilar eller miljöarbetsmaskiner som
+
+1. måste köpas eller leasas för att uppfylla en skyldighet enligt lag eller annan författning eller enligt villkor i ett tillstånd, eller
+
+2. har beställts innan ansökan om stöd har lämnats in till Statens energimyndighet. *Förordning (2026:82)*.
+
+#### 6 a §
+
+Statens energimyndighet får avslå en ansökan om stöd om myndigheten har beslutat att återkräva eller stoppa en utbetalning av ett tidigare beviljat stöd enligt 15 eller 17 § på grund av omständigheter som hänför sig till företaget eller till företrädare med betydande inflytande över stödmottagaren.
+
+*Förordning (2026:80)*.
+
+#### 6 b §
+
+Stöd av mindre betydelse som omfattas av kommissionens förordning (EU) 2023/2831 får inte ges till sådana företag i svårigheter som avses i artikel 2.18 i kommissionens förordning (EU) nr 651/2014. *Förordning (2024:18)*.
+
+### Stödberättigande kostnader
+
+#### 7 §
+
+*/Upphör att gälla U:2027-10-31/* Den stödberättigande kostnaden vid köp utgörs av prisskillnaden mellan miljöarbetsmaskinen, den utsläppsfria tunga lastbilen, den lätta ellastbilen eller fordonsgaslastbilen och närmast jämförbara fordon.
+
+*Förordning (2026:80)*.
+
+#### 7 §
+
+*/Träder i kraft I:2027-10-31/* Den stödberättigande kostnaden vid köp utgörs av prisskillnaden mellan miljöarbetsmaskinen, den utsläppsfria tunga lastbilen eller fordonsgaslastbilen och närmast jämförbara fordon. *Förordning (2026:82)*.
+
+#### 7 a §
+
+Den stödberättigande kostnaden vid leasing utgörs av skillnaden mellan kostnaden för att leasa den utsläppsfria tunga lastbilen eller fordonsgaslastbilen och kostnaden för att leasa närmast jämförbara fordon. Kostnader kopplade till driften, till exempel kostnader för energi, försäkring eller underhåll, ska dock inte räknas med. *Förordning (2026:80)*.
+
+#### 8 §
+
+Stöd för köp av en miljöarbetsmaskin får lämnas med ett belopp som motsvarar
+
+1. högst 40 procent av den stödberättigande kostnaden, eller
+
+2. högst 50 procent av den stödberättigande kostnaden, om maskinen enbart drivs med el. *Förordning (2026:80)*.
+
+#### 8 a §
+
+Stöd för köp eller leasing av en utsläppsfri tung lastbil får lämnas med ett belopp som motsvarar
+
+1. högst 30 procent av den stödberättigande kostnaden när det gäller stora företag,
+
+2. högst 50 procent av den stödberättigande kostnaden när det gäller medelstora företag, eller
+
+3. högst 60 procent av den stödberättigande kostnaden när det gäller små företag. *Förordning (2026:80)*.
+
+#### 8 b §
+
+Har upphävts genom *förordning (2026:80)*.
+
+#### 8 c §
+
+/Upphör att gälla U:2027-10-31 genom *förordning (2024:21)*./ Stöd för köp av en lätt ellastbil får beviljas med ett belopp som motsvarar högst 30 procent av den stödberättigande kostnaden. *Förordning (2026:1437)*.
+
+#### 8 d §
+
+Stöd för köp eller leasing av en fordonsgaslastbil får beviljas med ett belopp som motsvarar högst 20 procent av inköpskostnaden eller av den totala leasingavgiften, dock högst 40 procent av den stödberättigande kostnaden.
+
+*Förordning (2024:628)*.
+
+#### 8 e §
+
+Det som sägs om köp i 7 §, 8 a, 8 b och 8 d §§ ska tillämpas även i fråga om leasing som omfattar en skyldighet för leasetagaren att köpa bilen efter leasingperiodens utgång.
+
+*Förordning (2024:628)*.
+
+#### 8 f §
+
+Statens energimyndighet får inom ramen för ett konkurrensutsatt anbudsförfarande bestämma att stöd får lämnas med en högre andel av den stödberättigande kostnaden och med ett högre belopp än vad som anges i 8-8 c §§.
+
+*Förordning (2026:80)*.
+
+#### 9 §
+
+En kostnad som annat offentligt stöd har beviljats för är inte stödberättigande.
+
+### Ansökan om stöd
+
+#### 10 §
+
+*/Upphör att gälla U:2027-10-31/* En ansökan om stöd ska göras skriftligen av en behörig företrädare för sökanden och ges in elektroniskt till Statens energimyndighet på det sätt som myndigheten anvisar. Ansökan ska innehålla
+
+1. sökandens namn och organisationsnummer,
+
+2. uppgifter om den stödberättigande kostnaden, och
+
+3. upplysningar om allt annat offentligt stöd som sökts eller beviljats och som avser samma stödberättigande kostnad som ansökan avser.
+
+Uppgifterna i ansökan ska lämnas på heder och samvete. *Förordning (2026:80)*.
+
+#### 10 §
+
+*/Träder i kraft I:2027-10-31/* En ansökan om stöd ska göras skriftligen av en behörig företrädare för sökanden och ges in elektroniskt till Statens energimyndighet på det sätt som myndigheten anvisar. Ansökan ska innehålla
+
+1. sökandens namn och organisationsnummer,
+
+2. uppgifter om den stödberättigande kostnaden, och
+
+3. upplysningar om allt annat offentligt stöd som sökts eller beviljats och som avser samma stödberättigande kostnad som ansökan avser.
+
+Uppgifterna i ansökan ska lämnas på heder och samvete. *Förordning (2026:82)*.
+
+#### 10 a §
+
+En ansökan om stöd enligt kommissionens förordning (EU) 2023/2831 ska innehålla en redogörelse för allt annat stöd
+
+1. av mindre betydelse som sökanden har tagit emot under den senaste treårsperioden, och
+
+2. som sökanden tidigare ansökt om eller beviljats och som avser samma stödberättigande kostnader som ansökan omfattar.
+
+*Förordning (2024:628)*.
+
+#### 10 b §
+
+Ett stöd enligt kommissionens förordning (EU) 2023/2831 får inte beviljas förrän den kontroll som föreskrivs i artikel 6.4 har genomförts. *Förordning (2024:18)*.
+
+#### 10 c §
+
+Innan ett stöd beviljas enligt kommissionens förordning (EU) 2023/2831 ska Statens energimyndighet lämna de upplysningar till stödmottagaren som framgår av artikel 7.4. *Förordning (2024:18)*.
+
+### Konkurrensutsatta anbudsförfaranden
+
+#### 10 d §
+
+Statens energimyndighet får besluta att stöd ska sökas genom ett konkurrensutsatt anbudsförfarande som uppfyller villkoren i artikel 2.38 och artikel 36 eller 36b i kommissionens förordning (EU) nr 651/2014.
+
+*Förordning (2026:80)*.
+
+### Skyldighet att anmäla ändrade förhållanden
+
+#### 10 e §
+
+Den som ansöker om eller har beviljats stöd enligt denna förordning ska snarast möjligt till Statens energimyndighet anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på stödet.
+
+*Förordning (2026:80)*.
+
+### Prövning och beslut om beviljande av stöd
+
+#### 11 §
+
+Statens energimyndighet prövar frågor om stöd enligt denna förordning.
+
+#### 12 §
+
+I ett beslut om stöd ska Statens energimyndighet ange
+
+1. de villkor som behövs för att kraven enligt denna förordning ska uppfyllas och syftet med stödet ska tillgodoses, och
+
+2. den tidpunkt då begäran om utbetalning senast ska ha kommit in till myndigheten enligt 13 §. *Förordning (2026:80)*.
+
+### Utbetalning av stöd
+
+#### 13 §
+
+En begäran om utbetalning av ett stöd ska ha kommit in till Statens energimyndighet inom 12 månader från beslutet om stöd, om inte myndigheten beslutar om en annan frist.
+
+Statens energimyndighet får efter ansökan från stödmottagaren förlänga fristen, om det finns särskilda skäl.
+
+Stödmottagaren ska till begäran om utbetalning bifoga skriftliga underlag för att styrka den stödberättigande kostnaden. *Förordning (2026:80)*.
+
+#### 13 a §
+
+*/Upphör att gälla U:2027-10-31/* När det gäller sådana miljöarbetsmaskiner, utsläppsfria tunga lastbilar, lätta ellastbilar eller fordonsgaslastbilar som registreras i vägtrafikregistret ska stödet betalas ut till den som köpt ett nytt sådant fordon och ställt på det enligt förordningen (2019:383) om fordons registrering och användning.
+
+Statens energimyndighet ska betala ut det beviljade stödbeloppet tidigast sex månader efter det att fordonet har ställts på. Beloppet ska betalas ut om
+
+1. uppgifterna i vägtrafikregistret visar att den som köpt och ställt på fordonet fortfarande är registrerad som ägare och att fordonet är registrerat i Sverige, och
+
+2. förutsättningarna för utbetalning enligt 13, 14 och 14 a §§ är uppfyllda. *Förordning (2026:80)*.
+
+#### 13 a §
+
+*/Träder i kraft I:2027-10-31/* När det gäller sådana miljöarbetsmaskiner, utsläppsfria tunga lastbilar eller fordonsgaslastbilar som registreras i vägtrafikregistret ska stödet betalas ut till den som köpt ett nytt sådant fordon och ställt på det enligt förordningen (2019:383) om fordons registrering och användning.
+
+Statens energimyndighet ska betala ut det beviljade stödbeloppet tidigast sex månader efter det att fordonet har ställts på. Beloppet ska betalas ut om
+
+1. uppgifterna i vägtrafikregistret visar att den som köpt och ställt på fordonet fortfarande är registrerad som ägare och att fordonet är registrerat i Sverige, och
+
+2. förutsättningarna för utbetalning enligt 13, 14 och 14 a §§ är uppfyllda. *Förordning (2026:81)*.
+
+#### 13 b §
+
+När det gäller miljöarbetsmaskiner som inte omfattas av krav på registrering i vägtrafikregistret ska stödet betalas ut till den som köpt en ny sådan maskin.
+
+Statens energimyndighet ska betala ut det beviljade stödbeloppet tidigast sex månader efter det att myndigheten har tagit emot en begäran om utbetalning. Beloppet ska betalas ut om
+
+1. stödmottagaren har lämnat in ett intyg om att mottagaren fortfarande äger maskinen och att den finns i och används i Sverige, och
+
+2. förutsättningarna för utbetalning enligt 13, 14 och 14 a §§ är uppfyllda. *Förordning (2024:18)*.
+
+#### 13 c §
+
+Ett sådant intyg som avses i 13 b § ska innehålla en försäkran på heder och samvete från stödmottagaren om att mottagaren fortfarande äger miljöarbetsmaskinen och att den finns i och används i Sverige.
+
+Intyget ska ha kommit in till Statens energimyndighet tidigast sex månader och senast åtta månader efter det att begäran om utbetalning har lämnats till myndigheten. *Förordning (2024:18)*.
+
+#### 13 d §
+
+Om stödet avser leasing ska stödet betalas ut till den som registrerats som leasetagare i vägtrafikregistret.
+
+Statens energimyndighet ska betala ut det beviljade stödbeloppet tidigast sex månader efter det att lastbilen har ställts på. Beloppet ska betalas ut om
+
+1. uppgifterna i vägtrafikregistret visar att den som registrerats som leasetagare fortfarande är det och att lastbilen är registrerad i Sverige, och
+
+2. förutsättningarna för utbetalning enligt 13, 14 och 14 a §§ är uppfyllda. *Förordning (2024:628)*.
+
+#### 14 §
+
+Ett stöd får inte betalas ut till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarar ett stöd beviljat av en svensk stödgivare olagligt och oförenligt med den inre marknaden.
+
+#### 14 a §
+
+Stöd får inte betalas ut till ett företag som
+
+1. är i likvidation, försatt i konkurs eller genomgår företagsrekonstruktion,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av stöd som har lämnats av Statens energimyndighet.
+
+Trots första stycket 2 får Statens energimyndighet betala ut ett stöd till en leasegivare vars skulder har orsakats av en leasetagare, om skulden inte överstiger 25 procent av ett prisbasbelopp. *Förordning (2026:80)*.
+
+#### 14 b §
+
+Stöd får inte betalas ut till företag som inte är godkända för F-skatt eller, i fråga om ett utländskt företag, inte har ett intyg eller en annan handling som visar att företaget genomgår motsvarande kontroll i fråga om skatter och avgifter i sitt hemland. *Förordning (2026:80)*.
+
+#### 14 c §
+
+Stöd får betalas ut endast en gång för samma lastbil. Om både en leasegivare och en leasetagare har begärt utbetalning av stöd för samma lastbil vid tillfället för beslut om utbetalning, ska stödet betalas ut till leasegivaren enligt 13 a §. *Förordning (2026:80)*.
+
+#### 15 §
+
+Statens energimyndighet ska besluta att ett stöd helt eller delvis inte ska betalas ut, om
+
+1. sökanden eller stödmottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har orsakat att stödet har lämnats felaktigt eller med för högt belopp,
+
+2. stödet av någon annan orsak än som anges i 1 beviljats felaktigt eller med ett för högt belopp och sökanden eller stödmottagaren skäligen borde ha insett detta,
+
+3. förhållandena som låg till grund för beslutet om stöd har ändrats och sökanden eller stödmottagaren inte har anmält det,
+
+4. sökanden eller stödmottagaren, efter förfrågan från Statens energimyndighet, inte har lämnat sådana uppgifter och handlingar som avses i 16 § eller medverkat i sådan uppföljning och utvärdering som avses i 20 §, eller
+
+5. ett villkor i beslutet om stöd inte har följts.
+
+*Förordning (2026:80)*.
+
+### Kontroll
+
+#### 16 §
+
+Om Statens energimyndighet begär det, ska stödmottagaren lämna de uppgifter och handlingar som behövs för att styrka att förutsättningarna för stödet är uppfyllda eller för att myndigheten ska kunna pröva frågan om återbetalningsskyldighet.
+
+Statens energimyndighet ska kontrollera att villkoren för stöd som har lämnats enligt denna förordning har följts.
+
+*Förordning (2026:80)*.
+
+### Återbetalning och återkrav
+
+#### 17 §
+
+Mottagaren av ett utbetalat stöd är återbetalningsskyldig, om förhållandena är sådana att stöd inte betalas ut enligt 15 §.
+
+På det belopp som en stödmottagare är återbetalningsskyldig för ska ränta enligt 6 § räntelagen (1975:635) betalas från och med den trettionde dagen efter den dag då beslutet om återkrav enligt 18 § fattades. *Förordning (2026:80)*.
+
+#### 18 §
+
+Om en stödmottagare är återbetalningsskyldig ska Statens energimyndighet besluta att helt eller delvis kräva tillbaka stödet tillsammans med ränta.
+
+Statens energimyndighet får besluta att helt eller delvis avstå från kravet i första stycket, om det finns särskilda skäl.
+
+### Bemyndigande
+
+#### 19 §
+
+Statens energimyndighet får meddela föreskrifter om verkställigheten av denna förordning.
+
+### Uppföljning och utvärdering
+
+#### 20 §
+
+Statens energimyndighet ska följa upp och utvärdera de stöd som ges enligt denna förordning.
+
+Den som har beviljats stöd är skyldig att lämna de uppgifter som Statens energimyndighet begär och som krävs för uppföljning och utvärdering av stödet. *Förordning (2026:80)*.
+
+### Offentliggörande, rapportering och registerföring
+
+#### 21 §
+
+Bestämmelser om offentliggörande, rapportering och registerföring finns i 12 a § lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och i förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler.
+
+### Överklagande
+
+#### 22 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 6 a, 14-14 b, 15 eller 18 § får dock inte överklagas. *Förordning (2026:80)*.
+
+## Övergångsbestämmelser
+
+**2024:18**
+
+1. Denna förordning träder i kraft den 13 februari 2024.
+
+2. Äldre föreskrifter gäller fortfarande för stöd som beviljats före ikraftträdandet.
+
+**2024:19**
+
+1. Denna förordning träder i kraft den 1 januari 2025.
+
+2. Äldre föreskrifter gäller fortfarande för stöd som beviljats före ikraftträdandet.
+
+**2024:20**
+
+1. Denna förordning träder i kraft den 1 juli 2025.
+
+2. Äldre föreskrifter gäller fortfarande för stöd som beviljats före ikraftträdandet.
+
+**2024:21**
+
+1. Denna förordning träder i kraft den 31 oktober 2027.
+
+*Förordning (2026:83)*.
+
+2. Äldre föreskrifter gäller fortfarande för ansökningar om stöd som avser lätta ellastbilar och som gjorts före ikraftträdandet. I sådana fall gäller dock, i stället för 13 § första stycket, att begäran om utbetalning ska ha kommit in senast den 30 april 2028. *Förordning (2026:81)*.
+
+**2024:628**
+
+1. Denna förordning träder i kraft den 27 augusti 2024.
+
+2. Förordningen tillämpas även i fråga om ansökningar om stöd som beviljats efter den 12 februari 2024 men före ikraftträdandet, om stödet inte har betalats ut före ikraftträdandet.
+
+**2026:1437**
+
+1. Denna förordning träder i kraft den 4 augusti 2026.
+
+2. Äldre föreskrifter gäller fortfarande för stöd som beviljats före ikraft-trädandet.

@@ -1,0 +1,391 @@
+---
+title: "Lag (2008:962) om valfrihetssystem"
+identifier: "SFS 2008:962"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-11-20
+amended_through: "SFS 2026:884"
+department: "Finansdepartementet OU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-962.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:962"
+retrieved: 2026-10-11
+---
+# Lag (2008:962) om valfrihetssystem
+
+## 1 kap. Lagens tillämpningsområde
+
+### Lagens omfattning
+
+#### 1 §
+
+Denna lag gäller när en upphandlande myndighet beslutat att tillämpa valfrihetssystem vad gäller tjänster inom hälsovård och socialtjänster, som omfattas av CPV-kod 79611000-0 eller 85000000-9 till 85323000-9 enligt Europaparlamentets och rådets förordning (EEG) nr 2195/2002 av den 5 november 2002 om en gemensam terminologi vid offentlig upphandling, i lydelsen enligt Europeiska kommissionens förordning (EG) nr 213/2008. Lagen gäller dock inte tjänster som omfattas av CPV-kod 85311300-5, 85321000-5 eller 85322000-2.
+
+Med valfrihetssystem enligt denna lag avses ett förfarande där den enskilde har rätt att välja den leverantör som ska utföra tjänsten och som en upphandlande myndighet godkänt och tecknat kontrakt med. Den upphandlande myndigheten behöver inte tillämpa samma valfrihetssystem inom alla berörda områden. *Lag (2016:1153)*.
+
+### Principerna för valfrihetssystem
+
+#### 2 §
+
+Den upphandlande myndigheten ska behandla leverantörer på ett likvärdigt och icke-diskriminerande sätt. Den upphandlande myndigheten ska iaktta principerna om öppenhet, ömsesidigt erkännande och proportionalitet när den tillämpar valfrihetssystem.
+
+#### 2 a §
+
+En upphandlande myndighet får reservera deltagandet i ett valfrihetssystem för idéburna organisationer vars allmännyttiga syfte bidrar till att uppnå ändamålet med den tjänst som ska tillhandahållas. Detta gäller dock inte i fråga om sådana vårdvalssystem som avses i 7 kap. 3 § hälso- och sjukvårdslagen (2017:30).
+
+För att kunna delta i ett reserverat valfrihetssystem får den idéburna organisationen endast göra sådana värdeöverföringar som är tillåtna enligt 8 § första stycket lagen (2022:900) om registrering av idéburna organisationer. Vidare får staten, en region eller en kommun inte ha ett rättsligt bestämmande inflytande över den idéburna organisationen. *Lag (2022:901)*.
+
+### Förvaltningslagens tillämpning
+
+#### 3 §
+
+Förvaltningslagen (2017:900) tillämpas inte vid handläggningen av ärenden enligt denna lag.
+
+*Lag (2018:831)*.
+
+## 2 kap. Definitioner
+
+#### 1 §
+
+Med förfrågningsunderlag avses sådant underlag för ansökan om att delta i ett valfrihetssystem som en upphandlande myndighet tillhandahåller.
+
+#### 2 §
+
+Med kontrakt avses ett skriftligt avtal med ekonomiska villkor som
+
+1. sluts mellan en eller flera upphandlande myndigheter och en eller flera leverantörer,
+
+2. avser tillhandahållandet av tjänster, och
+
+3. undertecknas av parterna eller skrivs under av dem med en elektronisk underskrift.
+
+Kontraktet kan även innehålla andra villkor än ekonomiska.
+
+*Lag (2016:572)*.
+
+#### 3 §
+
+Med leverantör avses den som på marknaden tillhandahåller tjänster som avses i 1 kap. 1 § första stycket. Med leverantör avses också en grupp av leverantörer.
+
+#### 4 §
+
+Med löpande annonsering avses en annons som gäller tills vidare och där det inte anges något sista datum för att komma in med ansökan.
+
+#### 5 §
+
+Med offentligt styrda organ avses sådana bolag och stiftelser som tillgodoser behov i det allmännas intresse, under förutsättning att behovet inte är av kommersiell karaktär, och
+
+1. som till största delen finansieras av en kommun, en region eller en upphandlande myndighet,
+
+2. vars verksamhet står under kontroll av en kommun, en region eller en upphandlande myndighet, eller
+
+3. i vars styrelse eller motsvarande ledningsorgan mer än hälften av antalet ledamöter är utsedda av en kommun, en region eller en upphandlande myndighet. *Lag (2019:934)*.
+
+#### 6 §
+
+Med tjänst avses sådan tjänst som framgår av 1 kap. 1 § första stycket.
+
+#### 7 §
+
+Med upphandlande myndighet avses en kommunal myndighet.
+
+Vid tillämpningen av denna lag ska med upphandlande myndigheter likställas
+
+1. beslutande församlingar i kommuner och regioner,
+
+2. offentligt styrda organ som avses i 5 §,
+
+3. sammanslutningar av en eller flera myndigheter enligt första stycket eller församlingar enligt 1, och
+
+4. sammanslutningar av flera organ enligt 2.
+
+*Lag (2019:934)*.
+
+#### 8 §
+
+Med EU:s dataskyddsförordning avses Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskydds- förordning). *Lag (2026:884)*.
+
+## 3 kap. Annonsering
+
+### Skyldighet att annonsera på nationell webbplats
+
+#### 1 §
+
+En upphandlande myndighet som beslutat att inrätta eller förändra ett valfrihetssystem ska annonsera på den nationella webbplats som upprättats för ändamålet. Förfrågningsunderlag ska tillsammans med annonsen finnas tillgängligt på webbplatsen.
+
+### Löpande annonsering
+
+#### 2 §
+
+Den upphandlande myndigheten ska löpande begära in ansökningar genom annons på den nationella webbplatsen.
+
+## 4 kap. Förfrågningsunderlagets innehåll
+
+### Ekonomisk ersättning
+
+#### 1 §
+
+Grunderna för den ekonomiska ersättningen till en leverantör ska framgå av förfrågningsunderlaget.
+
+### Särskilda kontraktsvillkor
+
+#### 2 §
+
+Den upphandlande myndigheten får ställa särskilda sociala, miljömässiga och andra villkor för hur ett kontrakt ska fullgöras. Samtliga villkor ska anges i annonsen om valfrihetssystem eller i förfrågningsunderlaget.
+
+### Ingivande och handläggningstid av ansökan
+
+#### 3 §
+
+I annonsen eller förfrågningsunderlaget ska anges på vilket sätt ansökan ska ges in.
+
+#### 4 §
+
+I förfrågningsunderlaget ska anges inom vilken tid den upphandlande myndigheten kommer att fatta beslut om godkännande.
+
+#### 5 §
+
+Vid bedömningen av när en handling ska anses inkommen till den upphandlande myndigheten tillämpas 22 § förvaltningslagen (2017:900). *Lag (2018:831)*.
+
+## 5 kap. Ansökan om deltagande i ett valfrihetssystem
+
+### Rätten att få delta i ett valfrihetssystem
+
+#### 1 §
+
+Fysiska eller juridiska personer kan var för sig eller tillsammans med andra leverantörer lämna en ansökan. Den upphandlande myndigheten får inte ställa upp villkor om att en grupp ska ha en bestämd juridisk form för att få lämna en ansökan. Den upphandlande myndigheten får dock begära att en grupp ska ha en viss juridisk form när den blivit tilldelad kontraktet, om det krävs för att kontraktet ska kunna fullgöras på ett godtagbart sätt.
+
+### Tillgång till andra företags kapacitet
+
+#### 2 §
+
+En sökande får vid behov åberopa andra företags ekonomiska, tekniska och yrkesmässiga kapacitet i ansökan. Sökanden ska genom att tillhandahålla ett åtagande från företagen i fråga eller på annat sätt kunna visa att han eller hon kommer att förfoga över nödvändiga resurser när kontraktet ska fullgöras.
+
+## 6 kap. Kommunikation
+
+### Kommunikation med elektroniska medel
+
+#### 1 §
+
+Vid kommunikation med elektroniska medel ska medlen vara icke-diskriminerande, allmänt tillgängliga och möjliga att använda tillsammans med sådan maskin- och programvara som i allmänhet används.
+
+### Rättelse av fel, förtydligande och komplettering
+
+#### 2 §
+
+Den upphandlande myndigheten får medge att en sökande rättar en felskrivning eller något annat uppenbart fel i ansökan. Den upphandlande myndigheten får begära att en ansökan förtydligas eller kompletteras.
+
+## 7 kap. Uteslutning av sökande
+
+### Brott
+
+#### 1 §
+
+En upphandlande myndighet får utesluta en sökande om myndigheten får kännedom om att den sökande enligt en dom som fått laga kraft är dömd för brott som innefattar
+
+1. sådan brottslighet som avses i artikel 2 i rådets rambeslut 2008/841/RIF av den 24 oktober 2008 om kampen mot organiserad brottslighet,
+
+2. bestickning enligt definitionen i artikel 3 i rådets akt av den 26 maj 1997 om utarbetande på grundval av artikel K 3.2 c i fördraget om Europeiska unionen av konventionen om kamp mot korruption som tjänstemän i Europeiska gemenskaperna eller Europeiska unionens medlemsstater är delaktiga i, korruption enligt artikel 2.1 i rådets rambeslut 2003/568/RIF av den 22 juli 2003 om kampen mot korruption inom den privata sektorn, eller korruption enligt nationella bestämmelser,
+
+3. bedrägeri i den mening som avses i artikel 1 i konventionen som utarbetats på grundval av artikel K.3 i fördraget om Euro- peiska unionen, om skydd av Europeiska gemenskapernas finansiella intressen,
+
+4. penningtvätt eller finansiering av terrorism enligt definitionen i artikel 1 i Europaparlamentets och rådets direktiv (EU) 2015/849 av den 20 maj 2015 om åtgärder för att förhindra att det finansiella systemet används för penning- tvätt eller finansiering av terrorism, om ändring av Europa- parlamentets och rådets förordning (EU) nr 648/2012 och om upphävande av Europaparlamentets och rådets direktiv 2005/60/EG och kommissionens direktiv 2006/70/EG, i lydelsen enligt Europaparlamentets och rådets förordning (EU) 2023/1113,
+
+5. terroristbrott eller brott med anknytning till terroristverksamhet såsom de definieras i artiklarna 3 och 5-12 i Europaparlamentets och rådets direktiv (EU) 2017/541 av den 15 mars 2017 om bekämpande av terrorism, om ersättande av rådets rambeslut 2002/475/RIF och om ändring av rådets beslut 2005/671/RIF, i den ursprungliga lydelsen, eller anstiftan, medhjälp och försök att begå brott i den mening som avses i artikel 14 i det direktivet, eller
+
+6. människohandel enligt definitionen i artikel 2 i Europa- parlamentets och rådets direktiv 2011/36/EU av den 5 april 2011 om förebyggande och bekämpande av människohandel, om skydd av dess offer och om ersättande av rådets rambeslut 2002/629/RIF, i den ursprungliga lydelsen.
+
+Om den sökande är en juridisk person, får den sökande uteslutas om en fysisk person som ingår i den sökandes för- valtnings-, lednings- eller kontrollorgan har dömts för brottet. Detsamma gäller om den som har dömts för brottet är behörig att företräda, fatta beslut om eller kontrollera den sökande. *Lag (2026:884)*.
+
+### Obetalda skatter och socialförsäkringsavgifter
+
+#### 2 §
+
+En upphandlande myndighet får utesluta en sökande om myndigheten får kännedom om att den sökande inte har fullgjort sina skyldigheter avseende betalning av skatter eller socialförsäkringsavgifter i det egna landet eller i det land där upphandlingen sker, och detta har fastställts genom ett bindande domstolsavgörande eller myndighetsbeslut som har fått laga kraft.
+
+En upphandlande myndighet får även utesluta en sökande om myn- digheten på ett annat lämpligt sätt kan visa att de skyldigheter som avses i första stycket inte har fullgjorts.
+
+*Lag (2026:884)*.
+
+### Missförhållanden i övrigt i fråga om en sökandes verksamhet
+
+#### 3 §
+
+En upphandlande myndighet får utesluta en sökande om
+
+1. myndigheten kan visa att den sökande har åsidosatt tillämp- liga miljö-, social- eller arbetsrättsliga skyldigheter,
+
+2. den sökande
+
+a) är i konkurs eller är föremål för insolvens- eller likvidationsförfaranden,
+
+b) är föremål för tvångsförvaltning,
+
+c) har ingått ackordsuppgörelse med borgenärer, eller
+
+d) har avbrutit sin näringsverksamhet eller befinner sig i en motsvarande situation, till följd av ett förfarande enligt nationella lagar och andra författningar, som liknar dem som avses i a-c,
+
+3. myndigheten kan visa att den sökande gjort sig skyldig till något allvarligt fel i yrkesutövningen som gör att den sökandes redbarhet kan ifrågasättas,
+
+4. den sökande har visat allvarliga eller ihållande brister i fullgörandet av något väsentligt krav i ett tidigare kontrakt enligt denna lag, lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet, lagen (2016:1145) om offentlig upphandling, lagen (2016:1146) om upphandling inom försörj- ningssektorerna eller lagen (2016:1147) om upphandling av kon- cessioner, och detta har medfört att det tidigare kontraktet har sagts upp i förtid eller lett till skadestånd eller jämförbara påföljder, eller
+
+5. den sökande i allvarlig omfattning
+
+a) har lämnat oriktiga uppgifter om den information som kan begäras för kontroll av att det inte finns grund för att utesluta den sökande enligt detta kapitel, eller
+
+b) har undanhållit sådan information. *Lag (2026:884)*.
+
+### Uteslutning på andra grunder
+
+#### 4 §
+
+En sökande får utöver vad som anges i 1-3 §§ uteslutas om den på andra grunder som anges i förfrågningsunderlaget är olämplig att delta i valfrihetssystemet. *Lag (2026:884)*.
+
+### Utredning
+
+#### 5 §
+
+Vid kontroll av om det enligt detta kapitel finns grund för att utesluta en sökande får en upphandlande myndighet inte begära att den sökande lämnar handlingar eller intyg om myndigheten själv har möjlighet att kostnadsfritt med elek- troniska medel få tillgång till motsvarande information genom en funktion för samordnad registerkontroll. *Lag (2026:884)*.
+
+#### 6 §
+
+En upphandlande myndighet ska, innan den beslutar att utesluta en sökande, ge den sökande tillfälle att inom en bestämd tid yttra sig över de omständigheter som enligt myn- digheten utgör skäl för uteslutning. *Lag (2026:884)*.
+
+### Behandling av personuppgifter om lagöverträdelser
+
+#### 7 §
+
+Personuppgifter som avses i artikel 10 i EU:s dataskydds- förordning får behandlas av den upphandlande myndigheten och sökanden endast om det är nödvändigt för att bedöma om lagöverträdelserna ska leda till uteslutning på grund av brott vid
+
+- inrättande av valfrihetssystem enligt denna lag, eller
+
+- uppföljningar av kontrakt som tecknats efter inrättandet av valfrihetssystem enligt denna lag.
+
+Första stycket begränsar inte möjligheten att behandla personuppgifter enligt 3 kap. 8 § lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning. *Lag (2026:884)*.
+
+## 8 kap. Godkännande och ingående av kontrakt
+
+### Beslut om godkännande
+
+#### 1 §
+
+Den upphandlande myndigheten ska godkänna samtliga sökande som uppfyller de krav som angetts i annonsen och förfrågnings- underlaget och som inte har uteslutits med stöd av 7 kap. 1-4 §§. *Lag (2026:884)*.
+
+### Underrättelse om beslut
+
+#### 2 §
+
+När beslut fattats om huruvida en sökande får delta i valfrihetssystemet ska den upphandlande myndigheten snarast möjligt lämna underrättelse till sökanden om beslutet och skälen för det.
+
+En sådan underrättelse ska lämnas till sökandena även när den upphandlande myndigheten beslutar att avbryta inrättandet av valfrihetssystemet.
+
+Om den upphandlande myndigheten beslutar att inte godkänna sökanden som leverantör i valfrihetssystemet ska den upphandlande myndigheten lämna upplysningar om hur rättelse söks.
+
+### Tecknande av kontrakt
+
+#### 3 §
+
+Sedan den upphandlande myndigheten lämnat sitt godkännande, ska myndigheten utan dröjsmål teckna kontrakt med leverantören.
+
+## 9 kap. Information och ickevalsalternativ
+
+### Den upphandlande myndighetens informationsansvar
+
+#### 1 §
+
+Den upphandlande myndigheten ska till enskilda lämna information om samtliga leverantörer som myndigheten tecknat kontrakt med inom ramen för valfrihetssystemet. Informationen ska vara saklig, relevant, jämförbar, lättförståelig och lättillgänglig.
+
+### Ickevalsalternativ
+
+#### 2 §
+
+För den enskilde som inte väljer leverantör ska den upphandlande myndigheten tillhandahålla ett ickevalsalternativ.
+
+## 10 kap. Rättsmedel m.m.
+
+### Rättelse
+
+#### 1 §
+
+En leverantör, som gör gällande att en upphandlande myndighet brutit mot en bestämmelse i denna lag, får ansöka om rättelse hos allmän förvaltningsdomstol.
+
+Endast den sökande som inte godkänts får ansöka om rättelse av den upphandlande myndighetens beslut enligt 8 kap. 1 §.
+
+En ansökan om rättelse ska inges skriftligen.
+
+#### 2 §
+
+Om den upphandlande myndigheten brutit mot någon bestämmelse i denna lag och detta medfört att en leverantör lidit eller kan komma att lida skada, ska rätten besluta om att den upphandlande myndigheten ska vidta rättelse.
+
+### Behörig domstol
+
+#### 3 §
+
+En ansökan om rättelse enligt 1 § ska göras hos den förvaltningsrätt i vars domkrets den upphandlande myndigheten har sitt hemvist.
+
+En ansökan enligt 1 § andra stycket ska ha kommit in till allmän förvaltningsdomstol inom tre veckor från det att underrättelse lämnats enligt 8 kap. 2 §.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2009:856)*.
+
+### Förbud mot överklagande
+
+#### 4 §
+
+Ett beslut som denna lag är tillämplig på får inte överklagas med stöd av 13 kap. kommunallagen (2017:725).
+
+*Lag (2017:754)*.
+
+### Skadestånd
+
+#### 5 §
+
+En upphandlande myndighet som inte följt bestämmelserna i denna lag ska ersätta sökanden för därigenom uppkommen skada.
+
+Skadeståndstalan som grundar sig på beslut enligt 8 kap. 1 § ska väckas inom ett år från det att den upphandlande myndigheten beslutat att inte godkänna sökanden.
+
+Talan om skadestånd ska väckas vid allmän domstol.
+
+Väcks inte talan i tid, är rätten till skadestånd förlorad.
+
+### Undantag från rättelse och skadestånd
+
+#### 6 §
+
+Bestämmelserna i detta kapitel om rättelse eller skadestånd gäller inte den upphandlande myndighetens beslut om information och ickevalsalternativ.
+
+### Tillsyn
+
+#### 7 §
+
+Regeringen utser en myndighet att utöva tillsyn över valfrihetssystem enligt denna lag.
+
+#### 8 §
+
+Tillsynsmyndigheten får inhämta sådana upplysningar från de upphandlande myndigheterna som är nödvändiga för tillsynen.
+
+Upplysningarna ska i första hand inhämtas genom ett skriftligt förfarande. Om det på grund av materialets omfång, brådska eller något annat förhållande är lämpligare, får upplysningarna i stället inhämtas genom besök hos den upphandlande myndigheten eller muntligen.
+
+#### 9 §
+
+En upphandlande myndighet är skyldig att tillhandahålla de upplysningar som tillsynsmyndigheten begär för sin tillsyn.
+
+### Tystnadsplikt
+
+#### 10 §
+
+Den som i samband med inrättandet av ett valfrihets- system, eller vid uppföljning av kontrakt som tecknats efter inrättandet av ett valfrihetssystem, har fått del av uppgifter om en enskilds personliga förhållanden som förekommer i en an- gelägenhet som avser kontroll av uppgifter ur belast- ningsregistret får inte obehörigen röja eller utnyttja dessa uppgifter.
+
+I offentlighets- och sekretesslagen (2009:400) finns bestämmelser om sekretess som tillämpas i det allmännas verksamhet. *Lag (2026:884)*.
+
+## Övergångsbestämmelser
+
+**2026:884**
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. För valfrihetssystem som annonserats före ikraftträdandet gäller inte 7 kap. 3-7 §§.
+
+3. För valfrihetssystem som annonserats före ikraftträdandet gäller 7 kap. 1 och 2 §§ och 8 kap. 1 § i den äldre lydelsen.

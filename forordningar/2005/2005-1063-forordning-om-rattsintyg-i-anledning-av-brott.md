@@ -1,0 +1,43 @@
+---
+title: "Förordning (2005:1063) om rättsintyg i anledning av brott"
+identifier: "SFS 2005:1063"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2005-12-08
+amended_through: "SFS 2022:55"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-1063.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:1063"
+retrieved: 2026-10-11
+---
+# Förordning (2005:1063) om rättsintyg i anledning av brott
+
+## 1 §
+
+Denna förordning gäller vid inhämtande och utfärdande av sådana intyg som avses i lagen (2005:225) om rättsintyg i anledning av brott (rättsintyg).
+
+## 2 §
+
+Bestämmelser om att rättsintyg skall inhämtas från läkare vid rättsmedicinsk avdelning inom Rättsmedicinalverket eller läkare som enligt avtal med verket har åtagit sig att utfärda sådana intyg finns i 2 § första stycket lagen (2005:225) om rättsintyg i anledning av brott.
+
+Rättsintyg enligt 2 § andra stycket samma lag skall inhämtas från legitimerad läkare eller legitimerad tandläkare.
+
+## 3 §
+
+Information enligt 6 § lagen (2005:225) om rättsintyg i anledning av brott skall lämnas av den myndighet som har beslutat att inhämta ett rättsintyg om detta endast avser ett yttrande över dokumentation.
+
+Om en läkarundersökning i syfte att utfärda ett rättsintyg skall göras, skall sådan information som avses i första stycket lämnas av den läkare som skall utföra undersökningen.
+
+Informationen skall lämnas före undersökningen.
+
+Information enligt första och andra styckena skall om möjligt lämnas både muntligen och skriftligen.
+
+## 4 §
+
+Rättsmedicinalverket får, efter att ha gett Polismyndigheten, Åklagarmyndigheten och Socialstyrelsen tillfälle att yttra sig, meddela närmare föreskrifter om
+
+1. ett rättsintygs utformning och innehåll, och
+
+2. utformningen av den information som avses i 3 §. *Förordning (2022:55)*.

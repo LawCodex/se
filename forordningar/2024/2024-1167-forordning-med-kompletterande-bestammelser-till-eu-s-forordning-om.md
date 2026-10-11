@@ -1,0 +1,57 @@
+---
+title: "Förordning (2024:1167) med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar"
+identifier: "SFS 2024:1167"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2024-11-28
+amended_through: "2026:338"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-1167.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:1167"
+retrieved: 2026-10-11
+---
+# Förordning (2024:1167) med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar
+
+## 1 §
+
+Denna förordning kompletterar lagen (2024:1159) med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar. Termer och uttryck i denna förordning har samma betydelse som i den lagen.
+
+Förordningen är meddelad med stöd av
+
+- 2 kap. 8 § andra stycket lagen med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar i fråga om 2 §, och
+
+- 8 kap. 7 § regeringsformen i fråga om 3-5 §§.
+
+*Förordning (2026:338)*.
+
+## 2 §
+
+Finansinspektionen får meddela föreskrifter om
+
+1. uppgiftsskyldigheten enligt 2 kap. 2 § lagen (2024:1159) med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar, och
+
+2. produktintervention enligt artikel 105 i EU-förordningen.
+
+## 3 §
+
+Finansinspektionen ska snarast underrätta Bolagsverket, om inspektionen med stöd av 3 kap. 5 § lagen (2024:1159) med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar har beslutat att en fysisk person under en viss tid inte får vara styrelseledamot eller verkställande direktör, eller ersättare för någon av dem, i ett företag som omfattas av EU-förordningen.
+
+## 4 §
+
+Finansinspektionen ska senast den 31 december varje kalenderår lämna en förteckning till Skatteverket över leverantörer av kryptotillgångstjänster som har
+
+1. auktoriserats av Finansinspektionen enligt artikel 63 i EU:s förordning om marknader för kryptotillgångar, eller
+
+2. underrättat Finansinspektionen enligt artikel 60 i EU:s förordning om marknader för kryptotillgångar.
+
+Första stycket gäller inte om Finansinspektionen har gjort uppgifterna tillgängliga för Skatteverket på annat sätt.
+
+*Förordning (2025:1396)*.
+
+## 5 §
+
+Polismyndigheten får meddela föreskrifter om hur uppgifter enligt 1 kap. 4 a § första stycket och 5 § lagen (2024:1159) med kompletterande bestämmelser till EU:s förordning om marknader för kryptotillgångar ska lämnas.
+
+*Förordning (2026:338)*.

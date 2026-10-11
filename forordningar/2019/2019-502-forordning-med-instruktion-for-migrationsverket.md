@@ -1,0 +1,305 @@
+---
+title: "Förordning (2019:502) med instruktion för Migrationsverket"
+identifier: "SFS 2019:502"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-06-27
+amended_through: "SFS 2026:1190"
+department: "Justitiedepartementet SIM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-502.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:502"
+retrieved: 2026-10-11
+---
+# Förordning (2019:502) med instruktion för Migrationsverket
+
+## Uppgifter
+
+### 1 §
+
+Migrationsverket är förvaltningsmyndighet för frågor som rör
+
+- uppehållstillstånd,
+
+- arbetstillstånd,
+
+- uppehållsrätt,
+
+- visering,
+
+- mottagande av sökande av internationellt skydd inklusive boenden,
+
+- anvisning till kommuner av ensamkommande barn,
+
+- anvisning till kommuner av nyanlända och personer med tillfälligt skydd,
+
+- självmant återvändande,
+
+- medborgarskap,
+
+- återvandring, och
+
+- boende för tredjelandsmedborgare som är föremål för screening enligt Europaparlamentets och rådets förordning (EU) 2024/1356 av den 14 maj 2024 om införande av screening av tredjelandsmedborgare vid de yttre gränserna och om ändring av förordningarna (EG) nr 767/2008, (EU) 2017/2226, (EU) 2018/1240 och (EU) 2019/817, och som inte ansöker om internationellt skydd eller är tagna i förvar.
+
+*Förordning (2026:1190)*.
+
+### 1 a §
+
+Migrationsverket är beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap.
+
+*Förordning (2025:7)*.
+
+### 2 §
+
+Myndigheten ska, inom ramen för sitt verksamhetsområde, bidra till att uppnå det riksdagsbundna målet för utgiftsområde 8 Migration. *Förordning (2025:7)*.
+
+```
+3 § Myndigheten ska     
+```
+
+1. ha ett förutsebart och enhetligt beslutsfattande med hög rättslig kvalitet,
+
+2. verka för att den sammantagna vistelsetiden i mottagandet blir så kort som möjligt,
+
+3. vara tillgänglig och ge god service som möter de sökandes och andra intressenters behov,
+
+4. så tidigt som möjligt i processen vidta de åtgärder som krävs i syfte att den sökandes identitet ska kunna fastställas,
+
+5. bedriva en effektiv och ändamålsenlig återvändandeverksamhet,
+
+6. bedriva en effektiv och ändamålsenlig förvarsverksamhet,
+
+7. stimulera frivillig återvandring,
+
+8. bidra till att främja invandring av kvalificerad och högkvalificerad arbetskraft, forskare och doktorander, och9. ansvara för vidarebosättning till Sverige av flyktingar och andra skyddsbehövande som befinner sig i tredje land och utanför sitt hemland efter förslag från FN:s flyktingkommissarie (UNHCR) eller i extraordinära fall av en enskild person efter förslag från svensk utlandsmyndighet, inklusive vittnen och deras anhöriga som har beviljats uppehållstillstånd enligt 22 kap. utlänningslagen (2005:716) och tillhandahålla information i syfte att förbereda dem som ska vidarebosättas inför etablering i Sverige.
+
+*Förordning (2025:7)*.
+
+### 4 §
+
+Myndigheten ska också
+
+1. analysera, följa upp och utvärdera de faktorer som har betydelse för myndighetens verksamhet,
+
+2. föra register och statistik över utlänningar i landet i den utsträckning som behövs för verksamheten,
+
+3. använda medel från EU-fonder för att finansiera och utveckla den egna verksamheten,
+
+4. offentliggöra och tillgängliggöra myndighetens aktuella landinformation i den omfattning som är möjlig,
+
+5. ersätta kommuner, regioner och apotek för vissa kostnader för asylsökande och nyanlända,
+
+6. jämställdhetsintegrera och utforma verksamheten så att jämställda villkor för kvinnor och män respektive för flickor och pojkar uppnås,
+
+7. analysera konsekvenserna för barn inför beslut eller andra åtgärder som kan röra barn, och
+
+8. inom sitt verksamhetsområde främja lika rättigheter och möjligheter oavsett sexuell läggning, könsidentitet och könsuttryck. *Förordning (2025:7)*.
+
+### 5 §
+
+Myndigheten ska dessutom
+
+1. vidta åtgärder för att motverka missbruk av regler, felaktiga utbetalningar och bidragsbrott,
+
+2. bistå Säkerhetspolisen i dess verksamhet för att förebygga och avslöja brott mot rikets säkerhet och i frågor som rör terrorism,
+
+3. anmäla till Polismyndigheten eller åklagare om det i ett ärende hos myndigheten framkommer misstankar om folkmord, brott mot mänskligheten eller krigsförbrytelser,
+
+4. bidra till arbetet mot människohandel och liknande brott,
+
+5. delta i det myndighetsgemensamma arbetet mot den grova och organiserade brottsligheten,
+
+6. delta i det myndighetsgemensamma arbetet mot arbetslivskriminalitet,
+
+7. förebygga och motverka brottslighet inom sitt verksamhetsområde och samverka med andra statliga myndigheter i det brottsförebyggande arbetet, och
+
+8. årligen, efter att ha inhämtat synpunkter från de myndigheter och organisationer som Migrationsverket bedömer är relevanta för frågan, informera regeringen om huruvida det på grund av missbruk av systemet för arbetskraftsinvandring finns behov av att ändra förteckningen över yrken för vilka arbetstillstånd inte får beviljas i 5 kap. 5 § utlänningsförordningen (2006:97). *Förordning (2026:606)*.
+
+### 6 §
+
+Myndigheten får
+
+1. ta tillvara möjligheten att bedriva tjänsteexport, inklusive biståndsfinansierad sådan, som är direkt kopplad till myndighetens kärnverksamhet och som ligger inom ramen för de uppgifter som anges i denna instruktion eller någon annan förordning, och
+
+2. förhandla och ingå överenskommelser, under förutsättning att överenskommelsen inte kräver riksdagens eller Utrikesnämndens medverkan, med
+
+a) FN:s migrationsorganisation International Organization for Migration (IOM) inom vidarebosättnings-, återvandrings- och återvändandearbetet samt i fråga om anhörigresor, och
+
+b) andra internationella organisationer i den utsträckning det är nödvändigt för att möjliggöra utbetalning av återvandringsbidrag. *Förordning (2026:606)*.
+
+### 6 a §
+
+I förordningen (2022:1058) med kompletterande bestämmelser till EU:s gräns- och kustbevakningsförordning finns bestämmelser om myndighetens ansvar med anledning av Europaparlamentets och rådets förordning (EU) 2019/1896 av den 13 november 2019 om den europeiska gräns- och kustbevakningen och om upphävande av förordningarna (EU) nr 1052/2013 och (EU) 2016/1624. *Förordning (2022:1070)*.
+
+## Migrationsverksamheten vid utlandsmyndigheterna
+
+### 7 §
+
+Myndigheten ska
+
+1. bedöma behovet av bemanning för migrationsverksamheten vid utlandsmyndigheterna,
+
+2. vid behov och efter samråd med Regeringskansliet (Utrikesdepartementet) placera personal vid utlandsmyndigheterna för att utföra uppgifter inom migrationsområdet,
+
+3. finansiera, följa upp, utveckla och ge stöd till migrationsverksamheten vid utlandsmyndigheterna, och
+
+4. lämna information till utlandsmyndigheterna, sökande och andra intressenter i migrationsfrågor. *Förordning (2019:1177)*.
+
+### 8 §
+
+Myndigheten får begära att en utlandsmyndighet som handlägger migrationsärenden ska vidta åtgärder som faller inom Migrationsverkets behörighetsområde enligt 1 och 7 §§.
+
+*Förordning (2019:1177)*.
+
+### 9 §
+
+Myndigheten ska ingå en överenskommelse med Regeringskansliet (Utrikesdepartementet) som närmare reglerar samarbetet mellan utlandsmyndigheterna och Migrationsverket i frågor som rör migrationsverksamheten vid utlandsmyndigheterna. *Förordning (2019:1177)*.
+
+## Internationellt samarbete
+
+### 10 §
+
+Myndigheten ska delta i relevanta samarbeten inom EU och internationellt för att
+
+1. verka för att genomföra regeringens migrationspolitiska prioriteringar,
+
+2. verka för ett ömsesidigt erfarenhetsutbyte som är till nytta för myndighetens verksamhet i stort, och
+
+3. bistå regeringen inom ramen för utvecklingssamarbetet på migrationsområdet med huvudsakligt syfte att stärka ursprungs-, transit- och destinationsländers kapacitet på migrationsområdet. *Förordning (2025:7)*.
+
+### 11 §
+
+Myndigheten ska vidare
+
+1. ansvara för den nationella åtkomstpunkten för kommunikationen med Eurodac enligt Europaparlamentets och rådets förordning (EU) 2024/1358 av den 14 maj 2024 om inrättande av Eurodac för jämförelse av biometriska uppgifter för att effektivt tillämpa Europaparlamentets och rådets förordningar (EU) 2024/1351 och (EU) 2024/1350 och rådets direktiv 2001/55/EG, och identifiera tredjelandsmedborgare och statslösa personer som vistas olagligt och om framställningar från medlemsstaternas brottsbekämpande myndigheter och Europol om jämförelse med Eurodacuppgifter för brottsbekämpande ändamål, om ändring av Europaparlamentets och rådets förordningar (EU) 2018/1240 och (EU) 2019/818 och om upphävande av Europaparlamentets och rådets förordning (EU) nr 603/2013, här benämnd Eurodacförordningen,
+
+2. ha åtkomst till uppgifter i Eurodac enligt artikel 40.1 i Eurodacförordningen och föra en förteckning över enheter inom myndigheten som ska ha sådan åtkomst,
+
+3. ansvara för Sveriges behandling av personuppgifter i informationssystemet för viseringar enligt artikel 41.4 i Europaparlamentets och rådets förordning (EG) nr 767/2008 av den 9 juli 2008 om informationssystemet för viseringar (VIS) och utbytet mellan medlemsstaterna av uppgifter om viseringar för kortare vistelse (VIS-förordningen),
+
+4. föra register enligt artikel 34 i VIS-förordningen över all behandling av personuppgifter i VIS och över de personer som är behöriga att föra in eller använda uppgifter i VIS,
+
+5. vara den myndighet som ger övriga behöriga svenska myndigheter åtkomst till VIS enligt artikel 28.2 i VIS- förordningen,
+
+6. vara behörig myndighet enligt lagen (2017:244) om kontroller och inspektioner på plats av Europeiska byrån för bedrägeribekämpning, vid kontroller och inspektioner av det nationella programmet för asyl-, migrations- och integrationsfonden,
+
+7. vara personuppgiftsansvarig för den behandling av personuppgifter i Eurodac som myndigheten utför, och
+
+8. vara screeningmyndighet enligt Europaparlamentets och rådets förordning (EU) 2024/1356 av den 14 maj 2024 om införande av screening av tredjelandsmedborgare vid de yttre gränserna och om ändring av förordningarna (EG) nr 767/2008, (EU) 2017/2226, (EU) 2018/1240 och (EU) 2019/817.
+
+*Förordning (2026:1190)*.
+
+### 12 §
+
+Myndigheten ska vara ansvarig myndighet för
+
+1. förvaltning av asyl-, migrations- och integrationsfonden i enlighet med förordningen (2021:853) om förvaltning av asyl-, migrations- och integrationsfonden,
+
+2. samordning och utförande av det övervakningssystem för återvändanden som avses i Europaparlamentets och rådets direktiv 2008/115/EG av den 16 december 2008 om gemensamma normer och förfaranden för återvändande av tredjelandsmedborgare som vistas olagligt i medlemsstaterna och i Europaparlamentets och rådets förordning (EU) 2019/1896 av den 13 november 2019 om den europeiska gräns- och kustbevakningen och om upphävande av förordningarna (EU) nr 1052/2013 och (EU) 2016/1624,
+
+3. samarbetet med Europeiska unionens asylbyrå enligt Europaparlamentets och rådets förordning (EU) 2021/2303 av den 15 december 2021 om Europeiska unionens asylbyrå och om upphävande av förordning (EU) nr 439/2010, och
+
+4. att uppfylla skyldigheterna enligt artikel 52.1 i Europaparlamentets och rådets förordning (EU) 2024/1351 av den 14 maj 2024 om asyl- och migrationshantering, om ändring av förordningarna (EU) 2021/1147 och (EU) 2021/1060 och om upphävande av förordning (EU) nr 604/2013.
+
+*Förordning (2026:1190)*.
+
+### 13 §
+
+Myndigheten är kontaktpunkt i frågor som rör
+
+1. massflyktssituationer enligt 21 kap. utlänningslagen (2005:716),
+
+2. informationsutbyte om utlänningar som har ställning som varaktigt bosatta enligt 5 a kap. utlänningslagen,
+
+3. ersättningsanspråk i samband med ömsesidigt erkännande av beslut om avvisning och utvisning enligt rådets beslut 2004/191/EG av den 23 februari 2004 om fastställande av kriterier och närmare föreskrifter för ersättning för finansiella obalanser som uppstår till följd av tillämpningen av direktiv 2001/40/EG om ömsesidigt erkännande av beslut om avvisning eller utvisning av medborgare i tredjeland,
+
+4. informationsutbyte om nationella åtgärder på asyl- och invandringsområdet enligt rådets beslut 2006/688/EG av den 5 oktober 2006 om upprättande av ett system för ömsesidigt informationsutbyte om medlemsstaternas åtgärder rörande asyl och invandring,
+
+5. det europeiska migrationsnätverk som inrättats enligt rådets beslut 2008/381/EG av den 14 maj 2008 om inrättande av ett europeiskt migrationsnätverk,
+
+6. informationsutbyte som avser Europaparlamentets och rådets direktiv (EU) 2021/1883 av den 20 oktober 2021 om villkor för tredjelandsmedborgares inresa och vistelse för högkvalificerad anställning och om upphävande av rådets direktiv 2009/50/EG,
+
+7. informationsutbyte som avser Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU,
+
+8. informationsutbyte som avser Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU,
+
+9. informationsutbyte som gäller Europaparlamentets och rådets direktiv 2014/66/EU av den 15 maj 2014 om villkor för inresa och vistelse för tredjelandsmedborgare inom ramen för företagsintern förflyttning av personal,
+
+10. informationsutbyte som gäller Europaparlamentets och rådets direktiv (EU) 2016/801 av den 11 maj 2016 om villkoren för tredjelandsmedborgares inresa och vistelse för forskning, studier, praktik, volontärarbete, deltagande i elevutbytesprogram eller utbildningsprojekt och för au pair- arbete,
+
+11. underlättande av genomförandet av unionsplanen enligt Europaparlamentets och rådets förordning (EU) 2024/1350 av den 14 maj 2024 om inrättande av en unionsram för vidarebosättning och inresa av humanitära skäl, samt om ändring av förordning (EU) 2021/1147, och
+
+12. kommunikation med Europeiska unionens asylbyrå enligt Europaparlamentets och rådets förordning (EU) 2021/2303 av den 15 december 2021 om Europeiska unionens asylbyrå och om upphävande av förordning (EU) nr 439/2010.
+
+*Förordning (2026:1190)*.
+
+## Samverkan med Statens servicecenter
+
+### 13 a §
+
+Myndigheten ska ingå serviceavtal med Statens servicecenter om att Statens servicecenter ska utföra uppgifter för Migrationsverkets räkning enligt lagen (2019:212) om viss gemensam offentlig service.
+
+*Förordning (2025:857)*.
+
+## Ledning
+
+### 14 §
+
+Myndigheten leds av en myndighetschef.
+
+*Förordning (2019:1177)*.
+
+### 15 §
+
+Vid myndigheten finns ett insynsråd som består av högst tolv ledamöter. *Förordning (2019:1177)*.
+
+## Särskilda organ
+
+### 16 §
+
+Vid myndigheten finns ett etiskt råd.
+
+Det etiska rådet ska på myndighetens begäran yttra sig i frågor som rör utformningen av myndighetens verksamhet och som kan kräva etiska överväganden.
+
+Rådet ska bestå av högst sju ledamöter. Regeringen utser ordförande och övriga ledamöter i det etiska rådet för en bestämd tid. *Förordning (2019:1177)*.
+
+## Anställningar och uppdrag
+
+### 17 §
+
+Generaldirektören är myndighetschef.
+
+*Förordning (2019:1177)*.
+
+### 18 §
+
+Vid myndigheten finns en överdirektör.
+
+*Förordning (2019:1177)*.
+
+## Personalansvarsnämnd
+
+### 19 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+*Förordning (2019:1177)*.
+
+## Tillämpligheten av vissa förordningar
+
+### 20 §
+
+Myndigheten ska tillämpa internrevisionsförordningen (2006:1228) och personalföreträdarförordningen (1987:1101).
+
+*Förordning (2019:1177)*.
+
+## Skadestånd
+
+### 21 §
+
+Myndigheten får betala ut skälig ersättning för person- eller sakskador som uppkommit i verksamhet som myndigheten bedriver.
+
+Myndighetens beslut i dessa frågor får inte överklagas.
+
+*Förordning (2019:1177)*.

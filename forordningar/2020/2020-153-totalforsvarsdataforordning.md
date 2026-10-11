@@ -1,0 +1,89 @@
+---
+title: "Totalförsvarsdataförordning (2020:153)"
+identifier: "SFS 2020:153"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-03-19
+amended_through: "SFS 2020:1292"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-153.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:153"
+retrieved: 2026-10-11
+---
+# Totalförsvarsdataförordning (2020:153)
+
+## Allmän bestämmelse
+
+### 1 §
+
+I denna förordning finns kompletterande föreskrifter om sådan behandling av personuppgifter som omfattas av totalförsvarsdatalagen (2020:151).
+
+Termer och uttryck som används i denna förordning har samma betydelse som i lagen.
+
+## Direktåtkomst
+
+### 2 §
+
+Försvarsmaktens direktåtkomst ska begränsas till de personuppgifter som är nödvändiga för myndighetens verksamhet.
+
+Direktåtkomsten får endast avse uppgifter om
+
+1. personnummer eller samordningsnummer, namn, adress, telefonnummer och folkbokföringsort,
+
+2. hinder för genomförande av mönstring, annan utredning, utbildning, krigsplacering eller annat ianspråktagande av den registrerade för totalförsvarets räkning,
+
+3. utbildning, anställning, kunskaper, färdigheter, anlag och intressen som har betydelse för bedömningen av den registrerades användbarhet inom totalförsvaret,
+
+4. fysisk och psykisk hälsa och förmåga samt de uppgifter som ligger till grund för den bedömningen,
+
+5. om den registrerade är svensk medborgare eller inte,
+
+6. utgången i mål om ansvar för brott mot totalförsvarsplikten,
+
+7. att den registrerade har dömts till påföljd för brott som framgår av uppgifter ur belastningsregistret som Totalförsvarets plikt- och prövningsverk har fått del av,
+
+8. att den registrerade har genomgått säkerhetsprövning enligt säkerhetsskyddslagen (2018:585), vilken säkerhetsklass som prövningen har avsett och resultatet av denna,
+
+9. vad som bestämts vid inskrivningen för att fullgöra värnplikt eller civilplikt,
+
+10. krigsplacering, annat ianspråktagande av den registrerade för totalförsvaret eller en särskild uppgift som han eller hon ska utföra vid höjd beredskap,
+
+11. tjänstgöring inom totalförsvaret och betyg, vitsord, förordnanden och utmärkelser som rör tjänstgöringen, och
+
+12. personliga förhållanden i övrigt som åberopas av den registrerade, om de rör hans eller hennes tjänstgöring inom totalförsvaret. *Förordning (2020:1292)*.
+
+### 3 §
+
+Totalförsvarets plikt- och prövningsverk får ställa villkor i fråga om behörighet och säkerhet för att myndigheten ska medge Försvarsmakten direktåtkomst enligt 12 § totalförsvarsdatalagen (2020:151).
+
+Direktåtkomst får inte medges innan Totalförsvarets plikt- och prövningsverk har försäkrat sig om att Försvarsmakten uppfyller kraven på behörighet och säkerhet.
+
+*Förordning (2020:1292)*.
+
+## Försvarsmaktens införande och rättelse av personuppgifter
+
+### 4 §
+
+Försvarsmakten får i Totalförsvarets plikt- och prövningsverks informationssystem endast föra in och rätta uppgifter om
+
+1. personnummer eller samordningsnummer, namn, adress, telefonnummer och folkbokföringsort,
+
+2. krigsplacering, annat ianspråktagande av den registrerade för totalförsvaret eller en särskild uppgift som han eller hon ska utföra vid höjd beredskap, och
+
+3. tjänstgöring inom totalförsvaret och betyg, vitsord, förordnanden och utmärkelser som hör till tjänstgöringen.
+
+*Förordning (2020:1292)*.
+
+### 5 §
+
+Totalförsvarets plikt- och prövningsverk får ställa villkor i fråga om behörighet och säkerhet för Försvarsmaktens införande och rättelse av personuppgifter enligt 14 § totalförsvarsdatalagen (2020:151). *Förordning (2020:1292)*.
+
+## Avskiljande
+
+### 6 §
+
+Totalförsvarets plikt- och prövningsverk får meddela föreskrifter om avskiljande av personuppgifter enligt 15 § första och andra stycket totalförsvarsdatalagen.
+
+*Förordning (2020:1292)*.

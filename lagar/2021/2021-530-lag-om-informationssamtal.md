@@ -1,0 +1,71 @@
+---
+title: "Lag (2021:530) om informationssamtal"
+identifier: "SFS 2021:530"
+type: act
+jurisdiction: se
+language: sv
+date: 2021-06-03
+amended_through: "SFS 2025:459"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2021-530.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2021:530"
+retrieved: 2026-10-11
+---
+# Lag (2021:530) om informationssamtal
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna lag gäller för sådana informationssamtal som avses i 13 kap. 5 § socialtjänstlagen (2025:400) och som hålls med föräldrar som inte är överens i frågor om vårdnad, boende eller umgänge.
+
+Om en förälder begär informationssamtal, ska socialnämnden erbjuda föräldrarna samtal. *Lag (2025:459)*.
+
+## Ansvarig kommun
+
+### 2 §
+
+Socialnämnden i den kommun där barnet är folkbokfört ansvarar för att informationssamtal kan hållas.
+
+### 3 §
+
+Om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var barnet är folkbokfört, ansvarar även socialnämnden i en kommun där någon av föräldrarna är folkbokförd för att informationssamtal kan hållas.
+
+Om det kan antas att sekretess gäller också för de uppgifter som behövs för att avgöra var föräldrarna är folkbokförda, ansvarar socialnämnden i den kommun som en förälder väljer för att sådana samtal kan hållas. Detsamma gäller om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var barnet och en förälder är folkbokförda och den andra föräldern inte är folkbokförd i landet.
+
+### 4 §
+
+Om barnet inte är folkbokfört i landet, ansvarar socialnämnden i en kommun där någon av föräldrarna är folkbokförd för att informationssamtal kan hållas.
+
+Om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var föräldrarna är folkbokförda, ansvarar socialnämnden i den kommun som en förälder väljer för att sådana samtal kan hållas. Detsamma gäller om det kan antas att sekretess gäller för de uppgifter som behövs för att avgöra var en förälder är folkbokförd och den andra föräldern inte är folkbokförd i landet.
+
+## Tidsfrister och deltagande
+
+### 5 §
+
+Informationssamtal ska hållas så snart det är möjligt och senast inom fyra veckor från begäran. Om det finns särskilda skäl, får socialnämnden erbjuda en senare tid för samtalet.
+
+### 6 §
+
+Socialnämnden ska erbjuda föräldrarna ett gemensamt informationssamtal. Om det finns särskilda skäl för det, får socialnämnden i stället erbjuda föräldrarna enskilda samtal.
+
+Om någon av föräldrarna begär det, ska socialnämnden erbjuda föräldrarna enskilda samtal.
+
+## Samtalens innehåll
+
+### 7 §
+
+I informationssamtalen ska föräldrarna få relevant information som syftar till att de ska hitta den lösning som är bäst för barnet i frågor om vårdnad, boende och umgänge. Föräldrarna ska också erbjudas samarbetssamtal enligt 13 kap. 6 § första stycket socialtjänstlagen (2025:400), om det inte är olämpligt, och efter behov erbjudas eller vägledas till insatser i annan form. *Lag (2025:459)*.
+
+## Samtalsintyg
+
+### 8 §
+
+Socialnämnden ska utfärda ett samtalsintyg till en förälder som har deltagit i ett informationssamtal. Intyget ska innehålla uppgifter om
+
+1. föräldrarnas namn och person- eller samordningsnummer,
+
+2. vem som har deltagit i samtalet, och
+
+3. när samtalet ägde rum.

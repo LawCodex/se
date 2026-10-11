@@ -1,0 +1,79 @@
+---
+title: "Förordning (2006:627) om särskild tillsyn över finansiella konglomerat"
+identifier: "SFS 2006:627"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-06-08
+amended_through: "SFS 2026:647"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-627.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:627"
+retrieved: 2026-10-11
+---
+# Förordning (2006:627) om särskild tillsyn över finansiella konglomerat
+
+## 1 §
+
+Finansinspektionen får ingå sådana internationella överenskommelser som följer av Europaparlamentets och rådets direktiv 2002/87/EG av den 16 december 2002 om extra tillsyn över kreditinstitut, försäkringsföretag och värdepappersföretag i ett finansiellt konglomerat och om ändring av rådets direktiv 73/239/EEG, 79/267/EEG, 92/49/EEG, 92/96/EEG, 93/6/EEG och 93/22/EEG samt Europaparlamentets och rådets direktiv 98/78/EG och 2000/12/EG, senast ändrat genom Europaparlamentets och rådets direktiv 2011/89/EU.
+
+*Förordning (2013:673)*.
+
+## 2 §
+
+*/Upphör att gälla U:2030-01-10/* När det gäller följande bestämmelser i lagen (2006:531) om särskild tillsyn över finansiella konglomerat får Finansinspektionen meddela föreskrifter om
+
+1. hur balansomslutningen och kapitalkraven ska beräknas enligt 2 kap. 2-4 §§,
+
+2. de närmare förutsättningarna för att tillämpa bestämmelsen i 3 kap. 4 §,
+
+3. hur kapitalbasen och kapitalkraven ska beräknas enligt 5 kap. 3-5 §§,
+
+4. hur riskkoncentrationer enligt 5 kap. 7 § ska värderas,
+
+5. hur interna transaktioner enligt 5 kap. 9 § ska värderas,
+
+6. innehållet, omfattningen och fullgörandet av rapporteringen enligt 5 kap. 10 §,
+
+7. sådana riskkoncentrationer och interna transaktioner som ska rapporteras enligt 5 kap. 11 § och fullgörandet av denna rapportering,
+
+8. att vissa uppgifter som enligt 5 kap. 10 och 11 §§ ska lämnas till Finansinspektionen i stället ska lämnas till Statistiska centralbyrån, och
+
+9. kraven på system för riskhantering och rutiner för intern kontroll enligt 5 kap. 13 och 14 §§. *Förordning (2014:499)*.
+
+## 2 §
+
+*/Träder i kraft I:2030-01-10/* När det gäller följande bestämmelser i lagen (2006:531) om särskild tillsyn över finansiella konglomerat får Finansinspektionen meddela föreskrifter om
+
+1. hur balansomslutningen och kapitalkraven ska beräknas enligt 2 kap. 2-4 §§,
+
+2. de närmare förutsättningarna för att tillämpa bestämmelsen i 3 kap. 4 §,
+
+3. hur kapitalbasen och kapitalkraven ska beräknas enligt 5 kap. 3-5 §§,
+
+4. hur riskkoncentrationer enligt 5 kap. 7 § ska värderas,
+
+5. hur interna transaktioner enligt 5 kap. 9 § ska värderas,
+
+6. innehållet, omfattningen och fullgörandet av rapporteringen enligt 5 kap. 10 §,
+
+7. sådana riskkoncentrationer och interna transaktioner som ska rapporteras enligt 5 kap. 11 § och fullgörandet av denna rapportering,
+
+8. att vissa uppgifter som enligt 5 kap. 10 och 11 §§ ska lämnas till Finansinspektionen i stället ska lämnas till Statistiska centralbyrån,
+
+9. beskrivningen som ska lämnas till Finansinspektionen enligt 5 kap. 10 a §, och
+
+10. kraven på system för riskhantering och rutiner för intern kontroll enligt 5 kap. 13 och 14 §§. *Förordning (2026:647)*.
+
+## 3 §
+
+Innan Finansinspektionen meddelar föreskrifter med stöd av 2 § 8, ska inspektionen ge Riksbanken och Statistiska centralbyrån tillfälle att yttra sig.
+
+*Förordning (2014:499)*.
+
+## 4 §
+
+Polismyndigheten får meddela föreskrifter om hur uppgifter enligt 6 kap. 7 a § första stycket och 8 § lagen (2006:531) om särskild tillsyn över finansiella konglomerat ska lämnas.
+
+*Förordning (2025:195)*.

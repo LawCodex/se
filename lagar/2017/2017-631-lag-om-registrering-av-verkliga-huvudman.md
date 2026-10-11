@@ -1,0 +1,389 @@
+---
+title: "Lag (2017:631) om registrering av verkliga huvudmän"
+identifier: "SFS 2017:631"
+type: act
+jurisdiction: se
+language: sv
+date: 2017-06-22
+amended_through: "SFS 2026:316"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-631.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:631"
+retrieved: 2026-10-11
+---
+# Lag (2017:631) om registrering av verkliga huvudmän
+
+## 1 kap. Lagens syfte, tillämpningsområde och definitioner
+
+### Lagens syfte
+
+#### 1 §
+
+För att förhindra att juridiska personer eller truster utnyttjas för penningtvätt eller finansiering av terrorism finns i denna lag bestämmelser om krav på registrering av verkliga huvudmän i juridiska personer och truster.
+
+Med truster avses i denna lag även liknande juridiska konstruktioner. *Lag (2019:736)*.
+
+### Tillämpningsområde
+
+#### 2 §
+
+Lagen är tillämplig på
+
+1. svenska juridiska personer,
+
+2. utländska juridiska personer som driver verksamhet i Sverige,
+
+3. fysiska personer med hemvist i Sverige som driver verksamhet som avser förvaltning av en trust, och
+
+4. fysiska personer med hemvist i utlandet som driver verksamhet i Sverige som avser förvaltning av en trust.
+
+Lagen är inte tillämplig på
+
+1. staten, regioner, kommuner eller kommunalförbund eller juridiska personer som staten, regioner, kommuner eller kommunalförbund, var för sig eller tillsammans, har ett direkt eller indirekt rättsligt bestämmande inflytande över,
+
+2. aktiebolag vars aktier är upptagna till handel på en reglerad marknad inom EES eller motsvarande marknad utanför EES eller dotterföretag till sådana bolag,
+
+3. dödsbon, eller
+
+4. konkursbon.
+
+*Lag (2019:1255)*.
+
+### Verklig huvudman
+
+#### 3 §
+
+Med verklig huvudman avses
+
+1. en fysisk person som, ensam eller tillsammans med någon annan, ytterst äger eller kontrollerar en juridisk person, eller
+
+2. en fysisk person till vars förmån någon annan handlar.
+
+Om inte annat följer av omständigheterna i det enskilda fallet, ska en fysisk person anses vara verklig huvudman, om han eller hon omfattas av en presumtion om kontroll enligt 4-6 §§.
+
+#### 4 §
+
+En fysisk person ska antas utöva den yttersta kontrollen över en juridisk person, om han eller hon
+
+1. på grund av innehav av aktier, andra andelar eller medlemskap kontrollerar mer än 25 procent av det totala antalet röster i den juridiska personen,
+
+2. har rätt att utse eller avsätta mer än hälften av den juridiska personens styrelseledamöter eller motsvarande befattningshavare, eller
+
+3. på grund av avtal med ägare, medlem eller den juridiska personen, föreskrift i bolagsordning, bolagsavtal och därmed jämförbara handlingar, kan utöva kontroll enligt 1 eller 2.
+
+Om en fysisk person ska antas utöva den yttersta kontrollen över en eller flera juridiska personer som utövar kontroll över en annan juridisk person på ett sätt som anges i första stycket, ska han eller hon antas utöva den yttersta kontrollen också över den senare juridiska personen.
+
+#### 5 §
+
+En fysisk person ska antas utöva den yttersta kontrollen över en juridisk person, om han eller hon tillsammans med en eller flera närstående kan kontrollera en juridisk person enligt 4 §.
+
+Med närstående avses make, registrerad partner, sambo, barn och deras make, registrerade partner eller sambo samt föräldrar.
+
+#### 6 §
+
+En fysisk person ska, utöver vad som följer av 4 och 5 §§, antas utöva den yttersta kontrollen över en stiftelse, om han eller hon
+
+1. är styrelseledamot eller motsvarande befattningshavare, eller
+
+2. företräder en annan juridisk person som är förvaltare för stiftelsen.
+
+En fysisk person ska antas vara den till vars förmån stiftelsen handlar, om han eller hon enligt stiftelseförordnandet kan få del av en väsentlig andel av stiftelsens utdelade medel.
+
+#### 7 §
+
+En fysisk person ska antas vara verklig huvudman i en trust, om han eller hon
+
+1. är instiftare,
+
+2. är förvaltare eller, om förvaltaren är en juridisk person, företrädare för förvaltaren,
+
+3. är beskyddare,
+
+4. är förmånstagare eller tillhör förmånstagarkretsen, eller
+
+5. på något annat sätt utövar den yttersta kontrollen över trusten. *Lag (2019:736)*.
+
+### Verksamhetsutövare
+
+#### 8 §
+
+Med verksamhetsutövare avses en fysisk eller juridisk person som utför verksamhet som omfattas av lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism.
+
+## 2 kap. Uppgifter om verkliga huvudmän
+
+### Dokumentation om verkligt huvudmannaskap
+
+#### 1 §
+
+En juridisk person ska ha tillförlitliga uppgifter om vem som är dess verkliga huvudman och om arten och omfattningen av hans eller hennes intresse i den juridiska personen. Om en verklig huvudman saknas eller om det inte finns tillförlitliga uppgifter om vem som är verklig huvudman, ska den juridiska personen i stället ha uppgift om detta.
+
+Informationen enligt första stycket ska hållas aktuell och kontrolleras i den utsträckning som omständigheterna kräver.
+
+Den juridiska personen ska dokumentera uppgifterna och den utredning som görs för att bedöma vem som är verklig huvudman enligt första stycket, om det inte är uppenbart obehövligt. Om uppgift om den verkliga huvudmannen ändras, ska dokumentation avseende äldre förhållanden bevaras under minst fem år därefter.
+
+### Skyldighet att tillhandahålla uppgifter
+
+#### 2 §
+
+En juridisk person ska på begäran av en myndighet utan dröjsmål lämna ut den dokumentation som anges i 1 §.
+
+En juridisk person ska på begäran av en verksamhetsutövare tillhandahålla den dokumentation som anges i 1 §, om verksamhetsutövaren genomför åtgärder för kundkännedom med anledning av en transaktion eller en affärsförbindelse med den juridiska personen.
+
+En verklig huvudman i en juridisk person ska på begäran av den juridiska personen tillhandahålla de uppgifter som anges i 1 § första stycket första meningen. *Lag (2019:736)*.
+
+### Skyldighet att anmäla uppgifter för registrering
+
+#### 3 §
+
+En juridisk person ska anmäla uppgifterna enligt 1 § första stycket till Bolagsverket för registrering i registret över verkliga huvudmän.
+
+En anmälan ska göras
+
+1. samtidigt som den juridiska personen anmäler sig för registrering, om Bolagsverket är behörig registreringsmyndighet, eller
+
+2. senast fyra veckor från det att den juridiska personen har registrerats av en annan behörig registreringsmyndighet.
+
+När ett förhållande som har anmälts ändras, ska den juridiska personen anmäla förändringen för registrering. Anmälan ska göras utan dröjsmål efter det att den juridiska personen fått kännedom om det ändrade förhållandet. *Lag (2022:1539)*.
+
+#### 4 §
+
+För en ideell förening eller annan juridisk person som inte omfattas av ett krav på registrering av grundläggande information om den juridiska personen gäller 1-3 §§ först när en uppgift om verklig huvudman lämnas till en verksamhetsutövare med anledning av åtgärder för kundkännedom.
+
+En anmälan för registrering i registret över verkliga huvudmän ska göras inom fyra veckor från det att uppgiften lämnades till verksamhetsutövaren. En uppgift om att en verklig huvudman saknas behöver dock inte anmälas för registrering.
+
+#### 5 §
+
+Om en juridisk person som avses i 4 § första stycket tar emot eller samlar in pengar eller annan egendom i syfte att främja ett varaktigt ändamål som innebär att pengar eller egendom överförs till en annan fysisk eller juridisk person, ska uppgifter om den juridiska personens styrelseledamöter eller motsvarande befattningshavare och firmatecknare anmälas, om sådana uppgifter inte tidigare anmälts till ett offentligt register. Anmälan ska ske inom den tid som anges i 4 § andra stycket.
+
+#### 6 §
+
+En juridisk person som avses i 4 eller 5 § och som har ett politiskt, religiöst, kulturellt eller annat sådant ändamål eller är ett trossamfund som inte registrerats i handelsregistret enligt handelsregisterlagen (1974:157) är inte skyldig att i anmälan ange uppgifter om fysiska personer som är medlemmar i den juridiska personen, om en sådan anmälan medför att medlemmens åskådning i något av dessa avseenden blir känd.
+
+Undantaget i första stycket gäller också om en anmälan annars avslöjar personuppgifter som avses i artikel 9.1 i Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning). *Lag (2018:333)*.
+
+### Truster
+
+#### 7 §
+
+För en fysisk eller juridisk person som driver verksamhet som avser förvaltning av en trust gäller det som sägs om en juridisk person i 1-3 §§ i fråga om trusten.
+
+När 3 § andra stycket tillämpas ska fristen räknas från det att verksamheten startar. *Lag (2019:736)*.
+
+### Undantag
+
+#### 8 §
+
+Bestämmelsen i 3 § gäller inte om uppgifter om verklig huvudman i en juridisk person eller trust har anmälts i ett centralt register över verkliga huvudmän i en annan stat inom EES. *Lag (2019:736)*.
+
+## 3 kap. Register över verkliga huvudmän
+
+### Registreringsmyndighet
+
+#### 1 §
+
+Bolagsverket ska föra ett register över verkliga huvudmän och andra uppgifter som anmäls enligt denna lag.
+
+### Brister i anmälan
+
+#### 2 §
+
+Om den som har gjort en anmälan om registrering inte följer de krav som gäller för en anmälan, får Bolagsverket förelägga den juridiska personen att yttra sig i frågan eller rätta till bristen inom en viss tid.
+
+Om den som har gjort anmälan inte följer ett föreläggande enligt första stycket, får registrering vägras.
+
+### Utebliven anmälan
+
+#### 3 §
+
+Om en juridisk person inte har anmält uppgifter för registrering i registret över verkliga huvudmän inom den tid som anges i 2 kap. 3 eller 4 §, eller om registrering vägrats enligt 2 §, får Bolagsverket förelägga den juridiska personen att lämna in en anmälan inom en viss tid.
+
+### Felaktiga uppgifter
+
+#### 4 §
+
+Om det kan antas att en uppgift i en anmälan om registrering eller i registret över verkliga huvudmän är felaktig, får Bolagsverket förelägga den juridiska personen att rätta uppgiften eller visa att den inte är felaktig.
+
+Om föreläggandet inte följs, får Bolagsverket besluta att uppgiften inte ska registreras eller att uppgiften ska tas bort från registret och förelägga den juridiska personen att lämna in en ny anmälan. *Lag (2019:736)*.
+
+#### 5 §
+
+De verksamhetsutövare och myndigheter som använder registret ska anmäla till Bolagsverket om det finns anledning att misstänka att uppgifterna i registret är felaktiga. Brottsbekämpande myndigheter som använder registret ska göra en sådan anmälan när det kan ske med hänsyn till utredning av brott.
+
+En anmälan enligt första stycket ska också göras om en registreringsskyldig juridisk person inte har gjort en anmälan inom den tid som anges i 2 kap. 3 eller 4 §.
+
+### Vite
+
+#### 6 §
+
+Om en juridisk person inte följer ett föreläggande enligt 2, 3 eller 4 §, får Bolagsverket vid vite förelägga den juridiska personen eller den verkställande direktören, en styrelseledamot eller en annan motsvarande befattningshavare att inom en viss tid göra en anmälan eller ge in uppgifter som den juridiska personen är skyldig att lämna enligt denna lag.
+
+#### 7 §
+
+Om en juridisk person inte lämnar ut dokumentation till en myndighet enligt 2 kap. 2 § första stycket, ska Bolagsverket på begäran av myndigheten förelägga den juridiska personen, den verkställande direktören, en styrelseledamot eller en motsvarande befattningshavare att vid vite lämna ut dokumentationen.
+
+Om en verklig huvudman inte tillhandahåller uppgifter enligt 2 kap. 2 § tredje stycket, får Bolagsverket på begäran av den juridiska personen förelägga den verkliga huvudmannen att vid vite tillhandahålla uppgifterna. *Lag (2019:736)*.
+
+#### 8 §
+
+Frågor om utdömande av vite enligt 6 och 7 §§ prövas av Bolagsverket.
+
+I anslutning till att vite döms ut får Bolagsverket även förelägga nytt vite.
+
+### Truster
+
+#### 9 §
+
+För en fysisk person som driver verksamhet som avser förvaltning av en trust gäller det som sägs om en juridisk person i 2-4 §§, 6 § och 7 § första stycket. *Lag (2019:736)*.
+
+### Personuppgiftsbehandling och formerna för utlämnande av uppgifter
+
+#### 9 a §
+
+I 9 b-9 m §§ finns bestämmelser om behandling av personuppgifter och formerna för utlämnande av uppgifter. Bestämmelser om utlämnande av uppgifter och handlingar finns i tryckfrihetsförordningen och offentlighets- och sekretesslagen (2009:400). *Lag (2026:316)*.
+
+### Personuppgiftsansvar
+
+#### 9 b §
+
+Bolagsverket är personuppgiftsansvarigt för registret över verkliga huvudmän. *Lag (2026:316)*.
+
+### Tillgång till uppgifter
+
+#### 9 c §
+
+Bolagsverket ska ge omedelbar och obegränsad tillgång till uppgifterna i registret för de myndigheter, utländska organ och svenska och utländska självreglerande organ och i de syften som avses i artikel 11.2 i Europaparlamentets och rådets direktiv (EU) 2024/1640 av den 31 maj 2024 om de mekanismer som medlemsstaterna ska inrätta för att förhindra att det finansiella systemet används för penningtvätt eller finansiering av terrorism, om ändring av direktiv (EU) 2019/1937 och om ändring och upphävande av direktiv (EU) 2015/849, i den ursprungliga lydelsen. *Lag (2026:316)*.
+
+Bolagsverket får lämna ut uppgifter elektroniskt.
+
+#### 9 d §
+
+Bolagsverket får lämna ut uppgifter ur registret elektroniskt till verksamhetsutövare som vidtar åtgärder för kundkännedom.
+
+Myndigheten får även lämna ut uppgifter elektroniskt till utländska motsvarigheter till sådana verksamhetsutövare som avses i
+
+1. artikel 2 i Europaparlamentets och rådets direktiv (EU) 2015/849 av den 20 maj 2015 om åtgärder för att förhindra att det finansiella systemet används för penningtvätt eller finansiering av terrorism, om ändring av Europaparlamentets och rådets förordning (EU) nr 648/2012 och om upphävande av Europaparlamentets och rådets direktiv 2005/60/EG och kommissionens direktiv 2006/70/EG, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/843, och
+
+2. artikel 11.3 i Europaparlamentets och rådets direktiv (EU) 2024/1640, i den ursprungliga lydelsen. *Lag (2026:316)*.
+
+#### 9 e §
+
+Bolagsverket ska bevilja att uppgifter ur registret lämnas ut elektroniskt på annat sätt än genom direktåtkomst till den som har ett berättigat intresse av uppgifterna och som avses i artikel 12.2 första stycket i Europaparlamentets och rådets direktiv (EU) 2024/1640, i den ursprungliga lydelsen, och till andra som har ett sådant intresse enligt andra stycket i samma artikel och som antingen anges i föreskrift som meddelats i anslutning till denna lag eller som Bolagsverket efter en bedömning i det enskilda fallet anser har ett sådant intresse. Det gäller uppgifter om
+
+1. en verklig huvudmans namn, födelsemånad, födelseår, bosättningsland och medborgarskap, och
+
+2. arten och omfattningen av en verklig huvudmans intresse i en juridisk person eller en trust.
+
+Bolagsverket ska även bevilja elektroniskt utlämnande av uppgifter enligt första stycket för högst fem år tillbaka i tiden om en juridisk person eller trust och beskrivningar av kontroll- och ägarstrukturer av en sådan, om den som begär uppgifterna har ett berättigat intresse enligt artikel 12.2 första stycket a, b eller e i Europaparlamentets och rådets direktiv (EU) 2024/1640, i den ursprungliga lydelsen.
+
+Ett berättigat intresse ska fastställas med beaktande av sökandens
+
+1. yrke eller befattning, och
+
+2. koppling till den juridiska person eller trust vars uppgifter efterfrågas, om sökanden inte är en sådan person som avses i artikel 12.2 första stycket a och b i Europaparlamentets och rådets direktiv (EU) 2024/1640, i den ursprungliga lydelsen. *Lag (2026:316)*.
+
+### Intyg om berättigat intresse
+
+#### 9 f §
+
+Bolagsverket ska till den som har ett berättigat intresse enligt 9 e § utfärda ett intyg om det berättigade intresset. *Lag (2026:316)*.
+
+Intyget gäller i tre år från utfärdandet.
+
+#### 9 g §
+
+Om den som har ett intyg om berättigat intresse begär att få ta del av andra uppgifter elektroniskt än de uppgifter som efterfrågades när intyget utfärdades, ska Bolagsverket vid prövningen inte ompröva sin tidigare bedömning av personens yrke eller befattning. *Lag (2026:316)*.
+
+#### 9 h §
+
+Ett intyg om berättigat intresse som har utfärdats i ett annat land inom EES ska erkännas, om intresset är sådant som anses berättigat även enligt svensk rätt. *Lag (2026:316)*.
+
+### Avslagsbeslut
+
+#### 9 i §
+
+Bolagsverket ska avslå en begäran om att uppgifter ur registret ska lämnas ut elektroniskt, oavsett om den görs med eller utan ett intyg om berättigat intresse, om
+
+1. mottagaren befinner sig i ett land utanför EES och elektroniskt utlämnande skulle strida mot kapitel V i Europaparlamentets och rådets förordning (EU) 2016/679, eller
+
+2. myndigheten har skälig anledning att anta att uppgifterna inte kommer att användas för det som det berättigade intresset gäller. *Lag (2026:316)*.
+
+### Kontroll av berättigat intresse
+
+#### 9 j §
+
+Bolagsverket ska regelbundet kontrollera att den som har fått ett intyg om berättigat intresse fortfarande innehar yrket eller befattningen som låg till grund för att intyget utfärdades.
+
+En första kontroll ska göras tidigast ett år efter det att intyget utfärdades. Om myndigheten har skälig anledning att anta att det berättigade intresset inte längre finns, ska den första kontrollen göras tidigare.
+
+Bolagsverket får förelägga den som har fått intyget att lämna de uppgifter som behövs för myndighetens kontroll. *Lag (2026:316)*.
+
+### Ändrade förhållanden
+
+#### 9 k §
+
+Den som har fått ett intyg om berättigat intresse ska informera Bolagsverket så snart de förhållanden som ligger till grund för intyget har ändrats. *Lag (2026:316)*.
+
+#### 9 l §
+
+Bolagsverket ska återkalla ett intyg om berättigat intresse, om det kan antas att den som har fått intyget inte längre uppfyller kraven för det.
+
+Ett intyg får även återkallas om en registermyndighet i ett annat land inom EES har återkallat ett intyg om berättigat intresse för samma person. *Lag (2026:316)*.
+
+### Registerutdrag
+
+#### 9 m §
+
+Vid en begäran om uppgifter enligt artikel 15 i Europaparlamentets och rådets förordning (EU) 2016/679 ska Bolagsverket inte lämna uppgift om identiteterna på de personer som avses i artikel 12.4 andra stycket a och b i Europaparlamentets och rådets direktiv (EU) 2024/1640, i den ursprungliga lydelsen, och som med stöd av 9 e § fått del av uppgifter ur registret elektroniskt. Myndigheten ska vid en sådan begäran i stället lämna uppgift om personernas yrken eller befattningar.
+
+Bolagsverket ska inte heller lämna uppgift om identiteterna på de personer som avses i artikel 12.4 tredje stycket i Europaparlamentets och rådets direktiv (EU) 2024/1640, i den ursprungliga lydelsen, och som med stöd av 9 e § fått del av uppgifter ur registret elektroniskt. Det gäller om ett sådant uppgiftslämnande skulle äventyra den utländska myndighetens analyser eller utredningar och den utländska myndigheten begärt att identiteterna inte ska röjas i samband med att begäran om att få del av uppgifter gjordes.
+
+Begränsningen i andra stycket får gälla under högst fem år från det att uppgifterna lämnades ut. Bolagsverket får därefter förlänga tidsperioden med ett år i taget, om den utländska myndigheten begär det och det finns skäl för det.
+
+*Lag (2026:316)*.
+
+### Ytterligare föreskrifter
+
+#### 9 n §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare föreskrifter om
+
+1. innehållet i och övriga egenskaper hos registret över verkliga huvudmän, och
+
+2. personuppgiftsbehandling och formerna för utlämnande av uppgifter. *Lag (2026:316)*.
+
+### Överklagande
+
+#### 10 §
+
+Bolagsverkets beslut enligt denna lag får överklagas till allmän förvaltningsdomstol.
+
+Bestämmelser om överklagande av beslut enligt 9 m § första och andra styckena finns i 7 kap. 2 § lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2026:316)*.
+
+### Avgifter
+
+#### 11 §
+
+Bolagsverket får ta ut avgifter för hantering av ärenden enligt denna lag.
+
+### Bemyndigande
+
+#### 12 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1. innehållet i och övriga krav på en anmälan enligt 2 kap. 3-5 §§, och
+
+2. sådana avgifter som avses i 11 §. *Lag (2026:316)*.
+
+## Övergångsbestämmelser
+
+**2017:631**
+
+1. Denna lag träder i kraft den 1 augusti 2017.
+
+2. Har registreringsskyldighet uppstått i och med ikraftträdandet av lagen ska en anmälan enligt 2 kap. göras senast sex månader efter lagens ikraftträdande.

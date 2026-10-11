@@ -1,0 +1,347 @@
+---
+title: "Strafftidslag (2018:1251)"
+identifier: "SFS 2018:1251"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-06-20
+amended_through: "SFS 2026:1678"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1251.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1251"
+retrieved: 2026-10-11
+---
+# Strafftidslag (2018:1251)
+
+### Inledande bestämmelse
+
+#### 1 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Denna lag innehåller bestämmelser om när fängelsestraff får verkställas och hur strafftid ska beräknas.
+
+Det som föreskrivs om fängelsestraff och strafftid i denna lag ska gälla även för säkerhetsförvaring och för tid för verkställighet av säkerhetsförvaring, om inte något annat är föreskrivet. *Lag (2026:261)*.
+
+#### 1 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Denna lag innehåller bestämmelser om när fängelsestraff får verkställas och hur strafftid ska beräknas.
+
+Det som föreskrivs om fängelsestraff och strafftid i denna lag ska gälla även för säkerhetsförvaring och för tid för verkställighet av säkerhetsförvaring, om inte något annat är föreskrivet.
+
+Det som föreskrivs om fängelsestraff i denna lag gäller endast ovillkorliga fängelsestraff.
+
+I 1 kap. 3 § lagen (2026:1653) om verkställighet av villkorligt fängelse finns särskilda bestämmelser om nöjdförklaring vid dom på delvis villkorligt fängelse.
+
+*Lag (2026:1678)*.
+
+### Inledande av verkställighet
+
+### Förutsättningar för verkställighet
+
+#### 2 §
+
+Ett fängelsestraff får verkställas när
+
+1. en dom eller ett beslut i den del som avser fängelsestraff fått laga kraft mot den dömde, eller
+
+2. ett beslut om verkställighet i Sverige av ett motsvarande utländskt straff fått laga kraft.
+
+Om ett beslut enligt första stycket 2 innebär att en ny påföljd ska bestämmas genom svensk dom får verkställighet ske först när den domen fått laga kraft.
+
+#### 3 §
+
+Ett fängelsestraff får, om det följer av särskilda bestämmelser, verkställas utan att en dom eller ett beslut som avses i 2 § fått laga kraft.
+
+#### 4 §
+
+Kriminalvården ska kontrollera om ett fängelsestraff är verkställbart.
+
+### Rätten att påbörja verkställighet
+
+#### 5 §
+
+En dömd har rätt att påbörja verkställigheten av ett fängelsestraff om han eller hon begär det och straffet är verkställbart.
+
+### Dömda som inte är frihetsberövade
+
+#### 6 §
+
+Om en dömd inte är frihetsberövad när fängelsestraffet är verkställbart ska han eller hon utan dröjsmål föreläggas att senast en viss dag inställa sig vid den kriminalvårdsanstalt där fängelsestraffet ska verkställas.
+
+Om den dömde inte följer eller inte kan nås av ett föreläggande enligt första stycket eller om det finns risk för det, ska Polismyndigheten på begäran av Kriminalvården förpassa honom eller henne till ett häkte eller en kriminalvårdsanstalt.
+
+Om det bedöms kunna ske utan risk för att den dömde undandrar sig verkställighet, får Polismyndigheten förelägga honom eller henne att inställa sig vid en kriminalvårdsanstalt i stället för att förpassa honom eller henne dit.
+
+#### 7 §
+
+Kriminalvården får skjuta upp verkställigheten av ett fängelsestraff
+
+1. för domar eller beslut på fängelse i högst tre månader om syftet är att åstadkomma en jämnare beläggning i kriminalvårdsanstalterna,
+
+2. i avvaktan på ett ställningstagande om överförande av verkställighet av en svensk dom eller ett svenskt beslut på fängelse till en annan stat, eller
+
+3. i avvaktan på regeringens beslut i ett ärende om nåd.
+
+I de fall som avses i första stycket 1 får verkställigheten skjutas upp under högst sex månader från den dag fängelsestraffet är verkställbart.
+
+Om den dömde inte har fyllt arton år får verkställigheten inte skjutas upp i de fall som avses i första stycket 1.
+
+*Lag (2026:534)*.
+
+### Dömda som är frihetsberövade
+
+#### 8 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Om en dömd är häktad, omhändertagen enligt 26 kap. 22 § eller 28 kap. 11 § brottsbalken eller intagen i kriminalvårdsanstalt för verkställighet i ett annat mål när fängelsestraffet är verkställbart, ska verkställigheten påbörjas omedelbart där han eller hon förvaras.
+
+Om den dömde inte förvaras i kriminalvårdsanstalt när verkställigheten enligt första stycket påbörjas och inte heller samtidigt är häktad eller omhändertagen enligt 26 kap. 22 § eller 28 kap. 11 § brottsbalken i ett annat mål, ska han eller hon överföras till kriminalvårdsanstalt för fortsatt verkställighet. *Lag (2022:933)*.
+
+#### 8 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Om en dömd är häktad, omhändertagen enligt 26 kap. 22 § eller 27 kap. 9 § brottsbalken eller intagen i kriminalvårdsanstalt för verkställighet i ett annat mål när fängelsestraffet är verkställbart, ska verkställigheten påbörjas omedelbart där han eller hon förvaras.
+
+Om den dömde inte förvaras i kriminalvårdsanstalt när verkställigheten enligt första stycket påbörjas och inte heller samtidigt är häktad eller omhändertagen enligt 26 kap. 22 § eller 27 kap. 9 § brottsbalken i ett annat mål, ska han eller hon överföras till kriminalvårdsanstalt för fortsatt verkställighet. *Lag (2026:1678)*.
+
+### Intagning i häkte
+
+#### 9 §
+
+En dömd som ska överföras eller förpassas till kriminalvårdsanstalt för verkställighet av fängelsestraff får i anslutning till det tas in i häkte
+
+1. i avvaktan på anstaltsplacering, eller
+
+2. om det behövs med hänsyn till transportförhållandena.
+
+Den dömde får i de fall som avses i första stycket tillfälligt tas in i polisarrest. Är den dömde under arton år får han eller hon tas in i polisarrest endast om det är absolut nödvändigt.
+
+#### 10 §
+
+Tiden i häkte med stöd av 9 § första stycket får inte vara längre än nödvändigt och inte längre än sju dagar, om det inte finns särskilda skäl för en längre tid. Om den dömde inte har fyllt arton år krävs att det finns synnerliga skäl för en längre tid.
+
+Även om det finns sådana skäl som avses i första stycket får tiden inte vara längre än trettio dagar.
+
+Vid tillämpning av första stycket ska tid i polisarrest räknas som tid i häkte. *Lag (2026:534)*.
+
+### Nöjdförklaring
+
+#### 11 §
+
+En dömd får förklara att han eller hon avstår från att överklaga eller fullfölja ett överklagande av en dom eller ett beslut i den del som avser fängelsestraff (nöjdförklaring).
+
+En nöjdförklaring får lämnas inför Kriminalvården. Om en dömd inte är frihetsberövad får en nöjdförklaring också lämnas inför Polismyndigheten.
+
+### Formkrav
+
+#### 12 §
+
+En nöjdförklaring får inte tas emot utan att både den som tar emot förklaringen och den dömde har tillgång till domen, beslutet eller rättens bevis om utgången i målet som rör den dömde (domsbevis). Om den dömde är frihetsberövad, krävs även att han eller hon har haft betänketid till den andra dagen efter den då domen avkunnades för honom eller henne vid rätten eller på annat sätt delgavs honom eller henne i sin helhet. Den dömde ska om möjligt ges tillfälle att under betänketiden samråda med sin försvarare.
+
+Innan en nöjdförklaring lämnas ska den som tar emot förklaringen på lämpligt sätt ha klargjort innebörden och verkan av nöjdförklaringen för den dömde.
+
+När en nöjdförklaring lämnas ska ett vittne närvara. En nöjdförklaring ska dokumenteras.
+
+### Effekterna av en nöjdförklaring
+
+#### 13 §
+
+En nöjdförklaring får inte tas tillbaka.
+
+En nöjdförklaring innebär att domen eller beslutet i den del som avser fängelsestraff får laga kraft mot den dömde.
+
+### Uppskov
+
+### Förutsättningar för uppskov
+
+#### 14 §
+
+På ansökan av en dömd och i den utsträckning som intresset av samhällsskydd medger det, får uppskov med verkställigheten av ett fängelsestraff beviljas under högst sex månader från den dag fängelsestraffet är verkställbart, om det finns särskilda skäl med hänsyn till den dömdes hälsa, familje-, arbets- eller utbildningsförhållanden eller andra liknande omständigheter. Om det finns synnerliga skäl, får uppskov beviljas under ytterligare högst sex månader. En dömd som är gravid eller ammar barn får beviljas uppskov under så lång tid som anses skälig.
+
+En ansökan om uppskov får inte bifallas om den dömde är berövad friheten som häktad eller intagen i kriminalvårdsanstalt för verkställighet i ett annat mål.
+
+### Återkallelse
+
+#### 15 §
+
+Ett beslut om uppskov får återkallas om
+
+1. det väsentligen brister i de förutsättningar som legat till grund för beslutet, eller
+
+2. den dömde lagförs för nytt brott.
+
+### Hinder mot verkställighet innan en första ansökan prövats
+
+#### 16 §
+
+Om en dömd har ansökt om uppskov senast den dag han eller hon enligt föreläggande som avses i 6 § första stycket skulle ha inställt sig i en kriminalvårdsanstalt för verkställighet av straffet och har uppskov inte tidigare sökts i ärendet, får den dömde inte tas in i kriminalvårdsanstalt för att påbörja verkställigheten innan Kriminalvården prövat ansökan.
+
+### Beräkning av strafftid
+
+### Tidpunkten för strafftidens början
+
+#### 17 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Om inte annat framgår av särskilda bestämmelser ska strafftiden beräknas från och med den dag fängelsestraffet är verkställbart och
+
+1. den dömde av den anledningen berövas friheten, eller
+
+2. den dömde berövas friheten eller redan är berövad friheten som häktad eller omhändertagen enligt 26 kap. 22 § eller 28 kap. 11 § brottsbalken.
+
+Strafftiden ska beräknas till och med den dag den dömde blir frigiven.
+
+Om ett fängelsestraff redan har avtjänats före den dag som avses i första stycket, ska tidpunkten för strafftidens början i stället anses vara den dag domen eller beslutet i den del som avser fängelsestraff fått laga kraft. *Lag (2022:933)*.
+
+#### 17 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Om inte annat framgår av särskilda bestämmelser ska strafftiden beräknas från och med den dag fängelsestraffet är verkställbart och
+
+1. den dömde av den anledningen berövas friheten, eller
+
+2. den dömde berövas friheten eller redan är berövad friheten som häktad eller omhändertagen enligt 26 kap. 22 § eller 27 kap. 9 § brottsbalken.
+
+Strafftiden ska beräknas till och med den dag den dömde blir frigiven.
+
+Om ett fängelsestraff redan har avtjänats före den dag som avses i första stycket, ska tidpunkten för strafftidens början i stället anses vara den dag domen eller beslutet i den del som avser fängelsestraff fått laga kraft. *Lag (2026:1678)*.
+
+### Beräkningsgrunder
+
+#### 18 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* När ett fängelsestraff på viss tid verkställs ska strafftiden beräknas i dagar. Ett fängelsestraff i månader eller år ska omräknas till dagar. Med en månad ska avses trettio dagar och med ett år trehundrasextiofem dagar. Vid säkerhetsförvaring gäller motsvarande i fråga om beräkning av minimitiden och ramtiden. *Lag (2026:261)*.
+
+#### 18 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* När ett fängelsestraff på viss tid verkställs ska strafftiden beräknas i dagar. Ett fängelsestraff i månader eller år ska omräknas till dagar. Med en månad ska avses trettio dagar och med ett år trehundrasextiofem dagar. Vid säkerhetsförvaring gäller motsvarande i fråga om beräkning av minimitiden och ramtiden.
+
+Om rätten har upphävt ett beslut om att ett fängelsestraff ska vara villkorligt och fastställt en tid som ska avräknas med anledning av vad den dömde har fullgjort av en tilläggssanktion, ska strafftiden enligt första stycket beräknas utifrån den tid som återstår efter sådan avräkning.
+
+*Lag (2026:1678)*.
+
+#### 19 §
+
+Om flera fängelsestraff på viss tid verkställs samtidigt, ska den sammanlagda fängelsetiden i dagar läggas till grund för beräkningen av strafftiden.
+
+#### 20 §
+
+I lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande finns bestämmelser om tillgodoräknande av tid för frihetsberövande som verkställighet av påföljd.
+
+I 26 kap. brottsbalken finns bestämmelser om villkorlig frigivning och prövotid efter villkorlig frigivning.
+
+### Strafftidsbeslut
+
+#### 21 §
+
+En dömd ska meddelas ett strafftidsbeslut som fastställer
+
+1. dagen för strafftidens början,
+
+2. fängelsestraffets längd i dagar,
+
+3. antalet dagar som ska tillgodoräknas av tidigare frihetsberövande,
+
+4. dagen för strafftidens slut,
+
+5. tidigaste dag för villkorlig frigivning,
+
+6. återstående strafftid i dagar, och
+
+7. dagen för prövotidens utgång.
+
+Om ett strafftidsbeslut avser ett fängelsestraff på livstid, ska beslutet fastställa
+
+1. dagen för strafftidens början, och
+
+2. antalet dagar som ska tillgodoräknas av tidigare frihetsberövande om straffet tidsbestäms.
+
+Om ett strafftidsbeslut avser säkerhetsförvaring, ska beslutet fastställa
+
+1. dagen för verkställighetens början,
+
+2. minimitidens längd i dagar,
+
+3. antalet dagar som ska tillgodoräknas av tidigare frihetsberövande, och
+
+4. dagen för ramtidens slut.
+
+Beslutet ska meddelas omedelbart. *Lag (2026:261)*.
+
+### Ändring av strafftidsbeslut
+
+#### 22 §
+
+Ett strafftidsbeslut ska ändras när omständigheterna ger anledning till det. Beslutet ska meddelas utan dröjsmål.
+
+### Övriga bestämmelser
+
+### Bemyndigande
+
+#### 23 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om inledande av verkställighet, nöjdförklaring, uppskov och beräkning av strafftid.
+
+### Beslutsmyndighet
+
+#### 24 §
+
+Beslut enligt denna lag fattas av Kriminalvården.
+
+Beslut enligt denna lag gäller omedelbart om inte något annat beslutas.
+
+### Överklagande
+
+#### 25 §
+
+Kriminalvårdens beslut får överklagas till allmän förvaltningsdomstol om beslutet gäller
+
+1. inställelse vid kriminalvårdsanstalt enligt 6 § första stycket,
+
+2. uppskov enligt 14 § eller återkallelse av ett beviljat uppskov enligt 15 §, eller
+
+3. strafftidsbeslut enligt 21 § eller ändring av strafftidsbeslut enligt 22 §.
+
+Andra beslut enligt denna lag får inte överklagas.
+
+Ett beslut överklagas till den förvaltningsrätt inom vars domkrets den kriminalvårdsanstalt, det häkte eller det frivårdskontor är beläget där den klagande var inskriven när det första beslutet i ärendet fattades.
+
+Om den klagande avtjänade ett svenskt fängelsestraff i en kriminalvårdsanstalt utomlands enligt lagen (2026:983) om tillfällig verkställighet av svenska fängelsestraff utomlands när det första beslutet i ärendet fattades, överklagas beslutet till den förvaltningsrätt inom vars domkrets den anstalt eller det häkte är beläget där den klagande senast var inskriven i Sverige.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2026:992)*.
+
+#### 26 §
+
+Ett beslut får inte överklagas enligt 25 § första stycket innan beslutet har omprövats av Kriminalvården. En sådan omprövning får begäras av den som beslutet angår om det har gått honom eller henne emot. Ett överklagande av ett beslut som inte har omprövats ska anses som en begäran om omprövning.
+
+Vid omprövning enligt första stycket får beslutet inte ändras till den klagandes nackdel.
+
+#### 27 §
+
+En begäran om omprövning ska vara skriftlig och ha kommit in till Kriminalvården inom tre veckor från den dag då den klagande fick del av beslutet. I begäran om omprövning ska den klagande ange vilket beslut som avses och vilken ändring i beslutet som han eller hon begär.
+
+Kriminalvården prövar om skrivelsen med begäran om omprövning har kommit in i rätt tid. Om skrivelsen har kommit in för sent ska den avvisas, om inte förseningen beror på att myndigheten lämnat den klagande felaktig underrättelse om hur man begär omprövning.
+
+## Övergångsbestämmelser
+
+**2018:1251**
+
+1. Denna lag träder i kraft den 1 april 2019.
+
+2. Genom lagen upphävs lagen (1974:202) om beräkning av strafftid m.m.
+
+3. Den upphävda lagen gäller dock fortfarande
+
+a) i fråga om sådan tillfällig förvaring i häkte eller polisarrest som pågår vid ikraftträdandet,
+
+b) för prövning av en nöjdförklaring som har lämnats före ikraftträdandet,
+
+c) för omprövning och överklagande av beslut i ärenden eller mål om uppskov som har meddelats före ikraftträdandet, och
+
+d) vid beräkning av strafftid för den som före ikraftträdandet meddelats ett strafftidsbeslut. Dock ska vid tillämpningen av bestämmelsen i 22 § i den upphävda lagen med 19 § andra stycket och 19 a § samma lag samt 33 kap. 7 § brottsbalken även avses lagen (2018:1250) om tillgodoräknande av tid för frihetsberövande. Avser strafftidsbeslutet ett fängelsestraff på livstid ska beslutet dock anses ha meddelats enligt den nya lagen.
+
+4. Ett beslut om återkallelse enligt 15 § får endast grundas på förhållanden som har inträffat efter ikraftträdandet.
+
+**2026:1678**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer.
+
+2. Äldre bestämmelser gäller i fråga om den som berövas friheten som omhändertagen i mål om undanröjande av skyddstillsyn.

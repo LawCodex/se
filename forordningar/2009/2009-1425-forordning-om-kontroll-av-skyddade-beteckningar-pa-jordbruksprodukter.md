@@ -1,0 +1,143 @@
+---
+title: "Förordning (2009:1425) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel"
+identifier: "SFS 2009:1425"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-12-03
+amended_through: "SFS 2026:200"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-1425.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:1425"
+retrieved: 2026-10-11
+---
+# Förordning (2009:1425) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel
+
+## Inledande bestämmelse
+
+### 1 §
+
+Denna förordning innehåller kompletterande bestämmelser till lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel.
+
+Förordningen kompletterar även Europaparlamentets och rådets förordning (EU) 2017/625 av den 15 mars 2017 om offentlig kontroll och annan offentlig verksamhet för att säkerställa tillämpningen av livsmedels- och foderlagstiftningen och av bestämmelser om djurs hälsa och djurskydd, växtskydd och växtskyddsmedel samt om ändring av Europaparlamentets och rådets förordningar (EG) nr 999/2001, (EG) nr 396/2005, (EG) nr 1069/2009, (EG) nr 1107/2009, (EU) nr 1151/2012, (EU) nr 652/2014, (EU) 2016/429 och (EU) 2016/2031, rådets förordningar (EG) nr 1/2005 och (EG) nr 1099/2009 och rådets direktiv 98/58/EG, 1999/74/EG, 2007/43/EG, 2008/119/EG och 2008/120/EG och om upphävande av Europaparlamentets och rådets förordningar (EG) nr 854/2004 och (EG) nr 882/2004, rådets direktiv 89/608/EEG, 89/662/EEG, 90/425/EEG, 91/496/EEG, 96/23/EG, 96/93/EG och 97/78/EG samt rådets beslut 92/438/EEG (förordningen om offentlig kontroll), i de delar EU- förordningen innehåller bestämmelser som rör skydd för beteckningar på jordbruksprodukter och livsmedel.
+
+*Förordning (2019:710)*.
+
+## Behörig myndighet
+
+### 2 §
+
+Livsmedelsverket ska ta emot och handlägga ansökningar om registrering av geografiska beteckningar och garanterade traditionella specialiteter på jordbruksprodukter och livsmedel samt ansökningar om ändring av produktspecifikation för och avregistrering av sådana produkter.
+
+Livsmedelsverket ska, vad gäller produkter som inte är avsedda att användas som livsmedel, samråda med Statens jordbruksverk i ärenden som rör sådana jordbruksprodukter som avses i bilagorna I och II till Europaparlamentets och rådets förordning (EU) 2024/1143 av den 11 april 2024 om geografiska beteckningar för vin, spritdrycker och jordbruksprodukter samt garanterade traditionella specialiteter och frivilliga kvalitetsbegrepp för jordbruksprodukter, om ändring av förordningarna (EU) nr 1308/2013, (EU) 2019/787 och (EU) 2019/1753 samt om upphävande av förordning (EU) nr 1151/2012.
+
+*Förordning (2026:200)*.
+
+### 2 a §
+
+Livsmedelsverket ska utföra de uppgifter som en medlemsstat eller en myndighet i en medlemsstat har enligt
+
+1. artiklarna 2.2, 3.1 b, 6, 7.5 och 9.1 i Europaparlamentets och rådets förordning (EU) 2019/1753 av den 23 oktober 2019 om unionens åtgärder efter anslutningen till Genèveakten inom Lissabonöverenskommelsen om ursprungsbeteckningar och geografiska beteckningar samt betala den avgift som medlemsstaten är skyldig att betala enligt artikel 13 i samma förordning, när det gäller geografiska beteckningar på jordbruksprodukter och livsmedel,
+
+2. artikel 116a.3 andra stycket i Europaparlamentets och rådets förordning (EU) nr 1308/2013 av den 17 december 2013 om upprättande av en samlad marknadsordning för jordbruksprodukter och om upphävande av rådets förordningar (EEG) nr 922/72, (EEG) nr 234/79, (EG) nr 1037/2001 och (EG) nr 1234/2007, och
+
+3. artiklarna 17, 18.1, 20.6, 25.1, 39.1, 40.1, 61, 67.1, 72.4 andra stycket och 72.8 i Europaparlamentets och rådets förordning (EU) 2024/1143. *Förordning (2026:200)*.
+
+### 2 b §
+
+Livsmedelsverket får meddela föreskrifter om
+
+1. sådana kravspecifikationer som avses i artikel 20.1 i Europaparlamentets och rådets förordning (EG) nr 110/2008 av den 15 januari 2008 om definition, beskrivning, presentation och märkning av, samt skydd av geografiska beteckningar för, spritdrycker, samt om upphävande av rådets förordning (EEG) nr 1576/89,
+
+2. det nationella invändningsförfarandet enligt artiklarna 10 och 56 i Europaparlamentets och rådets förordning (EU) 2024/1143,
+
+3. den tidsfrist som avses i artiklarna 17.2 och 61.2 i Europaparlamentets och rådets förordning (EU) 2024/1143, och
+
+4. en producentgrupps sammansättning enligt artiklarna 32.1, 32.2 och 55.2 i Europaparlamentets och rådets förordning (EU) 2024/1143. *Förordning (2026:200)*.
+
+### 2 c §
+
+Livsmedelsverket ska utföra den uppgift som följer av artiklarna 45 och 77 i Europaparlamentets och rådets förordning (EU) 2024/1143 och som gäller intyg om överensstämmelse med produktspecifikationen. *Förordning (2026:200)*.
+
+### 3 §
+
+Livsmedelsverket ska övervaka att kontrollmyndigheterna fullgör sina förpliktelser enligt lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel.
+
+### 4 §
+
+Livsmedelsverket får meddela de ytterligare föreskrifter och fatta de beslut i övrigt som behövs som komplettering till de EU-bestämmelser som kompletteras av lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel.
+
+## Kontrollmyndigheter
+
+### 5 §
+
+Behörig myndighet att utöva offentlig kontroll och annan offentlig verksamhet som hänger samman med kontrollen är den myndighet som är behörig att utöva offentlig kontroll och annan offentlig verksamhet enligt 25 och 25 a §§ livsmedelsförordningen (2006:813), om något annat inte följer av 6 §. *Förordning (2021:187)*.
+
+### 6 §
+
+Livsmedelsverket är behörig myndighet att utöva offentlig kontroll och annan offentlig verksamhet i fråga om sådana jordbruksprodukter som avses i bilagorna I och II till Europaparlamentets och rådets förordning (EU) 2024/1143 vad gäller produkter som inte är avsedda att användas som livsmedel. *Förordning (2026:200)*.
+
+### 7 §
+
+Länsstyrelserna samordnar kommunernas kontrollverksamhet och ger dem stöd, råd och vägledning.
+
+### 8 §
+
+Livsmedelsverket samordnar övriga kontrollmyndigheters verksamhet och ger dem stöd, råd och vägledning.
+
+Livsmedelsverket ska även utföra uppgiften enligt artikel 4.2 b i förordning (EU) 2017/625 att samordna samarbetet och kontakterna med kommissionen och övriga medlemsstater när det gäller offentlig kontroll och annan offentlig verksamhet inom det område som framgår av artikel 1.2 j i samma förordning.
+
+*Förordning (2021:187)*.
+
+## Föreskrifter om offentlig kontroll och annan offentlig verksamhet
+
+### 9 §
+
+Livsmedelsverket får meddela föreskrifter om hur offentlig kontroll och annan offentlig verksamhet ska bedrivas.
+
+*Förordning (2021:187)*.
+
+### 10 §
+
+Livsmedelsverket får meddela föreskrifter om
+
+1. skyldighet för en kontrollmyndighet, ett organ med delegerade uppgifter eller en fysisk person som har delegerats vissa uppgifter att lämna information till verket eller en länsstyrelse om den kontrollverksamhet som de bedriver,
+
+2. skyldighet för ett organ med delegerade uppgifter eller en fysisk person som har delegerats vissa uppgifter att lämna information och ge in handlingar till den myndighet som har delegerat uppgiften, och
+
+3. skyldighet för den som är aktör enligt artikel 2.1 e i Europaparlamentets och rådets förordning (EU) 2024/1143 att lämna uppgifter om sin verksamhet till en kontrollmyndighet, ett organ med delegerade uppgifter eller en fysisk person som har delegerats vissa uppgifter. *Förordning (2026:200)*.
+
+## Övriga bestämmelser om kontroll
+
+### 11 §
+
+De kostnader som en kontrollmyndighet får till följd av åtgärder enligt 15 § lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel, ska ersättas av den som var ägare till jordbruksprodukterna eller livsmedlen när de togs om hand.
+
+### 12 §
+
+Har upphävts genom *förordning (2019:710)*.
+
+## Förelägganden om olagligt innehåll
+
+### 12 §
+
+Livsmedelsverket får utfärda förelägganden om att agera mot olagligt innehåll i enlighet med artiklarna 43.2 och 75.2 i Europaparlamentets och rådets förordning (EU) 2024/1143.
+
+*Förordning (2026:200)*.
+
+## Avgifter
+
+### 13 §
+
+Bestämmelser om avgifter finns i förordningen (2021:176) om avgifter för offentlig kontroll av livsmedel och vissa jordbruksprodukter. *Förordning (2021:187)*.
+
+## Övriga bestämmelser
+
+### 14 §
+
+Livsmedelsverket får meddela närmare föreskrifter för verkställigheten av lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel och denna förordning.
+
+### 15 §
+
+Bestämmelser om överklagande finns i 19-20 a §§ lagen (2009:1424) om kontroll av skyddade beteckningar på jordbruksprodukter och livsmedel. *Förordning (2021:187)*.

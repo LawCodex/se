@@ -1,0 +1,32 @@
+---
+title: "Förordning (2009:56) om upphävande av vissa föreskrifter beslutade av Statens kärnkraftinspektion"
+identifier: "SFS 2009:56"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-02-12
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-56.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:56"
+retrieved: 2026-10-11
+---
+# Förordning (2009:56) om upphävande av vissa föreskrifter beslutade av Statens kärnkraftinspektion
+
+Regeringen föreskriver att följande föreskrifter ska upphöra att gälla vid utgången av februari 2009:
+
+1. Statens kärnkraftinspektions föreskrifter (SKIFS 2000:1) om kompetens hos driftpersonal vid reaktoranläggningar,
+
+2. Statens kärnkraftinspektions föreskrifter (SKIFS 2002:1) om säkerhet vid slutförvaring av kärnämne och kärnavfall,
+
+3. Statens kärnkraftinspektions föreskrifter (SKIFS 2004:1) om säkerhet i kärntekniska anläggningar,
+
+4. Statens kärnkraftinspektions föreskrifter (SKIFS 2004:2) om konstruktion och utförande av kärnkraftsreaktorer,
+
+5. Statens kärnkraftinspektions föreskrifter (SKIFS 2005:1) om fysiskt skydd av kärntekniska anläggningar,
+
+6. Statens kärnkraftinspektions föreskrifter (SKIFS 2005:2) om mekaniska anläggningar i vissa kärntekniska anläggningar,
+
+7. Statens kärnkraftinspektions föreskrifter (SKIFS 2006:1) om undantag från kravet på godkännande av uppdragstagare, och
+
+8. Statens kärnkraftinspektions föreskrifter (SKIFS 2008:1) om kontroll av kärnämne mm.

@@ -1,0 +1,67 @@
+---
+title: "Förordning (2018:127) med kompletterande bestämmelser till EU:s förordning om personlig skyddsutrustning"
+identifier: "SFS 2018:127"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-03-08
+amended_through: "SFS 2022:1199"
+department: "Finansdepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-127.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:127"
+retrieved: 2026-10-11
+---
+# Förordning (2018:127) med kompletterande bestämmelser till EU:s förordning om personlig skyddsutrustning
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser i anslutning till lagen (2018:125) med kompletterande bestämmelser till EU:s förordning om personlig skyddsutrustning. Förordningen innehåller också bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) nr 2016/425 av den 9 mars 2016 om personlig skyddsutrustning och om upphävande av rådets direktiv 89/686/EEG (EU:s förordning om personlig skyddsutrustning).
+
+### Marknadskontroll
+
+#### 2 §
+
+Konsumentverket är marknadskontrollmyndighet och utövar marknadskontroll enligt Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011 över att produkter överensstämmer med kraven i Europaparlamentets och rådets förordning (EU) 2016/425 av den 9 mars 2016 om personlig skyddsutrustning och om upphävande av rådets direktiv 89/686/EEG när det gäller produkter som är avsedda för privat bruk, eller som kan antas komma att användas för privat bruk i inte obetydlig omfattning. *Förordning (2022:1199)*.
+
+#### 3 §
+
+Arbetsmiljöverket är marknadskontrollmyndighet och utövar marknadskontroll enligt förordning (EU) 2019/1020 över att produkter överensstämmer med kraven i förordning (EU) 2016/425 när det gäller produkter som är avsedda för yrkesmässig användning, eller som kan antas komma att användas yrkesmässigt. *Förordning (2022:1199)*.
+
+#### 3 a §
+
+Bestämmelser om en marknadskontrollmyndighets befogenhet att besluta om åtgärder enligt förordning (EU) 2019/1020 finns i lagen (2018:125) med kompletterande bestämmelser till EU:s förordning om personlig skyddsutrustning.
+
+*Förordning (2022:1199)*.
+
+### Uppgiftsskyldighet
+
+#### 4 §
+
+Arbetsmiljöverket ska lämna de uppgifter till Konsumentverket som behövs för att Konsumentverket ska kunna utföra sin marknadskontroll enligt 2 §.
+
+#### 5 §
+
+Konsumentverket ska lämna de uppgifter till Arbetsmiljöverket som behövs för att Arbetsmiljöverket ska kunna utföra sin marknadskontroll enligt 3 §.
+
+### Språk
+
+#### 6 §
+
+Sådana bruksanvisningar och sådan information som avses i artiklarna 8.7 och 10.4 i EU:s förordning om personlig skyddsutrustning ska vara skrivna på svenska. Detsamma gäller sådana identifieringsmärkningar som avses i bilaga II punkt 2.12 till EU:s förordning om personlig skyddsutrustning om de innehåller ord eller meningar.
+
+När det gäller personlig skyddsutrustning som är avsedd för yrkesmässig användning och som kan behövas för att förebygga eller hindra den pågående spridningen av det virus som orsakar sjukdomen covid-19, får sådana bruksanvisningar, sådan information och sådana identifieringsmärkningar som avses i första stycket vara skrivna även på andra språk än svenska, om språket lätt kan förstås av slutanvändaren.
+
+Sådan EU-försäkran om överensstämmelse som avses i artikel 15 i EU:s förordning om personlig skyddsutrustning ska vara skriven på svenska eller engelska. *Förordning (2020:123)*.
+
+## Övergångsbestämmelser
+
+**2018:127**
+
+1. Denna förordning träder i kraft den 21 april 2018.
+
+2. Genom förordningen upphävs förordningen (1993:972) om personlig skyddsutrustning för privat bruk.
+
+3. Förelägganden och förbud som har meddelats före ikraftträdandet med stöd av den upphävda förordningen ska fortfarande gälla.

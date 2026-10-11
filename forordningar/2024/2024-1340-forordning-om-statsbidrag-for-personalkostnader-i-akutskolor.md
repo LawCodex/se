@@ -1,0 +1,229 @@
+---
+title: "Förordning (2024:1340) om statsbidrag för personalkostnader i akutskolor"
+identifier: "SFS 2024:1340"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2024-12-19
+amended_through: "SFS 2026:1370"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-1340.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:1340"
+retrieved: 2026-10-11
+---
+# Förordning (2024:1340) om statsbidrag för personalkostnader i akutskolor
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag för personalkostnader i akutskolor i grundskolan.
+
+Förordningen är meddelad med stöd av 8 kap. 11 § regeringsformen i fråga om 18 § och 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+#### 2 §
+
+Akutskola har i förordningen samma betydelse som i 23 kap. 12 c § skollagen (2010:800). *Förordning (2026:1370)*.
+
+#### 3 §
+
+Statsbidrag lämnas i mån av tillgång på medel och för ett kalenderår (bidragsår) i sänder.
+
+### Förutsättningar för statsbidrag
+
+#### 4 §
+
+Statsbidrag lämnas till en huvudman för grundskola för personalkostnader som avser utbildning i akutskolor, om
+
+1. akutskolan omfattar minst två årsarbetskrafter, varav minst en årsarbetskraft har legitimation som lärare,
+
+2. kostnaderna avser personal med legitimation som lärare eller med relevant utbildning inom psykosocialt arbete,
+
+3. huvudmannen kan ge akutskola till minst två elever samtidigt,
+
+4. akutskolan ingår i en skolenhet eller är organisatoriskt knuten till en skolenhet, och
+
+5. akutskolan är inriktad mot att ge undervisning till tillfälligt placerade elever. *Förordning (2026:1370)*.
+
+#### 5 §
+
+Personalkostnaderna ska avse en anställning eller ett uppdrag som varar minst sex månader på heltid eller deltid.
+
+Bidrag får även lämnas för kostnader för att bibehålla det antal årsarbetskrafter som huvudmannen tidigare har fått bidrag för enligt första stycket.
+
+Bidrag får inte lämnas för personalkostnader som uppstår genom att personalen omfördelas eller genom att verksamheten omorganiseras.
+
+#### 6 §
+
+Statsbidrag får lämnas med ett belopp som motsvarar hälften av kostnaden för en heltidsanställning eller ett uppdrag som motsvarar heltid. En huvudman kan få bidrag för flera heltidsanställningar eller uppdrag som motsvarar heltid.
+
+Om en huvudman ansöker om bidrag för en anställning eller ett uppdrag som inte omfattar eller motsvarar heltid, ska bidragets storlek reduceras i motsvarande mån.
+
+#### 7 §
+
+Statsbidrag får inte lämnas till en huvudman som
+
+1. är i likvidation, är försatt i konkurs, eller genomgår företagsrekonstruktion,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs i allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Statens skolverk.
+
+*Förordning (2026:1370)*.
+
+#### 7 a §
+
+Statsbidrag får inte lämnas till en sökande som har näringsförbud. Om den sökande är en enskild juridisk person, får den eller de fysiska personer som har ett väsentligt inflytande över verksamheten inte ha näringsförbud.
+
+Med personer som har ett väsentligt inflytande avses verkställande direktör, styrelseledamot, bolagsdelägare eller aktieägare med betydande aktieinnehav samt annan person med betydande ekonomiskt intresse i företaget.
+
+*Förordning (2026:1370)*.
+
+#### 8 §
+
+Statsbidrag får inte lämnas om
+
+1. Statens skolinspektion har fattat beslut om att återkalla huvudmannens godkännande som avser en verksamhet som omfattas av bidraget, eller
+
+2. Skolinspektionen har fattat beslut om att förbjuda huvudmannen att driva en verksamhet som omfattas av bidraget vidare (verksamhetsförbud).
+
+Statsbidrag får dock lämnas om ett sådant beslut som anges i första stycket 1 eller 2 har upphävts.
+
+#### 8 a §
+
+Statens skolverk får avslå en ansökan om statsbidrag om Skolverket enligt 15 § beslutat att kräva tillbaka eller enligt 17 § beslutat att stoppa en utbetalning av ett bidrag som tidigare beviljats den sökande på grund av omständigheter som hänför sig till den sökande eller till företrädare med väsentligt inflytande över verksamheten.
+
+*Förordning (2026:1370)*.
+
+#### 9 §
+
+Statsbidrag får inte lämnas för kostnader som något statligt bidrag redan har lämnats för.
+
+*Förordning (2026:1370)*.
+
+### Ansökan och beslut
+
+#### 10 §
+
+En ansökan om statsbidrag ska göras skriftligen av en behörig företrädare för huvudmannen och lämnas till Statens skolverk.
+
+Ansökan ska innehålla de uppgifter och handlingar som behövs för att bedöma huvudmannens förutsättningar för att få statsbidrag. Den som ansöker om bidrag ska på begäran av Skolverket lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan.
+
+Uppgifterna i en ansökan ska lämnas på heder och samvete.
+
+Statens skolverk beslutar om och betalar ut statsbidrag. Ett beslut om statsbidrag får förenas med villkor. Villkoren ska framgå av beslutet. *Förordning (2026:1370)*.
+
+### Fördelning
+
+#### 11 §
+
+Om det kommer in fler ansökningar om statsbidrag än det finns medel för, beslutar Statens skolverk om urval. Vid urvalet ska myndigheten prioritera enligt följande:
+
+1. bibehållande av det antal årsarbetskrafter i akutskolor som huvudmannen tidigare har fått bidrag för,
+
+2. nya akutskolor,
+
+3. förstärkning av befintliga akutskolor.
+
+Skolverket ska också beakta geografisk spridning och att bidrag lämnas till såväl offentliga som enskilda huvudmän.
+
+### Uppföljning och redovisning
+
+#### 12 §
+
+Statens skolverk ska följa upp hur statsbidraget har använts. Den som har tagit emot bidrag är skyldig att medverka i den uppföljning och utvärdering av verksamheten som bestäms av Skolverket eller en annan myndighet som har fått regeringens uppdrag att följa upp hur bidraget har använts. Mottagaren ska också lämna de uppgifter som Skolverket eller en annan myndighet som gör en uppföljning eller utvärdering av verksamheten begär.
+
+### Anmälningsskyldighet
+
+#### 13 §
+
+Den som ansöker om eller har beviljats statsbidrag enligt denna förordning ska anmäla sådana ändrade förhållanden som kan påverka rätten till bidraget eller storleken på det till Statens skolverk snarast möjligt.
+
+### Kontroll
+
+#### 13 a §
+
+Om Statens skolverk begär det, ska huvudmannen lämna de uppgifter och handlingar som behövs för att styrka att förutsättningarna för statsbidraget är uppfyllda eller för att myndigheten ska kunna pröva frågan om återbetalningsskyldighet.
+
+Skolverket får kontrollera att villkoren för statsbidrag som har lämnats enligt denna förordning har följts. *Förordning (2026:1370)*.
+
+### Återbetalning och återkrav
+
+#### 14 §
+
+Mottagaren av statsbidrag enligt denna förordning är återbetalningsskyldig, om
+
+1. bidraget har lämnats på felaktig grund eller med för högt belopp,
+
+2. bidraget helt eller delvis inte har utnyttjats eller inte har använts för det ändamål det har lämnats för,
+
+3. förutsättningarna för bidrag i 4-8 §§ inte längre är uppfyllda,
+
+4. mottagaren inte har medverkat i den uppföljning och utvärdering eller lämnat sådana uppgifter som anges i 12 § eller,
+
+5. mottagaren, efter förfrågan från Statens skolverk, inte har lämnat sådana uppgifter och handlingar som avses i 13 a §, eller
+
+6. mottagaren inte har följt de villkor som framgår av beslutet om bidrag. *Förordning (2026:1370)*.
+
+#### 15 §
+
+Statens skolverk ska besluta att helt eller delvis kräva tillbaka ett statsbidrag, om mottagaren av bidraget är återbetalningsskyldig enligt 14 §.
+
+Om det finns särskilda skäl för det, får Skolverket besluta att helt eller delvis avstå från återkrav.
+
+*Förordning (2026:1370)*.
+
+#### 16 §
+
+På statsbidrag som krävs tillbaka ska ränta enligt 6 § räntelagen (1975:635) betalas från och med den trettionde dagen efter den dag då beslutet om återkrav fattades.
+
+Om det finns särskilda skäl för det, får Statens skolverk besluta att helt eller delvis avstå från krav på ränta.
+
+*Förordning (2026:1370)*.
+
+### Hinder mot utbetalning
+
+#### 17 §
+
+Statens skolverk ska besluta att ett beviljat statsbidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre bedöms uppfylla villkoren för det eller om det finns grund för återbetalning enligt 14 §. Beslutet gäller omedelbart.
+
+### Bemyndigande
+
+#### 18 §
+
+Statens skolverk får meddela
+
+1. ytterligare föreskrifter om fördelning av statsbidrag enligt 11 §,
+
+2. föreskrifter om beräkning och omfördelning av bidrag, och
+
+3. föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 19 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 15 och 17 §§ får dock inte överklagas.
+
+*Förordning (2026:1370)*.
+
+## Övergångsbestämmelser
+
+**2024:1340**
+
+1. Denna förordning träder i kraft den 1 februari 2025.
+
+2. Bidrag enligt förordningen lämnas dock för tid från och med den 1 januari 2025.
+
+3. Genom förordningen upphävs förordningen (2023:117) om statsbidrag för personalkostnader för akutskolor, speciallärare och elevhälsan.
+
+4. Den upphävda förordningen gäller dock fortfarande för statsbidrag som har beviljats före ikraftträdandet.
+
+5. Om förutsättningarna för statsbidrag enligt 4 § denna förordning är uppfyllda får under bidragsåret 2025 bidrag lämnas även för att bibehålla det antal årsarbetskrafter som huvudmannen för bidragsåret 2024 fått bidrag för enligt 5 § i den upphävda förordningen (2023:117) om statsbidrag för personalkostnader för akutskolor, speciallärare och elevhälsan.
+
+**2026:1370**
+
+1. Denna förordning träder i kraft den 1 augusti 2026.
+
+2. Äldre föreskrifter gäller fortfarande för bidrag som avser tid före ikraftträdandet.

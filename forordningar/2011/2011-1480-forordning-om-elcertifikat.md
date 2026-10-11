@@ -1,0 +1,243 @@
+---
+title: "Förordning (2011:1480) om elcertifikat"
+identifier: "SFS 2011:1480"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-12-08
+amended_through: "SFS 2026:1786"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-1480.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:1480"
+retrieved: 2026-10-11
+---
+# Förordning (2011:1480) om elcertifikat
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser som ansluter till lagen (2011:1200) om elcertifikat. Termer och uttryck i förordningen har samma betydelse som i lagen om elcertifikat. *Förordning (2016:810)*.
+
+#### 2 §
+
+Med biobränsle avses i denna förordning material av biologiskt ursprung som används som bränsle. Med biobränsle avses dock inte
+
+1. fossila material eller torv,
+
+2. osorterat avfall, oavsett innehåll, eller
+
+3. föremål eller ämne som avses i 2 men som har upphört att vara avfall efter en hantering som innebär återvinning.
+
+Orden avfall och återvinning har i denna förordning samma betydelse som i miljöbalken. *Förordning (2016:810)*.
+
+#### 3 §
+
+Statens energimyndighet är tillsynsmyndighet och kontoföringsmyndighet enligt lagen (2011:1200) om elcertifikat. *Förordning (2014:1091)*.
+
+### Kvoter för beräkning av kvotplikt
+
+#### 3 a §
+
+Den kvot för beräkning av kvotplikt som avses i 4 kap. 4 § lagen (2011:1200) om elcertifikat anges inom parentes för varje beräkningsår enligt följande:
+
+- 2020 (0,265)
+
+- 2021 (0,255)
+
+- 2022 (0,262)
+
+- 2023 (0,251)
+
+- 2024 (0,273)
+
+- 2025 (0,313)
+
+- 2026 (0,333)
+
+- 2027 (0,376)
+
+- 2028 (0,379)
+
+- 2029 (0,383)
+
+- 2030 (0,377)
+
+- 2031 (0,359)
+
+- 2032 (0,341)
+
+- 2033 (0,316)
+
+- 2034 (0,292)
+
+- 2035 (0,276). *Förordning (2025:788)*.
+
+#### 3 b §
+
+Om den beräknade kvotplikten inte omfattar elcertifikat till ett heltal, ska antalet avrundas till närmaste heltal.
+
+*Förordning (2017:814)*.
+
+### Tilldelning för produktionsökning
+
+#### 4 §
+
+En innehavare av en anläggning är berättigad att tilldelas elcertifikat enligt 2 kap. 8 § första stycket lagen (2011:1200) om elcertifikat om en dokumenterad och verifierad varaktig produktionsökning i en anläggning är en följd av
+
+1. en ökning av det genomsnittliga använda vattenflödet genom anläggningen,
+
+2. minskade förluster i vattenvägarna, eller
+
+3. minskade förluster i energiomvandlingssystemet.
+
+Om en produktionsökning endast är en följd av en löpande underhållsåtgärd i anläggningen eller i de vattenvägar som hör till anläggningen, ska produktionsökningen inte berättiga till tilldelning av elcertifikat.
+
+Bestämmelserna i 10 § gäller inte för innehavare av anläggningar som tilldelats elcertifikat för en produktionsökning enligt första stycket.
+
+#### 5 §
+
+En innehavare av en anläggning är berättigad att tilldelas elcertifikat enligt 2 kap. 8 § andra stycket lagen (2011:1200) om elcertifikat om en dokumenterad och verifierad varaktig ökning av den förnybara elproduktionen är en följd av investeringar i produktionshöjande åtgärder i anläggningen, såsom ombyggnader. Ökningar som endast är en följd av en löpande underhållsåtgärd berättigar inte till tilldelning av elcertifikat.
+
+#### 6 §
+
+Statens energimyndighet ska i ett beslut om godkännande av produktionsökning fastställa den andel av den totala förnybara elproduktionen i anläggningen efter åtgärd som ska ligga till grund för tilldelning av elcertifikat enligt 2 kap. 8 § lagen (2011:1200) om elcertifikat.
+
+Tiden för tilldelning av elcertifikat för produktionsökningar enligt 2 kap. 8 § tredje stycket lagen om elcertifikat ska räknas från den tidpunkt när en sådan andel som avses i första stycket har kunnat fastställas genom dokumentation och verifiering i enlighet med föreskrifter som Statens energimyndighet har meddelat med stöd av 18 § 1.
+
+### Ny tilldelning efter ombyggnad
+
+#### 7 §
+
+Vid bedömning av om en anläggning ska anses som ny enligt 2 kap. 9 § lagen (2011:1200) om elcertifikat ska anläggningen anses omfatta följande delar:
+
+1. vattenvägar, turbin, generator och styr- och reglersystem för vattenkraftverk,
+
+2. panna, turbin, generator, rökgassystem och styr- och reglersystem för kraftvärmeverk och industriell mottrycksanläggning,
+
+3. rotor, maskinhus och styr- och reglersystem för vindkraftverk, eller
+
+4. gasmotor eller gasturbin, generator och styr- och reglersystem för gasmotor- eller gasturbinanläggningar.
+
+För att en anläggning ska anses som ny enligt 2 kap. 9 § lagen om elcertifikat ska omfattande ombyggnader eller andra investeringar ha gjorts i fråga om de delar som avses i första stycket. Anläggningens livslängd ska efter åtgärderna motsvara en ny sådan anläggnings livslängd.
+
+### Mätning, beräkning och rapportering av elcertifikatsberättigande elproduktion
+
+### Mätning och rapportering till elnät som omfattas av nätkoncession
+
+#### 8 §
+
+*/Upphör att gälla U:2027-01-01/* Föreskrifter om mätning och rapportering av elcertifikatsberättigande elproduktion för inmatning från anläggningar till ett elnät som omfattas av nätkoncession finns i förordningen (1999:716) om mätning, beräkning och rapportering av överförd el.
+
+#### 8 §
+
+*/Träder i kraft I:2027-01-01/* Föreskrifter om mätning och rapportering av elcertifikatsberättigande elproduktion för inmatning från anläggningar till ett elnät som omfattas av nätkoncession finns i 10 kap. elsystemförordningen (2026:1522) och anslutande föreskrifter. *Förordning (2026:1786)*.
+
+### Mätning och rapportering till elnät som inte omfattas av nätkoncession
+
+#### 9 §
+
+Om inmatningen från en anläggning sker till ett elnät som används utan stöd av nätkoncession, ska anläggningens innehavare mäta mängden inmatad el under varje kvart och rapportera den elcertifikatsberättigande elproduktionen till kontoföringsmyndigheten. *Förordning (2023:574)*.
+
+### Särskild beräkning och rapportering av viss elproduktion
+
+#### 10 §
+
+Utöver vad som anges i 2 kap. 3 § tredje stycket lagen (2011:1200) om elcertifikat ska innehavaren av en anläggning särskilt beräkna den elproduktion som sker med biobränsle, torv eller användning av olika tekniska utrustningar och rapportera beräkningen till kontoföringsmyndigheten.
+
+*Förordning (2014:1091)*.
+
+### Kontroll av mätutrustning
+
+#### 11 §
+
+Av lagen (1992:1514) om måttenheter, mätningar och mätdon och förordningen (1993:1066) om måttenheter, mätningar och mätdon följer att Styrelsen för ackreditering och teknisk kontroll får meddela föreskrifter om krav på och kontroll av mätutrustning och att myndigheten utövar tillsyn över att sådana föreskrifter följs.
+
+### Omprövning av beslut om kvotplikt för elintensiv industri
+
+#### 12 §
+
+Statens energimyndighet ska ompröva ett sådant beslut om kvotplikt som avses i 4 kap. 7 § lagen (2011:1200) om elcertifikat
+
+1. varje år, om det är en sådan elintensiv industri som avses i 1 kap. 2 § 8 b lagen om elcertifikat, och
+
+2. i andra fall än de som avses i 1, om förutsättningarna för registreringen har ändrats. *Förordning (2025:1320)*.
+
+### Undantag från deklarationsskyldighet
+
+#### 13 §
+
+En kvotpliktig elintensiv industri ska undantas från deklarationsskyldighet om den använder endast sådan el som enligt 4 kap. 5 § lagen (2011:1200) om elcertifikat inte ska beaktas vid beräkning av kvotplikten.
+
+Statens energimyndighet ska pröva frågan om undantag från deklarationsskyldighet
+
+1. i samband med att myndigheten prövar frågan om registrering av kvotplikt enligt 4 kap. 7 § lagen om elcertifikat,
+
+2. i samband med att myndigheten omprövar ett beslut enligt 12 §, eller
+
+3. om den som är kvotpliktig har underrättat myndigheten om att den uppfyller förutsättningarna för att undantas deklarationsskyldighet. *Förordning (2025:1320)*.
+
+### Omräkning av elcertifikatspris på en gemensam elcertifikatsmarknad
+
+#### 14 §
+
+När det volymvägda medelvärdet av priset på elcertifikat ska beräknas enligt 3 kap. 16 § lagen (2011:1200) om elcertifikat på en elcertifikatsmarknad som är gemensam med andra länder, ska omsättningen under den aktuella perioden räknas om till den valutakurs som gäller den dag det volymvägda medelvärdet beräknas.
+
+### Avgifter för kontoföring och registrering i elcertifikatsregistret
+
+#### 15 §
+
+Kontoföringsmyndigheten ska ta ut avgifter enligt 16-16 c §§ för kontoföring och registrering av överlåtelser av elcertifikat. *Förordning (2025:1320)*.
+
+#### 16 §
+
+Den som har ett elcertifikatskonto ska betala en årsavgift på 200 kronor för kontot. *Förordning (2025:1320)*.
+
+#### 16 a §
+
+Den som har ett elcertifikatskonto och som tilldelas elcertifikat ska betala en tilldelningsavgift på 0,05 kronor för varje elcertifikat som tilldelas kontot.
+
+Den sammanlagda tilldelningsavgiften ska tas ut som ett engångsbelopp för ett kalenderår. *Förordning (2025:1320)*.
+
+#### 16 b §
+
+Den som har varit kvotpliktig under beräkningsåret ska betala en annulleringsavgift på 0,08 kronor för varje elcertifikat som ska annulleras på den kvotpliktiges elcertifikatskonto efter tillsynsmyndighetens beslut om annullering enligt 4 kap. 10 § lagen (2011:1200) om elcertifikat. *Förordning (2025:1320)*.
+
+#### 16 c §
+
+Den sammanlagda tilldelningsavgiften som avses i 16 a § andra stycket och annulleringsavgiften som avses i 16 b § ska avrundas till närmaste heltal kronor. En avgift ska endast tas ut om den överstiger 50 kronor. *Förordning (2025:1320)*.
+
+#### 17 §
+
+Sökanden ska betala en ansökningsavgift på 100 kronor, om en ansökan om registrering enligt 3 kap. 6 § lagen (2011:1200) om elcertifikat inte har överförts elektroniskt.
+
+### Bemyndiganden
+
+#### 18 §
+
+Statens energimyndighet får meddela ytterligare föreskrifter om
+
+1. åtgärder, villkor, dokumentation och verifiering vid tilldelning av elcertifikat för produktionsökning,
+
+2. åtgärder och villkor för ny tilldelning efter ombyggnad, och
+
+3. mätning, beräkning och rapportering av elcertifikatsberättigande elproduktion.
+
+#### 19 §
+
+Statens energimyndighet får meddela ytterligare föreskrifter om verkställigheten av lagen (2011:1200) om elcertifikat och föreskrifter om verkställigheten av denna förordning. *Förordning (2015:265)*.
+
+### Överklagande
+
+#### 20 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:1067)*.
+
+## Övergångsbestämmelser
+
+**2023:574**
+
+1. Denna förordning träder i kraft den 1 november 2023.
+
+2. Mätningen enligt 9 § får till utgången av 2024 avse mängden överförd el under varje timme, om mätutrustningen inte kan registrera överförd el under varje kvart. Rapporteringen ska även under denna period avse varje kvart.

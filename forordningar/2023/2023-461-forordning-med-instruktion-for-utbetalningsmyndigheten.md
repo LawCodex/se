@@ -1,0 +1,103 @@
+---
+title: "Förordning (2023:461) med instruktion för Utbetalningsmyndigheten"
+identifier: "SFS 2023:461"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2023-06-22
+amended_through: "SFS 2026:900"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2023-461.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2023:461"
+retrieved: 2026-10-11
+---
+# Förordning (2023:461) med instruktion för Utbetalningsmyndigheten
+
+## Uppgifter
+
+### 1 §
+
+Utbetalningsmyndigheten ska förebygga, förhindra och upptäcka felaktiga utbetalningar från välfärdssystemen.
+
+### 2 §
+
+Myndigheten ska
+
+1. göra dataanalyser och urval,
+
+2. genomföra inledande och fördjupade granskningar enligt lagen (2023:455) om Utbetalningsmyndighetens granskning av utbetalningar, och
+
+3. administrera ett system med transaktionskonto enligt lagen (2023:454) om transaktionskonto vid Utbetalningsmyndigheten.
+
+### 3 §
+
+Myndigheten ska bidra till kunskapsutvecklingen i den statliga förvaltningen, hos kommuner och vid arbetslöshetskassorna genom att samla, analysera och förmedla kunskap och erfarenheter från sitt arbete med att förebygga, förhindra och upptäcka felaktiga utbetalningar från välfärdssystemen. *Förordning (2026:758)*.
+
+### 4 §
+
+Myndigheten är beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap.
+
+### 4 a §
+
+Myndigheten ska delta i det myndighetsgemensamma arbetet mot den grova och organiserade brottsligheten. *Förordning (2024:249)*.
+
+## Samverkan
+
+### 5 §
+
+Utbetalningsmyndigheten ska samverka med Arbetsförmedlingen, Centrala studiestödsnämnden, Försäkringskassan, Pensionsmyndigheten och Skatteverket i syfte att motverka felaktiga utbetalningar från välfärdssystemen.
+
+### 6 §
+
+Utbetalningsmyndigheten ska samverka med Riksgäldskontoret i fråga om betalningar som administreras via systemet med transaktionskonto.
+
+### 7 §
+
+Utbetalningsmyndigheten ska tillsammans med Centrala studiestödsnämnden, Försäkringskassan respektive Skatteverket bestämma vilka uppgifter inom ramen för systemet med transaktionskonto som de myndigheterna ska utföra för Utbetalningsmyndighetens räkning.
+
+### 8 §
+
+Utbetalningsmyndigheten ska tillsammans med Skatteverket bestämma vilka it-drifttjänster samt vilket tekniskt och administrativt stöd som Skatteverket ska tillhandahålla för Utbetalningsmyndighetens räkning.
+
+## Ledning
+
+### 9 §
+
+Myndigheten leds av en myndighetschef. *Förordning (2026:900)*.
+
+## Integritetsskyddsråd
+
+### 10 §
+
+Vid myndigheten ska det finnas ett integritetsskyddsråd.
+
+Rådet ska utöva fortlöpande insyn i de åtgärder som myndigheten vidtar för att säkerställa integritetsskyddet i verksamheten.
+
+Rådet ska rapportera sina iakttagelser till myndighetens ledning och, om rådet finner att det finns skäl för det, till Integritetsskyddsmyndigheten och till regeringen.
+
+### 11 §
+
+Integritetsskyddsrådet ska bestå av högst tre ledamöter. En av ledamöterna är ordförande.
+
+## Anställningar och uppdrag
+
+### 12 §
+
+Generaldirektören är myndighetschef.
+
+### 13 §
+
+Ledamöterna i integritetsskyddsrådet utses av regeringen för viss tid.
+
+## Personalansvarsnämnd
+
+### 14 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 15 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101) och internrevisionsförordningen (2006:1228).

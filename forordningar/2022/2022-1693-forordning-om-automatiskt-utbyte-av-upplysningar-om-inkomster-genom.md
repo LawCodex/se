@@ -1,0 +1,65 @@
+---
+title: "Förordning (2022:1693) om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar"
+identifier: "SFS 2022:1693"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2022-12-01
+amended_through: "2025:1395"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-1693.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:1693"
+retrieved: 2026-10-11
+---
+# Förordning (2022:1693) om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar
+
+### 1 §
+
+Denna förordning är meddelad med stöd av 8 kap. 11 § regeringsformen i fråga om 3 § och med stöd av 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2023:45)*.
+
+## Unikt identifieringsnummer
+
+### 2 §
+
+När Skatteverket registrerar en rapporteringsskyldig plattformsoperatör enligt 5 § lagen (2022:1682) om automatiskt utbyte av upplysningar om inkomster genom digitala plattformar, ska verket tilldela plattformsoperatören ett unikt identifieringsnummer.
+
+Skatteverket ska på elektronisk väg anmäla det unika identifieringsnumret till de behöriga myndigheterna i samtliga övriga medlemsstater.
+
+Skatteverket ska också meddela kommissionen det unika identifieringsnumret och de uppgifter som plattformsoperatören lämnat i ansökan om registrering.
+
+### 3 §
+
+Skatteverket får meddela närmare föreskrifter om det unika identifieringsnumrets utformning.
+
+## Termer och uttryck
+
+### 4 §
+
+Med koordineringsorganet avses det koordineringsorgan som avses i artikel 24.3 i bilaga 1 till lagen (1990:313) om Europaråds- och OECD-konventionen om ömsesidig handräckning i skatteärenden. *Förordning (2025:1395)*.
+
+## Uppgifter till OECD:s koordineringsorgan och behöriga myndigheter
+
+### 5 §
+
+Skatteverket ska till koordineringsorganets sekretariat, i förekommande fall, ange detaljerna för sådana identifieringstjänster som accepteras. *Förordning (2025:1395)*.
+
+### 6 §
+
+Skatteverket ska i en underrättelse till koordineringsorganets sekretariat visa att lämpliga åtgärder har vidtagits för att säkerställa att nödvändiga krav på sekretess och datasäkerhet är uppfyllda. *Förordning (2023:45)*.
+
+### 7 §
+
+Skatteverket ska i en underrättelse till koordineringsorganets sekretariat bekräfta om Sverige önskar ta emot identifikationskod för finansiellt konto i syfte för identifiering av skattebetalare. *Förordning (2023:45)*.
+
+### 8 §
+
+Skatteverket ska underrätta alla andra medlemsstaters behöriga myndigheter om att verket inte har för avsikt att använda identifikationskoden för finansiellt konto för identifiering av skattebetalare. *Förordning (2023:45)*.
+
+## Begäran om samråd med behöriga myndigheter
+
+### 9 §
+
+Om det uppstår svårigheter i samband med genomförandet eller tolkning av det multilaterala avtalet mellan behöriga myndigheter om automatiskt utbyte av upplysningar om inkomster som erhålls genom digitala plattformar, får Skatteverket begära att samråd hålls med behöriga myndigheter i en eller flera andra stater eller jurisdiktioner så att lämpliga åtgärder kan vidtas för att säkerställa att avtalet uppfylls. Om Skatteverket begär samråd, ska verket säkerställa att koordineringsorganets sekretariat på lämpligt sätt underrättas om åtgärder som tagits fram. *Förordning (2023:45)*.

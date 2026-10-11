@@ -1,0 +1,67 @@
+---
+title: "Förordning (2014:1108) om utformningen av häkten och polisarrester"
+identifier: "SFS 2014:1108"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-09-11
+amended_through: "SFS 2023:563"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-1108.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:1108"
+retrieved: 2026-10-11
+---
+# Förordning (2014:1108) om utformningen av häkten och polisarrester
+
+### 1 §
+
+I denna förordning finns föreskrifter om hur förvaringsrum i häkten och polisarrester ska utformas och utrustas.
+
+### 2 §
+
+Ett förvaringsrum ska ha en golvyta på minst 6 kvadratmeter. Rummets kubikinnehåll ska vara minst 15 kubikmeter och rumshöjden minst 2,40 meter. Rummet ska vara försett med fönster så att det får tillräckligt med dagsljus.
+
+Rummet ska vara tillräckligt ljudisolerat och även i övrigt utformat så att obehöriga kontakter mellan den intagne och andra om möjligt förhindras. Rummet ska vara utformat så att obehöriga förhindras att se in.
+
+### 3 §
+
+Ett förvaringsrum ska vara ändamålsenligt utrustat för den intagnes behov.
+
+I ett förvaringsrum ska det finnas stol, bord, säng och utrymme för förvaring av tillhörigheter. Rummet ska också ha ett signalsystem för att påkalla uppmärksamhet. I anslutning till rummet ska det finnas handfat och toalett.
+
+Rum som används till förvaring av berusade, våldsamma eller sjuka personer får ha annan lämplig inredning.
+
+Inredningen i ett förvaringsrum ska om möjligt utformas och förses med sådana skyddsanordningar att den intagne inte kan skada sig själv eller någon annan.
+
+### 4 §
+
+Kriminalvården och Polismyndigheten upprättar normalritningar och tekniska anvisningar för byggande och inredning av häkten och polisarrester.
+
+### 5 §
+
+Ett förvaringsrum i en polisarrest får avvika från kraven i 2 § första stycket på golvyta, kubikinnehåll och rumshöjd med högst fem procent.
+
+Om det finns särskilda skäl med hänsyn till tillfälliga behov, får ett sådant förvaringsrum i en polisarrest som inte används stadigvarande även avvika från övriga krav i 2 § och kraven i 3 § andra stycket första meningen. *Förordning (2023:563)*.
+
+### 5 a §
+
+Ett förvaringsrum som används kortvarigt i samband med att en intagen anländer till eller lämnar häktet eller polisarresten får avvika från kraven i 2 § första stycket och från kraven i 3 § andra stycket första meningen.
+
+*Förordning (2023:563)*.
+
+### 6 §
+
+Kriminalvården utövar tillsyn över häkten och polisarrester som är anordnade i anslutning till häkten.
+
+Polismyndigheten utövar tillsyn över övriga polisarrester.
+
+Kriminalvården och Polismyndigheten får meddela närmare föreskrifter för tillämpning av denna förordning för sina respektive tillsynsområden. *Förordning (2016:84)*.
+
+## Övergångsbestämmelser
+
+**2016:84**
+
+1. Denna förordning träder i kraft den 1 april 2016.
+
+2. För sådana förvaringsrum i en polisarrest som används stadigvarande gäller bestämmelsen i 5 § endast rum som färdigställts före den 1 april 2016. *Förordning (2023:563)*.

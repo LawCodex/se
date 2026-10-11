@@ -1,0 +1,103 @@
+---
+title: "Förordning (2009:968) med instruktion för Försvarsunderrättelsedomstolen"
+identifier: "SFS 2009:968"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-10-15
+amended_through: "SFS 2013:403"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-968.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:968"
+retrieved: 2026-10-11
+---
+# Förordning (2009:968) med instruktion för Försvarsunderrättelsedomstolen
+
+## Uppgifter m.m.
+
+### 1 §
+
+Bestämmelser om Försvarsunderrättelsedomstolens uppgifter, sammansättning och domförhet finns i lagen (2009:966) om Försvarsunderrättelsedomstol.
+
+## Myndighetsförordningens tillämpning
+
+### 2 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska tillämpas på Försvarsunderrättelsedomstolen:
+
+3 och 4 §§ om ledningens ansvar,
+
+6 § om allmänna uppgifter,
+
+8 § om myndighetens arbetsgivarpolitik,
+
+19 § om kostnadsmässiga konsekvenser, och
+
+21 § om myndighetens beslut.
+
+Det som i dessa bestämmelser sägs om myndighetens ledning ska avse domstolens ordförande i enlighet med bestämmelsen i 11 §. Bestämmelsen i 21 § myndighetsförordningen ska tillämpas endast i administrativa ärenden.
+
+## Organisation och ledning
+
+### 3 §
+
+Vid domstolen finns ett kansli.
+
+### 4 §
+
+I Försvarsunderrättelsedomstolen ska, förutom ordförande, vice ordförande och de särskilda ledamöter som anges i lagen (2009:966) om Försvarsunderrättelsedomstol, en kanslichef finnas.
+
+Försvarsunderrättelsedomstolens ordförande är domstolens administrative chef.
+
+Kanslichefen ska ansvara för beredningsverksamheten i domstolen.
+
+### 5 §
+
+Försvarsunderrättelsedomstolen får i arbetsordning meddela föreskrifter om eller i ett enskilt fall besluta om domstolens organisation och formerna för domstolens verksamhet.
+
+## Handläggningen av målen
+
+### 6 §
+
+Bestämmelser om handläggningen av ansökningar om tillstånd till signalspaning finns i lagen (2009:966) om Försvarsunderrättelsedomstol och i lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+### 7 §
+
+Målen tas upp till beredning och föredragning i den ordning som de kommit in, om inte omständigheterna motiverar en annan ordning. Ett mål eller fråga som kommit upp i ett mål ska handläggas med förtur om målet eller frågan av någon särskild anledning bör handläggas skyndsamt.
+
+### 8 §
+
+I fråga om anteckningar vid muntlig förhandling i mål vid Försvarsunderrättelsedomstolen, registrering av inkomna mål och aktbildning samt vad som hänger samman därmed gäller förordningen (2013:390) om mål i allmän förvaltningsdomstol i tillämpliga delar. *Förordning (2013:403)*.
+
+### 9 §
+
+Domstolens beslut ska expedieras till ansökande myndighet och till Statens inspektion för försvarsunderrättelseverksamheten.
+
+### 10 §
+
+Försvarsunderrättelsedomstolen får i arbetsordning meddela föreskrifter om eller i ett enskilt fall besluta om vem hos domstolen som får begära in förklaringar, upplysningar eller yttranden samt utföra andra förberedande åtgärder i målen.
+
+## Handläggningen av administrativa ärenden
+
+### 11 §
+
+Administrativa ärenden avgörs av domstolens ordförande om inte annat följer av arbetsordningen.
+
+## Anställningar m.m.
+
+### 12 §
+
+Bestämmelser om utnämning av ordförande i Försvarsunderrättelsedomstolen finns i lagen (2010:1390) om utnämning av ordinarie domare. Bestämmelser om förordnande av vice ordförande och särskilda ledamöter finns i lagen (2009:966) om Försvarsunderrättelsedomstol.
+
+Försvarsunderrättelsedomstolen ska anmäla till Domarnämnden när det finns en ledig anställning som ordförande som behöver tillsättas.
+
+Anställningen som kanslichef beslutas av regeringen.
+
+Kanslichefen ska vara lagfaren. Andra anställningar beslutas av Försvarsunderrättelsedomstolen.
+
+För andra anställningar vid domstolen än anställning av ordförande behöver inte 6 § anställningsförordningen (1994:373) tillämpas. *Förordning (2010:1811)*.
+
+### 13 §
+
+Endast den som är svensk medborgare får vara anställd vid Försvarsunderrättelsedomstolen.

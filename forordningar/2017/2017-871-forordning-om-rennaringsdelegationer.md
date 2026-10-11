@@ -1,0 +1,53 @@
+---
+title: "Förordning (2017:871) om rennäringsdelegationer"
+identifier: "SFS 2017:871"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-09-14
+amended_through: "SFS 2018:924"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-871.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:871"
+retrieved: 2026-10-11
+---
+# Förordning (2017:871) om rennäringsdelegationer
+
+## Rennäringsdelegationens uppgifter
+
+### 1 §
+
+Av 16 § förordningen (2017:868) med länsstyrelseinstruktion framgår att det inom länsstyrelserna i Jämtlands, Västerbottens och Norrbottens län ska finnas en delegation för rennäringsfrågor.
+
+### 2 §
+
+Rennäringsdelegationerna avgör frågor inom ansvarsområden som är fastställda av länsstyrelsen.
+
+## Rennäringsdelegationens sammansättning
+
+### 3 §
+
+Rennäringsdelegationen ska bestå av sju ledamöter. För ledamöterna ska det finnas lika många ersättare. Länsstyrelsen ska utse ledamöter och ersättare i delegationen. Tre ledamöter och deras ersättare ska vara rennäringsutövare och utses efter samråd med Sametinget.
+
+Landshövdingen, eller den landshövdingen utser inom länsstyrelsen, är ordförande i delegationen.
+
+### 4 §
+
+Ledamöterna och ersättarna utses för fyra år. De ska vara folkbokförda i länet eller, när det är fråga om rennäringsutövare, vara medlemmar i en sameby som är registrerad hos Sametinget.
+
+Om en ledamot eller ersättare avgår, utses en ny ledamot eller ersättare för återstoden av uppdragstiden.
+
+## Beslutsfattande
+
+### 5 §
+
+En rennäringsdelegation är beslutsför när ordföranden och minst hälften av de andra ledamöterna är närvarande.
+
+Minst en av de närvarande ska vara rennäringsutövare.
+
+### 6 §
+
+Den som vill anmäla avvikande mening enligt 30 § första eller andra stycket förvaltningslagen (2017:900) i en fråga som rennäringsdelegationen ska pröva ska göra det innan sammanträdet med delegationen avslutas.
+
+Vid sammanträden med rennäringsdelegationen får företrädare för samefondens styrelse närvara och yttra sig, men inte delta i besluten. *Förordning (2018:924)*.

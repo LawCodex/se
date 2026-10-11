@@ -1,0 +1,101 @@
+---
+title: "Förordning (2007:835) med instruktion för Statens överklagandenämnd"
+identifier: "SFS 2007:835"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-08
+amended_through: "SFS 2017:1042"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-835.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:835"
+retrieved: 2026-10-11
+---
+# Förordning (2007:835) med instruktion för Statens överklagandenämnd
+
+## Uppgifter
+
+### 1 §
+
+Statens överklagandenämnd har till uppgift att pröva överklaganden av
+
+1. beslut i anställningsärenden,
+
+2. beslut enligt 10 § förordningen (2003:477) om utbildning i skydd mot olyckor, och
+
+3. beslut som rör totalförsvarspliktiga i enlighet med vad som föreskrivs särskilt.
+
+## Ledning
+
+### 2 §
+
+Myndigheten leds av en nämnd.
+
+### 3 §
+
+Nämnden ska bestå av minst sju ledamöter. I den utsträckning det behövs ska det finnas ersättare för ledamöterna.
+
+Av ledamöterna ska en vara ordförande och minst en vara vice ordförande. Ordförande och vice ordförande ska vara eller ha varit ordinarie domare. *Förordning (2017:1042)*.
+
+## Organisation
+
+### 4 §
+
+Kammarkollegiet utför administrativa och handläggande uppgifter åt myndigheten.
+
+## Ärendenas handläggning
+
+### 5 §
+
+Nämnden är beslutsför när ordföranden och minst fyra andra ledamöter är närvarande.
+
+När ett ärende av principiell betydelse handläggs, ska samtliga ledamöter vara närvarande. *Förordning (2013:1001)*.
+
+### 6 §
+
+Om det framkommer skiljaktiga meningar vid en överläggning, tillämpas föreskrifterna i 16 kap. rättegångsbalken om omröstning i tvistemål.
+
+### 7 §
+
+Ordföranden eller någon som utför handläggande uppgifter åt myndigheten enligt 4 § får avgöra ärenden som har återkallats samt pröva frågor om utlämnande av allmänna handlingar.
+
+### 8 §
+
+Nämnden får i arbetsordningen eller i särskilda beslut lämna över till ordföranden eller någon som utför handläggande uppgifter åt myndigheten enligt 4 § att avgöra ärenden som inte ankommer på nämnden enligt 1 §.
+
+### 9 §
+
+Ärendena avgörs efter föredragning. Nämnden får dock besluta om muntlig handläggning av ett ärende.
+
+Myndigheten får i arbetsordningen meddela föreskrifter eller i ett enskilt fall besluta att ärenden som avgörs enligt 7 eller 8 §§ inte behöver föredras. *Förordning (2013:1001)*.
+
+## Årlig redogörelse
+
+### 10 §
+
+Myndigheten ska senast den 22 februari varje år lämna en redogörelse till regeringen om sin verksamhet under det senaste kalenderåret. *Förordning (2013:1001)*.
+
+## Anställningar och uppdrag
+
+### 11 §
+
+Vice ordförande utses av regeringen.
+
+## Tillämpligheten av vissa förordningar
+
+### 12 §
+
+Förordningen (2000:605) om årsredovisning och budgetunderlag ska inte tillämpas på myndigheten.
+
+## Undantag från myndighetsförordningen
+
+### 13 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+5 § om delegering,
+
+15 och 16 §§ om beslutförhet, och
+
+20 § om föredragning.

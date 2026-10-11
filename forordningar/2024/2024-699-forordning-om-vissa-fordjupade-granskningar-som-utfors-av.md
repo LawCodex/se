@@ -1,0 +1,30 @@
+---
+title: "Förordning (2024:699) om vissa fördjupade granskningar som utförs av Brottsförebyggande rådet"
+identifier: "SFS 2024:699"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2024-10-03
+department: "Justitiedepartementet KRIM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-699.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:699"
+retrieved: 2026-10-11
+---
+# Förordning (2024:699) om vissa fördjupade granskningar som utförs av Brottsförebyggande rådet
+
+## 1 §
+
+Av 7 och 7 c §§ förordningen (2016:1201) med instruktion för Brottsförebyggande rådet framgår att det nationella centrumet mot våldsbejakande extremism ska vara kontaktpunkt för myndigheter och andra beslutsorgan som inom ramen för sina respektive myndighetsuppdrag fördelar offentliga medel eller på annat sätt granskar offentligt finansierade verksamheter. Det framgår också att centrumet inom ramen för uppgiften som kontaktpunkt, i fall som regleras särskilt, ska bistå med fördjupade granskningar av verksamheter som kan antas ha kopplingar till våldsbejakande extremism eller andra antidemokratiska miljöer. Denna förordning innehåller föreskrifter om i vilka fall centrumet ska bistå med sådana fördjupade granskningar och hur de ska utföras.
+
+## 2 §
+
+Centrumet ska på begäran av en sådan myndighet eller ett sådant annat beslutsorgan som avses i 1 § göra en fördjupad granskning av en verksamhet som ansöker om, tar del av eller kan komma att ta del av offentliga medel, om det i ett ärende finns anledning att anta att den aktuella verksamheten förhåller sig till våldsbejakande extremism eller andra antidemokratiska miljöer på ett sätt som ger myndigheten eller beslutsorganet skäl att vidta åtgärder.
+
+En begäran om bistånd med en fördjupad granskning ska vara motiverad och innehålla de konkreta omständigheter som medför att myndigheten eller beslutsorganet begär centrumets bistånd.
+
+## 3 §
+
+En fördjupad granskning ska avse de omständigheter som är relevanta för bedömningen av ärendet.
+
+Centrumet ska lämna ett yttrande över utförd granskning.

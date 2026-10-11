@@ -1,0 +1,185 @@
+---
+title: "Förordning (2013:1031) med instruktion för E-hälsomyndigheten"
+identifier: "SFS 2013:1031"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2013-12-05
+amended_through: "SFS 2026:462"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-1031.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:1031"
+retrieved: 2026-10-11
+---
+# Förordning (2013:1031) med instruktion för E-hälsomyndigheten
+
+## Uppgifter
+
+### 1 §
+
+E-hälsomyndigheten ska ansvara för och tillhandahålla den nationella digitala infrastrukturen för hälso- och sjukvård, tandvård, socialtjänst och verksamhet enligt lagen (1993:387) om stöd och service till vissa funktionshindrade (LSS- verksamhet) samt ansvara för de register och it-funktioner som öppenvårdsapotek och vårdgivare behöver ha tillgång till för en patientsäker och kostnadseffektiv läkemedelshantering.
+
+E-hälsomyndigheten ska samordna det nationella arbetet avseende digitalisering inom hälso- och sjukvård, tandvård, socialtjänst och LSS-verksamhet. Myndigheten ska i sitt arbete särskilt beakta förutsättningarna för effektivt nyttjande av data för forskningsändamål och den förvaltningsgemensamma digitala infrastrukturen.
+
+Myndigheten ska bistå regeringen med underlag för utvecklingen av digitaliseringen inom sitt verksamhetsområde. I detta ingår att årligen följa upp, analysera och beskriva utvecklingen samt att ge förslag på strategiska utvecklingsområden.
+
+*Förordning (2026:462)*.
+
+### 1 a §
+
+Det som sägs om regioner i denna förordning gäller även kommuner som inte ingår i en region. *Förordning (2026:462)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. ansvara för det register som anges i lagen (2018:1212) om nationell läkemedelslista,
+
+2. utfärda intyg som visar att den som ansöker om tillstånd att bedriva detaljhandel med läkemedel till konsument uppfyller de förutsättningar för tillståndet som föreskrivs i 2 kap. 6 § 5-7 lagen (2009:366) om handel med läkemedel,
+
+3. vid behov genomföra kontroller av det elektroniska system för direktåtkomst till uppgifter hos myndigheten
+
+a) som en tillståndshavare ska ha enligt 2 kap. 6 § 6 lagen om handel med läkemedel, eller
+
+b) som avses i 9 kap. 1 § 1 lagen om nationell läkemedelslista,
+
+4. förmedla ersättning från regionerna till öppenvårdsapoteken enligt vad som sägs i förordningen (2002:687) om läkemedelsförmåner m.m. och i smittskyddsförordningen (2004:255),
+
+5. kvalitetssäkra, förvalta, framställa och tillhandahålla nationell läkemedelsstatistik,
+
+6. tillhandahålla ett system för analys av läkemedelsstatistik,
+
+7. ansvara för det register som anges i förordningen (2021:1129) om register över förordnade läkemedel för behandling av djur,
+
+8. ansvara för ett nationellt produkt- och artikelregister över läkemedel samt förbrukningsartiklar och livsmedel som ingår i läkemedelsförmånerna,
+
+9. tillhandahålla ett system för insamling av läkemedelsinformation,
+
+10. ansvara för ett nationellt register över sortiments- och leveransinformation avseende dosdispenserade läkemedel,
+
+11. tillhandahålla ett elektroniskt expertstöd till öppenvårdsapoteken i syfte att öka säkerheten vid expediering av läkemedelsrecept,
+
+12. tillhandahålla ett system för förmedling av ansökningar om tillstånd till försäljning av läkemedel enligt 4 kap. 10 § läkemedelslagen (2015:315),
+
+13. ansvara för att ta fram, förvalta, tillgängliggöra och fastställa nationella gemensamma specifikationer för hälso- och sjukvård, tandvård, socialtjänst och LSS-verksamhet, och
+
+14. ge stöd i syfte att öka användningen av nationella gemensamma specifikationer inom hälso- och sjukvård, tandvård, socialtjänst och LSS-verksamhet. *Förordning (2026:462)*.
+
+### 3 §
+
+E-hälsomyndigheten ska utveckla och tillhandahålla digitala tjänster för att redovisa uppgifter i myndighetens register i syfte att underlätta för den enskilde utifrån myndighetens verksamhetsområde. *Förordning (2019:272)*.
+
+### 3 a §
+
+Myndigheten är beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap. *Förordning (2022:556)*.
+
+### 3 b §
+
+Myndigheten ska bistå Statens jordbruksverk i arbetet med att utföra de uppgifter som en medlemsstat har enligt
+
+1. artikel 57 i Europaparlamentets och rådets förordning (EU) 2019/6 av den 11 december 2018 om veterinärmedicinska läkemedel och om upphävande av direktiv 2001/82/EG, och
+
+2. artikel 4.4 i Europaparlamentets och rådets förordning (EU) 2019/4 av den 11 december 2018 om tillverkning, utsläppande på marknaden, användning av foder som innehåller läkemedel, om ändring av Europaparlamentets och rådets förordning (EG) nr 183/2005 och om upphävande av rådets direktiv 90/167/EEG, i den del artikeln hänvisar till artikel 57 i förordning (EU) 2019/6. *Förordning (2023:101)*.
+
+## Tjänsteexport
+
+### 4 §
+
+Myndigheten får bedriva sådan tjänsteexport som är direkt kopplad till myndighetens kärnverksamhet.
+
+## Uppdragsverksamhet
+
+### 5 §
+
+Myndigheten får på uppdrag av andra än öppenvårdsapotek kvalitets- och säkerhetsgranska sådana elektroniska system som ska ansluta till myndighetens register.
+
+### 6 §
+
+Har upphävts genom *förordning (2019:272)*.
+
+### 7 §
+
+Myndigheten får på uppdrag av regioner
+
+1. föra register över koder avseende geografisk indelning av regioners hälso- och sjukvårdsverksamhet (områdeskoder),
+
+2. tillhandahålla en teknisk plattform där regioner och andra kan lämna och hämta uppgifter om läkemedel och andra varor som regioner subventionerar utöver läkemedelsförmånen, och
+
+3. utveckla och förvalta ett system som möjliggör förmedling av information om ordinationer, förskrivningar, uthämtade läkemedel och läkemedelsanvändning. *Förordning (2019:1097)*.
+
+## Samverkan
+
+### 7 a §
+
+Bestämmelser om samverkan med vissa andra myndigheter finns i förordningen (2015:155) om statlig styrning med kunskap avseende hälso- och sjukvård, socialtjänst och LSS- verksamhet.
+
+Myndigheten kungör sina föreskrifter i Gemensamma författningssamlingen avseende hälso- och sjukvård, socialtjänst, läkemedel, folkhälsa m.m. i enlighet med bilaga 1 till författningssamlingsförordningen (1976:725).
+
+*Förordning (2026:462)*.
+
+### 7 b §
+
+Myndigheten ska särskilt samverka med aktörer inom hälso- och sjukvård, tandvård, socialtjänst och LSS-verksamhet samt statliga myndigheter och andra relevanta aktörer i arbetet med nationella gemensamma specifikationer enligt 2 § 13. *Förordning (2026:462)*.
+
+## Ledning
+
+### 8 §
+
+Myndigheten leds av en styrelse.
+
+Regeringen utser vice ordförande i styrelsen.
+
+*Förordning (2026:462)*.
+
+### 9 §
+
+Styrelsen ska bestå av högst nio ledamöter.
+
+## Anställningar och uppdrag
+
+### 10 §
+
+Generaldirektören är myndighetschef.
+
+## Personalansvarsnämnd
+
+### 11 §
+
+Vid myndigheten finns en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 12 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101) och internrevisionsförordningen (2006:1228).
+
+## Avgifter
+
+### 13 §
+
+Myndigheten ska ta ut avgifter för
+
+1. tillhandahållande av läkemedelsstatistik och system för analys av sådan statistik enligt 2 § 5 och 6,
+
+2. tillgången till de register som avses i 2 § 7 och 9, och
+
+3. sådana tjänster och uppdrag som avses i 4-7 §§.
+
+Bestämmelser om myndighetens rätt att ta ut avgifter finns även i förordningen (2010:1167) om avgifter för den statliga kontrollen av läkemedel. *Förordning (2019:272)*.
+
+### 14 §
+
+Myndigheten ska besluta om storleken på de avgifter som avses i 13 § första stycket och disponera avgiftsinkomsterna. *Förordning (2017:297)*.
+
+### 15 §
+
+Myndigheten ska disponera inkomsterna från avgifter som myndigheten tar ut med stöd av 8 kap. 2 a § lagen (2009:366) om handel med läkemedel och 4 kap. 6 § förordningen (2010:1167) om avgifter för den statliga kontrollen av läkemedel. *Förordning (2017:297)*.
+
+## Särskild redovisning
+
+### 16 §
+
+Grunderna för hur myndigheten har beräknat storleken på avgifterna enligt 10 kap. 1 § lagen (2018:1212) om nationell läkemedelslista ska redovisas särskilt i årsredovisningen.
+
+*Förordning (2021:70)*.

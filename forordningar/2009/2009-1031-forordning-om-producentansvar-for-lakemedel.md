@@ -1,0 +1,81 @@
+---
+title: "Förordning (2009:1031) om producentansvar för läkemedel"
+identifier: "SFS 2009:1031"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-10-29
+amended_through: "SFS 2026:701"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-1031.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:1031"
+retrieved: 2026-10-11
+---
+# Förordning (2009:1031) om producentansvar för läkemedel
+
+## 1 §
+
+Denna förordning är meddelad med stöd av
+
+- 15 kap. 14 § miljöbalken i fråga om 6 §,
+
+- 15 kap. 32 § miljöbalken i fråga om 3-5 §§,
+
+- 15 kap. 33 § miljöbalken i fråga om 3 och 8 §§, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2026:701)*.
+
+## 2 §
+
+I denna förordning avses med
+
+avfall: detsamma som i 15 kap. 4 § miljöbalken,
+
+farligt avfall: detsamma som i 1 kap. 4 § avfallsförordningen (2020:614),
+
+läkemedel: detsamma som i 2 kap. 1 § läkemedelslagen (2015:315),
+
+producent: den som bedriver detaljhandel med läkemedel med tillstånd enligt 2 kap. 1 § lagen (2009:366) om handel med läkemedel. *Förordning (2026:701)*.
+
+## 3 §
+
+Det som i denna förordning sägs om läkemedel ska även gälla en vara eller varugrupp för vilken det med stöd av 18 kap. 2 § läkemedelslagen (2015:315) har föreskrivits att läkemedelslagen helt eller delvis ska gälla.
+
+*Förordning (2015:464)*.
+
+## 4 §
+
+En producent ska utan ersättning ta hand om avfall som
+
+1. utgörs av läkemedel,
+
+2. uppkommit hos hushåll, och
+
+3. lämnas av allmänheten till producenten.
+
+Skyldigheten enligt första stycket gäller inte farligt avfall.
+
+## 5 §
+
+En producent ska fullgöra sin skyldighet enligt 4 § genom att ta emot avfallet på de försäljningsställen, med undantag för apoteksombud, som omfattas av producentens verksamhet.
+
+Skyldigheten att ta hand om avfall enligt första stycket gäller endast en sådan mängd läkemedel som står i rimlig proportion till den mängd läkemedel som producenten tillhandahåller. *Förordning (2018:1111)*.
+
+## 6 §
+
+Bestämmelser om att kommunen ska ansvara för att transportera och behandla avfall finns i 15 kap. 12 och 13 §§ miljöbalken. Detta ansvar inskränks av bestämmelserna i denna förordning endast i fråga om avfall som med stöd av förordningen lämnas till en ansvarig producent.
+
+*Förordning (2026:701)*.
+
+## 7 §
+
+En bestämmelse om att den som innehar avfall ska se till att avfallet hanteras på ett hälso- och miljömässigt godtagbart sätt finns i 15 kap. 10 § miljöbalken.
+
+*Förordning (2026:701)*.
+
+## 8 §
+
+En producent ska informera dem som köper läkemedel av producenten om möjligheten att lämna avfall som utgörs av läkemedel till producenten och om varför avfallet bör hanteras på särskilt sätt.

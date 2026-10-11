@@ -1,0 +1,195 @@
+---
+title: "Förordning (2012:517) om statsbidrag till kulturella ändamål"
+identifier: "SFS 2012:517"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2012-06-28
+amended_through: "SFS 2025:916"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-517.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:517"
+retrieved: 2026-10-11
+---
+# Förordning (2012:517) om statsbidrag till kulturella ändamål
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning innehåller föreskrifter om statsbidrag till kulturella ändamål.
+
+Statsbidrag enligt förordningen lämnas i mån av tillgång på medel.
+
+#### 1 a §
+
+Statsbidrag enligt denna förordning får endast lämnas i enlighet med de villkor som anges i kapitel I och artikel 53 i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget.
+
+*Förordning (2021:1319)*.
+
+### Ändamålet med statsbidraget
+
+#### 2 §
+
+Ändamålet med statsbidraget är att främja ett kulturutbud av hög kvalitet som bidrar till att uppfylla de nationella kulturpolitiska målen.
+
+### Förutsättningar för statsbidrag
+
+#### 3 §
+
+Statsbidrag enligt denna förordning får lämnas till
+
+1. kulturverksamhet som bedrivs i Sverige,
+
+2. en aktör verksam i Sverige som deltar i internationell eller interkulturell kulturverksamhet, och
+
+3. internationell kulturverksamhet som bedrivs av en samisk organisation.
+
+Med internationell kulturverksamhet avses verksamhet som berör Sverige och minst ett annat land. Med interkulturell kulturverksamhet avses verksamhet som främjar etnisk och kulturell mångfald i Sverige.
+
+#### 4 §
+
+Statsbidrag får lämnas i form av verksamhetsbidrag eller projektbidrag.
+
+#### 5 §
+
+Statsbidrag får lämnas endast till juridiska personer och enskilda näringsidkare.
+
+#### 6 §
+
+Statsbidrag får lämnas till
+
+1. verksamhet av professionell art, och
+
+2. amatörkulturell verksamhet och nationella minoriteters kulturverksamhet, om verksamheten är av nationell kulturpolitisk betydelse.
+
+#### 7 §
+
+Statsbidrag får lämnas endast till verksamhet som har även annan finansiering. Vid fördelning av bidrag ska hänsyn tas till om verksamheten redan beviljats annat statligt stöd.
+
+#### 8 §
+
+Statsbidrag får inte lämnas till den som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Statens kulturråd.
+
+*Förordning (2025:916)*.
+
+#### 8 a §
+
+Om uppgifter om ett stöd till ett företag ska offentliggöras enligt artikel 9 i kommissionens förordning (EU) nr 651/2014, får stödet endast beviljas om företaget samtycker till offentliggörandet. *Förordning (2021:1319)*.
+
+### Ärendenas handläggning
+
+#### 9 §
+
+Statens kulturråd prövar frågor om statsbidrag enligt denna förordning.
+
+#### 10 §
+
+Den som ansöker om statsbidrag ska på begäran av Statens kulturråd lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan.
+
+En ansökan om statsbidrag ska göras skriftligen av sökanden eller en behörig företrädare för sökanden. *Förordning (2025:916)*.
+
+#### 11 §
+
+Ett beslut om statsbidrag får förenas med villkor. Dessa ska framgå av beslutet. I beslutet ska även sista dag för redovisning enligt 12 § anges.
+
+### Anmälningsskyldighet
+
+#### 11 a §
+
+Den som ansöker om eller har beviljats statsbidrag enligt denna förordning ska snarast möjligt till Statens kulturråd anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget. *Förordning (2025:916)*.
+
+### Redovisning
+
+#### 12 §
+
+En bidragsmottagare ska senast vid den tidpunkt som anges i beslutet till Statens kulturråd lämna en ekonomisk redovisning av det mottagna bidraget samt en redogörelse för vad bidraget har använts till, vilka resultat som har uppnåtts och hur resultaten förhåller sig till det ändamål som bidraget beviljats för.
+
+Bidragsmottagaren ska även lämna de övriga uppgifter och handlingar som myndigheten begär för granskningen av redovisningen. *Förordning (2025:916)*.
+
+#### 12 a §
+
+Statens kulturråd får i beslutet om statsbidrag föreskriva att en revisor ska granska den ekonomiska redovisningen enligt 12 §. Revisorns rapport över granskningen ska bifogas redovisningen.
+
+Om det statsbidrag som har tagits emot uppgår till minst 5 prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, ska alltid en auktoriserad eller godkänd revisor granska redovisningen. *Förordning (2025:916)*.
+
+### Hinder mot utbetalning
+
+#### 12 b §
+
+Statsbidrag får inte betalas ut till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarar ett stöd beviljat av en svensk stödgivare olagligt och oförenligt med den inre marknaden. *Förordning (2025:916)*.
+
+#### 13 §
+
+Statens kulturråd ska besluta om att ett beviljat statsbidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 14 §. Ett sådant beslut gäller omedelbart. *Förordning (2025:916)*.
+
+### Återbetalning och återkrav
+
+#### 14 §
+
+Mottagaren av ett statsbidrag enligt denna förordning är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget inte har utnyttjats eller använts för det ändamål som det har beviljats för,
+
+4. den som har tagit emot bidraget inte lämnar en sådan redovisning eller sådana uppgifter och handlingar som avses i 12 §, eller
+
+5. villkor i beslutet om bidrag inte har följts.
+
+*Förordning (2025:916)*.
+
+#### 15 §
+
+Om någon är återbetalningsskyldig enligt 14 §, ska Statens kulturråd besluta att helt eller delvis kräva tillbaka statsbidraget.
+
+#### 16 §
+
+Om ett belopp som har återkrävts med stöd av 15 § inte betalas i rätt tid, ska dröjsmålsränta enligt räntelagen (1975:635) tas ut på beloppet.
+
+#### 17 §
+
+Om det finns särskilda skäl, får Statens kulturråd helt eller delvis efterge ett krav på återbetalning enligt 15 § eller ett krav på ränta enligt 16 §.
+
+### Offentliggörande, rapportering och registerföring
+
+#### 17 a §
+
+I 12 a § lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och i förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler finns bestämmelser om offentliggörande, rapportering och registerföring. *Förordning (2021:1319)*.
+
+### Bemyndigande
+
+#### 18 §
+
+Statens kulturråd får meddela föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 19 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om hinder mot utbetalning enligt 12 b och 13 §§ och beslut om återkrav enligt 15 § får dock inte överklagas.
+
+*Förordning (2025:916)*.
+
+## Övergångsbestämmelser
+
+**2013:517**
+
+1. Denna förordning träder i kraft den 1 januari 2013, då förordningen (1984:326) om statsbidrag till kulturella ändamål och förordningen (2008:556) om statsbidrag till internationell och interkulturell kulturverksamhet ska upphöra att gälla.
+
+2. De upphävda förordningarna gäller dock fortfarande för statsbidrag som har beviljats före den 1 januari 2013.
+
+**2025:916**
+
+1. Denna förordning träder i kraft den 18 november 2025.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.

@@ -1,0 +1,28 @@
+---
+title: "Kungörelse (1918:372) angående utläggande av statsgruvefält vid Liikavaara i Norrbottens län"
+identifier: "SFS 1918:372"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1918-06-11
+department: "Industridepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1918-372.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1918:372"
+retrieved: 2026-10-11
+---
+# Kungörelse (1918:372) angående utläggande av statsgruvefält vid Liikavaara i Norrbottens län
+
+> Kartan inte med här.
+
+Vi GUSTAF, med Guds nåde, Sveriges, Götes och Vendes Konung, göra veterligt: att, sedan riksdagen bifallit vad Vi föreslagit i fråga om utläggande av statsgruvefält vid Liikavaara i Norrbottens län, Vi funnit gott, i överensstämmelse med riksdagens omförmälda beslut, förordna, att nedan upptagna område med de gränser, som angivas här nedan och finnas utmärkta å bilagda karta, skall, i den mån marken därinom utgöres av annan kronojord än sådan, som innehaves under ständig besittningsrätt eller är anslagen till boställe, utläggas såsom statsgruvefält under benämningen
+
+## Liikavaara statsgruvefält med följande gränser:
+
+i öster till Sjungbergets (Juoikams) och Muorjevare byområden samt till en linje, dragen mellan dessa områdens respektive nordöstra och sydöstra hörn;
+
+i norr till förlängningen åt väster åt Muorjevare byområdes nordvästra rågång fram till den punkt, där denna linje träffar den mellan Nautanen och Lina älv flytande bäcken Huivijoki;
+
+i väster till den från denna punkt dragen linje, som går över bron över Huivijoki å landsvägen Gällivare-Vittangi och fortsätter ned till Lina älv;
+
+samt i söder till denna älv nedåt till nordöstra hörnet av Liikavaara byområde och till en härifrån utgående linje, som går vinkelrät mot nordöstra rågången för Sjungbergets byområde, samt slutligen från den punkt, där denna vinkelräta linje träffar förlängningen av nyssnämnda rågång, efter denna förlängning till sydöstra hörnet av Sjungbergets byområde.

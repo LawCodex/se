@@ -1,0 +1,47 @@
+---
+title: "Förordning (2006:344) om Försvarsmaktens stöd till polisen vid terrorismbekämpning"
+identifier: "SFS 2006:344"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-05-18
+amended_through: "SFS 2014:1171"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-344.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:344"
+retrieved: 2026-10-11
+---
+# Förordning (2006:344) om Försvarsmaktens stöd till polisen vid terrorismbekämpning
+
+Regeringen föreskriver följande.
+
+## 1 §
+
+Denna förordning innehåller föreskrifter som ansluter till lagen (2006:343) om Försvarsmaktens stöd till polisen vid terrorismbekämpning.
+
+## 2 §
+
+Rikspolischefen och chefen för Nationella operativa avdelningen vid Polismyndigheten samt säkerhetspolischefen och biträdande säkerhetspolischefen är för respektive myndighets räkning behöriga att begära Försvarsmaktens stöd enligt lagen (2006:343) om Försvarsmaktens stöd till polisen vid terrorismbekämpning.
+
+En begäran om att Försvarsmakten ska lämna stöd till polisen ska göras till Högkvarteret. Ett beslut om stöd ska fattas av överbefälhavaren eller av den inom Högkvarteret som överbefälhavaren har utsett till beslutsfattare.
+
+*Förordning (2014:1171)*.
+
+## 3 §
+
+För att förbereda stöd till polisen får Försvarsmakten på framställning av Polismyndigheten eller Säkerhetspolisen delta i övningar med respektive myndighet.
+
+*Förordning (2014:1171)*.
+
+## 4 §
+
+Försvarsmakten skall ta ut avgifter för de merkostnader som uppstår när stöd ges till polisen. Polisen och Försvarsmakten skall stå för sina egna kostnader för utbildning och övning.
+
+## 5 §
+
+Polismyndigheten får, i samråd med Säkerhetspolisen och efter att ha hört Försvarsmakten, meddela föreskrifter om den tjänsteställning och de kvalifikationer i övrigt som krävs för att den som tillhör Försvarsmaktens personal ska ha de befogenheter som en polisman har enligt polislagen (1984:387) när han eller hon deltar i en stödinsats som sker med stöd av lagen (2006:343) om Försvarsmaktens stöd till polisen vid terrorismbekämpning. *Förordning (2014:1171)*.
+
+## 6 §
+
+Polismyndigheten får, i samråd med Säkerhetspolisen och efter att ha hört Försvarsmakten, meddela föreskrifter om verkställigheten av lagen (2006:343) om Försvarsmaktens stöd till polisen vid terrorismbekämpning och om verkställigheten av denna förordning. *Förordning (2014:1171)*.

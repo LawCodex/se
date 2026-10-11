@@ -1,0 +1,55 @@
+---
+title: "Förordning (2011:1526) om tillämpning av vissa bestämmelser om rätten att behålla sjukpenning i särskilda fall, rehabiliteringspenning i särskilda fall och boendetillägg"
+identifier: "SFS 2011:1526"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-12-15
+amended_through: "SFS 2022:1247"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-1526.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:1526"
+retrieved: 2026-10-11
+---
+# Förordning (2011:1526) om tillämpning av vissa bestämmelser om rätten att behålla sjukpenning i särskilda fall, rehabiliteringspenning i särskilda fall och boendetillägg
+
+### 1 §
+
+En försäkrad som är arbetslös ska anses stå till arbetsmarknadens förfogande enligt 28 a kap. 18 § första stycket 3, 31 a kap. 13 § första stycket 3 eller 103 c kap. 9 § första stycket 3 socialförsäkringsbalken när han eller hon
+
+1. är anmäld som arbetssökande hos den offentliga arbetsförmedlingen,
+
+2. är beredd att anta erbjudet arbete i en omfattning som svarar mot minst en fjärdedel av ett heltidsarbete, och
+
+3. aktivt söker sådant arbete som avses i 2.
+
+Med heltidsarbete i första stycket 2 avses ett arbete om 40 timmar per vecka. *Förordning (2015:121)*.
+
+### 2 §
+
+En försäkrad som deltar i ett arbetsmarknadspolitiskt program men inte får aktivitetsstöd på grund av att han eller hon är avstängd från rätt till sådan ersättning enligt förordningen (2017:819) om ersättning till deltagare i arbetsmarknadspolitiska insatser behåller sin rätt till sjukpenning i särskilda fall enligt 28 a kap. 18 § första stycket 3 socialförsäkringsbalken, rehabiliteringspenning i särskilda fall enligt 31 a kap. 13 § första stycket 3 socialförsäkringsbalken och boendetillägg enligt 103 c kap. 9 § första stycket 3 socialförsäkringsbalken när han eller hon enligt den förordningen
+
+1. inte medverkat till att upprätta en individuell handlingsplan, inte lämnat en aktivitetsrapport till Arbetsförmedlingen inom utsatt tid eller inte besökt eller tagit kontakt med Arbetsförmedlingen eller en leverantör som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen vid en överenskommen eller på annat sätt bestämd tidpunkt,
+
+2. vid ett tillfälle avvisat någon insats, aktivitet eller annan arbetsmarknadspolitisk åtgärd inom programmet, eller
+
+3. utan giltig anledning lämnat sitt arbete eller på grund av otillbörligt uppträdande skilts från sitt arbete.
+
+En försäkrad behåller sin rätt till sjukpenning i särskilda fall, rehabiliteringspenning i särskilda fall och boendetillägg även när han eller hon utan att vara avstängd från rätt till aktivitetsstöd inte får sådan ersättning.
+
+*Förordning (2022:1247)*.
+
+## Övergångsbestämmelser
+
+**2015:121**
+
+1. Denna förordning träder i kraft den 1 april 2015
+
+2. Den nya bestämmelsen ska dock tillämpas för tid från och med den 1 mars 2015.
+
+**2017:834**
+
+1. Denna förordning träder i kraft den 1 januari 2018.
+
+2. För en försäkrad som är avstängd från sin rätt till aktivitetsstöd enligt den upphävda förordningen (1996:1100) om aktivitetsstöd gäller 2 § i den äldre lydelsen.

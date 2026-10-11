@@ -1,0 +1,28 @@
+---
+title: "Lag (2016:1057) med kompletterande bestämmelser till EU:s förordning om europeiska politiska partier och europeiska politiska stiftelser"
+identifier: "SFS 2016:1057"
+type: act
+jurisdiction: se
+language: sv
+date: 2016-11-24
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-1057.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:1057"
+retrieved: 2026-10-11
+---
+# Lag (2016:1057) med kompletterande bestämmelser till EU:s förordning om europeiska politiska partier och europeiska politiska stiftelser
+
+## 1 §
+
+Denna lag kompletterar Europaparlamentets och rådets förordning (EU, Euratom) nr 1141/2014 av den 22 oktober 2014 om stadgar för och finansiering av europeiska politiska partier och europeiska politiska stiftelser (EUPP-förordningen).
+
+## 2 §
+
+Ett europeiskt politiskt parti och en europeisk politisk stiftelse ska jämställas med en ideell förening. Om något annat följer av EUPP-förordningen eller är särskilt föreskrivet, gäller dock det.
+
+## 3 §
+
+Särskilda bestämmelser om europeiska politiska partier och europeiska politiska stiftelser finns i bokföringslagen (1999:1078) och revisionslagen (1999:1079).
+
+Bestämmelserna i 2 kap. 2 § bokföringslagen ska inte tillämpas på europeiska politiska partier eller europeiska politiska stiftelser.

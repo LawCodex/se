@@ -1,0 +1,79 @@
+---
+title: "Förordning (2011:776) om elektroniska pengar"
+identifier: "SFS 2011:776"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-06-09
+amended_through: "SFS 2025:200"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-776.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:776"
+retrieved: 2026-10-11
+---
+# Förordning (2011:776) om elektroniska pengar
+
+### 1 §
+
+Denna förordning innehåller bestämmelser som ansluter till lagen (2011:755) om elektroniska pengar.
+
+Registerfrågor
+
+### 2 §
+
+Finansinspektionen är personuppgiftsansvarig för det register som förs enligt 5 kap. 5 § lagen (2011:755) om elektroniska pengar. *Förordning (2018:341)*.
+
+### 3 §
+
+Har upphävts genom *förordning (2018:341)*.
+
+### 4 §
+
+I registret registreras uppgifter för varje institut för elektroniska pengar, registrerad utgivare, ombud och filial. Utöver vad som följer av 5 kap. 5 § lagen (2011:755) om elektroniska pengar ska registret innehålla uppgift om namn eller företagsnamn och om personnummer, samordningsnummer eller organisationsnummer.
+
+*Förordning (2018:1843)*.
+
+### 5 §
+
+Finansinspektionen ska anteckna i registret när myndigheten har fattat beslut om föreläggande att upphöra med verksamheten.
+
+## Bemyndigande
+
+### 6 §
+
+Finansinspektionen får i fråga om lagen (2011:755) om elektroniska pengar meddela föreskrifter om
+
+1. beräkningen av genomsnittligt utestående skulder enligt 2 kap. 3 § 5,
+
+2. vad som utgör tillräckliga styr- och kontrollformer vid prövning av en ansökan enligt 2 kap. 6 § första stycket 2 a,
+
+3. beräkningen av kapitalkrav enligt 3 kap. 2 § första stycket,
+
+4. hur institut för elektroniska pengar och registrerade utgivare ska hantera medel enligt 3 kap. 6 §,
+
+5. hur institut för elektroniska pengar och registrerade utgivare ska hantera medel enligt 3 kap. 7 § andra stycket, som tagits emot i utbyte mot utgivna elektroniska pengar, och andra medel som tagits emot för genomförandet av betalningstransaktioner och hur stor andel av medlen hos instituten eller utgivarna som omfattas av skyddskraven enligt 3 kap. 7 § tredje och fjärde styckena,
+
+6. vilka uppgifter som institut för elektroniska pengar och registrerade utgivare ska ge till Finansinspektionen enligt 3 kap. 8 §,
+
+7. vilka uppgifter som ska anses relevanta enligt 3 kap. 9 §,
+
+8. vad institut för elektroniska pengar och registrerade utgivare ska iaktta och vilka krav institutet eller utgivaren ska uppfylla vid uppdragsavtal enligt 3 kap. 29 §,
+
+9. vilka upplysningar ett företag ska lämna till Finansinspektionen enligt 5 kap. 2 § och när upplysningarna ska lämnas,
+
+10. att vissa uppgifter som enligt 5 kap. 2 § ska lämnas till Finansinspektionen i stället ska lämnas till Statistiska centralbyrån,
+
+11. vilka uppgifter, utöver vad som anges i lagen, en ansökan om tillstånd eller om undantag från tillstånd ska innehålla samt vilka handlingar som samtidigt ska lämnas in till Finansinspektionen, och
+
+12. hur institut för elektroniska pengar och registrerade utgivare ska fullgöra sina skyldigheter i fråga om anmälningar och underrättelser enligt 2 och 3 kap.
+
+*Förordning (2018:169)*.
+
+### 7 §
+
+Innan Finansinspektionen meddelar föreskrifter med stöd av 6 § 10, ska inspektionen ge Riksbanken och Statistiska centralbyrån tillfälle att yttra sig. *Förordning (2014:505)*.
+
+### 8 §
+
+Polismyndigheten får meddela föreskrifter om hur uppgifter enligt 3 kap. 13 a § första stycket och 14 § lagen (2011:755) om elektroniska pengar ska lämnas. *Förordning (2025:200)*.

@@ -1,0 +1,39 @@
+---
+title: "Lag (2020:537) om restriktioner vid en riksrevisors och en riksrevisionsdirektörs övergång till annan verksamhet"
+identifier: "SFS 2020:537"
+type: act
+jurisdiction: se
+language: sv
+date: 2020-06-17
+amended_through: "SFS 2020:778"
+department: "Justitiedepartementet L6"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-537.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:537"
+retrieved: 2026-10-11
+---
+# Lag (2020:537) om restriktioner vid en riksrevisors och en riksrevisionsdirektörs övergång till annan verksamhet
+
+### 1 §
+
+Denna lag gäller för personer som innehar eller har avslutat ett uppdrag som riksrevisor eller riksrevisionsdirektör. Vad som i denna lag sägs om riksrevisorn gäller även en tillförordnad riksrevisor.
+
+### 2 §
+
+Bestämmelserna i 2-7, 8 § första stycket, 9, 11 och 12 §§ lagen (2018:676) om restriktioner vid statsråds och statssekreterares övergång till annan än statlig verksamhet ska tillämpas för en riksrevisor och en riksrevisionsdirektör. Vad som föreskrivs i 3-5 och 9 §§ den lagen ska då gälla även i fråga om ett nytt uppdrag eller en ny anställning i statlig verksamhet.
+
+### 3 §
+
+Om Nämnden för prövning av statsråds och vissa andra befattningshavares övergångsrestriktioner meddelar en tidigare riksrevisor eller en tidigare riksrevisionsdirektör en övergångsrestriktion ska nämnden även besluta om ersättning enligt andra och tredje styckena.
+
+En tidigare riksrevisor eller en tidigare riksrevisionsdirektör som inte har rätt till inkomstgaranti eller avgångsvederlag har rätt till ersättning under den tid som en övergångsrestriktion gäller, om personen till följd av restriktionen inte kan tillträda det nya uppdraget eller den nya anställningen eller etablera näringsverksamhet under denna tid.
+
+Ersättningens storlek ska motsvara det belopp som personen fick i lön vid avgången. Ersättningen ska minskas i enlighet med vad som gäller för en riksrevisors eller en riksrevisionsdirektörs avgångsvederlag. *Lag (2020:778)*.
+
+## Övergångsbestämmelser
+
+**2020:537**
+
+1. Denna lag träder i kraft den 1 augusti 2020.
+
+2. Lagen tillämpas även på den som är riksrevisor eller riksrevisionsdirektör när lagen träder i kraft.

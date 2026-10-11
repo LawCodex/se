@@ -1,0 +1,69 @@
+---
+title: "Förordning (2017:153) med instruktion för Bokföringsnämnden"
+identifier: "SFS 2017:153"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-02-23
+amended_through: "SFS 2022:566"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-153.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:153"
+retrieved: 2026-10-11
+---
+# Förordning (2017:153) med instruktion för Bokföringsnämnden
+
+## Uppgifter
+
+### 1 §
+
+Bokföringsnämnden är statens expertorgan på redovisningsområdet.
+
+### 2 §
+
+Bokföringsnämnden ska utveckla och främja god redovisningssed i företagens bokföring och offentliga redovisning.
+
+### 3 §
+
+Bokföringsnämnden ska utarbeta allmänna råd inom sitt ansvarsområde.
+
+### 4 §
+
+Bokföringsnämnden ska verka för att regelverket på redovisningsområdet är enkelt och anpassat för dem som upprättar och använder redovisningen.
+
+### 5 §
+
+Bokföringsnämnden ska följa utvecklingen inom redovisningsområdet och särskilt beakta nya nationella och internationella förhållanden som har eller kan få betydelse för utvecklingen av god redovisningssed.
+
+## Ledning
+
+### 6 §
+
+Myndigheten leds av en nämnd.
+
+### 7 §
+
+Nämnden ska bestå av högst elva ledamöter.
+
+## Organisation
+
+### 8 §
+
+Vid nämnden ska det finnas ett kansli.
+
+### 9 §
+
+Finansinspektionen upplåter lokaler samt utför administrativa uppgifter åt Bokföringsnämnden enligt överenskommelse mellan myndigheterna.
+
+## Tillämpligheten av vissa förordningar
+
+### 10 §
+
+Bokföringsnämnden ska inte tillämpa 2 och 3 kap. kapitalförsörjningsförordningen (2011:210).
+
+*Förordning (2022:566)*.
+
+### 11 §
+
+Bokföringsnämnden ska inte tillämpa 27 § myndighetsförordningen (2007:515).

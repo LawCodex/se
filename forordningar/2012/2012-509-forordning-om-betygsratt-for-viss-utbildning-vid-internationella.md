@@ -1,0 +1,77 @@
+---
+title: "Förordning (2012:509) om betygsrätt för viss utbildning vid internationella skolor"
+identifier: "SFS 2012:509"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2012-06-28
+amended_through: "SFS 2024:1039"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-509.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:509"
+retrieved: 2026-10-11
+---
+# Förordning (2012:509) om betygsrätt för viss utbildning vid internationella skolor
+
+### 1 §
+
+Statens skolinspektion får efter ansökan besluta om tillstånd för sådana enskilda huvudmän för internationella skolor som avses i 2 § att sätta betyg, anordna prövning samt utfärda betyg, gymnasieexamen och intyg enligt de bestämmelser som gäller för gymnasieskolan om de villkor som anges i 3 § är uppfyllda.
+
+### 2 §
+
+Ett tillstånd enligt förordningen får avse en huvudman för en internationell skola som
+
+1. har förklarats berättigad till bidrag enligt 24 kap. 6 § skollagen (2010:800), och
+
+2. ger en utbildning som följer ett annat lands läroplan och kursplaner. *Förordning (2015:804)*.
+
+### 3 §
+
+Tillstånd får lämnas om huvudmannen
+
+1. anger vilket eller vilka nationella program som ansökan om att utfärda gymnasieexamen avser,
+
+2. visar vilka delar i utbildningen som är likvärdiga med den nivå i det ämne eller det gymnasiearbete som ett betyg avser och hur utbildningen uppfyller kraven för gymnasieexamen, och
+
+3. även i övrigt visar att utbildningen utformats så att betygen blir likvärdiga med betyg satta i gymnasieskolan.
+
+Vid bedömning av om huvudmannen uppfyller kraven enligt första stycket 2 och 3 får utökad undervisning i förhållande till den utländska läroplanen och kursplanen beaktas.
+
+Som stöd för bedömningen enligt denna paragraf ska Statens skolinspektion inhämta yttrande från Statens skolverk.
+
+*Förordning (2024:1039)*.
+
+### 4 §
+
+En huvudman som har fått tillstånd ska
+
+1. använda nationella prov i den utsträckning som är föreskriven för gymnasieskolan, och
+
+2. föra betygskatalog och utfärda utdrag ur denna enligt 8 kap. 8 och 9 §§ gymnasieförordningen (2010:2039).
+
+### 5 §
+
+Statens skolinspektion ska besluta att återkalla tillståndet om
+
+1. förutsättningarna för tillståndet inte längre är uppfyllda, eller
+
+2. huvudmannen inte följer vad som föreskrivs i 4 §.
+
+### 6 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:1073)*.
+
+## Övergångsbestämmelser
+
+**2012:509**
+
+Denna förordning träder i kraft den 15 augusti 2012 och tillämpas på utbildning som påbörjas därefter.
+
+**2024:1039**
+
+1. Denna förordning träder i kraft den 20 december 2024.
+
+2. Förordningen tillämpas första gången i fråga om utbildning som påbörjas efter den 30 juni 2025.

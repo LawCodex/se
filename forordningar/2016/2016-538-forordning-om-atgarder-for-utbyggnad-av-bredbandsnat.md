@@ -1,0 +1,43 @@
+---
+title: "Förordning (2016:538) om åtgärder för utbyggnad av bredbandsnät"
+identifier: "SFS 2016:538"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-05-26
+amended_through: "SFS 2022:519"
+department: "Finansdepartementet DIS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-538.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:538"
+retrieved: 2026-10-11
+---
+# Förordning (2016:538) om åtgärder för utbyggnad av bredbandsnät
+
+## 1 §
+
+I denna förordning finns kompletterande bestämmelser till lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät.
+
+## 2 §
+
+Termer som används i denna förordning har samma betydelse som i lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät.
+
+## 3 §
+
+Post- och telestyrelsen är tvistlösningsmyndighet och tillsynsmyndighet enligt 1 kap. 5 § lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät.
+
+## 4 §
+
+När Post- och telestyrelsen prövar tvister enligt 2 kap. 1 § lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät ska myndigheten, om nätinnehavaren är en tillhandahållare av ett allmänt kommunikationsnät och det är lämpligt, ta hänsyn till målen i 1 kap. 1 § lagen (2022:482) om elektronisk kommunikation. *Förordning (2022:519)*.
+
+## 5 §
+
+När Post- och telestyrelsen prövar tvister eller utövar tillsyn enligt lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät ska myndigheten vid behov höra andra myndigheter som har särskild kunskap om en viss typ av infrastruktur.
+
+## 6 §
+
+Post- och telestyrelsen ansvarar för informationstjänsten för utbyggnad av bredbandsnät enligt 4 kap. 1 § lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät.
+
+## 7 §
+
+Post- och telestyrelsen får meddela föreskrifter om verkställigheten av lagen (2016:534) om åtgärder för utbyggnad av bredbandsnät.

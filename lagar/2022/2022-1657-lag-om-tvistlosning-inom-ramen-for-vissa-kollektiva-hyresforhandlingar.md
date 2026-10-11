@@ -1,0 +1,97 @@
+---
+title: "Lag (2022:1657) om tvistlösning inom ramen för vissa kollektiva hyresförhandlingar"
+identifier: "SFS 2022:1657"
+type: act
+jurisdiction: se
+language: sv
+date: 2022-12-01
+amended_through: "SFS 2025:1265"
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-1657.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:1657"
+retrieved: 2026-10-11
+---
+# Lag (2022:1657) om tvistlösning inom ramen för vissa kollektiva hyresförhandlingar
+
+## Lagens innehåll
+
+### 1 §
+
+I denna lag finns bestämmelser om förfarandet vid sådana hyrestvister mellan parterna i en förhandlingsordning för vilka hyresnämnden har utsett en särskild skiljeman enligt 23 a § hyresförhandlingslagen (1978:304).
+
+## Förfarandet
+
+### 2 §
+
+Skiljemannen ska handlägga tvisten opartiskt, ändamålsenligt och snabbt.
+
+### 3 §
+
+En part ska till skiljemannen ange sina yrkanden. Parten ska också ange de omständigheter och den utredning som åberopas.
+
+En parts skriftliga utredning ska lämnas till skiljemannen.
+
+### 4 §
+
+En part ska få del av det material som den andra parten har lämnat till skiljemannen och ges tillfälle att yttra sig över det i den omfattning som det behövs.
+
+### 5 §
+
+Ett sammanträde ska hållas om det behövs.
+
+### 6 §
+
+Om parterna begär det ska skiljemannen medla mellan dem.
+
+### 7 §
+
+Om en skiljeman handlägger två eller flera tvister som avser samma ort, får tvisterna handläggas tillsammans om det begärs av en part och är lämpligt med hänsyn till de omständigheter och den utredning som parterna har åberopat.
+
+### 8 §
+
+Om parterna begär det ska skiljemannen anlita en ekonomisk expert att biträda honom eller henne. Skiljemannen får även i annat fall anlita en sådan expert, om det kan antas vara till fördel för prövningen.
+
+## Prövningen av en tvist
+
+### 9 §
+
+Skiljemannen avgör tvisten genom en skriftlig rekommendation.
+
+Rekommendationen ska lämnas till parterna
+
+1. senast sex veckor efter det att hyresnämnden utsåg skiljemannen i fall som avses i 23 a § första stycket 1 eller 3 hyresförhandlingslagen (1978:304), eller
+
+2. senast tio veckor efter det att hyresnämnden utsåg skiljemannen i fall som avses i 23 a § första stycket 2 hyresförhandlingslagen.
+
+Om det finns särskilda skäl, får en rekommendation lämnas senare. *Lag (2025:1265)*.
+
+### 10 §
+
+Skiljemannen ska pröva tvisten utifrån de yrkanden som parterna har framställt och de omständigheter som de har åberopat.
+
+Om parterna är överens om vilka omständigheter som ska ha betydelse för ändring av hyresnivån, ska skiljemannen pröva tvisten med utgångspunkt i dessa.
+
+### 10 a §
+
+Om parterna tvistar om hyran i en förhandlingsöverenskommelse enligt 19 a § hyresförhandlingslagen (1978:304) ska skiljemannen, om inte parterna kommit överens om något annat, rekommendera en hyra som ger kostnadstäckning och skälig avkastning.
+
+*Lag (2025:1265)*.
+
+## Skyldighet att ingå en förhandlingsöverenskommelse
+
+### 11 §
+
+Parterna ska, om de inte har avtalat om något annat, omsätta en rekommendation i en förhandlingsöverenskommelse enligt 19, 19 a eller 19 b § hyresförhandlingslagen (1978:304) inom två veckor från det att rekommendationen meddelades.
+
+En part som inte medverkar till att en rekommendation omsätts i en förhandlingsöverenskommelse är skyldig att ersätta motparten för den skada som uppstår till följd av detta, om parterna inte har avtalat om något annat. *Lag (2025:1265)*.
+
+## Kostnader
+
+### 12 §
+
+Skiljemannen har rätt till skälig ersättning för arbete och utlägg.
+
+Hyresvärden, eller hyresvärden och fastighetsägarorganisationen om även den är part, och hyresgästorganisationen ska betala hälften vardera av skiljemannens ersättning, om parterna inte har avtalat om en annan fördelning. I förhållande till skiljemannen svarar parterna solidariskt för ersättningen.
+
+Parterna ska stå för sina egna kostnader, om de inte har avtalat om något annat.

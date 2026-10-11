@@ -1,0 +1,279 @@
+---
+title: "Lag (2009:128) om yrkeshögskolan"
+identifier: "SFS 2009:128"
+type: act
+jurisdiction: se
+language: sv
+date: 2009-03-05
+amended_through: "SFS 2026:572"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-128.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:128"
+retrieved: 2026-10-11
+---
+# Lag (2009:128) om yrkeshögskolan
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Bestämmelserna i denna lag syftar till att inom yrkeshögskolan - säkerställa att eftergymnasiala yrkesutbildningar som svarar mot arbetslivets behov kommer till stånd, - säkerställa att statens stöd för eftergymnasiala yrkesutbildningar fördelas effektivt, - säkerställa att eftergymnasiala yrkesutbildningar håller hög kvalitet, och - inom smala yrkesområden tillgodose behov av eftergymnasiala yrkesutbildningar som avses leda till förvärvsarbete för de studerande, eller till en ny nivå inom deras yrke.
+
+#### 2 §
+
+I lagen avses med
+
+- studerande: den som är antagen till och bedriver studier vid en utbildning som ingår i yrkeshögskolan,
+
+- uppdragsutbildning: utbildningsverksamhet som anordnas mot ersättning från uppdragsgivare som inte är en fysisk person och där uppdragsgivaren utser den som ska få delta i utbildningen,
+
+- utbildningsanordnare: den som har fått ett beslut enligt 7 § om att utbildningen ska ingå i yrkeshögskolan,
+
+- yrkeshögskolan: samtliga utbildningar som avses i 7 § och som inte är utbildningar enligt högskolelagen (1992:1434) eller kan leda fram till en examen enligt lagen (1993:792) om tillstånd att utfärda vissa examina, och
+
+- årsplats: en studerandeplats i heltidsutbildning som omfattar 40 veckor. *Lag (2026:571)*.
+
+#### 3 §
+
+Verksamheten inom yrkeshögskolan ska utformas i överensstämmelse med grundläggande demokratiska värderingar.
+
+Var och en som verkar inom yrkeshögskolan ska främja aktning för varje människas egenvärde samt respekt för de mänskliga rättigheterna och vår gemensamma miljö. Särskilt ska den som verkar inom yrkeshögskolan främja jämställdhet mellan könen och aktivt motverka alla former av kränkande behandling.
+
+### Utbildningen
+
+#### 4 §
+
+Utbildning inom yrkeshögskolan får anordnas av statliga universitet och högskolor, andra statliga myndigheter, kommuner, regioner och enskilda fysiska eller juridiska personer. Utbildningsanordnaren får anordna utbildningen i samverkan med andra. *Lag (2019:936)*.
+
+#### 5 §
+
+*/Upphör att gälla U:2027-04-01/* En utbildning inom yrkeshögskolan ska väsentligen bygga på de kunskaper som eleverna får på nationella program i gymnasieskolan eller motsvarande kunskaper. *Lag (2009:1040)*.
+
+#### 5 §
+
+*/Träder i kraft I:2027-04-01/* En utbildning inom yrkeshögskolan ska väsentligen bygga på de kunskaper som de studerande får
+
+1. på nationella program i gymnasieskolan eller motsvarande kunskaper, eller
+
+2. i eftergymnasial utbildning eller motsvarande kunskaper.
+
+*Lag (2026:572)*.
+
+#### 6 §
+
+Utbildningen ska
+
+1. svara mot behov av kvalificerad arbetskraft i arbetslivet som inte tillgodoses genom en utbildning enligt högskolelagen (1992:1434) eller en utbildning som kan leda fram till en examen enligt lagen (1993:792) om tillstånd att utfärda vissa examina, eller medverka till att utveckla eller bevara kvalificerat yrkeskunnande inom ett smalt yrkesområde som är av betydelse för individen och samhället,
+
+2. ha sin grund i kunskap som genererats dels i produktionen av varor och tjänster, dels i vetenskap och utformas så att en hög kvalitet och yrkesrelevans nås,
+
+3. ge sådana teoretiska, praktiska och erfarenhetsbaserade kunskaper som krävs för att självständigt och i arbetslag kunna utföra kvalificerade uppgifter i arbetslivet,
+
+4. präglas av såväl stark arbetslivsanknytning som teoretisk förankring,
+
+5. utvecklas och bedrivas i samverkan mellan arbetsliv och utbildningsanordnaren, och
+
+6. bidra till att bryta traditioner i fråga om könsbundna utbildnings- och yrkesval. *Lag (2026:571)*.
+
+#### 6 a §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om att en utbildning inom yrkeshögskolan får bedrivas som en behörighetsgivande förutbildning och om undantag från 5 och 6 §§ vid sådan utbildning. *Lag (2016:1183)*.
+
+#### 7 §
+
+Den myndighet som regeringen bestämmer beslutar, efter ansökan, om en utbildning ska ingå i yrkeshögskolan och hur många årsplatser utbildningen i så fall ska omfatta.
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela
+
+1. ytterligare föreskrifter om frågor som ska prövas med anledning av en ansökan om att en utbildning ska ingå i yrkeshögskolan, och
+
+2. ytterligare föreskrifter om antalet årsplatser.
+
+*Lag (2026:571)*.
+
+### Bidrag och avgifter
+
+#### 8 §
+
+Den myndighet som regeringen bestämmer beslutar, efter ansökan, om en anordnare av utbildning inom yrkeshögskolan ska få statsbidrag eller särskilda medel för utbildningen.
+
+*Lag (2026:571)*.
+
+#### 9 §
+
+Utbildning inom yrkeshögskolan, för vilken utbildningsanordnaren får statsbidrag eller särskilda medel enligt 8 §, ska vara avgiftsfri för de studerande. Enstaka inslag som de studerande får betala ett obetydligt belopp för får dock förekomma.
+
+Utbildningsanordnaren får vad gäller sådan utbildning bestämma att böcker och andra lärverktyg, som varje studerande har för eget bruk och får behålla som sin egendom, ska anskaffas av de studerande själva eller erbjudas mot avgifter som högst motsvarar utbildningsanordnarens anskaffningskostnader. Lärverktyg som används i utbildningen ska i övrigt tillhandahållas utan kostnad för de studerande.
+
+En myndighet får besluta att utbildningsanordnaren får ta ut studerandeavgifter för annan utbildning inom yrkeshögskolan än sådan som avses i första stycket. Avgifterna ska vara skäliga med hänsyn till de kostnader som anordnaren har, förutsatt att kostnaderna i sig kan anses rimliga för verksamheten. Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om vilken myndighet som prövar frågan. *Lag (2016:1183)*.
+
+### Uppdragsutbildning
+
+#### 10 §
+
+En anordnare av utbildning inom yrkeshögskolan får efter anmälan bedriva sådan utbildning även som uppdragsutbildning. Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om till vilken myndighet anmälan ska göras.
+
+*Lag (2016:1183)*.
+
+#### 11 §
+
+Regeringen får meddela föreskrifter om att en myndighet får ta ut avgifter av en sådan utbildningsanordnare som avses i 10 §.
+
+### Kompetens och förutsättningar hos utbildningsanordnaren
+
+#### 12 §
+
+Utbildningsanordnaren ska ha den kompetens och de förutsättningar som krävs för att anordna utbildning inom det yrkesområde som utbildningen avser. *Lag (2016:1183)*.
+
+#### 13 §
+
+De personer som anlitas av utbildningsanordnaren för undervisning eller handledning ska genom utbildning eller erfarenhet ha kompetens för den utbildning de ska bedriva. Utbildningsanordnaren ska se till att kompetensutveckling anordnas för dessa personer. *Lag (2016:1183)*.
+
+#### 13 a §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare föreskrifter om den kompetens och de förutsättningar som utbildningsanordnaren ska ha och den kompetens som de personer som anges i 13 § ska ha. *Lag (2026:571)*.
+
+### Ledningen av utbildningen
+
+#### 13 b §
+
+Utbildningsanordnaren ansvarar för att utbildningen genomförs i enlighet med bestämmelserna i denna lag och föreskrifter som har meddelats i anslutning till lagen.
+
+Utbildningsanordnaren ansvarar också för att ett systematiskt kvalitetsarbete bedrivs. *Lag (2026:571)*.
+
+#### 13 c §
+
+Det ska hos utbildningsanordnaren finnas en ledningsgrupp för utbildningen. Om en utbildningsanordnare är ansvarig för flera utbildningar, får ledningsgruppen vara gemensam för dessa. En ledningsgrupp för utbildningar som är av särskilt värde för individen och samhället inom ett eller flera smala yrkesområden får vara gemensam för flera utbildningsanordnare.
+
+Företrädare för de delar av arbetslivet som berörs av utbildningen ska ingå i ledningsgruppen.
+
+Ledningsgruppen ska bevaka att det systematiska kvalitetsarbetet leder till att utbildningen uppfyller kraven i 6 §. *Lag (2026:571)*.
+
+#### 13 d §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare föreskrifter om ledningsgruppens sammansättning och utbildningsanordnarens och ledningsgruppens uppgifter.
+
+*Lag (2026:571)*.
+
+### Examina, examensbevis och utbildningsbevis
+
+#### 14 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om
+
+1. vilka examina som får avläggas inom yrkeshögskolan,
+
+2. examensbevis och utbildningsbevis, och
+
+3. betygssättning. *Lag (2026:571)*.
+
+### Studerande
+
+#### 15 §
+
+En utbildning inom yrkeshögskolan ska vara öppen för alla som uppfyller behörighetsvillkoren för utbildningen.
+
+#### 16 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om ansökan och antagning till utbildningarna inom yrkeshögskolan. *Lag (2016:1183)*.
+
+#### 17 §
+
+Om inte alla behöriga sökande till en utbildning inom yrkeshögskolan kan tas emot till utbildningen, ska ett urval göras bland de sökande. Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare föreskrifter om urval.
+
+*Lag (2016:1183)*.
+
+#### 18 §
+
+De studerande i en utbildning inom yrkeshögskolan ska ha rätt att utöva inflytande över utbildningen.
+
+Utbildningsanordnaren ska verka för att de studerande tar en aktiv del i arbetet med att vidareutveckla utbildningen.
+
+#### 19 §
+
+En studerande får tills vidare avskiljas från en utbildning som anordnas av staten, en kommun eller en region om han eller hon
+
+1. lider av psykisk störning,
+
+2. missbrukar alkohol eller narkotika, eller
+
+3. har gjort sig skyldig till allvarlig brottslighet.
+
+Som ytterligare förutsättning för ett avskiljande gäller att det, till följd av något sådant förhållande som avses i första stycket, bedöms finnas en påtaglig risk att den studerande kan komma att skada någon annan person eller värdefull egendom under utbildningen.
+
+Regeringen får meddela ytterligare föreskrifter om avskiljande. *Lag (2019:936)*.
+
+### Behandling av personuppgifter
+
+#### 19 a §
+
+Bestämmelserna i 19 d och 19 e §§ tillämpas vid behandling av personuppgifter i verksamhet inom yrkeshögskolan som bedrivs med stöd av denna lag, föreskrifter som meddelats med stöd av lagen, bestämmelser för utbildningen som finns i annan författning eller beslut som meddelats med stöd av någon av dessa författningar. *Lag (2018:1352)*.
+
+19 b § Bestämmelserna i 19 d och 19 e §§ kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskyddsförordning.
+
+Termer och uttryck i 19 d och 19 e §§ har samma betydelse som i EU:s dataskyddsförordning. *Lag (2018:1352)*.
+
+#### 19 c §
+
+Bestämmelser om behandling av personuppgifter finns även i lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning, här benämnd dataskyddslagen, och i föreskrifter som har meddelats i anslutning till den lagen.
+
+*Lag (2018:1352)*.
+
+#### 19 d §
+
+Personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning (känsliga personuppgifter) får med stöd av artikel 9.2 g i samma förordning behandlas av en enskild utbildningsanordnare
+
+1. om behandlingen är nödvändig för en hantering som motsvarar handläggning av ett ärende hos en myndighet, eller
+
+2. i annat fall, om behandlingen är nödvändig i verksamheten och inte innebär ett otillbörligt intrång i den registrerades personliga integritet.
+
+Vid behandling som sker med stöd av första stycket är det förbjudet att utföra sökningar i syfte att få fram ett urval av personer grundat på känsliga personuppgifter.
+
+För myndigheter finns det bestämmelser om behandling av känsliga personuppgifter och om sökbegränsningar i 3 kap. 3 § dataskyddslagen. *Lag (2018:1352)*.
+
+#### 19 e §
+
+Personuppgifter som rör fällande domar i brottmål får behandlas av en enskild utbildningsanordnare om behandlingen är nödvändig för en hantering som motsvarar handläggning av ett ärende hos en myndighet om att avskilja en studerande från utbildning.
+
+För myndigheter finns det bestämmelser om behandling av personuppgifter som avses i artikel 10 i EU:s dataskyddsförordning i 3 kap. 8 § första stycket dataskyddslagen. *Lag (2018:1352)*.
+
+### Överklagande
+
+#### 20 §
+
+Högskolans avskiljandenämnd ska pröva frågor om avskiljande.
+
+Nämndens beslut i avskiljandefrågor får överklagas till allmän förvaltningsdomstol av den studerande och utbildningsanordnaren. Prövningstillstånd krävs vid överklagande till kammarrätten. Ett beslut om avskiljande ska, om den som har avskilts begär det, omprövas efter två år.
+
+#### 21 §
+
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om att Överklagandenämnden för högskolan svarar för prövning av överklagande av vissa andra beslut än de som avses i 20 §. Nämndens beslut med anledning av ett överklagande dit får inte överklagas. *Lag (2016:1183)*.
+
+### Övriga bestämmelser
+
+#### 22 §
+
+Regeringen kan med stöd av 8 kap. 7 § regeringsformen meddela ytterligare föreskrifter om yrkeshögskolan.
+
+*Lag (2016:1183)*.
+
+## Övergångsbestämmelser
+
+**2009:128**
+
+1. Denna lag träder i kraft den 15 april 2009 och tillämpas på utbildning som påbörjas efter den 1 juli 2009.
+
+2. Genom lagen upphävs lagen (2001:239) om kvalificerad yrkesutbildning. Den upphävda lagen gäller dock fortfarande för utbildning för vilken det före den 15 april 2009 har beviljats statligt stöd för kvalificerad yrkesutbildning.
+
+3. Regeringen eller den myndighet som regeringen bestämmer får bevilja en utbildningsanordnare som före den 15 april 2009 har beviljats statligt stöd för kvalificerad yrkesutbildning fortsatt stöd, dock längst till och med 2013. Den upphävda lagen gäller även för utbildning för vilken beslut om statligt stöd har förlängts enligt denna punkt.
+
+**2009:1040**
+
+Denna lag träder i kraft den 1 juli 2011. Äldre bestämmelser gäller fortfarande för utbildning som har påbörjats före ikraftträdandet.
+
+**2016:1183**
+
+1. Denna lag träder i kraft den 1 januari 2017.
+
+2. Bestämmelsen i 12 § i den nya lydelsen tillämpas första gången i fråga om en utbildning där beslutet om huruvida utbildningen ska ingå i yrkeshögskolan fattas den 1 april 2017 eller senare.

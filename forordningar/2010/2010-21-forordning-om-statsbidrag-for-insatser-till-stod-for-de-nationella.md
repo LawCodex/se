@@ -1,0 +1,205 @@
+---
+title: "Förordning (2010:21) om statsbidrag för insatser till stöd för de nationella minoritetsspråken"
+identifier: "SFS 2010:21"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-01-21
+amended_through: "SFS 2025:914"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-21.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:21"
+retrieved: 2026-10-11
+---
+# Förordning (2010:21) om statsbidrag för insatser till stöd för de nationella minoritetsspråken
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag för insatser till stöd för de nationella minoritetsspråken.
+
+Med minoritetsspråk avses i denna förordning samtliga varieteter av minoritetsspråken finska, jiddisch, meänkieli, romani chib och samiska.
+
+#### 2 §
+
+Institutet för språk och folkminnen prövar ärenden om bidrag enligt denna förordning.
+
+### Statsbidragets syfte
+
+#### 3 §
+
+Syftet med statsbidraget är att ge enskilda bättre förutsättningar att tillägna sig, utveckla och använda sitt nationella minoritetsspråk genom att stärka deras förmåga att förstå, tala, läsa eller skriva på minoritetsspråket.
+
+*Förordning (2010:354)*.
+
+### Villkor för bidrag
+
+#### 4 §
+
+Bidrag lämnas i mån av tillgång på medel.
+
+#### 5 §
+
+Bidrag får lämnas till en organisation som
+
+1. är självständig,
+
+2. demokratiskt uppbyggd, och
+
+3. bedriver verksamhet i Sverige utan vinstsyfte sedan minst två år före ansökan om bidrag.
+
+Bidrag får även lämnas till en stiftelse som uppfyller villkoren i första stycket 1 och 3. Stiftelsen får inte vara statlig eller kommunal och ska vara öppen för insyn.
+
+*Förordning (2025:914)*.
+
+#### 5 a §
+
+Bidrag får inte lämnas till en organisation eller en stiftelse om den eller någon av dess företrädare som agerar inom ramen för verksamheten
+
+1. utövar våld, tvång eller hot mot en person eller på annat sätt kränker en persons grundläggande fri- och rättigheter,
+
+2. diskriminerar personer eller grupper av personer eller på annat sätt bryter mot principen om alla människors lika värde,
+
+3. försvarar, främjar eller uppmanar till sådana ageranden som anges i 1 eller 2, eller
+
+4. motarbetar det demokratiska styrelseskicket.
+
+Bidrag får inte heller lämnas till en organisation eller en stiftelse om det framkommer att någon av dess samarbetsorganisationer, eller en företrädare för samarbetsorganisationen, agerar på ett sådant sätt som anges i första stycket. *Förordning (2025:914)*.
+
+#### 5 b §
+
+Om en organisation eller en stiftelse, dess företrädare, organisationens eller stiftelsens samarbetsorganisation eller samarbets-organisationens företrädare har agerat på ett sådant sätt som anges i 5 a §, får bidrag ändå lämnas till organisationen eller stiftelsen om det finns särskilda skäl. Vid denna bedömning ska det särskilt beaktas om
+
+1. organisationen eller stiftelsen har tagit avstånd från agerandet,
+
+2. organisationen eller stiftelsen har vidtagit adekvata åtgärder för att säkerställa att agerandet inte upprepas,
+
+3. det är fråga om ett enstaka agerande, och
+
+4. agerandet ligger långt tillbaka i tiden.
+
+Vid allvarliga överträdelser av en samarbetsorganisation, eller dess företrädare, ska det vid bedömningen även särskilt beaktas om samarbetet har avbrutits. *Förordning (2025:914)*.
+
+#### 6 §
+
+Bidrag får inte lämnas till en organisation eller stiftelse som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Institutet för språk och folkminnen. *Förordning (2025:914)*.
+
+#### 6 a §
+
+Bidrag får inte lämnas för kostnader som något statligt bidrag redan har lämnats för. *Förordning (2025:914)*.
+
+#### 7 §
+
+Bidrag får lämnas för insatser med ett syfte som överensstämmer med vad som anges i 3 §, t.ex. pedagogisk verksamhet på det språk som ska läras in, språkprojekt som riktas till barn och deras föräldrar eller läsfrämjande insatser.
+
+Bidrag får också lämnas för insatser för att öka enskildas kunskaper om flerspråkighet eller språket som kulturbärare eller språköverföring mellan generationer, om insatserna har ett syfte som överensstämmer med vad som anges i 3 §.
+
+Insatser som riktas till barn och ungdomar ska främjas särskilt.
+
+#### 8 §
+
+Bidrag får lämnas för insatser som en organisation eller stiftelse genomför i egen regi eller tillsammans med en eller flera andra organisationer, stiftelser eller kommuner.
+
+### Ansökan
+
+#### 9 §
+
+Ansökan om bidrag ska göras skriftligen av en behörig företrädare för sökanden.
+
+Sökanden ska lämna de handlingar och uppgifter som Institutet för språk och folkminnen anser krävs för prövning av ansökan. *Förordning (2025:914)*.
+
+#### 10 §
+
+Om den som ansöker om bidrag enligt denna förordning inte lämnar de handlingar och uppgifter som följer av 9 §, ska sökanden ges möjlighet att komplettera ansökan inom en viss tid. Om sökanden inte följer en uppmaning att komplettera ansökan, får denna prövas i befintligt skick.
+
+### Beslut och utbetalning
+
+#### 11 §
+
+I ett beslut om bidrag ska det anges för vilken insats bidraget beviljas. I beslutet ska vidare sista dag för redovisning enligt 13 § bestämmas.
+
+Beslut om bidrag får förenas med villkor. Dessa ska framgå av beslutet.
+
+#### 12 §
+
+Bidraget betalas ut vid ett tillfälle. Om bidraget överstiger fem prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, kan bidraget betalas ut vid två tillfällen med hälften av det beviljade bidraget vid varje tillfälle. *Förordning (2010:1740)*.
+
+### Anmälningsskyldighet
+
+#### 12 a §
+
+Den som ansöker om eller har beviljats bidrag enligt denna förordning ska snarast möjligt till Institutet för språk och folkminnen anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget.
+
+*Förordning (2025:914)*.
+
+### Redovisning
+
+#### 13 §
+
+En organisation eller stiftelse som har tagit emot bidrag enligt denna förordning är skyldig att vid den tidpunkt som angetts i beslutet till Institutet för språk och folkminnen lämna en ekonomisk redovisning av de mottagna medlen och en redogörelse för vad bidraget har använts till. Bidragsmottagaren ska samtidigt redovisa vilka resultat som har uppnåtts och hur resultaten förhåller sig till det ändamål som bidraget har beviljats för.
+
+Organisationens eller stiftelsens revisor ska intyga att den ekonomiska redovisningen är tillförlitlig, räkenskaperna rättvisande samt att villkoren för bidraget och tillämpliga föreskrifter har följts. Om det bidrag som har tagits emot uppgått till minst fem prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, ska detta göras av en auktoriserad eller godkänd revisor. Revisorns rapport över granskningen ska bifogas redovisningen. *Förordning (2025:914)*.
+
+#### 14 §
+
+En organisation eller stiftelse som har tagit emot bidrag är skyldig att på begäran av Institutet för språk och folkminnen lämna det underlag som institutet behöver för att granska redovisningen.
+
+#### 15 §
+
+Institutet för språk och folkminnen ska i sin årsredovisning lämna en redovisning av vilka som har fått bidrag, med vilka belopp och för vilka ändamål. Institutet för språk och folkminnen ska dessutom i årsredovisningen lämna en sammanfattande redogörelse för vad utbetalade bidrag har använts till och, om möjligt, en bedömning av statsbidragets effekter i förhållande till syftet med bidraget.
+
+### Hinder mot utbetalning
+
+#### 15 a §
+
+Institutet för språk och folkminnen ska besluta om att ett beviljat bidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 16 §. Ett sådant beslut gäller omedelbart. *Förordning (2025:914)*.
+
+### Återbetalning och återkrav
+
+#### 16 §
+
+Mottagaren av ett bidrag enligt denna förordning är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget helt eller delvis inte har utnyttjats eller inte har använts för det ändamål det har beviljats för,
+
+4. mottagaren inte har lämnat en sådan redovisning enligt 13 § eller sådant underlag som avses i 14 §,
+
+5. villkor i beslutet om bidrag inte har följts, eller
+
+6. mottagaren inte uppfyller villkoren i 5 a § och det inte finns sådana särskilda skäl enligt 5 b § som innebär att bidrag ändå får lämnas. *Förordning (2025:914)*.
+
+#### 17 §
+
+Om en bidragsmottagare är återbetalningsskyldig enligt 16 §, ska Institutet för språk och folkminnen besluta att helt eller delvis kräva tillbaka bidraget. Om det finns särskilda skäl för det, får Institutet för språk och folkminnen efterge återkrav helt eller delvis.
+
+### Bemyndigande
+
+#### 18 §
+
+Institutet för språk och folkminnen får meddela föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 19 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om hinder mot utbetalning enligt 15 a § och beslut om återkrav enligt 17 § får dock inte överklagas. *Förordning (2025:914)*.
+
+## Övergångsbestämmelser
+
+**2025:914**
+
+1. Denna förordning träder i kraft den 18 november 2025.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.

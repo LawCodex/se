@@ -1,0 +1,121 @@
+---
+title: "Förordning (2007:1068) med instruktion för Överklagandenämnden för etikprövning"
+identifier: "SFS 2007:1068"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2023:44"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1068.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1068"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1068) med instruktion för Överklagandenämnden för etikprövning
+
+### Uppgifter
+
+#### 1 §
+
+I 31 § lagen (2003:460) om etikprövning av forskning som avser människor finns bestämmelser om att Överklagandenämnden för etikprövning
+
+- prövar överklaganden av sådana beslut av Etikprövningsmyndigheten som anges i 36 § samma lag,
+
+- prövar ärenden som Etikprövningsmyndigheten har lämnat över enligt 29 § samma lag,
+
+- utövar tillsyn enligt 34 och 35 §§ samma lag,
+
+- prövar överklaganden av sådana beslut av Etikprövningsmyndigheten som anges i 7 § lagen (2021:603) med kompletterande bestämmelser om etisk granskning till EU:s förordningar om medicintekniska produkter, och
+
+- prövar vissa frågor enligt biobankslagen (2023:38).
+
+*Förordning (2023:44)*.
+
+### Ledning
+
+#### 2 §
+
+Överklagandenämnden för etikprövning leds av en nämnd. *Förordning (2018:1882)*.
+
+#### 3 §
+
+I 32 och 33 §§ lagen (2003:460) om etikprövning av forskning som avser människor finns bestämmelser om nämndens sammansättning och när nämnden är beslutför.
+
+Det ska finnas personliga ersättare för samtliga ledamöter i nämnden.
+
+Vetenskapsrådet ska lämna förslag till regeringen på ledamöter och ersättare med vetenskaplig kompetens.
+
+### Organisation
+
+#### 4 §
+
+Ordföranden utser en eller flera av ledamöterna att vara vetenskaplig sekreterare i nämnden för en bestämd tid.
+
+En vetenskaplig sekreterare ska förbereda ärenden inför nämndens sammanträden och bistå med vetenskaplig kompetens.
+
+*Förordning (2019:1154)*.
+
+#### 5 §
+
+Vetenskapsrådet upplåter lokaler och utför administrativa och handläggande uppgifter åt Överklagandenämnden för etikprövning.
+
+*Förordning (2018:1882)*.
+
+### Ärendenas handläggning
+
+#### 6 §
+
+Ärendena avgörs efter föredragning. En vetenskaplig sekreterare är föredragande i nämnden. Även personal vid Vetenskapsrådet som utför uppgifter som anges i 5 § får vara föredragande i nämnden. *Förordning (2019:1154)*.
+
+#### 7 §
+
+När etiska frågor av ny och principiell karaktär handläggs ska om möjligt samtliga ledamöter vara närvarande.
+
+#### 8 §
+
+I 33 § tredje stycket lagen (2003:460) om etikprövning av forskning som avser människor finns bestämmelser om att ordföranden får lämna över vissa uppgifter till en föredragande i nämnden. Ett sådant överlämnande ska ske i särskilt beslut.
+
+### Årlig redogörelse
+
+#### 9 §
+
+Överklagandenämnden för etikprövning ska senast den 22 februari varje år lämna en redogörelse till regeringen om sin verksamhet under det senaste kalenderåret.
+
+*Förordning (2022:51)*.
+
+### Tillämpligheten av vissa förordningar
+
+#### 10 §
+
+Förordningen (2000:605) om årsredovisning och budgetunderlag ska inte tillämpas på Överklagandenämnden för etikprövning. *Förordning (2022:51)*.
+
+### Undantag från myndighetsförordningen
+
+#### 11 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på Överklagandenämnden för etikprövning:
+
+5 § om delegering,
+
+14 § om nämndens sammansättning,
+
+15 och 16 §§ om beslutsförhet, och
+
+27 § om rätt att företräda staten vid domstol.
+
+*Förordning (2022:51)*.
+
+#### 12 §
+
+Har upphävts genom *förordning (2019:1154)*.
+
+#### 13 §
+
+Har betecknats 9 § genom *förordning (2019:1154)*.
+
+## Övergångsbestämmelser
+
+**2022:51**
+
+Denna förordning träder i kraft den 26 maj 2022 i fråga om 1 § och i övrigt den 1 mars 2022.

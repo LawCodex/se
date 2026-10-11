@@ -1,0 +1,71 @@
+---
+title: "Förordning (2003:1176) om vissa former av internationellt samarbete i brottsutredningar"
+identifier: "SFS 2003:1176"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2003-12-18
+amended_through: "SFS 2014:1163"
+department: "Justitiedepartementet BIRS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2003-1176.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2003:1176"
+retrieved: 2026-10-11
+---
+# Förordning (2003:1176) om vissa former av internationellt samarbete i brottsutredningar
+
+## Inledande bestämmelse
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om tillämpningen av lagen (2003:1174) om vissa former av internationellt samarbete i brottsutredningar. *Förordning (2005:499)*.
+
+## Framställning
+
+### 2 §
+
+En framställning om att inrätta en gemensam utredningsgrupp bör innehålla uppgifter om
+
+1. den åklagare eller myndighet som handlägger ärendet, eller någon annan person på myndigheten som kan kontaktas,
+
+2. adress, telefon- och telefaxnummer samt, i förekommande fall, e-postadress,
+
+3. syftet med gruppens arbete och tiden som den gemensamma utredningsgruppen skall vara verksam, samt
+
+4. förslag på den gemensamma utredningsgruppens sammansättning.
+
+En ansökan om kontrollerad leverans eller bistånd i en brottsutredning med användning av skyddsidentitet skall innehålla de uppgifter som anges i första stycket 1 och 2 samt uppgifter om den åtgärd som begärs. *Förordning (2005:499)*.
+
+### 3 §
+
+En ansökan från en utländsk myndighet om att inrätta en gemensam utredningsgrupp, om biträde med en kontrollerad leverans i Sverige eller om bistånd i en brottsutredning med användning av skyddsidentitet ges in till behörig åklagare eller behörig myndighet.
+
+En ansökan om biträde med en kontrollerad leverans får även ges in till Polismyndigheten, Tullverket eller Kustbevakningen. Om en ansökan har getts in till någon av dessa myndigheter ska den överlämnas till åklagare.
+
+En ansökan som avses i första stycket får även ges in till Justitiedepartementet. *Förordning (2014:1163)*.
+
+### 3 a §
+
+En ansökan från en svensk åklagare eller myndighet om att inrätta en gemensam utredningsgrupp, om bistånd i en brottsutredning med användning av skyddsidentitet eller om biträde med en kontrollerad leverans utomlands skickas direkt till den behöriga myndigheten i den andra staten, om den andra staten tillåter det.
+
+En ansökan som avses i första stycket får även skickas till Justitiedepartementet för vidarebefordran till den andra staten. *Förordning (2005:499)*.
+
+## Samråd och underrättelse
+
+### 4 §
+
+Den åklagare eller myndighet som avser att ingå en överenskommelse om att inrätta en gemensam utredningsgrupp ska samråda med andra berörda svenska myndigheter innan en överenskommelse ingås.
+
+Åklagare ska underrättas innan överenskommelsen ingås.
+
+Polismyndigheten ska underrättas när överenskommelsen har ingåtts. *Förordning (2014:1163)*.
+
+## Överenskommelse
+
+### 5 §
+
+En överenskommelse om att inrätta en gemensam utredningsgrupp och ändringar i överenskommelsen skall vara skriftliga.
+
+### 6 §
+
+I rådets rekommendation av den 8 maj 2003 finns en modell för överenskommelse om inrättande av en gemensam utredningsgrupp.

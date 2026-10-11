@@ -1,0 +1,6751 @@
+---
+title: "Utlänningslag (2005:716)"
+identifier: "SFS 2005:716"
+type: act
+jurisdiction: se
+language: sv
+date: 2005-09-29
+amended_through: "SFS 2026:1752"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-716.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:716"
+retrieved: 2026-10-11
+---
+# Utlänningslag (2005:716)
+
+> Rättelseblad 2009:16, 2009:1542 och 2014:198 har iakttagits.
+
+## 1 kap. Lagens innehåll, vissa definitioner och allmänna bestämmelser
+
+### Lagens innehåll
+
+#### 1 §
+
+I denna lag finns föreskrifter om
+
+- lagens innehåll, vissa definitioner och allmänna bestämmelser (1 kap.),
+
+- villkor för att en utlänning ska få resa in i samt vistas och arbeta i Sverige samt bestämmelser om främlingspass och resedokument (2 kap.),
+
+- visering (3 kap.),
+
+- uppehållsrätt (3 a kap.),
+
+- uppehållsstatus, uppehållsrätt och bevis för gränsarbete som kompletterar bestämmelserna i utträdesavtalet mellan Förenade kungariket och EU (3 b kap.),
+
+- internationellt skydd (4 kap.),
+
+- uppehållstillstånd (5 kap.),
+
+- ställning som varaktigt bosatt i Sverige (5 a kap.),
+
+- uppehållstillstånd för forskning, studier inom högre utbildning, viss praktik, visst volontärarbete och au pair- arbete (5 b kap.),
+
+- arbetstillstånd (6 kap.),
+
+- EU-blåkort (6 a kap.),
+
+- tillstånd för företagsintern förflyttning, ICT (6 b kap.),
+
+- tillstånd för säsongsarbete (6 c kap.),
+
+- återkallelse av tillstånd (7 kap.),
+
+- avvisning och utvisning (8 kap.),
+
+- utvisning på grund av brott (8 a kap.),
+
+- kontroll- och tvångsåtgärder (9 kap.),
+
+- anmälningsskyldighet och områdesbegränsning för vissa utlänningar (9 a kap.),
+
+- uppsikt och förvar (10 kap.),
+
+- verkställighet av beslut om uppsikt och förvar (10 a kap.),
+
+- hur en utlänning som hålls i förvar ska behandlas (11 kap.),
+
+- verkställighet av beslut om avvisning och utvisning (12 kap.),
+
+- handläggningen av ärenden hos förvaltningsmyndigheterna m.m. (13 kap.),
+
+- överklagande av förvaltningsmyndighets beslut (14 kap.),
+
+- nöjdförklaring (15 kap.),
+
+- migrationsdomstolar och Migrationsöverdomstolen (16 kap.),
+
+- skyldighet att lämna uppgifter (17 kap.),
+
+- offentligt biträde (18 kap.),
+
+- kostnadsansvar (19 kap.),
+
+- bestämmelser om straff m.m. (20 kap.),
+
+- tillfälligt skydd (21 kap.),
+
+- tribunalvittnen (22 kap.), och
+
+- särskilda bemyndiganden (23 kap.). *Lag (2026:1425)*.
+
+#### 1 a §
+
+Har upphävts genom *lag (2021:765)*.
+
+### Vissa definitioner
+
+### Barn
+
+#### 2 §
+
+Med barn avses i denna lag en person som är under 18 år.
+
+#### 3 §
+
+Har upphävts genom *lag (2026:1142)*.
+
+### EU-stat
+
+#### 3 a §
+
+Med EU-stat avses i denna lag en stat som är medlem i Europeiska unionen (EU). *Lag (2006:219)*.
+
+### EES-stat och EES-medborgare
+
+#### 3 b §
+
+Med EES-stat avses i denna lag en stat som omfattas av avtalet om Europeiska ekonomiska samarbetsområdet (EES).
+
+Med EES-medborgare avses en utlänning som är medborgare i en EES-stat. När det gäller familjeanknytning avses även vissa svenska medborgare i enlighet med vad som närmare framgår av 3 a kap. 2 § andra stycket. *Lag (2014:198)*.
+
+#### 3 c §
+
+Har upphävts genom *lag (2014:198)*.
+
+### Det gemensamma europeiska systemet för migration och internationellt skydd
+
+#### 3 c §
+
+I denna lag avses med
+
+- skyddsgrundsförordningen: Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att be- tecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU,
+
+- asylprocedurförordningen: Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU,
+
+- förordningen om återvändandegränsförfarande: Europaparlamentets och rådets förordning (EU) 2024/1349 av den 14 maj 2024 om inrättande av ett gränsförfarande för återvändande och om ändring av förordning (EU) 2021/1148,
+
+- vidarebosättningsförordningen: Europaparlamentets och rådets förordning (EU) 2024/1350 av den 14 maj 2024 om inrättande av en unionsram för vidarebosättning och inresa av humanitära skäl samt om ändring av förordning (EU) 2021/1147,
+
+- asyl- och migrationshanteringsförordningen: Europaparlamentets och rådets förordning (EU) 2024/1351 av den 14 maj 2024 om asyl- och migrationshantering, om ändring av förordningarna (EU) 2021/1147 och (EU) 2021/1060 och om upphävande av förordning (EU) nr 604/2013,
+
+- screeningförordningen: Europaparlamentets och rådets förordning (EU) 2024/1356 av den 14 maj 2024 om införande av screening av tredjelandsmedborgare vid de yttre gränserna och om ändring av förordningarna (EG) nr 767/2008, (EU) 2017/2226, (EU) 2018/1240 och (EU) 2019/817, och
+
+- Eurodacförordningen: Europaparlamentets och rådets förordning (EU) 2024/1358 av den 14 maj 2024 om inrättande av Eurodac för jämförelse av biometriska uppgifter för att effektivt tillämpa Europaparlamentets och rådets förordningar (EU) 2024/1351 och (EU) 2024/1350 och rådets direktiv 2001/55/EG, och identifiera tredjelandsmedborgare och statslösa personer som vistas olagligt och om framställningar från medlemsstaternas brottsbekämpande myndigheter och Europol om jämförelse med Eurodacuppgifter för brottsbekämpande ändamål, om ändring av Europaparlamentets och rådets förordningar (EU) 2018/1240 och (EU) 2019/818 och om upp- hävande av Europaparlamentets och rådets förordning (EU) nr 603/2013. *Lag (2026:1142)*.
+
+#### 3 d §
+
+Med internationellt skydd, ansökan om internationellt skydd, flyktingstatus och status som subsidiärt skyddsbehövande avses i denna lag detsamma som i skyddsgrundsförordningen och asylprocedurförordningen. *Lag (2026:1142)*.
+
+### Flyktingförklaring
+
+#### 3 e §
+
+Med flyktingförklaring avses i denna lag en förklaring enligt 5 kap. 1 b § första stycket om att en medborgare i en annan EU-stat är flykting i enlighet med Genèvekonventionen av den 28 juli 1951 angående flyktingars rättsliga ställning och protokollet till denna av den 31 januari 1967. *Lag (2026:1142)*.
+
+### Schengenkonventionen, Schengenstat och Schengenvisering
+
+#### 4 §
+
+Med Schengenkonventionen avses i denna lag konventionen om tilllämpning av Schengenavtalet av den 14 juni 1985.
+
+Med Schengenstat avses
+
+1. en stat som har tillträtt eller anslutit sig till Schengenkonventionen, samt
+
+2. Island, Norge, Schweiz och Liechtenstein.
+
+*Lag (2011:1209)*.
+
+#### 4 a §
+
+Med Schengenvisering avses i denna lag en visering enligt Europaparlamentets och rådets förordning (EG) nr 810/2009 av den 13 juli 2009 om införande av en gemenskapskodex om viseringar (viseringskodex).
+
+*Lag (2011:705)*.
+
+### Rörlighetsdirektivet
+
+#### 4 b §
+
+Med rörlighetsdirektivet avses i denna lag Europaparlamentets och rådets direktiv 2004/38/EG av den 29 april 2004 om unionsmedborgares och deras familjemedlemmars rätt att fritt röra sig och uppehålla sig inom medlemsstaternas territorier och om ändring av förordning (EEG) nr 1612/68 och om upphävande av direktiven 64/221/EEG, 68/360/EEG, 72/194/EEG, 73/148/EEG, 75/34/EEG, 75/35/EEG, 90/364/EEG, 90/365/EEG och 93/96/EEG. *Lag (2014:198)*.
+
+### Utträdesavtalet mellan Förenade kungariket och EU
+
+#### 4 c §
+
+Med utträdesavtalet mellan Förenade kungariket och EU avses i denna lag avtalet om Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen och Europeiska atomenergigemenskapen (EUT L 29, 31.1.2020, s. 7). *Lag (2020:939)*.
+
+### Återvändandeförordningen och gränsförordningen
+
+#### 4 d §
+
+Med återvändandeförordningen avses i denna lag Europaparlamentets och rådets förordning (EU) 2018/1860 av den 28 november 2018 om användning av Schengens informationssystem för återvändande av tredjelandsmedborgare som vistas olagligt i medlemsstaterna.
+
+Med gränsförordningen avses Europaparlamentets och rådets förordning (EU) 2018/1861 av den 28 november 2018 om inrättande, drift och användning av Schengens informationssystem (SIS) på området in- och utresekontroller, om ändring av konventionen om tillämpning av Schengenavtalet och om ändring och upphävande av förordning (EG) nr 1987/2006.
+
+*Lag (2021:1189)*.
+
+### In- och utreseförordningen
+
+#### 4 e §
+
+Med in- och utreseförordningen avses i denna lag Europaparlamentets och rådets förordning (EU) 2017/2226 av den 30 november 2017 om inrättande av ett in- och utresesystem för registrering av in- och utreseuppgifter och av uppgifter om nekad inresa för tredjelandsmedborgare som passerar medlemsstaternas yttre gränser, om fastställande av villkoren för åtkomst till in- och utresesystemet för brottsbekämpande ändamål och om ändring av konventionen om tillämpning av Schengenavtalet och förordningarna (EG) nr 767/2008 och (EU) nr 1077/2011. *Lag (2022:242)*.
+
+*/Rubriken träder i kraft I:den dag som regeringen bestämmer/*
+
+### Etias-förordningen
+
+#### 4 f §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Med Etias-förordningen avses i denna lag Europaparlamentets och rådets förordning (EU) 2018/1240 av den 12 september 2018 om inrättande av ett EU-system för reseuppgifter och resetillstånd (Etias) och om ändring av förordningarna (EU) nr 1077/2011, (EU) nr 515/2014, (EU) 2016/399, (EU) 2016/1624 och (EU) 2017/2226. *Lag (2023:337)*.
+
+*/Rubriken träder i kraft I:den dag som regeringen bestämmer/*
+
+### VIS-förordningen
+
+#### 4 g §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Med VIS-förordningen avses i denna lag Europaparlamentets och rådets förordning (EG) nr 767/2008 av den 9 juli 2008 om Informationssystemet för viseringar (VIS) och utbytet av information mellan medlemsstaterna om viseringar för kortare vistelse, viseringar för längre vistelse och uppehållstillstånd (VIS-förordningen).
+
+*Lag (2025:944)*.
+
+### Inresa
+
+#### 5 §
+
+Med inresa avses i denna lag att en utlänning passerar in över gränsen för svenskt territorium.
+
+Regeringen får meddela föreskrifter om undantag från vad som anges i första stycket.
+
+### Utresa
+
+#### 6 §
+
+Med utresa avses i denna lag att en utlänning passerar ut över gränsen för svenskt territorium.
+
+Regeringen får meddela föreskrifter om undantag från vad som anges i första stycket.
+
+#### 6 a §
+
+Har upphävts genom *lag (2026:1142)*.
+
+### Säkerhetsärenden
+
+#### 7 §
+
+Säkerhetsärenden enligt denna lag är ärenden där Säkerhetspolisen av skäl som rör Sveriges säkerhet eller som annars har betydelse för allmän säkerhet förordar
+
+- att en utlänning ska avvisas eller utvisas,
+
+- att en utlännings ansökan om uppehållstillstånd eller arbetstillstånd ska avslås eller att en utlännings uppehållstillstånd eller arbetstillstånd ska återkallas,
+
+- att en utlänning inte ska beviljas internationellt skydd eller att en utlännings internationella skydd ska återkallas,
+
+- att en flyktingförklaring inte ska beviljas eller att en flyktingförklaring ska återkallas,
+
+- att en utlänning inte ska beviljas resedokument eller att en utlännings resedokument som har utfärdats med stöd av artikel 25 i skyddsgrundsförordningen ska återkallas,
+
+- att en utlänning inte ska beviljas främlingspass eller att en utlännings främlingspass ska återkallas,
+
+- att en utlännings ansökan om ställning som varaktigt bosatt ska avslås eller att en utlännings ställning som varaktigt bosatt ska återkallas, eller
+
+- att en utlänning som av allmän domstol har utvisats på grund av brott inte ska meddelas ett beslut om inhibition av verkställigheten eller beviljas ett uppehållstillstånd enligt 12 kap. 16 e § eller att ett beslut om inhibition av verkställigheten ska upphävas för en sådan utlänning enligt 12 kap. 17 d §.
+
+Ett ärende hos Migrationsverket om huruvida prövning ska beviljas enligt 12 kap. 19 b § är ett säkerhetsärende om beslutet om avvisning eller utvisning har fattats i ett säkerhetsärende. Detsamma gäller ett ärende hos Migrationsverket om prövning enligt 12 kap. 17 a, 17 b, 17 c eller 17 d §, om beslutet om avvisning eller utvisning har fattats i ett säkerhetsärende. *Lag (2026:1142)*.
+
+### Allmänna bestämmelser
+
+#### 8 §
+
+Lagen ska tillämpas så att en utlännings frihet inte begränsas mer än vad som är nödvändigt i varje enskilt fall.
+
+En ingripande åtgärd får endast användas om den står i rimlig proportion till syftet med åtgärden. Om en mindre ingripande åtgärd är tillräcklig, ska den användas. *Lag (2025:793)*.
+
+#### 9 §
+
+Det som föreskrivs om avvisning och utvisning i denna lag gäller i tillämpliga delar också för beslut om återvändande i ärenden om internationellt skydd enligt asylprocedurförordningen och för beslut om överföring enligt asyl- och migrationshanteringsförordningen. *Lag (2026:1142)*.
+
+#### 10 §
+
+I fall som rör ett barn skall särskilt beaktas vad hänsynen till barnets hälsa och utveckling samt barnets bästa i övrigt kräver.
+
+#### 11 §
+
+När frågor om tillstånd enligt denna lag skall bedömas och ett barn berörs av ett beslut i ärendet skall, om det inte är olämpligt, barnet höras. Den hänsyn skall tas till det barnet har sagt som barnets ålder och mognad motiverar.
+
+#### 12 §
+
+Har upphävts genom *lag (2021:765)*.
+
+#### 13 §
+
+Säkerhetsärenden skall handläggas skyndsamt.
+
+#### 14 §
+
+Om en utlänning har ansökt om uppehållstillstånd, internationellt skydd, flyktingförklaring, resedokument eller ställning som varaktigt bosatt och Säkerhetspolisen har ansökt om att utlänningen ska utvisas enligt lagen (2022:700) om särskild kontroll av vissa utlänningar, ska ansökningarna handläggas tillsammans enligt den lagen.
+
+En ansökan om uppehållstillstånd, internationellt skydd, flyktingförklaring, resedokument eller ställning som varaktigt bosatt av en utlänning som är utvisad enligt lagen om särskild kontroll av vissa utlänningar eller har meddelats motsvarande beslut enligt äldre lag och befinner sig i Sverige, ska handläggas enligt den lagen. *Lag (2026:1142)*.
+
+#### 15 §
+
+Ska det vid tillämpningen av denna lag göras en bedömning av om det finns risk för att en utlänning avviker, får hänsyn endast tas till om denne
+
+1. tidigare har hållit sig undan,
+
+2. har uppgett att han eller hon inte har för avsikt att lämna landet efter ett beslut om avvisning eller utvisning,
+
+3. har uppträtt under någon identitet som var felaktig,
+
+4. inte har medverkat till att klarlägga sin identitet och därigenom försvårat prövningen av sin ansökan om uppehållstillstånd eller internationellt skydd,
+
+5. medvetet har lämnat oriktiga uppgifter eller undanhållit väsentlig information,
+
+6. tidigare har överträtt ett meddelat återreseförbud,
+
+7. har dömts för ett brott som kan leda till fängelse, eller
+
+8. har utvisats av allmän domstol på grund av brott.
+
+För en sökande av internationellt skydd får även hänsyn tas till om sökanden är skyldig att befinna sig i en annan medlemsstat i enlighet med artikel 17.4 i asyl- och migrationshanteringsförordningen eller har överförts till den medlemsstat där sökanden är skyldig att befinna sig i enlighet med samma artikel, efter att ha avvikit till en annan medlemsstat. Hänsyn får även tas till om sökandens ansökan om internationellt skydd har avvisats enligt artikel 39.1 i asylprocedurförordningen eller avslagits som uppenbart ogrundad. *Lag (2026:1142)*.
+
+#### 16 §
+
+Bestämmelser om gränspassage finns i Europaparlamentets och rådets förordning (EU) 2016/399 av den 9 mars 2016 om en unionskodex om gränspassage för personer (kodex om Schengengränserna). *Lag (2018:30)*.
+
+#### 17 §
+
+Bestämmelser om att vissa utlänningar har rätt att resa in i samt vistas och arbeta i Sverige finns även i utträdesavtalet mellan Förenade kungariket och EU.
+
+*Lag (2020:939)*.
+
+## 2 kap. Villkor för att en utlänning ska få resa in i samt vistas och arbeta i Sverige samt bestämmelser om främlingspass och resedokument
+
+### Pass
+
+#### 1 §
+
+En utlänning som reser in i eller vistas i Sverige skall ha pass.
+
+#### 1 a §
+
+Om en utlänning inte har någon handling som gäller som pass och saknar möjlighet att skaffa en sådan handling, får Migrationsverket utfärda ett främlingspass för honom eller henne.
+
+En resehandling som utfärdas med stöd av artikel 25 i skyddsgrundsförordningen för en utlänning som innehar status som subsidiärt skyddsbehövande eller för en familjemedlem till en person som har beviljats internationellt skydd ska utfärdas i form av ett främlingspass.
+
+Migrationsverket får utfärda främlingspass även i andra fall, om det finns särskilda skäl. *Lag (2026:1142)*.
+
+#### 1 b §
+
+En ansökan om främlingspass ska avslås om det inom de senaste fem åren före ansökan har utfärdats tre sådana pass för utlänningen och det inte finns särskilda skäl att bifalla ansökan.
+
+Första stycket gäller inte de fall som anges i 1 a § andra stycket. *Lag (2021:390)*.
+
+#### 1 c §
+
+Migrationsverket ska återkalla ett främlingspass om innehavaren
+
+1. blir svensk medborgare,
+
+2. får en annan handling som gäller som pass,
+
+3. ska resa till sitt hemland,
+
+4. inte längre har rätt att vistas i landet enligt ett beslut om avvisning eller utvisning, eller
+
+5. avlider.
+
+Första stycket gäller inte om särskilda skäl talar emot det.
+
+*Lag (2021:390)*.
+
+#### 1 d §
+
+Migrationsverket får återkalla ett främlingspass som har utfärdats med stöd av 1 a § första eller tredje stycket om det finns skäl för det med hänsyn till Sveriges säkerhet eller allmän säkerhet. *Lag (2026:1142)*.
+
+#### 1 e §
+
+Migrationsverket ska återkalla ett främlingspass som avses i 1 a § andra stycket om innehavarens status som subsidiärt skyddsbehövande återkallas eller, i fråga om familjemedlemmar till en person som har beviljats internationellt skydd, innehavarens uppehållstillstånd återkallas. Detsamma gäller om tvingande hänsyn till den nationella säkerheten eller den allmänna ordningen kräver det. *Lag (2026:1142)*.
+
+#### 1 f §
+
+Migrationsverket får utfärda en särskild passhandling för resor utanför Sverige (resedokument) för en statslös utlänning. Ett resedokument ska dock inte utfärdas om tvingande hänsyn till den nationella säkerheten eller den allmänna ordningen kräver att så inte sker.
+
+Migrationsverket ska återkalla ett resedokument som avses i första stycket om innehavaren upphör att vara statslös.
+
+Första stycket gäller även en medborgare i en annan EU-stat som har beviljats flyktingförklaring. Migrationsverket ska återkalla ett resedokument som har utfärdats för en sådan person om innehavaren upphör att vara flykting. *Lag (2026:1142)*.
+
+#### 1 g §
+
+Bestämmelser om resedokument för en utlänning som innehar flyktingstatus finns i artikel 25 i skyddsgrundsförordningen.
+
+Migrationsverket ska återkalla ett resedokument som har utfärdats med stöd av artikel 25 i skyddsgrundsförordningen om innehavarens flyktingstatus återkallats eller om tvingande hänsyn till den nationella säkerheten eller den allmänna ordningen kräver det. *Lag (2026:1142)*.
+
+#### 2 §
+
+Regeringen får meddela föreskrifter om i vilka fall svenska myndigheter får utfärda pass för utlänningar.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vilka handlingar som får godtas som pass.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om främlingspass och resedokument. *Lag (2026:1142)*.
+
+### Visering
+
+#### 3 §
+
+En utlänning som reser in i eller vistas i Sverige ska ha Schengenvisering eller nationell visering. *Lag (2014:198)*.
+
+### Uppehållsrätt
+
+#### 3 a §
+
+Bestämmelser om uppehållsrätt för EES-medborgare och deras familjemedlemmar finns i 3 a kap. *Lag (2006:219)*.
+
+#### 3 b §
+
+Bestämmelser om att vissa medborgare i Förenade kungariket och deras familjemedlemmar har uppehållsrätt finns i avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU. Kompletterande bestämmelser till utträdesavtalet finns i 3 b kap. *Lag (2020:939)*.
+
+### Uppehållstillstånd
+
+#### 4 §
+
+Uppehållstillstånd är ett tillstånd att vistas i Sverige under viss tid (tidsbegränsat uppehållstillstånd) eller utan tidsbegränsning (permanent uppehållstillstånd). Den som har uppehållstillstånd eller ställning som varaktigt bosatt i Sverige får, om villkoret i 1 § är uppfyllt, resa in i Sverige. *Lag (2014:198)*.
+
+#### 5 §
+
+En utlänning som vistas i Sverige mer än tre månader ska ha uppehållstillstånd. *Lag (2014:198)*.
+
+#### 6 §
+
+Regeringen får meddela föreskrifter om att utlänningar skall ha uppehållstillstånd redan efter en kortare vistelsetid i Sverige än tre månader.
+
+### Arbetstillstånd
+
+#### 7 §
+
+Arbetstillstånd är ett tillstånd att arbeta i Sverige. En utlänning som skall arbeta i Sverige på grund av anställning här eller utomlands skall ha arbetstillstånd.
+
+### Kombinerade uppehålls- och arbetstillstånd
+
+#### 7 a §
+
+Bestämmelser om kombinerade uppehålls- och arbetstillstånd finns i 6 a-6 c kap. *Lag (2018:319)*.
+
+### Undantag från kraven på pass, visering, uppehållstillstånd och arbetstillstånd
+
+#### 8 §
+
+Kravet på pass enligt 1 § för inresa gäller inte för en utlänning som är medborgare i en Schengenstat om han eller hon reser eller har rest in i Sverige direkt från en Schengenstat.
+
+Kravet på pass enligt 1 § för vistelse gäller inte för en medborgare i Danmark, Finland, Island eller Norge och inte heller för en utlänning som är medborgare i en annan Schengenstat om han eller hon har rest in i Sverige direkt från en Schengenstat. *Lag (2014:198)*.
+
+#### 8 a §
+
+Kravet på visering enligt 3 § gäller inte för en utlänning som
+
+1. är EES-medborgare,
+
+2. har uppehållskort eller permanent uppehållskort som har utfärdats i Sverige eller av en behörig myndighet i en annan EES-stat,
+
+3. har uppehållstillstånd,
+
+4. har ställning som varaktigt bosatt i Sverige, eller
+
+5. återtas enligt 6 a kap. 14 § eller 6 b kap. 19 §.
+
+Kravet på visering enligt 3 § för inresa gäller inte heller för en utlänning som återtas enligt 5 a kap. 7 eller 7 a § eller 5 b kap. 25 §. *Lag (2026:1142)*.
+
+#### 8 b §
+
+Kravet på uppehållstillstånd enligt 5 § gäller inte för en utlänning som
+
+1. är medborgare i Danmark, Finland, Island eller Norge,
+
+2. har uppehållsrätt, eller
+
+3. har visering för längre tid än tre månader.
+
+*Lag (2014:198)*.
+
+#### 8 c §
+
+Kravet på arbetstillstånd enligt 7 § gäller inte för en utlänning som
+
+1. är medborgare i Danmark, Finland, Island eller Norge,
+
+2. har uppehållsrätt,
+
+3. har permanent uppehållstillstånd, eller
+
+4. har ställning som varaktigt bosatt i Sverige. *Lag (2026:1142)*.
+
+#### 9 §
+
+Regeringen får meddela föreskrifter om att utlänningar i andra fall än de som anges i 8-8 c §§ får resa in i Sverige samt vistas och arbeta här utan pass, visering, uppehållstillstånd eller arbetstillstånd. *Lag (2014:198)*.
+
+#### 10 §
+
+Bestämmelserna om krav på pass, visering, uppehållstillstånd och arbetstillstånd tillämpas inte för
+
+1. diplomatiska tjänstemän och avlönade konsulära tjänstemän som är anställda i Sverige av främmande stater samt deras familjer och deras anställda, och
+
+2. främmande staters kurirer.
+
+I fråga om andra utlänningar som är berättigade till förmåner enligt lagen (1976:661) om immunitet och privilegier i vissa fall gäller de inskränkningar som följer av den lagen.
+
+Regeringen får meddela föreskrifter om
+
+1. att bestämmelserna om krav på pass, visering, uppehållstillstånd och arbetstillstånd gäller i viss utsträckning för de utlänningar som anges i första stycket, och
+
+2. förutsättningar för att bevilja och återkalla uppehållstillstånd för sådana utlänningar som avses i första och andra styckena. *Lag (2022:456)*.
+
+*/Rubriken träder i kraft I:den dag som regeringen bestämmer/*
+
+### Resetillstånd
+
+#### 11 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* I Etias-förordningen finns bestämmelser om krav på resetillstånd för vissa utlänningar som är undantagna från kravet på Schengenvisering. *Lag (2023:337)*.
+
+#### 12 §
+
+I artikel 6 i screeningförordningen finns bestämmelser om att personer som avses i artikel 5.1 och 5.2 i den förordningen inte ska ges tillstånd att resa in i landet under pågående screening. I artikel 43.2 och 43.3 i asylprocedurförordningen finns bestämmelser om att personer som söker internationellt skydd och som är föremål för gränsförfarandet för asyl inte får tillåtas att resa in i landet. I artikel 4.1 i förordningen om återvändandegränsförfarande finns en bestämmelse om att tredjelandsmedborgare och statslösa personer vars ansökan har avslagits inom ramen för gränsförfarandet för asyl inte ska ges tillstånd att resa in i landet. *Lag (2026:1142)*.
+
+## 3 kap. Visering
+
+#### 1 §
+
+Villkor för beviljande av Schengenvisering finns i viseringskodexen. *Lag (2011:705)*.
+
+#### 2 §
+
+Har upphävts genom *lag (2011:705)*.
+
+#### 3 §
+
+Har upphävts genom *lag (2011:705)*.
+
+#### 4 §
+
+Om det finns särskilda skäl får nationell visering beviljas. En sådan visering ger tillstånd att resa in i och vistas i Sverige. Viseringen får endast beviljas för längre tid än tre månader, dock högst ett år. Den får beviljas för längre tid än utlänningens pass gäller endast när det finns särskilda skäl. *Lag (2011:705)*.
+
+### Beslutande myndigheter
+
+#### 5 §
+
+Beslut om Schengenvisering får utöver vad som följer av viseringskodexen meddelas av Migrationsverket. Beslut om nationell visering får meddelas av Migrationsverket och Regeringskansliet. *Lag (2011:705)*.
+
+### Bemyndiganden
+
+#### 6 §
+
+Regeringen eller, efter regeringens bemyndigande, Migrationsverket får meddela föreskrifter om att andra myndigheter har rätt att besluta om visering.
+
+Regeringen får meddela föreskrifter om att ett organ som är knutet till Sveriges exportråd har rätt att bevilja visering.
+
+Regeringen eller, efter regeringens bestämmande, Regeringskansliet får ingå överenskommelse med en Schengenstat om att den statens behöriga myndigheter får besluta om Schengenvisering.
+
+Regeringen eller, efter regeringens bestämmande, Regeringskansliet får besluta om samarbete med en extern tjänsteleverantör eller med en kommersiell mellanhand i enlighet med viseringskodexen. *Lag (2011:705)*.
+
+#### 7 §
+
+Regeringen får meddela ytterligare föreskrifter om visering.
+
+## 3 a kap. Uppehållsrätt för EES-medborgare m.fl.
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Med uppehållsrätt avses en rätt för EES-medborgare och deras familjemedlemmar att vistas i Sverige mer än tre månader utan uppehållstillstånd i enlighet med vad som sägs i detta kapitel. *Lag (2006:219)*.
+
+#### 2 §
+
+Med familjemedlem till EES-medborgare avses i denna lag en utlänning som följer med eller i Sverige ansluter sig till en EES-medborgare och som är
+
+1. make eller sambo till EES-medborgaren,
+
+2. släkting i rakt nedstigande led till EES-medborgaren eller till hans eller hennes make eller sambo, om släktingen är beroende av någon av dem för sin försörjning eller är under 21 år,
+
+3. släkting i rakt uppstigande led till EES-medborgaren eller till hans eller hennes make eller sambo, om släktingen är beroende av någon av dem för sin försörjning, eller
+
+4. annan familjemedlem, om familjemedlemmen i det land som han eller hon har kommit från är beroende av EES-medborgaren för sin försörjning eller ingår i EES-medborgarens hushåll eller om det av allvarliga hälsoskäl absolut krävs att EES-medborgaren personligen tar hand om familjemedlemmen.
+
+Med familjemedlem till EES-medborgare avses i denna lag även en utlänning med sådan familjeanknytning som anges i första stycket till en svensk medborgare som återvänder till Sverige efter att ha utnyttjat sin rätt till fri rörlighet enligt rörlighetsdirektivet och som utlänningen har följt med eller anslutit sig till när den svenska medborgaren utnyttjat sin rätt till fri rörlighet. *Lag (2014:198)*.
+
+### Uppehållsrätt
+
+#### 3 §
+
+En EES-medborgare har uppehållsrätt om han eller hon
+
+1. är arbetstagare eller egen företagare i Sverige,
+
+2. har kommit till Sverige för att söka arbete och har en verklig möjlighet att få en anställning,
+
+3. är inskriven som studerande vid en erkänd utbildningsanstalt i Sverige och enligt en försäkran om detta har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning samt har en heltäckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige, eller
+
+4. har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning och har en heltäckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige. *Lag (2006:219)*.
+
+#### 4 §
+
+En sådan familjemedlem till en EES-medborgare som avses i 2 § första stycket har uppehållsrätt om EES-medborgaren har uppehållsrätt enligt 3 §.
+
+En sådan familjemedlem till en EES-medborgare som avses i 2 § andra stycket har uppehållsrätt.
+
+Uppehållsrätt enligt första eller andra stycket föreligger inte om ett äktenskap ingåtts, ett samboförhållande inletts eller en utlänning adopterats uteslutande i syfte att ge utlänningen uppehållsrätt. *Lag (2014:198)*.
+
+#### 5 §
+
+Uppehållsrätten finns så länge villkoren är uppfyllda.
+
+*Lag (2006:219)*.
+
+### Att behålla uppehållsrätt i vissa fall
+
+#### 5 a §
+
+En EES-medborgare som har uppehållsrätt som arbetstagare eller egen företagare enligt 3 § 1 anses som arbetstagare respektive egen företagare och behåller sin uppehållsrätt även om han eller hon
+
+1. drabbas av tillfällig arbetsoförmåga på grund av sjukdom eller olycksfall, eller
+
+2. inleder en yrkesutbildning.
+
+I fall som avses i första stycket 2 måste utbildningen ha samband med den tidigare sysselsättningen, förutom i fall då EES-medborgaren är ofrivilligt arbetslös.
+
+En EES-medborgare som har uppehållsrätt som arbetstagare enligt 3 § 1 anses som arbetstagare och behåller sin uppehållsrätt om han eller hon är ofrivilligt arbetslös efter mer än ett års anställning och har anmält sig som arbetssökande vid den offentliga arbetsförmedlingen. Har EES-medborgaren fullgjort en anställning som varit tidsbegränsad till mindre än ett år eller inträffar den ofrivilliga arbetslösheten under de första tolv månaderna av en anställning, anses EES-medborgaren under motsvarande förutsättningar i stället som arbetstagare i sex månader och behåller sin uppehållsrätt under samma tid. *Lag (2014:198)*.
+
+#### 5 b §
+
+En EES-medborgares familjemedlem som inte själv är EES-medborgare behåller sin uppehållsrätt om den person från vilken han eller hon härlett sin uppehållsrätt avlider, under förutsättning att familjemedlemmen då har vistats i Sverige som familjemedlem under minst ett år och
+
+1. är arbetstagare eller egen företagare i Sverige,
+
+2. har tillräckliga tillgångar för sin och sina familjemedlemmars försörjning och har en heltäckande sjukförsäkring för sig och familjemedlemmarna som gäller i Sverige, eller
+
+3. är medlem i en familj som redan är bildad i Sverige av en person som uppfyller villkoren i 1 eller 2. *Lag (2014:198)*.
+
+#### 5 c §
+
+En EES-medborgares familjemedlem som är släkting i rakt nedstigande första led till EES-medborgaren och som är inskriven som studerande vid en erkänd utbildningsanstalt i Sverige behåller sin uppehållsrätt om den förälder från vilken han eller hon härlett sin uppehållsrätt avlider eller reser ut ur Sverige. Detsamma gäller en person som har vårdnaden om familjemedlemmen. Uppehållsrätten kvarstår till dess att familjemedlemmen har avslutat studierna.
+
+*Lag (2014:198)*.
+
+#### 5 d §
+
+En EES-medborgares familjemedlem som inte själv är EES-medborgare behåller sin uppehållsrätt om anknytningen till den person från vilken han eller hon härlett sin uppehållsrätt upphör genom äktenskapsskillnad, ogiltigförklaring av äktenskapet eller upphörande av samboförhållandet, under förutsättning att han eller hon uppfyller vad som föreskrivs i 5 b § 1, 2 eller 3 och
+
+1. äktenskapet eller samboförhållandet har varat i minst tre år, varav minst ett år i Sverige, när förfarandet för äktenskapsskillnad eller ogiltigförklaring av äktenskapet eller upplösning av samboförhållandet inleds,
+
+2. vårdnaden av EES-medborgarens barn har överlåtits på familjemedlemmen,
+
+3. det är befogat med hänsyn till särskilt svåra omständigheter i förhållandet, eller
+
+4. familjemedlemmen genom överenskommelse mellan föräldrarna eller genom domstolsbeslut har rätt till umgänge med ett barn och denna umgängesrätt måste utövas i Sverige. *Lag (2014:198)*.
+
+### Permanent uppehållsrätt
+
+#### 6 §
+
+En EES-medborgare som har vistats lagligt i Sverige utan avbrott under minst fem år har permanent uppehållsrätt.
+
+*Lag (2006:219)*.
+
+#### 7 §
+
+En EES-medborgares familjemedlem som inte själv är EES- medborgare och som har vistats lagligt i Sverige utan avbrott under minst fem år med den person från vilken han eller hon härleder sin uppehållsrätt, har permanent uppehållsrätt.
+
+*Lag (2006:219)*.
+
+#### 8 §
+
+Det som sägs i 6 och 7 §§ påverkas inte av tillfälliga vistelser utanför Sverige som inte överstiger sammanlagt sex månader per år eller av en längre vistelse utanför Sverige på grund av obligatorisk militärtjänstgöring. Detsamma gäller vid vistelse utanför Sverige under högst tolv på varandra följande månader på grund av graviditet och förlossning, allvarlig sjukdom, studier eller yrkesutbildning, utstationering på grund av arbete i ett annat land eller särskilda skäl. *Lag (2006:219)*.
+
+#### 9 §
+
+Permanent uppehållsrätt för EES-medborgare och deras familjemedlemmar gäller utan villkor och kan endast upphöra om utlänningen har vistats utanför Sverige i mer än två på varandra följande år. *Lag (2020:939)*.
+
+### Uppehållskort m.m.
+
+#### 10 §
+
+En EES-medborgares familjemedlem som inte själv är EES-medborgare och som har uppehållsrätt ska ansöka om uppehållskort hos Migrationsverket senast tre månader efter det att han eller hon kom till Sverige. Detta gäller dock inte för en utlänning som har ett giltigt uppehållstillstånd eller som inom tre månader från ankomsten till Sverige har ansökt om ett sådant tillstånd. *Lag (2014:198)*.
+
+#### 11 §
+
+Om det kan antas att en EES-medborgares familjemedlem är skyldig att ansöka om uppehållskort enligt 10 §, får Migrationsverket förelägga honom eller henne att fullgöra denna skyldighet. Migrationsverket får även förelägga familjemedlemmen att lämna in sådana handlingar som är nödvändiga för att uppehållskort ska kunna utfärdas.
+
+*Lag (2014:198)*.
+
+#### 12 §
+
+Ett föreläggande enligt 11 § får förenas med vite.
+
+Fråga om utdömande av vite prövas av migrationsdomstol på ansökan av Migrationsverket.
+
+Vid prövning av en fråga om utdömande av vite får även vitets lämplighet bedömas. *Lag (2006:448)*.
+
+#### 12 a §
+
+Migrationsverket ska utfärda
+
+1. intyg om permanent uppehållsrätt till en EES-medborgare som har ansökt om sådant intyg och som har permanent uppehållsrätt,
+
+2. uppehållskort till en EES-medborgares familjemedlem som inte själv är EES-medborgare, om han eller hon har ansökt om sådant kort och har uppehållsrätt, och
+
+3. permanent uppehållskort till en EES-medborgares familjemedlem som inte själv är EES-medborgare, om han eller hon har ansökt om sådant kort och har permanent uppehållsrätt. *Lag (2014:198)*.
+
+### Bemyndiganden
+
+#### 13 §
+
+Regeringen får meddela föreskrifter om undantag från kraven i 3-7 §§. *Lag (2014:198)*.
+
+#### 14 §
+
+Regeringen får meddela föreskrifter om vilka handlingar som ska lämnas vid ansökan om uppehållskort. *Lag (2014:198)*.
+
+## 3 b kap. Kompletterande bestämmelser till utträdesavtalet mellan Förenade kungariket och EU
+
+#### 1 §
+
+I detta kapitel finns bestämmelser som kompletterar avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU (utträdesavtalet). *Lag (2020:939)*.
+
+#### 2 §
+
+Förutom i detta kapitel finns bestämmelser som kompletterar ut-trädesavtalet i 8 kap. 7 a och 16 §§, 8 a kap. 5 §, 9 kap. 8 b och 8 e §§, 12 kap. 13 a, 15 och 17 §§ och 14 kap. 5 c §. *Lag (2026:1259)*.
+
+### Uppehållsstatus
+
+#### 3 §
+
+En utlänning som uppehåller sig i Sverige i enlighet med villkoren i avdelning II i andra delen av utträdesavtalet ska ansöka om uppehållsstatus enligt artikel 18.1 i utträdesavtalet.
+
+Beslut om uppehållsstatus meddelas av Migrationsverket.
+
+*Lag (2020:939)*.
+
+#### 4 §
+
+Även om villkoren för att bevilja uppehållsstatus enligt utträdesavtalet är uppfyllda får uppehållsstatus vägras i sådana fall som avses i 8 § eller om det finns grund för avvisning eller utvisning enligt 8 kap. 11-14 §§.
+
+*Lag (2020:939)*.
+
+#### 5 §
+
+Uppehållsstatus upphör att gälla för en utlänning som avvisas eller utvisas från Sverige. *Lag (2020:939)*.
+
+#### 6 §
+
+Regeringen får meddela föreskrifter om den tidsfrist som enligt artikel 18.1 b första stycket i utträdesavtalet ska gälla för en ansökan om uppehållsstatus. *Lag (2020:939)*.
+
+### När uppehållsrätt inte föreligger
+
+#### 7 §
+
+En utlänning som medvetet har lämnat oriktiga uppgifter eller medvetet har förtigit omständigheter som har varit av betydelse för att få uppehållsstatus, har inte uppehållsrätt enligt utträdesavtalet.
+
+Om utlänningen har vistats här i landet i mer än fyra år efter beslutet om uppehållsstatus, gäller första stycket endast om det finns synnerliga skäl. *Lag (2020:939)*.
+
+#### 8 §
+
+En utlänning som är familjemedlem till en medborgare i Förenade kungariket har inte uppehållsrätt enligt utträdesavtalet om ett äktenskap har ingåtts, ett samboförhållande har inletts eller en utlänning har adopterats uteslutande i syfte att ge utlänningen uppehållsrätt.
+
+*Lag (2020:939)*.
+
+### Utfärdande av bevis för gränsarbetare
+
+#### 9 §
+
+Migrationsverket ska på ansökan utfärda ett bevis enligt artikel 26 i utträdesavtalet till en medborgare i Förenade kungariket som har rättigheter i egenskap av gränsarbetare enligt avdelning II i andra delen av utträdesavtalet.
+
+*Lag (2020:939)*.
+
+## 4 kap. Internationellt skydd
+
+### Undantag från rätten att stanna kvar i Sverige
+
+#### 1 §
+
+I de situationer som anges i artikel 10.4 a-c i asylprocedurförordningen ska en utlänning som har ansökt om internationellt skydd inte ha rätt att stanna kvar i Sverige under det administrativa förfarandet. I 8 kap. 16 a § andra stycket finns bestämmelser om beslut om avvisning och utvisning i de situationer som anges i artikel 10.4 a och c. I 12 kap. 8 a § finns bestämmelser om verkställighet av sådana beslut. *Lag (2026:1142)*.
+
+#### 2 §
+
+I de situationer som anges i artikel 56 i asylprocedurförordningen, och med undantag från artikel 68.5 d i den förordningen, ska en utlänning som har gjort en efterföljande ansökan inte ha rätt att stanna kvar i Sverige.
+
+I de situationer som anges i artikel 68.6 i asylprocedurförordningen, och med undantag från artikel 68.5 d i den förordningen, ska en utlänning som har överklagat ett beslut om en efterföljande ansökan inte ha rätt att stanna kvar i Sverige. *Lag (2026:1142)*.
+
+### Nekad prövning av en ansökan
+
+#### 3 §
+
+En ansökan om internationellt skydd får nekas prövning i de situationer som anges i artikel 38.1 i asylprocedurförordningen. *Lag (2026:1142)*.
+
+### Uppenbart ogrundad ansökan
+
+#### 4 §
+
+En ogrundad ansökan om internationellt skydd får förklaras som uppenbart ogrundad om någon av de situationer som anges i artikel 42.1 eller 42.3 i asylprocedurförordningen föreligger vid tidpunkten för prövningens avslutande. *Lag (2026:1142)*.
+
+### Gränsförfarandet för asyl
+
+#### 5 §
+
+Utöver den obligatoriska tillämpning av gränsförfarandet för asyl som följer av artikel 45 i asylprocedurförordningen ska en ansökan om internationellt skydd, med de begränsningar som följer av samma förordning, prövas inom ramen för gränsförfarandet i de fall som anges i artikel 43.1 i förordningen. Det gäller dock inte om det föreligger extraordinära omständigheter. *Lag (2026:1142)*.
+
+### Säkra länder
+
+#### 6 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om förteckningar över säkra tredjeländer och säkra ursprungsländer. *Lag (2026:1142)*.
+
+### Beslutande myndighet
+
+#### 7 §
+
+Migrationsverket är beslutande myndighet enligt skyddsgrundsförordningen och asylprocedurförordningen. *Lag (2026:1142)*.
+
+#### 8 §
+
+Om en utlänning som av allmän domstol har utvisats på grund av brott ansöker om internationellt skydd får Migrationsverket inte bevilja internationellt skydd. Om Migrationsverket finner att utlänningen bör beviljas internationellt skydd, ska verket inte besluta i ärendet utan med ett eget yttrande lämna över detta till den migrationsdomstol som verkets beslut om internationellt skydd hade kunnat överklagas till. *Lag (2026:1142)*.
+
+## 5 kap. Uppehållstillstånd
+
+### Uppehållstillstånd för den som har beviljats internationellt skydd
+
+#### 1 §
+
+Bestämmelser om uppehållstillstånd för personer som har beviljats internationellt skydd finns i artikel 24 i skyddsgrundsförordningen.
+
+Ett uppehållstillstånd som har beviljats en flykting med stöd av artikel 24 i skyddsgrundsförordningen ska gälla i tre år. Varje nytt uppehållstillstånd som därefter beviljas med stöd av förordningen ska också gälla i tre år.
+
+Ett uppehållstillstånd som har beviljats en subsidiärt skyddsbehövande med stöd av artikel 24 i skyddsgrundsförordningen ska gälla i tretton månader. Varje nytt uppehållstillstånd som därefter beviljas med stöd av förordningen ska gälla i två år. *Lag (2026:1142)*.
+
+### Uppehållstillstånd för familjesammanhållning
+
+#### 1 a §
+
+Bestämmelser om uppehållstillstånd för sådana familjemedlemmar som avses i artikel 3.9 i skyddsgrundsförordningen och artikel 5.4 i vidare- bosättningsförordningen, till personer som har beviljats internationellt skydd (familjesammanhållning), finns i artikel 23 i skyddsgrundsförordningen och i artikel 9 i vidarebosättningsförordningen. *Lag (2026:1142)*.
+
+### Flyktingförklaring och uppehållstillstånd för medborgare i en annan EU-stat
+
+#### 1 b §
+
+En medborgare i en annan EU-stat som omfattas av definitionen av flykting i Genèvekonventionen av den 28 juli 1951 angående flyktingars rättsliga ställning och protokollet till denna av den 31 januari 1967, och som inte är utesluten från att anses som flykting enligt konventionen, ska förklaras vara flykting (flyktingförklaring). En flyktingförklaring får dock vägras om personen
+
+1. genom ett synnerligen grovt brott har visat att det skulle vara förenat med allvarlig fara för allmän ordning eller säkerhet att låta honom eller henne stanna i Sverige, eller
+
+2. har bedrivit verksamhet som inneburit fara för rikets säkerhet och det finns anledning att anta att han eller hon skulle fortsätta verksamheten här.
+
+En flyktingförklaring ska återkallas om personen inte längre anses vara flykting och får återkallas om det föreligger sådana omständigheter som innebär att en flyktingförklaring skulle få vägras.
+
+Beslut enligt första och andra styckena meddelas av Migrationsverket.
+
+En medborgare i en annan EU-stat som har förklarats vara flykting och som befinner sig i Sverige ska beviljas uppehållstillstånd. Ett sådant uppehållstillstånd ska vara tidsbegränsat och gälla i tre år. Varje nytt tidsbegränsat uppehållstillstånd som därefter beviljas ska gälla i tre år. *Lag (2026:1142)*.
+
+#### 1 c §
+
+Har upphävts genom *lag (2026:1142)*.
+
+#### 2 §
+
+Har upphävts genom *lag (2026:1142)*.
+
+Uppehållstillstånd för familjemedlemmar till skyddsbehövande som har återtagits enligt 5 a kap. 7 a §
+
+#### 2 a §
+
+Om en flykting eller en subsidiärt skyddsbehövande som har återtagits enligt 5 a kap. 7 a § har getts uppehållstillstånd, ska uppehållstillstånd för samma tid ges också till hans eller hennes familjemedlemmar som har återtagits enligt samma bestämmelse.
+
+Uppehållstillstånd får dock vägras en familjemedlem som utgör ett hot mot allmän ordning eller säkerhet. *Lag (2026:1221)*.
+
+### Uppehållstillstånd för utlänningar som har ställning som varaktigt bosatt i Sverige
+
+#### 2 b §
+
+Den som har beviljats ställning som varaktigt bosatt i Sverige ska beviljas ett tidsbegränsat uppehållstillstånd som ska gälla i fem år. Varje nytt tidsbegränsat uppehållstillstånd som därefter beviljas ska gälla i fem år.
+
+Om en utlänning som har ett tidsbegränsat uppehållstillstånd beviljas ställning som varaktigt bosatt i Sverige ska uppehållstillståndets giltighetstid omprövas och bestämmas i enlighet med första stycket. *Lag (2026:1142)*.
+
+#### 2 c §
+
+En utlänning som har ställning som varaktigt bosatt i Sverige och som på grund av vistelse utanför Sverige förlorat sitt uppehållstillstånd ska, efter anmälan, ges ett nytt uppehållstillstånd om han eller hon återvänder till Sverige för att bosätta sig här. *Lag (2014:198)*.
+
+Uppehållstillstånd för familjemedlemmar till utlänningar som har ställning som varaktigt bosatt i Sverige och som återtagits enligt 5 a kap. 7 §
+
+#### 2 d §
+
+Om en utlänning som har ställning som varaktigt bosatt i Sverige och som har återtagits enligt 5 a kap. 7 § har getts uppehållstillstånd, ska uppehållstillstånd för samma tid ges också till hans eller hennes familjemedlemmar som har återtagits enligt samma bestämmelse.
+
+Uppehållstillstånd får dock vägras en familjemedlem som utgör ett hot mot allmän ordning eller säkerhet. *Lag (2026:1221)*.
+
+Uppehållstillstånd på grund av anknytning till bl.a. svenska medborgare
+
+#### 3 §
+
+Uppehållstillstånd på grund av anknytning till en person (anknytningspersonen) som är bosatt i Sverige och är svensk medborgare eller medborgare i något annat nordiskt land eller har permanent uppehållsrätt får ges till en utlänning som är
+
+1. anknytningspersonens make eller sambo,
+
+2. barn till anknytningspersonen och anknytningspersonens make eller sambo,
+
+3. barn till anknytningspersonen, om barnet står under dennes vårdnad, eller
+
+4. barn till anknytningspersonens make eller sambo, om barnet står under dennes vårdnad. *Lag (2026:1686)*.
+
+### Uppehållstillstånd på grund av anknytning till personer med uppehållstillstånd i Sverige
+
+#### 3 a §
+
+Uppehållstillstånd på grund av anknytning till en person som är bosatt i Sverige och har permanent uppehållstillstånd eller ett tidsbegränsat uppehållstillstånd med en giltighetstid om minst ett år och välgrundade utsikter att beviljas varaktigt uppehållstillstånd ska, om inte annat följer av andra stycket eller 17 a eller 17 b §, ges till en utlänning som är
+
+1. anknytningspersonens make eller sambo,
+
+2. barn till anknytningspersonen och anknytningspersonens make eller sambo,
+
+3. barn till anknytningspersonen, om barnet står under dennes vårdnad, eller
+
+4. barn till anknytningspersonens make eller sambo, om barnet står under dennes vårdnad.
+
+Första stycket gäller inte om anknytningspersonen
+
+1. har uppehållstillstånd med tillfälligt skydd enligt 21 kap., eller
+
+2. är subsidiärt skyddsbehövande eller har beviljats uppehållstillstånd enligt 12 kap. 18 § av motsvarande skäl.
+
+Uppehållstillstånd på grund av anknytning till en sådan person som avses i andra stycket 2 som är bosatt i Sverige och har ett sådant uppehållstillstånd som anges i första stycket får ges till en utlänning som är
+
+1. anknytningspersonens make eller sambo,
+
+2. barn till anknytningspersonen och anknytningspersonens make eller sambo,
+
+3. barn till anknytningspersonen, om barnet står under dennes vårdnad, eller
+
+4. barn till anknytningspersonens make eller sambo, om barnet står under dennes vårdnad. *Lag (2026:1686)*.
+
+#### 3 b §
+
+Bestämmelserna i 3 a § gäller inte om utlänningen är en sådan familjemedlem som avses i artikel 23.1 i skyddsgrundsförordningen. *Lag (2026:1686)*.
+
+### Uppehållstillstånd för barn som adopteras
+
+#### 3 c §
+
+Med barn till anknytningspersonen likställs ett barn som har adopterats eller som avses bli adopterat av anknytningspersonen om adoptionsbeslutet har meddelats eller avses komma att meddelas av svensk domstol eller annars gäller i Sverige. Det krävs inte att ett barn som avses bli adopterat står under anknytningspersonens vårdnad.
+
+När en ansökan om uppehållstillstånd grundas på ett beslut om adoption som har meddelats av svensk domstol, ska den anknytning som har uppkommit genom beslutet godtas i ärendet om uppehållstillstånd. *Lag (2026:1686)*.
+
+### Uppehållstillstånd på grund av anknytning till barn
+
+#### 3 d §
+
+Uppehållstillstånd på grund av anknytning till ett barn som är flykting och vid ankomsten till Sverige var skilt från båda sina föräldrar eller från någon annan vuxen person som får anses ha trätt i föräldrarnas ställe, eller som har lämnats ensamt efter ankomsten, ska ges till en utlänning som är barnets förälder, om inte annat följer av 17 a § första stycket.
+
+Uppehållstillstånd får även ges till en utlänning som är förälder till ett barn som är subsidiärt skyddsbehövande om barnet har kommit till Sverige under sådana omständigheter som anges i första stycket. *Lag (2026:1686)*.
+
+#### 3 e §
+
+Uppehållstillstånd på grund av anknytning till ett barn som är bosatt i Sverige och är svensk medborgare eller medborgare i något annat nordiskt land eller har permanent uppehållsrätt eller permanent uppehållstillstånd får ges till en utlänning som
+
+1. är förälder till och vårdnadshavare för samt sammanbor med barnet, eller
+
+2. utövar umgänge med barnet, som inte är av begränsad omfattning. *Lag (2026:1686)*.
+
+### Uppehållstillstånd på grund av anknytning i särskilda situationer
+
+#### 3 f §
+
+Uppehållstillstånd på grund av anknytning till en sådan anknytningsperson som avses i 3 § får ges till en utlänning som har för avsikt att ingå äktenskap eller inleda ett samboförhållande med anknytningspersonen, om förhållandet framstår som seriöst och inte särskilda skäl talar mot att tillstånd ges.
+
+Uppehållstillstånd på grund av anknytning till en sådan anknytningsperson som avses i 3 a § första eller tredje stycket får ges till en utlänning som har för avsikt att ingå äktenskap eller inleda ett samboförhållande med anknytningspersonen om
+
+- förhållandet har etablerats i hemlandet och framstår som seriöst,
+
+- inte särskilda skäl talar mot att tillstånd ges, och
+
+- det har funnits synnerliga svårigheter för anknytningspersonen och utlänningen att leva tillsammans i hemlandet på grund av att förhållandet inte har accepterats.
+
+Om en utlänning beviljas uppehållstillstånd enligt första eller andra stycket får uppehållstillstånd på grund av anknytning till samma anknytningsperson även ges till utlänningens barn, om barnet står under utlänningens vårdnad.
+
+*Lag (2026:1686)*.
+
+#### 3 g §
+
+Uppehållstillstånd på grund av anknytning till en sådan anknytningsperson som avses i 3 eller 3 a § får ges till en utlänning som på annat sätt än vad som i övrigt anges i detta kapitel är nära anhörig till anknytningspersonen, om
+
+1. utlänningen har ingått i samma hushåll som anknytningspersonen och det finns ett särskilt beroendeförhållande mellan dem som fanns redan i hemlandet, eller
+
+2. utlänningen tidigare har haft uppehållstillstånd i Sverige på grund av anknytning till anknytningspersonen och
+
+a) är under 21 år, eller
+
+b) ingår i samma hushåll som anknytningspersonen och det finns ett särskilt beroendeförhållande mellan dem. *Lag (2026:1686)*.
+
+### Uppehållstillstånd på grund av särskild anknytning till Sverige
+
+#### 3 h §
+
+Uppehållstillstånd får ges till en utlänning som har särskild anknytning till Sverige, om det finns synnerliga skäl. *Lag (2026:1686)*.
+
+### Krav på vistelsetid i Sverige för vissa anknytningspersoner
+
+#### 3 i §
+
+Om anknytningspersonen har ett tidsbegränsat uppehållstillstånd får uppehållstillstånd på grund av anknytning till honom eller henne enligt 3 a §, 3 f § eller 3 g § 1 beviljas endast om anknytningspersonen har vistats i Sverige med uppehållstillstånd sedan minst två år när ansökan om uppehållstillstånd på grund av anknytning gavs in. *Lag (2026:1686)*.
+
+Kravet på vistelsetid gäller inte om
+
+1. anknytningspersonen har beviljats internationellt skydd som flykting och familjebanden mellan utlänningen och anknytningspersonen har etablerats före anknytningspersonens inresa i Sverige, eller
+
+2. utlänningen är ett barn som har fötts i Sverige och anknytningspersonen är barnets förälder och sammanbor med barnet i Sverige.
+
+Utöver det som framgår av andra stycket får undantag från kravet på vistelsetid medges om det finns särskilda skäl.
+
+*Lag (2026:1686)*.
+
+### Krav på försörjning och bostad för uppehållstillstånd på grund av anknytning
+
+#### 3 j §
+
+Uppehållstillstånd på grund av anknytning till en person enligt 3, 3 a, 3 f eller 3 g § får beviljas endast om anknytningspersonen kan försörja sig och utlänningen samt har en bostad av tillräcklig storlek och standard för sig och utlänningen.
+
+Första stycket gäller inte om
+
+1. anknytningspersonen är ett barn,
+
+2. utlänningen är ett barn som har fötts i Sverige och anknytningspersonen är barnets förälder och sammanbor med barnet i Sverige, eller
+
+3. anknytningspersonen är medborgare i Sverige eller en annan EES-stat eller Schweiz, utlänningen är anknytningspersonens make eller sambo och utlänningen och anknytningspersonen har sammanbott utomlands en längre tid eller det på något annat sätt står klart att förhållandet är väl etablerat. *Lag (2026:1686)*.
+
+#### 3 k §
+
+Om anknytningspersonen har beviljats internationellt skydd som flykting gäller 3 j § endast om
+
+1. ansökan om uppehållstillstånd görs senare än tre månader efter det att anknytningspersonen beviljades internationellt skydd som flykting,
+
+2. familjeåterförening är möjlig i ett land utanför EU som anknytningspersonen eller utlänningen har en särskild anknytning till, eller
+
+3. familjebanden mellan utlänningen och anknytningspersonen inte har etablerats före anknytningspersonens inresa i Sverige. *Lag (2026:1686)*.
+
+#### 3 l §
+
+Undantag från 3 j § får medges helt eller delvis, om det finns särskilda skäl. Om ansökan om uppehållstillstånd gäller en sådan situation som avses i 3 f § första stycket får undantag medges, om det finns synnerliga skäl. *Lag (2026:1686)*.
+
+### Giltighetstiden för uppehållstillstånd på grund av anknytning
+
+#### 3 m §
+
+Ett uppehållstillstånd som beviljas enligt 3 a § eller någon av 3 d-3 g §§ på grund av anknytning till en utlänning som har ett tidsbegränsat uppehållstillstånd ska vara tidsbegränsat och gälla för samma tid som uppehållstillståndet för anknytningspersonen. I fall som avses i 3 f § tredje stycket ska dock barnets uppehållstillstånd gälla för samma tid som förälderns uppehållstillstånd.
+
+Ett uppehållstillstånd som beviljas enligt 3 eller 3 a § eller någon av 3 d-3 g §§ på grund av anknytning till någon som är svensk medborgare eller medborgare i något annat nordiskt land eller har permanent uppehållsrätt eller permanent uppehållstillstånd, eller som beviljas enligt 3 h §, ska vara tidsbegränsat och gälla i två år. I fall som avses i 3 f § tredje stycket ska dock barnets uppehållstillstånd gälla för samma tid som förälderns uppehållstillstånd.
+
+Om ett nytt tidsbegränsat uppehållstillstånd beviljas enligt 3 eller 3 a § eller någon av 3 d-3 h §§ ska det gälla i två år. Uppehållstillståndet får dock inte gälla för längre tid än uppehållstillståndet för anknytningspersonen. Om anknytningspersonen har beviljats ett tidsbegränsat uppehållstillstånd som flykting ska det nya tidsbegränsade uppehållstillståndet i stället gälla för samma tid som uppehållstillståndet för anknytningspersonen. En utlänning som med stöd av 3 § 1 eller 4, 3 a § första stycket 1 eller 4 eller tredje stycket 1 eller 4 eller 3 f § har beviljats ett tidsbegränsat uppehållstillstånd får beviljas ett nytt uppehållstillstånd på den grunden endast om förhållandet består.
+
+En ansökan om permanent uppehållstillstånd får, när giltighetstiden för ett uppehållstillstånd löper ut och om annat inte följer av femte stycket, beviljas om en utlänning har haft tidsbegränsat uppehållstillstånd i minst tre år och förutsättningarna för uppehållstillstånd enligt 3 eller 3 a § eller någon av 3 d-3 h §§ och de särskilda kraven i 7 § är uppfyllda.
+
+Ett permanent uppehållstillstånd enligt fjärde stycket får inte beviljas om en utlänning har haft ett uppehållstillstånd som har beviljats enligt 3 eller 3 a § eller någon av 3 d- 3 h §§ eller motsvarande äldre bestämmelser på grund av anknytning till någon som har beviljats ett tidsbegränsat uppehållstillstånd enligt 2 b eller 6 § eller enligt 12 kap. 18 §, eller som flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i skyddsgrunds- förordningen eller motsvarande äldre bestämmelser.
+
+*Lag (2026:1686)*.
+
+### Uppehållstillstånd på grund av Sveriges internationella åtaganden
+
+#### 4 §
+
+Om ett internationellt organ, som har behörighet att pröva klagomål från enskilda, funnit att ett beslut om avvisning eller utvisning i ett enskilt ärende strider mot ett svenskt konventionsåtagande, skall uppehållstillstånd ges till den som omfattas av beslutet, såvida inte synnerliga skäl talar mot att uppehållstillstånd ges.
+
+### Uppehållstillstånd på grund av arbete, forskning, utbildning på forskarnivå, näringsverksamhet eller försörjning på annat sätt
+
+#### 5 §
+
+Ett permanent uppehållstillstånd får beviljas en utlänning som i sammanlagt fyra år under de senaste sju åren har haft
+
+1. uppehållstillstånd för arbete,
+
+2. uppehållstillstånd för forskning, forskning vid rörlighet för längre vistelse eller utbildning på forskarnivå,
+
+3. ett av Sverige utfärdat EU-blåkort,
+
+4. ett av Sverige utfärdat ICT-tillstånd eller ICT-tillstånd för rörlighet för längre vistelse, eller
+
+5. ett av Sverige utfärdat tillstånd för säsongsarbete.
+
+Ett permanent uppehållstillstånd får även beviljas en utlänning som sedan minst
+
+1. två år har ett tidsbegränsat uppehållstillstånd för näringsverksamhet, om verksamheten är etablerad, eller
+
+2. tre år har ett tidsbegränsat uppehållstillstånd för forskning, forskning vid rörlighet för längre vistelse, utbildning på forskarnivå eller ett av Sverige utfärdat EU- blåkort.
+
+Uppehållstillstånd får beviljas en utlänning som har sin försörjning ordnad på annat sätt än genom anställning.
+
+I 7 och 8 §§ finns bestämmelser om särskilda krav för permanent uppehållstillstånd.
+
+Vid tillämpningen av första stycket ska inte räknas tid under vilken utlänningen har haft ett uppehållstillstånd för arbete efter avslag på asylansökan. *Lag (2026:1142)*.
+
+### Uppehållstillstånd på grund av synnerligen ömmande omständigheter
+
+#### 6 §
+
+Om uppehållstillstånd inte kan ges på annan grund, får tillstånd beviljas en utlänning om det vid en samlad bedömning av utlänningens situation finns sådana synnerligen ömmande omständigheter att han eller hon bör tillåtas stanna i Sverige. Vid bedömningen ska utlänningens hälsotillstånd, anpassning till Sverige och situation i hemlandet särskilt beaktas.
+
+Barn får beviljas uppehållstillstånd enligt första stycket även om de omständigheter som kommer fram inte har samma allvar och tyngd som krävs för att tillstånd ska beviljas vuxna personer.
+
+Ett uppehållstillstånd som beviljas enligt första stycket ska vara tidsbegränsat och gälla i tretton månader. Varje nytt tidsbegränsat uppehållstillstånd som därefter beviljas ska gälla i två år. *Lag (2026:1142)*.
+
+### Särskilda krav för permanent uppehållstillstånd
+
+#### 7 §
+
+Ett permanent uppehållstillstånd får beviljas endast om
+
+1. utlänningen kan försörja sig, och
+
+2. det med hänsyn till utlänningens förväntade vandel inte råder tveksamhet om att ett permanent uppehållstillstånd bör beviljas. *Lag (2026:1221)*.
+
+#### 8 §
+
+Kravet i 7 § 1 gäller inte om
+
+1. utlänningen är ett barn,
+
+2. utlänningen har rätt att uppbära inkomstgrundad ålderspension, garantipension eller äldreförsörjningsstöd enligt socialförsäkringsbalken, eller
+
+3. det finns särskilda skäl.
+
+Kravet i 7 § 2 gäller inte om utlänningen är under 15 år.
+
+Kraven i 7 § gäller inte när en ansökan om permanent uppehållstillstånd ska göras av någon annan än utlänningen. *Lag (2026:1142)*.
+
+### Tidsbegränsat uppehållstillstånd i vissa fall
+
+#### 9 §
+
+Ett tidsbegränsat uppehållstillstånd får beviljas en utlänning som önskar vistas här i landet för att söka arbete eller undersöka förutsättningarna för att starta näringsverksamhet, om han eller hon
+
+1. har slutfört studier som motsvarar en examen på avancerad nivå,
+
+2. har tillräckliga medel för sitt uppehälle under tillståndstiden och för att täcka kostnaderna för sin återresa, och
+
+3. har en heltäckande sjukförsäkring som gäller i Sverige.
+
+Ett uppehållstillstånd enligt första stycket får inte beviljas för längre tid än nio månader. *Lag (2022:303)*.
+
+#### 10 §
+
+Ett tidsbegränsat uppehållstillstånd får beviljas en utlänning som önskar vistas här i landet för arbete, studier eller besök. *Lag (2022:303)*.
+
+#### 10 a §
+
+Ett tidsbegränsat uppehållstillstånd får beviljas en utlänning som önskar vistas här i landet för att bedriva näringsverksamhet, om han eller hon har förmåga att bedriva den aktuella verksamheten och kan försörja sig.
+
+Ett uppehållstillstånd enligt första stycket får inte beviljas för längre tid än två år åt gången. *Lag (2022:303)*.
+
+#### 11 §
+
+Ett tidsbegränsat uppehållstillstånd får beviljas om det finns ett hinder, som inte är bestående, mot att ett avvisnings- eller utvisningsbeslut verkställs.
+
+Uppehållstillstånd enligt första stycket får dock inte beviljas en utlänning som omfattas av bestämmelserna i 12 kap. 17 a §. *Lag (2026:385)*.
+
+#### 12 §
+
+*/Upphör att gälla U:2027-01-01/* Ett tidsbegränsat uppehållstillstånd får beviljas en utlänning som behöver vård enligt lagen (1990:52) med särskilda bestämmelser om vård av unga.
+
+#### 12 §
+
+*/Träder i kraft I:2027-01-01/* Ett tidsbegränsat uppehållstillstånd får beviljas en utlänning som behöver omhändertas enligt lagen (2026:1600) om omhändertagande för vård av barn och unga. *Lag (2026:1619)*.
+
+#### 13 §
+
+Ett tidsbegränsat uppehållstillstånd får beviljas ett barn eller en man, om barnets eller mannens närvaro i Sverige är nödvändig för att en faderskapsutredning skall kunna genomföras.
+
+#### 14 §
+
+Om ett tidsbegränsat uppehållstillstånd beviljats ett barn enligt 12 eller 13 §, får ett tidsbegränsat uppehållstillstånd beviljas också barnets vårdnadshavare.
+
+#### 15 §
+
+Ett tidsbegränsat uppehållstillstånd om minst sex månader ska ges till en utlänning som vistas här, om
+
+1. det behövs för att förundersökning eller huvudförhandling i brottmål ska kunna genomföras,
+
+2. utlänningen klart visat sin vilja att samarbeta med de brottsutredande myndigheterna,
+
+3. utlänningen brutit alla förbindelser med de personer som är misstänkta för brott som förundersökningen avser, och
+
+4. hänsyn till den allmänna ordningen eller säkerheten inte talar emot att tillstånd beviljas.
+
+Om utlänningen vill ha betänketid för att återhämta sig och för att kunna ta ställning till om han eller hon vill samarbeta med de brottsutredande myndigheterna, ska ett tidsbegränsat uppehållstillstånd om 30 dagar meddelas om de förutsättningar som anges i första stycket 1 och 4 är uppfyllda.
+
+Ett uppehållstillstånd som meddelats enligt första stycket får förlängas om de förutsättningar som anges där fortfarande är uppfyllda. Ett uppehållstillstånd som meddelats enligt andra stycket får förlängas om det av särskilda skäl finns behov av en längre betänketid och de förutsättningar som anges i första stycket 1 och 4 fortfarande är uppfyllda.
+
+En ansökan om uppehållstillstånd eller förlängt tillstånd enligt denna paragraf görs av förundersökningsledaren. Om det finns anledning att anta att utlänningen har utsatts för brott enligt 4 kap. 1 a eller 1 b § brottsbalken får en ansökan om uppehållstillstånd enligt andra stycket göras även av socialnämnden. *Lag (2026:1221)*.
+
+#### 15 a §
+
+Har upphävts genom *lag (2025:225)*.
+
+#### 15 b §
+
+Ett tidsbegränsat uppehållstillstånd ska på ansökan av Polismyndigheten beviljas en utlänning som är föremål för särskilt personsäkerhetsarbete enligt 2 a § polislagen (1984:387). Uppehållstillståndet ska gälla i minst ett år.
+
+*Lag (2014:655)*.
+
+#### 15 c §
+
+Ett tidsbegränsat uppehållstillstånd ska på ansökan av socialnämnden beviljas ett barn som avses bli placerat här i landet enligt 22 kap. 17 § socialtjänstlagen (2025:400) om uppehållstillstånd behövs för vistelsen. Uppehållstillståndet ska gälla i minst ett år. *Lag (2025:429)*.
+
+#### 15 d §
+
+En utlänning med uppehållstillstånd enligt 15 § får, efter egen ansökan, för tiden efter tillståndets giltighetstid beviljas ett tidsbegränsat uppehållstillstånd, om utlänningen
+
+1. har samarbetat med de brottsutredande myndigheterna i en utredning om brott enligt 20 kap. 5 §, och
+
+2. har väckt talan om innestående ersättning för arbete enligt lagen (2013:644) om rätt till lön och annan ersättning för arbete utfört av en utlänning som inte har rätt att vistas i Sverige. *Lag (2013:646)*.
+
+### Fortsatt uppehållstillstånd i vissa fall
+
+#### 16 §
+
+Uppehållstillstånd får beviljas en utlänning som med stöd av 3 § 1 eller 4, 3 a § första stycket 1 eller 4 eller tredje stycket 1 eller 4 eller 3 f § har beviljats ett tidsbegränsat uppehållstillstånd och som inte kan få fortsatt sådant uppehållstillstånd på grund av att
+
+1. förhållandet har upphört och det främst beror på att utlänningen, eller hans eller hennes barn, i förhållandet utsatts för våld eller annan allvarlig kränkning av sin frihet eller frid, eller
+
+2. förhållandet har upphört eller av någon annan anledning inte kan läggas till grund för att bevilja fortsatt uppehållstillstånd och omständigheterna på annat sätt är särskilt ömmande.
+
+Ett uppehållstillstånd som beviljas enligt första stycket ska vara tidsbegränsat och gälla i tretton månader. *Lag (2026:1686)*.
+
+#### 16 a §
+
+En utlänning som med stöd av 15 b § har beviljats ett tidsbegränsat uppehållstillstånd ska när tillståndet löper ut, på ansökan av Polismyndigheten, beviljas ett permanent uppehållstillstånd om han eller hon fortfarande är föremål för särskilt personsäkerhetsarbete enligt 2 a § polislagen (1984:387). *Lag (2014:655)*.
+
+#### 16 b §
+
+Ett barn som med stöd av 15 c § har beviljats ett tidsbegränsat uppehållstillstånd ska, när tillståndet löper ut, på ansökan av socialnämnden beviljas ett permanent uppehållstillstånd, om barnet fortfarande är placerat här i landet. *Lag (2012:322)*.
+
+#### 16 c §
+
+Ny beteckning 2 c § genom *lag (2014:198)*.
+
+### Särskilda skäl mot att bevilja uppehållstillstånd
+
+#### 17 §
+
+Vid prövning av en ansökan om uppehållstillstånd enligt detta kapitel ska det, utom i fall som avses i 1 a §, 1 b §, 2 a §, 2 d §, 3 a § första stycket, 3 d § första stycket eller 4 §, särskilt beaktas om utlänningen utgör ett hot mot allmän ordning eller säkerhet, har dömts för brott eller i övrigt brustit i sin vandel.
+
+Vid prövning av en ansökan om uppehållstillstånd i fall som avses i 3 §, 3 a § tredje stycket, 3 d § andra stycket eller någon av 3 e-3 g §§ ska det särskilt beaktas om
+
+1. utlänningen, eller hans eller hennes barn, kan antas komma att bli utsatt för våld eller annan allvarlig kränkning av sin frihet eller frid om ansökan beviljas,
+
+2. anknytningspersonen, eller någon annan familjemedlem, kan antas komma att bli utsatt för våld eller annan allvarlig kränkning av sin frihet eller frid av utlänningen om ansökan beviljas, eller
+
+3. det finns sådana omständigheter som anges i 17 a eller 17 b §.
+
+Uppehållstillstånd för ett barn på grund av anknytning enligt detta kapitel får beviljas endast om det också medges av den förälder till vilken anknytning inte åberopas, om den föräldern har del i vårdnaden av barnet.
+
+Uppehållstillstånd ska inte beviljas en person som har ställning som varaktigt bosatt i en annan EU-stat, eller hans eller hennes anhöriga, om personen utgör ett hot mot allmän ordning eller säkerhet. *Lag (2026:1686)*.
+
+#### 17 a §
+
+Uppehållstillstånd får vägras i sådana fall som avses i 3 a § första stycket eller 3 d § första stycket, om
+
+1. oriktiga uppgifter medvetet har lämnats eller omständigheter medvetet har förtigits som är av betydelse för att få uppehållstillståndet,
+
+2. en utlänning har adopterats eller ett äktenskap ingåtts eller ett samboförhållande inletts uteslutande i syfte att ge utlänningen rätt till uppehållstillstånd,
+
+3. utlänningen utgör ett hot mot allmän ordning eller säkerhet, eller
+
+4. utlänningen har dömts för brott eller i övrigt brustit i sin vandel och uppehållstillståndet enligt artikel 3 i rådets direktiv 2003/86/EG av den 22 september 2003 om rätt till familjeåterförening, i den ursprungliga lydelsen, inte omfattas av bestämmelserna i det direktivet.
+
+Uppehållstillstånd får vägras även i sådana fall som avses i 3 a § första stycket 1 eller 4, om
+
+1. makarna eller samborna inte lever tillsammans och inte heller har för avsikt att göra det,
+
+2. den person till vilken anknytning åberopas, eller utlänningen som sökt uppehållstillstånd, är gift eller sambo med någon annan, eller
+
+3. någon av makarna eller samborna är under 21 år.
+
+Vid bedömningen av om uppehållstillstånd bör vägras ska hänsyn tas till utlänningens övriga levnadsomständigheter och familjeförhållanden. *Lag (2026:1686)*.
+
+#### 17 b §
+
+Uppehållstillstånd ska vägras i sådana fall som avses i 3 a § första stycket 1 eller 4 om anknytningspersonen är gift med en annan person och lever tillsammans med den personen i Sverige. *Lag (2026:1686)*.
+
+### När ansökan om uppehållstillstånd ska vara gjord
+
+#### 18 §
+
+*/Upphör att gälla U:2028-01-01/* En utlänning som vill ha uppehållstillstånd i Sverige ska ha ansökt om och beviljats ett sådant tillstånd före inresan i landet. En ansökan om uppehållstillstånd får inte bifallas efter inresan.
+
+Första stycket gäller inte om
+
+1. utlänningen kan beviljas uppehållstillstånd här med stöd av 21 kap. 2, 3, 4 eller 6 §,
+
+2. utlänningen med stöd av 6 § bör beviljas uppehållstillstånd här,
+
+3. en ansökan om uppehållstillstånd avser förlängning av ett tidsbegränsat uppehållstillstånd som har beviljats en utlänning med stöd av 3 eller 3 a § eller någon av 3 d-3 h §§,
+
+4. utlänningen kan beviljas eller har ett tidsbegränsat uppehållstillstånd här med stöd av 15 §,
+
+5. utlänningen enligt 3 eller 3 a § eller någon av 3 d-3 h §§ har stark anknytning till en person som är bosatt i Sverige och det inte skäligen kan krävas att utlänningen reser till ett annat land för att ge in ansökan där,
+
+6. utlänningen har rätt till uppehållstillstånd med stöd av artikel 23 i skyddsgrundsförordningen,
+
+7. utlänningen kan beviljas uppehållstillstånd enligt 15 d §,
+
+8. följande villkor är uppfyllda:
+
+a) utlänningen ansöker om förlängning av ett tidsbegränsat uppehållstillstånd, för arbete som har beviljats enligt 10 § i de fall som avses i 6 kap. 2 § första stycket, eller för att bedriva näringsverksamhet enligt 10 a §,
+
+b) utlänningen har
+
+- ett tidsbegränsat uppehållstillstånd för arbete som har beviljats enligt 10 § i de fall som avses i 6 kap. 2 § första stycket och inom giltighetstiden för detta tillstånd ansöker om ett tidsbegränsat uppehållstillstånd för att bedriva näringsverksamhet enligt 10 a §, och förutsättningarna för det tidigare tillståndet har varit uppfyllda, eller
+
+- ett tidsbegränsat uppehållstillstånd för att bedriva näringsverksamhet som har beviljats enligt 10 a § och inom giltighetstiden för detta tillstånd ansöker om ett tidsbegränsat uppehållstillstånd för arbete enligt 10 § i de fall som avses i 6 kap. 2 § första stycket, och förutsättningarna för det tidigare tillståndet har varit uppfyllda, eller
+
+c) en ansökan avser ett uppehållstillstånd som familjemedlem till en utlänning som avses i a eller b, om ansökan ges in inom giltighetstiden för det tidigare tillståndet som familjemedlem och utlänningen beviljas uppehållstillstånd enligt de bestämmelser som anges där,
+
+9. utlänningen har ett uppehållstillstånd enligt 10 § eller 5 b kap. 3 § och antingen har slutfört en högskoleutbildning som avser studier som motsvarar minst två terminer eller fullföljt minst två terminer vid en utbildning på forskarnivå eller har ett uppehållstillstånd enligt 5 b kap. 1, 2, 4, 7 eller 8 §,
+
+10. utlänningen har rätt till uppehållstillstånd enligt 2 a eller 2 d §, eller
+
+11. det annars finns synnerliga skäl.
+
+Första stycket gäller inte heller om utlänningen har beviljats en visering för att besöka en arbetsgivare i Sverige eller är undantagen från kravet på visering om han eller hon ansöker om ett uppehållstillstånd för arbete inom ett slag av arbete där det råder stor efterfrågan på arbetskraft. En ytterligare förutsättning är att arbetsgivaren skulle förorsakas olägenheter om utlänningen måste resa till ett annat land för att ge in ansökan där eller att det annars finns särskilda skäl.
+
+Första stycket gäller inte heller en utlänning som har beviljats ett uppehållstillstånd enligt 9 §, om ansökan avser ett tidsbegränsat uppehållstillstånd för arbete enligt 10 § i de fall som avses i 6 kap. 2 § första stycket eller för att bedriva näringsverksamhet enligt 10 a § och ges in inom giltighetstiden för det tidigare tillståndet.
+
+Vid skälighetsbedömningen enligt andra stycket 5 ska konsekvenserna för ett barn av att skiljas från sin förälder särskilt beaktas, om det står klart att uppehållstillstånd skulle ha beviljats om prövningen gjorts före inresan i Sverige.
+
+I fråga om uppehållstillstånd för en utlänning som ska avvisas eller utvisas enligt ett beslut som har fått laga kraft gäller föreskrifterna i 18 b och 20 §§ samt 12 kap. 16 b, 16 c, 16 e, 16 g, 17 a, 17 c och 18-20 §§. *Lag (2026:1686)*.
+
+#### 18 §
+
+*/Träder i kraft I:2028-01-01/* En utlänning som vill ha uppehållstillstånd i Sverige ska ha ansökt om och beviljats ett sådant tillstånd före inresan i landet. En ansökan om uppehållstillstånd får inte bifallas efter inresan.
+
+Första stycket gäller inte om
+
+1. utlänningen kan beviljas uppehållstillstånd här med stöd av 21 kap. 2, 3, 4 eller 6 §,
+
+2. utlänningen med stöd av 6 § bör beviljas uppehållstillstånd här,
+
+3. en ansökan om uppehållstillstånd avser förlängning av ett tidsbegränsat uppehållstillstånd som har beviljats en utlänning med stöd av 3 eller 3 a § eller någon av 3 d-3 h §§,
+
+4. utlänningen kan beviljas eller har ett tidsbegränsat uppehållstillstånd här med stöd av 15 §,
+
+5. utlänningen enligt 3 eller 3 a § eller någon av 3 d-3 h §§ har stark anknytning till en person som är bosatt i Sverige och det inte skäligen kan krävas att utlänningen reser till ett annat land för att ge in ansökan där,
+
+6. utlänningen har rätt till uppehållstillstånd med stöd av artikel 23 i skyddsgrundsförordningen,
+
+7. utlänningen kan beviljas uppehållstillstånd enligt 15 d §,
+
+8. följande villkor är uppfyllda:
+
+a) utlänningen ansöker om förlängning av ett tidsbegränsat uppehållstillstånd, för arbete som har beviljats enligt 10 § i de fall som avses i 6 kap. 2 § första stycket, eller för att bedriva näringsverksamhet enligt 10 a §,
+
+b) utlänningen har
+
+- ett tidsbegränsat uppehållstillstånd för arbete som har beviljats enligt 10 § i de fall som avses i 6 kap. 2 § första stycket och inom giltighetstiden för detta tillstånd ansöker om ett tidsbegränsat uppehållstillstånd för att bedriva näringsverksamhet enligt 10 a §, och förutsättningarna för det tidigare tillståndet har varit uppfyllda, eller
+
+- ett tidsbegränsat uppehållstillstånd för att bedriva näringsverksamhet som har beviljats enligt 10 a § och inom giltighetstiden för detta tillstånd ansöker om ett tidsbegränsat uppehållstillstånd för arbete enligt 10 § i de fall som avses i 6 kap. 2 § första stycket, och förutsättningarna för det tidigare tillståndet har varit uppfyllda, eller
+
+c) en ansökan avser ett uppehållstillstånd som familjemedlem till en utlänning som avses i a eller b, om ansökan ges in inom giltighetstiden för det tidigare tillståndet som familjemedlem och utlänningen beviljas uppehållstillstånd enligt de bestämmelser som anges där,
+
+9. utlänningen har ett uppehållstillstånd enligt 10 § eller 5 b kap. 3 § och antingen har slutfört en högskoleutbildning som avser studier som motsvarar minst två terminer eller fullföljt minst två terminer vid en utbildning på forskarnivå eller har ett uppehållstillstånd enligt 5 b kap. 1, 2, 4, 7 eller 8 §,
+
+10. utlänningen har rätt till uppehållstillstånd enligt 2 a eller 2 d §, eller
+
+11. det annars finns synnerliga skäl.
+
+Första stycket gäller inte heller om utlänningen har beviljats en visering för att besöka en arbetsgivare i Sverige eller är undantagen från kravet på visering om han eller hon ansöker om ett uppehållstillstånd för arbete inom ett slag av arbete där det råder stor efterfrågan på arbetskraft. En ytterligare förutsättning är att arbetsgivaren skulle förorsakas olägenheter om utlänningen måste resa till ett annat land för att ge in ansökan där eller att det annars finns särskilda skäl.
+
+Första stycket gäller inte heller en utlänning som har beviljats ett uppehållstillstånd enligt 9 §, om ansökan avser ett tidsbegränsat uppehållstillstånd för arbete enligt 10 § i de fall som avses i 6 kap. 2 § första stycket eller för att bedriva näringsverksamhet enligt 10 a § och ges in inom giltighetstiden för det tidigare tillståndet.
+
+Vid skälighetsbedömningen enligt andra stycket 5 ska konsekvenserna för ett barn av att skiljas från sin förälder särskilt beaktas, om det står klart att uppehållstillstånd skulle ha beviljats om prövningen gjorts före inresan i Sverige.
+
+I fråga om uppehållstillstånd för en utlänning som ska avvisas eller utvisas enligt ett beslut som har fått laga kraft gäller föreskrifterna i 20 § samt 12 kap. 16 b, 16 c, 16 e, 16 g, 17 a, 17 c och 18-20 §§. *Lag (2026:1687)*.
+
+#### 18 a §
+
+Det som föreskrivs i 18 § första stycket gäller inte för en utlänning som ansöker om permanent uppehållstillstånd enligt 5 § första eller andra stycket. Inte heller gäller det som föreskrivs i 18 § första stycket för en utlänning som ansöker om uppehållstillstånd för arbete enligt 10 § om han eller hon har ett av Sverige utfärdat EU-blåkort, ICT-tillstånd, ICT-tillstånd för rörlighet för längre vistelse eller tillstånd för säsongsarbete.
+
+En ansökan om uppehållstillstånd efter inresan i Sverige får även bifallas för en familjemedlem till en utlänning som avses i första stycket om utlänningen beviljas uppehållstillstånd enligt de bestämmelser som anges där. *Lag (2026:457)*.
+
+#### 18 b §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1687)*./ Det som föreskrivs i 18 § första stycket gäller inte för en utlänning som efter den 1 oktober 2023 har haft uppehållstillstånd i Sverige på grund av anknytning i egenskap av barn till en förälder eller till förälderns make eller sambo.
+
+En ansökan om uppehållstillstånd efter inresan i Sverige får bifallas för en utlänning som avses i första stycket utan hinder av ett lagakraftvunnet utvisningsbeslut om det beslutet fick laga kraft den 1 januari 2025 eller senare.
+
+*Lag (2026:1686)*.
+
+#### 19 §
+
+En ansökan om uppehållstillstånd som avser förlängning av ett pågående besök eller någon annan tidsbegränsad vistelse här i landet får bifallas trots att utlänningen vistas i Sverige, om det finns vägande skäl för förlängning av vistelsetiden.
+
+### Beslutande myndigheter
+
+#### 20 §
+
+Beslut om uppehållstillstånd meddelas av Migrationsverket.
+
+Migrationsverket får dock inte bevilja uppehållstillstånd för en utlänning som av allmän domstol har utvisats på grund av brott. Om Migrationsverket finner att en sådan utlänning bör beviljas uppehållstillstånd enligt 12 kap. 16 b § eller 16 e § andra stycket, ska verket inte besluta i ärendet utan med ett eget yttrande lämna över detta till den migrationsdomstol till vilken verkets beslut om uppehållstillstånd hade kunnat överklagas.
+
+Beslut om uppehållstillstånd får också meddelas av Regeringskansliet. *Lag (2026:385)*.
+
+#### 21 §
+
+Av 8 kap. 27 § följer att den instans som prövar överklagande av beslut om avvisning och utvisning i vissa fall också får besluta om uppehållstillstånd. *Lag (2014:198)*.
+
+### Bemyndiganden
+
+#### 22 §
+
+Regeringen eller efter regeringens bemyndigande Migrationsverket får meddela föreskrifter om att andra myndigheter har rätt att besluta om uppehållstillstånd.
+
+#### 23 §
+
+Regeringen får meddela föreskrifter om uppehållstillstånd för studier eller besök.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om uppehållstillstånd för att bedriva näringsverksamhet.
+
+Regeringen får meddela föreskrifter om att en ansökan om uppehållstillstånd får bifallas om det följer av en överenskommelse med en främmande stat.
+
+Regeringen får meddela föreskrifter om när uppehållstillstånd får ges till en utlänning som har ställning som varaktigt bosatt i en annan EU-stat och till anhöriga till en sådan utlänning.
+
+Regeringen får meddela föreskrifter om uppehållstillstånd för familjemedlemmar till en utlänning som har beviljats uppehållstillstånd för arbete, studier eller näringsverksamhet.
+
+Regeringen får meddela föreskrifter om uppehållstillstånd för en utlänning som är medborgare i Förenade kungariket och för familjemedlemmar till en sådan utlänning.
+
+I 5 b kap. 28 § finns en bestämmelse om att regeringen får meddela föreskrifter om uppehållstillstånd för familjemedlemmar till en utlänning som har beviljats uppehållstillstånd enligt 5 b kap. 3 eller 8 §. *Lag (2022:303)*.
+
+#### 24 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om försörjningsförmåga enligt 7 § 1.
+
+*Lag (2021:765)*.
+
+#### 25 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om försörjningsförmågan enligt 9 § första stycket 2. *Lag (2022:303)*.
+
+#### 26 §
+
+Har upphävts genom *lag (2009:1542)*.
+
+#### 27 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om försörjningsförmåga och bostad av tillräcklig storlek och standard enligt 3 b §. *Lag (2010:175)*.
+
+## 5 a kap. Ställning som varaktigt bosatt i Sverige
+
+### Förutsättningar för att beviljas ställning som varaktigt bosatt i Sverige
+
+#### 1 §
+
+En ansökan från en utlänning om ställning som varaktigt bosatt i Sverige ska beviljas om sökanden de senaste fem åren utan avbrott har vistats i Sverige med uppehållstillstånd eller på annan grund som lagligen bosatt.
+
+Vid beräkningen av vistelsetiden för en sökande som har beviljats internationellt skydd, räknas även tiden mellan den dag då ansökan om internationellt skydd gjordes och den dag då uppehållstillstånd som flykting eller subsidiärt skyddsbehövande beviljades med stöd av artikel 24 i skydds- grundsförordningen eller motsvarande äldre bestämmelser.
+
+Vid beräkningen av vistelsetiden ska vistelse i Sverige av tillfälliga skäl eller för studier inte räknas.
+
+Vistelse utanför Sverige under kortare tid än sex månader i följd och inte mer än tio månader sammanlagt under femårsperioden ska inte anses vara avbrott i vistelsen.
+
+Om en person som har beviljats internationellt skydd i Sverige påträffas i en annan EU-stat, utan att ha rätt att vistas eller bosätta sig där i enlighet med relevant nationell rätt, unionsrätt eller internationell rätt, ska vistelsetid i Sverige dessförinnan inte beaktas vid beräkningen av den vistelsetid som avses i första stycket. *Lag (2026:1142)*.
+
+#### 1 a §
+
+En ansökan från en utlänning om ställning som varaktigt bosatt i Sverige ska beviljas om sökanden
+
+1. har utnyttjat möjligheten till rörlighet för längre vistelse för EU-blåkortsinnehavare,
+
+2. har vistats inom Europeiska unionens medlemsstaters territorier utan avbrott under minst fem år och under denna tid haft EU-blåkort, nationellt uppehållstillstånd för högkvalificerad anställning, uppehållstillstånd för forskning eller uppehållstillstånd som flykting eller subsidiärt skydds- behövande i en eller flera medlemsstater, och
+
+3. de senaste två åren räknat från tiden för ansökan har haft EU-blåkort enligt 6 a kap. 1 §.
+
+Vistelse utanför den medlemsstat där utlänningen har uppehållstillstånd under kortare tid än tolv månader i följd och inte mer än arton månader sammanlagt ska vid beräkning av vistelsetiden enligt första stycket 2 inte anses vara avbrott i vistelsen. *Lag (2026:1142)*.
+
+#### 2 §
+
+För att beviljas ställning som varaktigt bosatt i Sverige skall sökanden fullt ut kunna försörja sig och sin familj med egna medel så att grundläggande behov av uppehälle och bostad är tillgodosedda.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om kravet på försörjningsförmågan.
+
+*Lag (2006:219)*.
+
+#### 3 §
+
+En person som utgör ett hot mot allmän ordning eller säkerhet får inte beviljas ställning som varaktigt bosatt i Sverige. *Lag (2026:1221)*.
+
+#### 4 §
+
+Ställning som varaktigt bosatt i Sverige ska inte beviljas
+
+1. en medborgare i en EU-stat, eller
+
+2. en utlänning vars vistelse i Sverige inte är av varaktig karaktär. *Lag (2021:765)*.
+
+### Återkallelse
+
+#### 5 §
+
+Ställning som varaktigt bosatt i Sverige ska återkallas om den som beviljats sådan ställning
+
+1. medvetet har lämnat oriktiga uppgifter eller förtigit omständigheter, som varit av betydelse för att få ställningen,
+
+2. utvisas,
+
+3. utgör ett hot mot allmän ordning,
+
+4. har vistats utanför Europeiska unionens medlemsstaters territorier under tolv månader i följd,
+
+5. har vistats utanför Sveriges territorium under sex år i följd, eller
+
+6. får ställning som varaktigt bosatt i en annan EU-stat.
+
+Om ställning som varaktigt bosatt i Sverige har beviljats med stöd av 1 a §, ska tidsperioden i första stycket 4 vara tjugofyra månader. *Lag (2013:606)*.
+
+#### 6 §
+
+Den som förlorat sin ställning som varaktigt bosatt i Sverige på grund av vistelse utanför Sveriges respektive Europeiska unionens medlemsstaters territorier ska återfå denna efter ansökan, oavsett kraven på vistelsetid enligt 1 eller 1 a §, om
+
+1. han eller hon har beviljats ett permanent uppehållstillstånd eller ett uppehållstillstånd syftande till bosättning enligt 5 kap.,
+
+2. försörjningskravet i 2 § är uppfyllt, och
+
+3. det inte finns något hinder enligt 3 §.
+
+*Lag (2013:606)*.
+
+### Återtagande av utlänningar som har ställning som varaktigt bosatt i Sverige och deras familjemedlemmar
+
+#### 7 §
+
+Om en annan EU-stat har ålagt en utlänning som har ställning som varaktigt bosatt i Sverige att lämna den staten, ska han eller hon återtas till Sverige. Detsamma gäller hans eller hennes familjemedlemmar, om de har ålagts att lämna den andra EU-staten genom ett beslut som har fattats i samband med beslutet avseende utlänningen.
+
+*Lag (2014:198)*.
+
+### Återtagande av skyddsbehövande som har ställning som varaktigt bosatta i en annan EU-stat och deras familjemedlemmar
+
+#### 7 a §
+
+Om en annan EU-stat har ålagt en utlänning som har ställning som varaktigt bosatt i den staten och som har internationellt skydd i Sverige att lämna den staten, ska han eller hon återtas till Sverige. Detsamma gäller hans eller hennes familjemedlemmar, om de har ålagts att lämna den andra EU-staten genom ett beslut som har fattats i samband med beslutet avseende utlänningen. *Lag (2026:1142)*.
+
+### Beslutande myndighet
+
+#### 8 §
+
+Beslut i ärenden om ställning som varaktigt bosatt i Sverige meddelas av Migrationsverket. *Lag (2014:198)*.
+
+## 5 b kap. Uppehållstillstånd för forskning, studier inom högre utbildning, viss praktik, visst volontärarbete och au pair-arbete
+
+### Uppehållstillstånd för forskning
+
+#### 1 §
+
+En utlänning som ska utföra forskning i Sverige enligt ett mottagningsavtal som har ingåtts enligt lagen (2008:290) om godkännande för forskningshuvudmän att ta emot gästforskare ska, om inte något annat följer av 9-12 §§, beviljas ett uppehållstillstånd för forskning.
+
+Ett uppehållstillstånd enligt första stycket ska, om inte något annat följer av tredje stycket, gälla i minst ett år eller den kortare tid som forskningen enligt mottagnings- avtalet ska pågå.
+
+Om utlänningen omfattas av ett unionsprogram eller ett multi- lateralt program som främjar tredjelandsmedborgares rörlighet och förutsättningarna för att bevilja tillstånd för hela forskningsperioden är uppfyllda, ska uppehållstillståndet gälla i minst två år eller den kortare tid som forskningen enligt mottagningsavtalet ska pågå. *Lag (2019:1208)*.
+
+#### 2 §
+
+En utlänning som har beviljats ett uppehållstillstånd för forskning av en annan EU-stat och som ska utföra forskning i Sverige i mer än 180 dagar enligt ett mottagningsavtal som har ingåtts enligt lagen (2008:290) om godkännande för forsknings- huvudmän att ta emot gästforskare ska, om inte något annat följer av 9-12 §§, beviljas ett uppehållstillstånd för forskning vid rörlighet för längre vistelse.
+
+Ett uppehållstillstånd enligt första stycket ska gälla i minst ett år eller den kortare tid som forskningen enligt mottagningsavtalet ska pågå. Ett sådant tillstånd får dock inte gälla för längre tid än det uppehållstillstånd för forskning som har beviljats av en annan EU-stat.
+
+*Lag (2019:1208)*.
+
+### Uppehållstillstånd för studier inom högre utbildning
+
+#### 3 §
+
+En utlänning som har antagits till en utbildning på heltid vid en läroanstalt för högre utbildning i Sverige ska, om utlänningen har betalat de avgifter som tas ut för studierna vid läroanstalten och inte något annat följer av 9-12 §§, beviljas ett uppehållstillstånd för studier inom högre utbildning.
+
+Ett uppehållstillstånd enligt första stycket ska, om inte något annat följer av tredje stycket, gälla i minst ett år eller den kortare tid som studierna ska pågå.
+
+Om utlänningen omfattas av ett unionsprogram eller ett multi- lateralt program som främjar tredjelandsmedborgares rörlighet eller av ett avtal mellan två eller flera läroanstalter och förutsättningarna för att bevilja tillstånd för hela studie- perioden är uppfyllda, ska uppehållstillståndet gälla i minst två år eller den kortare tid som studierna ska pågå.
+
+*Lag (2019:1208)*.
+
+### Uppehållstillstånd för praktik med anknytning till högre utbildning
+
+#### 4 §
+
+En utlänning som inom två år före ansökningstillfället har fått en examen från högre utbildning eller följer ett utbild- ningsprogram som leder till en sådan examen och som ska prak- tisera i Sverige enligt ett avtal om praktik ska, om praktiken har anknytning till utlänningens utbildning och inte något annat följer av 9-12 §§, beviljas ett uppehållstillstånd för praktik med anknytning till högre utbildning.
+
+Ett avtal om praktik ska innehålla uppgifter om
+
+1. praktikens innehåll,
+
+2. praktikens längd,
+
+3. tjänstgörings- och handledningsförhållandena,
+
+4. tiderna för praktiken, och
+
+5. rättsförhållandet mellan praktikanten och värdenheten i Sverige.
+
+Ett uppehållstillstånd enligt första stycket ska gälla i arton månader eller den kortare tid som praktiken ska pågå.
+
+*Lag (2019:1208)*.
+
+### Uppehållstillstånd för volontärarbete inom ramen för Europeisk volontärtjänst
+
+#### 5 §
+
+En utlänning som har ingått ett avtal med en organisation i Sverige om deltagande i ett volontärprogram här inom ramen för Europeisk volontärtjänst ska, om inte något annat följer av 9-12 §§, beviljas ett uppehållstillstånd för volontärarbete inom ramen för Europeisk volontärtjänst.
+
+Ett avtal om deltagande i ett volontärprogram ska innehålla uppgifter om
+
+1. volontärprogrammets innehåll,
+
+2. programmets längd,
+
+3. tjänstgörings- och handledningsförhållandena för volontär- arbetet,
+
+4. tiderna för volontärarbetet,
+
+5. de medel som finns tillgängliga för att täcka kostnaderna för utlänningens uppehälle och logi, och
+
+6. i förekommande fall, den utbildning som utlänningen kommer att få för att kunna utföra volontärarbetet.
+
+Ett uppehållstillstånd enligt första stycket ska gälla i ett år eller den kortare tid som volontärarbetet ska pågå.
+
+*Lag (2019:1208)*.
+
+### Uppehållstillstånd för au pair-arbete
+
+#### 6 §
+
+En utlänning som har fyllt 18 men inte 30 år och som har ingått ett avtal om au pair-arbete med en värdfamilj i Sverige ska beviljas ett uppehållstillstånd för au pair-arbete, om inte något annat följer av 9-12 §§ och
+
+1. au pair-arbetet inte omfattar mer än 25 timmars barnpass- ning och lättare hushållsarbete per vecka,
+
+2. tiden för au pair-arbete och studier tillsammans inte över- stiger 40 timmar per vecka,
+
+3. utlänningen får gratis kost och logi och viss ersättning för utfört arbete varje månad, och
+
+4. värdfamiljen har tecknat en olycksfallsförsäkring för utlänningen.
+
+Ett avtal om au pair-arbete ska innehålla uppgifter i fråga om vad som anges i första stycket 1-4.
+
+Ett uppehållstillstånd enligt första stycket ska gälla i ett år eller den kortare tid som au pair-arbetet ska pågå.
+
+*Lag (2019:1208)*.
+
+### Uppehållstillstånd efter slutförd forskning och efter slutförda studier
+
+#### 7 §
+
+En utlänning som vid ansökningstillfället har ett uppehållstillstånd enligt 1 § ska beviljas ett uppehållstillstånd som inte får vara kortare än ett år och som längst ett år och sex månader efter slutförd forskning, om inte något annat följer av 9-11 §§ och utlänningen
+
+1. avser att söka arbete eller undersöka förutsättningarna för att bedriva näringsverksamhet här, och
+
+2. kan visa ett intyg från forskningshuvudmannen om att forskningen har slutförts.
+
+Första stycket gäller även för en utlänning som vid ansökningstillfället har ett uppehållstillstånd för forskning utfärdat av en annan EU-stat och som under giltighetstiden för det tillståndet har vistats i Sverige för att utföra en del av sin forskning här enligt 2 eller 13 §. *Lag (2026:457)*.
+
+#### 8 §
+
+En utlänning som vid ansökningstillfället har ett uppehållstillstånd enligt 3 § ska beviljas ett uppehållstillstånd för en tid av ett år efter slutförda studier, om inte något annat följer av 9-11 §§ och utlänningen
+
+1. har slutfört en högskoleutbildning och utbildningen avser studier som motsvarar minst två terminer,
+
+2. avser att söka arbete eller undersöka förutsättningarna för att bedriva näringsverksamhet här, och
+
+3. har ett examensbevis eller utbildningsbevis som avser den slutförda utbildningen.
+
+Första stycket gäller även för en utlänning som vid ansökningstillfället har ett uppehållstillstånd för studier inom högre utbildning utfärdat av en annan EU-stat och som under giltighetstiden för det tillståndet har vistats i Sverige för att bedriva en del av sina studier här enligt 14 §, om studierna som bedrivits här motsvarar minst två terminer på en högskoleutbildning.
+
+Första stycket gäller också för en utlänning som har slutfört en utbildning på forskarnivå. Tillståndstiden ska då inte vara kortare än ett år och som längst ett år och sex månader. För en sådan utlänning gäller inte kravet i första stycket 1.
+
+*Lag (2026:457)*.
+
+### Allmänna förutsättningar för uppehållstillstånd
+
+#### 9 §
+
+För att beviljas ett uppehållstillstånd enligt 1-8 §§ ska utlänningen
+
+1. visa att han eller hon kommer att ha tillräckliga medel för sitt uppehälle under tillståndstiden och för att täcka kostnaderna för sin återresa,
+
+2. vid vistelse som kommer att uppgå till högst ett år, visa att han eller hon har, eller har ansökt om, en heltäckande sjukförsäkring som gäller i Sverige,
+
+3. inte utgöra ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa, och
+
+4. visa vårdnadshavares medgivande, om utlänningen är under 18 år. *Lag (2019:1208)*.
+
+#### 10 §
+
+Ett uppehållstillstånd enligt 1-8 §§ ska inte beviljas en utlänning som
+
+1. är EES-medborgare eller medborgare i Schweiz eller är familjemedlem till en sådan medborgare,
+
+2. har beviljats uppehållstillstånd som flykting eller subsidiärt skyddsbehövande med stöd av artikel 24 i skyddsgrundsförordningen eller motsvarande äldre bestämmelser, eller har ansökt om internationellt skydd och ansökan ännu inte har avgjorts slutligt,
+
+3. har beviljats uppehållstillstånd med tillfälligt skydd eller uppehållstillstånd efter tillfälligt skydd enligt 21 kap.,
+
+4. har ställning som varaktigt bosatt i en annan EU-stat,
+
+5. har ett avvisnings- eller utvisningsbeslut som fått laga kraft och som inte kan verkställas,
+
+6. har ansökt om ett EU-blåkort, om ansökan ännu inte har avgjorts slutligt, eller
+
+7. har beviljats ett ICT-tillstånd för praktiktjänstgöring. *Lag (2026:1142)*.
+
+#### 11 §
+
+Ett uppehållstillstånd enligt 1-8 §§ ska inte heller beviljas en utlänning som visar upp handlingar till stöd för ansökan som har förvärvats på ett bedrägligt sätt, förfalskats eller ändrats i något avseende. *Lag (2019:1208)*.
+
+#### 12 §
+
+Ett uppehållstillstånd enligt 1-6 §§ får vägras om värdenheten
+
+1. har blivit påförd en sanktion för att ha haft en utlänning anställd utan nödvändiga tillstånd,
+
+2. har blivit påförd en sanktion för att ha lämnat oriktiga uppgifter till ledning för en myndighets beslut om skatt eller avgift och uppgifterna rör redovisning av arbete, eller
+
+3. inte har uppfyllt sina rättsliga skyldigheter beträffande social trygghet, skatter, arbetstagares rättigheter eller arbetsvillkor.
+
+Ett uppehållstillstånd enligt 1-6 §§ får också vägras om
+
+1. anställningsvillkoren är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen,
+
+2. det finns grundad anledning att anta att utlänningen avser att vistas i Sverige av andra skäl än dem som ansökan avser,
+
+3. värdenheten huvudsakligen har inrättats eller drivs för att underlätta inresan för utlänningen, eller
+
+4. värdenheten håller på att avvecklas eller har avvecklats genom en konkurs eller om värdenheten inte bedriver någon eko- nomisk verksamhet. *Lag (2019:1208)*.
+
+### Förutsättningar för rörlighet för kortare vistelse
+
+#### 13 §
+
+En utlänning som har beviljats ett uppehållstillstånd för forskning av en annan EU-stat får under giltighetstiden för tillståndet i högst 180 dagar under en 360-dagarsperiod resa in och vistas i Sverige för att utföra en del av sin forskning hos en godkänd forskningshuvudman här.
+
+Rätten till inresa och vistelse i högst 180 dagar under en 360-dagarsperiod gäller även medföljande familjemedlemmar som har beviljats uppehållstillstånd av en annan EU-stat på grund av anknytning till en utlänning som har ett uppehållstillstånd för forskning utfärdat av den staten.
+
+Första och andra styckena gäller inte en utlänning som utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2019:1208)*.
+
+#### 14 §
+
+En utlänning som har beviljats ett uppehållstillstånd för studier inom högre utbildning av en annan EU-stat får under giltighetstiden för tillståndet i högst 360 dagar resa in och vistas i Sverige för att bedriva studier vid en läroanstalt för högre utbildning här, om
+
+1. den utbildning som utlänningen har antagits till i Sverige bedrivs inom ramen för ett unionsprogram eller ett multilateralt program som främjar tredjelandsmedborgares rörlighet eller ett avtal mellan två eller flera läroanstalter för högre utbildning, och
+
+2. utlänningen har underrättat Migrationsverket om sin avsikt att bedriva studier här och Migrationsverket inte enligt andra stycket har invänt mot den planerade vistelsen i Sverige.
+
+Migrationsverket får inom 30 dagar från det att en under- rättelse eller, om utlänningen har förelagts att komplettera underrättelsen, kompletterande underlag har kommit in invända mot utlänningens planerade vistelse i Sverige, om
+
+1. förutsättningarna i första stycket 1 och 9-11 §§ inte är uppfyllda,
+
+2. det finns grund för avslag enligt 12 §,
+
+3. utlänningen inte har betalat de avgifter som tas ut för studierna vid läroanstalten för högre utbildning i Sverige, eller
+
+4. utlänningen redan har vistats i Sverige under en period av 360 dagar.
+
+Första stycket gäller inte en utlänning som utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+*Lag (2019:1208)*.
+
+### När ansökan om uppehållstillstånd ska vara gjord
+
+#### 15 §
+
+En utlänning som vill ha ett uppehållstillstånd enligt 1 eller 3-6 §§ ska ha ansökt om och beviljats ett sådant tillstånd före inresan i Sverige. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller inte om
+
+1. utlänningen ansöker om förlängning av ett uppehållstillstånd enligt 1 eller 3 §,
+
+2. utlänningen har ett uppehållstillstånd enligt 1, 2 eller 4 § eller ett uppehållstillstånd enligt 3 § och antingen slutfört studier som motsvarar 30 högskolepoäng eller fullföljt en termin vid utbildning på forskarnivå och på annan grund ansöker om ett uppehållstillstånd enligt 1, 3 eller 4 §,
+
+3. utlänningen har ett tidsbegränsat uppehållstillstånd för arbete som har beviljats enligt 5 kap. 10 § i de fall som avses i 6 kap. 2 § första stycket eller för att bedriva näringsverksamhet enligt 5 kap. 10 a § eller ett EU-blåkort enligt 6 a kap. 1 §, och ansöker om ett uppehållstillstånd enligt 1 § eller för utbildning på forskarnivå enligt 3 § inom giltighetstiden för det tidigare tillståndet och förutsättningarna för det tillståndet varit uppfyllda,
+
+4. utlänningen har ett uppehållstillstånd enligt 7 eller 8 § och ansöker om ett uppehållstillstånd enligt 1 § eller för utbildning på forskarnivå enligt 3 § inom giltighetstiden för det tidigare tillståndet,
+
+5. utlänningen har ett tidsbegränsat uppehållstillstånd som familjemedlem till en utlänning som har ett uppehållstillstånd enligt 1, 2, 7 eller 8 §, eller enligt 3 § och antingen slutfört studier som motsvarar 30 högskolepoäng eller fullföljt en termin vid utbildning på forskarnivå, och ansöker om uppehållstillstånd enligt 1 § eller för utbildning på forskarnivå enligt 3 § inom giltighetstiden för det tidigare tillståndet, eller
+
+6. det finns synnerliga skäl. *Lag (2026:457)*.
+
+#### 15 a §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1687)*./ Det som föreskrivs i 15 § första stycket gäller inte för en utlänning som efter den 1 oktober 2023 har haft uppehållstillstånd i Sverige på grund av anknytning i egenskap av barn till en förälder eller till förälderns make eller sambo.
+
+En ansökan om uppehållstillstånd efter inresan i Sverige får bifallas för en utlänning som avses i första stycket utan hinder av ett lagakraftvunnet utvisningsbeslut om det beslutet fick laga kraft den 1 januari 2025 eller senare.
+
+*Lag (2026:1686)*.
+
+#### 16 §
+
+En ansökan om uppehållstillstånd enligt 2, 7 eller 8 § eller om förlängning av ett uppehållstillstånd enligt 2 § får ges in efter inresan i Sverige. *Lag (2019:1208)*.
+
+### Förlängning av tillståndstiden
+
+#### 17 §
+
+Tillståndstiden för ett uppehållstillstånd enligt 1-3 §§ får efter ansökan förlängas.
+
+Tillståndstiden får inte förlängas om
+
+1. förutsättningarna i 1-3 och 9-11 §§ för att bevilja tillståndet i fråga inte är uppfyllda,
+
+2. tillståndet har förvärvats på ett bedrägligt sätt,
+
+3. ett bevis om tillståndet har förfalskats eller ändrats i något avseende, eller
+
+4. utlänningen vistas i Sverige av andra skäl än dem som tillståndet beviljades för. *Lag (2019:1208)*.
+
+#### 18 §
+
+En förlängning av tillståndstiden för ett uppehållstillstånd enligt 1-3 §§ får vägras om det finns grund för avslag enligt 12 § första stycket eller andra stycket 1, 3 eller 4.
+
+En förlängning av tillståndstiden för ett uppehållstillstånd enligt 3 § får också vägras om utlänningen inte har gjort godtagbara framsteg i sina studier eller om utlänningen har arbetat mer än vad undantaget från kravet på arbetstillstånd medger. *Lag (2026:457)*.
+
+### Uppehållstillstånd för familjemedlemmar till forskare
+
+#### 19 §
+
+Uppehållstillstånd på grund av anknytning till en person som har ett uppehållstillstånd enligt 1, 2 eller 7 §, ska ges till en sådan familjemedlem som avses i 5 kap. 3 a § första stycket, om inte något annat följer av andra-fjärde styckena. Familjemedlemmens uppehållstillstånd ska gälla för samma tid som anknytningspersonens tillstånd.
+
+Uppehållstillstånd får endast ges om familjemedlemmen har tillräckliga medel för sitt uppehälle under tillståndstiden. Om vistelsen ska uppgå till högst ett år krävs det också att familjemedlemmen kommer att omfattas av en heltäckande sjukförsäkring som gäller i Sverige. Undantag från kravet på att familjemedlemmen ska ha tillräckliga medel för sitt uppehälle får medges helt eller delvis, om det finns särskilda skäl.
+
+För barn som åberopar anknytning till den som har ett uppehållstillstånd enligt 1, 2 eller 7 § eller till hans eller hennes make eller sambo gäller 5 kap. 17 § tredje stycket.
+
+Uppehållstillstånd får vägras i fall som avses i 5 kap. 17 a och 17 b §§. *Lag (2026:1686)*.
+
+#### 20 §
+
+En familjemedlem som avses i 19 § ska ha ansökt om och beviljats ett uppehållstillstånd före inresan i Sverige. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller dock inte om
+
+1. ansökan avser förlängning av ett tidsbegränsat uppehållstillstånd som beviljats på grund av anknytning till en utlänning som har ansökt om eller har ett uppehållstillstånd enligt 1, 2 eller 7 §,
+
+2. sökanden har beviljats ett uppehållstillstånd av en annan EU-stat på grund av anknytning till en utlänning som har ansökt om eller har ett uppehållstillstånd enligt 2 §,
+
+3. ansökan avser ett uppehållstillstånd som familjemedlem till en utlänning som avses i 15 § andra stycket 3, om ansökan ges in inom giltighetstiden för det tidigare tillståndet som familjemedlem och utlänningen beviljas uppehållstillstånd enligt 1 §,
+
+4. sökanden har ett uppehållstillstånd enligt 1-3, 7 eller 8 §, eller
+
+5. det finns synnerliga skäl. *Lag (2026:457)*.
+
+### Återkallelse av uppehållstillstånd
+
+#### 21 §
+
+Ett uppehållstillstånd enligt 1-6 §§ ska återkallas om
+
+1. förutsättningarna i 1-6 och 9-11 §§ för att bevilja tillståndet i fråga inte är uppfyllda,
+
+2. tillståndet har förvärvats på ett bedrägligt sätt,
+
+3. ett bevis om tillståndet har förfalskats eller ändrats i något avseende, eller
+
+4. utlänningen vistas i Sverige av andra skäl än dem som tillståndet beviljades för. *Lag (2019:1208)*.
+
+#### 22 §
+
+Ett uppehållstillstånd enligt 1-6 §§ får återkallas om det finns grund för avslag enligt 12 § första stycket eller andra stycket 1, 3 eller 4.
+
+Ett uppehållstillstånd enligt 3 § får också återkallas om utlänningen inte har gjort godtagbara framsteg i sina studier eller om utlänningen har arbetat mer än vad undantaget från kravet på arbetstillstånd medger. *Lag (2026:457)*.
+
+#### 23 §
+
+Ett uppehållstillstånd enligt 7 eller 8 § ska återkallas om utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+Ett uppehållstillstånd enligt 7 eller 8 § får återkallas om förutsättningarna i 7-10 §§ för att bevilja tillståndet i fråga inte är uppfyllda, i andra fall än som avses i första stycket. *Lag (2019:1208)*.
+
+#### 24 §
+
+Ett uppehållstillstånd som har beviljats en familjemedlem enligt 19 § får återkallas om
+
+1. anknytningen till den som har ett uppehållstillstånd enligt 1, 2 eller 7 § bryts eller ett sådant tillstånd återkallas, eller
+
+2. familjemedlemmen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2019:1208)*.
+
+### Återtagande av en utlänning som har ett uppehållstillstånd för forskning eller studier inom högre utbildning och av en forskares familjemedlemmar
+
+#### 25 §
+
+Om en annan EU-stat har avslagit en ansökan om uppehålls- tillstånd för forskning vid rörlighet för längre vistelse från den som har eller vid tiden för ansökan i den andra EU-staten hade ett uppehållstillstånd för forskning enligt 1 § utfärdat av Sverige, och den andra EU-staten har ålagt utlänningen och medföljande familjemedlemmar att lämna den medlemsstaten, ska de återtas till Sverige.
+
+Detsamma ska gälla om en annan EU-stat har motsatt sig att utlänningen vistas i den staten med stöd av ett uppehållstillstånd enligt 1 eller 3 § utfärdat av Sverige eller om det svenska uppehållstillståndet har löpt ut eller återkallats. *Lag (2019:1208)*.
+
+### Beslutande myndighet
+
+#### 26 §
+
+Beslut enligt detta kapitel meddelas av Migrationsverket.
+
+*Lag (2019:1208)*.
+
+### Bemyndiganden
+
+#### 27 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om försörjningsförmågan enligt 9 § första stycket 1. *Lag (2019:1208)*.
+
+#### 28 §
+
+Regeringen får meddela föreskrifter om uppehållstillstånd för familjemedlemmar till en utlänning som har beviljats uppehållstillstånd enligt 3 eller 8 §. *Lag (2019:1208)*.
+
+#### 29 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vad som utgör godtagbara framsteg i studier enligt 18 och 22 §§. *Lag (2026:457)*.
+
+#### 30 §
+
+Regeringen får meddela föreskrifter om att en utlänning som har beviljats uppehållstillstånd enligt 3 eller 8 § ska vara skyldig att anmäla uppgift om adress i Sverige.
+
+*Lag (2026:457)*.
+
+## 6 kap. Arbetstillstånd
+
+#### 1 §
+
+Arbetstillstånd ska ges för viss tid. Det får avse ett visst slag av arbete och förenas med de övriga villkor som behövs.
+
+Att en utlänning som har permanent uppehållstillstånd inte behöver ha arbetstillstånd framgår av 2 kap. 8 c § 3.
+
+*Lag (2014:198)*.
+
+#### 2 §
+
+Arbetstillstånd får ges till en utlänning som har ett anställningsavtal, om
+
+1. lönen minst uppgår till 90 procent av medianlönen i Sverige vid tidpunkten för ansökan (lönekravet),
+
+2. lönen, försäkringsskyddet och övriga anställningsvillkor inte är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen, och
+
+3. utlänningen, vid vistelse som kommer att uppgå till högst ett år, har eller har ansökt om en heltäckande sjukförsäkring som gäller i Sverige.
+
+Arbetstillstånd enligt första stycket får endast ges om rekryteringsförfarandet är förenligt med Sveriges åtaganden inom Europeiska unionen.
+
+Arbetstillstånd får även ges till en utlänning som deltar i ett internationellt utbyte eller om det följer av ett internationellt avtal eller ett avtal med ett annat land. Ett sådant arbetstillstånd får beviljas endast om utlänningen kan försörja sig, om inte något annat följer av ett internationellt avtal eller ett avtal med ett annat land.
+
+*Lag (2026:295)*.
+
+#### 2 a §
+
+Ett arbetstillstånd enligt 2 § första stycket får inte ges för längre tid än två år. Det får heller inte avse längre tid än anställningstiden.
+
+Ett arbetstillstånd enligt 2 § första stycket ska knytas till en viss arbetsgivare och avse ett visst slag av arbete. Efter en sammanlagd tillståndstid om två år ska tillståndet knytas endast till ett visst slag av arbete. *Lag (2022:303)*.
+
+#### 2 b §
+
+Arbetstillstånd enligt 2 § första stycket får inte ges till en utlänning som är anställd av ett företag som är etablerat utanför EES-staterna och Schweiz och som ska tjänstgöra som chef, specialist eller praktikant i mer än 90 dagar i ett företag som dels är etablerat i Sverige eller i en annan EU-stat, dels är en enhet som tillhör samma företag eller företag inom samma koncern.
+
+Första stycket gäller inte om utlänningen tillhör någon av de kategorier som är undantagna i 6 b kap. 3 §.
+
+Arbetstillstånd enligt 2 § första stycket får inte heller ges till en utlänning som har ett anställningsavtal för tidsbegränsad anställning som säsongsarbetare i Sverige med en arbetsgivare som är etablerad här.
+
+Tredje stycket gäller inte om utlänningen tillhör någon av de kategorier som är undantagna i 6 c kap. 4 §. *Lag (2024:1220)*.
+
+#### 2 c §
+
+Ett arbetstillstånd enligt 2 § första stycket får vägras om arbetsgivaren eller dennes ställföreträdare
+
+1. är skäligen misstänkt för brott enligt 20 kap. i denna lag för vilket svårare straff än böter är föreskrivet eller enligt 4 kap. 1 a eller 1 b § brottsbalken,
+
+2. har dömts för brott enligt 20 kap. i denna lag eller 4 kap. 1 a eller 1 b § brottsbalken,
+
+3. har blivit påförd en särskild avgift enligt 20 kap., eller
+
+4. har blivit påförd en sanktion för att ha lämnat oriktiga uppgifter till ledning för en myndighets beslut om skatt eller avgift och uppgifterna rör redovisning av arbete. *Lag (2026:295)*.
+
+#### 3 §
+
+Arbetstillstånd får ges till en utlänning som har tidsbegränsat uppehållstillstånd, om inte skäl hänförliga till syftet med uppehållstillståndet talar häremot.
+
+Att permanent uppehållstillstånd får meddelas för vissa arbetstagare framgår av 5 kap. 5 §.
+
+### När ansökan om arbetstillstånd ska vara gjord
+
+#### 4 §
+
+*/Upphör att gälla U:2028-01-01/* En utlänning som vill ha arbetstillstånd i Sverige ska ha ansökt om och beviljats ett sådant tillstånd före inresan i landet. En ansökan om arbetstillstånd får inte bifallas efter inresan utom i fall som avses i 5 kap. 18 § andra-fjärde styckena och 18 a-19 §§, vilka bestämmelser tillämpas på motsvarande sätt i fråga om arbetstillstånd. *Lag (2026:1686)*.
+
+#### 4 §
+
+*/Träder i kraft I:2028-01-01/* En utlänning som vill ha arbetstillstånd i Sverige ska ha ansökt om och beviljats ett sådant tillstånd före inresan i landet. En ansökan om arbetstillstånd får inte bifallas efter inresan utom i fall som avses i 5 kap. 18 § andra-fjärde styckena, 18 a och 19 §§, vilka bestämmelser tillämpas på motsvarande sätt i fråga om arbetstillstånd. *Lag (2026:1687)*.
+
+### Förlängning av tillståndstiden
+
+#### 4 a §
+
+Tillståndstiden för ett arbetstillstånd får förlängas om anställningen uppfyller förutsättningarna i 2 § första stycket. Om ansökan avser en ny anställning gäller även det som föreskrivs i 2 § andra stycket.
+
+Förlängning av tillståndstiden för ett arbetstillstånd ska vägras om
+
+1. tillståndet har förvärvats på ett bedrägligt sätt,
+
+2. ett bevis om tillståndet har förfalskats eller ändrats i något avseende,
+
+3. utlänningen vistas i Sverige av andra skäl än de som arbetstillståndet beviljades för, eller
+
+4. det har funnits förutsättningar att återkalla tidigare uppehållstillstånd enligt 7 kap. 7 e § första stycket 1, med beaktande av tredje stycket. *Lag (2022:303)*.
+
+### Beslutande myndigheter
+
+#### 5 §
+
+Beslut om arbetstillstånd meddelas av Migrationsverket.
+
+### Beslut om arbetstillstånd i vissa fall
+
+#### 6 §
+
+Av 8 kap. 27 § följer att den instans som prövar överklagande av beslut om avvisning och utvisning i vissa fall också får besluta om arbetstillstånd. *Lag (2014:198)*.
+
+### Bemyndiganden
+
+#### 7 §
+
+Regeringen eller efter regeringens bemyndigande Migrationsverket får meddela föreskrifter om att andra myndigheter har rätt att besluta om arbetstillstånd.
+
+#### 8 §
+
+Regeringen får meddela föreskrifter om att en ansökan om arbetstillstånd får bifallas även efter inresan i Sverige om ansökan görs av en utlänning som är medborgare i Förenade kungariket eller av familjemedlemmar till en sådan utlänning.
+
+*Lag (2019:462)*.
+
+#### 9 §
+
+Regeringen får meddela föreskrifter om
+
+1. undantag från lönekravet i 2 § första stycket 1,
+
+2. att vissa yrkesgrupper inte ska få beviljas arbetstillstånd enligt 2 § första stycket, och
+
+3. försörjningsförmågan enligt 2 § tredje stycket.
+
+Regeringen får även i övrigt meddela föreskrifter om arbetstillstånd. *Lag (2026:295)*.
+
+## 6 a kap. EU-blåkort
+
+### Förutsättningar för tillstånd
+
+#### 1 §
+
+En utlänning som har ett anställningsavtal för högkvalificerad anställning i Sverige med en anställningstid om minst sex månader ska, om inte något annat följer av 2-3 a §§ eller 3 c §, beviljas ett uppehålls- och arbetstillstånd för högkvalificerad anställning (EU-blåkort), om
+
+1. lönen är minst 1,25 gånger den genomsnittliga bruttoårslönen i Sverige vid tidpunkten för ansökan (lönetröskeln),
+
+2. lönen, försäkringsskyddet och övriga anställningsvillkor inte är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen,
+
+3. utlänningen, vid vistelse som kommer att uppgå till högst ett år, kan visa att han eller hon har, eller har ansökt om, en heltäckande sjukförsäkring som gäller i Sverige, och
+
+4. rekryteringsförfarandet är förenligt med Sveriges åtaganden inom Europeiska unionen.
+
+En anställning ska anses vara högkvalificerad om den förutsätter att utlänningen har relevant och särskild kompetens för den i form av slutförda studier som motsvarar 180 högskolepoäng eller fem års yrkeserfarenhet på en nivå som är jämförbar med högre utbildning inom det yrke eller den bransch som anställningen avser.
+
+Om den högkvalificerade anställningen avser ett reglerat yrke ska utlänningen styrka behörigheten att få utöva yrket i Sverige. *Lag (2024:1220)*.
+
+#### 2 §
+
+Ett EU-blåkort ska inte beviljas en utlänning som
+
+1. är EES-medborgare eller medborgare i Schweiz,
+
+2. har ansökt om internationellt skydd och ansökan ännu inte har avgjorts slutligt,
+
+3. har beviljats uppehållstillstånd med tillfälligt skydd eller uppehållstillstånd efter tillfälligt skydd enligt 21 kap.,
+
+4. har beviljats uppehållstillstånd enligt 5 kap. 15 b §, 12 kap. 18 § första stycket 1 eller 22 kap. eller har ansökt om sådant tillstånd och ansökan ännu inte har avgjorts slutligt,
+
+5. har ansökt om uppehållstillstånd för att utföra forskning i Sverige enligt ett mottagningsavtal som har ingåtts enligt lagen (2008:290) om godkännande för forskningshuvudmän att ta emot gästforskare,
+
+6. har ställning som varaktigt bosatt i en annan EU-stat och utövar sin rätt att vistas i Sverige som arbetstagare eller egen företagare,
+
+7. reser in i Sverige i enlighet med åtaganden enligt ett internationellt avtal som underlättar inresa och tillfällig vistelse för vissa kategorier av personer med anknytning till handel och investeringar, med undantag för utlänningar som har beviljats ett ICT-tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse,
+
+8. har ett lagakraftvunnet avvisnings- eller utvisningsbeslut som inte kan verkställas, eller
+
+9. är utstationerad i Sverige enligt lagen (1999:678) om utstationering av arbetstagare, med undantag för utlänningar som har beviljats ett ICT-tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse. *Lag (2026:1142)*.
+
+#### 3 §
+
+Ett EU-blåkort ska inte heller beviljas om
+
+1. utlänningen visar upp handlingar till stöd för ansökan som har förvärvats på ett bedrägligt sätt, förfalskats eller ändrats i något avseende,
+
+2. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa, eller
+
+3. arbetsgivarens verksamhet huvudsakligen har inrättats eller drivs för att underlätta inresa för personer som kommer från ett land utanför EU. *Lag (2024:1220)*.
+
+#### 3 a §
+
+Ett EU-blåkort får vägras om
+
+1. arbetsgivaren har blivit påförd en sanktion för att ha haft en utlänning anställd utan nödvändiga tillstånd,
+
+2. arbetsgivaren har blivit påförd en sanktion för att ha lämnat oriktiga uppgifter till ledning för en myndighets beslut om skatt eller avgift och uppgifterna rör redovisning av arbete,
+
+3. arbetsgivaren inte har uppfyllt sina rättsliga skyldigheter beträffande social trygghet, skatter, arbetstagares rättigheter eller arbetsvillkor, eller
+
+4. arbetsgivarens verksamhet håller på att avvecklas eller har avvecklats genom en konkurs eller om arbetsgivaren inte bedriver någon ekonomisk verksamhet. *Lag (2024:1220)*.
+
+### Förutsättningar för rörlighet för kortare vistelse
+
+#### 3 b §
+
+En utlänning som har beviljats ett EU-blåkort av en annan EU-stat får under giltighetstiden för tillståndet i högst 90 dagar under en 180-dagarsperiod resa in och vistas i Sverige för att bedriva affärsverksamhet, om verksamheten har en direkt koppling till arbetsgivarens affärsintresse och till EU-blåkortsinnehavarens tjänsteåligganden på grundval av anställningsavtalet i den första EU-staten. *Lag (2024:1220)*.
+
+### Förutsättningar för rörlighet för längre vistelse
+
+#### 3 c §
+
+Om en utlänning som har vistats i en annan EU-stat i tolv månader med EU-blåkort ansöker om ett EU-blåkort i Sverige under giltighetstiden för ett sådant tillstånd i den andra EU-staten gäller inte 1 § första stycket 2, 3 § och 3 a §. Om utlänningen har haft EU-blåkort i minst två år i en annan EU-stat behöver denne inte heller styrka att han eller hon har relevant och särskild kompetens för anställningen.
+
+För en sådan utlänning får ett EU-blåkort vägras om
+
+1. utlänningen visar upp handlingar till stöd för ansökan som har förvärvats på ett bedrägligt sätt, förfalskats eller ändrats i något avseende,
+
+2. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa, eller
+
+3. lönen, försäkringsskyddet och övriga anställningsvillkor är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen.
+
+Från och med andra gången en utlänning utnyttjar möjligheten till rörlighet för längre vistelse får vistelsetiden i den EU- stat som föregår ansökan vara sex månader i stället för tolv.
+
+*Lag (2024:1220)*.
+
+### Ansökan om tillstånd
+
+#### 4 §
+
+En utlänning som vill ha ett EU-blåkort i Sverige ska ha ansökt om och beviljats ett sådant tillstånd före inresan i landet. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller dock inte om
+
+1. utlänningen ansöker om förlängning av tillståndstiden för ett EU- blåkort,
+
+2. utlänningen har ett tidsbegränsat uppehållstillstånd för studier och har slutfört studier som motsvarar 180 högskolepoäng,
+
+3. utlänningen har genomfört ett forskningsprojekt i Sverige enligt ett mottagningsavtal som har ingåtts enligt lagen (2008:290) om godkännande för forskningshuvudmän att ta emot gästforskare,
+
+4. utlänningen har ett uppehållstillstånd som flykting eller subsidiärt skyddsbehövande enligt artikel 24 i skyddsgrundsförordningen eller motsvarande äldre bestämmelser,
+
+5. utlänningen har ett av Sverige utfärdat ICT-tillstånd eller ICT-tillstånd för rörlighet för längre vistelse,
+
+6. utlänningen har ett av Sverige utfärdat uppehålls- och arbetstillstånd för säsongsarbete,
+
+7. utlänningen har uppehållsrätt på grund av familjeanknytning till en EES-medborgare,
+
+8. utlänningen har uppehållstillstånd på grund av familjeanknytning till en medborgare i Schweiz,
+
+9. utlänningen har ett tidsbegränsat uppehållstillstånd enligt 5 kap. 9 §,
+
+10. utlänningen har ett tidsbegränsat uppehållstillstånd för arbete som har beviljats enligt 5 kap. 10 § i de fall som avses i 6 kap. 2 § första stycket eller för att bedriva näringsverksamhet enligt 5 kap. 10 a §, och förutsättningarna för det tillståndet varit uppfyllda, eller
+
+11. det finns synnerliga skäl.
+
+Det som föreskrivs i första stycket gäller inte heller för en utlänning som utnyttjar möjligheten till rörlighet för längre vistelse enligt 3 c §, om ansökan lämnas in senast en månad efter inresan i Sverige. *Lag (2026:1142)*.
+
+#### 4 a §
+
+En utlänning som utnyttjar möjligheten till rörlighet för längre vistelse enligt 3 c § eller som får ansöka om ett EU-blåkort efter inresan enligt 4 § andra stycket 1-6 och 8-10 får arbeta i en högkvalificerad anställning i Sverige till dess tillståndsfrågan har avgjorts eller, om beslut om utvisning meddelas, till dess utvisningsbeslutet har fått laga kraft.
+
+Har en utlännings EU-blåkort återkallats och har samtidigt beslut meddelats om utvisning enligt 8 kap. 6 eller 10 §, får utlänningen arbeta i en högkvalificerad anställning i Sverige till dess utvisningsbeslutet har fått laga kraft.
+
+*Lag (2024:1220)*.
+
+#### 4 b §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1687)*./ Det som föreskrivs i 4 § första stycket gäller inte för en utlänning som efter den 1 oktober 2023 har haft uppehållstillstånd i Sverige på grund av anknytning i egenskap av barn till en förälder eller till förälderns make eller sambo.
+
+En ansökan om EU-blåkort efter inresan i Sverige får bifallas för en utlänning som avses i första stycket utan hinder av ett lagakraftvunnet utvisningsbeslut om det beslutet fick laga kraft den 1 januari 2025 eller senare. *Lag (2026:1686)*.
+
+### Tillståndstid
+
+#### 5 §
+
+Ett EU-blåkort ska gälla för högst fyra år med den möjlighet till förlängning som framgår av 6 §. Om anställningstiden är kortare än fyra år ska EU-blåkortet minst gälla under anställningstiden med ett tillägg av tre månader.
+
+Att den som haft EU-blåkort under en viss sammanlagd tid kan beviljas permanent uppehållstillstånd framgår av 5 kap. 5 §.
+
+*Lag (2026:457)*.
+
+### Förlängning av tillståndstiden
+
+#### 6 §
+
+Tillståndstiden för ett EU-blåkort får förlängas efter ansökan.
+
+Tillståndstiden för ett EU-blåkort får inte förlängas om
+
+1. tillståndet har förvärvats på ett bedrägligt sätt,
+
+2. bevis om tillståndet har förfalskats eller ändrats i något avseende,
+
+3. utlänningen inte längre har ett giltigt anställningsavtal för högkvalificerad anställning,
+
+4. den avtalade lönen enligt 1 § första stycket 1 inte längre når upp till lönetröskeln,
+
+5. utlänningen inte har sådan kompetens i form av studier eller yrkeserfarenhet som förutsätts för en högkvalificerad anställning eller, såvitt gäller ett reglerat yrke, behörighet att utöva yrket, eller
+
+6. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+Om utlänningen är arbetslös får en förlängning vägras enligt andra stycket 3 eller 4 endast om utlänningen sammanlagt har varit arbetslös i mer än tre månader och har haft ett EU- blåkort i mindre än två år, eller om utlänningen sammanlagt har varit arbetslös i mer än sex månader och har haft ett EU- blåkort i minst två år. *Lag (2024:1220)*.
+
+#### 7 §
+
+En förlängning av tillståndstiden får vägras om
+
+1. arbetsgivaren inte har uppfyllt sina rättsliga skyldigheter beträffande social trygghet, skatter, arbetstagares rättigheter eller arbetsvillkor,
+
+2. anställningsvillkoren är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen,
+
+3. utlänningen vistas i Sverige av andra skäl än dem som EU- blåkortet beviljades för,
+
+4. utlänningen inte har fullgjort anmälningsskyldigheten enligt 8 §, eller
+
+5. utlänningen har vistats och arbetat i en annan EU-stat i strid med bestämmelserna om rörlighet för längre eller kortare vistelse.
+
+Innan Migrationsverket fattar ett beslut enligt första stycket 1 eller 2 ska utlänningen underrättas och få möjlighet att inom en viss tid söka nytt arbete. Tidsfristen ska bestämmas till tre månader om utlänningen har haft ett EU- blåkort i mindre än två år och annars till sex månader.
+
+En förlängning av tillståndstiden får inte vägras enligt första stycket 4 om utlänningen visar att bristen att fullgöra anmälningsskyldigheten beror på orsaker som han eller hon inte råder över. *Lag (2024:1220)*.
+
+### Anmälningsskyldighet
+
+#### 8 §
+
+Den som har ett EU-blåkort ska anmäla till Migrationsverket om
+
+1. anställningen upphör,
+
+2. han eller hon byter arbetsgivare, eller
+
+3. något förändras som påverkar villkoren för tillståndet.
+
+*Lag (2024:1220)*.
+
+### Uppehållstillstånd för familjemedlemmar
+
+#### 9 §
+
+Uppehållstillstånd på grund av anknytning till en person som har ett EU-blåkort, eller till en person som har haft ett EU-blåkort och beviljats ställning som varaktigt bosatt i Sverige, ska ges till en sådan familjemedlem som avses i 5 kap. 3 a § första stycket. Uppehållstillstånd får endast ges om anknytningspersonen kan försörja sig och familjemedlemmen. Om vistelsen ska uppgå till högst ett år krävs det också att familjemedlemmen kommer att omfattas av en heltäckande sjukförsäkring som gäller i Sverige. Familjemedlemmens uppehållstillstånd ska gälla för samma tid som EU-blåkortet eller, om anknytningspersonen har beviljats ställning som varaktigt bosatt i Sverige, högst två år i taget.
+
+Undantag från försörjningskravet i första stycket får medges helt eller delvis, om det finns särskilda skäl.
+
+För barn som åberopar anknytning till den som har EU-blåkort, eller till den som har haft ett EU-blåkort och beviljats ställning som varaktigt bosatt i Sverige, eller till hans eller hennes make eller sambo gäller 5 kap. 17 § tredje stycket.
+
+Uppehållstillstånd får vägras i fall som avses i 5 kap. 17 a och 17 b §§. *Lag (2026:1686)*.
+
+#### 10 §
+
+Bestämmelserna om uppehållstillstånd för familjemedlemmar i detta kapitel gäller inte för familjemedlemmar till
+
+1. EES-medborgare som har rätt till fri rörlighet i Sverige,
+
+2. medborgare i Schweiz som har rätt till fri rörlighet i Sverige, eller
+
+3. innehavare av ett EU-blåkort som har internationellt skydd i Sverige.
+
+Vid tillämpning av bestämmelserna om uppehållstillstånd på grund av anknytning i 5 kap. likställs en innehavare av ett EU-blåkort som har internationellt skydd i Sverige med en utlänning som har ett tidsbegränsat uppehållstillstånd enligt artikel 24 i skyddsgrundsförordningen. *Lag (2026:1142)*.
+
+#### 10 a §
+
+En familjemedlem som avses i 5 kap. 3 a § första stycket och som åberopar anknytning till en utlänning som har haft ett EU-blåkort och beviljats permanent uppehållstillstånd får lägga samman vistelser med uppehållstillstånd på grund av anknytning i en eller flera EU-stater för att uppfylla kraven i 5 kap. 3 m § fjärde stycket. Av den tid som anges där ska sökanden de senaste två åren räknat från tiden för ansökan ha haft ett uppehållstillstånd på grund av anknytning till anknytningspersonen utfärdat av Sverige. *Lag (2026:1686)*.
+
+### När ansökan om uppehållstillstånd för en familjemedlem ska vara gjord
+
+#### 11 §
+
+En familjemedlem som avses i 9 § ska ha ansökt om och beviljats ett uppehållstillstånd före inresan i landet. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller dock inte om
+
+1. ansökan avser ett uppehållstillstånd som familjemedlem till en utlänning som får ansöka om ett EU-blåkort efter inresan enligt 4 § andra stycket, om ansökan ges in inom giltighetstiden för det tidigare tillståndet som familjemedlem och utlänningen beviljas ett EU-blåkort,
+
+2. sökanden har beviljats uppehållstillstånd av en annan EU-stat på grund av anknytning till en utlänning som utnyttjar möjligheten till rörlighet för längre vistelse enligt 3 c §, om ansökan ges in senast en månad efter inresan i Sverige, eller
+
+3. det finns synnerliga skäl. *Lag (2026:457)*.
+
+### Återkallelse av tillstånd
+
+#### 12 §
+
+Ett EU-blåkort ska återkallas om
+
+1. tillståndet har förvärvats på ett bedrägligt sätt,
+
+2. bevis om tillståndet har förfalskats eller ändrats i något avseende,
+
+3. utlänningen inte längre har ett giltigt anställningsavtal för högkvalificerad anställning,
+
+4. den avtalade lönen enligt 1 § första stycket 1 inte längre når upp till den lönetröskel som ligger till grund för EU- blåkortet,
+
+5. utlänningen inte har sådan kompetens i form av studier eller yrkeserfarenhet som förutsätts för en högkvalificerad anställning eller, såvitt gäller ett reglerat yrke, behörighet att utöva yrket, eller
+
+6. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+Om utlänningen är arbetslös ska ett EU-blåkort återkallas enligt första stycket 3 eller 4 endast om utlänningen sammanlagt har varit arbetslös i mer än tre månader och har haft ett EU-blåkort i mindre än två år, eller om utlänningen sammanlagt har varit arbetslös i mer än sex månader och har haft ett EU-blåkort i minst två år.
+
+Om en utlänning som har ett EU-blåkort utfärdat av Sverige har ansökt om ett EU-blåkort i en annan EU-stat enligt bestämmelserna om rörlighet för längre vistelse, får EU- blåkortet i Sverige inte återkallas enligt första stycket 1, 2 eller 6 förrän den andra EU-staten har fattat beslut om ansökan. *Lag (2024:1220)*.
+
+#### 12 a §
+
+Ett EU-blåkort får återkallas om
+
+1. arbetsgivaren inte har uppfyllt sina rättsliga skyldigheter beträffande social trygghet, skatter, arbetstagares rättigheter eller arbetsvillkor,
+
+2. anställningsvillkoren är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen,
+
+3. utlänningen vistas i Sverige av andra skäl än dem som EU- blåkortet beviljades för,
+
+4. utlänningen inte har fullgjort anmälningsskyldigheten enligt 8 §, eller
+
+5. utlänningen har vistats och arbetat i en annan EU-stat i strid med bestämmelserna om rörlighet för längre eller kortare vistelse.
+
+Innan Migrationsverket fattar ett beslut enligt första stycket 1 eller 2 ska utlänningen underrättas och få möjlighet att inom en viss tid söka nytt arbete. Tidsfristen ska bestämmas till tre månader om utlänningen har haft ett EU- blåkort i mindre än två år och annars till sex månader.
+
+Ett EU-blåkort ska inte återkallas enligt första stycket 4 om utlänningen visar att bristen att fullgöra anmälningsskyldigheten beror på orsaker som han eller hon inte råder över. *Lag (2024:1220)*.
+
+#### 13 §
+
+Ett uppehållstillstånd som beviljats en familjemedlem enligt 9 § får återkallas om
+
+1. anknytningen till den som har ett EU-blåkort bryts eller om hans eller hennes EU-blåkort återkallas, eller
+
+2. familjemedlemmen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2024:1220)*.
+
+### Återtagande av en utlänning som har EU-blåkort och hans eller hennes familjemedlemmar
+
+#### 14 §
+
+Om en annan EU-stat har avslagit en ansökan om EU-blåkort från en utlänning som har, eller vid tiden för ansökan i den andra EU-staten hade, ett EU-blåkort utfärdat av Sverige, och den andra EU-staten har ålagt utlänningen och medföljande familjemedlemmar att lämna den medlemsstaten, ska de återtas till Sverige. *Lag (2024:1220)*.
+
+### Beslutande myndighet
+
+#### 15 §
+
+Beslut enligt detta kapitel meddelas av Migrationsverket. *Lag (2013:606)*.
+
+### Föreskrifter om lönetröskeln
+
+#### 16 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om lönetröskeln enligt 1 § första stycket 1.
+
+*Lag (2024:1220)*.
+
+### Bemyndiganden
+
+#### 17 §
+
+Regeringen får meddela föreskrifter om
+
+1. att en anställning ska anses vara högkvalificerad även i andra fall än de som anges i 1 §, och
+
+2. försörjningsförmågan enligt 9 §. *Lag (2024:1220)*.
+
+#### 18 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om en förteckning över tillåten affärsverksamhet enligt 3 b §. *Lag (2024:1220)*.
+
+## 6 b kap. Tillstånd för företagsintern förflyttning, ICT
+
+### Förutsättningar för tillstånd
+
+#### 1 §
+
+En utlänning som är anställd av ett företag som är etablerat utanför EES-staterna och Schweiz och som ska tjänstgöra som chef, specialist eller praktikant i mer än 90 dagar i ett företag (värdföretag) som dels är etablerat i Sverige, dels är en enhet som tillhör samma företag eller ett företag inom samma koncern ska, om inte annat följer av tredje stycket eller 3-5 §§, beviljas ett uppehålls- och arbetstillstånd för företagsintern förflyttning av personal (ICT-tillstånd), om
+
+1. utlänningen har varit anställd i företaget under minst tre månader utan uppehåll vid tiden för den företagsinterna förflyttningen,
+
+2. den ersättning som betalas till utlänningen motsvarar minst den lägsta ersättning som enligt svenska kollektivavtal eller praxis inom yrket eller branschen betalas vid heltidsarbete,
+
+3. ersättningen inte är sämre än vad som följer av svenska kollektivavtal eller praxis inom yrket eller branschen, och övriga anställningsvillkor inte är sämre än vad som gäller för arbetstagare som är utstationerade i Sverige enligt 5 § lagen (1999:678) om utstationering av arbetstagare av ett företag som är etablerat inom EES eller Schweiz,
+
+4. utlänningen, vid vistelse som kommer att uppgå till högst ett år, kan visa att han eller hon har, eller har ansökt om, en heltäckande sjukförsäkring som gäller i Sverige,
+
+5. utlänningen har de yrkeskvalifikationer och den erfarenhet som krävs för uppdraget som chef eller specialist, eller har en sådan examen från ett universitet eller en högskola som krävs för praktiktjänstgöringen,
+
+6. utlänningen efter förflyttningens slut kommer att kunna överflyttas till en enhet i tredjeland som tillhör samma företag eller till ett företag inom samma koncern i tredjeland, och
+
+7. utlänningen inte utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+Om den företagsinterna förflyttningen avser ett reglerat yrke ska utlänningen styrka behörigheten att få utöva yrket i Sverige.
+
+Ett ICT-tillstånd ska inte beviljas om
+
+1. utlänningen inte har fullgjort anmälningsskyldigheten enligt 13 §, eller
+
+2. värdföretaget huvudsakligen har inrättats för att underlätta inresa för personer som är föremål för företagsintern förflyttning. *Lag (2026:295)*.
+
+#### 2 §
+
+En utlänning som har beviljats ett ICT-tillstånd av en annan EU-stat och som ska tjänstgöra som chef, specialist eller praktikant i mer än 90 dagar i ett företag som dels är etablerat i Sverige, dels är en enhet som tillhör samma företag eller ett företag inom samma koncern som det i den andra EU-staten ska, om inte annat följer av 3-5 §§, beviljas ett ICT-tillstånd för rörlighet för längre vistelse, om
+
+1. den ersättning som betalas till utlänningen motsvarar minst den lägsta ersättning som enligt svenska kollektivavtal eller praxis inom yrket eller branschen betalas vid heltidsarbete,
+
+2. ersättningen inte är sämre än vad som följer av svenska kollektivavtal eller praxis inom yrket eller branschen, och övriga anställningsvillkor inte är sämre än vad som gäller för arbetstagare som är utstationerade i Sverige enligt 5 § lagen (1999:678) om utstationering av arbetstagare av ett företag som är etablerat inom EES eller Schweiz,
+
+3. utlänningen, vid vistelse som kommer att uppgå till högst ett år, kan visa att han eller hon har, eller har ansökt om, en heltäckande sjukförsäkring som gäller i Sverige, och
+
+4. utlänningen inte utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+Om den företagsinterna förflyttningen avser ett reglerat yrke ska utlänningen styrka behörigheten att få utöva yrket i Sverige. *Lag (2026:295)*.
+
+#### 3 §
+
+Ett tillstånd enligt 1 eller 2 § ska inte beviljas en utlänning som
+
+1. är bosatt inom Europeiska unionens medlemsstaters territorier,
+
+2. är EES-medborgare eller medborgare i Schweiz,
+
+3. ansöker om uppehållstillstånd för att utföra forskning i Sverige enligt ett mottagningsavtal som har ingåtts enligt lagen (2008:290) om godkännande för forskningshuvudmän att ta emot gästforskare,
+
+4. är utstationerad i Sverige enligt 5 § lagen (1999:678) om utstationering av arbetstagare av ett företag som är etablerat i en EES-stat eller Schweiz,
+
+5. har beviljats uppehållstillstånd för studier i Sverige, eller
+
+6. hyrs ut av ett företag för att arbeta under övervakning och ledning av ett annat företag. *Lag (2020:598)*.
+
+#### 4 §
+
+Ett tillstånd enligt 1 eller 2 § ska inte heller beviljas en utlänning som visar upp handlingar till stöd för ansökan som har förvärvats på ett bedrägligt sätt, förfalskats eller ändrats i något avseende. *Lag (2018:67)*.
+
+#### 5 §
+
+Ett tillstånd enligt 1 eller 2 § får vägras om
+
+1. arbetsgivaren eller värdföretaget har blivit påförd en sanktion för att ha haft en utlänning anställd utan nödvändiga tillstånd,
+
+2. arbetsgivaren eller värdföretaget har blivit påförd en sanktion för att ha lämnat oriktiga uppgifter till ledning för en myndighets beslut om skatt eller avgift och uppgifterna rör redovisning av arbete,
+
+3. arbetsgivaren eller värdföretaget inte har uppfyllt sina rättsliga skyldigheter beträffande social trygghet, skatter, arbetstagares rättigheter eller arbetsvillkor, eller
+
+4. arbetsgivarens eller värdföretagets verksamhet håller på att avvecklas eller har avvecklats genom en konkurs eller om arbetsgivaren eller värdföretaget inte bedriver någon ekonomisk verksamhet. *Lag (2018:67)*.
+
+### Förutsättningar för rörlighet för kortare vistelse
+
+#### 6 §
+
+En utlänning som har beviljats ett ICT-tillstånd av en annan EU-stat får under giltighetstiden för tillståndet i högst 90 dagar under en 180-dagarsperiod resa in och vistas i Sverige och arbeta här i ett företag som dels är etablerat i Sverige, dels är en enhet som tillhör samma företag eller ett företag inom samma koncern som det i den andra EU-staten.
+
+Första stycket gäller inte en utlänning som utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa.
+
+*Lag (2018:67)*.
+
+### Ansökan om tillstånd
+
+#### 7 §
+
+En utlänning som vill ha ett ICT-tillstånd i Sverige ska ha ansökt om och beviljats ett sådant tillstånd före inresan i EU. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller dock inte om utlänningen ansöker om förlängning av ett ICT-tillstånd.
+
+En utlänning som ansöker om en förlängning av tillståndstiden för ett ICT-tillstånd får arbeta i Sverige under tiden för ansökans prövning, om giltighetstiden för tillståndet inte hade löpt ut när ansökan gavs in. *Lag (2018:67)*.
+
+#### 8 §
+
+En ansökan om ICT-tillstånd får prövas i Sverige om
+
+1. utlänningen avser att vistas endast i Sverige, eller
+
+2. utlänningen avser att vistas i flera EU-stater men vistelsen i Sverige kommer att vara den längsta.
+
+*Lag (2018:67)*.
+
+#### 9 §
+
+En ansökan om ICT-tillstånd för rörlighet för längre vistelse får ges in efter inresan i landet.
+
+En utlänning som ansöker om ett ICT-tillstånd för rörlighet för längre vistelse får arbeta i värdföretaget i Sverige under tiden för ansökans prövning, om giltighetstiden för det ICT-tillstånd som har beviljats av en annan EU-stat inte har löpt ut och utlänningen har rätt att resa in, vistas och arbeta i Sverige enligt 6 §.
+
+Även en utlänning som ansöker om en förlängning av tillståndstiden för ett ICT-tillstånd för rörlighet för längre vistelse får arbeta under tiden för ansökans prövning, om giltighetstiden för tillståndet inte hade löpt ut när ansökan gavs in. *Lag (2018:67)*.
+
+### Tillståndstid
+
+#### 10 §
+
+Ett tillstånd enligt 1 eller 2 § får inte gälla för längre tid än uppdragstiden.
+
+Den sammanlagda tillståndstiden för ett ICT-tillstånd får inte överstiga tre år för chefer och specialister eller ett år för praktikanter.
+
+Ett ICT-tillstånd för rörlighet för längre vistelse får inte gälla för längre tid än det ICT-tillstånd som har beviljats av en annan EU-stat. *Lag (2018:67)*.
+
+### Förlängning av tillståndstiden
+
+#### 11 §
+
+Tillståndstiden för ett tillstånd enligt 1 eller 2 § får efter ansökan förlängas upp till den tid som framgår av 10 §.
+
+Tillståndstiden får inte förlängas om
+
+1. tillståndet har förvärvats på ett bedrägligt sätt,
+
+2. ett bevis om tillståndet har förfalskats eller ändrats i något avseende,
+
+3. utlänningen vistas i Sverige av andra skäl än dem som tillståndet beviljades för,
+
+4. värdföretaget huvudsakligen har inrättats för att underlätta inresa för personer som är föremål för företagsintern förflyttning, eller
+
+5. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2018:67)*.
+
+#### 12 §
+
+En förlängning av tillståndstiden får vägras om
+
+1. förutsättningarna i 1 eller 2 § för att bevilja tillståndet i fråga inte är uppfyllda, i andra fall än som anges i 11 § andra stycket 4 och 5,
+
+2. det finns grund för avslag enligt 5 §, eller
+
+3. utlänningen har vistats och arbetat i en annan EU-stat i strid med bestämmelserna om rörlighet för längre eller kortare vistelse. *Lag (2018:67)*.
+
+### Anmälningsskyldighet
+
+#### 13 §
+
+En utlänning som har ansökt om ett ICT-tillstånd eller som har ett ICT-tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse ska anmäla förändringar som påverkar villkoren för tillståndet till Migrationsverket.
+
+Ett värdföretag ska underrätta Migrationsverket om förändringar som påverkar villkoren för ett ICT-tillstånd för rörlighet för längre vistelse. *Lag (2018:67)*.
+
+### Uppehållstillstånd för familjemedlemmar
+
+#### 14 §
+
+Uppehållstillstånd på grund av anknytning till en person som har ett ICT-tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse, ska ges till en sådan familjemedlem som avses i 5 kap. 3 a § första stycket. Uppe- hållstillstånd får endast ges om anknytningspersonen kan försörja sig och familjemedlemmen. Om vistelsen ska uppgå till högst ett år krävs det också att familjemedlemmen kommer att omfattas av en heltäckande sjukförsäkring som gäller i Sverige. Familjemedlemmens uppehållstillstånd ska gälla för samma tid som anknytningspersonens tillstånd.
+
+Undantag från försörjningskravet i första stycket får medges helt eller delvis, om det finns särskilda skäl.
+
+För barn som åberopar anknytning till den som har ett ICT- tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse, eller till hans eller hennes make eller sambo, gäller 5 kap. 17 § tredje stycket.
+
+Uppehållstillstånd får vägras i fall som avses i 5 kap. 17 a och 17 b §§. *Lag (2026:1686)*.
+
+#### 15 §
+
+En familjemedlem som avses i 14 § ska ha ansökt om och beviljats ett uppehållstillstånd före inresan i landet. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller dock inte om
+
+1. ansökan avser förlängning av ett tidsbegränsat uppehållstillstånd som beviljats på grund av anknytning till en utlänning som har ett ICT-tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse som är utfärdat av Sverige,
+
+2. sökanden har beviljats ett uppehållstillstånd av en annan EU-stat på grund av anknytning till en utlänning som har ansökt om eller har ett ICT-tillstånd för rörlighet för längre vistelse i Sverige, eller
+
+3. det finns synnerliga skäl. *Lag (2026:457)*.
+
+### Återkallelse av tillstånd
+
+#### 16 §
+
+Ett tillstånd enligt 1 eller 2 § ska återkallas om
+
+1. tillståndet har förvärvats på ett bedrägligt sätt,
+
+2. ett bevis om tillståndet har förfalskats eller ändrats i något avseende,
+
+3. utlänningen vistas i Sverige av andra skäl än dem som tillståndet beviljades för,
+
+4. värdföretaget huvudsakligen har inrättats för att underlätta inresa för personer som är föremål för företagsintern förflyttning, eller
+
+5. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2018:67)*.
+
+#### 17 §
+
+Ett tillstånd enligt 1 eller 2 § får återkallas om
+
+1. förutsättningarna i 1 eller 2 § för att bevilja tillståndet i fråga inte är uppfyllda, i andra fall än som anges i 16 § 4 och 5,
+
+2. det finns grund för avslag enligt 5 §, eller
+
+3. utlänningen har vistats och arbetat i en annan EU-stat i strid med bestämmelserna om rörlighet för längre eller kortare vistelse. *Lag (2018:67)*.
+
+#### 18 §
+
+Ett uppehållstillstånd som har beviljats en familjemedlem enligt 14 § får återkallas om
+
+1. anknytningen till den som har ett ICT-tillstånd eller ett ICT-tillstånd för rörlighet för längre vistelse bryts eller ett sådant tillstånd återkallas, eller
+
+2. familjemedlemmen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2018:67)*.
+
+### Återtagande av en utlänning som har ett ICT-tillstånd och hans eller hennes familjemedlemmar
+
+#### 19 §
+
+Om en annan EU-stat har avslagit en ansökan om ICT-tillstånd för rörlighet för längre vistelse från en utlänning som har eller vid tiden för ansökan i den andra EU-staten hade ett ICT-tillstånd utfärdat av Sverige, och den andra EU-staten har ålagt utlänningen och medföljande familjemedlemmar att lämna den medlemsstaten, ska de återtas till Sverige.
+
+Detsamma ska gälla om en annan EU-stat har motsatt sig att utlänningen vistas i den staten med stöd av ett ICT-tillstånd utfärdat av Sverige eller om det svenska ICT-tillståndet har löpt ut eller återkallats. *Lag (2018:67)*.
+
+### Beslutande myndighet
+
+#### 20 §
+
+Beslut enligt detta kapitel meddelas av Migrationsverket. *Lag (2018:67)*.
+
+### Bemyndigande
+
+#### 21 §
+
+Regeringen får meddela föreskrifter om försörjningsförmågan enligt 14 §. *Lag (2022:303)*.
+
+## 6 c kap. Tillstånd för säsongsarbete
+
+### Förutsättningar för tillstånd
+
+#### 1 §
+
+En utlänning som har ett anställningsavtal för en tidsbegränsad anställning som säsongsarbetare i Sverige med en arbetsgivare som är etablerad här ska beviljas ett tillstånd för säsongsarbete om förutsättningarna i 2-6 §§ är uppfyllda.
+
+Ett tillstånd för säsongsarbete ska beviljas i form av
+
+1. ett arbetstillstånd för säsongsarbete om vistelsen inte överstiger 90 dagar, eller
+
+2. ett uppehålls- och arbetstillstånd för säsongsarbete om vistelsen överstiger 90 dagar. *Lag (2024:1220)*.
+
+#### 2 §
+
+Ett tillstånd för säsongsarbete ska beviljas om
+
+1. den lön som betalas till utlänningen motsvarar minst den lägsta lön som enligt svenska kollektivavtal eller praxis inom yrket eller branschen betalas vid heltidsarbete,
+
+2. lönen, försäkringsskyddet och övriga anställningsvillkor inte är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen,
+
+3. utlänningen kan visa att han eller hon har, eller har ansökt om, en heltäckande sjukförsäkring som gäller i Sverige,
+
+4. utlänningen kan visa att han eller hon under sin vistelse kommer att ha tillgång till en bostad med lämplig standard, och
+
+5. rekryteringsförfarandet är förenligt med Sveriges åtaganden inom Europeiska unionen.
+
+Om säsongsanställningen avser ett reglerat yrke ska utlänningen styrka behörigheten att få utöva yrket i Sverige.
+
+Ett tillstånd för säsongsarbete ska inte beviljas om
+
+1. det finns risk för att utlänningen inte har för avsikt att lämna Sverige när tillståndstiden har löpt ut, eller
+
+2. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2026:295)*.
+
+#### 3 §
+
+Om arbetsgivaren upplåter eller förmedlar en bostad till utlänningen får ett tillstånd för säsongsarbete beviljas endast om
+
+1. hyran för bostaden inte står i missförhållande till utlänningens lön eller boendets standard,
+
+2. hyran för bostaden inte dras från utlänningens lön i andra fall än enligt lagen (1970:215) om arbetsgivares kvittningsrätt,
+
+3. arbetsgivaren har tillhandahållit utlänningen en skriftlig handling med hyresvillkoren, och
+
+4. bostaden uppfyller allmänna säkerhets- och hälsobestämmelser. *Lag (2018:319)*.
+
+#### 4 §
+
+Ett tillstånd för säsongsarbete ska inte beviljas en utlänning som
+
+1. är bosatt inom Europeiska unionens medlemsstaters territorier,
+
+2. är EES-medborgare eller medborgare i Schweiz eller är familjemedlem till en sådan medborgare, eller
+
+3. bedriver verksamhet på ett i en annan medlemsstat etablerat företags vägnar inom ramen för tillhandahållande av tjänster i den mening som avses i artikel 56 i fördraget om Europeiska unionens funktionssätt. *Lag (2018:319)*.
+
+#### 5 §
+
+Ett tillstånd för säsongsarbete ska inte beviljas en utlänning som visar upp handlingar till stöd för ansökan som har förvärvats på ett bedrägligt sätt, förfalskats eller ändrats i något avseende. *Lag (2018:319)*.
+
+#### 6 §
+
+Ett tillstånd för säsongsarbete får vägras om
+
+1. arbetsgivaren har blivit påförd en sanktion för att ha haft en utlänning anställd utan nödvändiga tillstånd,
+
+2. arbetsgivaren har blivit påförd en sanktion för att ha lämnat oriktiga uppgifter till ledning för en myndighets beslut om skatt eller avgift och uppgifterna rör redovisning av arbete,
+
+3. arbetsgivaren har blivit påförd en sanktion för att inte ha uppfyllt sina skyldigheter i förhållande till utlänningar som har beviljats tillstånd för säsongsarbete,
+
+4. arbetsgivaren inte har uppfyllt sina rättsliga skyldigheter beträffande social trygghet, skatter, arbetstagares rättigheter, arbetsvillkor eller anställningsvillkor, eller
+
+5. arbetsgivarens verksamhet håller på att avvecklas eller har avvecklats genom en konkurs eller om arbetsgivaren inte bedriver någon ekonomisk verksamhet.
+
+Ett tillstånd för säsongsarbete får även vägras om utlänningen tidigare har haft ett tillstånd för säsongsarbete och inte följt villkoren för det tillståndet. *Lag (2018:319)*.
+
+### Ansökan om tillstånd
+
+#### 7 §
+
+En utlänning som vill ha ett tillstånd för säsongsarbete ska ha ansökt om och beviljats tillståndet före inresan i EU. En ansökan får inte bifallas efter inresan.
+
+Första stycket gäller inte om utlänningen
+
+1. ansöker om förlängning av ett tillstånd för säsongsarbete, eller
+
+2. har ett tillstånd för säsongsarbete och ansöker om ett nytt sådant tillstånd. *Lag (2018:319)*.
+
+#### 8 §
+
+En utlänning som inom giltighetstiden för ett tillstånd för säsongsarbete ansöker om en förlängning av tillståndet eller om ett nytt sådant tillstånd, får arbeta som säsongsarbetare i Sverige till dess tillståndsfrågan har avgjorts. *Lag (2018:319)*.
+
+### Tillståndstid
+
+#### 9 §
+
+Ett tillstånd för säsongsarbete får inte beviljas för längre tid än anställningstiden och inte för längre tid än utlänningens pass gäller.
+
+Den sammanlagda tillståndstiden för ett eller flera tillstånd för säsongsarbete får inte överstiga nio månader under en tolvmånadersperiod. *Lag (2026:295)*.
+
+### Förlängning av tillståndstiden
+
+#### 10 §
+
+Tillståndstiden för ett tillstånd för säsongsarbete får efter ansökan förlängas upp till den tid som framgår av 9 §.
+
+Tillståndstiden får inte förlängas om
+
+1. förutsättningarna i 1-4 §§ för att bevilja tillståndet i fråga inte är uppfyllda,
+
+2. tillståndet har förvärvats på ett bedrägligt sätt, eller
+
+3. ett bevis om tillståndet har förfalskats eller ändrats i något avseende. *Lag (2018:319)*.
+
+#### 11 §
+
+En förlängning av tillståndstiden får vägras om det finns grund för avslag enligt 6 §. *Lag (2018:319)*.
+
+### Återkallelse av tillstånd
+
+#### 12 §
+
+Ett tillstånd för säsongsarbete ska återkallas om
+
+1. tillståndet har förvärvats på ett bedrägligt sätt,
+
+2. ett bevis om tillståndet har förfalskats eller ändrats i något avseende,
+
+3. utlänningen vistas i Sverige av andra skäl än dem som tillståndet beviljades för, eller
+
+4. utlänningen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2018:319)*.
+
+#### 13 §
+
+Ett tillstånd för säsongsarbete får återkallas om
+
+1. förutsättningarna i 1-4 §§ för att bevilja tillståndet i fråga inte är uppfyllda, i andra fall än som anges i 12 § 4, eller
+
+2. det finns grund för avslag enligt 6 § första stycket.
+
+*Lag (2018:319)*.
+
+### Anmälningsskyldighet
+
+#### 14 §
+
+En utlänning som har ansökt om eller som har ett tillstånd för säsongsarbete ska anmäla till Migrationsverket om han eller hon byter bostad. *Lag (2018:319)*.
+
+### Beslutande myndighet
+
+#### 15 §
+
+Beslut enligt detta kapitel meddelas av Migrationsverket. *Lag (2018:319)*.
+
+### Bemyndiganden
+
+#### 16 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vad som ska anses vara en bostad med lämplig standard enligt 2 § första stycket 4.
+
+*Lag (2018:319)*.
+
+#### 17 §
+
+Regeringen får meddela föreskrifter om
+
+1. skyldighet för arbetsgivare som upplåter eller förmedlar en bostad till en utlänning som har beviljats ett tillstånd för säsongsarbete att lämna uppgifter om bostaden,
+
+2. skyldighet för arbetsgivare till en utlänning som har beviljats ett tillstånd för säsongsarbete att lämna uppgifter om de anställningsvillkor som gäller för utlänningen, och
+
+3. hur uppgiftsskyldigheten enligt 1 och 2 ska uppfyllas.
+
+*Lag (2018:319)*.
+
+## 7 kap. Återkallelse av tillstånd
+
+#### 1 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Nationell visering får återkallas för en utlänning som medvetet har lämnat oriktiga uppgifter eller medvetet har förtigit omständigheter, som varit av betydelse för att få tillståndet.
+
+Uppehållstillstånd och arbetstillstånd får återkallas för en utlänning om utlänningen eller någon annan medvetet har lämnat oriktiga uppgifter eller medvetet har förtigit omständigheter, som varit av betydelse för att få tillståndet.
+
+I viseringskodexen finns bestämmelser om upphävande och återkallelse av Schengenvisering. *Lag (2026:1221)*.
+
+#### 1 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Nationell visering får återkallas för en utlänning som medvetet har lämnat oriktiga uppgifter eller medvetet har förtigit omständigheter, som varit av betydelse för att få tillståndet.
+
+Uppehållstillstånd och arbetstillstånd får återkallas för en utlänning om utlänningen eller någon annan medvetet har lämnat oriktiga uppgifter eller medvetet har förtigit omständigheter, som varit av betydelse för att få tillståndet.
+
+I viseringskodexen finns bestämmelser om upphävande och åter- kallelse av Schengenvisering. I Etias-förordningen finns bestämmelser om ogiltigförklaring och återkallelse av resetillstånd. *Lag (2026:1222)*.
+
+#### 2 §
+
+Utöver vad som sägs i 1 § får nationell visering, uppehållstillstånd och arbetstillstånd återkallas, om det finns särskilda skäl för det.
+
+Uppehållstillstånd får dock återkallas enligt första stycket endast för en utlänning som ännu inte har rest in i Sverige.
+
+*Lag (2011:705)*.
+
+#### 3 §
+
+Uppehållstillstånd får återkallas för en utlänning som har rest in i landet, om
+
+1. utlänningen utan arbetstillstånd bedriver verksamhet som kräver ett sådant tillstånd,
+
+2. utlänningen har beviljats arbetstillstånd enligt 6 kap. 2 § första stycket och anställningen upphört, om inte utlänningen inom tre månader har fått en ny anställning som omfattas av arbetstillståndet eller inom samma tid ansökt om arbetstillstånd med anledning av en ny anställning och ansökan därefter beviljas, eller
+
+3. det på grund av tidigare verksamhet eller i övrigt kan antas att utlänningen
+
+a) i Sverige eller i något annat nordiskt land kommer att bedriva sabotage, spioneri eller olovlig underrättelseverksamhet,
+
+b) i Sverige eller i något annat nordiskt land kommer att bedriva sådant företagsspioneri som utövas på uppdrag av eller understöds av en främmande makt eller av någon som agerar för en främmande makts räkning där det kan antas att brottet inte leder till endast böter, eller
+
+c) kommer att bedriva verksamhet med koppling till terrorism.
+
+Ett tidsbegränsat uppehållstillstånd som meddelats med stöd av 5 kap. 3 § 1 eller 4, 3 a § första stycket 1 eller 4 eller tredje stycket 1 eller 4 eller 3 f § får återkallas om förhållandet upphör. *Lag (2026:1686)*.
+
+#### 3 a §
+
+Ett tidsbegränsat uppehållstillstånd får återkallas för en utlänning som inte har för avsikt att vistas i Sverige.
+
+*Lag (2026:1221)*.
+
+#### 3 b §
+
+Ett uppehållstillstånd för en utlänning får återkallas, om han eller hon utgör ett hot mot allmän ordning eller säkerhet, har dömts för brott eller i övrigt har brustit i sin vandel.
+
+Första stycket ska inte tillämpas på uppehållstillstånd som avses i 5 kap. 1 a §, 1 b §, 2 a §, 2 d §, 3 a § första stycket, 3 d § första stycket eller 4 §. *Lag (2026:1686)*.
+
+#### 3 c §
+
+Ett uppehållstillstånd som avses i 5 kap. 3 a § första stycket eller 3 d § första stycket får återkallas om utlänningen utgör ett hot mot allmän ordning eller säkerhet.
+
+Ett uppehållstillstånd får återkallas för en utlänning som har ställning som varaktigt bosatt i en annan EU-stat, om utlänningen utgör ett hot mot allmän ordning eller säkerhet. Detsamma gäller för utlänningens anhöriga. *Lag (2026:1686)*.
+
+#### 3 d §
+
+Ett tidsbegränsat uppehållstillstånd får, utöver vad som i övrigt framgår av denna lag, återkallas om förutsättningarna för uppehållstillståndet inte längre är uppfyllda.
+
+Ett uppehållstillstånd ska inte återkallas enligt första stycket om det finns förutsättningar att meddela uppehållstillstånd enligt 5 kap. 3 g § 2. *Lag (2026:1691)*.
+
+#### 4 §
+
+Vid bedömningen av om uppehållstillståndet för en utlänning som har rest in i landet ska återkallas enligt 1 eller 3-3 d § ska hänsyn tas till den anknytning som utlänningen har till Sverige och till om det annars finns särskilda skäl som talar emot att tillståndet återkallas.
+
+Vid en sådan bedömning ska det särskilt beaktas i vilken utsträckning som utlänningen har etablerat sig i det svenska samhället. Om utlänningen har barn i Sverige ska barnets behov av kontakt med honom eller henne, hur kontakten har varit och hur den skulle påverkas om utlänningens uppehållstillstånd återkallades också särskilt beaktas. Även utlänningens övriga familjeförhållanden ska särskilt beaktas.
+
+Vid bedömningen av om uppehållstillståndet ska återkallas enligt 3 § andra stycket ska det också särskilt beaktas om det förhållande som avses där har upphört främst på grund av att utlänningen eller utlänningens barn i förhållandet har utsatts för våld eller annan allvarlig kränkning av sin frihet eller frid. *Lag (2026:1221)*.
+
+#### 5 §
+
+Om det finns tillräckliga skäl får, efter samråd, uppehållstillstånd eller nationell visering återkallas för en utlänning om
+
+1. det i Schengens informationssystem (SIS) har gjorts en registrering om återvändande enligt återvändandeförordningen eller en registrering om nekad inresa och vistelse enligt gränsförordningen gällande utlänningen, eller
+
+2. en annan medlemsstat har fattat ett beslut om återvändande, nekad inresa och vistelse eller återreseförbud, och överväger att i SIS göra en registrering om återvändande enligt återvändandeförordningen eller en registrering om nekad inresa och vistelse enligt gränsförordningen gällande utlänningen. *Lag (2021:1189)*.
+
+#### 6 §
+
+Uppehållstillstånd får återkallas för den som inte är medborgare i en EU-stat även i andra fall än som avses i 2 §, om ett beslut om avvisning eller utvisning har meddelats i en EU-stat eller i Island, Norge, Schweiz eller Liechtenstein och beslutet är grundat på att det finns ett allvarligt hot mot den allmänna ordningen eller den inre säkerheten och på att
+
+1. utlänningen i den beslutande staten har dömts för ett brott för vilket det är föreskrivet fängelse i minst ett år, eller
+
+2. utlänningen är skäligen misstänkt för att ha begått ett grovt brott eller att det finns starka skäl som tyder på att utlänningen avser att begå ett sådant brott.
+
+Första stycket gäller inte en familjemedlem till en medborgare i en EU-stat eller till en medborgare i Island, Norge, Schweiz eller Liechtenstein som har utövat sin rätt till fri rörlighet enligt de regler som gäller inom Europeiska unionen. Med familjemedlem avses
+
+- make eller sambo,
+
+- barn under 21 år som är beroende av föräldern för sin försörjning, och
+
+- förälder som är beroende av barnet för sin försörjning.
+
+Ett uppehållstillstånd får inte återkallas enligt första stycket innan samråd har skett med den stat som har beslutat om avvisning eller utvisning. *Lag (2011:1209)*.
+
+#### 7 §
+
+Ett permanent uppehållstillstånd ska återkallas för en utlänning som inte längre är bosatt i Sverige. Om utlänningen har anmält till Migrationsverket att han eller hon vill ha uppehållstillståndet kvar trots att bosättningen upphör, får uppehållstillståndet dock återkallas tidigast när ett år har förflutit efter det att bosättningen här i landet upphörde. Om utlänningen har haft ett tidsbegränsat uppehållstillstånd för forskning, forskning vid rörlighet för längre vistelse eller utbildning på forskarnivå och därefter beviljats ett permanent uppehållstillstånd enligt 5 kap. 5 § ska dock tidsfristen vara två år. *Lag (2026:1221)*.
+
+#### 7 a §
+
+Utöver vad som anges i 1-3, 5 och 6 §§ får ett tidsbegränsat uppehållstillstånd för studier återkallas, om förutsättningarna för att medge uppehållstillståndet inte längre är uppfyllda. *Lag (2006:447)*.
+
+#### 7 b §
+
+Uppehållstillstånd enligt 5 kap. 15 § får, utöver vad som anges i 1, 3, 5 och 6 §§, återkallas om förutsättningarna för uppehållstillståndet inte längre är uppfyllda.
+
+Uppehållstillståndet får inte återkallas innan den som har ansökt om tillståndet har fått tillfälle att yttra sig.
+
+*Lag (2022:1015)*.
+
+#### 7 c §
+
+Uppehållstillstånd enligt 5 kap. 15 b § får återkallas endast om förutsättningarna för sådant uppehållstillstånd inte längre finns. Uppehållstillståndet får återkallas endast på ansökan av Polismyndigheten.
+
+Uppehållstillstånd enligt 5 kap. 16 a § får inte återkallas innan Polismyndigheten fått tillfälle att yttra sig.
+
+*Lag (2015:655)*.
+
+#### 7 d §
+
+Uppehållstillstånd enligt 5 kap. 15 c § får återkallas endast om förutsättningarna för sådant uppehållstillstånd inte längre finns.
+
+Uppehållstillstånd enligt 5 kap. 15 c eller 16 b § får inte återkallas för ett barn innan den socialnämnd som ansökte om uppehållstillståndet har fått tillfälle att yttra sig.
+
+*Lag (2012:322)*.
+
+#### 7 e §
+
+Ett tidsbegränsat uppehållstillstånd för arbete för en utlänning som har beviljats arbetstillstånd enligt 6 kap. 2 § första stycket ska återkallas om
+
+1. förutsättningarna för arbetstillståndet enligt 6 kap. 2 § första stycket av något annat skäl än att anställningen har upphört inte längre är uppfyllda, eller
+
+2. utlänningen inte inom fyra månader från tillståndets första giltighetsdag påbörjat arbetet.
+
+Om utlänningens anställning har upphört sedan utlänningen underrättats om att en utredning om återkallelse enligt första stycket har inletts, men innan beslut om återkallelse fattats, gäller bestämmelserna om återkallelse i 3 § första stycket 2. Tiden ska då vara fyra månader i stället för tre.
+
+Trots vad som anges i första stycket behöver ett tillstånd inte återkallas i ringa fall eller om en återkallelse med hänsyn till omständigheterna annars inte framstår som skälig.
+
+*Lag (2022:303)*.
+
+#### 7 f §
+
+Ett uppehållstillstånd som har beviljats en familjemedlem till en utlänning med tidsbegränsat uppehållstillstånd för arbete enligt 5 kap. 10 § i de fall som avses i 6 kap. 2 § första stycket eller för att bedriva näringsverksamhet enligt 5 kap. 10 a § får återkallas, om anknytningen bryts eller utlänningens tillstånd återkallas.
+
+*Lag (2025:225)*.
+
+#### 7 g §
+
+Ett uppehållstillstånd som har beviljats en familjemedlem till en utlänning med tidsbegränsat uppehållstillstånd för studier inom högre utbildning enligt 5 b kap. 3 § eller efter slutförda studier enligt 5 b kap. 8 § får återkallas, om
+
+1. anknytningen bryts eller utlänningens tillstånd återkallas, eller
+
+2. familjemedlemmen utgör ett hot mot allmän ordning, allmän säkerhet eller allmän folkhälsa. *Lag (2026:457)*.
+
+#### 7 h §
+
+Ett tidsbegränsat uppehållstillstånd enligt 5 kap. 9 §, för arbete enligt 5 kap. 10 § i de fall som avses i 6 kap. 2 § första stycket eller för att bedriva näringsverksamhet enligt 5 kap. 10 a § får, på utlänningens begäran, återkallas om han eller hon beviljas ett uppehållstillstånd på en sådan annan grund som enligt 5 kap. 18 § andra stycket 8 b eller fjärde stycket, 5 b kap. 15 § andra stycket 3 eller 6 a kap. 4 § andra stycket 9 eller 10 kan beviljas efter inresan.
+
+*Lag (2026:457)*.
+
+#### 7 i §
+
+Ett tidsbegränsat uppehållstillstånd får, på utlänningens begäran, återkallas om han eller hon beviljas ett permanent uppehållstillstånd enligt 5 kap. 5 § första eller andra stycket.
+
+Första stycket gäller endast om utlänningen har ett sådant uppehållstillstånd, EU-blåkort eller annat tillstånd som avses i 5 kap. 5 § första stycket eller andra stycket 1.
+
+*Lag (2026:457)*.
+
+#### 7 j §
+
+I artikel 24 i skyddsgrundsförordningen finns bestämmelser om att uppehållstillstånd som har utfärdats med stöd av den artikeln får återkallas endast om utlänningens internationella skydd har återkallats. Uppehållstillståndet ska återkallas om förutsättningarna för det är uppfyllda.
+
+I artikel 23 i skyddsgrundsförordningen finns bestämmelser om återkallelse av uppehållstillstånd för familjemedlemmar till personer som har beviljats internationellt skydd (familjesammanhållning). Därutöver ska ett sådant uppehållstillstånd återkallas om
+
+1. anknytningspersonens internationella skydd har återkallats,
+
+2. utlänningen är utesluten eller skulle vara utesluten från internationellt skydd,
+
+3. det finns starka indikationer på att äktenskapet har ingåtts eller samboförhållandet inletts enbart för att ge utlänningen rätt till uppehållstillstånd, eller
+
+4. förhållandet upphör. *Lag (2026:1142)*.
+
+### Beslutande myndigheter
+
+#### 8 §
+
+Återkallelse av uppehållstillstånd och arbetstillstånd beslutas av Migrationsverket. Återkallelse och upphävande av Schengenvisering får utöver vad som följer av viseringskodexen beslutas av Migrationsverket. Återkallelse av nationell visering beslutas av den myndighet som har beviljat viseringen eller av Migrationsverket.
+
+Uppehållstillstånd eller nationell visering som har beviljats av Regeringskansliet får återkallas endast av Regeringskansliet. *Lag (2011:705)*.
+
+### Bemyndigande
+
+#### 9 §
+
+Regeringen får meddela föreskrifter om att uppehållstillstånd får återkallas i andra fall än som anges i detta kapitel för de utlänningar som omfattas av avtalet mellan Europeiska gemenskapen och dess medlemsstater å ena sidan och Schweiz å andra sidan om fri rörlighet för personer.
+
+Regeringen får meddela föreskrifter om att uppehållstillstånd får återkallas i andra fall än som anges i detta kapitel för utlänningar som har ställning som varaktigt bosatt i en annan EU-stat. *Lag (2014:198)*.
+
+## 8 kap. Avvisning och utvisning
+
+### Kapitlets innehåll
+
+#### 1 §
+
+I detta kapitel finns bestämmelser om avvisning och utvisning.
+
+Bestämmelser om utvisning på grund av brott finns i 8 a kap.
+
+Bestämmelser om utvisning på grund av befarad brottslighet enligt terroristbrottslagen (2022:666) och av hänsyn till Sveriges säkerhet finns i lagen (2022:700) om särskild kontroll av vissa utlänningar. *Lag (2022:705)*.
+
+### Förutsättningar för avvisning och utvisning av andra utlänningar än EES-medborgare och deras familjemedlemmar
+
+### Avvisning
+
+#### 2 §
+
+En utlänning som inte är EES-medborgare eller familjemedlem till en EES-medborgare får avvisas
+
+1. om han eller hon saknar pass när det krävs pass för inresa eller vistelse i Sverige,
+
+2. om han eller hon saknar visering, uppehållstillstånd eller något annat tillstånd som krävs för inresa, vistelse eller arbete i Sverige,
+
+3. om han eller hon har visering eller är undantagen från kravet på visering men inte har för avsikt att lämna Sverige efter att viseringstiden eller den viseringsfria tiden har löpt ut, under förutsättning att han eller hon inte har uppehållstillstånd eller något annat tillstånd som ger rätt att vistas i Sverige,
+
+4. om det vid utlänningens ankomst till Sverige kommer fram att han eller hon tänker besöka något annat nordiskt land men saknar det tillstånd som krävs för inresa där,
+
+5. om han eller hon vid inresan till Sverige inte lämnar begärda uppgifter eller om utlänningen eller någon annan medvetet lämnar oriktiga uppgifter eller medvetet förtiger omständigheter som är av betydelse för rätten att resa in i Sverige,
+
+6. om han eller hon inte uppfyller de krav för inresa som föreskrivs i artikel 6 i Europaparlamentets och rådets förordning (EU) 2016/399 av den 9 mars 2016 om en unionskodex om gränspassage för personer (kodex om Schengengränserna), eller
+
+7. om han eller hon har avvisats eller utvisats från en EU- stat eller från Island, Norge, Schweiz eller Liechtenstein och förhållandena är sådana som avses i 7 kap. 6 § eller beslutet om avvisning eller utvisning har grundats på att utlänningen inte har följt gällande bestämmelser om en utlännings inresa eller vistelse i den staten. *Lag (2026:1221)*.
+
+#### 3 §
+
+En utlänning som inte är EES-medborgare eller familjemedlem till en EES-medborgare får avvisas
+
+1. om det kan antas att han eller hon kommer att sakna tillräckliga medel för vistelsen i Sverige eller i något annat nordiskt land som han eller hon tänker besöka eller för hemresan,
+
+2. om det kan antas att han eller hon under vistelsen i Sverige eller i något annat nordiskt land inte kommer att försörja sig på ett ärligt sätt eller kommer att bedriva verksamhet som kräver ett arbetstillstånd, utan att han eller hon har ett sådant tillstånd,
+
+3. om han eller hon tidigare har dömts för brott till en strängare påföljd än böter eller har återfallit i brott med böter som påföljd och med anledning av brottsligheten eller någon annan särskild omständighet kan antas komma att begå brott i Sverige eller i något annat nordiskt land,
+
+4. om han eller hon på grund av tidigare verksamhet eller i övrigt kan antas komma att bedriva sabotage, spioneri eller olovlig underrättelseverksamhet i Sverige eller i något annat nordiskt land,
+
+5. om det med stöd av lagen (2025:327) om internationella sanktioner har föreskrivits att han eller hon får avvisas, eller
+
+6. om det kan antas att utlänningen efter inresan till Sverige, i något annat avseende än som avses i 1-5, kommer att brista i sin vandel.
+
+En utlänning som avses i första stycket får avvisas även i andra fall när det har begärts av den centrala utlänningsmyndigheten i ett annat nordiskt land och det kan antas att han eller hon annars beger sig till det landet. *Lag (2026:1221)*.
+
+#### 4 §
+
+En utlänning får inte avvisas enligt 2 eller 3 § om han eller hon vid inresan till Sverige hade ett uppehållstillstånd, som därefter har upphört att gälla, eller efter inresan till Sverige beviljats ett uppehållstillstånd, som har upphört att gälla. *Lag (2026:1221)*.
+
+#### 5 §
+
+Beslut om avvisning enligt 2 eller 3 § i första instans får inte fattas senare än tre månader efter det att den första ansökan om uppehållstillstånd gjorts efter ankomsten till Sverige. *Lag (2014:198)*.
+
+### Utvisning
+
+#### 6 §
+
+En utlänning som inte är EES-medborgare eller familjemedlem till en EES-medborgare och som inte avvisas enligt 2 § 1 eller 2 får utvisas ur Sverige om han eller hon uppehåller sig här men saknar pass eller de tillstånd som krävs för att få uppehålla sig i landet. *Lag (2014:198)*.
+
+### Avvisning eller utvisning av en utlänning som har tillstånd att vistas i en annan EU-stat
+
+#### 6 a §
+
+När en fråga uppkommer om avvisning eller utvisning enligt 2, 3 eller 6 § av en utlänning som har ett giltigt uppehållstillstånd eller någon annan form av tillstånd som ger rätt till vistelse i en annan EU-stat ska den beslutande myndigheten uppmana utlänningen att inom en skälig tid självmant bege sig till den andra EU-staten. Den beslutande myndigheten får avgöra frågan om avvisning eller utvisning först om utlänningen inte har följt en sådan uppmaning.
+
+Första stycket gäller inte om
+
+1. Migrationsverket avvisar eller avslår en ansökan om uppehållstillstånd som enligt bestämmelser i denna lag eller någon annan författning får bifallas efter inresan till Sverige,
+
+2. utlänningen nekas att resa in i landet,
+
+3. utlänningen hejdas i samband med att han eller hon olagligen passerar en yttre gräns,
+
+4. utlänningen utgör en risk för allmän ordning eller säkerhet, eller
+
+5. det är sannolikt att utlänningen inte skulle följa uppmaningen.
+
+Regeringen eller den myndighet regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om uppmaningar enligt första stycket.
+
+*Lag (2026:1221)*.
+
+### Beaktande av verkställighetshinder
+
+#### 7 §
+
+När en fråga om avvisning eller utvisning enligt 2, 3 eller 6 § prövas ska hänsyn tas till om utlänningen på grund av bestämmelserna i 12 kap. inte kan sändas till ett visst land eller om det annars finns särskilda hinder mot att beslutet verkställs. *Lag (2014:198)*.
+
+### Särskilt om vissa medborgare i Förenade kungariket och deras familjemedlemmar
+
+#### 7 a §
+
+För utlänningar som har beviljats uppehållsstatus i Sverige eller i övrigt utövar rättigheter enligt avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU gäller det som sägs i detta kapitel om EES-medborgare och familjemedlemmar till EES-medborgare i stället för 2-7 §§.
+
+*Lag (2020:939)*.
+
+### Förutsättningar för avvisning och utvisning av EES-medborgare och deras familjemedlemmar
+
+/Rubriken upphör att gälla U:den dag som regeringen bestämmer/ Avvisning när föreskrivna handlingar saknas
+
+*/Rubriken träder i kraft I:den dag som regeringen bestämmer/*
+
+### Avvisning när föreskrivna handlingar eller tillstånd saknas
+
+#### 8 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* En EES-medborgare eller en familjemedlem till en EES-medborgare får avvisas i anslutning till inresan eller under de tre första månaderna efter inresan om han eller hon saknar pass eller visering när det krävs en sådan handling för inresa eller vistelse i Sverige.
+
+Avvisning får inte ske på den grunden att utlänningen saknar pass om han eller hon kan styrka sin identitet på annat sätt än genom innehav av pass. *Lag (2014:198)*.
+
+#### 8 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* En EES-medborgare eller en familjemedlem till en EES- medborgare får avvisas i anslutning till inresan eller under de tre första månaderna efter inresan om han eller hon saknar pass, visering eller resetillstånd när det krävs en sådan handling eller ett sådant tillstånd för inresa eller vistelse i Sverige.
+
+Avvisning får inte ske på den grunden att utlänningen saknar pass om han eller hon kan styrka sin identitet på annat sätt än genom innehav av pass. *Lag (2023:337)*.
+
+### Avvisning vid orimlig belastning för biståndssystemet
+
+#### 9 §
+
+En EES-medborgare eller en familjemedlem till en EES- medborgare får avvisas under de tre första månaderna efter inresan om han eller hon visar sig utgöra en orimlig belastning för biståndssystemet enligt socialtjänstlagen (2025:400).
+
+En utlänning som har uppehållsrätt får inte avvisas enligt första stycket. *Lag (2025:429)*.
+
+### Utvisning när uppehållsrätt eller tillstånd att vistas i Sverige saknas
+
+#### 10 §
+
+En EES-medborgare eller en familjemedlem till en EES-medborgare som har vistats i Sverige mer än tre månader och som inte har uppehållsrätt, får utvisas om han eller hon uppehåller sig här men saknar de tillstånd som krävs för att få uppehålla sig i landet. *Lag (2014:198)*.
+
+### Avvisning och utvisning av hänsyn till allmän ordning och säkerhet
+
+#### 11 §
+
+En EES-medborgare eller en familjemedlem till en EES- medborgare får avvisas i anslutning till inresan eller under de tre första månaderna efter inresan av hänsyn till allmän ordning eller säkerhet.
+
+En EES-medborgare eller en familjemedlem till en EES- medborgare som inte avvisas i anslutning till inresan eller under de tre första månaderna efter inresan enligt första stycket får därefter utvisas av hänsyn till allmän ordning eller säkerhet. *Lag (2026:1221)*.
+
+#### 12 §
+
+Avvisning eller utvisning enligt 11 § får ske endast om utlänningens eget beteende utgör ett verkligt, faktiskt och tillräckligt allvarligt hot mot ett grundläggande samhällsintresse. Tidigare domar i brottmål får inte i sig utgöra skäl för ett sådant beslut. Det får inte vara ekonomiska syften som ligger till grund för beslutet.
+
+*Lag (2014:198)*.
+
+#### 13 §
+
+När en fråga uppkommer om avvisning eller utvisning av en EES-medborgare eller en familjemedlem till en EES-medborgare enligt 11 §, ska hänsyn tas till utlänningens ålder, hälsotillstånd, familjesituation, ekonomiska situation samt sociala och kulturella integrering i Sverige. Hänsyn ska också tas till hur länge utlänningen har vistats i Sverige och till banden till ursprungslandet. *Lag (2014:198)*.
+
+#### 14 §
+
+En EES-medborgare eller en familjemedlem till en EES- medborgare som har permanent uppehållsrätt får avvisas eller utvisas enligt 11 § endast om det är särskilt motiverat av hänsyn till allmän ordning eller säkerhet.
+
+En EES-medborgare som är barn får avvisas eller utvisas enligt 11 § endast om beslutet är oundgängligen nödvändigt av hänsyn till allmän säkerhet.
+
+En EES-medborgare som har vistats i Sverige sammanhängande under de tio närmast föregående åren får utvisas enligt 11 § endast om beslutet är oundgängligen nödvändigt av hänsyn till allmän säkerhet. *Lag (2026:1259)*.
+
+### Beaktande av verkställighetshinder
+
+#### 15 §
+
+När en fråga om avvisning eller utvisning enligt 8, 9, 10 eller 11 § prövas ska hänsyn tas till om utlänningen på grund av bestämmelserna i 12 kap. inte kan sändas till ett visst land eller om det annars finns särskilda hinder mot att beslutet verkställs. *Lag (2014:198)*.
+
+### Beslut om avvisning eller utvisning när ansökan om uppehållstillstånd avslås eller avvisas eller uppehållstillstånd återkallas
+
+#### 16 §
+
+Avslås eller avvisas en ansökan om uppehållstillstånd eller återkallas ett sådant tillstånd och befinner sig utlänningen i Sverige, ska det samtidigt meddelas beslut om avvisning eller utvisning, om inte särskilda skäl talar mot det. Detsamma gäller om en ansökan om uppehållsstatus avslås och utlänningen befinner sig i Sverige. *Lag (2026:1142)*.
+
+### Beslut om avvisning, utvisning eller återvändande i ärenden om internationellt skydd
+
+#### 16 a §
+
+I artikel 37 i asylprocedurförordningen finns bestämmelser om beslut om återvändande när en ansökan om internationellt skydd
+
+1. nekas prövning,
+
+2. avslås som ogrundad eller uppenbart ogrundad, eller
+
+3. avslås som implicit eller uttryckligen återkallad.
+
+I de situationer som anges i 4 kap. 1 § ska det, såvitt avser artikel 10.4 a och c i asylprocedurförordningen och om inte synnerliga skäl talar emot det, snarast möjligt meddelas ett beslut om avvisning eller utvisning som ska få verkställas utan att det har fått laga kraft. Ett sådant beslut behöver inte meddelas om det redan finns ett verkställbart beslut om avvisning, utvisning eller återvändande. *Lag (2026:1142)*.
+
+### Beslutande myndigheter
+
+#### 17 §
+
+Migrationsverket ska pröva frågan om avvisning om utlänningen
+
+1. har en nära familjemedlem som söker internationellt skydd här, eller
+
+2. kan komma att avvisas med stöd av 2 § 7 eller 3 § andra stycket.
+
+I andra fall får såväl Migrationsverket som Polismyndigheten pröva frågan om avvisning.
+
+Om Polismyndigheten anser det tveksamt om en utlänning bör avvisas, ska ärendet lämnas över till Migrationsverket. *Lag (2026:1142)*.
+
+#### 18 §
+
+Migrationsverket ska pröva frågan om utvisning enligt 6, 10 eller 11 §. *Lag (2014:198)*.
+
+#### 18 a §
+
+Migrationsverket ska pröva frågan om återvändande i enlighet med artikel 37 i asylprocedurförordningen.
+
+Migrationsverket ska pröva frågan om avvisning eller utvisning enligt 16 a § andra stycket. *Lag (2026:1142)*.
+
+### Beslut om omedelbar verkställighet
+
+#### 19 §
+
+Migrationsverket får besluta att verkets beslut om avvisning enligt 17 § första stycket 1 får verkställas även om det inte har fått laga kraft (avvisning med omedelbar verkställighet), om det är uppenbart att uppehållstillstånd inte ska beviljas.
+
+I 12 kap. 7 § finns närmare bestämmelser om verkställigheten av beslut om avvisning med omedelbar verkställighet. *Lag (2026:1142)*.
+
+### Anvisningar om verkställighet
+
+#### 20 §
+
+I ett beslut om avvisning eller utvisning som meddelas av Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen ska det anges vilket land utlänningen ska avvisas eller utvisas till.
+
+Om det finns särskilda skäl, får mer än ett land anges i beslutet.
+
+Ett beslut av en myndighet som avses i första stycket som rör avvisning eller utvisning ska innehålla de anvisningar om verkställigheten som omständigheterna i det enskilda fallet kan ge anledning till. *Lag (2014:198)*.
+
+#### 20 a §
+
+En utlänning som har ställning som varaktigt bosatt i Sverige eller som har ett EU-blåkort utfärdat av Sverige och som har internationellt skydd i en annan EU-stat får utvisas endast till den staten. *Lag (2024:1220)*.
+
+### Tidsfrist för frivillig avresa och återreseförbud
+
+#### 21 §
+
+Ett beslut om avvisning eller utvisning ska innehålla en tidsfrist inom vilken utlänningen frivilligt ska lämna landet i enlighet med beslutet (tidsfrist för frivillig avresa). Tidsfristen ska bestämmas till två veckor om utlänningen avvisas och till fyra veckor om utlänningen utvisas. Om det finns särskilda skäl får en längre tidsfrist bestämmas.
+
+En tidsfrist för frivillig avresa ska dock inte meddelas om
+
+1. det finns risk för att utlänningen avviker,
+
+2. utlänningen utgör en risk för allmän ordning eller säkerhet,
+
+3. utlänningen genom ett avvisningsbeslut nekas att resa in i landet,
+
+4. utlänningen hejdas i samband med att han eller hon olagligen passerar en yttre gräns och då avvisas, eller
+
+5. utlänningen avvisas av Migrationsverket med omedelbar verkställighet.
+
+För EES-medborgare och deras familjemedlemmar gäller i stället för första stycket 12 kap. 15 § tredje stycket.
+
+Första och andra styckena gäller inte för en utlänning som omfattas av förordningen om återvändandegränsförfarande. Då gäller i stället det som sägs om tidsfrist för frivillig avresa i artikel 4.5 i den förordningen. *Lag (2026:1221)*.
+
+#### 22 §
+
+I ett beslut om avvisning eller utvisning som innehåller en tidsfrist för frivillig avresa ska utlänningen upplysas om att ett återreseförbud kan meddelas om han eller hon inte lämnat landet i enlighet med beslutet senast när tidsfristen löper ut.
+
+Tidsfristen för frivillig avresa börjar löpa när beslutet om avvisning eller utvisning fått laga kraft eller när utlänningen förklarat sig nöjd med beslutet. *Lag (2017:22)*.
+
+#### 23 §
+
+Finns det inte förutsättningar att meddela en tidsfrist för frivillig avresa enligt 21 §, ska Polismyndighetens beslut om avvisning och Migrationsverkets beslut om avvisning eller utvisning förenas med ett återreseförbud, om inte särskilda skäl hänförliga till utlänningens personliga förhållanden talar mot att ett sådant förbud meddelas. Ett beslut om avvisning varigenom en utlänning nekas att resa in i landet ska dock inte förenas med ett återreseförbud.
+
+Ett beslut om avvisning eller utvisning som avser en EES- medborgare eller en familjemedlem till en EES-medborgare eller som avser en utlänning som har beviljats uppehållstillstånd enligt 5 kap. 15 §, får förenas med ett återreseförbud endast om beslutet har meddelats av hänsyn till allmän ordning eller säkerhet. *Lag (2026:1221)*.
+
+#### 24 §
+
+Tiden för återreseförbud enligt 23 eller 27 § ska bestämmas till högst fem år. Utgör utlänningen ett allvarligt hot mot allmän ordning eller säkerhet får dock en längre tidsperiod bestämmas. *Lag (2026:1221)*.
+
+### Särskilt tillstånd till kort besök
+
+#### 25 §
+
+En utlänning som har meddelats ett återreseförbud enligt 23 eller 27 § eller 12 kap. 14 b eller 15 a § får ges särskilt tillstånd av Migrationsverket att göra ett kort besök här, om besöket gäller synnerligen viktiga angelägenheter. Om det finns särskilda skäl, får ett sådant tillstånd ges också på ansökan av någon annan än utlänningen. *Lag (2024:28)*.
+
+### Upphävande av återreseförbud
+
+#### 26 §
+
+Ett beslut om återreseförbud enligt 23 eller 27 § eller 12 kap. 14 b eller 15 a § som har vunnit laga kraft får helt eller delvis upphävas av Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen om det finns särskilda skäl för att förbudet inte längre ska gälla.
+
+En utlänning får ansöka om upphävande av ett förbud som avses i första stycket. En sådan ansökan ska ges in till Migrationsverket.
+
+Migrationsverket får dock inte upphäva ett återreseförbud som meddelats av domstol. Om Migrationsverket finner att ett sådant återreseförbud bör upphävas ska verket inte besluta i ärendet utan med eget yttrande lämna över detta till den migrationsdomstol till vilken verkets beslut i fråga om upphävande hade kunnat överklagas. *Lag (2024:28)*.
+
+### Beslut vid sidan av beslut om avvisning eller utvisning
+
+#### 27 §
+
+När ett överklagat ärende eller mål om avvisning eller utvisning avgörs, får också beslut fattas i fråga om uppehållstillstånd och arbetstillstånd. Detta gäller även om dessa frågor inte har tagits upp av utlänningen.
+
+Vid prövning av ett beslut om avvisning eller utvisning får en migrationsdomstol eller Migrationsöverdomstolen besluta att utlänningen ska förbjudas att återvända till Sverige för viss tid, även om ingen lägre instans har meddelat ett sådant förbud.
+
+När Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen prövar ett beslut om avvisning eller utvisning, får ett sådant beslut samtidigt meddelas angående den som är under 16 år och som står under utlänningens vårdnad. Detta gäller även om ingen lägre instans har prövat denna fråga. I mål hos en migrationsdomstol och Migrationsöverdomstolen gäller detta dock inte om det för barnet har åberopats omständigheter som avses i artikel 3.5 och 3.6 i skyddsgrundsförordningen. *Lag (2026:1142)*.
+
+## 8 a kap. Utvisning på grund av brott
+
+### Allmänna förutsättningar för utvisning
+
+#### 1 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* En utlänning ska utvisas ur Sverige om
+
+1. utlänningen döms för brott till en strängare påföljd än böter eller om en domstol undanröjer en påföljd som utlänningen har dömts till och dömer till en strängare påföljd än böter,
+
+2. de särskilda förutsättningarna enligt 3-6 §§ för utvisning av utlän-ningar som tillhör vissa personkategorier är uppfyllda, och
+
+3. skälen som talar för utvisning väger tyngre än skälen som talar emot. *Lag (2026:1259)*.
+
+#### 1 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* En utlänning ska utvisas ur Sverige om
+
+1. utlänningen döms för brott till en strängare påföljd än böter eller om en domstol undanröjer en påföljd som utlänningen har dömts till och dömer till en strängare påföljd än böter eller upphäver ett beslut om att ett fängelsestraff ska vara villkorligt,
+
+2. de särskilda förutsättningarna enligt 3-6 §§ för utvisning av utlänningar som tillhör vissa personkategorier är uppfyllda, och
+
+3. skälen som talar för utvisning väger tyngre än skälen som talar emot. *Lag (2026:1672)*.
+
+#### 2 §
+
+Vid bedömningen enligt 1 § 3 ska brottslighetens straffvärde och karaktär samt risken för att utlänningen, om han eller hon får stanna, fortsätter att begå brott här i landet utgöra skäl för utvisning. Som skäl mot utvisning ska domstolen beakta utlänningens anknytning till Sverige.
+
+Vid bedömningen av utlänningens anknytning till Sverige ska det särskilt beaktas i vilken utsträckning som utlänningen har etablerat sig i det svenska samhället. Om utlänningen har barn i Sverige ska barnets behov av kontakt med honom eller henne, hur kontakten har varit och hur den skulle påverkas om utlänningen utvisades också särskilt beaktas. Även utlänningens övriga familjeförhållanden ska särskilt beaktas.
+
+*Lag (2026:1259)*.
+
+### Särskilda förutsättningar för utvisning
+
+### Flyktingar och vissa andra skyddsbehövande
+
+#### 3 §
+
+En utlänning som är flykting och som behöver en fristad i Sverige får utvisas enligt 1 § endast om
+
+1. utlänningen har begått ett synnerligen allvarligt brott och det skulle medföra allvarlig fara för allmän ordning eller säkerhet att låta honom eller henne stanna kvar i Sverige, eller
+
+2. utlänningen i Sverige eller utomlands har bedrivit verksamhet som har inneburit fara för Sveriges säkerhet och det finns anledning att anta att han eller hon skulle fortsätta med sådan verksamhet här.
+
+Första stycket gäller också för en utlänning som har uppehållstillstånd med tillfälligt skydd enligt 21 kap. eller uppehållstillstånd enligt 22 kap. *Lag (2026:1259)*.
+
+### Subsidiärt skyddsbehövande
+
+#### 4 §
+
+En utlänning som har status som subsidiärt skyddsbehövande och som behöver en fristad i Sverige får utvisas enligt 1 § endast om utlänningen har begått ett allvarligt brott.
+
+*Lag (2026:1259)*.
+
+### EES-medborgare och vissa andra utlänningar
+
+#### 5 §
+
+En EES-medborgare eller en familjemedlem till en EES- medborgare får utvisas enligt 1 § endast om det sker av hänsyn till allmän ordning eller säkerhet.
+
+Det som sägs i 8 kap. 12-14 §§ om utvisning enligt 8 kap. 11 § gäller även vid prövningen av utvisning enligt denna paragraf.
+
+Första och andra styckena gäller även för en utlänning som har beviljats uppehållsstatus i Sverige eller i övrigt utövar rättigheter enligt avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU.
+
+*Lag (2026:1259)*.
+
+### Varaktigt bosatta
+
+#### 6 §
+
+En utlänning som har ställning som varaktigt bosatt i Sverige får utvisas enligt 1 § endast om han eller hon utgör ett reellt och tillräckligt allvarligt hot mot allmän ordning eller säkerhet. I detta ligger att ekonomiska syften inte får ligga till grund för beslutet.
+
+När en domstol överväger om en utlänning som har ställning som varaktigt bosatt ska utvisas ska den ta hänsyn till hur länge utlänningen har varit bosatt i Sverige, hans eller hennes ålder, följderna av en utvisning för utlänningen och hans eller hennes familjemedlemmar samt utlänningens band till Sverige eller avsaknad av band till ursprungslandet.
+
+En utlänning som har ställning som varaktigt bosatt i Sverige och som har internationellt skydd i en annan EU-stat får utvisas endast till den staten. *Lag (2026:1259)*.
+
+### Innehavare av EU-blåkort
+
+#### 7 §
+
+En utlänning som har ett EU-blåkort utfärdat av Sverige och som har internationellt skydd i en annan EU-stat får utvisas endast till den staten. *Lag (2026:1259)*.
+
+#### 7 a §
+
+Har betecknats 8 a kap. 7 § genom *lag (2026:1259)*.
+
+### Talan om utvisning och behörig domstol
+
+#### 8 §
+
+Utvisning på grund av brott prövas efter talan av åklagare och beslutas av den domstol som handlägger brottmålet.
+
+En åklagare ska framställa ett yrkande om utvisning om det finns förutsättningar för utvisning enligt 1 § 1 och 2. Vid bedömningen av om det finns förutsättningar för utvisning enligt 1 § 2 ska åklagaren inte beakta 6 § andra stycket eller 8 kap. 13 §.
+
+Skyldigheten enligt andra stycket att framställa ett yrkande om utvisning gäller inte för Justitiekanslern eller för Riksdagens ombudsmän. *Lag (2026:1259)*.
+
+Beslut om utvisning vid ändring av påföljd enligt 34 kap. brottsbalken
+
+#### 9 §
+
+När en domstol enligt 34 kap. brottsbalken beslutar att ändra en påföljd för en utlänning som också har meddelats ett beslut om utvisning, får domstolen även meddela det beslut om utvisningen som förändringen av påföljd ger anledning till.
+
+*Lag (2022:1015)*.
+
+### Återreseförbud
+
+#### 10 §
+
+Ett beslut om utvisning på grund av brott ska innehålla förbud för utlänningen att återvända till Sverige under viss tid eller utan tidsbegränsning.
+
+I beslutet ska utlänningen upplysas om den påföljd som överträdelse av förbudet kan medföra enligt 20 kap.
+
+*Lag (2022:1015)*.
+
+### Återreseförbudets längd
+
+#### 11 §
+
+Återreseförbudets längd ska bestämmas med utgångspunkt i brottslighetens straffvärde. Om detta motsvarar fängelse i mindre än sex månader ska återreseförbudet normalt bestämmas till fem år. Motsvarar det fängelse i sex månader eller mer men inte ett år och sex månader ska återreseförbudet normalt bestämmas till tio år. Vid högre straffvärden ska återreseförbudet normalt inte tidsbegränsas.
+
+Som skäl för att besluta om ett längre återreseförbud än som anges i första stycket får domstolen beakta brottslighetens karaktär och risken för att utlänningen kommer att göra sig skyldig till fortsatt brottslighet här i landet. Som skäl för att besluta om ett kortare återreseförbud får domstolen ta hänsyn till utlänningens anknytning till Sverige och andra särskilda omständigheter som är hänförliga till honom eller henne. *Lag (2026:1259)*.
+
+### När ett återreseförbud börjar löpa
+
+#### 12 §
+
+Ett återreseförbud enligt 10 § börjar löpa den dag utlänningen lämnar medlemsstaternas territorium eller, om beslutet om utvisning ska verkställas till en medlemsstat, den dag utlänningen lämnar Sverige.
+
+Med medlemsstater avses de stater i vilka Europaparlamentets och rådets direktiv 2008/115/EG av den 16 december 2008 om gemensamma normer och förfaranden för återvändande av tredjelandsmedborgare som vistas olagligt i medlemsstaterna är tillämpligt. *Lag (2022:1015)*.
+
+### Särskilt tillstånd till kort besök
+
+#### 13 §
+
+En utlänning som har meddelats ett återreseförbud enligt 10 § får ges särskilt tillstånd av Migrationsverket att göra ett kort besök här, om besöket gäller synnerligen viktiga angelägenheter. Om det finns särskilda skäl, får ett sådant tillstånd ges också på ansökan av någon annan än utlänningen.
+
+*Lag (2022:1015)*.
+
+### Upphörande av uppehålls- och arbetstillstånd
+
+#### 14 §
+
+En utlännings uppehållstillstånd och arbetstillstånd upphör att gälla
+
+1. när ett beslut om att utlänningen ska utvisas enligt detta kapitel får laga kraft, eller
+
+2. när utlänningen har avgett nöjdförklaring av ett beslut om utvisning enligt detta kapitel och åklagaren medger att beslutet får verkställas.
+
+Första stycket gäller inte i fråga om utlänningar som har beviljats uppehållstillstånd med stöd av artikel 23 eller 24 i skyddsgrundsförordningen. *Lag (2026:1259)*.
+
+### Verkställighet, uppehållstillstånd och upphävande av utvisningsbeslut
+
+#### 15 §
+
+Bestämmelser om verkställighet av ett beslut om utvisning på grund av brott finns i 12 kap. Där finns också regler om uppehållstillstånd för den som har utvisats på grund av brott och om upphävande av ett sådant utvisningsbeslut.
+
+*Lag (2026:1259)*.
+
+## 9 kap. Kontroll- och tvångsåtgärder
+
+### Kontroll av personer enligt kodexen om Schengengränserna
+
+#### 1 §
+
+Polismyndigheten ansvarar för kontroll av personer enligt kodexen om Schengengränserna. Tullverket och Kustbevakningen är skyldiga att hjälpa Polismyndigheten vid en sådan kontroll. Migrationsverket får efter överenskommelse med Polismyndigheten hjälpa till vid kontrollen. Kustbevakningen ska medverka i Polismyndighetens kontrollverksamhet genom att utöva kontroll av sjötrafiken. *Lag (2015:91)*.
+
+#### 2 §
+
+En polisman får i samband med inresekontroll enligt kodexen om Schengengränserna kroppsvisitera en utlänning och undersöka hans eller hennes bagage, handresgods, handväskor och liknande, i den utsträckning som det är nödvändigt för att ta reda på utlänningens identitet. Sådana undersökningar får också göras för att ta reda på en utlännings resväg till Sverige, om den är av betydelse för bedömningen av rätten att resa in i och vistas här i landet. En polisman får i samband med inresekontrollen även undersöka bagageutrymmen och övriga slutna utrymmen i bilar och andra transportmedel i syfte att förhindra att en utlänning reser in i Sverige i strid med bestämmelserna i kodexen om Schengengränserna.
+
+När inresekontrollen sköts av särskilt förordnade passkontrollanter, tulltjänstemän eller tjänstemän vid Kustbevakningen har de samma befogenheter som en polisman har enligt första stycket.
+
+Kroppsvisitation får inte göras mer ingående än vad som krävs med hänsyn till ändamålet med åtgärden. All den hänsyn som omständigheterna medger ska iakttas. Om möjligt ska ett vittne närvara.
+
+En kvinna får inte kroppsvisiteras av eller i närvaro av andra män än läkare eller legitimerade sjuksköterskor. Om en visitation innebär att enbart ett föremål som en kvinna har med sig undersöks, får visitationen dock genomföras och bevittnas av en man.
+
+Protokoll ska föras över en kroppsvisitation. I protokollet ska det anges vad som har förekommit vid visitationen.
+
+*Lag (2015:91)*.
+
+### Kontroll av personer enligt screeningförordningen
+
+#### 2 a §
+
+Polismyndigheten och Migrationsverket ansvarar för att utföra identifiering eller verifiering av identitet enligt artikel 14 i screeningförordningen. Polismyndigheten ansvarar för att utföra säkerhetskontroll enligt artikel 15 i screeningförordningen.
+
+Polismyndigheten och Migrationsverket ansvarar för att utföra sårbarhetskontroll enligt artikel 12.3, registrering av biometriska uppgifter enligt artikel 8.5 d, ifyllande av screeningformuläret enligt artikel 17 och avslutande åtgärder enligt artikel 18 i screeningförordningen.
+
+Tullverket och Kustbevakningen är skyldiga att hjälpa Polismyndigheten och Migrationsverket med utförandet av åtgärder enligt första stycket.
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om vilka platser som screening ska genomföras på enligt screeningförordningen. *Lag (2026:1142)*.
+
+#### 2 b §
+
+En polisman får kroppsvisitera en person i samband med identifiering eller verifiering av identitet enligt artikel 14 eller säkerhetskontroll enligt artikel 15 i screeningförordningen och undersöka hans eller hennes bagage, handresgods, handväskor och liknande. En sådan åtgärd får genomföras i den utsträckning som det är nödvändigt för att ta reda på personens identitet eller för att bedöma om personen skulle kunna utgöra ett hot mot den inre säkerheten.
+
+En särskilt förordnad passkontrollant, en tulltjänsteman eller en tjänsteman vid Kustbevakningen som enligt 2 a § hjälper Polismyndigheten har samma befogenheter som en polisman enligt första stycket.
+
+Vid åtgärder enligt denna paragraf gäller 2 § tredje-femte styckena. Om en åtgärd enbart innebär att ett föremål som en person har med sig undersöks, får åtgärden genomföras av en annan anställd vid Polismyndigheten än en polisman eller av en anställd vid Migrationsverket. *Lag (2026:1142)*.
+
+### Transportörers kontrollskyldighet
+
+#### 3 §
+
+En transportör skall kontrollera att en utlänning, som transportören transporterar till Sverige direkt från en stat som inte omfattas av Schengenkonventionen, innehar pass och de tillstånd som krävs för resa in i landet.
+
+Transportören skall, om det inte är obehövligt på grund av resultatet av kontroll som utförs enligt första stycket, även kontrollera att utlänningen har medel för sin hemresa.
+
+### Transportörers uppgiftsskyldighet m.m.
+
+#### 3 a §
+
+En transportör, som luftvägen ska transportera passagerare till Sverige direkt från en stat som inte tillhör Europeiska unionen och inte heller har slutit avtal om samarbete enligt Schengenkonventionen med konventionsstaterna, ska på begäran av Polismyndigheten överföra uppgifter om de ankommande passagerarna så snart incheckningen avslutats.
+
+De uppgifter som avses i första stycket är
+
+1. nummer på och typ av resehandling som används,
+
+2. medborgarskap,
+
+3. fullständigt namn,
+
+4. födelsedatum,
+
+5. gränsövergångsstället för inresa,
+
+6. transportkod,
+
+7. avgångs- och ankomsttid för transporten,
+
+8. det totala antalet passagerare vid transporten, och
+
+9. ursprunglig ort för ombordstigning.
+
+*Lag (2014:655)*.
+
+#### 3 b §
+
+Uppgifter enligt 3 a § ska samlas in av transportören och sedan elektroniskt överföras till Polismyndigheten.
+
+Om det inte är möjligt att föra över uppgifterna elektroniskt ska de överföras på annat lämpligt sätt. *Lag (2014:655)*.
+
+#### 3 c §
+
+Bestämmelser om behandlingen av de uppgifter som överförts till Polismyndigheten enligt 3 b § finns i lagen (2006:444) om passagerarregister. *Lag (2014:655)*.
+
+#### 3 d §
+
+En transportör som har överfört uppgifter enligt 3 a § skall inom 24 timmar efter det att transportmedlet har anlänt till gränsövergångsstället radera de insamlade och överförda uppgifterna. *Lag (2006:447)*.
+
+#### 3 e §
+
+Har upphävts genom *lag (2019:180)*.
+
+#### 3 f §
+
+Regeringen får meddela föreskrifter om att även annan myndighet än Polismyndigheten får begära uppgifter av transportören. *Lag (2014:655)*.
+
+### Omhändertagande av pass
+
+#### 4 §
+
+Om en utlänning ansöker om uppehållstillstånd eller internationellt skydd när han eller hon kommer till Sverige eller därefter, får Migrationsverket eller Polismyndigheten ta hand om hans eller hennes pass eller andra identitetshandlingar i väntan på att utlänningen får tillstånd att vistas här i landet eller lämnar det.
+
+Om utlänningen inte medverkar till att överlämna sitt pass eller andra identitetshandlingar får en polisman, i den utsträckning det behövs för att söka efter sådana handlingar, kroppsvisitera utlänningen och undersöka hans eller hennes bagage, handresgods, handväskor och liknande, om det kan antas att utlänningen har handlingarna med sig. Vid en sådan åtgärd gäller 2 § tredje-femte styckena. *Lag (2026:1339)*.
+
+#### 4 a §
+
+Om det vid en kontroll enligt 9 § inte kan klarläggas att utlänningen har rätt att uppehålla sig i Sverige, får Polismyndigheten eller Kustbevakningen besluta att utlänningens pass eller andra identitetshandlingar ska omhändertas i nära anslutning till kontrollen, om handlingarna har påträffats vid kontrollen eller om det finns anledning att anta att handlingarna finns i utlänningens besittning.
+
+Handlingarna ska återlämnas om
+
+1. det framkommer att utlänningen har rätt att uppehålla sig i Sverige,
+
+2. utlänningen får rätt att uppehålla sig i Sverige, eller
+
+3. utlänningen lämnar Sverige.
+
+*Lag (2026:1339)*.
+
+#### 5 §
+
+När ett beslut om avvisning eller utvisning ska verkställas, får den verkställande myndigheten ta hand om utlänningens pass eller andra identitetshandlingar till dess beslutet kan verkställas. Det gäller även under den tid det finns ett beslut om inhibition av verkställigheten enligt 12 kap. 16 e § första stycket eller 17 a § första stycket.
+
+Om utlänningen inte medverkar till att överlämna sitt pass eller andra identitetshandlingar får en polisman, i den utsträckning det behövs för att söka efter sådana handlingar, kroppsvisitera utlänningen och undersöka hans eller hennes bagage, handresgods, handväskor och liknande, om det kan antas att utlänningen har handlingarna med sig. Vid en sådan åtgärd gäller 2 § tredje-femte styckena. *Lag (2026:1339)*.
+
+### Omhändertagande av biljetter
+
+#### 6 §
+
+En utlännings biljett för resan från Sverige får tas om hand av Migrationsverket eller Polismyndigheten i väntan på att utlänningen får tillstånd att vistas här i landet eller lämnar det. Detta gäller om
+
+1. utlänningen saknar pass, visering, uppehållstillstånd eller arbetstillstånd när detta krävs för inresa eller vistelse i Sverige, eller
+
+2. utlänningen kan antas komma att ansöka om uppehållstillstånd eller internationellt skydd.
+
+Biljetten får tas om hand endast om
+
+- det framstår som sannolikt att utlänningen inte kommer att få tillstånd att vistas här, och
+
+- det finns anledning att anta att utlänningen annars gör sig av med biljetten och inte själv kan betala kostnaden för sin resa från Sverige. *Lag (2026:1142)*.
+
+#### 7 §
+
+Migrationsverket eller Polismyndigheten får lösa in en biljett som tagits om hand enligt 6 §, om den annars skulle förlora sitt värde. Om biljetten löses in, ska i stället de pengar som då betalas ut tas om hand. *Lag (2014:655)*.
+
+### Fotografi och fingeravtryck
+
+#### 8 §
+
+Migrationsverket och Polismyndigheten får fotografera en utlänning och, om utlänningen har fyllt sex år, ta hans eller hennes fingeravtryck om
+
+1. utlänningen inte kan styrka sin identitet när han eller hon kommer till Sverige,
+
+2. biometriska uppgifter ska tas i enlighet med artikel 15.1, 18.1, 18.2, 20.1, 22.1, 23.1, 24.1 eller 26.1 i Eurodacförordningen,
+
+3. det finns grund för att besluta om förvar,
+
+4. varken utlänningens identitet eller rätt att vistas i Sverige kan klarläggas vid en kontroll enligt 9 §, eller
+
+5. det behövs i ett ärende om avvisning eller utvisning.
+
+I de fall som avses i artiklarna 18.1, 18.2 och 20.1 i Eurodacförordningen får även en utlandsmyndighet ta fotografi och fingeravtryck enligt första stycket 2.
+
+Det fotografi och de fingeravtryck som har tagits med stöd av första stycket 4 eller artikel 23.1 i Eurodacförordningen ska omedelbart förstöras om det framkommer att utlänningen har rätt att vistas i Sverige. *Lag (2026:1339)*.
+
+#### 8 a §
+
+En utlänning som ansöker om uppehållstillstånd är skyldig att låta Migrationsverket, en utlandsmyndighet eller Regeringskansliet fotografera honom eller henne och ta hans eller hennes fingeravtryck. Samma skyldighet gäller om bevis om uppehållstillstånd (uppehållstillståndskort) ska utfärdas enligt rådets förordning (EG) nr 1030/2002 av den 13 juni 2002 om en enhetlig utformning av uppehållstillstånd för medborgare i tredje land av annan anledning än att en utlänning ansöker om uppehållstillstånd.
+
+Skyldigheten att låta en myndighet ta fingeravtryck gäller inte om utlänningen är under sex år eller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck. Den gäller inte heller om utlänningen omfattas av avtalet mellan Europeiska gemenskapen och dess medlemsstater å ena sidan och Schweiz å andra sidan om fri rörlighet för personer.
+
+Ett fotografi och två fingeravtryck ska sparas i ett lagringsmedium i uppehållstillståndskortet.
+
+Det fotografi och de fingeravtryck som har tagits med stöd av första stycket får även användas för kontroll i enlighet med artiklarna 26 och 27 i in- och utreseförordningen i ett ärende om uppehållstillstånd. *Lag (2026:1339)*.
+
+#### 8 b §
+
+Vid en kontroll enligt 1 eller 9 § är den som innehar ett uppehållstillståndskort, ett uppehållskort, ett permanent uppehållskort, ett bevis om uppehållsstatus eller ett bevis för gränsarbetare skyldig att låta en polisman, en särskilt förordnad passkontrollant eller en tjänsteman vid Tullverket, Kustbevakningen eller Migrationsverket fotografera honom eller henne och ta hans eller hennes fingeravtryck, för kontroll av att fotografiet och fingeravtrycken motsvarar det fotografi och de fingeravtryck som finns sparade i kortet eller beviset.
+
+När en kontroll enligt första stycket har genomförts, ska det fotografi och de fingeravtryck som tagits för kontrollen omedelbart förstöras. Detsamma gäller de biometriska data som tagits fram i samband med kontrollen. *Lag (2021:415)*.
+
+#### 8 c §
+
+En utlänning är vid in- eller utresekontroll skyldig att låta en polisman, en särskilt förordnad passkontrollant eller en tjänsteman vid Tullverket, Kustbevakningen eller Migrationsverket fotografera honom eller henne och ta hans eller hennes fingeravtryck för kontroll av identiteten och av resehandlingens äkthet, i enlighet med artikel 8.2 b andra stycket eller artikel 8.3 ib i kodexen om Schengengränserna. Denna skyldighet gäller under förutsättning att utlänningen har en resehandling som är försedd med ett lagringsmedium som innehåller ett fotografi eller fingeravtryck.
+
+När en kontroll enligt första stycket har genomförts ska det fotografi och de fingeravtryck som tagits för kontrollen omedelbart förstöras. Det gäller också de biometriska data som tagits fram i samband med kontrollen. *Lag (2022:242)*.
+
+#### 8 d §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Vid en in- eller utresekontroll enligt artikel 8.3 i i kodexen om Schengengränserna är en utlänning skyldig att låta en polisman, en särskilt förordnad passkontrollant eller en tjänsteman vid Tullverket, Kustbevakningen eller Migrationsverket ta hans eller hennes fingeravtryck för kontroll i enlighet med artikel 20 i Europaparlamentets och rådets förordning (EG) nr 767/2008 av den 9 juli 2008 om informationssystemet för viseringar (VIS) och utbytet mellan medlemsstaterna av uppgifter om viseringar för kortare vistelse (VIS-förordningen) och kontroll i enlighet med artikel 27 i in- och utreseförordningen. Vid en sådan in- eller utresekontroll är utlänningen även skyldig att låta sig bli fotograferad för kontroll i enlighet med artikel 27 i in- och utreseförordningen.
+
+Skyldigheten att låta en myndighet ta fingeravtryck gäller inte om utlänningen är under tolv år eller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck.
+
+När en sådan in- eller utresekontroll som avses i första stycket har genomförts för kontroll i enlighet med artikel 20 i VIS-förordningen, ska de fingeravtryck som tagits för kontrollen omedelbart förstöras. Det gäller också de biometriska data som tagits fram i samband med kontrollen.
+
+*Lag (2022:242)*.
+
+#### 8 d §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Vid en in- eller utresekontroll enligt artikel 8.3 i i kodexen om Schengengränserna är en utlänning skyldig att låta en polisman, en särskilt förordnad passkontrollant eller en tjänsteman vid Tullverket, Kustbevakningen eller Migrationsverket fotografera honom eller henne och ta hans eller hennes fingeravtryck för kontroll i enlighet med artikel 20 i VIS-förordningen och kontroll i enlighet med artikel 27 i in- och utreseförordningen. Samma skyldighet gäller vid en in- eller utresekontroll enligt artikel 8.3 bb i kodexen om Schengengränserna för kontroll i enlighet med artiklarna 22g och 22i i VIS-förordningen.
+
+Skyldigheten att låta en myndighet ta fingeravtryck för kontroll i enlighet med VIS-förordningen gäller inte om utlänningen är under sex år. Skyldigheten att låta en myndighet ta fingeravtryck för kontroll i enlighet med in- och utreseförordningen gäller inte om utlänningen är under tolv år. Skyldigheten gäller inte heller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck.
+
+När en sådan in- eller utresekontroll som avses i första stycket har genomförts för kontroll i enlighet med artikel 20 i VIS-förordningen, ska det fotografi och de fingeravtryck som tagits för kontrollen omedelbart förstöras. Det gäller också de biometriska data som tagits fram i samband med kontrollen.
+
+*Lag (2025:944)*.
+
+#### 8 e §
+
+En utlänning är skyldig att låta Migrationsverket fotografera honom eller henne och ta hans eller hennes fingeravtryck, om utlänningen ansöker om
+
+1. uppehållsstatus,
+
+2. bevis om uppehållsstatus, eller
+
+3. bevis för gränsarbetare.
+
+Det som sägs om fingeravtryck i 8 a § andra stycket ska gälla även vid tillämpningen av första stycket i denna paragraf.
+
+Ett fotografi och två fingeravtryck ska sparas i ett lagringsmedium i beviset. Fingeravtryck som inte sparats i ett sådant medium och de biometriska data som tas fram ur fingeravtrycken och ur fotografiet ska omedelbart förstöras när beviset har lämnats ut eller ärendet har avgjorts utan att bevis har lämnats ut. *Lag (2020:939)*.
+
+#### 8 f §
+
+En utlänning är vid en kontroll enligt 1 eller 9 § skyldig att låta en polisman, en särskilt förordnad passkontrollant eller en tjänsteman vid Tullverket, Kustbevakningen eller Migrationsverket fotografera honom eller henne och ta hans eller hennes fingeravtryck för att genom en sökning i Schengens informationssystem identifiera utlänningen om identiteten inte kan fastställas på annat sätt.
+
+När en kontroll enligt första stycket har genomförts, ska det fotografi och de fingeravtryck som har tagits för kontrollen omedelbart förstöras. *Lag (2020:1005)*.
+
+#### 8 g §
+
+En utlänning är skyldig att, i ett ärende om utfärdande av uppehållskort eller permanent uppehållskort, låta Migrationsverket fotografera honom eller henne och ta hans eller hennes fingeravtryck.
+
+Skyldigheten att låta Migrationsverket ta fingeravtryck gäller inte om utlänningen är under sex år eller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck.
+
+Ett fotografi och två fingeravtryck ska sparas i ett lagringsmedium i kortet. Fingeravtryck som inte sparats i ett sådant medium och de biometriska data som tas fram ur fingeravtrycken och ur fotografiet ska omedelbart förstöras när kortet har lämnats ut eller, om kortet inte har lämnats ut, när det har gått 90 dagar från den dag då det utfärdades. Om ärendet har avgjorts utan att ett kort har utfärdats, ska fingeravtrycken och de biometriska data som tas fram ur fingeravtrycken och ur fotografiet omedelbart förstöras.
+
+*Lag (2021:415)*.
+
+#### 8 h §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* En utlänning är vid en kontroll enligt 9 § skyldig att låta en polisman, eller en tjänsteman vid Kustbevakningen eller Migrationsverket, fotografera honom eller henne och ta hans eller hennes fingeravtryck för kontroll i enlighet med artiklarna 26 och 27 i in- och utreseförordningen.
+
+Skyldigheten att låta en myndighet ta fingeravtryck gäller inte om utlänningen är under tolv år eller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck.
+
+När en kontroll enligt första stycket har genomförts ska det fotografi och de fingeravtryck som har tagits för kontrollen omedelbart förstöras om det framkommer att utlänningen har rätt att vistas i Sverige. *Lag (2022:242)*.
+
+#### 8 h §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* En utlänning är vid en kontroll enligt 9 § skyldig att låta en polisman, eller en tjänsteman vid Kustbevakningen eller Migrationsverket, fotografera honom eller henne och ta hans eller hennes fingeravtryck för kontroll i enlighet med artiklarna 19, 20, 22h och 22i i VIS-förordningen och artiklarna 26 och 27 i in- och utreseförordningen.
+
+Skyldigheten att låta en myndighet ta fingeravtryck för kontroll i enlighet med VIS-förordningen gäller inte om utlänningen är under sex år. Skyldigheten att låta en myndighet ta fingeravtryck för kontroll i enlighet med in- och utreseförordningen gäller inte om utlänningen är under tolv år. Skyldigheten gäller inte heller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck.
+
+När en kontroll enligt första stycket har genomförts ska det fotografi och de fingeravtryck som har tagits för kontrollen omedelbart förstöras om det framkommer att utlänningen har rätt att vistas i Sverige. *Lag (2025:944)*.
+
+#### 8 i §
+
+En utlänning som använder ett system för automatiserad gränskontroll i enlighet med artiklarna 8a och 8b i kodexen om Schengengränserna är skyldig att låta sig bli fotograferad och lämna fingeravtryck vid förhandsregistrering av uppgifter i in- och utresesystemet och vid användning av elektroniska spärrar. *Lag (2022:242)*.
+
+#### 8 j §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* En utlänning som ansöker om nationell visering är skyldig att låta Migrationsverket, en utlandsmyndighet eller Regeringskansliet fotografera honom eller henne och ta hans eller hennes fingeravtryck.
+
+Skyldigheten att låta en myndighet ta fingeravtryck gäller inte om utlänningen är under sex år eller om det är fysiskt omöjligt för utlänningen att lämna fingeravtryck.
+
+*Lag (2025:944)*.
+
+#### 8 k §
+
+När ett uppehållstillståndskort, ett uppehållskort, ett permanent uppehållskort, ett bevis om uppehållsstatus eller ett bevis för gränsarbetare ska lämnas ut till en utlänning får Migrationsverket fotografera utlänningen och, om han eller hon har fyllt sex år, ta hans eller hennes fingeravtryck om identiteten inte kan kontrolleras på annat sätt.
+
+En utlänning som innehar ett sådant kort eller bevis som avses i första stycket är skyldig att lämna över det till Migrationsverket, när ett nytt kort eller bevis ska lämnas ut, för kontroll av att de fotografier och de fingeravtryck som har tagits enligt första stycket motsvarar de uppgifter som finns sparade i ett lagringsmedium i kortet eller beviset.
+
+Om en kontroll enligt andra stycket inte kan genomföras får Migrationsverket kontrollera om de fotografier och fingeravtryck som har tagits enligt första stycket motsvarar de uppgifter som finns sparade i register som förs enligt 15 § utlänningsdatalagen (2016:27).
+
+Fotografier och fingeravtryck samt biometriska data som har tagits fram i samband med en kontroll ska omedelbart förstöras efter kontrollen. Fotografier och fingeravtryck som inte motsvarar de uppgifter som finns sparade i ett lagringsmedium i kortet eller beviset eller i register som förs enligt 15 § utlänningsdatalagen ska dock inte förstöras. *Lag (2026:1339)*.
+
+#### 8 l §
+
+Om identiteten på den som har inställt sig vid en muntlig utredning av rätten till uppehållstillstånd inte kan kontrolleras på annat sätt får Migrationsverket fotografera den som har ansökt om uppehållstillstånd och, om han eller hon har fyllt sex år, ta hans eller hennes fingeravtryck, och kontrollera om fotografierna och fingeravtrycken motsvarar de uppgifter som finns sparade i register som förs enligt 15 § utlänningsdatalagen (2016:27).
+
+Fotografier och fingeravtryck samt biometriska data som har tagits fram i samband med en kontroll ska omedelbart förstöras efter kontrollen. Fotografier och fingeravtryck som inte motsvarar de uppgifter som finns sparade i register som förs enligt 15 § utlänningsdatalagen ska dock inte förstöras.
+
+*Lag (2026:1339)*.
+
+### Kontroll under vistelsen i Sverige
+
+#### 9 §
+
+En utlänning som vistas i Sverige är skyldig att på begäran av en polisman överlämna pass eller andra handlingar som visar att han eller hon har rätt att uppehålla sig i Sverige. En utlänning är också skyldig att efter kallelse av Polismyndigheten komma till myndigheten och lämna uppgifter om sin vistelse här i landet. Om utlänningen inte gör det, får han eller hon hämtas genom Polismyndighetens försorg. Om det på grund av en utlännings personliga förhållanden eller av någon annan anledning kan antas att utlänningen inte skulle följa en kallelse, får han eller hon tas med för utredning eller hämtas utan föregående kallelse.
+
+Kustbevakningen ska medverka i Polismyndighetens kontrollverksamhet enligt första stycket genom kontroll av och i anslutning till sjötrafiken. Kustbevakningen får även i annat fall biträda Polismyndigheten vid kontroll enligt första stycket. Om kontrollen utövas av Kustbevakningen ska pass eller andra handlingar överlämnas till tjänstemannen vid Kustbevakningen.
+
+En åtgärd enligt första eller andra stycket får vidtas endast om det finns anledning att anta att en utlänning saknar rätt att vistas i landet. Vid bedömningen ska särskild hänsyn tas till iakttagelser på platsen och de uppgifter som Polismyndigheten eller Kustbevakningen förfogar över.
+
+En utlänning är skyldig att efter kallelse av Migrationsverket komma till verket och lämna uppgifter om sin vistelse här i landet. Utlänningen får hämtas till verket genom Polismyndighetens försorg under samma förutsättningar som anges i första stycket. *Lag (2026:1339)*.
+
+#### 9 a §
+
+Om en utlänning vid en kontroll enligt 9 § inte på begäran överlämnar pass eller andra handlingar som visar att han eller hon har rätt att uppehålla sig i Sverige, får en polisman eller en tjänsteman vid Kustbevakningen, i den utsträckning det behövs för att söka efter sådana handlingar, kroppsvisitera utlänningen och undersöka hans eller hennes bagage, handresgods, handväskor och liknande, om det kan antas att utlänningen har handlingarna med sig.
+
+Vid åtgärder enligt första stycket gäller det som sägs i 2 § tredje-femte styckena. En åtgärd som innebär att enbart ett föremål som en utlänning har med sig undersöks, får genomföras även av en annan anställd vid Polismyndigheten än en polisman.
+
+*Lag (2023:735)*.
+
+#### 9 b §
+
+Bestämmelser om kontroll- och tvångsåtgärder finns även i lagen (2023:474) om polisiära befogenheter i gränsnära områden. *Lag (2023:735)*.
+
+#### 10 §
+
+Har betecknats 9 kap. 29 § genom *lag (2026:1339)*.
+
+### Skyldighet att stanna kvar för utredning
+
+#### 11 §
+
+En utlänning är skyldig att stanna kvar för utredning i samband med in- eller utresekontroll enligt kodexen om Schengengränserna eller i samband med kallelse, medtagande eller hämtning enligt 9 §, dock inte längre än nödvändigt och inte i något fall längre än sex timmar. Detta gäller inte om ett beslut har meddelats om förvar enligt 10 kap.
+
+Om en utlänning har tagits med eller hämtats enligt 9 §, ska den tid som utlänningen är skyldig att stanna kvar beräknas från det att han eller hon kom till myndighetens lokaler.
+
+En polisman får hålla kvar en utlänning som vägrar att stanna kvar för utredning. *Lag (2026:1425)*.
+
+#### 11 a §
+
+Den som ska genomgå screening enligt screeningförordningen får hållas kvar för utredning i samband med screeningen. Detta gäller dock inte om ett beslut har meddelats om förvar enligt 10 kap.
+
+Rätten att hålla kvar någon för utredning gäller som längst under tolv timmar eller, om det finns särskilda skäl, under ytterligare tolv timmar.
+
+En åtgärd enligt första stycket får utföras av en polisman, en särskilt förordnad passkontrollant, en tulltjänsteman eller en tjänsteman vid Kustbevakningen. *Lag (2026:1142)*.
+
+### Omhändertagande för att verkställa ett avvisnings- eller utvisningsbeslut
+
+#### 12 §
+
+När ett beslut om avvisning eller utvisning ska verkställas av Polismyndigheten eller Säkerhetspolisen får utlänningen omhändertas av den verkställande myndigheten om det är nödvändigt för att verkställigheten av beslutet ska kunna förberedas eller genomföras.
+
+Utlänningen får omhändertas under högst 24 timmar eller om det finns särskilda skäl under ytterligare 24 timmar.
+
+*Lag (2024:28)*.
+
+### Andra åtgärder för att möjliggöra verkställighet
+
+#### 13 §
+
+När en utlänning har omhändertagits enligt 12 § eller har tagits i förvar med stöd av 10 kap. för att förbereda eller genomföra verkställigheten av ett beslut om avvisning eller utvisning får Polismyndigheten eller Säkerhetspolisen, om det är lämpligt, vidta sådana åtgärder som behövs för att utlänningen ska få nödvändiga handlingar för verkställigheten eller för att utlänningens identitet eller medborgarskap ska kunna klarläggas. *Lag (2017:906)*.
+
+### Inspektioner på arbetsplatser
+
+#### 14 §
+
+Polismyndigheten får genomföra en inspektion för att kontrollera om en arbetsgivare har en utlänning anställd som
+
+- inte har rätt att vistas i Sverige, eller
+
+- har rätt att vistas här men saknar föreskrivet arbetstillstånd.
+
+Inspektioner får endast genomföras inom verksamhetssektorer som är identifierade som risksektorer i enlighet med artikel 14 i Europaparlamentets och rådets direktiv 2009/52/EG av den 18 juni 2009 om minimistandarder för sanktioner och åtgärder mot arbetsgivare för tredjelandsmedborgare som vistas olagligt, i den ursprungliga lydelsen. *Lag (2018:739)*.
+
+#### 15 §
+
+En inspektion får genomföras på arbetsplatser och i lokaler där arbetsgivaren bedriver näringsverksamhet och utan att arbetsgivaren underrättas om den i förväg.
+
+Inspektionen ska genomföras på ett sådant sätt att verksamheten inte hindras i onödan. *Lag (2018:739)*.
+
+#### 16 §
+
+En arbetsgivare är skyldig att lämna tillträde till de arbetsplatser och lokaler där näringsverksamheten bedrivs samt tillhandahålla de handlingar och lämna de övriga upplysningar som behövs för kontrollen. *Lag (2018:739)*.
+
+### Uppgiftsskyldighet för arbetsgivare
+
+#### 17 §
+
+Migrationsverket får förelägga en arbetsgivare till en utlänning som har beviljats arbetstillstånd enligt 6 kap. 2 § första stycket att lämna skriftlig uppgift om de villkor som gäller för utlänningens anställning.
+
+Ett föreläggande enligt första stycket får förenas med vite.
+
+Om det finns anledning att anta att den som ska föreläggas, eller i förekommande fall dennes ställföreträdare, har begått en gärning som kan föranleda straff eller sanktionsavgift, får denne inte föreläggas vid vite att medverka i utredningen av en fråga som har samband med den misstänkta gärningen.
+
+Vid prövning av en fråga om utdömande av vite får även vitets lämplighet bedömas. *Lag (2022:303)*.
+
+*/Rubriken träder i kraft I:den dag som regeringen bestämmer/*
+
+### Bemyndigande
+
+#### 18 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om ytterligare undantag från skyldigheten i 8 j § första stycket att låta sig fotograferas och lämna fingeravtryck. *Lag (2025:944)*.
+
+### Omhändertagande och undersökning av elektronisk kommunikationsutrustning
+
+#### 19 §
+
+Vid en kontroll enligt 9 § får Polismyndigheten eller Kustbevakningen, om det är nödvändigt för att fastställa en utlännings identitet, besluta att tillfälligt omhänderta elektronisk kommunikationsutrustning för undersökning. Beslutet får endast avse utrustning som utlänningen har i sin besittning, som sannolikt har använts av honom eller henne och som kan antas innehålla information om hans eller hennes identitet.
+
+Utrustningen får vara omhändertagen enbart så länge det finns skäl för åtgärden, dock som längst under tid som det pågår en åtgärd enligt 9 §. *Lag (2026:1339)*.
+
+#### 20 §
+
+Om en utlänning, som ansöker om uppehållstillstånd eller internationellt skydd när han eller hon kommer till Sverige eller därefter, inte kan göra sannolikt att den uppgivna identiteten är riktig får Migrationsverket eller Polismyndigheten besluta att omhänderta elektronisk kommunikationsutrustning för undersökning om rätten till uppehållstillstånd eller internationellt skydd inte kan bedömas ändå. Beslutet får endast avse utrustning som utlänningen har i sin besittning, som sannolikt har använts av honom eller henne och som kan antas innehålla information om hans eller hennes identitet.
+
+Utrustningen får vara omhändertagen enbart så länge det finns skäl för åtgärden, dock som längst i tre månader.
+
+*Lag (2026:1339)*.
+
+#### 21 §
+
+När ett beslut om avvisning eller utvisning ska verkställas får den verkställande myndigheten besluta att omhänderta elektronisk kommunikationsutrustning för undersökning om det är nödvändigt för att beslutet ska kunna verkställas. Ett beslut om omhändertagande får endast avse utrustning som utlänningen har i sin besittning, som sannolikt har använts av honom eller henne och som kan antas innehålla information om hans eller hennes identitet.
+
+Utrustningen får vara omhändertagen enbart så länge det finns skäl för åtgärden, dock som längst i tre månader.
+
+*Lag (2026:1339)*.
+
+#### 22 §
+
+Ett beslut om omhändertagande enligt 19, 20 eller 21 § gäller omedelbart. *Lag (2026:1339)*.
+
+#### 23 §
+
+En myndighet som har beslutat om omhändertagande enligt 19, 20 eller 21 § får undersöka den elektroniska kommunikationsutrustningen och sådana avläsningsbara informationssystem som sannolikt har använts av utlänningen och som kan nås via utrustningen för att söka efter handlingar som kan bidra till att klarlägga utlänningens identitet. Handlingar som påträffas vid undersökningen får kopieras.
+
+Undersökningen får dock inte avse sådana uppgifter som enligt 27 kap. 2 § rättegångsbalken hindrar beslag. Handlingar som inte får undersökas får inte heller kopieras. *Lag (2026:1339)*.
+
+#### 24 §
+
+Kopior som har framställts med stöd av 23 § och som inte har betydelse för att klarlägga utlänningens identitet ska förstöras så snart som möjligt, dock senast i samband med att åtgärder enligt 9 § eller ärendet om uppehållstillstånd, internationellt skydd eller om verkställighet av ett beslut om avvisning eller utvisning avslutas.
+
+En kopia ska omedelbart förstöras i de delar som den omfattas av ett förbud mot kopiering enligt 23 § andra stycket.
+
+*Lag (2026:1339)*.
+
+#### 25 §
+
+Migrationsverket får begära hjälp av Polismyndigheten med att genomföra den undersökning som avses i 23 §. Vid undersökningen gäller 24 §.
+
+Kopior som Polismyndigheten framställt vid undersökningen ska överlämnas till Migrationsverket. *Lag (2026:1339)*.
+
+#### 26 §
+
+Om en utlänning inte medverkar till att överlämna elektronisk kommunikationsutrustning som kan omhändertas enligt 19, 20 eller 21 § får en polisman eller tjänsteman vid Kustbevakningen, i den utsträckning det behövs för att söka efter sådan utrustning, kroppsvisitera utlänningen och undersöka hans eller hennes bagage, handresgods, handväskor och liknande, om det kan antas att utlänningen har sådan utrustning med sig. Vid en sådan åtgärd gäller 2 § tredje- femte styckena. *Lag (2026:1339)*.
+
+#### 27 §
+
+Om det, sedan ett beslut enligt 19, 20 eller 21 § har fattats, finns anledning att anta att utlänningen har möjlighet att genom biometrisk autentisering öppna den elektroniska kommunikationsutrustningen eller avläsningsbara informationssystem som kan nås via utrustningen är han eller hon skyldig att på tillsägelse medverka till detta, om en undersökning enligt 23 § annars försvåras. Om han eller hon vägrar får en polisman eller tjänsteman vid Kustbevakningen genomföra autentiseringen. *Lag (2026:1339)*.
+
+#### 28 §
+
+En undersökning enligt 23 § ska protokollföras. I protokollet ska det anges
+
+- vem som har beslutat om omhändertagande och undersökning,
+
+- i förekommande fall, vilka åtgärder som har vidtagits enligt 26 eller 27 § och vem som har beslutat om dessa,
+
+- vem som har genomfört undersökningen,
+
+- vad som i övrigt förekommit vid undersökningen, och
+
+- när undersökningen påbörjades och avslutades.
+
+*Lag (2026:1339)*.
+
+### Hjälp av Polismyndigheten för att verkställa ett beslut
+
+#### 29 §
+
+Om en utlänning vägrar att följa ett beslut som Migrationsverket har fattat med stöd av 4, 5, 6, 8, 20 eller 21 §, får verket begära hjälp av Polismyndigheten för att verkställa beslutet. *Lag (2026:1339)*.
+
+## 9 a kap. Anmälningsskyldighet och områdesbegränsning för vissa utlänningar
+
+### Förutsättningar för anmälningsskyldighet och områdesbegränsning
+
+#### 1 §
+
+En utlänning som har meddelats ett beslut om inhibition av verkställigheten enligt 12 kap. 16 e § första stycket eller 17 a § första stycket får åläggas en skyldighet att anmäla sig hos Migrationsverket eller Polismyndigheten (anmälningsskyldighet), om det finns en risk att han eller hon avviker eller på annat sätt hindrar verkställigheten.
+
+Ett beslut om anmälningsskyldighet får förenas med ett förbud att lämna ett vistelseområde (områdesbegränsning). Områdesbegränsningen får inte avse ett mindre vistelseområde än en kommun.
+
+Ett beslut om anmälningsskyldighet blir gällande när utlänningen har delgetts beslutet. *Lag (2026:385)*.
+
+### Innehållet i ett beslut
+
+#### 2 §
+
+I ett beslut om anmälningsskyldighet ska det anges när utlänningen ska anmäla sig hos Migrationsverket eller Polismyndigheten och var skyldigheten ska fullgöras.
+
+Om beslutet innehåller en områdesbegränsning ska det även anges vilket vistelseområde som utlänningen förbjuds att lämna.
+
+I beslutet ska också anges den påföljd som brott mot anmälningsskyldigheten eller områdesbegränsningen kan medföra enligt 20 kap. 1 a §. *Lag (2026:385)*.
+
+### Ny prövning
+
+#### 3 §
+
+Ett beslut om anmälningsskyldighet ska prövas på nytt enligt 1 § senast inom ett år från beslutet.
+
+Om utlänningen fortfarande ska vara ålagd anmälningsskyldighet ska ny prövning fortlöpande göras senast inom samma tid. *Lag (2026:385)*.
+
+#### 4 §
+
+Varje ny prövning av ett beslut om anmälningsskyldighet ska föregås av en muntlig förhandling, om det inte är uppenbart obehövligt.
+
+Muntlig förhandling ska genomföras av den myndighet som beslutar om åtgärden.
+
+För den muntliga förhandlingen gäller 13 kap. 4-8 §§. *Lag (2026:385)*.
+
+### Upphävande och upphörande
+
+#### 5 §
+
+Ett beslut om anmälningsskyldighet ska omedelbart upphävas helt eller delvis, om det inte längre finns skäl för beslutet.
+
+*Lag (2026:385)*.
+
+#### 6 §
+
+Ett beslut om anmälningsskyldighet upphör att gälla om
+
+1. det inte längre finns något beslut om inhibition av verkställigheten, eller
+
+2. det inte prövas på nytt inom föreskriven tid.
+
+*Lag (2026:385)*.
+
+### Ändrade förhållanden
+
+#### 7 §
+
+Om det på grund av ändrade förhållanden finns skäl för det får ett beslut om anmälningsskyldighet ändras, utan att ny prövning enligt 3 § behöver ske, om ändringen innebär att
+
+1. anmälningsskyldigheten ska fullgöras på annan tid eller plats,
+
+2. antalet anmälningstillfällen ska minskas, eller
+
+3. vistelseområdet ska utökas.
+
+*Lag (2026:385)*.
+
+### Tillfälliga lättnader
+
+#### 8 §
+
+Tillfälliga lättnader av villkoren i ett beslut om anmälningsskyldighet får beviljas på ansökan av utlänningen, om det finns särskilda skäl. En ansökan ska vara skriftlig och innehålla skälen för ansökan. *Lag (2026:385)*.
+
+### Delgivning
+
+#### 9 §
+
+Beslut enligt 1 och 7 §§ ska delges utlänningen. Delgivning får inte ske enligt 34-38 eller 47-51 §§ delgivningslagen (2010:1932). *Lag (2026:385)*.
+
+### Beslutande myndighet
+
+#### 10 §
+
+Beslut enligt detta kapitel meddelas av den myndighet som ansvarar för att verkställa det beslut om avvisning eller utvisning som har meddelats utlänningen. *Lag (2026:385)*.
+
+## 10 kap. Uppsikt och förvar
+
+### Vad uppsikt får innebära
+
+#### 1 §
+
+Uppsikt innebär att en utlänning är skyldig att
+
+1. anmäla sig på vissa tider hos Polismyndigheten eller Migrationsverket på viss ort,
+
+2. lämna ifrån sig sitt pass eller annan identitetshandling,
+
+3. bo på en viss plats, eller
+
+4. vistas inom ett visst område. *Lag (2026:1425)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Valet mellan uppsikt och förvar
+
+2 § /Ny beteckning 10 kap. 4 § U:2027-12-01/ En utlänning får tas i förvar endast om syftet med åtgärden inte kan uppnås genom att utlänningen ställs under uppsikt. *Lag (2026:1425)*.
+
+#### 2 §
+
+*/Träder i kraft I:2027-12-01/* Uppsikt som innebär att utlänningen är skyldig att vistas inom ett visst område får förenas med villkor om elektronisk övervakning om det behövs för kontroll av att skyldigheten följs (förstärkt uppsikt). *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Uppsikt över och förvar av en utlänning som är sökande av internationellt skydd
+
+3 § /Ny beteckning 10 kap. 5 § U:2027-12-01/ En utlänning som har fyllt 18 år får ställas under uppsikt eller tas i förvar under den tid som utlänningen har rätt att vistas i Sverige i egenskap av sökande av internationellt skydd
+
+1. om det är nödvändigt för att bestämma eller bekräfta utlänningens identitet eller nationalitet,
+
+2. om det är nödvändigt för att utreda de omständigheter som ansökan om internationellt skydd grundas på,
+
+3. om utlänningen inte har följt ett beslut om boende på en bestämd plats enligt 3 kap. 3 § första stycket mottagandelagen (2026:999) och det finns en risk för att utlänningen avviker,
+
+4. om det är nödvändigt som ett led i ett gränsförfarande enligt artikel 43 i asylprocedurförordningen för att avgöra om utlänningen har rätt att resa in i Sverige,
+
+5. om utlänningen vid tidpunkten för ansökan om internationellt skydd hålls i förvar enligt 5 § första stycket 2 och det finns anledning att anta att syftet med ansökan är att försena eller hindra verkställigheten av ett beslut om avvisning eller utvisning,
+
+6. om det är nödvändigt med hänsyn till den nationella säkerheten eller för att upprätthålla allmän ordning, eller
+
+7. i enlighet med artikel 44 i asyl- och migrationshanteringsförordningen.
+
+Första stycket 1, 2, 3, 5 och 6 gäller även en medborgare i en annan EU-stat som har rätt att vistas i Sverige i egenskap av sökande av flyktingförklaring enligt 5 kap. 1 b § första stycket.
+
+I fråga om en utlänning som av allmän domstol har utvisats på grund av brott gäller 5 § i stället för denna paragraf.
+
+*Lag (2026:1426)*.
+
+#### 3 §
+
+*/Träder i kraft I:2027-12-01/* Uppgifter om utlänningens position vid förstärkt uppsikt får registreras och tas fram endast i samband med att
+
+1. utlänningen träder ur eller vistas utanför det anvisade området, eller
+
+2. den elektroniska övervakningen hindras. *Lag (2026:1427)*.
+
+4 § /Ny beteckning 10 kap. 6 § U:2027-12-01/ Ett barn får ställas under uppsikt eller tas i förvar under den tid som barnet har rätt att vistas i Sverige i egenskap av sökande av internationellt skydd
+
+1. om barnet inte har följt ett beslut om boende på en bestämd plats enligt 3 kap. 3 § första stycket mottagandelagen (2026:999) och det finns en uppenbar risk för att barnet avviker,
+
+4. om det är nödvändigt med hänsyn till den nationella säkerheten eller för att upprätthålla allmän ordning, eller
+
+5. i enlighet med artikel 44 i asyl- och migrationshanteringsförordningen.
+
+Första stycket 1, 3 och 4 gäller även ett barn som är medborgare i en annan EU-stat och som har rätt att vistas i Sverige i egenskap av sökande av flyktingförklaring enligt 5 kap. 1 b § första stycket.
+
+I fråga om ett barn som av allmän domstol har utvisats på grund av brott gäller 6 § i stället för denna paragraf.
+
+*Lag (2026:1426)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Valet mellan uppsikt och förvar
+
+#### 4 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning får tas i förvar endast om syftet med åtgärden inte kan uppnås genom att utlänningen ställs under uppsikt. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Uppsikt över och förvar av en utlänning som inte är sökande av internationellt skydd
+
+5 § /Ny beteckning 10 kap. 7 § U:2027-12-01/ I andra fall än som avses i 3 § får en utlänning som har fyllt 18 år ställas under uppsikt eller tas i förvar
+
+1. om det är nödvändigt för att en utredning av utlänningens identitet eller rätt att resa in i eller stanna i Sverige ska kunna genomföras, eller
+
+2. om det kan antas att utlänningen kommer att avvisas eller utvisas eller det är fråga om att verkställa ett beslut om avvisning eller utvisning och om det finns en risk för att utlänningen bedriver brottslig verksamhet i Sverige, avviker, håller sig undan eller på annat sätt försvårar verkställigheten.
+
+I artikel 5 i förordningen om återvändandegränsförfarande finns det ytterligare bestämmelser som ger möjlighet att besluta om uppsikt eller förvar. *Lag (2026:1425)*.
+
+#### 5 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning som har fyllt 18 år får ställas under uppsikt eller tas i förvar under den tid som utlänningen har rätt att vistas i Sverige i egenskap av sökande av internationellt skydd
+
+1. om det är nödvändigt för att bestämma eller bekräfta utlänningens identitet eller nationalitet,
+
+2. om det är nödvändigt för att utreda de omständigheter som ansökan om internationellt skydd grundas på,
+
+3. om utlänningen inte har följt ett beslut om boende på en bestämd plats enligt 3 kap. 3 § första stycket mottagandelagen (2026:999) och det finns en risk för att utlänningen avviker,
+
+4. om det är nödvändigt som ett led i ett gränsförfarande enligt artikel 43 i asylprocedurförordningen för att avgöra om utlänningen har rätt att resa in i Sverige,
+
+5. om utlänningen vid tidpunkten för ansökan om internationellt skydd hålls i förvar enligt 7 § första stycket 2 och det finns anledning att anta att syftet med ansökan om internationellt skydd är att försena eller hindra verk- ställigheten av ett beslut om avvisning eller utvisning,
+
+6. om det är nödvändigt med hänsyn till den nationella säkerheten eller för att upprätthålla allmän ordning, eller
+
+7. i enlighet med artikel 44 i asyl- och migrationshanteringsförordningen.
+
+Första stycket 1, 2, 3, 5 och 6 gäller även en medborgare i en annan EU-stat som har rätt att vistas i Sverige i egenskap av sökande av flyktingförklaring enligt 5 kap. 1 b § första stycket.
+
+I fråga om en utlänning som av allmän domstol har utvisats på grund av brott gäller 7 § i stället för denna paragraf.
+
+*Lag (2026:1427)*.
+
+6 § /Ny beteckning 10 kap. 8 § U:2027-12-01/ I andra fall än som avses i 4 § får ett barn ställas under uppsikt eller tas i förvar
+
+1. om det är sannolikt att barnet kommer att avvisas av Polismyndigheten eller avvisas med omedelbar verkställighet av Migrationsverket, eller
+
+2. om det är fråga om att verkställa ett beslut om avvisning eller utvisning.
+
+I fall som avses i första stycket 1 och 2 får barnet ställas under uppsikt eller tas i förvar endast om det annars finns en uppenbar risk för att barnet bedriver brottslig verksamhet i Sverige, avviker, håller sig undan eller på annat sätt försvårar verkställigheten.
+
+I artikel 5 i förordningen om återvändandegränsförfarande finns det ytterligare bestämmelser som ger möjlighet att besluta om uppsikt eller förvar. *Lag (2026:1425)*.
+
+#### 6 §
+
+*/Träder i kraft I:2027-12-01/* Ett barn får ställas under uppsikt eller tas i förvar under den tid som barnet har rätt att vistas i Sverige i egenskap av sökande av internationellt skydd
+
+1. om barnet inte har följt ett beslut om boende på en bestämd plats enligt 3 kap. 3 § första stycket mottagandelagen (2026:999) och det finns en uppenbar risk för att barnet avviker,
+
+4. om det är nödvändigt med hänsyn till den nationella säkerheten eller för att upprätthålla allmän ordning, eller
+
+5. i enlighet med artikel 44 i asyl- och migrationshanteringsförordningen.
+
+Första stycket 1, 3 och 4 gäller även ett barn som är medborgare i en annan EU-stat och som har rätt att vistas i Sverige i egenskap av sökande av flyktingförklaring enligt 5 kap. 1 b § första stycket.
+
+I fråga om ett barn som av allmän domstol har utvisats på grund av brott gäller 8 § i stället för denna paragraf.
+
+*Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Ytterligare krav för förvar som rör barn
+
+7 § /Ny beteckning 10 kap. 9 § U:2027-12-01/ Ett barn eller en vårdnadshavare får inte tas i förvar om det skulle innebära att barnet skiljs från sin eller sina vårdnadshavare. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft:2027-12-01/*
+
+### Uppsikt över och förvar av en utlänning som inte är sökande av internationellt skydd
+
+#### 7 §
+
+*/Träder i kraft I:2027-12-01/* I andra fall än som avses i 5 § får en utlänning som har fyllt 18 år ställas under uppsikt eller tas i förvar
+
+1. om det är nödvändigt för att en utredning av utlänningens identitet eller rätt att resa in i eller stanna i Sverige ska kunna genomföras, eller
+
+2. om det kan antas att utlänningen kommer att avvisas eller utvisas eller det är fråga om att verkställa ett beslut om avvisning eller utvisning och om det finns en risk för att utlänningen bedriver brottslig verksamhet i Sverige, avviker, håller sig undan eller på annat sätt försvårar verkställigheten.
+
+I artikel 5 i förordningen om återvändandegränsförfarande finns det ytterligare bestämmelser som ger möjlighet att besluta om uppsikt eller förvar. *Lag (2026:1427)*.
+
+8 § /Ny beteckning 10 kap. 10 § U:2027-12-01/ Ett barn som inte har någon vårdnadshavare i Sverige får tas i förvar endast om det finns synnerliga skäl.
+
+*Lag (2026:1425)*.
+
+#### 8 §
+
+*/Träder i kraft I:2027-12-01/* I andra fall än som avses i 6 § får ett barn ställas under uppsikt eller tas i förvar
+
+1. om det är sannolikt att barnet kommer att avvisas av Polismyndigheten eller avvisas med omedelbar verkställighet av Migrationsverket, eller
+
+2. om det är fråga om att verkställa ett beslut om avvisning eller utvisning.
+
+I fall som avses i första stycket 1 och 2 får barnet ställas under uppsikt eller tas i förvar endast om det annars finns en uppenbar risk för att barnet bedriver brottslig verksamhet i Sverige, avviker, håller sig undan eller på annat sätt försvårar verkställigheten.
+
+I artikel 5 i förordningen om återvändandegränsförfarande finns det ytterligare bestämmelser som ger möjlighet att besluta om uppsikt eller förvar. *Lag (2026:1427)*.
+
+*/Rubriken träder i kraft:2027-12-01/*
+
+### Uppsikt och förvar när utlänningens rörelsefrihet är inskränkt med stöd av annan lag
+
+9 § /Ny beteckning 10 kap. 11 § U:2027-12-01/ Ett beslut om uppsikt eller förvar får fattas trots att det saknas förutsättningar för det enligt 3-6 §§ om skälet för att förutsättningarna brister endast är att utlänningens rörelsefrihet är inskränkt med stöd av annan lag. Verkställighet av beslutet får ske när förutsättningarna för uppsikten eller förvarstagandet är uppfyllda. *Lag (2026:1425)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Ytterligare krav för förvar som rör barn
+
+#### 9 §
+
+*/Träder i kraft I:2027-12-01/* Ett barn eller en vårdnadshavare får inte tas i förvar om det skulle innebära att barnet skiljs från sin eller sina vårdnadshavare. *Lag (2026:1427)*.
+
+#### 10 §
+
+*/Upphör att gälla U:2027-01-01/* Om en socialnämnd har underrättats om ett beslut enligt 9 § som avser en utlänning som är omedelbart omhändertagen eller bereds vård enligt lagen (1990:52) med särskilda bestämmelser om vård av unga eller lagen (1988:870) om vård av missbrukare i vissa fall, ska nämnden omedelbart underrätta den myndighet som fattat beslutet när omhändertagandet eller vården upphör.
+
+Om en chefsöverläkare har underrättats om ett beslut enligt 9 § som avser en utlänning som ges tvångsvård enligt lagen (1991:1128) om psykiatrisk tvångsvård eller rättspsykiatrisk vård enligt lagen (1991:1129) om rättspsykiatrisk vård, ska chefsöverläkaren omedelbart underrätta den myndighet som fattat beslutet när vården upphör.
+
+Om en smittskyddsläkare har underrättats om ett beslut enligt 9 § som avser en utlänning som hålls isolerad enligt smittskyddslagen (2004:168), ska smittskyddsläkaren omedelbart underrätta den myndighet som fattat beslutet när isoleringen upphör. *Lag (2026:1425)*.
+
+#### 10 §
+
+*/Träder i kraft I:2027-01-01/* /Ny beteckning 10 kap. 12 § U:2027-12-01/ Om en socialnämnd har underrättats om ett beslut enligt 9 § som avser en utlänning som är omhändertagen enligt lagen (2026:1600) om omhändertagande för vård av barn och unga eller som är omedelbart omhändertagen eller bereds vård enligt lagen (1988:870) om vård av missbrukare i vissa fall, ska nämnden omedelbart underrätta den myndighet som fattat beslutet när omhändertagandet eller vården upphör.
+
+Om en chefsöverläkare har underrättats om ett beslut enligt 9 § som avser en utlänning som ges tvångsvård enligt lagen (1991:1128) om psykiatrisk tvångsvård eller rättspsykiatrisk vård enligt lagen (1991:1129) om rättspsykiatrisk vård, ska chefsöverläkaren omedelbart underrätta den myndighet som fattat beslutet när vården upphör.
+
+Om en smittskyddsläkare har underrättats om ett beslut enligt 9 § som avser en utlänning som hålls isolerad enligt smittskyddslagen (2004:168), ska smittskyddsläkaren omedelbart underrätta den myndighet som fattat beslutet när isoleringen upphör. *Lag (2026:1619)*.
+
+#### 10 §
+
+*/Träder i kraft I:2027-12-01/* Ett barn som inte har någon vårdnadshavare i Sverige får tas i förvar endast om det finns synnerliga skäl.
+
+*Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Längsta tid för förvar
+
+11 § /Ny beteckning 10 kap. 14 § U:2027-12-01/ En utlänning får inte hållas i förvar längre tid än
+
+1. fyra veckor om det sker med stöd av 3 § första stycket 1 eller 2 eller 5 § första stycket 1,
+
+2. tolv veckor om det sker med stöd av 3 § första stycket 4, och
+
+3. tolv månader om det sker med stöd av 3 § första stycket 3, 5 eller 6. *Lag (2026:1426)*.
+
+#### 11 §
+
+*/Träder i kraft I:2027-12-01/* Ett beslut om uppsikt eller förvar får fattas trots att det saknas förutsättningar för det enligt 5-8 §§ om skälet för att förutsättningarna brister endast är att utlänningens rörelsefrihet är inskränkt med stöd av annan lag. Verkställighet av beslutet får ske när förutsättningarna för uppsikten eller förvarstagandet är uppfyllda. *Lag (2026:1427)*.
+
+12 § /Ny beteckning 10 kap. 15 § U:2027-12-01/ En utlänning får, i andra fall än som avses i andra och tredje styckena, inte hållas i förvar med stöd av 5 § första stycket 2 längre tid än sex månader. Om bristande samarbete från utlänningens sida eller tidsåtgången för införskaffande av nödvändiga handlingar medför att det är sannolikt att verkställigheten av ett beslut om avvisning eller utvisning kommer att dröja längre än sex månader får utlänningen dock hållas i förvar i ytterligare högst tolv månader. Dessa tidsgränser gäller inte i fråga om en utlänning som av allmän domstol har utvisats på grund av brott.
+
+En utlänning får, i andra fall än som avses i tredje stycket, inte hållas i förvar med stöd av 5 § första stycket 2 inför avvisning eller utvisning till en EES-stat längre tid än sex månader eller, om det finns särskilda skäl, tolv månader.
+
+I ett säkerhetsärende får en utlänning inte hållas i förvar med stöd av 5 § första stycket 2 längre tid än tolv månader. Om bristande samarbete från utlänningens sida eller tidsåtgången för införskaffande av nödvändiga handlingar eller om något annat väsentligt skäl som hänför sig till verkställigheten medför att det är sannolikt att verkställigheten av ett beslut om avvisning eller utvisning kommer att dröja längre än tolv månader får utlänningen dock hållas i förvar i ytterligare högst tolv månader.
+
+*Lag (2026:1425)*.
+
+#### 12 §
+
+*/Träder i kraft I:2027-12-01/* Om en socialnämnd har underrättats om ett beslut enligt 11 § som avser en utlänning som är omhändertagen enligt lagen (2026:1600) om omhändertagande för vård av barn och unga eller som är omedelbart omhändertagen eller bereds vård enligt lagen (1988:870) om vård av missbrukare i vissa fall, ska nämnden omedelbart underrätta den myndighet som fattat beslutet när omhändertagandet eller vården upphör.
+
+Om en chefsöverläkare har underrättats om ett beslut enligt 11 § som avser en utlänning som ges tvångsvård enligt lagen (1991:1128) om psykiatrisk tvångsvård eller rättspsykiatrisk vård enligt lagen (1991:1129) om rättspsykiatrisk vård, ska chefsöverläkaren omedelbart underrätta den myndighet som fattat beslutet när vården upphör.
+
+Om en smittskyddsläkare har underrättats om ett beslut enligt 11 § som avser en utlänning som hålls isolerad enligt smittskyddslagen (2004:168), ska smittskyddsläkaren omedelbart underrätta den myndighet som fattat beslutet när isoleringen upphör. *Lag (2026:1632)*.
+
+13 § /Ny beteckning 10 kap. 16 § U:2027-12-01/ Ett barn får inte hållas i förvar längre tid än 72 timmar eller, om det finns synnerliga skäl, ytterligare 72 timmar.
+
+I ett säkerhetsärende får ett barn inte hållas i förvar med stöd av 4 § första stycket 1, 3 eller 4 eller 6 § längre sammanlagd tid än tre månader eller, om det finns synnerliga skäl, sex månader. Dessa tidsgränser gäller även i fråga om ett barn som av allmän domstol har utvisats på grund av brott.
+
+*Lag (2026:1426)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Längsta tid för förstärkt uppsikt av barn samt för förvar
+
+#### 13 §
+
+*/Träder i kraft I:2027-12-01/* Ett barn får, i andra fall än som avses i andra stycket, inte vara ställt under förstärkt uppsikt längre tid än tre månader eller, om det finns synnerliga skäl, sex månader.
+
+I ett säkerhetsärende får ett barn inte vara ställt under förstärkt uppsikt längre tid än tolv månader eller, om det finns synnerliga skäl, 18 månader. Dessa tidsgränser gäller även i fråga om ett barn som av allmän domstol har utvisats på grund av brott. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Upphörande av uppsikt och förvar
+
+14 § /Ny beteckning 10 kap. 17 § U:2027-12-01/ Ett beslut om uppsikt eller förvar ska omedelbart upphävas om det inte längre finns skäl för beslutet. Ett beslut om uppsikt kan upphävas helt eller delvis.
+
+*Lag (2026:1425)*.
+
+#### 14 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning får inte hållas i förvar längre tid än
+
+1. fyra veckor om det sker med stöd av 3 § första stycket 1 eller 2 eller 5 § första stycket 1,
+
+2. tolv veckor om det sker med stöd av 3 § första stycket 4, och
+
+3. tolv månader om det sker med stöd av 3 § första stycket 3, 5 eller 6. *Lag (2026:1427)*.
+
+#### 14 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning får inte hållas i förvar längre tid än
+
+1. fyra veckor om det sker med stöd av 5 § första stycket 1 eller 2 eller 7 § första stycket 1,
+
+2. tolv veckor om det sker med stöd av 5 § första stycket 4, och
+
+3. tolv månader om det sker med stöd av 5 § första stycket 3, 5 eller 6. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Ny prövning
+
+15 § /Ny beteckning 10 kap. 18 § U:2027-12-01/ Så länge en utlänning står under uppsikt ska beslutet om uppsikt prövas på nytt inom sex månader från den dag då beslutet fattades och därefter fortlöpande inom sex månader från den senaste prövningen. *Lag (2026:1425)*.
+
+#### 15 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning får, i andra fall än som avses i andra och tredje styckena, inte hållas i förvar med stöd av 7 § första stycket 2 längre tid än sex månader. Om bristande samarbete från utlänningens sida eller tidsåtgången för införskaffande av nödvändiga handlingar medför att det är sannolikt att verkställigheten av ett beslut om avvisning eller utvisning kommer att dröja längre än sex månader får utlänningen dock hållas i förvar i ytterligare högst tolv månader. Dessa tidsgränser gäller inte i fråga om en utlänning som av allmän domstol har utvisats på grund av brott.
+
+En utlänning får, i andra fall än som avses i tredje stycket, inte hållas i förvar med stöd av 7 § första stycket 2 inför avvisning eller utvisning till en EES-stat längre tid än sex månader eller, om det finns särskilda skäl, tolv månader.
+
+I ett säkerhetsärende får en utlänning inte hållas i förvar med stöd av 7 § första stycket 2 längre tid än tolv månader. Om bristande samarbete från utlänningens sida eller tidsåtgången för införskaffande av nödvändiga handlingar eller om något annat väsentligt skäl som hänför sig till verkställigheten medför att det är sannolikt att verkställigheten av ett beslut om avvisning eller utvisning kommer att dröja längre än tolv månader får utlänningen dock hållas i förvar i ytterligare högst tolv månader.
+
+*Lag (2026:1427)*.
+
+16 § /Ny beteckning 10 kap. 19 § U:2027-12-01/ Ett beslut om förvar enligt 3 § första stycket 3?7, 5 § första stycket 2 eller andra stycket eller 9 § ska prövas på nytt inom två månader från den dag då verkställigheten av beslutet påbörjades. Har beslutet föregåtts av ett interimistiskt beslut om förvar enligt 24 § ska tidsfristen räknas från den dag då det interimistiska beslutet verkställdes.
+
+Om utlänningen efter den nya prövningen är kvar i förvar ska en ny prövning fortlöpande göras inom två månader från det senaste förvarsbeslutet. *Lag (2026:1426)*.
+
+#### 16 §
+
+*/Träder i kraft I:2027-12-01/* Ett barn får inte hållas i förvar längre tid än 72 timmar eller, om det finns synnerliga skäl, ytterligare 72 timmar.
+
+I ett säkerhetsärende får ett barn inte hållas i förvar med stöd av 6 § första stycket 1, 3 eller 4 eller 8 § längre sammanlagd tid än tre månader eller, om det finns synnerliga skäl, sex månader. Dessa tidsgränser gäller även i fråga om ett barn som av allmän domstol har utvisats på grund av brott.
+
+*Lag (2026:1427)*.
+
+17 § /Ny beteckning 10 kap. 20 § U:2027-12-01/ Ett beslut om förvar av ett barn i ett säkerhetsärende eller ett beslut om förvar som gäller ett barn som av allmän domstol har utvisats på grund av brott ska prövas på nytt inom en månad från den dag då verkställigheten av beslutet påbörjades. Har beslutet föregåtts av ett interimistiskt beslut om förvar ska tidsfristen räknas från den dag då det interimistiska beslutet verkställdes.
+
+Om barnet efter den nya prövningen är kvar i förvar ska en ny prövning fortlöpande göras inom en månad från det senaste förvarsbeslutet. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Upphörande av uppsikt och förvar
+
+#### 17 §
+
+*/Träder i kraft I:2027-12-01/* Ett beslut om uppsikt eller förvar ska omedelbart upphävas om det inte längre finns skäl för beslutet. Ett beslut om uppsikt kan upphävas helt eller delvis.
+
+*Lag (2026:1427)*.
+
+18 § /Ny beteckning 10 kap. 21 § U:2027-12-01/ Varje ny prövning av ett beslut om förvar ska föregås av en muntlig förhandling. Detsamma gäller för en ny prövning av ett beslut om uppsikt, om det inte är uppenbart att en muntlig förhandling skulle sakna betydelse.
+
+Bestämmelser om muntlig förhandling finns i 13 kap. 2-8 §§.
+
+*Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Ny prövning
+
+#### 18 §
+
+*/Träder i kraft I:2027-12-01/* Så länge en utlänning står under uppsikt ska beslutet om uppsikt prövas på nytt inom sex månader eller, vid förstärkt uppsikt, tre månader från den dag då beslutet fattades och därefter fortlöpande inom sex respektive tre månader från den senaste prövningen.
+
+Avser beslutet om förstärkt uppsikt ett barn gäller i stället att beslutet ska prövas på nytt inom en månad från den senaste prövningen. *Lag (2026:1427)*.
+
+19 § /Ny beteckning 10 kap. 22 § U:2027-12-01/ Om ett beslut om uppsikt eller förvar inte prövas på nytt inom föreskriven tid så upphör beslutet att gälla.
+
+*Lag (2026:1425)*.
+
+#### 19 §
+
+*/Träder i kraft I:2027-12-01/* Ett beslut om förvar enligt 5 § första stycket 3-7, 7 § första stycket 2 eller andra stycket eller 11 § ska prövas på nytt inom två månader från den dag då verkställigheten av beslutet påbörjades. Har beslutet föregåtts av ett interimistiskt beslut om förvar enligt 27 § ska tidsfristen räknas från den dag då det interimistiska beslutet verkställdes.
+
+Om utlänningen efter den nya prövningen är kvar i förvar ska en ny prövning fortlöpande göras inom två månader från det senaste förvarsbeslutet. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Beslutande myndigheter
+
+20 § /Ny beteckning 10 kap. 23 § U:2027-12-01/ Polismyndigheten beslutar om uppsikt och förvar när myndigheten
+
+1. handlägger ett ärende om avvisning, eller
+
+2. ska verkställa ett beslut om avvisning eller utvisning.
+
+Polismyndigheten behåller sin behörighet att fatta beslut enligt första stycket 2 när hinder mot verkställighet har åberopats enligt 12 kap. 19 b § första stycket till dess Migrationsverket har beslutat i frågan, om en prövning ska beviljas. *Lag (2026:1425)*.
+
+#### 20 §
+
+*/Träder i kraft I:2027-12-01/* Ett beslut om förvar av ett barn i ett säkerhetsärende eller ett beslut om förvar som gäller ett barn som av allmän domstol har utvisats på grund av brott ska prövas på nytt inom en månad från den dag då verkställigheten av beslutet påbörjades. Har beslutet föregåtts av ett interimistiskt beslut om förvar ska tidsfristen räknas från den dag då det interimistiska beslutet verkställdes.
+
+Om barnet efter den nya prövningen är kvar i förvar ska en ny prövning fortlöpande göras inom en månad från det senaste förvarsbeslutet. *Lag (2026:1427)*.
+
+21 § /Ny beteckning 10 kap. 24 § U:2027-12-01/ Säkerhetspolisen beslutar om uppsikt och förvar när myndigheten ska verkställa ett beslut om avvisning eller utvisning.
+
+Säkerhetspolisen behåller sin behörighet att fatta beslut när hinder mot verkställighet har åberopats enligt 12 kap. 19 b § första stycket till dess Migrationsverket har beslutat i frågan, om en prövning ska beviljas. *Lag (2026:1425)*.
+
+#### 21 §
+
+*/Träder i kraft I:2027-12-01/* Varje ny prövning av ett beslut om förvar ska föregås av en muntlig förhandling. Detsamma gäller för en ny prövning av ett beslut om uppsikt, om det inte är uppenbart att en muntlig förhandling skulle sakna betydelse.
+
+Bestämmelser om muntlig förhandling finns i 13 kap. 2-8 §§.
+
+*Lag (2026:1427)*.
+
+22 § /Ny beteckning 10 kap. 25 § U:2027-12-01/ Migrationsverket beslutar om uppsikt och förvar, om inte Polismyndigheten eller Säkerhetspolisen är beslutande myndighet enligt 20 eller 21 §. *Lag (2026:1425)*.
+
+#### 22 §
+
+*/Träder i kraft I:2027-12-01/* Om ett beslut om uppsikt eller förvar inte prövas på nytt inom föreskriven tid så upphör beslutet att gälla.
+
+*Lag (2026:1427)*.
+
+23 § /Ny beteckning 10 kap. 26 § U:2027-12-01/ Migrationsverket ska upphäva ett beslut om uppsikt eller förvar om verket beviljar uppehållstillstånd eller internationellt skydd.
+
+När Migrationsverket prövar en fråga om uppehållstillstånd eller internationellt skydd får verket besluta om inhibition av ett beslut om uppsikt eller förvar.
+
+Är det en domstol som beslutar i frågor som avses i första eller andra stycket gäller vad som där sägs i stället domstolen. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Beslutande myndigheter
+
+#### 23 §
+
+*/Träder i kraft I:2027-12-01/* Polismyndigheten beslutar om uppsikt och förvar när myndigheten
+
+1. handlägger ett ärende om avvisning, eller
+
+2. ska verkställa ett beslut om avvisning eller utvisning.
+
+Polismyndigheten behåller sin behörighet att fatta beslut enligt första stycket 2 när hinder mot verkställighet har åberopats enligt 12 kap. 19 b § första stycket till dess Migrationsverket har beslutat i frågan, om en prövning ska beviljas. *Lag (2026:1427)*.
+
+24 § /Ny beteckning 10 kap. 27 § U:2027-12-01/ Polismyndigheten får, trots att myndigheten inte är beslutande myndighet enligt 20 §, besluta att en utlänning ska ställas under uppsikt eller tas i förvar, om det inte finns tid att avvakta den behöriga myndighetens beslut. Ett sådant beslut ska skyndsamt anmälas till den myndighet som är behörig. Den myndigheten ska därefter omedelbart pröva frågan om uppsikt eller förvar. När den behöriga myndigheten har beslutat i frågan upphör Polismyndighetens beslut att gälla.
+
+En polisman får med tillämpning av 11 § polislagen (1984:387) i vissa fall omhänderta en utlänning i avvaktan på Polismyndighetens beslut om förvar.
+
+Om kontroll av en utlänning sker under medverkan av Tullverket, Kustbevakningen eller med hjälp av en särskilt förordnad passkontrollant, har tulltjänstemannen, tjänstemannen vid Kustbevakningen eller passkontrollanten samma rätt att omhänderta utlänningen som en polisman har enligt andra stycket. Omhändertagandet ska så skyndsamt som möjligt anmälas till en polisman för prövning av om åtgärden ska bestå. *Lag (2026:1425)*.
+
+#### 24 §
+
+*/Träder i kraft I:2027-12-01/* Säkerhetspolisen beslutar om uppsikt och förvar när myndigheten ska verkställa ett beslut om avvisning eller utvisning.
+
+Säkerhetspolisen behåller sin behörighet att fatta beslut när hinder mot verkställighet har åberopats enligt 12 kap. 19 b § första stycket till dess Migrationsverket har beslutat i frågan, om en prövning ska beviljas. *Lag (2026:1427)*.
+
+#### 25 §
+
+*/Träder i kraft I:2027-12-01/* Migrationsverket beslutar om uppsikt och förvar, om inte Polismyndigheten eller Säkerhetspolisen är beslutande myndighet enligt 23 eller 24 §. *Lag (2026:1427)*.
+
+#### 26 §
+
+*/Träder i kraft I:2027-12-01/* Migrationsverket ska upphäva ett beslut om uppsikt eller förvar om verket beviljar uppehållstillstånd eller internationellt skydd.
+
+När Migrationsverket prövar en fråga om uppehållstillstånd eller internationellt skydd får verket besluta om inhibition av ett beslut om uppsikt eller förvar.
+
+Är det en domstol som beslutar i frågor som avses i första eller andra stycket gäller vad som där sägs i stället domstolen. *Lag (2026:1427)*.
+
+#### 27 §
+
+*/Träder i kraft I:2027-12-01/* Polismyndigheten får, trots att myndigheten inte är beslutande myndighet enligt 23 §, besluta att en utlänning ska ställas under uppsikt eller tas i förvar, om det inte finns tid att avvakta den behöriga myndighetens beslut. Ett sådant beslut ska skyndsamt anmälas till den myndighet som är behörig. Den myndigheten ska därefter omedelbart pröva frågan om uppsikt eller förvar. När den behöriga myndigheten har beslutat i frågan upphör Polismyndighetens beslut att gälla.
+
+En polisman får med tillämpning av 11 § polislagen (1984:387) i vissa fall omhänderta en utlänning i avvaktan på Polismyndighetens beslut om förvar.
+
+Om kontroll av en utlänning sker under medverkan av Tullverket, Kustbevakningen eller med hjälp av en särskilt förordnad passkontrollant, har tulltjänstemannen, tjänstemannen vid Kustbevakningen eller passkontrollanten samma rätt att omhänderta utlänningen som en polisman har enligt andra stycket. Omhändertagandet ska så skyndsamt som möjligt anmälas till en polisman för prövning av om åtgärden ska bestå. *Lag (2026:1427)*.
+
+## 10 a kap. Verkställighet av beslut om uppsikt och förvar
+
+### Ansvar för verkställighet
+
+#### 1 §
+
+Migrationsverket ansvarar för verkställigheten av beslut om förvar. *Lag (2026:1425)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Hjälp vid verkställighet
+
+2 § /Ny beteckning 10 a kap. 3 § U:2027-12-01/ Polismyndigheten ska på begäran lämna den hjälp som behövs för att verkställa ett beslut om förvar som har fattats av Migrationsverket eller Säkerhetspolisen. *Lag (2026:1425)*.
+
+#### 2 §
+
+*/Träder i kraft I:2027-12-01/* Polismyndigheten ansvarar för verkställigheten av beslut om förstärkt uppsikt. *Lag (2026:1427)*.
+
+3 § /Ny beteckning 10 a kap. 4 § U:2027-12-01/ Migrationsverket får överlämna till Kriminalvården att transportera en utlänning som hålls i förvar. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Hjälp vid verkställighet
+
+#### 3 §
+
+*/Träder i kraft I:2027-12-01/* Polismyndigheten ska på begäran lämna den hjälp som behövs för att verkställa ett beslut om förvar som har fattats av Migrationsverket eller Säkerhetspolisen. *Lag (2026:1427)*.
+
+4 § /Ny beteckning 10 a kap. 5 § U:2027-12-01/ Vid en transport enligt 3 § gäller följande bestämmelser i häkteslagen (2010:611):
+
+- 4 kap. 4 § om kroppsvisitation,
+
+- 4 kap. 10 § första stycket om användning av fängsel, och
+
+- 8 kap. 2 a § om möjligheten att i vissa fall begära hjälp av Polismyndigheten. *Lag (2026:1425)*.
+
+#### 4 §
+
+*/Träder i kraft I:2027-12-01/* Migrationsverket får överlämna till Kriminalvården att transportera en utlänning som hålls i förvar. *Lag (2026:1427)*.
+
+5 § /Ny beteckning 10 a kap. 6 § U:2027-12-01/ Den myndighet som begär hjälp enligt 2 eller 3 § ska lämna Polismyndigheten respektive Kriminalvården de uppgifter om utlänningen som behövs för planeringen och genomförandet av åtgärden. *Lag (2026:1425)*.
+
+#### 5 §
+
+*/Träder i kraft I:2027-12-01/* Vid en transport enligt 4 § gäller följande bestämmelser i häkteslagen (2010:611):
+
+- 4 kap. 4 § om kroppsvisitation,
+
+- 4 kap. 10 § första stycket om användning av fängsel, och
+
+- 8 kap. 2 a § om möjligheten att i vissa fall begära hjälp av Polismyndigheten. *Lag (2026:1427)*.
+
+6 § /Ny beteckning 10 a kap. 7 § U:2027-12-01/ Migrationsverket får förordna en väktare i ett auktoriserat bevakningsföretag att, inom ramen för sin anställning i företaget, utföra vissa bevakningsuppdrag när en utlänning som hålls i förvar ska vistas utanför en förvarslokal.
+
+I förordnandet ska uppdragets art och omfattning anges. Förordnandet får återkallas. *Lag (2026:1425)*.
+
+#### 6 §
+
+*/Träder i kraft I:2027-12-01/* Den myndighet som begär hjälp enligt 3 eller 4 § ska lämna Polismyndigheten respektive Kriminalvården de uppgifter om utlänningen som behövs för planeringen och genomförandet av åtgärden. *Lag (2026:1427)*.
+
+7 § /Ny beteckning 10 a kap. 8 § U:2027-12-01/ En väktare med ett förordnande enligt 6 § får inte obehörigen röja eller utnyttja vad han eller hon på grund av sitt uppdrag har fått veta om en enskilds personliga förhållanden eller om förhållanden av betydelse för Sveriges säkerhet eller för att utreda brott och lagföra någon för brott.
+
+I det allmännas verksamhet tillämpas i stället offentlighets- och sekretesslagen (2009:400). *Lag (2026:1425)*.
+
+#### 7 §
+
+*/Träder i kraft I:2027-12-01/* Migrationsverket får förordna en väktare i ett auktoriserat bevakningsföretag att, inom ramen för sin anställning i företaget, utföra vissa bevakningsuppdrag när en utlänning som hålls i förvar ska vistas utanför en förvarslokal.
+
+I förordnandet ska uppdragets art och omfattning anges. Förordnandet får återkallas. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Valet mellan olika former av placering
+
+8 § /Ny beteckning 10 a kap. 9 § U:2027-12-01/ En utlänning som är tagen i förvar får inte placeras så att han eller hon utsätts för mer ingripande övervakning eller kontroll än vad som är nödvändigt för att ordning eller säkerhet ska kunna upprätthållas. *Lag (2026:1425)*.
+
+#### 8 §
+
+*/Träder i kraft I:2027-12-01/* En väktare med ett förordnande enligt 7 § får inte obehörigen röja eller utnyttja vad han eller hon på grund av sitt uppdrag har fått veta om en enskilds personliga förhållanden eller om förhållanden av betydelse för Sveriges säkerhet eller för att utreda brott och lagföra någon för brott.
+
+I det allmännas verksamhet tillämpas i stället offentlighets- och sekretesslagen (2009:400). *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Placering av förvarstagna på säkerhetsavdelning
+
+9 § /Ny beteckning 10 a kap. 10 § U:2027-12-01/ Om inte annat föreskrivs i 12 § får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras på en säkerhetsavdelning om
+
+1. utlänningen av allmän domstol har utvisats på grund av brott, eller
+
+2. utlänningen av ordnings- eller säkerhetsskäl inte kan vistas på en vanlig förvarsavdelning. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Valet mellan olika former av placering
+
+#### 9 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning som är tagen i förvar får inte placeras så att han eller hon utsätts för mer ingripande övervakning eller kontroll än vad som är nödvändigt för att ordning eller säkerhet ska kunna upprätthållas. *Lag (2026:1427)*.
+
+10 § /Ny beteckning 10 a kap. 11 § U:2027-12-01/ Om inte annat föreskrivs i 13 § får Migrationsverket besluta att ett barn som är taget i förvar ska placeras på en säkerhetsavdelning om barnet av allmän domstol har utvisats på grund av brott och det finns synnerliga skäl. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Placering av förvarstagna på säkerhetsavdelning
+
+#### 10 §
+
+*/Träder i kraft I:2027-12-01/* Om inte annat föreskrivs i 13 § får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras på en säkerhetsavdelning om
+
+1. utlänningen av allmän domstol har utvisats på grund av brott, eller
+
+2. utlänningen av ordnings- eller säkerhetsskäl inte kan vistas på en vanlig förvarsavdelning. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Externplacering av förvarstagna
+
+11 § /Ny beteckning 10 a kap. 12 § U:2027-12-01/ Om inte annat föreskrivs i 14 § får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras i kriminalvårdsanstalt, häkte eller polisarrest endast om det finns synnerliga skäl eller om det är nödvändigt
+
+1. för att upprätthålla ordningen eller säkerheten i en förvarslokal, eller
+
+2. av transporttekniska skäl.
+
+Placering i polisarrest får vara endast tillfällig.
+
+En utlänning som har placerats med stöd av första stycket och som inte av allmän domstol har utvisats på grund av brott ska hållas avskild från övriga intagna.
+
+En placering enligt första stycket av annat skäl än som anges i 1 får inte pågå längre än tre dygn. *Lag (2026:1425)*.
+
+#### 11 §
+
+*/Träder i kraft I:2027-12-01/* Om inte annat föreskrivs i 14 § får Migrationsverket besluta att ett barn som är taget i förvar ska placeras på en säkerhetsavdelning om barnet av allmän domstol har utvisats på grund av brott och det finns synnerliga skäl. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Placering av förvarstagna i säkerhetsärenden
+
+12 § /Ny beteckning 10 a kap. 13 § U:2027-12-01/ I ett säkerhetsärende får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras på en säkerhetsavdelning om det behövs med hänsyn till omständigheterna i det enskilda fallet. *Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Externplacering av förvarstagna
+
+#### 12 §
+
+*/Träder i kraft I:2027-12-01/* Om inte annat föreskrivs i 15 § får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras i kriminalvårdsanstalt, häkte eller polisarrest endast om det finns synnerliga skäl eller om det är nödvändigt
+
+1. för att upprätthålla ordningen eller säkerheten i en förvarslokal, eller
+
+2. av transporttekniska skäl.
+
+Placering i polisarrest får vara endast tillfällig.
+
+En utlänning som har placerats med stöd av första stycket och som inte av allmän domstol har utvisats på grund av brott ska hållas avskild från övriga intagna.
+
+En placering enligt första stycket av annat skäl än som anges i 1 får inte pågå längre än tre dygn. *Lag (2026:1427)*.
+
+13 § /Ny beteckning 10 a kap. 14 § U:2027-12-01/ I ett säkerhetsärende får Migrationsverket besluta att ett barn som är taget i förvar ska placeras på en säkerhetsavdelning om det finns synnerliga skäl.
+
+*Lag (2026:1425)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Placering av förvarstagna i säkerhetsärenden
+
+#### 13 §
+
+*/Träder i kraft I:2027-12-01/* I ett säkerhetsärende får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras på en säkerhetsavdelning om det behövs med hänsyn till omständigheterna i det enskilda fallet. *Lag (2026:1427)*.
+
+14 § /Ny beteckning 10 a kap. 15 § U:2027-12-01/ I ett säkerhetsärende får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras i kriminalvårdsanstalt, häkte eller polisarrest om det behövs med hänsyn till omständigheterna i det enskilda fallet.
+
+Placering i polisarrest får vara endast tillfällig.
+
+En utlänning som har placerats med stöd av första stycket ska hållas avskild från övriga intagna. *Lag (2026:1425)*.
+
+#### 14 §
+
+*/Träder i kraft I:2027-12-01/* I ett säkerhetsärende får Migrationsverket besluta att ett barn som är taget i förvar ska placeras på en säkerhetsavdelning om det finns synnerliga skäl.
+
+*Lag (2026:1427)*.
+
+15 § /Ny beteckning 10 a kap. 16 § U:2027-12-01/ Säkerhetspolisen får i ett säkerhetsärende besluta om placering enligt 12-14 §§, om det inte finns tid att avvakta Migrationsverkets beslut. Ett sådant beslut ska så snart som möjligt anmälas till Migrationsverket, som skyndsamt ska pröva frågan om placering. När Migrationsverket har beslutat i frågan upphör Säkerhetspolisens beslut att gälla.
+
+*Lag (2026:1425)*.
+
+#### 15 §
+
+*/Träder i kraft I:2027-12-01/* I ett säkerhetsärende får Migrationsverket besluta att en utlänning som är tagen i förvar och har fyllt 18 år ska placeras i kriminalvårdsanstalt, häkte eller polisarrest om det behövs med hänsyn till omständigheterna i det enskilda fallet.
+
+Placering i polisarrest får vara endast tillfällig.
+
+En utlänning som har placerats med stöd av första stycket ska hållas avskild från övriga intagna. *Lag (2026:1427)*.
+
+*/Rubriken upphör att gälla U:2027-12-01/*
+
+### Ny prövning av placeringsbeslut
+
+16 § /Ny beteckning 10 a kap. 17 § U:2027-12-01/ Migrationsverkets beslut om placering enligt 9, 10 eller 11 § första stycket 1 eller någon av 12-14 §§ ska prövas på nytt senast inom en månad från den dag då verkställigheten av beslutet påbörjades och därefter fortlöpande inom en månad från den senaste prövningen.
+
+Om ett beslut om placering inte prövas på nytt inom föreskriven tid så upphör beslutet att gälla. *Lag (2026:1425)*.
+
+#### 16 §
+
+*/Träder i kraft I:2027-12-01/* Säkerhetspolisen får i ett säkerhetsärende besluta om placering enligt 13-15 §§, om det inte finns tid att avvakta Migrationsverkets beslut. Ett sådant beslut ska så snart som möjligt anmälas till Migrationsverket, som skyndsamt ska pröva frågan om placering. När Migrationsverket har beslutat i frågan upphör Säkerhetspolisens beslut att gälla.
+
+*Lag (2026:1427)*.
+
+*/Rubriken träder i kraft I:2027-12-01/*
+
+### Ny prövning av placeringsbeslut
+
+#### 17 §
+
+*/Träder i kraft I:2027-12-01/* Migrationsverkets beslut om placering enligt 10, 11 eller 12 § första stycket 1 eller någon av 13-15 §§ ska prövas på nytt senast inom en månad från den dag då verkställigheten av beslutet påbörjades och därefter fortlöpande inom en månad från den senaste prövningen.
+
+Om ett beslut om placering inte prövas på nytt inom föreskriven tid så upphör beslutet att gälla. *Lag (2026:1427)*.
+
+## 11 kap. Hur en utlänning som hålls i förvar skall behandlas
+
+#### 1 §
+
+En utlänning som hålls i förvar ska behandlas humant och hans eller hennes värdighet ska respekteras. Utlänningen ska informeras om de rättigheter och skyldigheter han eller hon har som förvarstagen samt om de regler som gäller i förvarslokalerna.
+
+Verksamhet som rör förvar ska utformas på ett sätt som innebär minsta möjliga intrång i utlänningens integritet och rättigheter. *Lag (2012:129)*.
+
+#### 2 §
+
+*/Upphör att gälla U:2027-12-01/* En utlänning som hålls i förvar enligt denna lag ska, i annat fall än som avses i 10 a kap. 11 eller 14 §, vistas i lokaler som har ordnats särskilt för detta ändamål. Migrationsverket har ansvaret för sådana lokaler.
+
+Migrationsverket har ansvaret för behandlingen och tillsynen av en utlänning som hålls i förvar. Ansvaret gäller även när utlänningen med tillåtelse vistas utanför förvarslokalen.
+
+För behandlingen av en utlänning som enligt 10 a kap. 11 eller 14 § placerats i kriminalvårdsanstalt, häkte eller polisarrest gäller häkteslagen (2010:611) i tillämpliga delar. Utlänningen ska, utöver vad som följer av nämnda lag, ges möjlighet att ha kontakt med personer utanför inrättningen och även i övrigt beviljas de lättnader och förmåner som kan medges med hänsyn till ordningen och säkerheten inom inrättningen.
+
+*Lag (2026:1425)*.
+
+#### 2 §
+
+*/Träder i kraft I:2027-12-01/* En utlänning som hålls i förvar enligt denna lag ska, i annat fall än som avses i 10 a kap. 12 eller 15 §, vistas i lokaler som har ordnats särskilt för detta ändamål. Migrationsverket har ansvaret för sådana lokaler.
+
+Migrationsverket har ansvaret för behandlingen och tillsynen av en utlänning som hålls i förvar. Ansvaret gäller även när utlänningen med tillåtelse vistas utanför förvarslokalen.
+
+För behandlingen av en utlänning som enligt 10 a kap. 12 eller 15 § placerats i kriminalvårdsanstalt, häkte eller polisarrest gäller häkteslagen (2010:611) i tillämpliga delar. Utlänningen ska, utöver vad som följer av nämnda lag, ges möjlighet att ha kontakt med personer utanför inrättningen och även i övrigt beviljas de lättnader och förmåner som kan medges med hänsyn till ordningen och säkerheten inom inrättningen.
+
+*Lag (2026:1427)*.
+
+#### 3 §
+
+En utlänning som hålls i förvar ska ges tillfälle till aktiviteter, förströelse, fysisk träning och vistelse utomhus. Ett barn som hålls i förvar ska erbjudas utbildning och ges möjlighet till lek och aktiviteter som är lämpliga för barnets ålder.
+
+En familj som hålls i förvar ska erbjudas eget boende.
+
+*Lag (2026:1425)*.
+
+#### 4 §
+
+En utlänning som hålls i förvar ska ges möjlighet att ta emot besök och på annat sätt ha kontakt med personer utanför lokalen om inte besöket eller kontakten i ett särskilt fall skulle försvåra den verksamhet som rör förvaret.
+
+Om det är nödvändigt för att upprätthålla säkerheten, får ett besök kontrolleras genom att
+
+1. personal övervakar besöket, eller
+
+2. besöket äger rum i ett besöksrum som är utformat så att det omöjliggör att föremål överlämnas.
+
+Ett besök av ett offentligt biträde eller en advokat får kontrolleras endast om biträdet eller advokaten själv begär det.
+
+Migrationsverket får besluta om besöksbegränsningar om det är nödvändigt med hänsyn till risken för överförande av smitta. Ett sådant beslut kan vara generellt eller avse en viss person eller vissa personer. *Lag (2026:1425)*.
+
+#### 4 a §
+
+Om det är nödvändigt för att upprätthålla säkerheten får Migrationsverket besluta att alla personer som passerar in i förvarslokalen, utom de förvarstagna, ska kroppsvisiteras (allmän inpasseringskontroll). Syftet med kontrollen ska vara att söka efter föremål som en utlänning som hålls i förvar inte får inneha enligt 8 § eller enligt narkotikastrafflagen (1968:64). Skriftliga meddelanden får inte granskas.
+
+En kroppsvisitation ska ske genom användande av metalldetektor eller andra hjälpmedel eller, om det finns särskilda skäl, på annat sätt. När en kroppsvisitation sker på annat sätt gäller 9 § tredje stycket.
+
+Ett beslut om allmän inpasseringskontroll får gälla i högst tre månader. Migrationsverket får i beslutet bestämma att en eller flera personkategorier ska undantas från kontrollen.
+
+*Lag (2025:793)*.
+
+#### 4 b §
+
+Migrationsverket får bevilja en utlänning som hålls i förvar tillstånd att vistas utanför förvarslokalerna en viss kort tid om det finns synnerligen ömmande skäl. Vid bedömningen av om ett sådant tillstånd bör ges ska hänsyn tas till risken för att utlänningen avviker, begår brott eller på annat sätt missköter sig.
+
+Om det är Polismyndigheten eller Säkerhetspolisen som har fattat förvarsbeslutet, ska den myndighet som fattat beslutet ges tillfälle att yttra sig innan Migrationsverket prövar frågan om tillstånd.
+
+Utlänningen ska bevakas under den tid som han eller hon befinner sig utanför förvarslokalerna. *Lag (2026:1425)*.
+
+#### 5 §
+
+En utlänning som hålls i förvar ska ha tillgång till hälso- och sjukvård i samma omfattning som den som ansökt om internationellt skydd även om utlänningen inte har ansökt om sådant skydd.
+
+Om en utlänning som hålls i förvar behöver sjukhusvård under förvarstiden, ska han eller hon ges tillfälle till sådan vård.
+
+Verksamhetschefen för den sjukhusenhet där en utlänning vårdas ska se till att Migrationsverket eller den som förestår den lokal där utlänningen ska vistas genast underrättas, om utlänningen önskar lämna eller redan har lämnat sjukhuset. *Lag (2026:1142)*.
+
+#### 6 §
+
+En utlänning som hålls i förvar får hindras att lämna lokalen där han eller hon vistas, och i övrigt underkastas den begränsning av rörelsefriheten som krävs för att ändamålet med att utlänningen tagits i förvar skall tillgodoses eller som är nödvändig för ordningen och säkerheten i lokalen.
+
+En utlännings rörelsefrihet får också begränsas, om han eller hon utgör en allvarlig fara för sig själv eller andra.
+
+#### 7 §
+
+En utlänning som hålls i förvar och har fyllt 18 år får hållas avskild från andra som tagits i förvar, om det är nödvändigt för ordningen och säkerheten i lokalen eller om han eller hon utgör en allvarlig fara för sig själv eller andra.
+
+Beslut om att hålla någon avskild fattas av Migrationsverket.
+
+Beslutet skall omprövas så ofta det finns anledning till det, dock minst var tredje dag.
+
+En utlänning som hålls avskild därför att han eller hon utgör en fara för sig själv skall undersökas av läkare så snart som möjligt.
+
+#### 7 a §
+
+En utlänning som hålls i förvar och har fyllt 18 år får beläggas med fängsel
+
+1. vid förflyttning inom förvarslokalerna och vid transport eller annan vistelse utanför förvarslokalerna, om det är motiverat av säkerhetsskäl, eller
+
+2. om utlänningen är placerad på en säkerhetsavdelning och uppträder våldsamt och det är nödvändigt med hänsyn till utlänningens eller någon annans säkerhet.
+
+En läkare ska så snart som möjligt undersöka en utlänning som har belagts med fängsel enligt första stycket 2.
+
+*Lag (2026:1425)*.
+
+#### 7 b §
+
+Utlänningar som är placerade på en säkerhetsavdelning får hållas avskilda från varandra i anslutning till dygnsvilan. *Lag (2026:1425)*.
+
+#### 8 §
+
+En utlänning som hålls i förvar får inte utan tillstånd inneha alkoholhaltiga drycker eller andra berusningsmedel eller något annat som kan skada någon eller vara till men för ordningen eller säkerheten. *Lag (2025:793)*.
+
+#### 9 §
+
+Om det behövs för att upprätthålla ordningen eller säkerheten, får en utlänning som hålls i förvar kroppsvisiteras vid ankomst till förvarslokalen för kontroll av att utlänningen inte bär på sig något som han eller hon inte får inneha enligt 8 § eller enligt narkotikastrafflagen (1968:64).
+
+Om det kan misstänkas att en utlänning som hålls i förvar bär på sig något som han eller hon inte får inneha enligt 8 § eller enligt narkotikastrafflagen, får utlänningen kroppsvisiteras i andra fall än vid ankomst, för kontroll av detta.
+
+Vid kroppsvisitation gäller vad som föreskrivs i 9 kap. 2 § tredje och fjärde styckena. Vid kroppsvisitation av ett barn ska dock alltid ett vittne närvara om inte barnet motsätter sig detta. *Lag (2025:793)*.
+
+#### 9 a §
+
+Om det behövs för att upprätthålla ordningen eller säkerheten, får Migrationsverket besluta att en säkerhetskontroll av de förvarstagna ska genomföras med metalldetektor eller andra hjälpmedel i en förvarslokal. En säkerhetskontroll får endast genomföras för att söka efter föremål som en utlänning som hålls i förvar inte får inneha enligt 8 § eller enligt narkotikastrafflagen (1968:64).
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om i vilka situationer en säkerhetskontroll får genomföras. *Lag (2025:793)*.
+
+#### 9 b §
+
+Om det behövs för att upprätthålla ordningen eller säkerheten, får bostadsrum och andra slutna förvaringsställen som en utlänning som hålls i förvar disponerar undersökas (rumsvisitation). En rumsvisitation får endast utföras för att söka efter föremål som utlänningen inte får inneha enligt 8 § eller enligt narkotikastrafflagen (1968:64).
+
+En rumsvisitation ska om möjligt genomföras i närvaro av ett vittne. All den hänsyn som omständigheterna medger ska iakttas. *Lag (2025:793)*.
+
+#### 10 §
+
+En utlänning som hålls i förvar får inte ta emot en försändelse utan att den först har undersökts, om det kan misstänkas att den innehåller något som utlänningen inte får inneha enligt 8 § eller enligt narkotikastrafflagen (1968:64).
+
+Om en utlänning inte medger att försändelsen öppnas i hans eller hennes närvaro, ska försändelsen tas om hand för utlänningens räkning, men den får inte öppnas.
+
+En undersökning får inte avse det skriftliga innehållet i brev eller andra handlingar. Försändelser från offentliga biträden, advokater, Förenta nationernas flyktingkommissarie eller internationella organ som har behörighet att pröva klagomål från enskilda får aldrig undersökas. *Lag (2025:793)*.
+
+#### 11 §
+
+Om egendom som inte får innehas enligt 8 § eller enligt narkotikastrafflagen (1968:64) påträffas i en lokal där en utlänning hålls i förvar eller hos en utlänning som hålls i förvar, får egendomen tas om hand.
+
+Kan det antas att en utlänning genom att inneha eller ta emot sådan egendom gjort sig skyldig till brott eller om det inte finns någon känd ägare till egendomen, ska den skyndsamt överlämnas till Polismyndigheten.
+
+I annat fall ska egendomen tas om hand för utlänningens räkning. *Lag (2014:655)*.
+
+#### 12 §
+
+Egendom som har tagits om hand enligt 10 § andra stycket eller 11 § tredje stycket skall återlämnas till utlänningen när beslutet om att hålla utlänningen i förvar har upphört att gälla.
+
+#### 13 §
+
+En utlänning som hålls i förvar har rätt att få sådan dagersättning och sådant särskilt bidrag som avses i 6 kap. 1 § mottagandelagen (2026:999). *Lag (2026:1005)*.
+
+## 12 kap. Verkställighet av beslut om avvisning och utvisning
+
+### Hinder mot att verkställa avvisning och utvisning
+
+#### 1 §
+
+Avvisning och utvisning av en utlänning får aldrig verkställas till ett land om det finns skälig anledning att anta att
+
+- utlänningen där skulle vara i fara att straffas med döden eller att utsättas för kroppsstraff, tortyr eller annan omänsklig eller förnedrande behandling eller bestraffning, eller
+
+- utlänningen inte är skyddad i det landet mot att sändas vidare till ett land där utlänningen skulle vara i sådan fara.
+
+#### 2 §
+
+Avvisning och utvisning av en utlänning får inte verkställas till ett land
+
+- om utlänningen riskerar att utsättas för förföljelse i det landet, eller
+
+- om utlänningen inte är skyddad i det landet mot att sändas vidare till ett land där utlänningen löper risk för förföljelse.
+
+En utlänning får dock sändas till ett sådant land, om det inte är möjligt att verkställa avvisningen eller utvisningen till något annat land och utlänningen genom ett synnerligen allvarligt brott har visat att det skulle vara förenat med allvarlig fara för allmän ordning eller säkerhet att låta ut- länningen stanna i Sverige. Detta gäller dock inte om den förföljelse som hotar i det andra landet innebär fara för utlänningens liv eller annars är av särskilt svår art.
+
+Likaså får en utlänning sändas till ett sådant land, om utlänningen har bedrivit verksamhet som inneburit fara för Sveriges säkerhet och det finns anledning att anta att utlänningen skulle fortsätta verksamheten här i landet och det inte är möjligt att sända utlänningen till något annat land.
+
+*Lag (2026:1259)*.
+
+#### 3 §
+
+Ett beslut om avvisning eller utvisning av en utlänning som avses i artiklarna 3.6 och 15 c i skyddsgrundsförordningen får inte verkställas till utlänningens hemland eller till ett land där han eller hon riskerar att sändas vidare till hemlandet, om det finns synnerliga skäl mot det. *Lag (2026:1142)*.
+
+#### 3 a §
+
+Ett beslut om avvisning eller utvisning av ett ensamkommande barn får inte verkställas om inte den verkställande myndigheten har försäkrat sig om att barnet kommer att tas emot av en familjemedlem, en utsedd förmyndare eller en mottagningsenhet väl lämpad för att ta hand om barn.
+
+*Lag (2012:129)*.
+
+### Vart avvisning eller utvisning får verkställas
+
+#### 4 §
+
+Ett beslut om avvisning eller utvisning som meddelas av Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen ska verkställas genom att utlänningen sänds till det land eller, om flera länder angetts, något av de länder som anges i beslutet.
+
+Ett beslut om avvisning som meddelas av Polismyndigheten samt allmän domstols beslut om utvisning på grund av brott ska verkställas genom att utlänningen sänds till sitt hemland eller, om möjligt, till det land från vilket utlänningen kom till Sverige. Om verkställighet inte kan genomföras till något av dessa länder får en utlänning i stället sändas till ett land som utlänningen har anknytning till. För en utlänning som har internationellt skydd i en annan EU-stat får verkställighet endast ske till den staten, om utlänningen har ställning som varaktigt bosatt i Sverige eller ett EU-blåkort utfärdat av Sverige.
+
+En utlänning som ska avvisas eller utvisas får alltid sändas till ett land som utlänningen visar att mottagande kan ske i.
+
+*Lag (2024:1220)*.
+
+#### 5 §
+
+En utlänning som har kommit till Sverige med ett fartyg eller ett luftfartyg och som avvisats därför att han eller hon saknar pass eller de tillstånd som krävs för att resa in i landet eller medel för sin hemresa, får föras tillbaka till fartyget eller luftfartyget eller sättas ombord på annat sådant med samma ägare eller brukare (transportören). Om det är nödvändigt att bevakningspersonal följer med ska även den ges plats på fartyget eller luftfartyget.
+
+Vägrar befälhavaren på fartyget eller luftfartyget att ta emot utlänningen eller bevakningspersonalen, får Polismyndigheten förelägga befälhavaren vite.
+
+Första stycket gäller inte om fartyget eller luftfartyget kommit till Sverige direkt från en Schengenstat eller ska avgå till ett land dit utlänningen inte får sändas enligt 1, 2 eller 3 §. *Lag (2014:655)*.
+
+### Verkställighet av beslut som inte vunnit laga kraft
+
+#### 6 §
+
+Polismyndighetens beslut om avvisning får verkställas även om det har överklagats. Detsamma gäller för Migrationsverkets beslut enligt 8 kap. 17 § första stycket 3 eller andra stycket. *Lag (2016:1243)*.
+
+#### 7 §
+
+Migrationsverkets beslut om avvisning enligt 8 kap. 17 § första stycket 1 eller utvisning får verkställas även om beslutet inte har fått laga kraft, om
+
+1. utlänningen har förklarat sig nöjd med beslutet (nöjdförklaring), eller
+
+2. Migrationsverket enligt 8 kap. 19 § har beslutat att verkets beslut om avvisning får verkställas trots att det inte fått laga kraft. *Lag (2026:1142)*.
+
+#### 8 §
+
+En allmän domstols beslut om utvisning på grund av brott får verkställas, om utlänningen har avgett nöjdförklaring och åklagaren medger att beslutet får verkställas. *Lag (2009:1542)*.
+
+### Verkställighet av beslut om avvisning, utvisning och återvändande i ärenden om internationellt skydd
+
+#### 8 a §
+
+Ett beslut om avvisning eller utvisning enligt 8 kap. 16 a § andra stycket får verkställas även om det inte har fått laga kraft. Bestämmelser om när andra beslut om avvisning, utvisning eller återvändande i ärenden om internationellt skydd får verkställas finns i artikel 68.1-68.3 i asylprocedurförordningen.
+
+Bestämmelser om när en migrationsdomstol eller Migrationsöverdomstolen, i samband med att domstolen prövar en fråga om internationellt skydd, får tillåta en utlänning att stanna kvar i Sverige, finns i artikel 68.4 och 68.7 i asylprocedurförordningen.
+
+En begäran om tillåtelse att stanna kvar i Sverige i enlighet med artikel 68.5 a i asylprocedurförordningen ska ha kommit in till migrationsdomstolen inom en vecka från den dag då utlänningen fick del av beslutet.
+
+Om en begäran om tillåtelse att stanna kvar i Sverige har lämnats in i enlighet med artikel 68.4 och 68.5 i asylprocedurförordningen, inom ramen för ett gränsförfarande för asyl, ska begäran prövas inom en vecka från den dag då begäran kom in till migrationsdomstolen. *Lag (2026:1142)*.
+
+### Avvisning och utvisning vid utlämning eller överlämnande
+
+#### 8 b §
+
+Om det har inletts ett förfarande för att en utlänning ska utlämnas eller överlämnas till en annan stat eller till en internationell domstol eller tribunal för att lagföras eller avtjäna en frihetsberövande påföljd, får ett beslut om att avvisa eller utvisa utlänningen inte verkställas förrän förfarandet för utlämning eller överlämnande har avslutats genom ett beslut som har fått laga kraft och som innebär att utlänningen inte ska utlämnas eller överlämnas.
+
+*Lag (2026:1339)*.
+
+### Avvisning och utvisning av en utlänning som är misstänkt för brott eller har dömts till fängelse
+
+#### 9 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Ett beslut om att avvisa eller utvisa en utlänning får inte verkställas förrän utlänningen har avtjänat ett fängelsestraff som han eller hon har dömts till eller verkställigheten av fängelsestraffet har flyttats över till ett annat land.
+
+Om allmänt åtal har väckts mot utlänningen, får ett beslut om avvisning eller utvisning inte verkställas förrän åtalet har prövats slutligt eller åtalet har lagts ned.
+
+Om en förundersökning har inletts mot en utlänning om brott för vilket fängelse är föreskrivet, får ett beslut om att avvisa eller utvisa utlänningen inte verkställas förrän förundersökningen har lagts ned eller avslutats utan att allmänt åtal har väckts. *Lag (2026:1339)*.
+
+#### 9 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Ett beslut om att avvisa eller utvisa en utlänning får inte verkställas förrän utlänningen har avtjänat ett ovillkorligt fängelsestraff som han eller hon har dömts till eller verkställigheten av fängelsestraffet har flyttats över till ett annat land.
+
+Om allmänt åtal har väckts mot utlänningen, får ett beslut om avvisning eller utvisning inte verkställas förrän åtalet har prövats slutligt eller åtalet har lagts ned.
+
+Om en förundersökning har inletts mot en utlänning om brott för vilket fängelse är föreskrivet, får ett beslut om att avvisa eller utvisa utlänningen inte verkställas förrän förundersökningen har lagts ned eller avslutats utan att allmänt åtal har väckts. *Lag (2026:1672)*.
+
+### Verkställighet av ett beslut om överföring enligt asyl- och migrationshanteringsförordningen
+
+#### 9 a §
+
+Om en utlänning har överklagat ett beslut som Migrationsverket eller Polismyndigheten har fattat om överföring enligt asyl- och migrationshanteringsförordningen, och inom överklagandetiden har yrkat inhibition av beslutet, får beslutet inte verkställas innan en migrationsdomstol har prövat frågan om inhibition. Detta gäller endast första gången utlänningen yrkar inhibition. Ett beslut att avslå ett sådant yrkande om inhibition ska vara motiverat. *Lag (2026:1142)*.
+
+### Inhibition
+
+#### 10 §
+
+När Migrationsverket omprövar ett avvisningsbeslut ska verket pröva om inhibition ska beslutas. *Lag (2016:1243)*.
+
+#### 11 §
+
+När en migrationsdomstol eller Migrationsöverdomstolen prövar en fråga om uppehållstillstånd för den som av allmän domstol har utvisats på grund av brott eller om upphävande av ett sådant utvisningsbeslut, får domstolen besluta om inhibition av utvisningsbeslutet. *Lag (2013:648)*.
+
+#### 12 §
+
+Om ett internationellt organ, som har behörighet att pröva klagomål från enskilda, riktar en begäran till Sverige om att verkställigheten av ett beslut om avvisning eller utvisning skall avbrytas, skall inhibition meddelas, om inte synnerliga skäl talar mot detta.
+
+#### 12 a §
+
+Om en utlänning har ansökt om tidsbegränsat uppehållstillstånd enligt 5 kap. 15 d §, får Migrationsverket besluta om inhibition av ett beslut att avvisa eller utvisa utlänningen. *Lag (2025:225)*.
+
+#### 12 b §
+
+Om en förundersökningsledare eller en socialnämnd har ansökt om tidsbegränsat uppehållstillstånd enligt 5 kap. 15 §, får Migrationsverket besluta om inhibition av ett beslut att avvisa eller utvisa den utlänning som ansökan avser.
+
+*Lag (2022:1015)*.
+
+#### 12 c §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1687)*./ Om en utlänning som avses i 5 kap. 18 b §, 5 b kap. 15 a § eller 6 a kap. 4 b § har ansökt om uppehållstillstånd får Migrationsverket eller, om ett beslut om ett sådant uppehållstillstånd har överklagats, en migra- tionsdomstol eller Migrationsöverdomstolen besluta om inhibition av ett beslut om att utvisa utlänningen.
+
+*Lag (2026:1686)*.
+
+#### 13 §
+
+Om det i andra fall finns särskilda skäl till det, får Migrationsverket besluta om inhibition.
+
+Bestämmelser om inhibition finns också i 8 a, 9 a, 16 a, 18-19 a och 20 §§. *Lag (2017:523)*.
+
+#### 13 a §
+
+Om en EES-medborgare eller hans eller hennes familjemedlem efter inresan i Sverige har överklagat Polismyndighetens beslut om avvisning eller Migrationsverkets beslut om avvisning eller utvisning och i samband med överklagandet yrkat inhibition av beslutet, får beslutet inte verkställas innan frågan om inhibition har prövats.
+
+Detsamma gäller vid avvisning eller utvisning av en utlänning som har beviljats uppehållsstatus i Sverige eller i övrigt utövar rättigheter enligt avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU.
+
+*Lag (2020:939)*.
+
+### Förbud mot verkställighet när tidsbegränsat uppehållstillstånd har meddelats
+
+#### 13 b §
+
+Om Migrationsverket har beviljat ett tidsbegränsat uppehållstillstånd enligt 5 kap. 15 eller 15 d §, får ett beslut om avvisning eller utvisning av utlänningen inte verkställas så länge uppehållstillståndet gäller.
+
+*Lag (2013:646)*.
+
+### Verkställande myndighet
+
+#### 14 §
+
+Migrationsverket ska verkställa beslut om avvisning eller utvisning om inte annat föreskrivs i denna paragraf eller i 14 a §.
+
+Säkerhetspolisen ska verkställa beslut om avvisning eller utvisning i ett säkerhetsärende. Migrationsverket eller den domstol som avgör ärendet får dock i beslutet om avvisning eller utvisning, på begäran av Säkerhetspolisen, bestämma att en annan myndighet ska sköta verkställigheten. Säkerhetspolisen ska inte verkställa beslut om avvisning eller utvisning av en utlänning i ett säkerhetsärende om en allmän domstol har beslutat om utvisning av samma utlänning på grund av brott.
+
+Polismyndigheten ska verkställa
+
+1. sina beslut om avvisning,
+
+2. en allmän domstols beslut om utvisning på grund av brott, och
+
+3. beslut om avvisning eller utvisning som ska verkställas på nytt enligt 23 § första stycket. *Lag (2024:28)*.
+
+#### 14 a §
+
+Migrationsverket får lämna över ett avvisnings- eller utvisningsärende för verkställighet till Polismyndigheten, om den som ska avvisas eller utvisas håller sig undan och inte kan anträffas utan myndighetens medverkan eller om det kan antas att tvång kommer att behövas för att verkställa beslutet. Ett sådant överlämnande får ske även om det finns ett beslut om inhibition av verkställigheten enligt 17 a § första stycket, om Polismyndigheten samtycker till det.
+
+Polismyndigheten får återlämna ett ärende enligt första stycket, eller överlämna ett ärende enligt 14 § tredje stycket 3, till Migrationsverket om verket samtycker till det.
+
+Ett ärende enligt 14 § tredje stycket 3 får dock inte överlämnas till Migrationsverket om utlänningen är eller har varit föremål för prövning i ett säkerhetsärende.
+
+Polismyndigheten får överlämna ett ärende enligt 14 § tredje stycket 2 eller 3 till Säkerhetspolisen, om Säkerhetspolisen begär det och utlänningen är eller har varit föremål för prövning i ett säkerhetsärende. *Lag (2026:385)*.
+
+### Att upphäva ett beslut om tidsfrist för frivillig avresa
+
+#### 14 b §
+
+Den myndighet som enligt 14 § är ansvarig för verkställigheten av ett beslut om avvisning eller utvisning får upphäva ett beslut om tidsfrist för frivillig avresa, om det under tidsfristen uppstår en risk för att utlänningen avviker eller utlänningen utgör en risk för allmän ordning eller säkerhet.
+
+Ett beslut att upphäva ett beslut om tidsfrist för frivillig avresa ska förenas med ett återreseförbud, om inte särskilda skäl hänförliga till utlänningens personliga förhållanden talar emot att ett sådant förbud meddelas. Återreseförbudet ska bestämmas till högst fem år. Utgör utlänningen ett allvarligt hot mot allmän ordning eller säkerhet får dock en längre tidsperiod bestämmas.
+
+Ett beslut att upphäva ett beslut om tidsfrist för frivillig avresa gäller omedelbart. *Lag (2026:1221)*.
+
+### Att förlänga en tidsfrist för frivillig avresa
+
+#### 14 c §
+
+Om det av särskilda skäl finns behov av en längre tidsfrist för frivillig avresa får Migrationsverket eller Polismyndigheten förlänga tidsfristen eller bestämma en ny tidsfrist efter att tidsfristen löpt ut. *Lag (2024:28)*.
+
+### När ett beslut om avvisning eller utvisning skall verkställas
+
+#### 15 §
+
+Ett beslut om avvisning eller utvisning som inte innehåller någon tidsfrist för frivillig avresa ska verkställas snarast möjligt.
+
+Om ett beslut om avvisning eller utvisning innehåller en tidsfrist för frivillig avresa ska utlänningen lämna landet i enlighet med beslutet senast när tidsfristen löper ut. Om utlänningen inte lämnat landet i enlighet med beslutet när tidsfristen löpt ut eller om beslutet om tidsfrist för frivillig avresa dessförinnan upphävts enligt 14 b §, ska beslutet om avvisning eller utvisning verkställas snarast möjligt därefter.
+
+Verkställighet av beslut om avvisning eller utvisning av en EES-medborgare eller hans eller hennes familjemedlem som har rest in i Sverige får ske tidigast fyra veckor från den dag EES-medborgaren eller familjemedlemmen fick del av beslutet, om det inte finns synnerliga skäl för att verkställa beslutet.
+
+Det som anges i tredje stycket gäller även vid avvisning eller utvisning av en utlänning som har beviljats uppehållsstatus i Sverige eller i övrigt utövar rättigheter enligt avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU. *Lag (2024:28)*.
+
+#### 15 a §
+
+Om en utlänning inte har lämnat landet i enlighet med beslutet om avvisning eller utvisning när en tidsfrist för frivillig avresa löpt ut ska den myndighet som meddelat tidsfristen meddela ett återreseförbud. Återreseförbudet ska bestämmas till högst fem år. Om utlänningen utgör ett allvarligt hot mot allmän ordning eller säkerhet får dock en längre tidsperiod bestämmas.
+
+Ett återreseförbud enligt första stycket får dock inte meddelas om beslutet om avvisning eller utvisning inte får verkställas på grund av ett beslut om inhibition, en ansökan om uppehållstillstånd eller en ansökan om ny prövning eller om särskilda skäl talar mot att ett sådant förbud meddelas.
+
+*Lag (2026:1221)*.
+
+### När ett återreseförbud börjar löpa
+
+#### 15 b §
+
+Ett återreseförbud enligt 14 b § andra stycket, 15 a §, 8 kap. 23 § eller 27 § andra stycket börjar löpa den dag utlänningen lämnar medlemsstaternas territorium eller, om beslutet om avvisning eller utvisning ska verkställas till en medlemsstat, den dag utlänningen lämnar Sverige.
+
+Med medlemsstater avses de stater i vilka Europaparlamentets och rådets direktiv 2008/115/EG av den 16 december 2008 om gemensamma normer och förfaranden för återvändande av tredjelandsmedborgare som vistas olagligt i medlemsstaterna är tillämpligt. *Lag (2025:225)*.
+
+### Upphävande av beslut om avvisning och utvisning i vissa fall
+
+#### 16 §
+
+Om Migrationsverket efter omprövning beviljar en utlänning tidsbegränsat uppehållstillstånd, får verket samtidigt upphäva ett av verket fattat beslut om avvisning eller utvisning.
+
+Om Migrationsverket, en migrationsdomstol eller Migrations- överdomstolen beviljar en utlänning uppehållstillstånd får samtidigt ett beslut om avvisning eller utvisning som inte har meddelats av allmän domstol upphävas, om utlänningen har beviljats internationellt skydd eller ställning som varaktigt bosatt i Sverige.
+
+Om Migrationsverket beviljar ett tidsbegränsat uppehållstillstånd utan att upphäva beslutet om avvisning eller utvisning, får beslutet om avvisning eller utvisning inte verkställas medan tillståndet gäller. Motsvarande gäller om en migrationsdomstol eller Migrationsöverdomstolen i ett överklagat ärende beviljar ett tidsbegränsat uppehållstillstånd utan att upphäva beslutet om avvisning eller utvisning.
+
+I 5 kap. 20 § föreskrivs att Migrationsverket inte får bevilja uppehållstillstånd för den som av allmän domstol har utvisats på grund av brott. *Lag (2026:1142)*.
+
+#### 16 a §
+
+En utlänning som av allmän domstol har utvisats på grund av brott får hos Migrationsverket ansöka om upphävande av utvisningsbeslutet efter det att beslutet vunnit laga kraft. I ett sådant ärende får Migrationsverket besluta om inhibition av utvisningsbeslutet.
+
+Om ansökan görs under utlänningens vistelse i Sverige, ska Migrationsverket besluta att ta upp ansökan till prövning endast om utlänningen åberopar sådana omständigheter som kan antas utgöra ett bestående sådant hinder mot verkställigheten som avses i 1, 2 eller 3 § och dessa omständigheter inte kunnat åberopas av utlänningen tidigare, eller utlänningen visar giltig ursäkt för att inte ha åberopat omständigheterna tidigare.
+
+Är förutsättningarna för prövning av en sådan ansökan som avses i andra stycket inte uppfyllda, ska Migrationsverket besluta att inte bevilja prövning.
+
+Migrationsverket får inte upphäva en allmän domstols beslut om utvisning på grund av brott. Om Migrationsverket finner att en ansökan bör beviljas enligt 16 d §, ska verket inte besluta i ärendet utan med ett eget yttrande lämna över detta till den migrationsdomstol till vilken verkets beslut i frågan hade kunnat överklagas. *Lag (2013:648)*.
+
+#### 16 b §
+
+I fråga om den som av allmän domstol har utvisats på grund av brott får, om det finns ett bestående hinder mot att beslutet om utvisning verkställs, en migrationsdomstol eller Migrationsöverdomstolen, efter Migrationsverkets ställningstagande i ärendet, bevilja uppehållstillstånd och arbetstillstånd. Detta gäller om det
+
+1. finns hinder enligt 1, 2 eller 3 § mot att utvisningsbeslutet verkställs,
+
+2. finns anledning att anta att det avsedda mottagarlandet inte kommer att vara villigt att ta emot utlänningen, eller
+
+3. finns medicinska hinder.
+
+Uppehållstillstånd och arbetstillstånd får också beviljas om det finns synnerliga skäl. Vid bedömningen av om det finns synnerliga skäl ska följande särskilt beaktas:
+
+- brottslighetens art och omfattning,
+
+- den tid som har förflutit sedan utvisningsbeslutet meddelades,
+
+- utlänningens skötsamhet och risken för fortsatt brottslighet, och
+
+- utlänningens hälsotillstånd och levnadsförhållanden i övrigt.
+
+Om ett internationellt organ, som har behörighet att pröva klagomål från enskilda, funnit att en allmän domstols beslut om utvisning på grund av brott i ett enskilt ärende strider mot ett svenskt konventionsåtagande gäller även det som anges i 5 kap. 4 §. *Lag (2026:1142)*.
+
+#### 16 c §
+
+Ett uppehållstillstånd som beviljas enligt 16 b § ska vara tidsbegränsat. Utvisningsbeslutet får inte verkställas medan ett tidsbegränsat tillstånd gäller. *Lag (2026:1142)*.
+
+#### 16 d §
+
+I fråga om den som av allmän domstol har utvisats på grund av brott får en migrationsdomstol eller Migrationsöverdomstolen, efter Migrationsverkets ställningstagande i ärendet, upphäva utvisningsbeslutet helt eller delvis om sådana förutsättningar som anges i 16 b § första och andra styckena är uppfyllda. *Lag (2013:648)*.
+
+#### 16 e §
+
+I fråga om den som av allmän domstol har utvisats på grund av brott ska, om det finns ett hinder som inte är bestående mot att beslutet om utvisning verkställs, en migrationsdomstol eller Migrationsöverdomstolen, efter Migrationsverkets ställningstagande i ärendet, besluta om inhibition av verkställigheten.
+
+Om det finns synnerliga skäl får utlänningen i stället beviljas tidsbegränsat uppehållstillstånd och arbetstillstånd. Uppehållstillståndet ska gälla i högst sex månader. Utvisningsbeslutet får inte verkställas medan ett uppehållstillstånd gäller. *Lag (2026:385)*.
+
+#### 16 f §
+
+Ett beslut om inhibition av verkställigheten som har meddelats enligt 16 e § första stycket ska prövas på nytt av en migrationsdomstol enligt 16 e § inom ett år från beslutet.
+
+Migrationsverket ska senast en månad innan den tidsfrist som anges i första stycket löper ut, med ett eget yttrande, överlämna ärendet till migrationsdomstolen för en ny prövning.
+
+Så länge ett sådant beslut gäller ska en ny prövning av beslutet fortlöpande göras inom samma tid. *Lag (2026:385)*.
+
+#### 16 g §
+
+Om en utlänning har beviljats ett tidsbegränsat uppehållstillstånd enligt 16 e § andra stycket ska, när tillståndet löper ut, en ny prövning göras av en migrationsdomstol enligt 16 e §.
+
+Migrationsverket ska senast en månad innan tillståndet löper ut, med ett eget yttrande, överlämna ärendet till migrationsdomstolen för en ny prövning. *Lag (2026:385)*.
+
+### Åtgärder vid hinder mot verkställighet
+
+#### 17 §
+
+Om en annan myndighet än Migrationsverket ska verkställa ett beslut om avvisning eller utvisning ska myndigheten underrätta Migrationsverket, om
+
+1. myndigheten finner att den inte kan verkställa beslutet eller att den behöver ytterligare besked,
+
+2. utlänningen hos myndigheten åberopar att det finns sådana hinder som avses i 1, 2 eller 3 § mot verkställigheten eller det på annat sätt kommer fram att det kan finnas sådana hinder, eller
+
+3. en utlänning som av allmän domstol har utvisats på grund av brott åberopar att han eller hon, av andra skäl än som anges i 2, på grund av bestämmelserna i detta kapitel inte kan sändas till ett visst land eller att det annars finns särskilda hinder mot att beslutet verkställs eller det på annat sätt kommer fram att det kan finnas sådana hinder.
+
+Migrationsverket ska i sådana fall ge anvisningar om verkställigheten eller vidta andra åtgärder.
+
+Om en allmän domstols beslut om utvisning på grund av brott av en EES-medborgare eller en sådan medborgares familjemedlem ska verkställas mer än två år efter det att avgörandet meddelades, ska Polismyndigheten innan beslutet verkställs utreda om de omständigheter som låg till grund för beslutet har ändrats. Om det vid utredningen kommer fram att omständigheterna har ändrats på ett sådant sätt att utvisningsbeslutet inte längre bör gälla, ska ärendet lämnas över till Migrationsverket som med ett eget yttrande ska lämna över ärendet för prövning enligt 16 d § till den migrationsdomstol till vilken verkets beslut i fråga om upphävande av utvisningsbeslutet hade kunnat överklagas. Utvisningsbeslutet får i sådant fall inte verkställas innan migrationsdomstolen har avgjort ärendet.
+
+Det som anges i tredje stycket gäller även efter beslut om utvisning på grund av brott av en utlänning som har beviljats uppehållsstatus i Sverige eller i övrigt utövar rättigheter enligt avdelning II i andra delen av utträdesavtalet mellan Förenade kungariket och EU. *Lag (2026:1259)*.
+
+#### 17 a §
+
+Om det finns ett hinder, som inte är bestående, mot att ett avvisnings- eller utvisningsbeslut verkställs ska Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen, besluta om inhibition av verkställig- heten, om
+
+1. utlänningen förekommer i ett säkerhetsärende enligt 1 kap. 7 §,
+
+2. utlänningen är utesluten från att anses som flykting eller subsidiärt skyddsbehövande,
+
+3. utlänningen har vägrats flyktingstatus enligt artikel 14.2 skyddsgrundsförordningen,
+
+4. utlänningen utgör ett hot mot allmän ordning eller säkerhet, eller
+
+5. det i övrigt finns särskilda omständigheter hänförliga till utlänningens levnadssätt som motiverar det.
+
+Om det finns synnerliga skäl får utlänningen i stället beviljas ett tidsbegränsat uppehållstillstånd. Uppehållstillståndet ska gälla i högst ett år.
+
+*Lag (2026:1142)*.
+
+#### 17 b §
+
+Migrationsverket ska pröva ett beslut om inhibition av verkställigheten som har meddelats enligt 17 a § första stycket på nytt enligt 17 a § inom ett år från det att beslutet om avvisning eller utvisning fick laga kraft eller, om beslutet om inhibition av verkställigheten har meddelats vid en senare tidpunkt, inom ett år från den dag då beslutet om inhibition av verkställigheten meddelades.
+
+Så länge ett beslut om inhibition av verkställigheten gäller, ska Migrationsverket fortlöpande pröva beslutet på nytt senast inom ett år från den dag då det senaste beslutet om inhibition av verkställigheten meddelades. *Lag (2026:385)*.
+
+#### 17 c §
+
+Om en utlänning har beviljats ett tidsbegränsat uppehållstillstånd enligt 17 a § andra stycket ska Migrationsverket, när tillståndet löper ut, göra en ny prövning enligt 17 a §. *Lag (2026:385)*.
+
+#### 17 d §
+
+Migrationsverket ska omedelbart upphäva ett beslut om inhibition av verkställigheten som har meddelats enligt 16 e § första stycket eller 17 a § första stycket, om det inte längre finns skäl för beslutet.
+
+Ett beslut enligt första stycket gäller omedelbart. *Lag (2026:385)*.
+
+#### 17 e §
+
+Om någon annan myndighet än Migrationsverket är verkställande myndighet ska den myndigheten, så länge ett beslut om inhibition av verkställigheten som har meddelats enligt 16 e § första stycket eller 17 a § första stycket gäller, omedelbart underrätta Migrationsverket om det finns skäl att upphäva beslutet. *Lag (2026:385)*.
+
+#### 18 §
+
+Migrationsverket får bevilja uppehållstillstånd om det i ett ärende om verkställighet av ett beslut om avvisning eller utvisning som fått laga kraft kommer fram nya omständigheter som innebär att
+
+1. det finns ett hinder mot verkställighet enligt 1, 2 eller 3 §,
+
+2. det finns anledning att anta att det avsedda mottagarlandet inte kommer att vara villigt att ta emot utlänningen, eller
+
+3. det finns medicinska hinder eller någon annan särskild anledning att beslutet inte bör verkställas.
+
+Barn får beviljas uppehållstillstånd enligt första stycket 3 även om de omständigheter som kommer fram inte har samma allvar och tyngd som krävs för att tillstånd ska beviljas vuxna personer.
+
+Vid bedömningen enligt första stycket 3 av om det finns någon annan särskild anledning att ett beslut inte bör verkställas ska konsekvenserna för ett barn av att skiljas från sin förälder särskilt beaktas, om det står klart att uppehållstillstånd på grund av stark anknytning enligt 5 kap. 3 eller 3 a § eller någon av 3 d-3 f §§ skulle ha beviljats om prövningen gjorts före inresan i Sverige.
+
+Migrationsverket får också besluta om inhibition.
+
+Första stycket 1 gäller inte om nya omständigheter ska prövas inom ramen för en efterföljande ansökan enligt artikel 55 i asylprocedurförordningen.
+
+Första-fjärde styckena gäller inte för en utlänning som omfattas av bestämmelserna i 17 a §. *Lag (2026:1686)*.
+
+#### 18 a §
+
+Ett uppehållstillstånd som beviljas enligt 18 § första stycket för att det finns ett hinder mot verkställighet enligt 2 § ska vara tidsbegränsat och gälla i tre år om inte tvingande hänsyn till den nationella säkerheten eller den allmänna ordningen kräver en kortare giltighetstid. Giltighetstiden får dock inte vara kortare än ett år. Ett uppehållstillstånd som i andra fall beviljas enligt 18 § första stycket ska gälla i längst tretton månader.
+
+Varje nytt tidsbegränsat uppehållstillstånd som därefter beviljas ska gälla i ett år. *Lag (2026:1142)*.
+
+#### 19 §
+
+Har upphävts genom *lag (2026:1142)*.
+
+#### 19 a §
+
+Har upphävts genom *lag (2026:1142)*.
+
+#### 19 b §
+
+Om en utlänning som av allmän domstol har utvisats på grund av brott åberopar sådana omständigheter som kan antas utgöra ett bestående sådant hinder mot verkställigheten som avses i 1, 2 eller 3 § och dessa omständigheter inte kunnat åberopas av utlänningen tidigare, eller utlänningen visar giltig ursäkt för att inte ha åberopat omständigheterna tidigare, ska Migrationsverket ta upp frågan om uppehållstillstånd till prövning.
+
+Är förutsättningarna enligt första stycket inte uppfyllda, ska Migrationsverket besluta att inte bevilja prövning.
+
+Utvisningsbeslutet får inte verkställas innan Migrationsverket har avgjort frågan om prövning ska ske eller, om prövning beviljas, innan frågan om uppehållstillstånd har prövats i en instans och ansökan därvid avslagits.
+
+Första stycket gäller inte om utlänningen ansöker om internationellt skydd och en sådan ansökan inte tidigare har prövats genom ett beslut som fått laga kraft. I ett sådant fall ska Migrationsverket pröva ansökan. *Lag (2026:1142)*.
+
+#### 20 §
+
+Om det i ett ärende som avser en allmän domstols beslut om utvisning på grund av brott kommer fram sådana skäl som anges i 16 b eller 16 e §, ska Migrationsverket inte fatta beslut i ärendet utan med ett eget yttrande lämna över detta till den migrationsdomstol till vilken verkets beslut i fråga om uppehållstillstånd hade kunnat överklagas. I ett sådant ärende får Migrationsverket besluta om inhibition.
+
+*Lag (2026:385)*.
+
+### När ett beslut skall anses verkställt
+
+#### 21 §
+
+Ett beslut om avvisning eller utvisning ska anses verkställt, om utlänningen har lämnat landet.
+
+Första stycket gäller inte om utlänningen utlämnas, överlämnas eller överförs till en annan stat eller internationell domstol eller tribunal inom ett straffrättsligt förfarande med villkor om att utlänningen ska återföras. Det gäller inte heller om utlänningen överförs till en kriminalvårdsanstalt i en annan stat för att avtjäna ett fängelsestraff enligt lagen (2026:983) om tillfällig verkställighet av svenska fängelsestraff utomlands. *Lag (2026:988)*.
+
+### När ett beslut upphör att gälla
+
+#### 22 §
+
+Ett beslut om avvisning eller utvisning som inte har meddelats av allmän domstol upphör att gälla fem år från det att utlänningen har lämnat landet i enlighet med beslutet.
+
+Om ett beslut om avvisning eller utvisning som inte har meddelats av allmän domstol är förenat med ett återreseförbud som löper vid tidpunkten då beslutet skulle ha upphört att gälla enligt första stycket, upphör beslutet att gälla först när tiden för återreseförbudet löper ut.
+
+Ett beslut om utvisning som har meddelats av allmän domstol upphör alltid att gälla när tiden för återreseförbudet går ut.
+
+Om permanent uppehållstillstånd meddelas, upphör ett beslut om avvisning eller utvisning som inte har meddelats av allmän domstol att gälla. *Lag (2025:225)*.
+
+### Ny verkställighet av beslut som inte har upphört att gälla
+
+#### 23 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Har ett beslut om avvisning eller utvisning verkställts, och anträffas utlänningen därefter här i landet, ska beslutet verkställas på nytt, om det har fått laga kraft eller enligt 7 eller 8 § ändå får verkställas och om det inte har upphört att gälla enligt 22 §.
+
+Beslut om avvisning eller utvisning får dock inte verkställas om utlänningen
+
+1. återvänt med uppehållstillstånd eller visering,
+
+2. återvänt efter att ha fått särskilt tillstånd till ett kort besök här i landet enligt 8 kap. 25 § eller 8 a kap. 13 §, eller
+
+3. efter återkomsten beviljats ett tidsbegränsat uppehållstillstånd.
+
+Vad som sägs i andra stycket 1 gäller under giltighetstiden för tillståndet eller viseringen.
+
+Ett beslut om avvisning eller utvisning som inte är förenat med något gällande förbud att återvända får inte heller verkställas om utlänningen är undantagen från krav på visering eller uppehållstillstånd enligt 2 kap. 8 a första stycket eller 8 b § eller enligt föreskrifter som har meddelats med stöd av 2 kap. 9 §. *Lag (2022:1015)*.
+
+#### 23 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Har ett beslut om avvisning eller utvisning verkställts och anträffas utlänningen därefter här i landet, ska beslutet verkställas på nytt, om det har fått laga kraft eller enligt 7 eller 8 § ändå får verkställas och om det inte har upphört att gälla enligt 22 §.
+
+Beslut om avvisning eller utvisning får dock inte verkställas om utlänningen
+
+1. återvänt med uppehållstillstånd, visering eller resetillstånd,
+
+2. återvänt efter att ha fått särskilt tillstånd till ett kort besök här i landet enligt 8 kap. 25 § eller 8 a kap. 13 §, eller
+
+3. efter återkomsten beviljats ett tidsbegränsat uppehållstillstånd.
+
+Vad som sägs i andra stycket 1 gäller under giltighetstiden för tillståndet eller viseringen.
+
+Ett beslut om avvisning eller utvisning som inte är förenat med något gällande förbud att återvända får inte heller verkställas om utlänningen är undantagen från krav på visering eller uppehållstillstånd enligt 2 kap. 8 a § första stycket eller 8 b § eller enligt föreskrifter som har meddelats med stöd av 2 kap. 9 §. *Lag (2023:337)*.
+
+## 13 kap. Handläggningen av ärenden hos förvaltningsmyndigheterna m.m.
+
+### Muntlig handläggning
+
+#### 1 §
+
+Har upphävts genom *lag (2026:1142)*.
+
+#### 2 §
+
+Muntlig handläggning i ett ärende om förvar eller uppsikt skall genomföras av den myndighet som beslutar om åtgärden.
+
+#### 3 §
+
+Vid den muntliga handläggningen skall de omständigheter som behöver klarläggas noga utredas. Utlänningen skall få tillfälle att redogöra för sin ståndpunkt och att uttala sig om de omständigheter som åberopas i ärendet.
+
+#### 4 §
+
+*/Upphör att gälla U:2027-12-01/* Vid muntlig förhandling ska utlänningen höras. Myndigheten får bestämma att även andra personer än utlänningen ska höras vid förhandlingen.
+
+I 10 kap. 18 § finns särskilda bestämmelser om när muntlig förhandling ska hållas i vissa fall. *Lag (2026:1425)*.
+
+#### 4 §
+
+*/Träder i kraft I:2027-12-01/* Vid muntlig förhandling ska utlänningen höras. Myndigheten får bestämma att även andra personer än utlänningen ska höras vid förhandlingen.
+
+I 10 kap. 21 § finns särskilda bestämmelser om när muntlig förhandling ska hållas i vissa fall. *Lag (2026:1427)*.
+
+#### 5 §
+
+Utlänningen och andra personer som ska höras ska kallas till den muntliga förhandlingen. Om utlänningen hålls i förvar, ska den myndighet som genomför den muntliga förhandlingen besluta om utlänningens inställelse.
+
+Om den som ska höras i ett ärende om förvar eller uppsikt har delgetts kallelsen minst fyra dagar före den muntliga förhandlingen och utan giltigt skäl uteblir, får myndigheten besluta att han eller hon ska hämtas genom Polismyndighetens försorg. Andra personer än utlänningen får dock hämtas endast om det finns synnerliga skäl. *Lag (2014:655)*.
+
+#### 6 §
+
+En utlänning som inställer sig vid en muntlig förhandling som rör frågan om han eller hon skall hållas i förvar eller stå under uppsikt har rätt till ersättning av allmänna medel för kostnad för resa och uppehälle, om det bedöms skäligt med hänsyn till utlänningens ekonomiska förhållanden, den tid han eller hon har vistats i Sverige samt övriga omständigheter.
+
+Förskott får beviljas på ersättningen.
+
+Andra personer som på kallelse har inställt sig vid en muntlig förhandling för att höras har rätt till skälig ersättning av allmänna medel för kostnader för sin inställelse. Förskott får beviljas på ersättning för resa och uppehälle.
+
+#### 7 §
+
+Ersättning och förskott beslutas av den myndighet som genomför den muntliga förhandlingen.
+
+#### 8 §
+
+Regeringen får meddela närmare föreskrifter om ersättning och förskott.
+
+### Parts rätt att få del av uppgifter i vissa fall
+
+#### 9 §
+
+I ärenden om visering, tidsbegränsat uppehållstillstånd, arbetstillstånd och återkallelse av uppehållstillstånd, ställning som varaktigt bosatt i Sverige eller främlingspass tillämpas bestämmelserna i 25 § förvaltningslagen (2017:900) om kommunikation endast om utlänningen är bosatt eller annars vistas i Sverige. *Lag (2026:1221)*.
+
+#### 9 a §
+
+I ärenden om internationellt skydd ska kommunikation med sökanden ske genom att underrättelse lämnas eller skickas till honom eller henne. Vid sådan kommunikation ska delgivning användas. *Lag (2026:1142)*.
+
+### Myndighetens beslut
+
+#### 10 §
+
+Ett beslut ska vara skriftligt och innehålla de skäl som ligger till grund för beslutet om det avser
+
+- uppehållsrätt,
+
+- resedokument,
+
+- uppehållstillstånd,
+
+- arbetstillstånd,
+
+- flyktingförklaring,
+
+- ställning som varaktigt bosatt i Sverige,
+
+- avvisning eller utvisning,
+
+- återreseförbud,
+
+- upphävande av allmän domstols beslut om utvisning på grund av brott,
+
+- förlängning eller upphävande av tidsfrist för frivillig avresa,
+
+- inhibition av verkställigheten,
+
+- anmälningsskyldighet,
+
+- förvar eller uppsikt,
+
+- kroppsvisitation,
+
+- rumsvisitation, eller
+
+- omhändertagande av elektronisk kommunikationsutrustning.
+
+Vid beslut i fråga om nationell visering får skälen som ligger till grund för beslutet utelämnas. En utlänning har dock alltid rätt till motivering av ett beslut i fråga om nationell visering, om beslutet går utlänningen emot och utlänningen är en familjemedlem till en EES-medborgare eller omfattas av avtalet mellan Europeiska gemenskapen och dess medlemsstater å ena sidan och Schweiz å andra sidan om fri rörlighet för personer, utan att vara EES-medborgare eller medborgare i Schweiz. *Lag (2026:1339)*.
+
+### Tolkning och översättning
+
+#### 10 a §
+
+Bestämmelser om tolkning och översättning finns i 13 § förvaltningslagen (2017:900).
+
+Vid muntlig handläggning eller översättning i ärenden där offentligt biträde kan komma i fråga ska myndigheten, om det är möjligt, anlita en tolk eller översättare som är auktoriserad. I annat fall ska en annan lämplig person anlitas. *Lag (2025:1292)*.
+
+#### 11 §
+
+Den som är tolk vid handläggning av ett ärende enligt denna lag inför en myndighet har rätt att av allmänna medel få arvode och ersättning för kostnader och tidsspillan. Detta gäller dock inte om uppdraget har fullgjorts i tjänsten.
+
+Frågan om ersättning prövas av den myndighet som handlägger ärendet.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela närmare föreskrifter om ersättning.
+
+### Ombud och biträden
+
+#### 11 a §
+
+Om ett ombud eller biträde bedöms vara olämplig för sitt uppdrag får Migrationsverket, Polismyndigheten eller Säkerhetspolisen förklara honom eller henne obehörig att vara ombud eller biträde vid myndigheten antingen för viss tid eller tills vidare. Ett sådant beslut gäller för ärenden enligt denna lag och lagen (2022:700) om särskild kontroll av vissa utlänningar.
+
+Om den som förklaras obehörig är advokat, ska åtgärden anmälas till advokatsamfundets styrelse. *Lag (2025:1292)*.
+
+### Rättelse av beslut på grund av oriktig uppgift
+
+#### 12 §
+
+En myndighet får besluta om rättelse av sitt beslut, om en utlänning har lämnat oriktig uppgift om sitt namn, sin nationalitet eller någon annan omständighet av betydelse för att utlänningens identitet skall kunna fastställas, och den oriktiga uppgiften har tagits in i myndighetens beslut.
+
+### Omprövning av Migrationsverkets beslut
+
+#### 13 §
+
+Om Migrationsverket finner att ett beslut som verket har meddelat som första instans är oriktigt på grund av nya omständigheter eller av någon annan anledning, ska verket ändra beslutet, om det inte blir till nackdel för utlänningen.
+
+I säkerhetsärenden tillämpas 38 § förvaltningslagen (2017:900) i stället för vad som föreskrivs i första stycket.
+
+Om Migrationsverket har meddelat ett beslut som första instans och beslutet har överklagats, får verket ändra beslutet enbart i sådana fall som avses i första och andra styckena och bara om överklagandet och övriga handlingar i ärendet ännu inte har överlämnats till en migrationsdomstol. *Lag (2018:822)*.
+
+### Inhämtande av yttrande i ärenden om arbetstillstånd
+
+#### 14 §
+
+Vid prövning av frågor om arbetstillstånd som har principiell betydelse eller som i övrigt är av större vikt skall berörda arbetsgivar- och arbetstagarorganisationer få tillfälle att yttra sig.
+
+### DNA-analys
+
+#### 15 §
+
+I ärenden om uppehållstillstånd på grund av anknytning enligt 5 kap. 3 § 2-4, 3 a § första stycket 2-4 och tredje stycket 2-4 samt 3 e, 3 g och 3 h §§ ska Migrationsverket ge sökanden och anknytningspersonen tillfälle att få en DNA- analys utförd i fråga om ett åberopat biologiskt släktskap, om
+
+1. sökanden inte genom annan utredning har kunnat visa att det åberopade släktskapet finns, och
+
+2. det inte är uppenbart att det åberopade släktskapet inte finns.
+
+Om ansökan ska avslås av andra skäl än på grund av otillräcklig utredning om släktskapet, behöver tillfälle till DNA-analys inte lämnas.
+
+En DNA-analys får utföras endast om den som ska undersökas har informerats om syftet med DNA-analysen och har gett sitt skriftliga samtycke.
+
+Kostnaden för provtagning, transport av prover och analys ska betalas av staten. *Lag (2026:1686)*.
+
+#### 16 §
+
+Om det i något annat fall än de som avses i 15 § har åberopats en DNA-analys i ett ärende om uppehållstillstånd på grund av anknytning enligt 5 kap. 3 § 2-4, 3 a § första stycket 2-4 och tredje stycket 2-4 samt 3 e, 3 g och 3 h §§, har den som bekostat DNA-analysen rätt till ersättning från staten för skälig kostnad för provtagning, transport av prover och analys, om
+
+1. sökanden inte har getts tillfälle att få en DNA-analys utförd enligt 15 §,
+
+2. analysen visar det åberopade släktskapet, och
+
+3. uppehållstillstånd beviljas på grund av den åberopade anknytningen.
+
+Ett beslut om ersättning meddelas av Migrationsverket. En särskild ansökan om ersättning ska göras senast sex månader efter det att ärendet om uppehållstillstånd har avgjorts slutligt. *Lag (2026:1686)*.
+
+### Åldersbedömning
+
+#### 17 §
+
+Migrationsverket ska göra en åldersbedömning i enlighet med artikel 25 i asylprocedurförordningen och så snart som möjligt fatta ett tillfälligt beslut om sökandens ålder. Om det är uppenbart att sökanden är 18 år eller äldre krävs dock inte något sådant beslut.
+
+Ett slutligt ställningstagande till sökandens ålder ska göras i samband med det slutliga beslutet i ärendet om internationellt skydd.
+
+Ett beslut enligt första stycket gäller omedelbart.
+
+*Lag (2026:1142)*.
+
+#### 18 §
+
+Innan Migrationsverket fattar ett tillfälligt beslut enligt 17 § som innebär att sökanden bedöms vara 18 år eller äldre ska Migrationsverket ge sökanden tillfälle att genomgå en medicinsk åldersbedömning.
+
+En medicinsk åldersbedömning får utföras endast om sökanden har gett sitt skriftliga samtycke.
+
+Kostnaden för den medicinska åldersbedömningen ska betalas av staten. *Förordning (2017:258)*.
+
+#### 19 §
+
+Har upphävts genom *lag (2026:1142)*.
+
+## 14 kap. Överklagande av en förvaltningsmyndighets beslut
+
+### Allmänt om överklagande
+
+#### 1 §
+
+En förvaltningsmyndighets beslut enligt denna lag får överklagas endast i de fall som anges i detta kapitel.
+
+### Beslut enligt asylprocedurförordningen och asyl- och migrationshanteringsförordningen
+
+#### 1 a §
+
+Beslut som anges i artikel 67.1 eller 67.2 i asylprocedurförordningen och beslut om överföring enligt asyl- och migrationshanteringsförordningen får överklagas till en migrationsdomstol. Beslut om att återkalla internationellt skydd i de fall som avses i artikel 66.6 i asylprocedurförordningen får dock inte överklagas.
+
+Ett överklagande av ett beslut som avses i artikel 67.7 a i asylprocedurförordningen eller ett beslut om överföring enligt asyl- och migrationshanteringsförordningen ska ha kommit in till den beslutande myndigheten inom en vecka från den dag då den som överklagar fick del av beslutet.
+
+Ett överklagande av ett beslut som avses i artikel 67.7 b i asylprocedurförordningen ska ha kommit in till den beslutande myndigheten inom tre veckor från den dag då den som överklagar fick del av beslutet. *Lag (2026:1142)*.
+
+### Avvisning och utvisning samt uppehållstillstånd och arbetstillstånd
+
+### Polismyndighetens beslut
+
+#### 2 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Polismyndighetens beslut om avvisning får överklagas till Migrationsverket. Om Polismyndighetens beslut om avvisning har fattats i samband med ett beslut om upphävande eller återkallelse av en Schengenvisering överklagas dock avvisningsbeslutet till en migrationsdomstol. *Lag (2015:91)*.
+
+#### 2 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Polismyndighetens beslut om avvisning får överklagas till Migrationsverket. Om Polismyndighetens beslut om avvisning har fattats i samband med ett beslut om upphävande eller återkallelse av en Schengenvisering, eller ett beslut om ogiltigförklaring eller återkallelse av ett resetillstånd, överklagas dock avvisningsbeslutet till en migrationsdomstol.
+
+*Lag (2023:337)*.
+
+### Migrationsverkets beslut
+
+#### 3 §
+
+Migrationsverkets beslut får överklagas till en migrationsdomstol, om beslutet innebär
+
+- avvisning eller utvisning,
+
+- avslag på en ansökan om upphävande av allmän domstols beslut om utvisning på grund av brott,
+
+- avslag på en ansökan om uppehållstillstånd, arbetstillstånd eller ställning som varaktigt bosatt i Sverige, eller
+
+- återkallelse av ett uppehållstillstånd, arbetstillstånd eller ställning som varaktigt bosatt i Sverige.
+
+*Lag (2014:198)*.
+
+#### 3 a §
+
+Migrationsverkets beslut om avslag på en ansökan om permanent uppehållstillstånd får överklagas till en migrationsdomstol om ansökan avslås för att de särskilda kraven i 5 kap. 7 § inte är uppfyllda. *Lag (2021:765)*.
+
+#### 4 §
+
+Migrationsverkets beslut om avslag på en ansökan om tidsbegränsat uppehållstillstånd enligt 5 kap. 15 § eller beslut om återkallelse av ett tillstånd som meddelats med stöd av 5 kap. 15 § överklagas till migrationsdomstol. Sådana beslut får överklagas endast av förundersökningsledaren eller, om det är socialnämnden som har ansökt om tillståndet, endast av nämnden. *Lag (2022:1015)*.
+
+#### 4 a §
+
+Har upphävts genom *lag (2026:1142)*.
+
+#### 4 b §
+
+Migrationsverkets beslut om avslag på en ansökan om uppehållstillstånd enligt 5 kap. 15 c eller 16 b § eller beslut i fråga om återkallelse av ett tillstånd som meddelats med stöd av 5 kap. 15 c § får överklagas till migrationsdomstol. Endast socialnämnden får överklaga sådana beslut. *Lag (2012:322)*.
+
+#### 4 c §
+
+Migrationsverkets beslut att invända mot en utlännings planerade vistelse i Sverige enligt 5 b kap. 14 § får överklagas till en migrationsdomstol. *Lag (2019:1208)*.
+
+#### 4 d §
+
+Migrationsverkets beslut i fråga om inhibition av verkställigheten enligt 12 kap. 17 a § första stycket eller 17 d § får överklagas till en migrationsdomstol. *Lag (2026:385)*.
+
+#### 5 §
+
+Migrationsverkets beslut att inte bevilja prövning enligt 12 kap. 16 a eller 19 b § får överklagas till en migrationsdomstol. *Lag (2026:1142)*.
+
+### Visering
+
+#### 5 a §
+
+En myndighets beslut om avslag på ansökan om Schengenvisering eller om upphävande eller återkallelse av Schengenvisering får överklagas till en migrationsdomstol.
+
+En myndighets beslut får överklagas till en migrationsdomstol om beslutet innebär avslag på ansökan om nationell visering eller återkallelse av nationell visering för en utlänning som är en familjemedlem till en EES-medborgare eller omfattas av avtalet mellan Europeiska gemenskapen och dess medlemsstater å ena sidan och Schweiz å andra sidan om fri rörlighet för personer, utan att vara EES-medborgare eller medborgare i Schweiz. *Lag (2014:198)*.
+
+### Uppehållsrätt
+
+#### 5 b §
+
+Migrationsverkets beslut som rör uppehållsrätt får överklagas till en migrationsdomstol. *Lag (2014:198)*.
+
+### Beslut enligt utträdesavtalet mellan Förenade kungariket och EU
+
+#### 5 c §
+
+Migrationsverkets beslut enligt utträdesavtalet mellan Förenade kungariket och EU får överklagas till en migrationsdomstol. *Lag (2020:939)*.
+
+*/Rubriken träder i kraft I:den dag som regeringen bestämmer/*
+
+### Resetillstånd
+
+#### 5 d §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* En myndighets beslut att neka, ogiltigförklara eller återkalla ett resetillstånd får överklagas till en migrationsdomstol. Av artikel 41.8 i Etias-förordningen framgår dock att ett beslut att återkalla ett resetillstånd på sökandens egen begäran inte får överklagas. *Lag (2023:337)*.
+
+### Resedokument och flyktingförklaring
+
+#### 6 §
+
+Migrationsverkets beslut enligt 2 kap. 1 f § och 1 g § andra stycket samt artikel 25 i skyddsgrundsförordningen i fråga om resedokument och enligt 5 kap. 1 b § i fråga om flyktingförklaring eller återkallelse av flyktingförklaring får överklagas till en migrationsdomstol.
+
+Ett beslut om återkallelse av resedokument enligt 2 kap. 1 f § tredje stycket på den grunden att innehavaren upphör att vara flykting eller enligt 2 kap. 1 g § andra stycket på den grunden att innehavarens flyktingstatus återkallas får dock överklagas endast i samband med ett överklagande av ett beslut om återkallelse av flyktingförklaring eller flyktingstatus.
+
+*Lag (2026:1142)*.
+
+### Främlingspass
+
+#### 6 a §
+
+Migrationsverkets beslut om avslag på en ansökan om främlingspass eller om återkallelse av ett främlingspass får överklagas till en migrationsdomstol.
+
+Ett beslut om återkallelse av främlingspass enligt 2 kap. 1 e § på den grunden att innehavarens status som subsidiärt skyddsbehövande återkallas får endast överklagas i samband med ett överklagande av ett beslut om återkallelse av status som subsidiärt skyddsbehövande.
+
+Ett beslut om återkallelse av främlingspass enligt 2 kap. 1 e § på den grunden att innehavarens uppehållstillstånd återkallas får endast överklagas i samband med ett överklagande av ett beslut om återkallelse av uppehålls- tillståndet. *Lag (2026:1142)*.
+
+### Omhändertagande av biljetter
+
+#### 7 §
+
+Polismyndighetens eller Migrationsverkets beslut enligt 9 kap. 6 § att ta hand om biljetter får överklagas till en migrationsdomstol. *Lag (2014:655)*.
+
+### Omhändertagande av elektronisk kommunikationsutrustning
+
+#### 7 a §
+
+Beslut om att omhänderta elektronisk kommunikationsutrustning enligt 9 kap. 19, 20 eller 21 § får överklagas till en migrationsdomstol. Vid prövningen av ett sådant överklagande kan rätten ta ställning till om handlingar har undersökts eller kopierats i strid med 9 kap. 23 § andra stycket. *Lag (2026:1339)*.
+
+### Återreseförbud och beslut att upphäva ett beslut om tidsfrist för frivillig avresa
+
+#### 7 b §
+
+Polismyndighetens eller Migrationsverkets beslut att meddela återreseförbud eller att upphäva ett beslut om tidsfrist för frivillig avresa får överklagas till en migrationsdomstol. Polismyndighetens beslut om återreseförbud som meddelas i samband med ett beslut om avvisning överklagas dock i samma ordning som beslutet om avvisning.
+
+Migrationsverkets avslag på en ansökan om att upphäva ett återreseförbud får överklagas till en migrationsdomstol.
+
+Tidsfristen för överklagande av Migrationsverkets eller Polismyndighetens beslut om återreseförbud enligt 12 kap. 15 a § börjar löpa den dag beslutet om återreseförbud meddelas. *Lag (2026:1339)*.
+
+### Offentligt biträde, ersättning, ombud och jäv
+
+#### 8 §
+
+Beslut av Polismyndigheten, Säkerhetspolisen eller Migrationsverket enligt denna lag får överklagas särskilt, och då i samma ordning som det beslut varigenom myndigheten avgör ärendet, när myndighetens beslut avser
+
+1. fråga om offentligt biträde, eller
+
+2. ersättning i ett ärende som handläggs enligt denna lag.
+
+Första stycket gäller även Polismyndighetens, Säkerhetspolisens eller Migrationsverkets beslut om avvisande av ombud eller biträde eller om jäv.
+
+Första stycket 1 gäller inte Migrationsverkets beslut enligt 18 kap. 1 a eller 1 b §.
+
+Beslut av Regeringskansliet i frågor enligt första och andra styckena får överklagas till en migrationsdomstol.
+
+*Lag (2026:1142)*.
+
+#### 8 a §
+
+Migrationsverkets beslut angående ersättning för kostnad för DNA-analys enligt 13 kap. 16 § får överklagas till en migrationsdomstol. *Lag (2006:220)*.
+
+### Åldersbedömning
+
+#### 8 b §
+
+Migrationsverkets tillfälliga beslut om ålder enligt 13 kap. 17 § får överklagas till en migrationsdomstol.
+
+*Förordning (2017:258)*.
+
+### Förvar och uppsikt
+
+#### 9 §
+
+Beslut av Polismyndigheten, Säkerhetspolisen eller Migrationsverket om förvar eller uppsikt får överklagas till en migrationsdomstol.
+
+Beslut om förvar eller uppsikt får överklagas särskilt och utan begränsning till viss tid. *Lag (2014:655)*.
+
+#### 10 §
+
+*/Upphör att gälla U:2027-12-01/* Migrationsverkets beslut i särskilda fall i frågor om behandlingen eller placeringen av utlänningar som hålls i förvar enligt någon av 10 a kap. 9-14 §§, 11 kap. 3, 4, 4 b, 5-9 eller 9 b-13 §§ får överklagas till en migrationsdomstol.
+
+*Lag (2026:1425)*.
+
+#### 10 §
+
+*/Träder i kraft I:2027-12-01/* Migrationsverkets beslut i särskilda fall i frågor om behandlingen eller placeringen av utlänningar som hålls i förvar enligt någon av 10 a kap. 10-15 §§, 11 kap. 3, 4, 4 b, 5-9 eller 9 b-13 §§ får överklagas till en migrationsdomstol.
+
+*Lag (2026:1427)*.
+
+### Anmälningsskyldighet
+
+#### 10 a §
+
+Beslut av Polismyndigheten, Säkerhetspolisen eller Migrationsverket om anmälningsskyldighet enligt 9 a kap. 1 eller 7 § får överklagas till en migrationsdomstol. Detsamma gäller om en ansökan om tillfälliga lättnader enligt 9 a kap. 8 § helt eller delvis avslås.
+
+Beslut enligt första stycket får överklagas särskilt och utan begränsning till viss tid. *Lag (2026:385)*.
+
+### Säkerhetsärenden
+
+#### 11 §
+
+Migrationsverkets beslut i ett säkerhetsärende får överklagas av Säkerhetspolisen i fråga om avvisning, utvisning, uppehållstillstånd, arbetstillstånd, internationellt skydd, resedokument, flyktingförklaring, främlingspass, ställning som varaktigt bosatt, inhibition av verkställigheten enligt 12 kap. 17 a § första stycket eller 17 d §, förvar, uppsikt och upphävande av ett beslut om avvisning eller utvisning med stöd av 12 kap. 16 § andra stycket. *Lag (2026:1142)*.
+
+#### 12 §
+
+Har upphävts genom *lag (2009:1542)*.
+
+#### 13 §
+
+Har upphävts genom *lag (2009:1542)*.
+
+### Kostnadsansvar och särskilda avgifter för transportörer
+
+#### 14 §
+
+Polismyndighetens eller Migrationsverkets beslut om kostnadsansvar enligt 19 kap. 2 eller 3 § eller särskild avgift enligt 19 kap. 5 § eller Polismyndighetens beslut om särskild avgift enligt 19 kap. 5 a § för transportör får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2014:655)*.
+
+#### 14 a §
+
+Har upphävts genom *lag (2026:1142)*.
+
+## 15 kap. Nöjdförklaring
+
+#### 1 §
+
+En utlänning som har rätt att överklaga ett beslut om avvisning eller utvisning kan förklara att han eller hon avstår från att överklaga beslutet eller domen i den delen (nöjdförklaring). Detta gäller inte en utlänning som har rätt att överklaga ett beslut om avvisning, utvisning eller återvändande enligt artikel 67 i asylprocedurförordningen.
+
+*Lag (2026:1142)*.
+
+#### 2 §
+
+Nöjdförklaring får avges inför den myndighet eller domstol som har meddelat beslutet eller domen.
+
+Nöjdförklaring får också avges inför
+
+1. Polismyndigheten även om myndigheten inte har meddelat det avgörande som förklaringen gäller, eller
+
+2. chefen för en kriminalvårdsanstalt eller chefen för ett häkte eller någon annan tjänsteman där som har förordnats att ta emot en sådan förklaring.
+
+Om nöjdförklaringen avges inför en annan myndighet eller domstol än den som har meddelat beslutet eller domen, krävs ett vittnes närvaro. Vidare krävs att den som tar emot förklaringen har tillgång till en utskrift av beslutet eller domen eller ett bevis om vad avgörandet innehåller.
+
+*Lag (2014:655)*.
+
+#### 3 §
+
+En nöjdförklaring kan inte tas tillbaka. Om utlänningen har överklagat beslutet eller domen när nöjdförklaringen avges, ska utlänningen genom nöjdförklaringen anses ha tagit tillbaka sitt överklagande av beslutet om avvisning eller utvisning. Om utlänningen har ansökt om uppehållstillstånd, arbetstillstånd, resedokument eller främlingspass, ska utlänningen genom nöjdförklaringen anses ha tagit tillbaka sin ansökan. *Lag (2026:1142)*.
+
+## 16 kap. Migrationsdomstolar och Migrationsöverdomstolen
+
+### Domstolarna
+
+#### 1 §
+
+Regeringen meddelar föreskrifter om vilka förvaltningsrätter som ska vara migrationsdomstolar och vilken migrationsdomstol som är behörig att pröva säkerhetsärenden.
+
+Regeringen meddelar även föreskrifter om behörig migrationsdomstol för viseringsmål. Migrationsöverdomstol är Kammarrätten i Stockholm.
+
+Om migrationsdomstol och Migrationsöverdomstolen och förfarandet i dessa gäller vad som allmänt är föreskrivet om förvaltningsrätt och kammarrätt och rättskipningen i dessa, om inte något annat följer av denna lag. *Lag (2011:705)*.
+
+#### 2 §
+
+Nämndeman i en migrationsdomstol skall vara nämndeman i den förvaltningsrätt som är migrationsdomstol. *Lag (2009:845)*.
+
+### Sammansättningen i Migrationsöverdomstolen
+
+#### 3 §
+
+Om rätten vid handläggningen av ett mål i Migrationsöverdomstolen finner att avgörandet kan få stor principiell betydelse får målet eller, om det är möjligt, en viss fråga i målet avgöras av Migrationsöverdomstolen med sju lagfarna ledamöter. Behörig att vara rättens ordförande i ett sådant fall är den som är kammarrättspresident eller kammarrättslagman. *Lag (2018:419)*.
+
+#### 3 a §
+
+Det som föreskrivs i 12 § sjunde stycket lagen (1971:289) om allmänna förvaltningsdomstolar om att prövningstillstånd i vissa fall får meddelas av en lagfaren ledamot, gäller inte i Migrationsöverdomstolen.
+
+*Lag (2018:1963)*.
+
+#### 3 b §
+
+En migrationsdomstol ska senast inom två månader från den dag då överklagandet kom in till domstolen avgöra ett mål om internationellt skydd som avser ett sådant beslut som anges i artikel 67.1 i asylprocedurförordningen om att
+
+1. neka prövning av en ansökan,
+
+2. avslå en ansökan som uppenbart ogrundad, eller
+
+3. avslå en ansökan som implicit återkallad.
+
+En migrationsdomstol ska senast inom åtta månader från den dag då överklagandet kom in till domstolen avgöra ett mål om internationellt skydd som avser ett sådant beslut som anges i artikel 67.1 i asylprocedurförordningen om att
+
+1. avslå en ansökan som ogrundad, eller
+
+2. återkalla internationellt skydd.
+
+Migrationsdomstolen får förlänga en sådan tidsfrist som avses i första eller andra stycket om det är nödvändigt med anledning av behovet av ytterligare utredning eller någon annan särskild omständighet.
+
+Första-tredje styckena gäller inte ett mål om internationellt skydd som prövas inom ramen för ett gränsförfarande för asyl. Ett sådant mål ska avgöras inom tre veckor från den dag då överklagandet kom in till domstolen. *Lag (2026:1142)*.
+
+### Handläggningen
+
+#### 4 §
+
+*/Upphör att gälla U:2027-12-01/* Mål om avvisning eller utvisning och mål om förvar ska handläggas skyndsamt.
+
+En migrationsdomstol ska meddela ett slutligt avgörande i ett mål om förvar enligt 10 kap. 3 eller 4 § inom 15 dagar eller, om det finns särskilda skäl, 21 dagar från den dag då överklagandet kom in till migrationsdomstolen. Om ett slutligt avgörande i ett sådant mål inte meddelas inom 21 dagar från den dag då överklagandet kom in till migrationsdomstolen så upphör det överklagade beslutet att gälla. *Lag (2026:1425)*.
+
+#### 4 §
+
+*/Träder i kraft I:2027-12-01/* Mål om avvisning eller utvisning och mål om förvar ska handläggas skyndsamt.
+
+En migrationsdomstol ska meddela ett slutligt avgörande i ett mål om förvar enligt 10 kap. 5 eller 6 § inom 15 dagar eller, om det finns särskilda skäl, 21 dagar från den dag då överklagandet kom in till migrationsdomstolen. Om ett slutligt avgörande i ett sådant mål inte meddelas inom 21 dagar från den dag då överklagandet kom in till migrationsdomstolen så upphör det överklagade beslutet att gälla. *Lag (2026:1427)*.
+
+### Muntlig förhandling
+
+#### 5 §
+
+Förfarandet är skriftligt.
+
+I handläggningen får det ingå muntlig förhandling om en viss fråga, när det kan antas vara till fördel för utredningen eller främja ett snabbt avgörande av målet.
+
+Migrationsdomstolen ska hålla muntlig förhandling, om en enskild part begär det samt förhandlingen inte är obehövlig och inte heller särskilda skäl talar mot det.
+
+Om en enskild part som har kallats vid vite att inställa sig personligen till en förhandling uteblir, får rätten besluta att han eller hon ska hämtas till rätten antingen omedelbart eller till en senare dag. *Lag (2025:793)*.
+
+### Motparter i vissa fall
+
+#### 6 §
+
+I ett mål om avvisning är Migrationsverket motpart till utlänningen. Detsamma gäller i ett mål om återreseförbud där beslut meddelats av Polismyndigheten i samband med ett beslut om avvisning.
+
+När ett beslut i ett säkerhetsärende överklagas är såväl Migrationsverket som Säkerhetspolisen motparter till utlänningen vid handläggningen i migrationsdomstolen och i Migrationsöverdomstolen.
+
+I ett mål om uppehållstillstånd för den som av allmän domstol har utvisats på grund av brott, eller om upphävande av ett sådant utvisningsbeslut, är Migrationsverket och, i fråga om ett säkerhetsärende, Säkerhetspolisen motparter till utlänningen vid handläggningen i migrationsdomstolen och i Migrationsöverdomstolen. Detsamma gäller i ett mål i fråga om inhibition av verkställigheten enligt 12 kap. 16 e § första stycket. *Lag (2026:385)*.
+
+### Återförvisning
+
+#### 7 §
+
+Har upphävts genom *lag (2009:1542)*.
+
+#### 8 §
+
+Om det under handläggningen av ett mål i en migrationsdomstol framkommer att det rör sig om ett säkerhetsärende enligt denna lag eller ett ärende som ska handläggas enligt lagen (2022:700) om särskild kontroll av vissa utlänningar, ska domstolen undanröja det överklagade beslutet och överlämna målet till Migrationsverket för handläggning.
+
+Om det under handläggningen i Migrationsöverdomstolen framkommer att det rör sig om ett säkerhetsärende enligt denna lag eller ett ärende som ska handläggas enligt lagen om särskild kontroll av vissa utlänningar, ska Migrationsöverdomstolen undanröja migrationsdomstolens och Migrationsverkets beslut och överlämna målet till Migrationsverket för handläggning. *Lag (2022:705)*.
+
+### Överklagande
+
+#### 9 §
+
+En migrationsdomstols beslut överklagas till Migrationsöverdomstolen. En migrationsdomstols beslut i mål om avvisning som i första instans prövats av Polismyndigheten får dock inte överklagas i andra fall än de som avses i 14 kap. 2 § andra meningen.
+
+En migrationsdomstols beslut att inte förordna ett offentligt biträde enligt 18 kap. 2 eller 2 a § får inte överklagas. Detsamma gäller en migrationsdomstols beslut att entlediga ett offentligt biträde enligt 18 kap. 2 §.
+
+Migrationsöverdomstolens beslut får inte överklagas.
+
+*Lag (2026:1425)*.
+
+#### 9 a §
+
+Ett överklagande av en migrationsdomstols beslut om överföring enligt asyl- och migrationshanteringsförordningen ska ha kommit in till den migrationsdomstol som meddelade beslutet inom en vecka från den dag då den som överklagar fick del av beslutet. *Lag (2026:1142)*.
+
+#### 10 §
+
+En migrationsdomstols beslut om förvar får överklagas utan begränsning till viss tid. *Lag (2013:107)*.
+
+#### 11 §
+
+Prövningstillstånd krävs vid överklagande av en migrationsdomstols beslut till Migrationsöverdomstolen.
+
+Prövningstillstånd krävs dock inte vid överklagande av en migrationsdomstols beslut i fråga om
+
+1. internationellt skydd efter överlämnande enligt 4 kap. 8 §, eller
+
+2. inhibition av verkställigheten enligt 12 kap. 16 e § första stycket.
+
+Prövningstillstånd krävs inte heller om migrationsdomstolen i ett överklagat mål upphäver ett beslut om inhibition av verkställigheten som har meddelats med stöd av 12 kap. 17 a § första stycket. *Lag (2026:1425)*.
+
+#### 12 §
+
+Prövningstillstånd i Migrationsöverdomstolen meddelas om
+
+1. det är av vikt för ledning av rättstillämpningen att överklagandet prövas av Migrationsöverdomstolen, eller
+
+2. det annars finns synnerliga skäl att pröva överklagandet.
+
+#### 12 a §
+
+Prövningstillstånd får begränsas till att gälla en viss fråga i målet, vars prövning är av vikt för ledning av rättstillämpningen (prejudikatfråga) eller en viss del av målet.
+
+I avvaktan på att prövning sker i enlighet med ett prövningstillstånd som har begränsats enligt första stycket får Migrationsöverdomstolen förklara frågan om meddelande av prövningstillstånd rörande målet i övrigt helt eller delvis vilande.
+
+I den utsträckning prövningstillstånd inte meddelas och frågan om prövningstillstånd inte heller förklaras vilande, ska det överklagade beslutet stå fast. En upplysning om detta ska tas in i Migrationsöverdomstolens beslut. *Lag (2013:107)*.
+
+#### 12 b §
+
+Om Migrationsöverdomstolen med tillämpning av 12 a § har prövat en prejudikatfråga får domstolen, om ytterligare prövning krävs, helt eller delvis grunda sitt avgörande av målet i övrigt på migrationsdomstolens bedömning eller, med undanröjande av lägre rätts eller myndighets avgörande, besluta om återförvisning av målet för fortsatt behandling.
+
+*Lag (2013:107)*.
+
+## 17 kap. Skyldighet att lämna uppgifter
+
+#### 1 §
+
+Socialnämnden ska lämna ut uppgifter om en utlännings personliga förhållanden, om Polismyndigheten, Säkerhetspolisen, Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen begär det och uppgifterna behövs för att avgöra ett ärende om internationellt skydd, ett ärende om uppehållstillstånd eller ett ärende om ställning som varaktigt bosatt i Sverige eller för att verkställa ett beslut om avvisning eller utvisning. Detsamma gäller när fråga har uppkommit om utlänningen har uppehållsrätt. *Lag (2026:1142)*.
+
+#### 2 §
+
+Om en utlänning i ett ärende enligt denna lag åberopar ett intyg om sin psykiska eller fysiska hälsa, skall en hälso- och sjukvårdsmyndighet på begäran av den myndighet eller domstol som handlägger ärendet lämna de upplysningar som behövs för att bedöma uppgifterna i intyget.
+
+#### 3 §
+
+Försäkringskassan och Pensionsmyndigheten har rätt att ta del av uppgifter om enskilda hos Migrationsverket. Om det finns skäl för det ska Migrationsverket på eget initiativ lämna sådana uppgifter till Försäkringskassan och Pensionsmyndigheten.
+
+Regeringen meddelar ytterligare föreskrifter om vilka uppgifter som ska lämnas ut enligt första stycket.
+
+*Lag (2009:1013)*.
+
+#### 4 §
+
+Polismyndigheten, Migrationsverket, Tullverket och Kustbevakningen ska till varandra lämna de uppgifter som behövs för att myndigheterna ska kunna fullgöra sina uppdrag enligt 9 kap. 2 a §. *Lag (2026:1142)*.
+
+#### 5 §
+
+Den region som har utfört en hälsokontroll enligt artikel 12.1 i screeningförordningen ska på eget initiativ till Polismyndigheten lämna de uppgifter som behövs och som framkommit vid kontrollen. *Lag (2026:1142)*.
+
+#### 6 §
+
+När det finns anledning att anta att en utlänning saknar rätt att vistas i Sverige ska Arbetsförmedlingen, Försäkringskassan, Kriminalvården, Kronofogdemyndigheten, Pensionsmyndigheten och Skatteverket, på eget initiativ, lämna följande uppgifter som de förfogar över till Polismyndigheten:
+
+1. utlänningens namn, födelsetid och medborgarskap,
+
+2. utlänningens personnummer, samordningsnummer, dossiernummer hos Migrationsverket eller motsvarande nummer,
+
+3. utlänningens bostadsadress eller annan uppgift om var utlänningen varaktigt eller regelbundet vistas,
+
+4. utlänningens telefonnummer, e-postadress eller annan jämförbar kontaktuppgift,
+
+5. uppgift om att myndigheten har utländska handlingar om utlänningens identitet, och
+
+6. de omständigheter som ligger till grund för myndighetens antagande att utlänningen saknar rätt att vistas i landet.
+
+De uppgifter som avses i första stycket ska inte lämnas om det är uppenbart obehövligt.
+
+Uppgiftsskyldigheten gäller inte uppgifter som omfattas av sekretess enligt 17 kap. 1 och 2 §§, 18 kap. 1-3 §§, 22 kap. 2 §, 24 kap. 8 §, 25 kap. 1-8 och 15 §§, 28 kap. 2 § och 40 kap. 5 § offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2026:1339)*.
+
+#### 7 §
+
+Om uppgifter som har lämnats enligt 6 § är av betydelse för ett ärende som hanteras eller ska hanteras av Migrationsverket eller Säkerhetspolisen ska Polismyndigheten lämna uppgifterna vidare till den berörda myndigheten.
+
+*Lag (2026:1339)*.
+
+#### 8 §
+
+Arbetsförmedlingen, Ekobrottsmyndigheten, Försäkringskassan, Kriminalvården, Kronofogdemyndigheten, Pensionsmyndigheten, Skatteverket och Åklagarmyndigheten ska lämna de uppgifter som behövs för att utreda en utlännings rätt att vistas i Sverige eller för att verkställa ett beslut om avvisning eller utvisning, om Migrationsverket, Polismyndigheten eller Säkerhetspolisen begär det.
+
+Första stycket gäller inte uppgifter som omfattas av sekretess enligt 17 kap. 1 och 2 §§, 18 kap. 1-3 §§, 24 kap. 8 §, 25 kap. 1-8 och 15 §§, 28 kap. 2 § samt 40 kap. 5 § offentlighets- och sekretesslagen (2009:400).
+
+*Lag (2026:1339)*.
+
+#### 9 §
+
+*/Träder i kraft I:2026-12-01/* Migrationsverket ska på begäran av Skatteverket, om det behövs för handläggningen av ärenden eller kontroll av uppgifter i folkbokföringsverksamheten, lämna ut uppgifter om fotografier och fingeravtryck samt de biometriska uppgifter som har tagits fram ur fotografierna eller fingeravtrycken.
+
+*Lag (2026:1451)*.
+
+## 18 kap. Offentligt biträde
+
+#### 1 §
+
+*/Upphör att gälla U:2027-12-01/* Offentligt biträde ska förordnas för den som åtgärden avser, om det inte måste antas att behov av biträde saknas, i mål och ärenden om
+
+1. avvisning, dock inte hos Polismyndigheten om inte utlänningen enligt någon av 10 kap. 3-6 §§ har hållits i förvar sedan mer än tre dagar,
+
+2. utvisning enligt 8 kap. 6 eller 10 § eller 11 § andra stycket,
+
+3. verkställighet av beslut om avvisning eller utvisning enligt denna lag, om beslut om inhibition meddelats av Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen,
+
+4. anmälningsskyldighet enligt 9 a kap.,
+
+5. förvar enligt 10 kap. 3 eller 5 § om utlänningen har hållits i förvar sedan mer än tre dagar,
+
+6. hemsändande enligt 23 kap. 2 §, och
+
+7. uppsikt enligt 10 kap. 4 eller 6 §.
+
+Offentligt biträde ska alltid förordnas för barn som hålls i förvar enligt denna lag.
+
+I mål och ärenden enligt asylprocedurförordningen eller asyl- och migrationshanteringsförordningen, med undantag för mål och ärenden om förvar enligt artikel 44 i asyl- och migrationshanteringsförordningen, gäller i stället 1 a-2 a §§.
+
+*Lag (2026:1425)*.
+
+#### 1 §
+
+*/Träder i kraft I:2027-12-01/* Offentligt biträde ska förordnas för den som åtgärden avser, om det inte måste antas att behov av biträde saknas, i mål och ärenden om
+
+1. avvisning, dock inte hos Polismyndigheten om inte utlänningen enligt någon av 10 kap. 5-8 §§ har hållits i förvar sedan mer än tre dagar,
+
+2. utvisning enligt 8 kap. 6 eller 10 § eller 11 § andra stycket,
+
+3. verkställighet av beslut om avvisning eller utvisning enligt denna lag, om beslut om inhibition meddelats av Migrationsverket, en migrationsdomstol eller Migrationsöverdomstolen,
+
+4. anmälningsskyldighet enligt 9 a kap.,
+
+5. förvar enligt 10 kap. 5 eller 7 § om utlänningen har hållits i förvar sedan mer än tre dagar,
+
+6. hemsändande enligt 23 kap. 2 §, och
+
+7. förstärkt uppsikt eller uppsikt enligt 10 kap. 6 eller 8 §.
+
+Offentligt biträde ska alltid förordnas för barn som hålls i förvar enligt denna lag.
+
+I mål och ärenden enligt asylprocedurförordningen eller asyl- och migrationshanteringsförordningen, med undantag för mål och ärenden om förvar enligt artikel 44 i asyl- och migrationshanteringsförordningen, gäller i stället 1 a-2 a §§.
+
+*Lag (2026:1427)*.
+
+#### 1 a §
+
+I ärenden enligt asylprocedurförordningen ska på utlänningens begäran offentligt biträde förordnas för den som har rätt till kostnadsfri rättslig rådgivning enligt artikel 16 i den förordningen. I de situationer som anges i artikel 16.3 i den förordningen ska offentligt biträde dock inte förordnas.
+
+Ersättning för arbete får endast lämnas för kostnadsfri rättslig rådgivning som motsvarar högst två timmars arbete eller, om det finns skäl för det, högst tre timmars arbete. I övrigt ska 27 § rättshjälpslagen (1996:1619) tillämpas i fråga om rätt till ersättning. *Lag (2026:1142)*.
+
+#### 1 b §
+
+I ärenden enligt asyl- och migrationshanteringsförordningen ska på utlänningens begäran offentligt biträde förordnas för den som har rätt till kostnadsfri rättslig rådgivning enligt artikel 21 i den förordningen.
+
+Ersättning för arbete får endast lämnas för kostnadsfri rättslig rådgivning som motsvarar högst en timmes arbete. I övrigt ska 27 § rättshjälpslagen (1996:1619) tillämpas i fråga om rätt till ersättning.
+
+Ett förordnande enligt första stycket gäller till dess att ansvarig medlemsstat fastställs. *Lag (2026:1142)*.
+
+#### 2 §
+
+Vid överklagande av beslut enligt asylprocedurförordningen ska en migrationsdomstol eller Migrationsöverdomstolen på utlänningens begäran förordna offentligt biträde för den som åtgärden avser om ett sådant inte redan har förordnats. I de situationer som anges i artikel 17.2 b och d i den förordningen ska offentligt biträde dock inte förordnas.
+
+En migrationsdomstol ska entlediga ett offentligt biträde som har förordnats med stöd av 1 a § i de situationer som anges i artikel 17.2 b och d i asylprocedurförordningen. *Lag (2026:1142)*.
+
+#### 2 a §
+
+Vid överklagande av beslut enligt asyl- och migrationshanteringsförordningen ska en migrationsdomstol eller Migrationsöverdomstolen på utlänningens begäran förordna offentligt biträde för den som åtgärden avser. Om överklagandet anses sakna rimliga utsikter till framgång ska offentligt biträde dock inte förordnas. *Lag (2026:1142)*.
+
+#### 2 b §
+
+I mål och ärenden som rör överklagande av Polismyndighetens beslut om avvisning ska det på utlänningens begäran förordnas ett offentligt biträde, om utlänningen befinner sig i Sverige och överklagandet inte saknar rimliga utsikter till framgång.
+
+Första stycket gäller inte om utlänningen genom avvisningsbeslutet har nekats att resa in i landet.
+
+*Lag (2026:1339)*.
+
+#### 3 §
+
+Den som är förordnad som offentligt biträde för ett barn som saknar vårdnadshavare här i landet är utan särskilt förordnande barnets ställföreträdare i det mål eller ärende som förordnandet avser. Detta gäller dock inte om det finns en god man för barnet enligt lagen (2005:429) om god man för ensamkommande barn eller om det har utsetts en företrädare eller tillfällig företrädare för barnet enligt artikel 23.2 i asylprocedurförordningen. *Lag (2026:1142)*.
+
+#### 4 §
+
+Den som är förordnad som god man för ett barn enligt lagen (2005:429) om god man för ensamkommande barn ska ansöka om uppehållstillstånd för barnet, om detta inte är uppenbart obehövligt. Om en sådan god man inte är förordnad, gäller vad som nu sagts i stället den som är förordnad som offentligt biträde för barnet.
+
+I artikel 23.6-23.8 i asylprocedurförordningen anges de uppgifter som en företrädare eller tillfällig företrädare ska utföra, om en sådan har utsetts för ett ensamkommande barn enligt artikel 23.2 i den förordningen. *Lag (2026:1142)*.
+
+## 19 kap. Kostnadsansvar
+
+### Utlänningens ansvar för resekostnader
+
+#### 1 §
+
+En utlänning som avvisas eller utvisas är skyldig att betala kostnaden för sin egen resa till den ort dit han eller hon sänds eller åläggs att resa genom en myndighets försorg.
+
+### Transportörens ersättningsskyldighet
+
+#### 2 §
+
+Om en utlänning som har kommit till Sverige med ett fartyg eller ett luftfartyg direkt från en stat som inte omfattas av Schengenkonventionen avvisas därför att utlänningen saknar pass eller de tillstånd som krävs för att resa in i landet eller medel för hemresan, är transportören skyldig att ersätta staten för
+
+1. kostnaden för utlänningens resa från Sverige,
+
+2. resekostnaden från Sverige och tillbaka för den bevakningspersonal som behöver följa med, och
+
+3. kostnaden för utlänningens uppehälle här innan avvisningen kan verkställas, om dröjsmålet av verkställigheten beror på transportören.
+
+Transportören (fartygets eller luftfartygets ägare eller brukare) skall helt eller delvis befrias från denna skyldighet, om
+
+1. transportören visar sig ha haft skälig anledning att anta att utlänningen hade rätt att resa in i Sverige, eller
+
+2. det med hänsyn till kostnadens storlek eller av andra skäl framstår som uppenbart oskäligt att kräva ut ersättning för kostnaden.
+
+#### 3 §
+
+Om en utlänning som är anställd ombord på ett fartyg eller ett luftfartyg lämnar fartyget eller luftfartyget under dess uppehåll i Sverige och olovligen reser in i Sverige och avvisas, är transportören skyldig att
+
+- ersätta kostnaderna för utlänningens resa från Sverige, och
+
+- svara för kostnaderna för utlänningens uppehälle för de närmaste tre månaderna efter inresan.
+
+Det som sägs om en utlänning som är anställd ombord på ett fartyg eller luftfartyg gäller också i fråga om en utlänning som utan tillåtelse har följt med ett sådant fartyg.
+
+Har fartyget eller luftfartyget utländsk ägare eller brukare, är befälhavaren skyldig att på ägarens eller brukarens vägnar svara för kostnaderna enligt första stycket, om det inte är uppenbart oskäligt.
+
+#### 4 §
+
+Beslut om ersättningsskyldighet meddelas av den myndighet som verkställer avvisningen.
+
+### Särskilda avgifter
+
+#### 5 §
+
+En transportör som inte fullgjort sin kontrollskyldighet enligt 9 kap. 3 § skall betala en särskild avgift, om beslut om avvisning meddelats på grund av att utlänningen saknar pass eller de tillstånd som krävs för inresa och beslutet vunnit laga kraft eller verkställts trots att det inte vunnit laga kraft.
+
+Transportören skall dock inte betala någon särskild avgift, om
+
+1. transportören visar sig ha haft skälig anledning att anta att utlänningen hade rätt att resa in i Sverige, eller
+
+2. det framstår som uppenbart oskäligt att ta ut avgiften.
+
+#### 5 a §
+
+En transportör som inte har fullgjort sin uppgiftsskyldighet enligt 9 kap. 3 a § skall betala en särskild avgift.
+
+Transportören skall dock inte betala någon särskild avgift, om
+
+1. transportören visar att underlåtenheten inte beror på fel eller försummelse, eller
+
+2. det framstår som uppenbart oskäligt att ta ut avgiften.
+
+*Lag (2006:447)*.
+
+#### 6 §
+
+Den särskilda avgiften enligt 5 § skall för varje utlänning bestämmas till högst 46 000 kronor.
+
+Den särskilda avgiften enligt 5 a § skall för varje flygning som har gjorts utan att transportören har fullgjort sin uppgiftsskyldighet bestämmas till högst 46 000 kronor.
+
+*Lag (2006:447)*.
+
+#### 7 §
+
+Frågan om transportören ska betala en avgift enligt 5 § prövas av den myndighet som ska verkställa avvisningen.
+
+Frågan om transportören ska betala en avgift enligt 5 a § prövas av Polismyndigheten.
+
+Avgiften enligt 5 § ska betalas till Migrationsverket.
+
+Avgiften enligt 5 a § ska betalas till Polismyndigheten.
+
+Avgifterna tillfaller staten.
+
+Mål om uttagande av avgift handläggs som allmänt mål.
+
+Bestämmelser om indrivning finns i lagen (1993:891) om indrivning av statliga fordringar m.m. *Lag (2014:655)*.
+
+#### 8 §
+
+Regeringen får meddela föreskrifter om att även annan myndighet än Polismyndigheten ska pröva frågan om transportören ska betala en avgift enligt 5 a §.
+
+*Lag (2014:655)*.
+
+## 20 kap. Bestämmelser om straff m.m.
+
+#### 1 §
+
+Till böter döms en utlänning som uppsåtligen eller av oaktsamhet uppehåller sig i Sverige utan föreskrivet tillstånd, utan att utlänningen har ansökt om ett sådant tillstånd och utan att en förundersökningsledare eller en socialnämnd har ansökt om tidsbegränsat uppehållstillstånd för utlänningen med stöd av 5 kap. 15 §.
+
+I ringa fall ska åtal för brott enligt denna paragraf inte väckas annat än om det är motiverat från allmän synpunkt.
+
+*Lag (2022:1015)*.
+
+#### 1 a §
+
+Till fängelse i högst ett år eller, om brottet är ringa, till böter döms en utlänning som bryter mot en anmälningsskyldighet eller en områdesbegränsning enligt 9 a kap.
+
+I ringa fall ska åtal för brott enligt första stycket inte väckas annat än om det är motiverat från allmän synpunkt.
+
+*Lag (2026:385)*.
+
+#### 2 §
+
+Till fängelse i lägst sex månader och högst två år eller, om brottet är ringa, till böter eller fängelse i högst sex månader döms en utlänning som uppsåtligen uppehåller sig i Sverige fastän han eller hon enligt ett verkställt beslut om utvisning enligt 8 a kap. inte har haft rätt att återvända hit.
+
+Första stycket gäller inte om utlänningen har flytt hit av skäl som avses i artikel 3.5 eller 3.6 i skyddsgrundsförordningen. *Lag (2026:1259)*.
+
+#### 3 §
+
+Till böter döms en utlänning som uppsåtligen eller av oaktsamhet har anställning eller bedriver verksamhet som kräver arbetstillstånd, utan att inneha ett sådant tillstånd.
+
+#### 4 §
+
+Till böter eller fängelse i högst ett år döms en utlänning som uppsåtligen på ett otillåtet sätt passerar en yttre gräns enligt kodexen om Schengengränserna.
+
+*Lag (2015:91)*.
+
+#### 5 §
+
+Till fängelse i högst två år eller, om brottet är ringa, till böter döms den som uppsåtligen eller av oaktsamhet har en utlänning anställd, om utlänningen
+
+1. inte har rätt att vistas i Sverige, eller
+
+2. har rätt att vistas här men saknar föreskrivet arbetstillstånd.
+
+I fråga om påförande av särskild avgift gäller 12-14 §§.
+
+*Lag (2026:1259)*.
+
+#### 6 §
+
+Till böter, eller när omständigheterna är försvårande, fängelse i högst sex månader döms
+
+1. den som uppsåtligen eller av oaktsamhet inte gör anmälan som föreskrivs i en förordning som har utfärdats med stöd av denna lag,
+
+2. den som i en anmälan eller ett ansökningsärende enligt denna lag eller enligt en förordning som har utfärdats med stöd av denna lag medvetet lämnar oriktig uppgift eller medvetet underlåter att tala om något förhållande av betydelse.
+
+#### 7 §
+
+Till fängelse i högst två år eller, när omständigheterna är mildrande, till böter döms den som genom att dölja en utlänning eller genom någon annan sådan åtgärd uppsåtligen hjälper utlänningen att olovligen uppehålla sig i Sverige, en annan EU-stat eller Island, Norge, Schweiz eller Liechtenstein, om detta görs i vinstsyfte.
+
+För försök till brott enligt denna paragraf döms till ansvar enligt 23 kap. brottsbalken. *Lag (2011:1209)*.
+
+#### 8 §
+
+Den som uppsåtligen hjälper en utlänning att olovligen komma in i eller passera genom Sverige, en annan EU-stat eller Island, Norge, Schweiz eller Liechtenstein döms för människosmuggling till fängelse i högst två år.
+
+Är brottet att anse som grovt döms för grov människosmuggling till fängelse, lägst sex månader och högst sex år. Vid bedömande av om brottet är grovt ska särskilt beaktas om gärningen
+
+1. utförts mot ersättning,
+
+2. utgjort ett led i en verksamhet som avsett ett stort antal personer, eller
+
+3. utförts under former som innebär livsfara för utlänningen eller annars utförts under hänsynslösa former.
+
+Är brottet att anse som ringa döms till böter eller fängelse i högst sex månader.
+
+För försök eller förberedelse till brott enligt denna paragraf döms till ansvar enligt 23 kap. brottsbalken. *Lag (2011:1209)*.
+
+#### 9 §
+
+Den som i vinstsyfte planlägger eller organiserar verksamhet som är inriktad på att främja att utlänningar reser till Sverige utan pass eller de tillstånd som krävs för inresa i Sverige döms för organiserande av människosmuggling till fängelse i högst två år. Med avsaknad av tillstånd jämställs ett tillstånd som har utfärdats på grundval av osanna uppgifter, om uppgiftslämnandet har främjats inom ramen för verksamheten.
+
+Är brottet grovt döms för grovt organiserande av människosmuggling till fängelse i lägst sex månader och högst sex år. Vid bedömande av om brottet är grovt ska det särskilt beaktas om gärningen innefattar ett systematiskt utnyttjande av utlänningars utsatta situation, eller innefattar livsfara eller annan hänsynslöshet gentemot utlänningarna.
+
+Är brottet att anse som ringa döms till böter eller fängelse i högst sex månader.
+
+Den som hjälper en utlänning att resa till Sverige döms för medhjälp till brott enligt första-tredje styckena, om resan har främjats på det sätt som sägs i första stycket och medhjälparen insåg eller hade skälig anledning att anta det.
+
+*Lag (2022:303)*.
+
+#### 10 §
+
+Den som, i annat fall än som avses i 4 kap. 1 a eller 1 b § brottsbalken, har en utlänning anställd eller i övrigt har bestämmande inflytande över utlänningens arbetsförhållanden och exploaterar honom eller henne i arbete under uppenbart orimliga villkor, döms för exploatering av utländsk arbetskraft till fängelse i högst två år.
+
+Är brottet grovt döms för grov exploatering av utländsk arbetskraft till fängelse i lägst sex månader och högst fyra år. Vid bedömningen av om brottet är grovt ska det särskilt beaktas om gärningen avsett en verksamhet som bedrivits i större omfattning, medfört betydande vinning eller inneburit ett särskilt hänsynslöst utnyttjande av utlänningen. *Lag (2026:295)*.
+
+#### 10 a §
+
+Den som anställer en utlänning eller bistår en utlänning med att ansöka om arbetstillstånd och för detta begär eller tar emot en ersättning av utlänningen som står i uppenbart missförhållande till motprestationen, döms för handel med arbetstillstånd till fängelse i högst två år. Detsamma gäller den som anställer en utlänning eller bistår en utlänning med att ansöka om arbetstillstånd och för detta träffar avtal med utlänningen om en sådan ersättning.
+
+Om brottet är grovt, döms till fängelse i lägst sex månader och högst fyra år. Vid bedömningen av om brottet är grovt ska det särskilt beaktas om gärningen avsett en verksamhet som bedrivits i större omfattning, medfört betydande vinning eller inneburit ett särskilt hänsynslöst utnyttjande av utlänningen.
+
+*Lag (2026:295)*.
+
+#### 10 b §
+
+Ett avtalsvillkor om sådan ersättning som avses i 10 a § första stycket är ogiltigt. Den som har tagit emot ersättning enligt 10 a § första stycket är skyldig att lämna tillbaka det han eller hon har tagit emot. *Lag (2026:295)*.
+
+### Särskilda bestämmelser om förverkande
+
+#### 11 §
+
+Om ägaren till ett fartyg som har använts eller varit avsett att användas som transportmedel vid brott som avses i 7, 8 eller 9 § inte är känd eller saknar känd hemvist i Sverige, får talan om förverkande föras mot befälhavaren på fartyget. *Lag (2024:847)*.
+
+### Avgifter
+
+#### 12 §
+
+En fysisk eller juridisk person som har en utlänning anställd ska, oavsett om ansvar krävs ut enligt 5 §, betala en särskild avgift, om utlänningen
+
+1. inte har rätt att vistas i Sverige, eller
+
+2. har rätt att vistas här men saknar föreskrivet arbetstillstånd.
+
+Särskild avgift enligt första stycket 1 ska inte betalas av den som har
+
+1. kontrollerat utlänningens rätt att vistas i Sverige,
+
+2. behållit en kopia av eller ett utdrag ur den eller de handlingar som visar att utlänningen har rätt att vistas här, och
+
+3. underrättat den behöriga myndigheten, som anges i en förordning som har utfärdats med stöd av denna lag, om anställningen.
+
+För varje utlänning är avgiften två gånger det prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken som gällde när överträdelsen upphörde. Om överträdelsen har pågått under en längre tid än tre månader, är avgiften för varje utlänning i stället fyra gånger prisbasbeloppet. Avgiften får sättas ned helt eller delvis, om särskilda skäl talar för det. Avgiften tillfaller staten. *Lag (2026:295)*.
+
+#### 12 a §
+
+En fysisk eller juridisk person som är uppdragsgivare, eller uppdragsgivare i tidigare led, åt en arbetsgivare som har en utlänning som inte har rätt att vistas i Sverige anställd, ska betala en särskild avgift om
+
+1. uppdragsgivaren, eller en uppdragsgivare i tidigare led, har anlitat arbetsgivaren som underentreprenör för att genomföra ett avtal om entreprenad eller underentreprenad,
+
+2. utlänningen arbetar inom underentreprenaden, och
+
+3. uppdragsgivaren, eller uppdragsgivaren i tidigare led, inte är beställare i huvudentreprenadavtalet.
+
+En uppdragsgivare som har vidtagit rimliga kontrollåtgärder och som inte inser eller har skälig anledning att anta att arbetsgivaren hade en eller flera utlänningar anställda som saknade rätt att vistas i Sverige, ska inte betala den särskilda avgiften.
+
+En uppdragsgivare i tidigare led ska betala den särskilda avgiften endast om uppdragsgivaren inser eller har skälig anledning att anta att arbetsgivaren hade en eller flera utlänningar anställda som saknade rätt att vistas här och som arbetade inom underentreprenaden.
+
+För varje utlänning är avgiften två gånger det prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken som gällde när överträdelsen upphörde. Om överträdelsen har pågått under en längre tid än tre månader, är avgiften för varje utlänning i stället fyra gånger prisbasbeloppet. Avgiften får sättas ned helt eller delvis, om särskilda skäl talar för det. Avgiften tillfaller staten. *Lag (2026:295)*.
+
+#### 13 §
+
+Allmän domstol prövar, efter ansökan, om särskild avgift ska tas ut enligt 12 eller 12 a §§. Ansökan ska göras av allmän åklagare inom två år efter det att överträdelsen upphörde. I fråga om sådan talan tillämpas bestämmelserna i rättegångsbalken om åtal för brott på vilket inte kan följa svårare straff än böter och bestämmelserna om kvarstad i brottmål.
+
+Avgiften får inte tas ut när fem år har gått efter det att överträdelsen upphörde. *Lag (2013:646)*.
+
+#### 14 §
+
+Den särskilda avgiften skall betalas till länsstyrelsen inom två månader från det att domstolens beslut vann laga kraft. En upplysning om detta skall tas in i beslutet. Om avgiften inte betalas inom denna tid, skall dröjsmålsavgift tas ut enligt lagen (1997:484) om dröjsmålsavgift. Den obetalda avgiften och dröjsmålsavgift skall lämnas för indrivning.
+
+Regeringen får meddela föreskrifter om att indrivning inte behöver begäras för ett ringa belopp. Bestämmelser om indrivning finns i lagen (1993:891) om indrivning av statliga fordringar m.m.
+
+Avgiften får inte drivas in när fem år har gått efter det att beslutet vann laga kraft.
+
+### Annan särskild rättsverkan
+
+#### 15 §
+
+Den som har begått ett brott som avses i 5 § första stycket 1 får, på yrkande av allmän åklagare, för en tid av högst fem år fråntas sin rätt till en del av eller alla offentliga stöd, bidrag och förmåner som har beviljats men ännu inte betalats ut eller kommit honom eller henne till del om
+
+1. omständigheterna vid gärningen är försvårande,
+
+2 åtgärden är motiverad med hänsyn till brottets straffvärde,
+
+3 den samlade reaktionen på brottsligheten inte blir oproportionerligt sträng, och
+
+4. anställningen har avsett arbete för annat än arbetsgivarens privata syften.
+
+Särskild rättsverkan enligt denna paragraf får inte avse stöd, bidrag eller annan förmån som har beviljats en fysisk person för hans eller hennes privata behov. *Lag (2013:646)*.
+
+#### 16 §
+
+Den som har begått ett brott som avses i 5 § första stycket 1 och som har tagit emot offentliga stöd, bidrag eller andra förmåner får, på yrkande av allmän åklagare, förpliktas att betala tillbaka en del av eller alla sådana stöd, bidrag eller andra förmåner som betalats ut eller annars kommit honom eller henne till del upp till tolv månader innan brottet kom till Polismyndighetens kännedom om
+
+1. omständigheterna vid gärningen är försvårande,
+
+2. åtgärden är motiverad med hänsyn till brottets straffvärde,
+
+3. den samlade reaktionen på brottsligheten inte blir oproportionerligt sträng, och
+
+4. anställningen har avsett arbete för annat än arbetsgivarens privata syften.
+
+Särskild rättsverkan enligt denna paragraf får inte avse stöd, bidrag eller annan förmån som har betalats ut till en fysisk person för hans eller hennes privata behov.
+
+*Lag (2014:655)*.
+
+#### 17 §
+
+Om ett brott som avses i 5 § första stycket 1 har begåtts i en verksamhet som drivs av en juridisk person, får särskild rättsverkan enligt 15 och 16 §§ beslutas mot den juridiska personen, om
+
+1. ledningen för den juridiska personen inte har gjort vad som skäligen kunnat krävas för att förebygga brottsligheten, eller
+
+2. brottet har begåtts av
+
+a) en person i ledande ställning grundad på befogenhet att företräda den juridiska personen eller att fatta beslut på den juridiska personens vägnar, eller
+
+b) en person som annars haft ett särskilt ansvar för tillsyn eller kontroll i verksamheten. *Lag (2013:646)*.
+
+## 21 kap. Tillfälligt skydd
+
+#### 1 §
+
+I detta kapitel finns bestämmelser om tillfälligt skydd enligt rådets direktiv 2001/55/EG av den 20 juli 2001 om miniminormer för att ge tillfälligt skydd vid massiv tillströmning av fördrivna personer och om åtgärder för att främja en balans mellan medlemsstaternas insatser för att ta emot dessa personer och bära följderna av detta.
+
+#### 2 §
+
+En utlänning som omfattas av ett beslut om tillfälligt skydd enligt direktiv 2001/55/EG och som i enlighet med direktivet överförs till eller tas emot i Sverige ska ges ett tidsbegränsat uppehållstillstånd, uppehållstillstånd med tillfälligt skydd.
+
+Uppehållstillstånd med tillfälligt skydd får vägras utlänningen endast om det föreligger sådana omständigheter som innebär att en utlänning är utesluten från att vara flykting enligt artikel 12 i skyddsgrundsförordningen eller får vägras flyktingstatus enligt artikel 14.2 i samma förordning.
+
+*Lag (2026:1142)*.
+
+#### 3 §
+
+Regeringen får meddela föreskrifter om att ytterligare kategorier av fördrivna personer utöver dem som omfattas av Europeiska unionens råds beslut får ges uppehållstillstånd med tillfälligt skydd, om dessa personer har fördrivits av samma skäl och från samma ursprungsland eller ursprungsregion.
+
+Föreskrifter som meddelats med stöd av första stycket skall anmälas till riksdagen genom en särskild skrivelse inom tre månader.
+
+#### 4 §
+
+Om ett uppehållstillstånd med tillfälligt skydd har getts till en person (anknytningspersonen) ska ett sådant tillstånd också ges till en utlänning som är make eller sambo till anknytningspersonen eller barn till anknytningspersonen eller till hans eller hennes make eller sambo, om familjen fanns redan i ursprungslandet och splittrades på grund av omständigheterna kring den massiva tillströmningen av fördrivna personer.
+
+Utöver det som anges i första stycket får uppehållstillstånd med tillfälligt skydd också ges till en utlänning som på annat sätt är nära anhörig till anknytningspersonen och som ingick i samma hushåll vid tidpunkten för omständigheterna kring den massiva tillströmningen av fördrivna personer och som vid den tidpunkten var helt eller delvis beroende av anknytnings- personen.
+
+Uppehållstillstånd enligt denna paragraf får vägras en utlänning endast om det finns synnerliga skäl med hänsyn till rikets säkerhet eller på grund av utlänningens brottslighet. *Lag (2026:1686)*.
+
+#### 5 §
+
+Att en utlänning har beviljats uppehållstillstånd med tillfälligt skydd hindrar inte att en ansökan om internationellt skydd prövas.
+
+Om en ansökan enligt första stycket inte har prövats innan det tillfälliga skyddet har upphört att gälla, ska den prövas så snart det kan ske efter denna tidpunkt. *Lag (2026:1142)*.
+
+#### 6 §
+
+Ett uppehållstillstånd med tillfälligt skydd får inte gälla under längre tid än den tid som beslutats av Europeiska unionens råd.
+
+Om ett program för att förbereda att utlänningen återvänder självmant har inletts när ett uppehållstillstånd med tillfälligt skydd upphör, får tillståndet förlängas högst två år för en person som deltar i programmet. Detta tillstånd skall kallas uppehållstillstånd efter tillfälligt skydd.
+
+#### 7 §
+
+En utlänning som beviljas uppehållstillstånd med tillfälligt skydd eller uppehållstillstånd efter tillfälligt skydd ska också ges arbetstillstånd för den tid som uppehållstillståndet gäller. *Lag (2024:693)*.
+
+#### 8 §
+
+En utlänning som har beviljats uppehållstillstånd med tillfälligt skydd får överföras till en annan medlemsstat, om utlänningen samtycker till det. När överföringen sker skall tillståndet i Sverige återkallas.
+
+#### 9 §
+
+I 8 a kap. 3 § finns bestämmelser om utvisning på grund av brott i fråga om en utlänning som har uppehållstillstånd med tillfälligt skydd. *Lag (2026:1259)*.
+
+#### 9 a §
+
+I lagen (2026:456) om uppehållstillstånd i vissa fall för utlänningar med tillfälligt skydd finns särskilda bestämmelser om uppehållstillstånd med anledning av rådets genomförandebeslut (EU) 2022/382 av den 4 mars 2022 om fastställande av att det föreligger massiv tillströmning av fördrivna personer från Ukraina i den mening som avses i artikel 5 i direktiv 2001/55/EG, med följden att tillfälligt skydd införs. Den lagen gäller för en utlänning som till följd av genomförandebeslutet har beviljats uppehållstillstånd med tillfälligt skydd, eller uppehållstillstånd efter tillfälligt skydd, enligt 2, 3, 4 eller 6 § i detta kapitel.
+
+*Lag (2026:457)*.
+
+#### 10 §
+
+Beslut enligt detta kapitel meddelas av Migrationsverket.
+
+22 kap.
+
+### Tribunalvittnen
+
+#### 1 §
+
+I detta kapitel finns bestämmelser om skydd för personer som vittnat eller kommer att vittna i förhandlingar inför en internationell domstol eller tribunal, med vilken Sverige har ingått avtal om sådant skydd, samt för deras nära anhöriga.
+
+#### 2 §
+
+Ett tidsbegränsat uppehållstillstånd om minst ett år ska ges till en utlänning för vilken en framställan om omplacering av vittne eller nära anhörig till vittne har gjorts från en internationell domstol eller tribunal, om framställan bedöms vara berättigad.
+
+Med vittne avses i denna paragraf den som har vittnat eller kommer att vittna i förhandlingar inför en internationell domstol eller tribunal i enlighet med dess procedur- eller bevisupptagningsregler.
+
+Med nära anhörig till vittne avses vittnets
+
+- make eller sambo,
+
+- barn som är beroende av vittnet, samt
+
+- annan anhörig till vittnet som ingår i samma hushåll som vittnet och mellan vilka det föreligger ett särskilt beroendeförhållande.
+
+Om en framställan enligt första stycket anses berättigad får uppehållstillstånd vägras endast om det föreligger sådana omständigheter som innebär att en utlänning är utesluten från att anses som flykting enligt artikel 12 i skyddsgrundsförordningen eller får vägras flyktingstatus enligt artikel 14.2 i samma förordning. *Lag (2026:1142)*.
+
+#### 3 §
+
+En utlänning som har tidsbegränsat uppehållstillstånd enligt 2 § skall ges fortsatt tidsbegränsat eller permanent uppehållstillstånd, om detta bedöms som nödvändigt av den internationella domstolen eller tribunalen. Om utlänningen ges ett nytt tidsbegränsat uppehållstillstånd skall tillståndstiden bestämmas till minst ett år.
+
+Uppehållstillstånd enligt denna paragraf får vägras en utlänning endast om det finns synnerliga skäl med hänvisning till rikets säkerhet eller på grund av dennes brottslighet.
+
+#### 4 §
+
+En utlänning som beviljas tidsbegränsat uppehållstillstånd enligt 2 eller 3 § skall ges arbetstillstånd under den tid som uppehållstillståndet gäller.
+
+#### 5 §
+
+I 8 a kap. 3 § finns bestämmelser om utvisning på grund av brott i fråga om en utlänning som har uppehållstillstånd enligt 2 eller 3 §. *Lag (2026:1259)*.
+
+#### 6 §
+
+Beslut enligt detta kapitel meddelas av Migrationsverket.
+
+#### 7 §
+
+Migrationsverkets beslut i fråga om uppehållstillstånd enligt 2 och 3 §§ får inte överklagas.
+
+## 23 kap. Särskilda bemyndiganden
+
+#### 1 §
+
+Regeringen får, utöver vad som förut angetts i denna lag, meddela föreskrifter om
+
+1. skyldighet att anmäla utlänningars vistelse, anställning eller anställningsvillkor i Sverige,
+
+2. sådana inskränkningar i utlänningars rätt att vara anställda i ett visst företag eller i företag av visst slag som är nödvändiga med hänsyn till rikets säkerhet,
+
+3. skyldighet att kontrollera utlänningars rätt att vistas och arbeta i Sverige,
+
+4. skyldighet för arbetsgivare till en utlänning som beviljats arbetstillstånd enligt 6 kap. 2 § första stycket att lämna uppgift om de anställningsvillkor som gäller för utlänningen och föreskrifter om hur uppgiftsskyldigheten ska uppfyllas.
+
+*Lag (2022:303)*.
+
+#### 2 §
+
+*/Upphör att gälla U:2027-01-01/* Regeringen får meddela föreskrifter om att sända hem utlänningar som inte är flyktingar och som har tagits om hand enligt lagen (1990:52) med särskilda bestämmelser om vård av unga, lagen (1991:1128) om psykiatrisk tvångsvård eller lagen (1991:1129) om rättspsykiatrisk vård.
+
+Regeringen får, efter avtal med annat land om behandling av fripassagerare, meddela föreskrifter om avvikelser från bestämmelserna i denna lag och föreskrifter om vad som i övrigt behövs för tillämpningen av avtalet. Sådana föreskrifter får inte avse förfarandet i domstol.
+
+#### 2 §
+
+*/Träder i kraft I:2027-01-01/* Regeringen får meddela föreskrifter om att sända hem utlänningar som inte är flyktingar och som har tagits om hand enligt lagen (2026:1600) om omhändertagande för vård av barn och unga, lagen (1991:1128) om psykiatrisk tvångsvård eller lagen (1991:1129) om rättspsykiatrisk vård.
+
+Regeringen får, efter avtal med annat land om behandling av fripassagerare, meddela föreskrifter om avvikelser från bestämmelserna i denna lag och föreskrifter om vad som i övrigt behövs för tillämpningen av avtalet. Sådana föreskrifter får inte avse förfarandet i domstol.
+
+*Lag (2026:1619)*.
+
+#### 2 a §
+
+Regeringen får meddela föreskrifter om avgifter för handläggningen av ärenden om uppehållstillstånd och arbetstillstånd.
+
+Sådana föreskrifter får inte innebära att avgift tas ut för handläggning av ärenden om uppehållstillstånd som gäller
+
+1. skyddsbehov, utom i fråga om utfärdande av uppehållstillstånd enligt skyddsgrundsförordningen,
+
+2. familjeåterförening med personer som fått uppehållstillstånd på grund av skyddsbehov eller synnerligen ömmande omständigheter,
+
+3. vidarebosättning i Sverige, eller
+
+4. personer som omfattas av EES-avtalet eller andra internationella avtal. *Lag (2026:1142)*.
+
+#### 3 §
+
+Regeringen får meddela föreskrifter om vad som skall gälla i krig, vid krigsfara eller under sådana utomordentliga förhållanden som är föranledda av krig eller krigsfara som Sverige har befunnit sig i. Föreskrifterna får gälla utlänningars
+
+1. inresa och vistelse i landet,
+
+2. utresa ur landet,
+
+3. rätt att ha anställning eller offentligt förtroendeuppdrag här i landet,
+
+4. avlägsnande från landet, och
+
+5. omhändertagande i anstalt eller förläggning.
+
+#### 4 §
+
+En föreskrift enligt 3 § 4 eller 5 som har meddelats i andra fall än då Sverige är i krig skall underställas riksdagen för prövning inom en månad från ikraftträdandet.
+
+Föreskriften upphör att gälla, om den inte underställts riksdagen i rätt tid eller om riksdagen inte godkänner den inom två månader från den dag då underställningen skedde.
+
+## Övergångsbestämmelser
+
+**2005:716**
+
+1. Denna lag träder i kraft den 31 mars 2006. Utlänningslagen (1989:529) skall samtidigt upphöra att gälla.
+
+2. Om det i en lag eller någon annan författning hänvisas till föreskrifter som har ersatts genom föreskrifter i denna lag, skall i stället de nya föreskrifterna tillämpas.
+
+3. Ärenden som rör överklaganden och som har kommit in till Utlänningsnämnden men inte avgjorts före den 31 mars 2006 skall överlämnas till den migrationsdomstol inom vars domkrets ärendet först har prövats. Ärenden som rör uppehållstillstånd enligt 2 kap. 5 b § utlänningslagen (1989:529) skall, såvitt gäller frågor om uppehållstillstånd, handläggas enligt äldre föreskrifter. Även vad gäller förutsättningar för att förordna offentligt biträde i dessa ärenden gäller äldre föreskrifter.
+
+*Lag (2005:763)*.
+
+4. Ärenden som har överlämnats till regeringen enligt 7 kap. 11 § andra stycket 1, 3 eller 4 utlänningslagen (1989:529) men inte avgjorts före den 31 mars 2006 skall överlämnas till Migrationsverket, om en myndighet inte har fattat beslut i ärendet, och i annat fall till den migrationsdomstol inom vars domkrets ärendet först har prövats.
+
+5. Ärenden som har överlämnats till regeringen enligt 7 kap. 11 § andra stycket 2 utlänningslagen (1989:529) men inte avgjorts före den 31 mars 2006 handläggs enligt äldre föreskrifter.
+
+6. Mål som överklagats till allmän förvaltningsdomstol enligt utlänningslagen (1989:529) men inte avgjorts före den 31 mars 2006 handläggs enligt äldre föreskrifter.
+
+**2006:220**
+
+1. Denna lag träder i kraft den 1 juli 2006 i fråga om 13 kap. 15 och 16 §§ samt 14 kap. 8 a § och i övrigt den 30 april 2006.
+
+2. Bestämmelsen i 7 kap. 3 § andra stycket skall inte tillämpas på uppehållstillstånd som beviljats före den 30 april 2006.
+
+**2006:447**
+
+1. Denna lag träder i kraft den 1 januari 2007 i fråga om 7 kap. 7 a § och i övrigt den 1 september 2006.
+
+2. Bestämmelsen i 7 kap. 7 a § skall inte tillämpas på uppehållstillstånd som beviljats före den 1 januari 2007.
+
+**2007:322**
+
+1. Denna lag träder i kraft den 1 juli 2007.
+
+2. Bestämmelsen i 7 kap. 7 b § skall inte tillämpas på uppehållstillstånd som beviljats före den 1 juli 2007.
+
+**2009:1542**
+
+1. Denna lag träder i kraft den 1 januari 2010.
+
+2. Ärenden som rör överklaganden och som har kommit in till regeringen men inte avgjorts före den 1 januari 2010 ska överlämnas till Migrationsöverdomstolen för prövning. Ärenden som överlämnats till regeringen enligt 12 kap. 20 § andra stycket i dess äldre lydelse men inte avgjorts före den 1 januari 2010 ska överlämnas till Migrationsverket för prövning.
+
+3. Vid tillämpningen av de nya föreskrifterna i denna lag jämställs flyktingförklaring med flyktingstatusförklaring.
+
+**2010:175**
+
+1. Denna lag träder i kraft den 15 april 2010.
+
+2. Bestämmelsen i 5 kap. 3 c § 3 ska även gälla en utlänning som har beviljats uppehållstillstånd som skyddsbehövande i övrigt enligt 3 kap. 3 § första stycket 3 utlänningslagen (1989:529).
+
+3. Bestämmelsen i 5 kap. 3 c § 5 ska även gälla en utlänning som har beviljats uppehållstillstånd som skyddsbehövande i övrigt enligt 3 kap. 3 § första stycket 1 eller på grund av yttre eller inre väpnad konflikt enligt 3 kap. 3 § första stycket 2 utlänningslagen (1989:529). Detsamma ska gälla en utlänning som har beviljats uppehållstillstånd som skyddsbehövande i övrigt enligt 4 kap. 2 § första stycket 1 eller på grund av yttre eller inre väpnad konflikt enligt 4 kap. 2 § första stycket 2 utlänningslagen (2005:716) i dess lydelse före den 1 januari 2010.
+
+**2012:129**
+
+1. Denna lag träder i kraft den 1 maj 2012.
+
+2. För beslut om avvisning eller utvisning som har meddelats före ikraftträdandet gäller 12 kap. 15 § i sin äldre lydelse.
+
+**2013:107**
+
+1. Denna lag träder i kraft den 1 juli 2013.
+
+2. De nya bestämmelserna i 16 kap. 12 a och 12 b §§ gäller inte i fråga om beslut som en migrationsdomstol har meddelat före ikraftträdandet.
+
+**2013:648**
+
+1. Denna lag träder i kraft den 1 september 2013.
+
+2. Äldre föreskrifter gäller för handläggning av ärenden som avser upphävande av allmän domstols beslut om utvisning på grund av brott och som har kommit in till regeringen före ikraftträdandet.
+
+**2014:198**
+
+1. Denna lag träder i kraft den 1 maj 2014.
+
+2. Vid tillämpningen av 8 kap. 25 och 26 §§, 8 a kap. 9 §, 10 kap. 2 § andra stycket 1 och 7 § andra stycket, 12 kap. 4, 6, 7, 8 a och 10 §§ och 23 § andra stycket 2 samt 20 kap. 2 § ska med beslut som där nämns likställas motsvarande beslut enligt äldre bestämmelser.
+
+**2014:777**
+
+1. Denna lag träder i kraft den 1 juli 2014.
+
+2. För en flykting eller en annan skyddsbehövande som senast den 30 juni 2014 har återvänt till ett land där han eller hon tidigare har varit bosatt därför att de politiska förhållandena i det landet har ändrats, gäller 7 kap. 7 § i sin äldre lydelse.
+
+**2014:792**
+
+1. Denna lag träder i kraft den 1 augusti 2014.
+
+2. För beslut om överföring enligt rådets förordning (EG) nr 343/2003 av den 18 februari 2003 om kriterier och mekanismer för att avgöra vilken medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land har gett in i någon medlemsstat gäller 1 kap. 9 § i sin äldre lydelse.
+
+3. För asylansökningar på vilka rådets förordning (EG) nr 343/2003 av den 18 februari 2003 om kriterier och mekanismer för att avgöra vilken medlemsstat som har ansvaret för att pröva en asylansökan som en medborgare i tredje land har gett in i någon medlemsstat är tillämplig gäller 5 kap. 1 b § i sin äldre lydelse.
+
+**2017:258**
+
+1. Denna lag träder i kraft den 1 maj 2017.
+
+2. De nya föreskrifterna tillämpas inte om ansökan om uppehållstillstånd har registrerats hos Migrationsverket före den 1 februari 2017.
+
+**2017:356**
+
+Denna lag träder i kraft den 20 juli 2021 i fråga om 5 kap. 18 § och i övrigt den 1 juni 2017. *Lag (2019:487)*.
+
+**2018:739**
+
+1. Denna lag träder i kraft den 1 juli 2018.
+
+2. Äldre föreskrifter gäller för överträdelser som har ägt rum före ikraftträdandet.
+
+**2019:1208**
+
+1. Denna lag träder i kraft den 1 januari 2020.
+
+2. Vid tillämpning av de nya bestämmelserna ska uppehållstillstånd som har beviljats före ikraftträdandet för studier eller forskning enligt 4 kap. 5 § respektive 7 a § utlänningsförordningen (2006:97) anses motsvara uppehållstillstånd som har beviljats enligt 5 b kap. 3 § respektive 1 §. I fråga om återkallelse av uppehållstillstånd som har beviljats före ikraftträdandet gäller dock de äldre bestämmelserna om återkallelse.
+
+**2021:765**
+
+1. Denna lag träder i kraft den 20 juli 2021.
+
+2. För en utlänning som förklarats vara övrig skyddsbehövande (övrig skyddsstatusförklaring) gäller 4 kap. 2 c, 5 a och 5 c §§ i den äldre lydelsen.
+
+**2022:1015**
+
+1. Denna lag träder i kraft den 1 augusti 2022.
+
+2. Vid tillämpningen av 8 a kap. 13 § ska med beslut som där nämns likställas motsvarande beslut enligt äldre bestämmelser.
+
+**2022:1847**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer.
+
+2. Äldre föreskrifter gäller fortfarande vid prövningen av ett överklagande av ett beslut som har meddelats före ikraftträdandet.
+
+**2025:225**
+
+1. Denna lag träder i kraft den 1 april 2025.
+
+2. I fråga om återkallelse av uppehållstillstånd som har beviljats en familjemedlem till en utlänning med tidsbegränsat uppehållstillstånd för arbete enligt 5 kap. 15 a § gäller 7 kap. 7 f § i den äldre lydelsen.
+
+**2025:793**
+
+1. Denna lag träder i kraft den 1 augusti 2025.
+
+2. Äldre föreskrifter gäller vid överklagande av beslut om kroppsvisitation eller undersökning av försändelser som har meddelats före ikraftträdandet.
+
+**2026:295**
+
+1. Denna lag träder i kraft den 1 juni 2026.
+
+2. För ansökningar om förlängning av ett arbetstillstånd, som beviljats före ikraftträdandet, gäller 6 kap. 2 § första stycket 1 i den äldre lydelsen om ansökan om förlängning har registrerats hos Migrationsverket senast den 1 december 2026.
+
+3. För överklagande av beslut som har meddelats före ikraftträdandet gäller 6 kap. 2 § första stycket 1 i den äldre lydelsen.
+
+4. Vid tillämpningen av 20 kap. 12 och 12 a §§ gäller äldre föreskrifter för överträdelser som har ägt rum före ikraftträdandet.
+
+**2026:457**
+
+1. Denna lag träder i kraft den 11 juni 2026.
+
+2. För uppehållstillstånd som har beviljats före ikraftträdandet gäller 5 b kap. 22 § i den äldre lydelsen. Om tillståndstiden för uppehållstillståndet förlängs gäller dock paragrafen i den nya lydelsen.
+
+**2026:1142**
+
+1. Denna lag träder i kraft den 12 juli 2026.
+
+2. Äldre föreskrifter gäller fortfarande för förfaranden som rör ansökningar om asyl och statusförklaring samt anmälningar om verkställighetshinder som har lämnats in före den 12 juni 2026 och på vilka Europaparlamentets och rådets direktiv 2013/32/EU av den 26 juni 2013 om gemensamma förfaranden för att bevilja och återkalla internationellt skydd är tillämpligt. Detsamma gäller för förfaranden som rör återkallelse av statusförklaring, om ärendet har inletts före den 12 juni 2026.
+
+3. Vid tillämpningen av de nya föreskrifterna i denna lag jämställs flyktingstatusförklaring med flyktingstatus och alternativ skyddsstatusförklaring med status som subsidiärt skyddsbehövande.
+
+4. För en flykting för vilken det har utfärdats ett resedokument enligt 4 kap. 4 § i den äldre lydelsen gäller 4 kap. 4 § andra stycket och 14 kap. 6 § i den äldre lydelsen. För en alternativt skyddsbehövande för vilken det har utfärdats ett främlingspass enligt 2 kap. 1 a § i den äldre lydelsen gäller 2 kap. 1 d § i den äldre lydelsen.
+
+5. För en utlänning som har beviljats tillfälligt skydd enligt 21 kap. ska, i fråga om uppgifter som tas med stöd av Eurodacförordningen, den äldre lydelsen av 9 kap. 8 § tillämpas till och med den 12 juni 2029.
+
+**2026:1221**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer i fråga om 7 kap. 3 d § och i övrigt den 13 juli 2026.
+
+2. I fråga om uppehållstillstånd som har beviljats före ikraftträdandet gäller 7 kap. 1 § i den äldre lydelsen.
+
+3. Den nya bestämmelsen i 7 kap. 3 b § ska inte tillämpas om de omständigheter som läggs till grund för återkallelsen uteslutande är hänförliga till tiden före ikraftträdandet.
+
+4. Den nya bestämmelsen i 7 kap. 3 b § ska inte tillämpas på uppehållstillstånd som har meddelats enligt 5 kap. 1 eller 2 § eller 3 § första stycket 5 före den 12 juni 2026. Den ska inte heller tillämpas på uppehållstillstånd som har meddelats enligt 5 kap. 3 § före den 12 juni 2026, om förutsättningarna är sådana att uppehållstillståndet efter den dagen skulle ha omfattats av artikel 23 i Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU.
+
+5. Om en utlänning före ikraftträdandet har lämnat ett sådant meddelande till Migrationsverket som avses i 7 kap. 7 § gäller den paragrafen i den äldre lydelsen.
+
+**2026:1259**
+
+1. Denna lag träder i kraft den 1 september 2026.
+
+2. Den äldre lydelsen av 8 a kap. 8 § gäller fortfarande för åtal som har väckts före ikraftträdandet.
+
+**2026:1425**
+
+1. Denna lag träder i kraft den 21 juli 2026.
+
+2. I fråga om ett beslut om uppsikt eller förvar som har meddelats före ikraftträdandet gäller upphävda 10 kap. 1-17 §§ fortfarande fram till dess att beslutet prövas på nytt.
+
+3. Migrationsverket ska pröva ett beslut om placering som har meddelats med stöd av den upphävda 10 kap. 20 § första stycket 1 eller 2 på nytt enligt 10 a kap. 16 § senast en månad efter ikraftträdandet.
+
+4. */Upphör att gälla U:2027-12-01/* Den tid som en utlänning har hållits i förvar med stöd av den upphävda 10 kap. 1 § andra stycket 2 eller 3 ska vid tillämpningen av 10 kap. 12 § räknas in i förvarstidens längd om det är fråga om samma verkställighetsärende.
+
+4. */Träder i kraft I:2027-12-01/* Den tid som en utlänning har hållits i förvar med stöd av den upphävda 10 kap. 1 § andra stycket 2 eller 3 ska vid tillämpningen av 10 kap. 15 § räknas in i förvarstidens längd om det är fråga om samma verkställighetsärende.
+
+*Lag (2026:1427)*.
+
+5. Äldre föreskrifter gäller fortfarande vid överklagande av beslut som har meddelats före ikraftträdandet.
+
+**2026:1427**
+
+Denna lag träder i kraft den 1 december 2027 eller den tidigare dag som regeringen bestämmer.
+
+**2026:1686**
+
+1. Denna lag träder i kraft den 1 oktober 2026.
+
+2. Kravet på vistelsetid i 5 kap. 3 i § gäller inte i
+
+- ärenden där ansökan om uppehållstillstånd har inkommit till Migrationsverket före ikraftträdandet, och
+
+- ärenden om förlängning av ett tidsbegränsat uppehållstillstånd på grund av anknytning som har beviljats en utlänning enligt äldre bestämmelser.
+
+3. I fråga om återkallelse av uppehållstillstånd på grund av anknytning som har beviljats före ikraftträdandet gäller 7 kap. 3 § i den äldre lydelsen.
+
+**2026:1687**
+
+1. Denna lag träder i kraft den 1 januari 2028.
+
+2. Äldre föreskrifter gäller fortfarande för överklagande av beslut som har meddelats före ikraftträdandet.

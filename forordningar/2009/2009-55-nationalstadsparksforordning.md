@@ -1,0 +1,57 @@
+---
+title: "Nationalstadsparksförordning (2009:55)"
+identifier: "SFS 2009:55"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-02-05
+amended_through: "SFS 2011:380"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-55.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:55"
+retrieved: 2026-10-11
+---
+# Nationalstadsparksförordning (2009:55)
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om sådana nationalstadsparker som avses i 4 kap. 7 § andra stycket miljöbalken.
+
+Förordningen är meddelad med stöd av 8 kap. 13 § regeringsformen.
+
+## En nationalstadsparks vård och utveckling
+
+### 2 §
+
+I de län där det finns en nationalstadspark ska länsstyrelsen besluta om en vård- och utvecklingsplan för parken.
+
+Syftet med planen är att ge en samlad bild av de mål och riktlinjer för parkens vård och utveckling som finns i planer enligt plan- och bygglagen (2010:900), utredningar, program och annat planeringsunderlag. Den ska kunna användas som grund för inriktning och prioriteringar i fråga om parkens skötsel, underhåll och utveckling.
+
+Innan länsstyrelsen beslutar om planen ska länsstyrelsen samråda med de statliga myndigheter, kommuner och andra som kan antas vara berörda. *Förordning (2011:380)*.
+
+### 3 §
+
+Länsstyrelsen ska, om det finns en nationalstadspark i länet, ha uppsikt över utvecklingen av parkens värden.
+
+## Kungliga nationalstadsparken
+
+### 4 §
+
+I denna förordning avses med Kungliga nationalstadsparken det område som i 4 kap. 7 § första stycket miljöbalken kallas Ulriksdal-Haga- Brunnsviken-Djurgården.
+
+### 5 §
+
+Inom Länsstyrelsen i Stockholms län ska det finnas ett nationalstadsparksråd med ledamöter som representerar de statliga myndigheter, kommuner, större markägare, förvaltare, organisationer och andra aktörer som kan antas vara berörda av Kungliga nationalstadsparkens vård- och utveckling.
+
+### 6 §
+
+Nationalstadsparksrådet ska samordna frågor som rör utvecklingen av Kungliga nationalstadsparken och
+
+1. arbeta med utvecklingen av parken i enlighet med den vård- och utvecklingsplan som länsstyrelsen har beslutat, bistå länsstyrelsen i frågor som rör uppsikten över parken samt i frågor som rör finansiering och genomförande av särskilda insatser i parken, och
+
+3. vara ett forum för informationsutbyte i frågor som rör parken.
+
+### 7 §
+
+Länsstyrelsen ska utse ordföranden och ledamöterna i rådet.

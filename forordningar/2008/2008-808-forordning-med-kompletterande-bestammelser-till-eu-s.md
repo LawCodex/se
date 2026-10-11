@@ -1,0 +1,67 @@
+---
+title: "Förordning (2008:808) med kompletterande bestämmelser till EU:s delgivningsförordning"
+identifier: "SFS 2008:808"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-10-23
+amended_through: "SFS 2025:241"
+department: "Justitiedepartementet BIRS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-808.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:808"
+retrieved: 2026-10-11
+---
+# Förordning (2008:808) med kompletterande bestämmelser till EU:s delgivningsförordning
+
+## 1 §
+
+Denna förordning innehåller bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2020/1784 av den 25 november 2020 om delgivning i medlemsstaterna av rättegångshandlingar och andra handlingar i mål och ärenden av civil eller kommersiell natur (EU:s delgivningsförordning).
+
+*Förordning (2022:627)*.
+
+## 2 §
+
+Länsstyrelsen i Stockholms län är mottagande organ enligt artikel 3.2 i EU:s delgivningsförordning. *Förordning (2022:627)*.
+
+## 3 §
+
+Sändande organ enligt artikel 3.1 i EU:s delgivningsförordning är
+
+1. domstolar,
+
+2. Kronofogdemyndigheten,
+
+3. Länsstyrelsen i Stockholms län, och
+
+4. andra svenska myndigheter som ska delge handlingar i mål och ärenden av civil eller kommersiell natur.
+
+*Förordning (2022:628)*.
+
+## 4 §
+
+En svensk myndighet som ska delge handlingar i ett mål eller ärende av civil eller kommersiell natur, och som inte har tillgång till det decentraliserade it-system som avses i artikel 5 i EU:s delgivningsförordning, får ansöka om hjälp med delgivningen hos Länsstyrelsen i Stockholms län.
+
+*Förordning (2022:628)*.
+
+## 5 §
+
+Handlingar som har skickats till Länsstyrelsen i Stockholms län i dess egenskap av mottagande organ behöver länsstyrelsen delge eller låta delge endast om det standardformulär som anges i artikel 8.2 i EU:s delgivningsförordning är ifyllt på svenska eller engelska.
+
+*Förordning (2022:627)*.
+
+## 6 §
+
+Länsstyrelsen i Stockholms län är central enhet enligt artikel 4 i EU:s delgivningsförordning. *Förordning (2022:627)*.
+
+## 6 a §
+
+Vid vanlig delgivning får en myndighet skicka handlingar på elektronisk väg till en person som har en känd delgivningsadress i en annan medlemsstat i enlighet med villkoren i artikel 19.1 b i EU:s delgivningsförordning.
+
+Handlingarna får inte delges elektroniskt om det är olämpligt med hänsyn till omständigheterna i delgivningsärendet.
+
+*Förordning (2022:627)*.
+
+## 7 §
+
+I förhållande till Danmark och Finland gäller den nordiska överenskommelsen den 26 april 1974 om inbördes rättshjälp genom delgivning och bevisupptagning (SÖ 1975:42).

@@ -1,0 +1,43 @@
+---
+title: "Lag (2008:206) om underrättelseskyldighet vid felaktiga utbetalningar från välfärdssystemen"
+identifier: "SFS 2008:206"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-04-24
+amended_through: "SFS 2025:1271"
+department: "Finansdepartementet RS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-206.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:206"
+retrieved: 2026-10-11
+---
+# Lag (2008:206) om underrättelseskyldighet vid felaktiga utbetalningar från välfärdssystemen
+
+## 1 §
+
+Denna lag gäller sådana bidrag, ersättningar, pensioner och lån för personligt ändamål som enligt lag eller förordning beslutas av Migrationsverket, Försäkringskassan, Pensionsmyndigheten, Centrala studiestödsnämnden, Arbetsförmedlingen, en kommun eller en arbetslöshetskassa och betalas ut till en enskild person (ekonomisk förmån).
+
+Denna lag gäller även sådana stöd, bidrag och ersättningar som enligt lag eller förordning beslutas av Försäkringskassan, Arbetsförmedlingen eller en kommun och avser en enskild person, men betalas ut till eller tillgodoräknas någon annan än den enskilde (ekonomiskt stöd). *Lag (2019:653)*.
+
+## 2 §
+
+Underrättelseskyldighet enligt lagen gäller för Migrationsverket, Försäkringskassan, Pensionsmyndigheten, Skatteverket, Kronofogdemyndigheten, Utbetalningsmyndigheten, Centrala studiestödsnämnden, Arbetsförmedlingen, kommunerna, regionerna och arbetslöshetskassorna.
+
+Underrättelseskyldigheten gäller inte i Skatteverkets brottsbekämpande verksamhet.
+
+För regionerna gäller inte underrättelseskyldigheten i fråga om uppgifter som omfattas av sekretess enligt 25 kap. 1, 2, 4 eller 5 § offentlighets- och sekretesslagen (2009:400). Detsamma gäller för en kommun som inte ingår i en region i fråga om angelägenheter som en region ansvarar för.
+
+*Lag (2025:1271)*.
+
+## 3 §
+
+Om det finns anledning att anta att en ekonomisk förmån eller ett ekonomiskt stöd har beslutats, betalats ut eller tillgodoräknats felaktigt eller med ett för högt belopp, ska underrättelse om detta lämnas till den myndighet eller organisation som har fattat beslutet. Har förmån eller stöd beslutats efter överklagande ska underrättelse i stället lämnas till den myndighet eller organisation som följer av 1 §.
+
+Underrättelseskyldigheten gäller inte om det finns särskilda skäl. *Lag (2019:653)*.
+
+## 4 §
+
+Av underrättelsen ska det framgå vilka omständigheter som ligger till grund för antagandet att en ekonomisk förmån eller ett ekonomiskt stöd har beslutats, betalats ut eller tillgodoräknats felaktigt eller med ett för högt belopp.
+
+*Lag (2019:653)*.

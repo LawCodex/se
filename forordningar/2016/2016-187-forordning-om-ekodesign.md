@@ -1,0 +1,63 @@
+---
+title: "Förordning (2016:187) om ekodesign"
+identifier: "SFS 2016:187"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-03-10
+amended_through: "SFS 2026:1741"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-187.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:187"
+retrieved: 2026-10-11
+---
+# Förordning (2016:187) om ekodesign
+
+### 1 §
+
+Denna förordning innehåller föreskrifter i anslutning till lagen (2008:112) om ekodesign.
+
+Förordningen är meddelad med stöd av
+
+- 17 § lagen om ekodesign i fråga om 4 §,
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+Ordförklaringar
+
+### 2 §
+
+Ord och uttryck i denna förordning har samma betydelse som i lagen (2008:112) om ekodesign.
+
+## Tillsyns- och marknadskontrollmyndighet
+
+### 3 §
+
+Statens energimyndighet är tillsynsmyndighet enligt 13 § lagen (2008:112) om ekodesign.
+
+### 3 a §
+
+Statens energimyndighet är marknadskontrollmyndighet och utövar marknadskontroll enligt Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011 över att produkter som omfattas av en sådan genomförandeåtgärd eller självreglering som avses i artikel 15 i Europaparlamentets och rådets direktiv 2009/125/EG av den 21 oktober 2009 om upprättande av en ram för att fastställa krav på ekodesign för energi- relaterade produkter överensstämmer med kraven i
+
+1. direktiv 2009/125/EG, och
+
+2. Europaparlamentets och rådets förordning (EU) 2024/1781 av den 13 juni 2024 om upprättande av en ram för att fastställa ekodesignkrav för hållbara produkter, om ändring av direktiv (EU) 2020/1828 och förordning (EU) 2023/1542 och om upphävande av direktiv 2009/125/EG, om förordningens krav är tillämpliga på produkterna.
+
+Bestämmelser om en marknadskontrollmyndighets befogenhet att besluta om åtgärder enligt förordning (EU) 2019/1020 finns i lagen (2008:112) om ekodesign. *Förordning (2026:1741)*.
+
+## Kostnader för provtagning
+
+### 4 §
+
+Tillverkaren av en energirelaterad produkt eller energirelaterad del eller tillverkarens representant ska ersätta Statens energimyndighet för kostnader för provtagning och undersökning av prov av produkten eller delen.
+
+Ersättningsskyldighet gäller dock bara i de fall då produkten eller delen visat sig inte uppfylla de krav som gäller enligt lagen (2008:112) om ekodesign, enligt föreskrifter som har meddelats i anslutning till den lagen eller enligt föreskrifter i en genomförandeåtgärd enligt artikel 15 i Europaparlamentets och rådets direktiv 2009/125/EG av den 21 oktober 2009 om upprättande av en ram för att fastställa krav på ekodesign för energirelaterade produkter.
+
+## Överklagande
+
+### 5 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol.
+
+*Förordning (2018:897)*.

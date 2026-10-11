@@ -1,0 +1,69 @@
+---
+title: "Förordning (2007:786) med instruktion för Forskarskattenämnden"
+identifier: "SFS 2007:786"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-01
+amended_through: "SFS 2017:156"
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-786.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:786"
+retrieved: 2026-10-11
+---
+# Förordning (2007:786) med instruktion för Forskarskattenämnden
+
+## Uppgifter
+
+### 1 §
+
+I lagen (1999:1305) om Forskarskattenämnden och i 11 kap. 23 a § inkomstskattelagen (1999:1229) finns bestämmelser om Forskarskattenämndens sammansättning och uppgifter, beslutförhet, förordnande av ordförande och vice ordförande, val av ledamöter samt organisation i övrigt.
+
+## Ledning
+
+### 2 §
+
+Myndigheten leds av en nämnd.
+
+## Organisation
+
+### 3 §
+
+Av 20 § förordningen (2017:154) med instruktion för Skatteverket framgår att det inom Skatteverket ska finnas ett gemensamt kansli för Forskarskattenämnden och Skatterättsnämnden. *Förordning (2017:156)*.
+
+## Ärendenas handläggning
+
+### 4 §
+
+Ärenden som prövas av Forskarskattenämnden avgörs efter beredning och föredragning av personal vid kansliet.
+
+## Undantag från myndighetsförordningen
+
+### 5 §
+
+Följande paragrafer i myndighetsförordningen (2007:515) ska inte tilllämpas på myndigheten:
+
+4 § om arbetsordning m.m.,
+
+5 § om delegation,
+
+6 § om allmänna uppgifter,
+
+7 § om medverkan i EU-arbetet och annat internationellt samarbete,
+
+14 § om nämndens sammansättning,
+
+15 och 16 §§ om beslutförhet,
+
+19 § om kostnadsmässiga konsekvenser,
+
+20 § om föredragning,
+
+21 § om myndighetens beslut,
+
+27 § om myndighetens rätt att företräda staten vid domstol,
+
+28 § om åtgärder med anledning av Riksrevisionens revisionsberättelse, och
+
+29 § om ärendeförteckning.

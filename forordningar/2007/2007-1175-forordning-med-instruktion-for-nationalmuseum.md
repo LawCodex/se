@@ -1,0 +1,143 @@
+---
+title: "Förordning (2007:1175) med instruktion för Nationalmuseum"
+identifier: "SFS 2007:1175"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2026.1467"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1175.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1175"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1175) med instruktion för Nationalmuseum
+
+## Uppgifter
+
+### 1 §
+
+Myndigheten Nationalmuseum har till uppgift att främja konsten, konstintresset och konstvetenskapen. Myndigheten ska särskilt levandegöra de äldre konstformerna och deras samband med den nutida konsten och samhällets utveckling samt verka för konstnärlig och kulturell förnyelse. Myndigheten ska verka för att dess verksamhet ska vara en angelägenhet för alla människor i samhället. *Förordning (2017:383)*.
+
+### 2 §
+
+Myndighetens ansvars- och samlingsområde omfattar äldre måleri, skulptur, teckning och grafik, företrädesvis från tiden före år 1900, samt porträtt, konsthantverk, form och design från äldre tid till nutid. *Förordning (2018:1550)*.
+
+### 3 §
+
+Myndigheten ska särskilt
+
+1. vårda, förteckna, vetenskapligt bearbeta och genom nyförvärv berika de samlingar som har anförtrotts myndigheten,
+
+2. hålla ett urval av de samlingar som är avsedda för utställning tillgängligt för allmänheten, bedriva utställningsverksamhet och annan pedagogisk verksamhet samt bedriva utlånings- och depositionsverksamhet,
+
+3. inom sitt område vetenskapligt bearbeta övriga samlingar av konst och konsthantverk som tillhör eller understöds av staten, och
+
+4. verka för ökad kunskap grundad på forskning och samverkan med andra, exempelvis universitet och högskolor, och förmedla kunskap inom sitt verksamhetsområde. *Förordning (2009:737)*.
+
+### 4 §
+
+Myndigheten ska bedriva internationellt och interkulturellt utbyte och samarbete.
+
+*Förordning (2017:1087)*.
+
+### 4 a §
+
+Utöver de uppgifter som myndigheten har enligt 1-4 §§ får den tillhandahålla varor och åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde. *Förordning (2026:1467)*.
+
+## Rapportering
+
+### 4 b §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:166)*.
+
+### 5 §
+
+Myndigheten ska rapportera uppgifter om sin besöksutveckling till Myndigheten för kulturanalys.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2016:1467)*.
+
+### 6 §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1467)*.
+
+## Samverkan
+
+### 7 §
+
+Myndigheten ska samarbeta med Moderna museet om gemensamma funktioner.
+
+### 7 a §
+
+Har upphävts genom *förordning (2026:1467)*.
+
+## Ledning
+
+### 8 §
+
+Myndigheten leds av en myndighetschef.
+
+### 8 a §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst fem ledamöter. *Förordning (2011:1564)*.
+
+### 9 §
+
+Har upphävts genom *förordning (2017:383)*.
+
+### 10 §
+
+Har upphävts genom *förordning (2017:383)*.
+
+## Anställningar och uppdrag
+
+### 11 §
+
+Överintendenten är myndighetschef.
+
+## Personalansvarsnämnd
+
+### 12 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 13 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 14 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 3 § 2 och för lokaler.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 4 a §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1467)*.
+
+### 15 §
+
+För barn och unga under 19 år ska myndigheten ha fri entré till alla utställningar. *Förordning (2026:1467)*.
+
+## Undantag från myndighetsförordningen
+
+### 16 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning.

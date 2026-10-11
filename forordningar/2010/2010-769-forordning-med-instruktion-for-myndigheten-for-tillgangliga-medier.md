@@ -1,0 +1,237 @@
+---
+title: "Förordning (2010:769) med instruktion för Myndigheten för tillgängliga medier"
+identifier: "SFS 2010:769"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-06-23
+amended_through: "2026:1472"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-769.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:769"
+retrieved: 2026-10-11
+---
+# Förordning (2010:769) med instruktion för Myndigheten för tillgängliga medier
+
+## Uppgifter
+
+### 1 §
+
+Myndigheten för tillgängliga medier ska arbeta för att alla ska ha tillgång till litteratur, nyheter och samhällsinformation utifrån vars och ens förutsättningar oavsett läsförmåga eller funktionsnedsättning.
+
+Myndigheten har till uppgift att
+
+1. vara ett nationellt kunskapscentrum för tillgängliga medier,
+
+2. främja tillgänglighet till och universell utformning av litteratur, nyheter och samhällsinformation,
+
+3. i samverkan med bibliotek, skolor och andra aktörer i landet arbeta för att personer med funktionsnedsättning ska få tillgång till sådana exemplar av litterära verk som de behöver för att kunna ta del av verken samt tillgängliggöra lättläst litteratur,
+
+4. ge ut och distribuera lättläst litteratur i den utsträckning behoven inte tillgodoses på den kommersiella marknaden, och
+
+5. förbättra tillgången till textbaserade medier med nyheter och samhällsinformation för personer med synnedsättning eller annan läsnedsättning samt tillgängliggöra lättläst nyhetsinformation. *Förordning (2025:367)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. ta fram riktlinjer och vägledningar inom sitt verksamhetsområde i den utsträckning som inte någon annan myndighet har detta till uppgift,
+
+2. främja, följa och medverka i nationell och internationell standardisering inom sitt verksamhetsområde,
+
+3. framställa, köpa in och överföra talböcker och punktskriftsböcker samt tillhandahålla dessa för försäljning,
+
+4. sammanställa och sprida information om tillgängliga medier och deras målgrupp samt driva och utveckla funktionen läsombud,
+
+5. främja och följa teknikutvecklingen samt forskningen inom sitt verk-samhetsområde,
+
+6. förse högskolestuderande personer som har en funktionsnedsättning i form av läsnedsättning med sådana exemplar av kurslitteratur som de behöver för att kunna ta del av litteraturen,
+
+7. tillhandahålla stöd för lättläst till skolan,
+
+8. främja tillgången till punktskrift och taktilt illustrerade böcker för barn med funktionsnedsättning,
+
+9. ha en central utskrivningstjänst av punktskrift för punktskriftsläsare,
+
+10. via tillgängliga medier och i lämpligt format erbjuda personer som har en funktionsnedsättning i form av läsnedsättning kompletterande samhällsinformation i syfte att ge dem jämlika förutsättningar att följa utvecklingen i samhället,
+
+11. göra kulturtidskrifter tillgängliga för personer med funktionsnedsättning,
+
+12. främja teckenspråkig litteratur,
+
+13. stödja utgivning och distribution av den oberoende lättlästa nyhetstidningen 8 Sidor, och
+
+14. verka för att nyhetsmedier startar utgivning av taltidningar. *Förordning (2025:367)*.
+
+### 2 a §
+
+Myndigheten har uppgifter enligt
+
+1. förordningen (2023:676) om vissa produkters och tjänsters tillgänglighet, och
+
+2. förordningen (2025:366) om en taltidningstjänst hos Myndigheten för tillgängliga medier. *Förordning (2025:367)*.
+
+### 3 §
+
+Myndigheten ska inom sitt verksamhetsområde lämna information och råd till bibliotek, organisationer och andra förmedlare av tillgängliga medier. *Förordning (2019:638)*.
+
+### 3 a §
+
+Myndigheten ska verka för internationellt och interkulturellt utbyte och samarbete inom sitt verksamhetsområde. *Förordning (2026:1472)*.
+
+### 3 b §
+
+Myndigheten ska integrera ett jämställdhets-, mångfalds- och barnperspektiv i sin verksamhet. *Förordning (2026:1472)*.
+
+### 4 §
+
+Utöver de uppgifter som myndigheten har enligt 1-3 b §§ får den åta sig att utföra uppdrag inom sitt verksamhetsområde. *Förordning (2026:1472)*.
+
+## Rapportering
+
+### 4 a §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:181)*.
+
+### 5 §
+
+Myndigheten ska i årsredovisningen redovisa fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ. Redovisningen ska göras i noter till resultaträkningen. *Förordning (2026:1472)*.
+
+## Samverkan
+
+### 5 a §
+
+Myndighetens samverkan med myndigheter och andra aktörer ska omfatta det civila samhällets organisationer.
+
+*Förordning (2026:1472)*.
+
+## Ledning
+
+### 6 §
+
+Myndigheten leds av en myndighetschef.
+
+## Särskilda organ
+
+## Punktskriftsnämnden
+
+### 7 §
+
+Inom myndigheten finns ett rådgivande organ som benämns punktskriftsnämnden. Nämnden har till uppgift att främja och utveckla taktil läsning och punktskrift som skriftspråk för synskadade.
+
+Nämnden ska särskilt
+
+1. utarbeta riktlinjer för den svenska punktskriften, och
+
+2. medverka till internationellt samarbete inom området.
+
+På begäran av myndigheten ska nämnden ge råd och upplysningar till myndigheten i frågor som rör punktskrift och taktil läsning. *Förordning (2025:367)*.
+
+Nämnden ska särskilt
+
+1. utarbeta riktlinjer för den svenska punktskriften, och
+
+2. medverka till internationellt samarbete inom området.
+
+På begäran av myndigheten ska nämnden ge råd och upplysningar till myndigheten i frågor som rör punktskrift och taktil läsning.
+
+### 8 §
+
+Punktskriftsnämnden består av en ordförande och högst nio andra ledamöter. *Förordning (2014:1584)*.
+
+## Vetenskapligt råd
+
+### 9 §
+
+Inom myndigheten finns ett rådgivande organ som benämns vetenskapligt råd. Det rådgivande organet ska verka för att myndigheten bevakar och sprider relevant forskning om lättläst litteratur och nyhetsförmedling och om övriga tillgängliga medier och deras målgrupper.
+
+Rådet består av myndighetschefen, som är ordförande, och högst nio andra ledamöter. *Förordning (2014:1584)*.
+
+## Brukarråd
+
+### 9 a §
+
+Inom myndigheten finns ett rådgivande organ som benämns brukarråd. Det rådgivande organet ska främja kontakter med målgrupper, intresseorganisationer och förmedlare och bistå myndigheten i frågor som rör det nationella kunskapscentret.
+
+Rådet består av myndighetschefen, som är ordförande, och högst nio andra ledamöter. *Förordning (2014:1584)*.
+
+### 10 §
+
+Har upphävts genom *förordning (2025:367)*.
+
+### 11 §
+
+Har upphävts genom *förordning (2025:367)*.
+
+### 12 §
+
+Har upphävts genom *förordning (2025:367)*.
+
+### 13 §
+
+Har upphävts genom *förordning (2025:367)*.
+
+### 14 §
+
+Har upphävts genom *förordning (2025:367)*.
+
+## Anställningar och uppdrag
+
+### 15 §
+
+Generaldirektören är myndighetschef.
+
+*Förordning (2012:923)*.
+
+### 16 §
+
+Ordföranden och övriga ledamöter i punktskriftsnämnden samt ledamöter i vetenskapliga rådet och brukarrådet utses av myndigheten för en bestämd tid. *Förordning (2025:367)*.
+
+## Personalansvarsnämnd
+
+### 17 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Insynsråd
+
+### 17 a §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst fem ledamöter. *Förordning (2014:1584)*.
+
+## Tillämpning av vissa förordningar
+
+### 18 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 19 §
+
+Myndigheten ska upp till full kostnadstäckning ta ut avgifter vid
+
+1. försäljning av lättläst litteratur enligt 1 § andra stycket 4,
+
+2. försäljning av talböcker och punktskriftsböcker enligt 2 § 3, och
+
+3. tillhandahållande av lättläst nyhetsinformation enligt 2 § 13.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 4 §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1472)*.
+
+### 20 §
+
+Har upphävts genom *förordning (2026:1472)*.
+
+## Undantag från myndighetsförordningen
+
+### 21 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning.

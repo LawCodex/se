@@ -1,0 +1,123 @@
+---
+title: "Förordning (2010:186) med instruktion för Trafikanalys"
+identifier: "SFS 2010:186"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-03-11
+amended_through: "SFS 2022:235"
+department: "Landsbygds- och infrastrukturdepartementet RSIB US"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-186.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:186"
+retrieved: 2026-10-11
+---
+# Förordning (2010:186) med instruktion för Trafikanalys
+
+/Upphör att gälla U:2027-01-01 genom *förordning (2026:1401)*./ Uppgifter
+
+### 1 §
+
+Trafikanalys har till huvuduppgift att, med utgångspunkt i de transportpolitiska målen, utvärdera och analysera samt redovisa effekter av föreslagna och genomförda åtgärder inom transportområdet. Vidare ska myndigheten ansvara för att samla in, sammanställa och sprida statistik på transportområdet.
+
+Myndigheten ska inom sitt ansvarsområde bistå regeringen med underlag och rekommendationer.
+
+### 2 §
+
+Trafikanalys ska
+
+1. svara för resvane- och varuflödesundersökningar,
+
+2. göra regelbundna beskrivningar av utvecklingen inom transportom-rådet,
+
+3. bedriva omvärldsbevakning och omvärldsanalys inom transportom-rådet, särskilt med tonvikt på transportsystemets utveckling i Europeiska unionen och dess effekter för Sverige,
+
+4. kontinuerligt följa Trafikverkets arbete med att utveckla modeller för samhällsekonomiska analyser och följa den internationella modellutveck-lingen på området, samt
+
+5. årligen följa den svenska sjöfartens internationella konkurrens-situation och vartannat år utvärdera effekterna av stödet till svensk sjöfart. *Förordning (2022:235)*.
+
+### 3 §
+
+Trafikanalys ska senast den 15 april varje år till regeringen redovisa en uppföljning av de transportpolitiska målen.
+
+### 3 a §
+
+Trafikanalys ska senast den 15 maj varje år till regeringen redovisa en prognos över fordonsflottans sammansättning och utveckling för innevarande år och de närmast följande tre åren. *Förordning (2022:235)*.
+
+### 4 §
+
+Trafikanalys ska utveckla trafikslagsövergripande utvärderingsmetoder.
+
+### 5 §
+
+Trafikanalys ska ansvara för att resultaten av insamlad statistik översänds till Europeiska kommissionen om insamlandet skett på grundval av föreskrifter som har meddelats av kommissionen.
+
+### 6 §
+
+Trafikanalys ska ansvara för analyser av transportsektorns samhällsekonomiska kostnader i relation till skatte- och avgiftsuttag inom olika delar av den svenska och europeiska transportsektorn.
+
+Trafikanalys ska senast den 31 mars varje år till regeringen lämna en rapport över de analyser som avses i första stycket.
+
+*Förordning (2011:495)*.
+
+### 7 §
+
+Trafikanalys får inom sitt verksamhetsområde bedriva egen forskning utifrån statistiskt material.
+
+### 8 §
+
+Trafikanalys ska se till att de regelverk och rutiner som myndigheten disponerar över är kostnadseffektiva och enkla för medborgare och företag.
+
+### 9 §
+
+Trafikanalys ska sprida kunskap, erfarenheter och resultat från sina verksamheter till andra myndigheter och intressenter, däribland regionala aktörer med ansvar för regionalt tillväxtarbete. Myndigheten ska samverka med andra myndigheter med ansvar för utvärderingar och analyser.
+
+### 10 §
+
+Trafikanalys får inom sitt ansvarsområde mot avgift utföra uppdrag åt planeringsansvariga myndigheter och organ under förutsättning att det inte påverkar förtroendet för myndighetens självständiga ställning. Myndigheten får besluta om avgifternas storlek och disponera inkomsterna.
+
+*Förordning (2012:14)*.
+
+## Ledning
+
+### 11 §
+
+Trafikanalys leds av en myndighetschef.
+
+## Särskilda organ
+
+### 12 §
+
+Vid Trafikanalys finns ett vetenskapligt råd med uppgift att kvalitetssäkra de metoder myndigheten tar fram och tillämpar samt bidra till deras utveckling. Det vetenskapliga rådet består av myndighetens chef, som är ordförande, och högst fem andra ledamöter.
+
+## Anställningar och uppdrag
+
+### 13 §
+
+Generaldirektören är myndighetschef.
+
+### 14 §
+
+Ledamöterna i det vetenskapliga rådet utses av myndigheten.
+
+## Personalansvarsnämnd
+
+### 15 §
+
+Vid Trafikanalys ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av viss förordning
+
+### 16 §
+
+Trafikanalys ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Undantag från vissa förordningar
+
+### 17 §
+
+Trafikanalys ska inte tillämpa 29 § myndighetsförordningen (2007:515) om ärendeförteckning.
+
+### 18 §
+
+Begränsningar i 4 § andra stycket avgiftsförordningen (1992:191) ska inte tillämpas på myndigheten när det gäller offentlig inköps- och resurssamordning.

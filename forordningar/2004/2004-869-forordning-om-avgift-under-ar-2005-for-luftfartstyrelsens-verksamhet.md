@@ -1,0 +1,54 @@
+---
+title: "Förordning (2004:869) om avgift under år 2005 för Luftfartstyrelsens verksamhet"
+identifier: "SFS 2004:869"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2004-10-28
+department: "Landsbygds- och infrastrukturdepartementet RSIB US"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2004-869.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2004:869"
+retrieved: 2026-10-11
+---
+# Förordning (2004:869) om avgift under år 2005 för Luftfartstyrelsens verksamhet
+
+## 1 §
+
+Flygbolag som transporterar passagerare från en svensk flygplats skall betala en avgift till Luftfartsstyrelsen för att bekosta Luftfartsstyrelsens verksamhet.
+
+## 2 §
+
+För år 2005 skall avgiften vara 8 kronor 50 öre.
+
+## 3 §
+
+Avgift skall betalas för varje passagerare som reser från en svensk flygplats.
+
+Avgiften skall dock inte betalas
+
+- för passagerare vid taxi- och privatflygning,
+
+- för barn under två år,
+
+- för besättningsmedlem som i anslutning till tjänsteutövning utför tjänsteresa i det egna företagets flygplan,
+
+- för passagerare i transit,
+
+- vid förnyad start efter det att luftfartyg återvänt till flygplatsen på grund av tekniska störningar eller väderhinder,
+
+- för ambulans-, eftersöknings- och räddningsflygningar, eller
+
+- vid rundflygning.
+
+## 4 §
+
+Luftfartsstyrelsen skall påföra flygbolagen avgiften i efterskott.
+
+## 5 §
+
+Luftfartsstyrelsen skall bestämma vilka faktureringsintervall som skall gälla och om avgiften skall faktureras tillsammans med andra avgifter.
+
+## 6 §
+
+Luftfartsstyrelsen får meddela de ytterligare föreskrifter som behövs för verkställigheten av denna förordning.

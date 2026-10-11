@@ -1,0 +1,28 @@
+---
+title: "Förordning (2020:827) med kompletterande bestämmelser till EU:s förordning om utländska direktinvesteringar"
+identifier: "SFS 2020:827"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-10-01
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-827.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:827"
+retrieved: 2026-10-11
+---
+# Förordning (2020:827) med kompletterande bestämmelser till EU:s förordning om utländska direktinvesteringar
+
+## 1 §
+
+Denna förordning innehåller bestämmelser i anslutning till lagen (2020:826) med kompletterande bestämmelser till EU:s förordning om utländska direktinvesteringar. Förordningen innehåller också bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2019/452 av den 19 mars 2019 om upprättande av en ram för granskning av utländska direktinvesteringar i unionen (EU-förordningen).
+
+Förordningen är meddelad med stöd av 8 kap. 7 och 11 §§ regeringsformen.
+
+## 2 §
+
+Inspektionen för strategiska produkter är kontaktpunkt enligt artikel 11.1 i EU-förordningen.
+
+## 3 §
+
+Inspektionen för strategiska produkter får meddela närmare föreskrifter om formerna för att fullgöra uppgiftsskyldigheten i artikel 9.4 i EU-förordningen.

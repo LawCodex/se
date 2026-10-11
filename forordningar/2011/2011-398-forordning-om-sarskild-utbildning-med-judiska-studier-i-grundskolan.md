@@ -1,0 +1,241 @@
+---
+title: "Förordning (2011:398) om särskild utbildning med judiska studier i grundskolan och statsbidrag för sådan utbildning"
+identifier: "SFS 2011:398"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-04-07
+amended_through: "SFS 2026:204"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-398.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:398"
+retrieved: 2026-10-11
+---
+# Förordning (2011:398) om särskild utbildning med judiska studier i grundskolan och statsbidrag för sådan utbildning
+
+### Innehåll
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om dels en utbildning i grundskolan som omfattar judiska studier, dels statsbidrag för sådan utbildning.
+
+Förordningen är meddelad med stöd av
+
+- 10 kap. 6 § skollagen (2010:800) i fråga om 6-8 §§,
+
+- 2 kap. 13 § skollagen i fråga om 9 §,
+
+- 8 kap. 11 § regeringsformen i fråga om 25 §, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2026:204)*.
+
+### Vem som får anordna utbildningen
+
+#### 2 §
+
+En huvudman för en skolenhet med grundskola får, efter tillstånd från Statens skolverk, anordna den särskilda utbildningen i årskurserna 7-9.
+
+Ett tillstånd får gälla i högst sex år.
+
+### Syfte
+
+#### 3 §
+
+Den särskilda utbildningen syftar till att öka möjligheterna för elever i grundskolan som tillhör den nationella minoriteten judar att fördjupa sina kunskaper om sin minoritets kultur, historia, traditioner och religion.
+
+Utbildningen ska stå öppen även för andra elever.
+
+### Riksrekrytering
+
+#### 4 §
+
+När en kommun anordnar den särskilda utbildningen ska elever från hela landet tas emot till utbildningen i mån av plats.
+
+### Urval
+
+#### 5 §
+
+Om det inte finns plats för alla sökande till den särskilda utbildningen, ska urval göras på de grunder som Statens skolverk godkänner.
+
+Skolverket ska samråda med Statens skolinspektion innan Skolverket godkänner grunderna.
+
+### Utbildningens innehåll och utformning
+
+#### 6 §
+
+Utöver de ämnen som framgår av 10 kap. 4 § skollagen (2010:800) ska undervisning i ämnet judiska studier ingå i den särskilda utbildningen.
+
+Statens skolverk får meddela föreskrifter om betygskriterier i ämnet judiska studier. *Förordning (2022:281)*.
+
+#### 7 §
+
+Vid tillämpningen av timplanen för grundskolan i bilaga 1 till skolförordningen (2011:185) ska undervisningen i ämnet judiska studier omfatta 240 timmar som enligt timplanen får användas för skolans val. *Förordning (2019:519)*.
+
+#### 8 §
+
+Elever på den särskilda utbildningen ska som språkval erbjudas undervisning i hebreiska och jiddisch.
+
+#### 9 §
+
+För undervisning i ämnet judiska studier ska huvudmannen använda en lärare med en utbildning avsedd för undervisning i historia, religionskunskap eller samhällskunskap i grundskolans årskurs 7-9.
+
+### Ansökan och beslut om tillstånd
+
+#### 10 §
+
+Ansökan om att få anordna den särskilda utbildningen ska ges in till Statens skolverk. *Förordning (2026:204)*.
+
+#### 11 §
+
+Statens skolverk ska godkänna en ansökan om att få anordna särskild utbildning, om
+
+1. utbildningen uppfyller villkoren i denna förordning,
+
+2. utbildningen i övrigt uppfyller kraven på utbildning i grundskolan, och
+
+3. utbildningen bedöms bidra till det i 3 § angivna syftet med den särskilda utbildningen. *Förordning (2026:204)*.
+
+#### 12 §
+
+Statens skolverks beslut ska ange vid vilken skolenhet huvudmannen får anordna den särskilda utbildningen och hur många elever som utbildningen får omfatta. Beslutet ska även ange hur länge tillståndet gäller.
+
+### Statsbidrag
+
+### Förutsättningar för statsbidrag
+
+#### 13 §
+
+Statsbidrag enligt denna förordning får lämnas till varje huvudman som fått tillstånd av Statens skolverk att anordna den särskilda utbildningen i årskurserna 7-9.
+
+Statsbidrag får lämnas för de merkostnader en huvudman har för den särskilda utbildningen, exempelvis kostnader för kosher mat och säkerhetshöjande åtgärder.
+
+Statsbidrag lämnas för ett bidragsår i sänder i den utsträckning det finns tillgång på medel. Bidragsåret börjar den 1 juli. *Förordning (2026:204)*.
+
+#### 14 §
+
+Statsbidrag får inte lämnas till en huvudman som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs i allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Statens skolverk.
+
+*Förordning (2026:204)*.
+
+#### 15 §
+
+Statsbidrag får inte lämnas om
+
+1. Statens skolinspektion har fattat beslut om att återkalla huvudmannens godkännande som avser en verksamhet som omfattas av bidraget, eller
+
+2. Skolinspektionen har fattat beslut om att förbjuda huvudmannen att driva en verksamhet som omfattas av bidraget vidare (verksamhetsförbud).
+
+Statsbidrag får dock lämnas om ett sådant beslut som anges i första stycket 1 eller 2 har upphävts. *Förordning (2026:204)*.
+
+#### 16 §
+
+Statsbidrag får inte lämnas för kostnader som något statligt bidrag redan har lämnats för. *Förordning (2026:204)*.
+
+### Ansökan om statsbidrag
+
+#### 17 §
+
+En ansökan om statsbidrag ska göras skriftligen av en behörig företrädare för huvudmannen och lämnas till Statens skolverk.
+
+Uppgifterna i en ansökan ska lämnas på heder och samvete.
+
+Den som ansöker om statsbidrag ska på begäran av Skolverket lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan. *Förordning (2026:204)*.
+
+### Beslut om statsbidrag
+
+#### 18 §
+
+Beviljat bidrag ska lämnas med ett belopp för varje elev som deltar i den särskilda utbildningen den 15 oktober under bidragsåret.
+
+Ett beslut om statsbidrag får förenas med villkor. Villkoren ska framgå av beslutet. *Förordning (2026:204)*.
+
+### Uppföljning och redovisning
+
+#### 19 §
+
+Statens skolverk ska följa upp hur statsbidraget har använts. Den som har tagit emot bidrag är skyldig att medverka i den uppföljning och utvärdering av verksamheten som bestäms av Skolverket eller av en annan myndighet som har fått regeringens uppdrag att följa upp hur bidraget har använts. Mottagaren ska också lämna de uppgifter som Skolverket eller en annan myndighet som gör en uppföljning eller utvärdering av verksamheten begär. *Förordning (2026:204)*.
+
+### Anmälningsskyldighet
+
+#### 20 §
+
+Den som ansöker om eller har beviljats statsbidrag enligt denna förordning ska snarast möjligt till Statens skolverk anmäla sådana ändrade förhållanden som kan påverka rätten till bidraget eller storleken på det. *Förordning (2026:204)*.
+
+### Återbetalning och återkrav
+
+#### 21 §
+
+Mottagaren av statsbidrag enligt denna förordning är återbetalningsskyldig, om
+
+1. bidraget har lämnats på felaktig grund eller med för högt belopp,
+
+2. bidraget helt eller delvis inte har utnyttjats eller inte har använts för det ändamål det har lämnats för,
+
+3. mottagaren inte har medverkat i den uppföljning och utvärdering eller lämnat sådana uppgifter som anges i 19 §, eller
+
+4. mottagaren inte har följt villkor som framgår av beslutet om bidrag. *Förordning (2026:204)*.
+
+#### 22 §
+
+Statens skolverk ska besluta att helt eller delvis kräva tillbaka ett statsbidrag om någon är återbetalningsskyldig enligt 21 §.
+
+Om det finns särskilda skäl för det, får Skolverket besluta att helt eller delvis avstå från återkrav.
+
+*Förordning (2026:204)*.
+
+#### 23 §
+
+På statsbidrag som krävs tillbaka ska ränta tas ut från och med den trettionde dagen efter den dag då beslutet om återkrav fattades och efter en räntesats som vid varje tidpunkt överstiger statens utlåningsränta med två procentenheter.
+
+Om det finns särskilda skäl för det, får Statens skolverk besluta att helt eller delvis avstå från krav på ränta.
+
+*Förordning (2026:204)*.
+
+### Hinder mot utbetalning
+
+#### 24 §
+
+Statens skolverk ska besluta att ett beviljat statsbidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre bedöms uppfylla villkoren för det eller om det finns grund för återbetalning enligt 21 §. Ett sådant beslut gäller omedelbart. *Förordning (2026:204)*.
+
+### Bemyndigande
+
+#### 25 §
+
+Statens skolverk får meddela föreskrifter om
+
+1. statsbidragets storlek,
+
+2. beräkning och fördelning av statsbidrag, och
+
+3. verkställighet av denna förordning. *Förordning (2026:204)*.
+
+### Överklagande
+
+#### 26 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 22 och 24 §§ får dock inte överklagas.
+
+*Förordning (2026:204)*.
+
+## Övergångsbestämmelser
+
+**2011:398**
+
+1. Denna förordning träder i kraft den 15 maj 2011.
+
+2. Förordningen ska tillämpas på undervisning som påbörjas efter den 30 juni 2011.
+
+3. För elever som läst ämnet judiska studier enligt förordningen (SKOLFS 2002:8) om judiska studier i grundskolan i Stockholms kommun ska följande gälla för utbildningen i ämnet under läsåret 2011/12 för elever i årskurs 9.
+
+Den kursplan och de betygskriterier för betygen Väl godkänt och Mycket väl godkänt som styrelsen för utbildningen fastställt för ämnet ska tillämpas.
+
+Vid betygssättning i ämnet ska bestämmelserna i 7 kap. 3, 4 och 6-9 §§ grundskoleförordningen (1994:1194) tillämpas.

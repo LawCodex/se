@@ -1,0 +1,77 @@
+---
+title: "Patientdataförordning (2008:360)"
+identifier: "SFS 2008:360"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-05-29
+amended_through: "SFS 2022:924"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-360.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:360"
+retrieved: 2026-10-11
+---
+# Patientdataförordning (2008:360)
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning tillämpas vid sådan behandling av personuppgifter inom hälso- och sjukvården som är helt eller delvis automatiserad och som regleras av patientdatalagen (2008:355) och lagen (2022:913) om sammanhållen vård- och omsorgsdokumentation. De uttryck och benämningar som används i lagarna har samma betydelse i denna förordning.
+
+I förordningen (1985:796) med vissa bemyndiganden för Socialstyrelsen att meddela föreskrifter m.m. finns ytterligare föreskrifter som ansluter till patientdatalagen.
+
+*Förordning (2022:924)*.
+
+### Bemyndiganden
+
+#### 2 §
+
+Socialstyrelsen får, efter att ha gett Integritetsskyddsmyndigheten tillfälle att yttra sig, meddela föreskrifter om verkställigheten av
+
+1. tilldelning av behörighet för åtkomst till uppgifter som förs helt eller delvis automatiserat enligt 4 kap. 2 § patientdatalagen (2008:355) samt sådan tilldelning av behörighet vid sammanhållen vård- och omsorgsdokumentation enligt 4 kap. 3 § lagen (2022:913) om sammanhållen vård- och omsorgsdokumentation,
+
+2. dokumentation och kontroll av elektronisk åtkomst enligt 4 kap. 3 § patientdatalagen samt dokumentation och kontroll av åtkomst vid sammanhållen vård- och omsorgsdokumentation enligt 4 kap. 4 § lagen om sammanhållen vård- och omsorgsdokumentation,
+
+3. de krav på säkerhetsåtgärder som ska gälla vid sådan direktåtkomst eller annat elektroniskt utlämnande som avses i 5 kap. 5 § patientdatalagen och i 4 kap. 2 § lagen om sammanhållen vård- och omsorgsdokumentation, och
+
+4. den information som ska ges till patienten enligt 8 kap. 5 § patientdatalagen. *Förordning (2022:924)*.
+
+#### 3 §
+
+Socialstyrelsen får, efter att ha gett Integritetsskyddsmyndigheten tillfälle att yttra sig, meddela föreskrifter om verkställigheten av patientdatalagen (2008:355) och lagen (2022:913) om sammanhållen vård- och omsorgsdokumentation i fråga om säkerhetsåtgärder vid helt eller delvis automatiserad behandling av personuppgifter.
+
+*Förordning (2022:924)*.
+
+#### 4 §
+
+Socialstyrelsen får meddela föreskrifter om att vissa slags journalhandlingar ska bevaras under längre tid än vad som sägs i 3 kap. 17 § första stycket patientdatalagen (2008:355).
+
+*Förordning (2008:1061)*.
+
+#### 5 §
+
+Integritetsskyddsmyndigheten får meddela föreskrifter om sådan kryptering som regionerna ska använda för att skydda patienternas identitet vid sambearbetning av uppgifter enligt 4 kap. 6 § tredje stycket patientdatalagen (2008:355).
+
+*Förordning (2020:1125)*.
+
+### Medgivande till behandling
+
+#### 6 §
+
+Frågor om medgivande till behandling enligt 7 kap. 8 § tredje stycket och 8 a § patientdatalagen (2008:355) prövas av Integritetsskyddsmyndigheten efter att ha gett Socialstyrelsen tillfälle att yttra sig. *Förordning (2020:1125)*.
+
+## Övergångsbestämmelser
+
+**2012:692**
+
+1. Denna förordning träder i kraft den 1 januari 2013.
+
+2. Ansökningar som kommit in till regeringen före den 1 januari 2013 men ännu inte avgjorts ska överlämnas till Datainspektionen för prövning.
+
+**2013:124**
+
+1. Denna förordning träder i kraft den 1 april 2013.
+
+2. Ansökningar som kommit in till regeringen före den 1 april 2013 men ännu inte avgjorts ska överlämnas till Datainspektionen för prövning.

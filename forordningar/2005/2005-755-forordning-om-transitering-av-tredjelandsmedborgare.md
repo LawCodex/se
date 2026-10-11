@@ -1,0 +1,39 @@
+---
+title: "Förordning (2005:755) om transitering av tredjelandsmedborgare"
+identifier: "SFS 2005:755"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2005-11-03
+amended_through: "SFS 2014:1191"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-755.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:755"
+retrieved: 2026-10-11
+---
+# Förordning (2005:755) om transitering av tredjelandsmedborgare
+
+## 1 §
+
+En ansökan om ledsagad eller icke-ledsagad transitering med och om biståndsåtgärder i samband med transitering enligt lagen (2005:754) om transitering av tredjelandsmedborgare ska vara upprättad i enlighet med formuläret i bilagan till rådets direktiv 2003/110/EG av den 25 november 2003 om bistånd vid transitering i samband med återsändande med flyg.
+
+Polismyndigheten får meddela ytterligare föreskrifter om ansökningsförfarandet. *Förordning (2014:1191)*.
+
+## 2 §
+
+Polismyndigheten ska underrätta den ansökande myndigheten när tidsfristen för att meddela ett beslut om transitering enligt 4 § andra stycket lagen (2005:754) om transitering av tredjelandsmedborgare har förlängts. *Förordning (2014:1191)*.
+
+## 3 §
+
+Har upphävts genom *förordning (2014:1191)*.
+
+## 4 §
+
+Har upphävts genom *förordning (2014:1191)*.
+
+## 5 §
+
+Polismyndigheten ska underrätta den ansökande myndigheten om tid och plats för en icke-ledsagad tredjelandsmedborgares utresa när en transitering har genomförts. Om det har inträffat någon allvarlig händelse under transiteringen, ska den ansökande myndigheten även underrättas om detta.
+
+*Förordning (2014:1191)*.

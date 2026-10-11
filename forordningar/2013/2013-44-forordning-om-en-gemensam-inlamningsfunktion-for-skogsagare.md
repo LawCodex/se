@@ -1,0 +1,54 @@
+---
+title: "Förordning (2013:44) om en gemensam inlämningsfunktion för skogsägare"
+identifier: "SFS 2013:44"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2013-02-07
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-44.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:44"
+retrieved: 2026-10-11
+---
+# Förordning (2013:44) om en gemensam inlämningsfunktion för skogsägare
+
+## Förordningens syfte och tillämpningsområde
+
+### 1 §
+
+Skogsstyrelsen får inrätta en gemensam inlämningsfunktion för skogsägare. Syftet med en sådan funktion är att förenkla skogsägarnas kontakter med myndigheter i frågor som har anknytning till skog.
+
+### 2 §
+
+Med en gemensam inlämningsfunktion avses en funktion vid Skogsstyrelsen som skogsägare kan vända sig till för att inleda ärenden inom Skogsstyrelsens ansvarsområde och sådana ärenden inom andra myndigheters ansvarsområden som har anknytning till skog.
+
+### 3 §
+
+Skogsstyrelsen får, efter överenskommelse med andra berörda myndigheter, meddela föreskrifter om vilka ärenden som får inledas genom den gemensamma inlämningsfunktionen.
+
+## Överlämnande av uppgifter
+
+### 4 §
+
+Skogsstyrelsen ska skyndsamt till en annan myndighet lämna över uppgifter som kommit in genom den gemensamma inlämningsfunktionen men som är avsedda för den andra myndigheten.
+
+Uppgifterna ska lämnas över elektroniskt till den andra myndigheten.
+
+## Frivillighet
+
+### 5 §
+
+Den gemensamma inlämningsfunktionen hindrar inte att skogsägare inleder ärenden genom att vända sig direkt till berörd myndighet.
+
+## Inkomstdag
+
+### 6 §
+
+En handling som kommit in till Skogsstyrelsen genom den gemensamma inlämningsfunktionen och som innehåller uppgifter som ska lämnas över till en annan myndighet, ska anses ha kommit in till den andra myndigheten samma dag som den kom in till Skogsstyrelsen.
+
+## Gallring
+
+### 7 §
+
+Handlingar som kommit in genom den gemensamma inlämningsfunktionen och som är avsedda för en annan myndighet än Skogsstyrelsen, får gallras hos Skogsstyrelsen tidigast ett år efter det att uppgifterna lämnats över till den andra myndigheten enligt denna förordning.

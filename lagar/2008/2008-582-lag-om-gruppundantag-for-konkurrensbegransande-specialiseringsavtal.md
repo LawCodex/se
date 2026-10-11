@@ -1,0 +1,59 @@
+---
+title: "Lag (2008:582) om gruppundantag för konkurrensbegränsande specialiseringsavtal"
+identifier: "SFS 2008:582"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-06-18
+amended_through: "SFS 2024:707"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-582.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:582"
+retrieved: 2026-10-11
+---
+# Lag (2008:582) om gruppundantag för konkurrensbegränsande specialiseringsavtal
+
+### 1 §
+
+Denna lag tillämpas på specialiseringsavtal som innehåller sådana konkurrensbegränsningar som omfattas av 2 kap. 1 § konkurrenslagen (2008:579) (konkurrensbegränsande specialiseringsavtal).
+
+Det som i lagen sägs om avtal ska även tillämpas på beslut av en sammanslutning av företag och på samordnade förfaranden av företag. *Lag (2024:707)*.
+
+### 2 §
+
+Termer och uttryck i denna lag har samma betydelse som i kommissionens förordning (EU) 2023/1067 av den 1 juni 2023 om tillämpningen av artikel 101.3 i fördraget om Europeiska unionens funktionssätt på vissa grupper av specialiseringsavtal. *Lag (2024:707)*.
+
+### 3 §
+
+De villkor och begränsningar som följer av artikel 3-5 i förordning (EU) 2023/1067 ska tillämpas på konkurrensbegränsande specialiseringsavtal. När det i artiklarna hänvisas till artikel 2 gäller dock i stället undantaget i 4 §. *Lag (2024:707)*.
+
+### 4 §
+
+Konkurrensbegränsande specialiseringsavtal som uppfyller förut-sättningarna i artikel 3-5 i förordning (EU) 2023/1067 och som inte har följder som är oförenliga med 2 kap. 2 § konkurrenslagen är undantagna från förbudet mot konkurrensbegränsande samarbete mellan företag i 2 kap. 1 § konkurrenslagen.
+
+Undantaget i första stycket gäller även för
+
+1. specialiseringsavtal som innehåller bestämmelser om överlåtelse eller licensiering av immateriella rättigheter till en eller flera av parterna, under förutsättning att dessa bestämmelser inte utgör det primära syftet med dessa avtal, men är direkt knutna till dem och nödvändiga för genomförandet av dem, och
+
+2. specialiseringsavtal genom vilka
+
+a) parterna godtar en exklusiv inköpsskyldighet eller en exklusiv leveransskyldighet, eller
+
+b) parterna inte självständigt säljer specialiserings- produkterna utan distribuerar dem gemensamt.
+
+*Lag (2024:707)*.
+
+## Övergångsbestämmelser
+
+**2011:873**
+
+1. Denna lag träder i kraft den 1 augusti 2011.
+
+2. Äldre föreskrifter gäller till utgången av december 2012 för avtal som var i kraft den 1 augusti 2011. Äldre föreskrifter gäller dock inte för avtal som vid ikraftträdandet uppfyller villkoren för gruppundantag enligt de nya föreskrifterna.
+
+**2024:707**
+
+1. Denna lag träder i kraft den 1 december 2024.
+
+2. Äldre föreskrifter gäller dock till utgången av juni 2025 för konkurrensbegränsande specialiseringsavtal som ingåtts före ikraftträdandet och som vid ikraftträdandet inte uppfyller villkoren för gruppundantag enligt de nya föreskrifterna.

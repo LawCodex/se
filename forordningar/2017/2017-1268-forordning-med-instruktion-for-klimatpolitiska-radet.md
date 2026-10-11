@@ -1,0 +1,141 @@
+---
+title: "Förordning (2017:1268) med instruktion för Klimatpolitiska rådet"
+identifier: "SFS 2017:1268"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-12-07
+amended_through: "SFS 2026:1774"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-1268.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:1268"
+retrieved: 2026-10-11
+---
+# Förordning (2017:1268) med instruktion för Klimatpolitiska rådet
+
+## Uppgifter
+
+### 1 §
+
+Klimatpolitiska rådet ska utvärdera hur regeringens samlade politik är förenlig med de klimatmål som riksdagen och regeringen har beslutat.
+
+### 2 §
+
+Inom ramen för den uppgift som anges i 1 § ska Klimatpolitiska rådet särskilt
+
+1. utvärdera om inriktningen inom olika relevanta politikområden bidrar till eller motverkar möjligheten att nå klimatmålen,
+
+2. belysa effekter av beslutade och föreslagna styrmedel från ett brett samhällsperspektiv,
+
+3. identifiera politikområden där ytterligare åtgärder behövs,
+
+4. analysera hur målen kan nås på ett kostnadseffektivt sätt, både kort- och långsiktigt, och
+
+5. utvärdera de underlag och modeller som regeringen bygger sin politik på.
+
+### 3 §
+
+Klimatpolitiska rådet ska bidra till en ökad diskussion i samhället om klimatpolitiken.
+
+## Årlig redogörelse
+
+### 4 §
+
+Klimatpolitiska rådet ska senast den 22 februari varje år lämna en redogörelse till regeringen om hur arbetet har bedrivits under året, hur myndighetens kansli är organiserat och hur myndighetens ekonomiska medel har använts.
+
+## Rapportering
+
+### 5 §
+
+Klimatpolitiska rådet ska senast
+
+1. vid utgången av mars varje år lämna en rapport till regeringen med
+
+a) en bedömning av hur klimatarbetet och utsläppsutvecklingen fortskrider,
+
+b) en bedömning av hur regeringens politik är förenlig med klimatmålen, och
+
+c) de övriga analyser och bedömningar som myndigheten har gjort, och
+
+2. tre månader efter det att regeringen har lämnat sin klimatpolitiska handlingsplan enligt 5 § klimatlagen (2017:720) lämna en rapport till regeringen med en bedömning av handlingsplanen.
+
+Om det finns avvikande meningar bland ledamöterna, ska de olika meningarna framgå av rapporterna.
+
+*Förordning (2018:1570)*.
+
+## Ledning
+
+### 6 §
+
+Klimatpolitiska rådet leds av en nämnd.
+
+### 7 §
+
+Nämnden består av en ordförande, en vice ordförande och högst sex andra ledamöter.
+
+## Beslutsförhet
+
+### 8 §
+
+Nämnden är beslutsför när minst fem av ledamöterna, bland dem ordföranden eller vice ordföranden, är närvarande.
+
+## Organisation
+
+### 9 §
+
+Vid nämnden finns ett kansli.
+
+### 10 §
+
+Forskningsrådet för miljö, areella näringar och samhällsbyggande (Formas) upplåter lokaler och utför administrativa och handläggande uppgifter åt Klimatpolitiska rådet.
+
+*/Rubriken träder i kraft I:2026-12-01/*
+
+## Särskilda organ
+
+### 10 a §
+
+*/Träder i kraft I:2026-12-01/* Inom myndigheten finns ett särskilt beslutsorgan som benämns valberedningen. Valberedningen ska lämna förslag på ledamöter till regeringen som möjliggör att det i nämnden finns ledamöter som har en hög vetenskaplig kompetens inom ämnesområdena klimat, klimatpolitik, nationalekonomi, samhällsvetenskap och beteendevetenskap samt att en jämn fördelning av kompetens och erfarenhet uppnås. En jämn könsfördelning ska eftersträvas. Valberedningens förslag ska ges in till regeringen senast tre månader innan förordnandena går ut.
+
+Klimatpolitiska rådet ska bistå valberedningen i dess arbete.
+
+*Förordning (2026:1774)*.
+
+## Anställningar och uppdrag
+
+### 11 §
+
+*/Upphör att gälla U:2026-12-01/* Ordföranden, vice ordföranden och andra ledamöter i nämnden utses av regeringen efter förslag från Klimatpolitiska rådet. Förordnandena ges för en bestämd tid, dock högst sex år i följd för ordföranden och högst tre år i följd för övriga ledamöter. En ledamot som inte är ordförande och som föreslås bli ordförande får förordnas för ytterligare högst tre år.
+
+Trots det som anges i första stycket får en annan ledamot än ordföranden förordnas för ytterligare högst två år, om det finns särskilda skäl för det.
+
+Klimatpolitiska rådet ska lämna förslag som möjliggör att det i nämnden finns ledamöter som har en hög vetenskaplig kompetens inom ämnesområdena klimat, klimatpolitik, nationalekonomi, samhällsvetenskap och beteendevetenskap samt att en jämn fördelning av kompetens och erfarenhet uppnås. En jämn könsfördelning ska eftersträvas. Myndighetens förslag ska ges in till regeringen senast tre månader innan förordnandena går ut. *Förordning (2019:1308)*.
+
+### 11 §
+
+*/Träder i kraft I:2026-12-01/* Ordföranden, vice ordföranden och andra ledamöter i nämnden utses av regeringen efter förslag från rådets valberedning. Förordnandena ges för en bestämd tid, högst sex år i följd för ordföranden och högst tre år i följd för övriga ledamöter. En ledamot som inte är ordförande får förordnas som ledamot eller som ordförande eller vice ordförande för ytterligare högst tre år.
+
+Valberedningen består av myndighetscheferna för Forskningsrådet för miljö, areella näringar och samhällsbyggande (Formas), Konjunkturinstitutet, Naturvårdsverket, Statens energimyndighet, Skogsstyrelsen och två andra ledamöter som utses av regeringen för en bestämd tid. Valberedningen är beslutsför när samtliga ledamöter är närvarande. *Förordning (2026:1774)*.
+
+### 12 §
+
+Kanslichefen anställs av Formas efter förslag från Klimatpolitiska rådet.
+
+## Tillämpligheten av vissa förordningar
+
+### 13 §
+
+Klimatpolitiska rådet ska inte tillämpa förordningen (2000:605) om årsredovisning och budgetunderlag.
+
+*Förordning (2022:570)*.
+
+### 14 §
+
+Klimatpolitiska rådet ska inte tillämpa följande bestämmelser i myndighetsförordningen (2007:515):
+
+- 7 § om samverkan i EU-arbetet och annat internationellt arbete,
+
+- 20 § om föredragning av ärenden, och
+
+- 29 § om ärendeförteckning till Justitiekanslern.

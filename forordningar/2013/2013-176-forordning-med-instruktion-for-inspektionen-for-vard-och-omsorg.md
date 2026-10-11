@@ -1,0 +1,121 @@
+---
+title: "Förordning (2013:176) med instruktion för Inspektionen för vård och omsorg"
+identifier: "SFS 2013:176"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2013-04-18
+amended_through: "SFS 2026:223"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-176.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:176"
+retrieved: 2026-10-11
+---
+# Förordning (2013:176) med instruktion för Inspektionen för vård och omsorg
+
+## Uppgifter
+
+### 1 §
+
+Inspektionen för vård och omsorg har som huvudsakliga uppgifter att
+
+1. svara för tillsyn inom hälso- och sjukvård och därmed jämförlig verksamhet, socialtjänst samt verksamhet enligt lagen (1993:387) om stöd och service till vissa funktionshindrade,
+
+2. som en del av tillsynen pröva klagomål mot hälso- och sjukvården och dess personal enligt bestämmelserna i patientsäkerhetslagen (2010:659), och
+
+3. svara för tillståndsprövning inom de områden som anges i 1.
+
+Verksamheten ska bedrivas strategiskt och effektivt samt på ett enhetligt sätt inom landet. *Förordning (2014:1049)*.
+
+### 2 §
+
+Syftet med tillsynen är att granska att befolkningen får vård och omsorg som är säker, har god kvalitet och bedrivs i enlighet med lagar och andra föreskrifter. Ett patient- och brukarperspektiv ska genomsyra tillsynen. Villkor och förhållanden för kvinnor och män, flickor och pojkar ska särskilt belysas.
+
+Tillsynen ska planeras och genomföras med utgångspunkt i egna riskanalyser om inte annat följer av lag, förordning eller särskilt beslut från regeringen. Tillsynen ska även innefatta kontroll av hur verksamheterna fullgör sin skyldighet att bedriva egenkontroll.
+
+Resultatet av tillsynen ska redovisas till de granskade verksamheterna och till den region eller den kommun som berörs. *Förordning (2019:1092)*.
+
+### 2 a §
+
+Myndigheten ska, inom sitt verksamhetsområde, förebygga och motverka brottslighet. *Förordning (2025:53)*.
+
+### 3 §
+
+Myndigheten ska senast den 1 mars varje år lämna en särskild rapport till regeringen med en sammanfattande analys av arbetet med tillsyn, klagomål enligt patientsäkerhetslagen (2010:659) och tillståndsprövning under det gångna verksamhetsåret.
+
+Rapporten ska innehålla de viktigaste iakttagelserna, de åtgärder som myndigheten vidtagit med anledning av uppmärksammade brister och slutsatser av tillsynen. I rapporten ska tillsynen av verksamhet som rör hälso- och sjukvård respektive verksamhet som rör socialtjänst och verksamhet enligt lagen (1993:387) om stöd och service till vissa funktionshindrade redovisas separat. I redovisningen av tillsyn av verksamhet som rör hälso- och sjukvård ska prövningen av klagomål enligt patientsäkerhetslagen ingå som en särskild del. *Förordning (2014:1049)*.
+
+### 3 a §
+
+Myndigheten ska framställa statistik över sitt verksamhetsområde i den utsträckning det behövs för att uppnå syftet med tillsynen enligt 2 § och för att utgöra underlag till den rapport som anges i 3 §. *Förordning (2016:1253)*.
+
+### 3 b §
+
+Har upphävts genom *förordning (2021:636)*.
+
+## Samverkan
+
+### 4 §
+
+Myndigheten ska samverka med andra berörda myndigheter i syfte att uppnå ett effektivt kunskaps- och erfarenhetsutbyte i arbetet med tillsyn, styrning med kunskap och regelgivning.
+
+Bestämmelser om samverkan med vissa andra myndigheter finns i förordningen (2015:155) om statlig styrning med kunskap avseende hälso- och sjukvård och socialtjänst.
+
+Myndigheten kungör sina föreskrifter i Gemensamma författningssamlingen avseende hälso- och sjukvård, socialtjänst, läkemedel, folkhälsa m.m. i enlighet med bilaga 1 till författningssamlingsförordningen (1976:725).
+
+*Förordning (2015:172)*.
+
+## Ledning
+
+### 5 §
+
+Myndigheten leds av en styrelse.
+
+Regeringen utser vice ordförande i styrelsen. *Förordning (2026:223)*.
+
+### 6 §
+
+Styrelsen ska bestå av högst nio ledamöter.
+
+*Förordning (2026:223)*.
+
+## Delegering
+
+### 6 a §
+
+Styrelsen får överlåta till myndighetschefen att besluta om myndighetens föreskrifter. Detta gäller inte föreskrifter som har principiell betydelse eller annars är av större vikt.
+
+*Förordning (2026:223)*.
+
+## Anställningar och uppdrag
+
+### 7 §
+
+Generaldirektören är myndighetschef.
+
+### 7 a §
+
+Vid myndigheten finns en överdirektör. *Förordning (2026:223)*.
+
+## Personalansvarsnämnd
+
+### 8 §
+
+Vid myndigheten finns en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 9 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+### 10 §
+
+Myndigheten ska tillämpa internrevisionsförordningen (2006:1228).
+
+## Avgifter
+
+### 11 §
+
+Myndigheten får ta ut avgifter för sådana varor och tjänster som avses i 4 § första stycket 1-3 avgiftsförordningen (1992:191), utan den begränsning som föreskrivs i andra stycket samma paragraf.

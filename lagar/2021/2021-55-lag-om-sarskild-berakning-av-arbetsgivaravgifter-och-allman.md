@@ -1,0 +1,55 @@
+---
+title: "Lag (2021:55) om särskild beräkning av arbetsgivaravgifter och allmän löneavgift för personer som vid årets ingång fyllt 18 men inte 23 år"
+identifier: "SFS 2021:55"
+type: act
+jurisdiction: se
+language: sv
+date: 2021-02-04
+amended_through: "SFS 2022:240"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2021-55.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2021:55"
+retrieved: 2026-10-11
+---
+# Lag (2021:55) om särskild beräkning av arbetsgivaravgifter och allmän löneavgift för personer som vid årets ingång fyllt 18 men inte 23 år
+
+### 1 §
+
+Denna lag innehåller bestämmelser om särskild beräkning av
+
+1. arbetsgivaravgifter enligt socialavgiftslagen (2000:980), och
+
+2. löneavgift enligt lagen (1994:1920) om allmän löneavgift.
+
+### 2 §
+
+På ersättning till personer som vid årets ingång har fyllt 18 men inte 23 år ska hela ålderspensionsavgiften men bara nio tjugondelar av de övriga arbetsgivaravgifterna och den allmänna löneavgiften betalas. Procenttalen för avgifterna ska efter kvoteringen anges med två decimaler så att övriga decimaler faller bort.
+
+På ersättning som utges under perioden 1 juni-31 augusti 2021 och 1 juni-31 augusti 2022 ska dock bara ålderspensionsavgiften betalas.
+
+Första och andra styckena gäller endast till den del den avgiftspliktiga ersättningen uppgår till högst 25 000 kronor per kalendermånad. *Lag (2022:240)*.
+
+## Övergångsbestämmelser
+
+**2021:55**
+
+1. Denna lag träder i kraft den 6 februari 2021.
+
+2. Lagen tillämpas på ersättning som utges efter den 31 december 2020.
+
+3. Lagen upphör att gälla vid utgången av mars 2023.
+
+4. Den upphävda lagen gäller dock fortfarande för ersättning som har utgetts under perioden 1 januari 2021-31 mars 2023.
+
+**2021:591**
+
+1. Denna lag träder i kraft den 19 juni 2021.
+
+2. Lagen tillämpas på ersättning som utges efter den 31 maj 2021.
+
+**2022:240**
+
+1. Denna lag träder i kraft den 1 juni 2022.
+
+2. Lagen tillämpas på ersättning som utges efter den 31 maj 2022.

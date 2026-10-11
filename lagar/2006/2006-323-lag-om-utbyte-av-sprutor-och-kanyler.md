@@ -1,0 +1,97 @@
+---
+title: "Lag (2006:323) om utbyte av sprutor och kanyler"
+identifier: "SFS 2006:323"
+type: act
+jurisdiction: se
+language: sv
+date: 2006-05-11
+amended_through: "2026:1309"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-323.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:323"
+retrieved: 2026-10-11
+---
+# Lag (2006:323) om utbyte av sprutor och kanyler
+
+### Inledande bestämmelse
+
+#### 1 §
+
+*/Upphör att gälla U:2028-01-01/* I denna lag finns bestämmelser om verksamhet med utbyte av sprutor och kanyler (sprututbytesverksamhet) i syfte att förebygga spridning av hivinfektion och andra blodburna infektioner bland personer som missbrukar narkotika.
+
+Sprututbytesverksamhet ska bedrivas på ett sådant sätt att den enskilde kan motiveras för vård och behandling.
+
+Det som i lagen sägs om regioner gäller också kommuner som inte ingår i en region. *Lag (2019:924)*.
+
+#### 1 §
+
+*/Träder i kraft I:2028-01-01/* I denna lag finns bestämmelser om verksamhet med utbyte av sprutor och kanyler (sprututbytesverksamhet). Syftet med sådan verksamhet är att förebygga spridning av blodburna infektioner och att främja fysisk och psykisk hälsa hos personer med skadligt bruk eller beroende av narkotika.
+
+Sprututbytesverksamhet ska bedrivas på ett sådant sätt att den enskilde kan motiveras för vård och behandling.
+
+Det som i lagen sägs om regioner gäller också kommuner som inte ingår i en region.
+
+Sprututbytesverksamhet får bedrivas av regioner *Lag (2026:1309)*.
+
+### Tillstånd att bedriva verksamhet med utbyte av sprutor och kanyler
+
+#### 2 §
+
+*/Upphör att gälla U:2028-01-01/* Sprututbytesverksamhet får bedrivas endast av regioner inom ramen för deras hälso- och sjukvård och sedan Inspektionen för vård och omsorg har gett tillstånd till verksamheten. *Lag (2019:924)*.
+
+#### 2 §
+
+*/Träder i kraft I:2028-01-01/* Sprututbytesverksamhet får bedrivas endast av regioner inom ramen för deras hälso- och sjukvård. *Lag (2026:1309)*.
+
+#### 3 §
+
+*/Upphör att gälla U:2028-01-01/* Innan en ansökan om tillstånd ges in, ska samråd ske mellan regionen och samtliga kommuner inom regionen.
+
+I ansökan ska regionen redovisa hur behovet av avgiftning och vård av missbrukare kommer att tillgodoses. *Lag (2019:924)*.
+
+#### 3 §
+
+*/Träder i kraft I:2028-01-01/* Regioner som bedriver sprututbytesverksamhet ska planera verksamheten så att den blir tillgänglig för och främjar fysisk och psykisk hälsa hos personer med skadligt bruk eller beroende av narkotika.
+
+I planeringen ska regionen samverka med kommuner och andra berörda aktörer. *Lag (2026:1309)*.
+
+#### 4 §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1309)*./ Inspektionen för vård och omsorg får ge tillstånd till sprututbytesverksamhet för högst två år åt gången. Har en ny ansökan getts in innan tiden för gällande tillstånd har löpt ut, får verksamheten fortsätta i avvaktan på inspektionens beslut. *Lag (2012:950)*.
+
+#### 5 §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1309)*./ Inspektionen för vård och omsorg får besluta att återkalla ett tillstånd till sprututbytesverksamhet om det förekommer missförhållanden i verksamheten. *Lag (2012:950)*.
+
+### Villkor för utbyte av sprutor och kanyler
+
+#### 6 §
+
+En spruta eller en kanyl får lämnas ut av regionen endast om en begagnad spruta eller kanyl samtidigt lämnas in. Utlämnande får dock ske om det finns särskilda skäl till varför motsvarande begagnade sprutor och kanyler inte kan lämnas in.
+
+Sprutor eller kanyler får lämnas ut endast till den som har fyllt 18 år. Utlämnande får ske endast vid personligt besök.
+
+*Lag (2022:908)*.
+
+*/Rubriken upphör att gälla U:2028-01-01/*
+
+### Överklagandeförbud
+
+#### 7 §
+
+/Upphör att gälla U:2028-01-01 genom *lag (2026:1309)*./ Beslut enligt denna lag får inte överklagas.
+
+### Bemyndigande
+
+#### 8 §
+
+Regeringen eller den myndighet regeringen bestämmer får meddela sådana ytterligare föreskrifter om sprututbytesverksamheten som behövs till skydd för enskilda.
+
+## Övergångsbestämmelser
+
+**2006:323**
+
+1. Denna lag träder i kraft den 1 juli 2006.
+
+2. Ett landsting som vid ikraftträdandet bedriver sprututbytesverksamhet får, under förutsättning att landstinget före utgången av år 2006 gör en ansökan om tillstånd enligt 2 §, fortsätta verksamheten i avvaktan på Socialstyrelsens beslut.

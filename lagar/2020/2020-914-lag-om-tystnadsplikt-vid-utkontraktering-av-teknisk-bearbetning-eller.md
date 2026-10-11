@@ -1,0 +1,81 @@
+---
+title: "Lag (2020:914) om tystnadsplikt vid utkontraktering av teknisk bearbetning eller lagring av uppgifter"
+identifier: "SFS 2020:914"
+type: act
+jurisdiction: se
+language: sv
+date: 2020-11-12
+amended_through: "SFS 2026:1650"
+department: "Finansdepartementet DIS"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-914.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:914"
+retrieved: 2026-10-11
+---
+# Lag (2020:914) om tystnadsplikt vid utkontraktering av teknisk bearbetning eller lagring av uppgifter
+
+## 1 §
+
+Denna lag tillämpas när en myndighet uppdrar åt ett företag eller en annan enskild (tjänsteleverantör) att endast tekniskt bearbeta eller tekniskt lagra uppgifter.
+
+## 2 §
+
+*/Upphör att gälla U:2027-01-01/* Vid tillämpningen av denna lag ska med myndigheter jämställas
+
+1. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där kommuner, regioner eller kommunalförbund utövar ett rättsligt bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen (2009:400), och
+
+2. de organ som anges i bilagan till offentlighets- och sekretesslagen i fråga om de verksamheter som anges där.
+
+Med en myndighet ska också jämställas yrkesmässigt bedriven enskild verksamhet som till någon del är offentligt finansierad och som
+
+1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
+
+2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125), eller
+
+3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller utgör personlig assistans som utförs med assistansersättning enligt 51 kap. socialförsäkringsbalken.
+
+*Lag (2025:458)*.
+
+## 2 §
+
+*/Träder i kraft I:2027-01-01/**/Upphör att gälla U:2027-01-02/*
+
+Vid tillämpningen av denna lag ska med myndigheter jämställas
+
+1. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där kommuner, regioner eller kommunalförbund utövar ett rättsligt bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen (2009:400), och
+
+2. de organ som anges i bilagan till offentlighets- och sekretesslagen i fråga om de verksamheter som anges där.
+
+Med en myndighet ska också jämställas yrkesmässigt bedriven enskild verksamhet som till någon del är offentligt finansierad och som
+
+1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
+
+2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125), eller
+
+3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av missbrukare i vissa fall, lagen (2026:1600) om omhändertagande för vård av barn och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller utgör personlig assistans som utförs med assistansersättning enligt 51 kap. socialförsäkringsbalken. *Lag (2026:1627)*.
+
+## 2 §
+
+*/Träder i kraft I:2027-01-02/* Vid tillämpningen av denna lag ska med myndigheter jämställas
+
+1. sådana aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där kommuner, regioner eller kommunalförbund utövar ett rättsligt bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen (2009:400), och
+
+2. de organ som anges i bilagan till offentlighets- och sekretesslagen i fråga om de verksamheter som anges där.
+
+Med en myndighet ska också jämställas yrkesmässigt bedriven enskild verksamhet som till någon del är offentligt finansierad och som
+
+1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
+
+2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125), eller
+
+3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av missbrukare i vissa fall, lagen (2026:1637) om insatser inom socialtjänsten när samtycke saknas, lagen (2026:1600) om omhändertagande för vård av barn och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller utgör personlig assistans som utförs med assistansersättning enligt 51 kap. socialförsäkringsbalken. *Lag (2026:1650)*.
+
+## 3 §
+
+Vid tillämpningen av denna lag ska med en tjänsteleverantör jämställas en underleverantör som medverkar till att fullgöra tjänsteleverantörens uppdrag.
+
+## 4 §
+
+Den som på grund av anställning eller på något annat sätt deltar i eller har deltagit i en tjänsteleverantörs verksamhet att på uppdrag av en myndighet endast tekniskt bearbeta eller tekniskt lagra uppgifter får inte obehörigen röja eller utnyttja dessa uppgifter.
+
+I det allmännas verksamhet tillämpas offentlighets- och sekretesslagen (2009:400).

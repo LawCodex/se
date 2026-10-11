@@ -1,0 +1,191 @@
+---
+title: "Förordning (2007:1117) med instruktion för Konkurrensverket"
+identifier: "SFS 2007:1117"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-29
+amended_through: "SFS 2026:583"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1117.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1117"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1117) med instruktion för Konkurrensverket
+
+### Uppgifter
+
+#### 1 §
+
+Konkurrensverket är förvaltningsmyndighet för konkurrensfrågor. Konkurrensverket är också tillsynsmyndighet för offentlig upphandling, otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter och offentlig säljverksamhet. *Förordning (2026:583)*.
+
+#### 2 §
+
+Konkurrensverket ska verka för en effektiv konkurrens i privat och offentlig verksamhet till nytta för konsumenterna samt en effektiv offentlig upphandling till nytta för det allmänna och marknadens aktörer.
+
+Konkurrensverket ska se till att de regelverk och rutiner verket disponerar över är kostnadseffektiva och enkla för medborgare och företag. *Förordning (2008:1231)*.
+
+#### 3 §
+
+Konkurrensverket ska fullgöra de uppgifter som följer av
+
+1. konkurrenslagen (2008:579),
+
+2. 21 kap. 1 § lagen (2016:1145) om offentlig upphandling, 21 kap. 1 § lagen (2016:1146) om upphandling inom försörjningssektorerna, 17 kap. 1 § lagen (2016:1147) om upphandling av koncessioner, 18 kap. 1 § lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet samt 5 och 9-11 §§ lagen (2019:668) om upphandlingsstatistik,
+
+3. lagen (2014:836) om näringsförbud,
+
+4. lagen (2005:590) om insyn i vissa finansiella förbindelser m.m.,
+
+5. 10 kap. 7 § lagen (2008:962) om valfrihetssystem,
+
+6. förordningen (1994:1808) om behöriga myndigheter på den civila luftfartens område,
+
+7. konkurrensförordningen (2021:87),
+
+8. 5 kap. 4 § lagen (2010:1065) om kollektivtrafik,
+
+9. lagen (2021:79) om ömsesidigt bistånd med delgivning och indrivning på konkurrensområdet och förordningen (2021:88) om ömsesidigt bistånd med delgivning och indrivning på konkurrensområdet,
+
+10. 14 § lagen (2021:579) om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter och förordningen (2021:583) om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter, och
+
+11. lagen (2026:578) om offentlig säljverksamhet.
+
+Konkurrensverket är tillsynsmyndighet när Arbetsförmedlingen tillämpar lagen (2008:962) om valfrihetssystem i enlighet med lagen (2010:536) om valfrihet hos Arbetsförmedlingen. Vid tillsynen tillämpas 10 kap. 8 § lagen om valfrihetssystem.
+
+*Förordning (2026:583)*.
+
+#### 4 §
+
+Konkurrensverket ska utöver vad som följer av 3 §
+
+1. uppmärksamma hinder mot en effektiv konkurrens i offentlig och privat verksamhet och mot en effektiv offentlig upphandling, lämna förslag till konkurrensutsättning och till regelreformering samt följa utvecklingen inom sitt ansvarsområde,
+
+2. fullgöra den övervakning och rapportering i fråga om detaljhandel med alkohol som överenskommits mellan Sverige och Europeiska kommissionen,
+
+3. avge yttranden enligt 3 § förordningen (2019:14) med kompletterande bestämmelser till EU:s hamntjänstförordning och 5 kap. 1 § förordningen (2022:511) om elektronisk kommunikation,
+
+4. samla in uppgifter för statistikändamål,
+
+5. till Regeringskansliet årligen överlämna kopior av domar och slutliga beslut som gäller tillämpningen av 20 kap. 14 § lagen (2016:1145) om offentlig upphandling, 20 kap. 14 § lagen (2016:1146) om upphandling inom försörjningssektorerna och 16 kap. 14 § lagen (2016:1147) om upphandling av koncessioner,
+
+6. fullgöra de uppgifter som ska skötas av en nationell konkurrensmyndighet enligt Europaparlamentets och rådets förordning (EU) nr 1227/2011 av den 25 oktober 2011 om integritet och öppenhet på grossistmarknaderna för energi, och
+
+7. inom ramen för sina uppgifter enligt 1 arbeta för att öka förutsättningarna för små och medelstora företag att delta i offentliga upphandlingar. *Förordning (2022:516)*.
+
+#### 4 a §
+
+Har upphävts genom *förordning (2015:528)*.
+
+#### 5 §
+
+Konkurrensverket ska, om Europeiska kommissionen begär det, överlämna information från en öppen eller en separat redovisning enligt 3 respektive 4 § lagen (2005:590) om insyn i vissa finansiella förbindelser m.m. Detsamma gäller annan information som behövs för att utvärdera sådana redovisningar.
+
+*Förordning (2026:217)*.
+
+#### 6 §
+
+Konkurrensverket ska bidra till den internationella utvecklingen inom sitt ansvarsområde. Verket får vid behov samverka med motsvarande myndigheter i andra länder.
+
+*Förordning (2015:528)*.
+
+#### 7 §
+
+Sekretess enligt offentlighets- och sekretesslagen (2009:400) hindrar inte att Konkurrensverket, på eget initiativ eller efter en förfrågan, lämnar ut uppgifter till
+
+1. konkurrensmyndigheterna i Danmark, Finland, Island eller Norge när det är nödvändigt för att uppfylla avtal mellan dessa länder och Sverige om samarbete i konkurrensfrågor,
+
+2. en nationell konkurrensmyndighet i en annan medlemsstat i Europeiska unionen vid bistånd som lämnas enligt Europaparlamentets och rådets direktiv (EU) 2019/1 av den 11 december 2018 om att ge medlemsstaternas konkurrensmyndigheter befogenhet att mer effektivt kontrollera efterlevnaden av konkurrensreglerna och om att säkerställa en väl fungerande inre marknad, i den ursprungliga lydelsen, eller
+
+3. en tillsynsmyndighet i en annan medlemsstat i Europeiska unionen eller Europeiska kommissionen i den utsträckning som följer av artikel 8.1 i Europaparlamentets och rådets direktiv (EU) 2019/633 av den 17 april 2019 om otillbörliga handelsmetoder mellan företag i jordbruks- och livsmedelskedjan, i den ursprungliga lydelsen.
+
+Uppgifter som lämnas ut enligt första stycket får i det enskilda fallet förenas med villkor för användandet, om det krävs med hänsyn till den enskildes rätt eller från allmän synpunkt. *Förordning (2021:584)*.
+
+#### 8 §
+
+Konkurrensverket ska i lämplig omfattning informera företag, upphandlande myndigheter, upphandlande enheter och andra berörda om
+
+1. tillämpningen av konkurrenslagen (2008:579), lagen (2016:1145) om offentlig upphandling, lagen (2016:1146) om upphandling inom försörjningssektorerna, lagen (2016:1147) om upphandling av koncessioner, lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet, lagen (2021:579) om förbud mot otillbörliga handelsmetoder vid köp av jordbruks- och livsmedelsprodukter och lagen (2026:578) om offentlig säljverksamhet,
+
+2. tillämpningen av 4 a kap. lagen (2010:1065) om kollektivtrafik, och
+
+3. Europeiska unionens konkurrens- och upphandlingsregler.
+
+Konkurrensverket ska främja ett konkurrensinriktat synsätt och verka för en enhetlig tillämpning av de nationella upphandlingsreglerna. *Förordning (2026:583)*.
+
+#### 9 §
+
+Konkurrensverket ska underrätta Ekobrottsmyndigheten och Åklagarmyndigheten innan verket ansöker om näringsförbud enligt 17 § lagen (2014:836) om näringsförbud. *Förordning (2021:89)*.
+
+#### 9 a §
+
+Har upphävts genom *förordning (2015:528)*.
+
+### Samverkan
+
+#### 10 §
+
+Konkurrensverket ska sträva efter en effektiv samverkan med myndigheter och andra berörda aktörer. Verket bör vidare samråda med de myndigheter som berörs av verkets förslag till åtgärder.
+
+Konkurrensverket ska samverka med Upphandlingsmyndigheten för att utveckla den offentliga upphandlingen. *Förordning (2021:89)*.
+
+### Ledning
+
+#### 11 §
+
+Konkurrensverket leds av en myndighetschef.
+
+### Rådet för forskningsfrågor
+
+#### 12 §
+
+Vid Konkurrensverket ska det finnas ett råd för forskningsfrågor. Rådet har till uppgift att bistå Konkurrensverket i arbetet med att stimulera forskningen på konkurrens- och upphandlingsområdet. Rådet ska även tillföra verket och Upphandlingsmyndigheten sådana resultat från utvecklingen främst inom de ekonomiska och juridiska vetenskaperna som kan ha betydelse för verkets och myndighetens verksamhet.
+
+Rådet ska delta i beredningen av ärenden om fördelning av medel från anslaget för konkurrensforskning. Beslut i sådana frågor fattas av Konkurrensverket efter förslag av rådet.
+
+*Förordning (2015:528)*.
+
+#### 13 §
+
+Rådet för forskningsfrågor består av myndighetschefen, som är ordförande, och högst tio andra ledamöter, som utses av Konkurrensverket efter samråd med Upphandlingsmyndigheten.
+
+Rådets sammansättning ska vara representativ för de uppgifter som det har att utföra enligt 12 §. *Förordning (2015:528)*.
+
+#### 14 §
+
+Ett beslut om fördelning av medel från anslaget för konkurrensforskning kan inte överklagas. *Förordning (2021:89)*.
+
+### Anställningar och uppdrag
+
+#### 15 §
+
+Generaldirektören är myndighetschef.
+
+### Personalansvarsnämnd
+
+#### 16 §
+
+Vid Konkurrensverket ska det finnas en personalansvarsnämnd.
+
+### Tillämpligheten av viss förordning
+
+#### 17 §
+
+I administrativa ärenden ska Konkurrensverket tillämpa personalföreträdarförordningen (1987:1101).
+
+### Avgifter
+
+#### 18 §
+
+Konkurrensverket får mot ersättning utföra uppdrag åt Regeringskansliet, andra myndigheter samt åt kommittéer och utredare.
+
+Konkurrensverket får ta ut avgifter för varor och tjänster med stöd av 4 § första stycket avgiftsförordningen (1992:191) utan hinder av den begränsning som följer av andra stycket samma paragraf.
+
+## Övergångsbestämmelser
+
+**2007:1117**
+
+1. Denna förordning träder i kraft den 1 januari 2008, då förordningen (1996:353) med instruktion för Konkurrensverket ska upphöra att gälla.
+
+2. Ledamot i Rådet för forskningsfrågor som har utsetts före ikraftträdandet kvarstår som sådan ledamot under den tid som han eller hon har utsetts för.

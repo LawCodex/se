@@ -1,0 +1,49 @@
+---
+title: "Förordning (2008:923) om signalspaning i försvarsunderrättelseverksamhet"
+identifier: "SFS 2008:923"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-11-20
+amended_through: "SFS 2026:1116"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-923.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:923"
+retrieved: 2026-10-11
+---
+# Förordning (2008:923) om signalspaning i försvarsunderrättelseverksamhet
+
+## 1 §
+
+Denna förordning innehåller föreskrifter i anslutning till lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+## 2 §
+
+Försvarets radioanstalt ska bedriva den verksamhet som avses i 1 och 1 a §§ lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+Beslut enligt 5 b § första stycket lagen om signalspaning i försvarsunderrättelseverksamhet får fattas av myndighetschefen i Försvarets radioanstalt eller hans eller hennes ställföreträdare. *Förordning (2026:1116)*.
+
+## 3 §
+
+Försvarets radioanstalt ska till Statens inspektion för försvarsunderrättelseverksamheten redovisa sådana sökbegrepp enligt 3 § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet som är direkt hänförliga till fysisk person och som används i signalspaningsverksamheten.
+
+Statens inspektion för försvarsunderrättelseverksamheten får meddela föreskrifter om i vilken omfattning sökbegrepp i övrigt ska redovisas och på vilket sätt redovisningen ska ske. *Förordning (2009:972)*.
+
+## 4 §
+
+Försvarets radioanstalt ska skyndsamt informera Statens inspektion för försvarsunderrättelseverksamheten, om 2 b § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet tillämpas. *Förordning (2026:1116)*.
+
+## 5 §
+
+Förstöring av upptagningar eller uppteckningar enligt 2 a, 5 b, 7, 10 och 10 a §§ lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet ska ske på ett sådant sätt att uppgifterna inte kan återskapas. *Förordning (2026:1116)*.
+
+## 6 §
+
+Försvarets radioanstalt får för den verksamhet som anges i 1 § tredje stycket och 1 a § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet samarbeta i signalspaningsfrågor med andra länder och internationella organisationer endast under förutsättning att syftet med samarbetet är att tjäna den svenska statsledningen och den nationella säkerheten. De uppgifter som myndigheten lämnar till andra länder och internationella organisationer får inte vara till skada för svenska intressen.
+
+*Förordning (2026:1116)*.
+
+## 7 §
+
+Försvarets radioanstalt ska till Regeringskansliet (Försvarsdepartementet) anmäla frågor om att etablera och upprätthålla sådant samarbete som avses i 6 §. Myndigheten ska informera Regeringskansliet (Försvarsdepartementet) om viktiga frågor som uppkommer i samarbetet.

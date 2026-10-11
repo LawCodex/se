@@ -1,0 +1,133 @@
+---
+title: "Förordning (2007:1240) om tillsyn över hundar och katter"
+identifier: "SFS 2007:1240"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-12-06
+amended_through: "SFS 2026:298"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1240.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1240"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1240) om tillsyn över hundar och katter
+
+## Inledande bestämmelse
+
+### 1 §
+
+Denna förordning innehåller bestämmelser i anslutning till lagen (2007:1150) om tillsyn över hundar och katter.
+
+## Märkning och registrering
+
+### 2 §
+
+En hund- eller kattägare ska låta märka och registrera sin hund eller katt
+
+1. innan djuret har uppnått en ålder av fyra månader, eller
+
+2. inom fyra veckor efter förvärvet, om djuret förvärvas efter tre månaders ålder och föregående ägare inte har låtit märka och registrera det.
+
+Vid införsel från ett annat land ska registrering ske inom fyra veckor från införseln, om djuret förs in i landet efter tre månaders ålder. Om djuret inte är märkt ska märkning ske inom samma tid. *Förordning (2022:1562)*.
+
+### 3 §
+
+Märkning ska ske med mikrochips eller tatuering.
+
+### 4 §
+
+En anmälan om registrering ska innehålla
+
+1. hund- eller kattägarens namn, person-, samordnings- eller organisationsnummer och kontaktuppgifter,
+
+2. uppgifter om hundens eller kattens identitet och märkning, och
+
+3. namn på och kontaktuppgifter till den som utfört märkningen. *Förordning (2022:1562)*.
+
+### 5 §
+
+Vid ägarbyte ska den nya ägaren anmäla bytet till registret inom fyra veckor från förvärvet. Anmälan ska innehålla de uppgifter som avses i 4 § 1 och 2.
+
+När hunden eller katten har dött ska ägaren snarast anmäla detta till registret. *Förordning (2022:1562)*.
+
+## Överlåtelse av uppgiften att föra register över hund- och kattägare
+
+### 6 §
+
+Statens jordbruksverk får överlåta uppgiften att föra register över hund- eller kattägare till en annan myndighet eller till en organisation. *Förordning (2022:1562)*.
+
+## Registerinnehåll
+
+### 7 §
+
+Registret får innehålla de uppgifter som anges i 4 § 1 och 2 samt övriga uppgifter som har omedelbar betydelse för handläggningen av registreringsärendet.
+
+## Uppgiftsskyldighet
+
+### 7 a §
+
+En myndighet som för registret ska på begäran lämna uppgift ur registret till Tullverket, Jordbruksverket, länsstyrelserna, Polismyndigheten och de kommunala nämnder som fullgör uppgifter inom miljö- och hälsoskyddsområdet.
+
+*Förordning (2022:1562)*.
+
+## Avgifter
+
+### 8 §
+
+Jordbruksverket får meddela föreskrifter om
+
+1. skyldighet för hund- eller kattägaren att betala en avgift för registreringen och för utrustning för att läsa av märkningen, och
+
+2. beräkningen av avgiften. *Förordning (2022:1562)*.
+
+## Samordnande myndighet
+
+### 8 a §
+
+Länsstyrelsen i Norrbottens län samordnar övriga länsstyrelser i arbetet enligt lagen (2007:1150) om tillsyn över hundar och katter och ger stöd, råd och vägledning till dem. *Förordning (2018:246)*.
+
+## Informationsplikt
+
+### 9 §
+
+Polismyndigheten ska skyndsamt underrätta länsstyrelsen, om Polismyndigheten finner att det finns förutsättningar för länsstyrelsen att besluta om
+
+1. ett föreläggande enligt 8 eller 9 § lagen (2007:1150) om tillsyn över hundar och katter,
+
+2. ett omhändertagande av en hund enligt 11 eller 11 a § lagen om tillsyn över hundar och katter, i fall då Polismyndigheten inte har beslutat om ett omedelbart omhändertagande, eller
+
+3. ett hundförbud enligt 15 § lagen om tillsyn över hundar och katter.
+
+Polismyndigheten får avvakta med underrättelsen, om den skulle skada en pågående förundersökning eller myndighetens arbete med att förebygga, förhindra eller upptäcka brottslig verksamhet.
+
+Underrättelsen ska innehålla en redogörelse för omständigheterna i ärendet. *Förordning (2026:298)*.
+
+### 9 a §
+
+Vid handläggningen av ett ärende enligt 8, 9, 11, 11 a eller 15 § lagen (2007:1150) om tillsyn över hundar och katter, ska Polismyndigheten på begäran av länsstyrelsen lämna över uppgifter om ärendet som kan vara av betydelse för länsstyrelsens handläggning. Uppgifter ska dock överlämnas endast om överlämnandet inte skulle skada en pågående förundersökning eller myndighetens arbete med att förebygga, förhindra eller upptäcka brottslig verksamhet.
+
+*Förordning (2026:298)*.
+
+### 9 b §
+
+Om länsstyrelsen har fattat beslut enligt 8 eller 15 § lagen (2007:1150) om tillsyn över hundar och katter, ska myndigheten underrätta Polismyndigheten om beslutet.
+
+*Förordning (2018:246)*.
+
+## Tillsyn över hundar vid jakt
+
+### 10 §
+
+I 16, 17 och 19 §§ jaktförordningen (1987:905) finns föreskrifter om tillsyn över hundar vid jakt och jaktträning som avviker från 16 § lagen (2007:1150) om tillsyn över hundar och katter.
+
+## Verkställighetsföreskrifter
+
+### 11 §
+
+Länsstyrelsen i Norrbottens län får meddela de föreskrifter som behövs för verkställigheten av de uppgifter som länsstyrelserna ska utföra enligt lagen (2007:1150) om tillsyn över hundar och katter. *Förordning (2018:246)*.
+
+### 12 §
+
+Jordbruksverket får meddela föreskrifter om verkställigheten av 2-7 a §§. *Förordning (2022:1562)*.

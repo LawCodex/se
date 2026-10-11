@@ -1,0 +1,233 @@
+---
+title: "Förordning (2017:195) om stöd till forskning och utveckling samt innovation inom miljö, areella näringar och samhällsbyggande"
+identifier: "SFS 2017:195"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-03-09
+amended_through: "SFS 2025:1251"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-195.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:195"
+retrieved: 2026-10-11
+---
+# Förordning (2017:195) om stöd till forskning och utveckling samt innovation inom miljö, areella näringar och samhällsbyggande
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om stöd till forskning och utveckling samt innovation inom miljö, areella näringar och samhällsbyggande. *Förordning (2025:1251)*.
+
+#### 2 §
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regerings- formen. *Förordning (2025:1251)*.
+
+### Stöd till företag
+
+#### 3 §
+
+Ord och uttryck i förordningen har samma betydelse som i
+
+1. kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget, och
+
+2. kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse.
+
+*Förordning (2025:1251)*.
+
+#### 3 a §
+
+Har betecknats 6 a § genom *förordning (2025:1251)*.
+
+### Allmänna bestämmelser om stöd
+
+#### 4 §
+
+Stöd enligt denna förordning får lämnas i form av bidrag för att främja forskning och utveckling samt innovation inom miljö, areella näringar och samhällsbyggande. Stöd får lämnas om det finns medel.
+
+Stöd får lämnas till företag och andra än företag. Stöd får dock inte lämnas till privatpersoner. *Förordning (2025:1251)*.
+
+#### 4 a §
+
+Om sökanden bedriver näringsverksamhet i den mening som avses i skatteförfarandelagen (2011:1244), får stöd endast lämnas om
+
+1. sökanden är godkänd för F-skatt, eller
+
+2. i fråga om en utländsk sökande, sökanden har ett intyg eller en annan handling som visar att den genomgår motsvarande kontroll i fråga om skatter och avgifter i sitt hemland.
+
+*Förordning (2025:1251)*.
+
+#### 5 §
+
+Stöd får inte lämnas till en åtgärd som har påbörjats innan ansökan om stöd har getts in till Forskningsrådet för miljö, areella näringar och samhällsbyggande (Formas). *Förordning (2025:1251)*.
+
+#### 6 §
+
+Stöd till företag får endast lämnas
+
+1. i enlighet med de villkor och till sådana åtgärder som anges i kapitel I och i någon av artiklarna 18, 25, 25c, 25d och 26-30 i kommissionens förordning (EU) nr 651/2014, eller
+
+2. i enlighet med de villkor som anges i kommissionens förordning (EU) 2023/2831. *Förordning (2025:1251)*.
+
+#### 6 a §
+
+Om uppgifter om ett stöd enligt denna förordning ska offentliggöras enligt artikel 9 i kommissionens förordning (EU) nr 651/2014, får stödet bara beviljas om företaget samtycker till offentliggörandet. *Förordning (2025:1251)*.
+
+#### 6 b §
+
+Stöd av mindre betydelse som omfattas av kommissionens förordning (EU) 2023/2831 får inte ges till sådana företag i svårigheter som avses i artikel 2.18 i kommissionens förordning (EU) nr 651/2014. *Förordning (2025:1251)*.
+
+#### 6 c §
+
+Stöd får inte lämnas till ett företag som
+
+1. är i likvidation, försatt i konkurs eller genomgår företagsrekonstruktion,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av stöd som har lämnats av Formas.
+
+*Förordning (2025:1251)*.
+
+### Ansökan om stöd
+
+#### 7 §
+
+En ansökan om stöd ska göras skriftligen till Formas och innehålla
+
+1. uppgifter om sökanden och, om ansökan avser ett företag, uppgifter om företagets namn, antal anställda, årsomsättning och balansomslutning,
+
+2. uppgifter om åtgärdens plats och start- och slutdatum,
+
+3. en beskrivning av åtgärden och dess finansiering, genomförande och tidsplan,
+
+4. en förteckning över kostnaderna för att genomföra åtgärden och hur stor andel av kostnaderna som stöd söks för, och
+
+5. en upplysning om allt annat stöd som sökanden eller någon annan har sökt eller beviljats och som avser samma stödberättigande kostnader som ansökan avser.
+
+#### 8 §
+
+Om ansökan avser stöd som omfattas av kommissionens förordning (EU) 2023/2831, ska ansökan också innehålla en redogörelse för allt annat stöd av mindre betydelse som företaget har fått under den senaste treårsperioden.
+
+*Förordning (2024:378)*.
+
+### Prövning av frågor om stöd
+
+#### 9 §
+
+Formas prövar frågor om stöd.
+
+#### 10 §
+
+Om ansökan avser stöd som omfattas av kommissionens förordning (EU) 2023/2831, får stöd ges endast efter att den kontroll som avses i artikel 6.4 i den förordningen har genomförts. *Förordning (2024:378)*.
+
+#### 11 §
+
+I ett beslut att ge stöd ska Formas ange
+
+1. den tidpunkt då den stödberättigande åtgärden ska vara slutredovisad,
+
+2. att stödmottagaren, på begäran av myndigheten, ska lämna de uppgifter som krävs för uppföljning och utvärdering av stödet, och
+
+3. de ytterligare villkor som behövs för att säkerställa att kraven enligt denna förordning uppfylls.
+
+#### 12 §
+
+Om beslutet avser stöd som omfattas av kommissionens förordning (EU) 2023/2831 ska Formas lämna de upplysningar till företaget som framgår av artikel 7.4 i den förordningen.
+
+*Förordning (2024:378)*.
+
+### Utbetalning av stöd
+
+#### 13 §
+
+Ett stöd får betalas ut med delbetalningar.
+
+#### 14 §
+
+Ett stöd får inte betalas ut till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen om att ett stöd beviljat av en svensk stödgivare är olagligt och oförenligt med den inre marknaden.
+
+*Förordning (2025:1251)*.
+
+#### 15 §
+
+Formas ska besluta att ett stöd inte ska betalas ut, om
+
+1. sökanden genom att lämna oriktiga uppgifter eller på något annat sätt har orsakat att stödet har lämnats felaktigt eller med ett för högt belopp,
+
+2. stödet av något annat skäl än vad som anges i 1 har lämnats på felaktig grund eller med ett för högt belopp och mottagaren skäligen borde ha insett detta,
+
+3. villkoren för stödet inte har följts och avvikelsen inte är av mindre betydelse,
+
+4. förhållandena som låg till grund för beslutet om stöd har ändrats och den sökande inte har anmält det enligt 15 a §,
+
+5. den sökande efter förfrågan från Formas inte har lämnat sådana uppgifter och handlingar som avses i 16 och 16 a §, eller
+
+6. tidigare utbetalat stöd inte har utnyttjats eller använts för det som det har beviljats för eller det finns anledning att anta att det stöd som ska betalas ut inte kommer att utnyttjas eller användas för det som det har beviljats för.
+
+*Förordning (2025:1251)*.
+
+#### 15 a §
+
+Den som ansöker om eller har beviljats stöd ska snarast möjligt till Formas anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på stödet.
+
+*Förordning (2025:1251)*.
+
+#### 15 b §
+
+Ett beslut om att inte betala ut stöd får verkställas omedelbart. *Förordning (2025:1251)*.
+
+### Slutredovisning
+
+#### 16 §
+
+Slutredovisningen av åtgärden ska göras till Formas tillsammans med en ekonomisk redovisning och specificerade skriftliga underlag som styrker den stödberättigande kostnaden.
+
+#### 16 a §
+
+Formas ska kontrollera att villkoren för stöd som har lämnats enligt denna förordning har följts.
+
+Om Formas begär det, ska stödmottagaren utöver de underlag som anges i 16 § också lämna de uppgifter och handlingar som behövs för att styrka att övriga förutsättningar för stödet är uppfyllda. Detsamma gäller för det som behövs för att myndigheten ska kunna pröva frågan om återbetalnings- skyldighet. *Förordning (2025:1251)*.
+
+### Återbetalning och återkrav
+
+#### 17 §
+
+Mottagaren av ett utbetalat stöd är återbetalningsskyldig, om
+
+1. förhållandena är sådana att stöd inte ska betalas ut enligt 15 § 1-5, eller
+
+2. stödet helt eller delvis inte har utnyttjats eller använts för det ändamål som det har beviljats för.
+
+På det belopp som en stödmottagare är återbetalningsskyldig för ska ränta enligt räntelagen (1975:635) betalas. *Förordning (2025:1251)*.
+
+#### 18 §
+
+Om en stödmottagare är återbetalningsskyldig enligt 17 §, ska Formas besluta att helt eller delvis kräva tillbaka stödet tillsammans med ränta.
+
+Myndigheten får helt eller delvis avstå från att kräva tillbaka stödet eller räntan, om det finns särskilda skäl för det.
+
+Ett beslut om återkrav ska fattas inom tio år från det att stödet betalades ut. *Förordning (2025:1251)*.
+
+### Register
+
+#### 19 §
+
+Bestämmelser om offentliggörande, rapportering och registerföring finns i 12 a § lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och i förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler.
+
+### Överklagande
+
+#### 20 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 14, 15 eller 18 § får dock inte överklagas.
+
+Beslut enligt denna förordning får inte överklagas om stöd- mottagaren är en statlig myndighet. *Förordning (2025:1251)*.
+
+## Övergångsbestämmelser
+
+**2017:195**
+
+1. Denna förordning träder i kraft den 23 mars 2017. *Förordning (2024:378)*.
+
+2. Har upphävts genom *förordning (2024:378)*.
+
+3. Har upphävts genom *förordning (2024:378)*.

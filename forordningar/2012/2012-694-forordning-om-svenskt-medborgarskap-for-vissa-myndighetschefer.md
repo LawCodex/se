@@ -1,0 +1,247 @@
+---
+title: "Förordning (2012:694) om svenskt medborgarskap för vissa myndighetschefer"
+identifier: "SFS 2012:694"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2012-11-22
+amended_through: "SFS 2026:1413"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-694.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:694"
+retrieved: 2026-10-11
+---
+# Förordning (2012:694) om svenskt medborgarskap för vissa myndighetschefer
+
+> Rättelseblad 2014:1573 har iakttagits.
+
+#### 1 §
+
+Endast den som är svensk medborgare får ha anställning som chef för en myndighet som lyder omedelbart under regeringen om inte annat anges i 2 §.
+
+#### 2 §
+
+För de myndigheter som anges i bilagan till denna förordning krävs inte svenskt medborgarskap för anställning som anges i 1 §.
+
+## Bilaga /Upphör att gälla U:2027-01-01/
+
+### Förteckning över myndigheter
+
+### Svenska institutet för europapolitiska studier
+
+### Nordiska Afrikainstitutet
+
+### Myndigheten för ungdoms- och civilsamhällesfrågor
+
+### Skolforskningsinstitutet
+
+### Universitetskanslersämbetet
+
+### Universitets- och högskolerådet
+
+### Uppsala universitet
+
+### Lunds universitet
+
+### Göteborgs universitet
+
+### Stockholms universitet
+
+### Umeå universitet
+
+### Linköpings universitet
+
+### Karolinska institutet
+
+Kungl. Tekniska högskolan
+
+### Luleå tekniska universitet
+
+### Karlstads universitet
+
+### Linnéuniversitetet
+
+### Örebro universitet
+
+### Mittuniversitetet
+
+### Malmö universitet
+
+### Mälardalens universitet
+
+### Blekinge tekniska högskola
+
+### Gymnastik- och idrottshögskolan
+
+### Högskolan i Borås
+
+### Högskolan Dalarna
+
+### Högskolan i Gävle
+
+### Högskolan i Halmstad
+
+### Högskolan Kristianstad
+
+### Högskolan i Skövde
+
+### Högskolan Väst
+
+### Konstfack
+
+Kungl. Konsthögskolan
+
+Kungl. Musikhögskolan i Stockholm
+
+### Stockholms konstnärliga högskola
+
+### Södertörns högskola
+
+Kungl. biblioteket
+
+### Forskningsrådet för hälsa, arbetsliv och välfärd
+
+Forskningsrådet för miljö, areella näringar och samhällsbyggande
+
+### Statens väg- och transportforskningsinstitut
+
+### Trafikanalys
+
+### Verket för innovationssystem
+
+### Myndigheten för tillväxtpolitiska utvärderingar och analyser
+
+### Myndigheten för kulturanalys
+
+### Institutet för språk och folkminnen
+
+### Statens historiska museer
+
+### Nationalmuseum
+
+### Moderna museet
+
+### Naturhistoriska riksmuseet
+
+### Statens museer för världskultur
+
+### Statens musikverk
+
+### Forum för levande historia
+
+### Medlingsinstitutet
+
+### Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+
+Institutet för mänskliga rättigheter *Förordning (2026:201)*.
+
+## Bilaga /Träder i kraft I:2027-01-01/
+
+### Förteckning över myndigheter
+
+### Svenska institutet för europapolitiska studier
+
+### Nordiska Afrikainstitutet
+
+### Myndigheten för ungdoms- och civilsamhällesfrågor
+
+### Skolforskningsinstitutet
+
+### Universitetskanslersämbetet
+
+### Universitets- och högskolerådet
+
+### Uppsala universitet
+
+### Lunds universitet
+
+### Göteborgs universitet
+
+### Stockholms universitet
+
+### Umeå universitet
+
+### Linköpings universitet
+
+### Karolinska institutet
+
+Kungl. Tekniska högskolan
+
+### Luleå tekniska universitet
+
+### Karlstads universitet
+
+### Linnéuniversitetet
+
+### Örebro universitet
+
+### Mittuniversitetet
+
+### Malmö universitet
+
+### Mälardalens universitet
+
+### Blekinge tekniska högskola
+
+### Gymnastik- och idrottshögskolan
+
+### Högskolan i Borås
+
+### Högskolan Dalarna
+
+### Högskolan i Gävle
+
+### Högskolan i Halmstad
+
+### Högskolan Kristianstad
+
+### Högskolan i Skövde
+
+### Högskolan Väst
+
+### Konstfack
+
+Kungl. Konsthögskolan
+
+Kungl. Musikhögskolan i Stockholm
+
+### Stockholms konstnärliga högskola
+
+### Södertörns högskola
+
+Kungl. biblioteket
+
+### Forskningsrådet för hälsa, arbetsliv och välfärd
+
+Forskningsrådet för miljö, areella näringar och samhällsbyggande
+
+### Statens väg- och transportforskningsinstitut
+
+### Myndigheten för tillväxt- och transportanalys
+
+### Verket för innovationssystem
+
+### Myndigheten för kulturanalys
+
+### Institutet för språk och folkminnen
+
+### Statens historiska museer
+
+### Nationalmuseum
+
+### Moderna museet
+
+### Naturhistoriska riksmuseet
+
+### Statens museer för världskultur
+
+### Statens musikverk
+
+### Forum för levande historia
+
+### Medlingsinstitutet
+
+### Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+
+Institutet för mänskliga rättigheter *Förordning (2026:1413)*.

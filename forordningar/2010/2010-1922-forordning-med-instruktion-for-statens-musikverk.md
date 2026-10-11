@@ -1,0 +1,151 @@
+---
+title: "Förordning (2010:1922) med instruktion för Statens musikverk"
+identifier: "SFS 2010:1922"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-12-16
+amended_through: "SFS 2026:1473"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1922.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1922"
+retrieved: 2026-10-11
+---
+# Förordning (2010:1922) med instruktion för Statens musikverk
+
+## Uppgifter
+
+### 1 §
+
+Statens musikverk har till uppgift att dokumentera, bevara, främja, bygga upp kunskap om och tillgängliggöra teaterns, dansens och musikens kulturarv. Myndigheten ska också främja utvecklingen av ett professionellt musikliv på elektronmusikens område.
+
+Vid myndigheten bedrivs arkiv-, biblioteks- och museiverksamhet. *Förordning (2021:1275)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. vårda, förteckna, vetenskapligt bearbeta och genom nyförvärv berika samlingar och dokumentation av teaterns, dansens och musikens kulturarv,
+
+2. hålla ett urval av de samlingar som anförtrotts myndigheten tillgängliga för allmänheten,
+
+3. verka för ökad kunskap grundad på forskning och samverkan med universitet, högskolor och andra samt förmedla denna kunskap inom sina olika verksamhetsområden,
+
+4. verka för internationellt och interkulturellt utbyte och samarbete inom sitt verksamhetsområde,
+
+5. genom utgivning av musikinspelningar som myndigheten förfogar över främja tillgången till konstnärligt intressant musik, och
+
+6. upplåta studior åt professionella tonsättare och ljudkonstnärer inom den elektroakustiska musiken och ljudkonsten för produktion, utvecklingsarbete och utbildningsverksamhet. *Förordning (2026:1473)*.
+
+### 2 a §
+
+Myndigheten ska integrera ett jämställdhets-, mångfalds- och barnperspektiv i sin verksamhet. *Förordning (2026:1473)*.
+
+### 3 §
+
+Utöver de uppgifter som framgår av 1-2 a §§ får myndigheten tillhandahålla varor och utföra uppdrag och andra tjänster inom sitt verksamhetsområde. *Förordning (2026:1473)*.
+
+## Rapportering
+
+### 3 a §
+
+Myndigheten ska rapportera uppgifter om sin besöksutveckling till Myndigheten för kulturanalys.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:182)*.
+
+### 3 b §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:182)*.
+
+### 4 §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1473)*.
+
+### 5 §
+
+Har upphävts genom *förordning (2026:1473)*.
+
+## Ledning
+
+### 6 §
+
+Myndigheten leds av en myndighetschef.
+
+### 7 §
+
+Vid myndigheten finns ett insynsråd som består av högst fem ledamöter.
+
+### 8 §
+
+Har upphävts genom *förordning (2021:1275)*.
+
+### 9 §
+
+Har upphävts genom *förordning (2021:1275)*.
+
+### 10 §
+
+Har upphävts genom *förordning (2021:1275)*.
+
+### 11 §
+
+Har upphävts genom *förordning (2021:1275)*.
+
+### 12 §
+
+Har upphävts genom *förordning (2021:1275)*.
+
+## Anställningar och uppdrag
+
+### 13 §
+
+Generaldirektören är myndighetschef.
+
+### 14 §
+
+Har upphävts genom *förordning (2021:1275)*.
+
+## Personalansvarsnämnd
+
+### 15 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 16 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 17 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 2 § 2, 5 och 6 och för lokaler.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 3 §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1473)*.
+
+### 18 §
+
+För barn och unga under 19 år ska myndigheten ha fri entré till alla utställningar. *Förordning (2026:1473)*.
+
+## Undantag från myndighetsförordningen
+
+### 19 §
+
+Myndigheten ska inte tillämpa 29 § myndighetsförordningen (2007:515).

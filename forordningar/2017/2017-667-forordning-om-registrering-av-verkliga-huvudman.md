@@ -1,0 +1,561 @@
+---
+title: "Förordning (2017:667) om registrering av verkliga huvudmän"
+identifier: "SFS 2017:667"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-06-22
+amended_through: "SFS 2026:320"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-667.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:667"
+retrieved: 2026-10-11
+---
+# Förordning (2017:667) om registrering av verkliga huvudmän
+
+## 1 kap. Inledande bestämmelse
+
+#### 1 §
+
+Denna förordning innehåller närmare bestämmelser för tillämpningen av lagen (2017:631) om registrering av verkliga huvudmän.
+
+#### 2 §
+
+Denna förordning är meddelad med stöd av
+
+- 3 kap. 12 § lagen (2017:631) om registrering av verkliga huvudmän i fråga om 2 kap. 1-3 och 5-9 §§ samt 4 kap. 1-4 §§,
+
+- 8 kap. 11 § regeringsformen i fråga om 3 kap. 33 §, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+*Förordning (2026:320)*.
+
+## 2 kap. Anmälan till Bolagsverket
+
+#### 1 §
+
+En anmälan om registrering enligt lagen (2017:631) om registrering av verkliga huvudmän ska överföras elektroniskt till Bolagsverket enligt föreskrifter som verket får meddela.
+
+Om det finns särskilda skäl får Bolagsverket efter ansökan besluta om undantag från kravet på elektronisk anmälan enligt föreskrifter som verket får meddela.
+
+#### 2 §
+
+En anmälan om registrering ska undertecknas av en styrelseledamot eller, i förekommande fall, av den verkställande direktören, om inte annat följer av andra stycket.
+
+Anmälan ska undertecknas av
+
+1. en bolagsman, om anmälan görs av ett handelsbolag,
+
+2. komplementären, om anmälan görs av ett kommanditbolag,
+
+3. en företagsledare eller samtliga medlemmar, om anmälan görs av en europeisk ekonomisk intressegruppering,
+
+4. förvaltarens ställföreträdare, om anmälan görs av en stiftelse med anknuten förvaltning,
+
+5. förvaltaren eller motsvarande funktion, om anmälan avser en trust eller liknande juridisk konstruktion, eller
+
+6. likvidatorn eller, när flera likvidatorer har utsetts, en av likvidatorerna, om anmälan görs av ett bolag i likvidation.
+
+Om förvaltaren eller motsvarande funktion i en trust eller liknande juridisk konstruktion är en juridisk person, ska anmälan undertecknas av en fysisk person som avses i första eller andra stycket.
+
+#### 3 §
+
+En anmälan som överförs elektroniskt till Bolagsverket ska vara undertecknad med en elektronisk underskrift.
+
+Bolagsverket får meddela föreskrifter om elektronisk underskrift.
+
+#### 4 §
+
+Den som har undertecknat en anmälan för registrering ska antas vara behörig att företräda den juridiska personen, trusten eller den liknande juridiska konstruktionen i fråga om registrering, om det inte finns anledning att anta att han eller hon saknar behörighet.
+
+Bolagsverket får begära in behörighetshandlingar för den som har undertecknat anmälan.
+
+#### 5 §
+
+En anmälan om registrering eller om ändrade förhållanden ska innehålla uppgift om
+
+1. företagsnamn eller namn och, i förekommande fall, organisationsnummer för den juridiska person eller den trust eller den liknande juridiska konstruktion som anmälan avser,
+
+2. fullständigt namn, medborgarskap, bosättningsland, personnummer eller samordningsnummer eller, om sådant saknas, födelsedatum för den eller de fysiska personer som är verklig huvudman, och
+
+3. art och omfattning av den verkliga huvudmannens intresse i den juridiska personen eller trusten eller den liknande juridiska konstruktionen.
+
+Vid indirekt kontroll enligt 1 kap. 4 § andra stycket lagen (2017:631) om registrering av verkliga huvudmän ska anmälan innehålla uppgift om samtliga mellanliggande juridiska personers, trusters eller liknande juridiska konstruktioners företagsnamn eller namn och, i förekommande fall, organisationsnummer.
+
+En anmälan ska också innehålla uppgift om den juridiska personens eller trustens eller den liknande juridiska konstruktionens postadress och, i förekommande fall, e-postadress.
+
+Bolagsverket får meddela föreskrifter om hur uppgifter enligt första stycket ska anmälas. *Förordning (2018:1850)*.
+
+#### 6 §
+
+Om en juridisk person som avses i 2 kap. 4 eller 5 § lagen (2017:631) om registrering av verkliga huvudmän med stöd av 2 kap. 6 § den lagen inte anmäler uppgifter enligt 5 § första stycket 2, ska anmälan i stället för sådana uppgifter innehålla uppgift om att det finns fysiska personer som är verkliga huvudmän.
+
+#### 7 §
+
+Om det saknas en verklig huvudman, eller om det inte går att fastställa vem som är verklig huvudman, ska det anges i anmälan.
+
+#### 8 §
+
+En anmälan som avses i 5 § ska innehålla en försäkran på heder och samvete om att uppgifterna i anmälan är riktiga och att den som har undertecknat anmälan är behörig att göra detta.
+
+#### 9 §
+
+Bestämmelserna i 5-8 §§ ska tillämpas också på en anmälan enligt 2 kap. 5 § lagen (2017:631) om registrering av verkliga huvudmän. En sådan anmälan ska dessutom innehålla uppgift om fullständigt namn, personnummer eller samordningsnummer eller, om sådant saknas, födelsedatum för styrelseledamot eller motsvarande befattningshavare och firmatecknare.
+
+## 3 kap. Registret över verkliga huvudmän
+
+#### 1 §
+
+Registret över verkliga huvudmän förs med hjälp av automatiserad behandling. *Förordning (2026:320)*.
+
+#### 2 §
+
+Registret ska innehålla de uppgifter som anges i 2 kap. 5 § första stycket 1-3 och andra stycket samt 6, 7 och 9 §§.
+
+#### 3 §
+
+Har upphävts genom *förordning (2026:320)*.
+
+#### 4 §
+
+Bolagsverket ska se till att det inte uppkommer något otillbörligt intrång i de registrerades personliga integritet eller några risker från säkerhetssynpunkt. För dessa syften får myndigheten i enskilda fall ställa upp villkor för behandlingen av personuppgifter.
+
+#### 5 §
+
+Myndigheter som medges direktåtkomst till registret ska snarast möjligt på begäran tillhandahålla behöriga myndigheter och finansunderrättelseenheter inom EES uppgifter ur registret. *Förordning (2026:320)*.
+
+#### 6 §
+
+Har upphävts genom *förordning (2018:345)*.
+
+#### 7 §
+
+Har upphävts genom *förordning (2018:345)*.
+
+8 § En personuppgift i registret ska rättas om uppgiften innehåller någon uppenbar felaktighet till följd av Bolagsverkets eller någon annans skrivfel, räknefel eller något annat liknande förbiseende. Detta gäller i stället för rätten till rättelse enligt artikel 16 i Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskyddsförordning. *Förordning (2018:345)*.
+
+#### 9 §
+
+Vid sökning i registret får personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning inte användas som sökbegrepp. *Förordning (2018:345)*.
+
+#### 10 §
+
+Om det kan antas att en uppgift i registret är felaktig, ska det framgå av registret.
+
+#### 11 §
+
+Om en juridisk person eller en fysisk person som är förvaltare av en trust eller liknande juridisk konstruktion inte längre är anmälningsskyldig enligt lagen (2017:631) om registrering av verkliga huvudmän, ska det framgå av registret.
+
+### Utlämnande av uppgifter till vissa mottagare
+
+#### 12 §
+
+I 13-15 §§ anges vilka myndigheter som omfattas av artikel 11.2 i Europaparlamentets och rådets direktiv (EU) 2024/1640 av den 31 maj 2024 om de mekanismer som medlemsstaterna ska inrätta för att förhindra att det finansiella systemet används för penningtvätt eller finansiering av terrorism, om ändring av direktiv (EU) 2019/1937 och om ändring och upphävande av direktiv (EU) 2015/849. *Förordning (2026:320)*.
+
+#### 13 §
+
+De myndigheter som omfattas av artikel 11.2 a i Europaparlamentets och rådets direktiv (EU) 2024/1640 är
+
+1. Ekobrottsmyndigheten,
+
+2. Fastighetsmäklarinspektionen,
+
+3. Finansinspektionen,
+
+4. Kustbevakningen,
+
+5. Kronofogdemyndigheten,
+
+6. Länsstyrelsen i Skåne län,
+
+7. Länsstyrelsen i Stockholms län,
+
+8. Länsstyrelsen i Västra Götalands län,
+
+9. Polismyndigheten,
+
+10. Revisorsinspektionen,
+
+11. Skatteverket,
+
+12. Spelinspektionen,
+
+13. Säkerhetspolisen,
+
+14. Tullverket, och
+
+15. Åklagarmyndigheten.
+
+*Förordning (2026:320)*.
+
+#### 14 §
+
+Den myndighet som omfattas av artikel 11.2 c i Europaparlamentets och rådets direktiv (EU) 2024/1640 är Skatteverket. *Förordning (2026:320)*.
+
+#### 15 §
+
+De myndigheter som omfattas av artikel 11.2 d i Europaparlamentets och rådets direktiv (EU) 2024/1640 är
+
+1. Ekobrottsmyndigheten,
+
+2. Energimarknadsinspektionen,
+
+3. Finansinspektionen,
+
+4. Försäkringskassan,
+
+5. Inspektionen för strategiska produkter,
+
+6. Kommerskollegium,
+
+7. Kronofogdemyndigheten,
+
+8. Migrationsverket,
+
+9. Polismyndigheten,
+
+10. Strålsäkerhetsmyndigheten,
+
+11. Transportstyrelsen,
+
+12. Tullverket, och
+
+13. Åklagarmyndigheten.
+
+*Förordning (2026:320)*.
+
+#### 16 §
+
+De som har ett berättigat intresse enligt artikel 12.2 första stycket f-i i Europaparlamentets och rådets direktiv (EU) 2024/1640 anges i 17-20 §§. *Förordning (2026:320)*.
+
+#### 17 §
+
+De myndigheter som omfattas av artikel 12.2 första stycket f i Europaparlamentets och rådets direktiv (EU) 2024/1640 är
+
+1. Bolagsverket, och
+
+2. Finansinspektionen.
+
+*Förordning (2026:320)*.
+
+#### 18 §
+
+De myndigheter som omfattas av artikel 12.2 första stycket g i Europaparlamentets och rådets direktiv (EU) 2024/1640 är
+
+1. Jordbruksverket,
+
+2. Länsstyrelsen i Jämtlands län,
+
+3. Länsstyrelsen i Norrbottens län,
+
+4. Länsstyrelsen i Västerbottens län,
+
+5. Migrationsverket,
+
+6. Polismyndigheten,
+
+7. Rådet för Europeiska socialfonden i Sverige,
+
+8. Statskontoret, och
+
+9. Tillväxtverket.
+
+*Förordning (2026:320)*.
+
+#### 19 §
+
+De myndigheter som omfattas av artikel 12.2 första stycket h i Europaparlamentets och rådets direktiv (EU) 2024/1640 är
+
+1. Boverket,
+
+2. Gymnastik- och idrottshögskolan,
+
+3. Göteborgs universitet,
+
+4. Högskolan Dalarna,
+
+5. Högskolan i Borås,
+
+6. Högskolan i Gävle,
+
+7. Högskolan i Halmstad,
+
+8. Högskolan i Skövde,
+
+9. Högskolan Kristianstad,
+
+10. Högskolan Väst,
+
+11. Karlstads universitet,
+
+12. Karolinska institutet,
+
+13. Konstfack,
+
+14. Kungliga Konsthögskolan,
+
+15. Kungliga Musikhögskolan i Stockholm,
+
+16. Kungliga Tekniska högskolan,
+
+17. Linköpings universitet,
+
+18. Linnéuniversitetet,
+
+19. Luleå tekniska universitet,
+
+20. Lunds universitet,
+
+21. Länsstyrelsen i Blekinge län,
+
+22. Länsstyrelsen i Dalarnas län,
+
+23. Länsstyrelsen i Gotlands län,
+
+24. Länsstyrelsen i Gävleborgs län,
+
+25. Länsstyrelsen i Hallands län,
+
+26. Länsstyrelsen i Jämtlands län,
+
+27. Länsstyrelsen i Jönköpings län,
+
+28. Länsstyrelsen i Kalmar län,
+
+29. Länsstyrelsen i Kronobergs län,
+
+30. Länsstyrelsen i Norrbottens län,
+
+31. Länsstyrelsen i Skåne län,
+
+32. Länsstyrelsen i Stockholms län,
+
+33. Länsstyrelsen i Södermanlands län,
+
+34. Länsstyrelsen i Uppsala län,
+
+35. Länsstyrelsen i Värmlands län,
+
+36. Länsstyrelsen i Västerbottens län,
+
+37. Länsstyrelsen i Västernorrlands län,
+
+38. Länsstyrelsen i Västmanlands län,
+
+39. Länsstyrelsen i Västra Götalands län,
+
+40. Länsstyrelsen i Örebro län,
+
+41. Länsstyrelsen i Östergötlands län,
+
+42. Malmö universitet,
+
+43. Mittuniversitetet,
+
+44. Myndigheten för yrkeshögskolan,
+
+45. Mälardalens universitet,
+
+46. Naturvårdsverket,
+
+47. Post- och telestyrelsen,
+
+48. Socialstyrelsen,
+
+49. Statens energimyndighet,
+
+50. Statens skolverk,
+
+51. Stockholms konstnärliga högskola,
+
+52. Stockholms universitet,
+
+53. Sveriges lantbruksuniversitet,
+
+54. Södertörns högskola,
+
+55. Trafikverket,
+
+56. Umeå universitet,
+
+57. Universitetskanslersämbetet,
+
+58. Uppsala universitet,
+
+59. Blekinge tekniska högskola,
+
+60. Försvarshögskolan, och
+
+61. Örebro universitet. *Förordning (2026:320)*.
+
+#### 20 §
+
+De som omfattas av artikel 12.2 första stycket i i Europaparlamentets och rådets direktiv (EU) 2024/1640 är upphandlande myndigheter enligt 1 kap. 22 § lagen (2016:1145) om offentlig upphandling. Dessutom omfattas upphandlande myndigheter och enheter enligt
+
+- 2 kap. 25 och 26 §§ lagen (2011:1029) om upphandling på försvars- och säkerhetsområdet,
+
+- 1 kap. 22 § lagen (2016:1146) om upphandling inom försörjningssektorerna, och
+
+- 1 kap. 20 och 21 §§ lagen (2016:1147) om upphandling av koncessioner.
+
+Upphandlande myndigheter och enheter som avses i första stycket har även berättigat intresse vid efterföljande uppföljning och kontroll under avtalstiden.
+
+*Förordning (2026:320)*.
+
+#### 21 §
+
+Upphandlande myndigheter enligt 2 kap. 7 § lagen (2008:962) om valfrihetssystem har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän när det gäller sökande och leverantörer som tilldelas kontrakt inom ramen för inrättande av valfrihetssystem samt vid efterföljande uppföljning och kontroll under avtalstiden.
+
+Motsvarande gäller för Arbetsförmedlingen vid valfrihetssystem för tjänster inom myndighetens arbetsmarknadspolitiska verksamhet enligt lagen (2010:536) om valfrihet hos Arbetsförmedlingen. *Förordning (2026:320)*.
+
+#### 22 §
+
+Arbetsförmedlingen har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid prövning av bidrag, insatser och stöd samt vid efterföljande uppföljning och kontroll.
+
+*Förordning (2026:320)*.
+
+#### 23 §
+
+Inspektionen för strategiska produkter har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän i fråga om ärenden enligt lagen (2023:560) om granskning av utländska direktinvesteringar. *Förordning (2026:320)*.
+
+#### 24 §
+
+Inspektionen för vård och omsorg har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid sådan tillsyn och tillståndsprövning som myndigheten ansvarar för.
+
+*Förordning (2026:320)*.
+
+#### 25 §
+
+Lantmäteriet har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid prövning av inskrivningsärenden. *Förordning (2026:320)*.
+
+#### 26 §
+
+Post- och telestyrelsen har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid ärenden enligt förordningen (2020:266) om statligt stöd för utbyggnad av bredbandsinfrastruktur. *Förordning (2026:320)*.
+
+#### 27 §
+
+Statens skolinspektion har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid sådan tillsyn och prövning av godkännande som enskild huvudman som myndigheten ansvarar för.
+
+*Förordning (2026:320)*.
+
+#### 28 §
+
+Transportstyrelsen har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid sådan tillsyn och tillståndsprövning som myndigheten ansvarar för. *Förordning (2026:320)*.
+
+#### 29 §
+
+Utbetalningsmyndigheten har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid myndighetens granskningar av utbetalningar. *Förordning (2026:320)*.
+
+#### 30 §
+
+Vid utbetalning av statligt stöd har följande myndigheter och föreningar berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän:
+
+1. Folkbildningsrådet,
+
+2. E-hälsomyndigheten,
+
+3. Kammarkollegiet,
+
+4. Myndigheten för ungdoms- och civilsamhällesfrågor,
+
+5. Socialstyrelsen,
+
+6. Specialpedagogiska skolmyndigheten,
+
+7. Statens kulturråd,
+
+8. Statens skolverk,
+
+9. Svenskt Friluftsliv, och
+
+10. Sveriges Riksidrottsförbund. *Förordning (2026:320)*.
+
+#### 31 §
+
+Arvsfondsdelegationen och Kammarkollegiet har berättigat intresse enligt 3 kap. 9 e § första stycket lagen (2017:631) om registrering av verkliga huvudmän vid utbetalningar från allmänna arvsfonden. *Förordning (2026:320)*.
+
+### Meddelandeskyldighet
+
+#### 32 §
+
+Bolagsverket ska meddela Europeiska kommissionen om myndigheten inte beslutar i frågan om en begäran om utlämnande av uppgifter elektroniskt med hänvisning till berättigat intresse enligt 3 kap. 9 e § lagen (2017:631) om registrering av verkliga huvudmän inom tolv arbetsdagar. En sådan underrättelse ska även lämnas vid varje tillfälle ytterligare tolv dagar har passerat utan att begäran besvarats. *Förordning (2026:320)*.
+
+### Bemyndigande
+
+#### 33 §
+
+Bolagsverket får meddela föreskrifter om
+
+1. innehållet i och övriga krav på en begäran om att uppgifter ur registret ska lämnas ut elektroniskt, och
+
+2. innehållet i och övriga krav på en underrättelse om ändrade förhållanden enligt 3 kap. 9 k § lagen (2017:631) om registrering av verkliga huvudmän. *Förordning (2026:320)*.
+
+## 4 kap. Avgifter
+
+#### 1 §
+
+För Bolagetsverkets handläggning av en anmälan om registrering enligt 2 kap. 1 § första stycket ska en avgift betalas med 250 kronor.
+
+#### 2 §
+
+För Bolagsverkets prövning av ansökan om undantag från kravet på att anmälan ska göras elektroniskt enligt 2 kap. 1 § andra stycket ska en avgift betalas med 400 kronor.
+
+För Bolagsverkets handläggning av en anmälan om registrering som inte överförs elektroniskt ska en avgift betalas med 400 kronor.
+
+#### 3 §
+
+Bolagsverket får meddela föreskrifter om avgift för att lämna ut uppgifter elektroniskt till dem som avses i 3 kap. 9 d och 9 e §§ lagen (2017:631) om registrering av verkliga huvudmän, dock inte gällande avgift för utlämnande till statliga myndigheter som inte är affärsverk om det avser grunddata. Avgiften får bestämmas upp till full kostnadstäckning.
+
+Avgift får inte tas ut för utlämnande enligt 3 kap. 9 c § lagen om registrering av verkliga huvudmän. *Förordning (2026:320)*.
+
+#### 4 §
+
+En avgift enligt 1-3 §§ ska betalas inom den tid som Bolagsverket bestämmer. Avgift enligt 1 och 2 §§ ska inte betalas tillbaka, om handläggningen av ett ärende har påbörjats.
+
+## 5 kap. Övriga bestämmelser
+
+### Underrättelser
+
+#### 1 §
+
+När en registrering har skett i registret, ska Bolagsverket underrätta den juridiska personen eller den fysiska person som är förvaltare av trusten eller den liknande juridiska konstruktionen om åtgärden.
+
+#### 2 §
+
+När någon registreras som verklig huvudman, styrelseledamot eller motsvarande befattningshavare eller firmatecknare, ska Bolagsverket underrätta den registrerade om åtgärden. När Bolagsverket tar bort en sådan registrering från registret, ska den som berörs av åtgärden underrättas.
+
+#### 3 §
+
+Underrättelse enligt 2 § ska omedelbart efter registreringen eller borttagandet av registreringen skickas till den som berörs av åtgärden på folkbokföringsadressen eller, om en sådan adressuppgift saknas, till den adressuppgift som har uppgetts i ärendet.
+
+Bolagsverket behöver inte skicka någon underrättelse, om det är uppenbart att en sådan inte fyller något syfte.
+
+### Statistik
+
+#### 3 a §
+
+Bolagsverket ska årligen offentliggöra statistik över tillämpningen av 21 kap. 3 § första stycket offentlighets- och sekretesslagen (2009:400) när det gäller uppgifterna i registret.
+
+Statistiken ska rapporteras till Europeiska kommissionen.
+
+*Förordning (2026:320)*.
+
+### Gallring
+
+#### 4 §
+
+En uppgift i registret som har blivit inaktuell på grund av en senare registrering eller på grund av att den juridiska personen eller trusten eller den liknande juridiska konstruktionen har upphört ska gallras efter fem år.
+
+### Överklagande
+
+#### 5 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 2 kap. 1 § andra stycket och 3 kap. 8 § får dock inte överklagas. *Förordning (2018:919)*.
+
+## Övergångsbestämmelser
+
+**2017:667**
+
+Denna förordning träder i kraft den 2 februari 2018 i fråga om 4 kap. 1 och 2 §§ och i övrigt den 1 augusti 2017.

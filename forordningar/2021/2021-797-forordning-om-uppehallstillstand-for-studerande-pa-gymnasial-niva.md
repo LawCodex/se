@@ -1,0 +1,45 @@
+---
+title: "Förordning (2021:797) om uppehållstillstånd för studerande på gymnasial nivå"
+identifier: "SFS 2021:797"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2021-07-08
+amended_through: "SFS 2025:505"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2021-797.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2021:797"
+retrieved: 2026-10-11
+---
+# Förordning (2021:797) om uppehållstillstånd för studerande på gymnasial nivå
+
+### 1 §
+
+Kravet på att kunna försörja sig i 5 § lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå är uppfyllt om sökanden har inkomster som innebär att han eller hon inte behöver försörjningsstöd enligt 4 kap. 1 § socialtjänstlagen (2001:453). Vid bedömningen av vilka behov sökanden har för att nå en skälig levnadsnivå ska hänsyn tas endast till sökandens behov och inte till eventuella familjemedlemmars.
+
+Migrationsverket får meddela närmare föreskrifter om försörjningsförmåga.
+
+### 2 §
+
+Arbetsförmedlingen ska till Migrationsverket lämna ut uppgifter om en utlännings namn, personnummer och förvärvsarbete med subvention, om Migrationsverket begär det och uppgifterna behövs för att avgöra ett ärende om uppehållstillstånd enligt 5 § lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå.
+
+### 3 §
+
+Skatteverket ska till Migrationsverket lämna ut uppgifter om sådana underrättelser om anställning som avses i 5 § första stycket lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå, om Migrationsverket begär det och uppgifterna behövs för att avgöra ett ärende om uppehållstillstånd enligt 5 § lagen om uppehållstillstånd för studerande på gymnasial nivå.
+
+### 4 §
+
+Migrationsverket får, efter att ha gett Statens skolverk och Folkbildningsrådet tillfälle att yttra sig, meddela närmare föreskrifter om vad som avses med att aktivt delta i en utbildning enligt lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå.
+
+## Övergångsbestämmelser
+
+**2021:797**
+
+1. Denna förordning träder i kraft den 20 juli 2021.
+
+2. Förordningen upphör att gälla den 20 januari 2025.
+
+3. Bestämmelserna i 1 § första stycket, 2 och 3 §§ i den upphävda förordningen gäller fortfarande för en ansökan som har registrerats hos Migrationsverket före den 20 januari 2025 om utlänningen har beviljats ett uppehållstillstånd som har tidsbegränsats enligt 16 a eller 16 b § lagen (2016:752) om tillfälliga begränsningar av möjligheten att få uppehållstillstånd i Sverige, eller om utlänningen har beviljats ett uppehållstillstånd enligt någon av 16 d-16 g §§ eller 16 i § den lagen, eller enligt 1, 2 eller 4 § lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå, och senast vid den tidpunkten fullföljt sin utbildning. Vid tillämpningen av 1 § första stycket i den upphävda förordningen ska det som sägs om försörjningsstöd enligt 4 kap. 1 § socialtjänstlagen (2001:453) i stället avse 12 kap. 1 § socialtjänstlagen (2025:400). *Förordning (2025:505)*.
+
+4. Bestämmelserna i 1 § första stycket i den upphävda förordningen gäller fortfarande för överklagande av beslut som har fattats enligt 5 § lagen (2017:353) om uppehållstillstånd för studerande på gymnasial nivå. Vid tillämpningen av 1 § första stycket i den upphävda förordningen ska det som sägs om försörjningsstöd enligt 4 kap. 1 § socialtjänstlagen (2001:453) i stället avse 12 kap. 1 § socialtjänstlagen (2025:400). *Förordning (2025:505)*.

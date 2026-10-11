@@ -1,0 +1,65 @@
+---
+title: "Förordning (2006:639) om utrymning och inkvartering m.m. under höjd beredskap"
+identifier: "SFS 2006:639"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-06-01
+amended_through: "SFS 2026:444"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-639.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:639"
+retrieved: 2026-10-11
+---
+# Förordning (2006:639) om utrymning och inkvartering m.m. under höjd beredskap
+
+### 1 §
+
+Denna förordning innehåller bestämmelser som ansluter till lagen (2006:546) om utrymning och inkvartering m.m. under höjd beredskap.
+
+## Planläggning
+
+### 2 §
+
+Myndigheten för civilt försvar får, efter att ha gett Försvarsmakten och Polismyndigheten tillfälle att yttra sig, meddela föreskrifter om hur utrymning och inkvartering ska planläggas.
+
+Myndigheten för civilt försvar får, efter att ha gett länsstyrelserna tillfälle att yttra sig, i samråd med Försvarsmakten besluta om vilka områden som ska planläggas för utrymning respektive inkvartering. *Förordning (2026:444)*.
+
+## Utrymning
+
+### 3 §
+
+Länsstyrelsen får besluta om utrymning enligt 2 kap. 1 § lagen (2006:546) om utrymning och inkvartering m.m. under höjd beredskap inom det egna länet. Länsstyrelsen får även meddela sådana beslut som avses i 2 kap. 2 § samma lag gällande det egna länet.
+
+## Utflyttningsförbud
+
+### 4 §
+
+Länsstyrelsen får meddela förbud att lämna ett visst område enligt 2 kap. 6 § lagen (2006:546) om utrymning och inkvartering m.m. under höjd beredskap.
+
+## Inflyttningsförbud
+
+### 5 §
+
+Länsstyrelsen får meddela förbud mot inflyttning enligt 2 kap. 7 § lagen (2006:546) om utrymning och inkvartering m.m.
+
+under höjd beredskap.
+
+## Skyldighet att hjälpa andra kommuner och regioner
+
+### 6 §
+
+Kommuner eller regioner som enligt 2 kap. 5 § lagen (2006:546) om utrymning och inkvartering m.m. under höjd beredskap har fått hjälp med personal ska svara för personalens avlöning och andra anställningsförmåner.
+
+*Förordning (2019:1054)*.
+
+## Ersättning
+
+### 7 §
+
+Den ersättning som kommunerna och regionerna får enligt 1 a kap. 7 § lagen (2006:546) om utrymning och inkvartering m.m. under höjd beredskap bestäms och betalas ut av Myndigheten för civilt försvar inom ramen för vad regeringen årligen beslutar.
+
+Myndigheten för civilt försvar får på förslag av länsstyrelsen besluta att en del av ersättningen ska reduceras eller falla bort för en kommun som inte har fullgjort sina uppgifter.
+
+*Förordning (2026:444)*.

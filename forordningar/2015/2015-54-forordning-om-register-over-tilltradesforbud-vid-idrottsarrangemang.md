@@ -1,0 +1,57 @@
+---
+title: "Förordning (2015:54) om register över tillträdesförbud vid idrottsarrangemang"
+identifier: "SFS 2015:54"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2015-02-19
+amended_through: "SFS 2020:1133"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2015-54.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:54"
+retrieved: 2026-10-11
+---
+# Förordning (2015:54) om register över tillträdesförbud vid idrottsarrangemang
+
+### 1 §
+
+I denna förordning finns kompletterande föreskrifter om sådan behandling av personuppgifter som omfattas av lagen (2015:51) om register över tillträdesförbud vid idrottsarrangemang. Termer och uttryck som används i denna förordning har samma innebörd och tillämpningsområde som i lagen.
+
+## Tillgången till personuppgifter
+
+### 2 §
+
+En idrottsorganisation som har fått tillgång till personuppgifter från tillträdesförbudsregistret ska bestämma villkor för tilldelning av behörighet för åtkomst till dessa personuppgifter. För tilldelning av behörighet för åtkomst till personuppgifter ska det särskilt beaktas att det, utöver behovet av uppgifterna, ställs krav på utbildning och erfarenhet. *Förordning (2018:1949)*.
+
+### 3 §
+
+Innan en idrottsorganisation begär tillgång till personuppgifter från tillträdesförbudsregistret ska organisationen samråda med Integritetsskyddsmyndigheten i fråga om vilka lämpliga tekniska och organisatoriska åtgärder som ska vidtas för att skydda de personuppgifter som behandlas. *Förordning (2020:1133)*.
+
+## Vilka uppgifter som ska lämnas
+
+### 4 §
+
+Bestämmelser om skyldighet att lämna sådana uppgifter som anges i 5 kap. 24 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område finns i 2 § förordningen (2005:323) om tillträdesförbud vid idrottsarrangemang. *Förordning (2018:1949)*.
+
+## Rätt att meddela föreskrifter
+
+### 5 §
+
+Polismyndigheten får meddela föreskrifter om verkställigheten av lagen (2015:51) om idrottsorganisationers behandling av uppgifter om tillträdesförbud och av denna förordning. *Förordning (2018:1949)*.
+
+### 6 §
+
+Innan Polismyndigheten meddelar föreskrifter med stöd av denna förordning i frågor som kan medföra särskilda risker för intrång i den personliga integriteten ska samråd ske med Integritetsskyddsmyndigheten. *Förordning (2020:1133)*.
+
+### 7 §
+
+Har betecknats 4 § genom *förordning (2018:1949)*.
+
+### 8 §
+
+Har betecknats 5 § genom *förordning (2018:1949)*.
+
+### 9 §
+
+Har betecknats 6 § genom *förordning (2018:1949)*.

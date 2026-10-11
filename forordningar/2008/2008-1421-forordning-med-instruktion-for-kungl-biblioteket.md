@@ -1,0 +1,85 @@
+---
+title: "Förordning (2008:1421) med instruktion för Kungl. biblioteket"
+identifier: "SFS 2008:1421"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-12-18
+amended_through: "SFS 2022:1311"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-1421.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:1421"
+retrieved: 2026-10-11
+---
+# Förordning (2008:1421) med instruktion för Kungl. biblioteket
+
+## Uppgifter
+
+### 1 §
+
+Kungl. biblioteket är Sveriges nationalbibliotek och en nationell forskningsinfrastruktur. Myndigheten ska samla in, beskriva, bevara och tillhandahålla fysiskt och digitalt material som behövs för att fullgöra denna uppgift. Myndigheten ska genom verksamheten bidra till den svenska forskningens kvalitet och det demokratiska samhällets utveckling. *Förordning (2022:1311)*.
+
+### 2 §
+
+Myndigheten ska
+
+1. tillhandahålla en heltäckande datakälla för utvärdering av svenska vetenskapliga publikationer,
+
+2. tillhandahålla en nationell digital plattform för öppet tillgängliga svenska vetenskapliga tidskrifter,
+
+3. samordna, följa upp och främja samverkan i arbetet för öppen tillgång till vetenskapliga publikationer och varje år publicera en rapport med en samlad kartläggning, analys och bedömning av det nationella arbetet med öppen tillgång till vetenskapliga publikationer, och
+
+4. varje år publicera en rapport med en redovisning av de totala utgifterna för vetenskaplig publicering för universitet och högskolor som har statlig huvudman eller tillstånd att utfärda examen enligt lagen (1993:792) om tillstånd att utfärda vissa examina. *Förordning (2022:1311)*.
+
+### 3 §
+
+Myndigheten ska ha en nationell överblick över och främja samverkan inom det allmänna biblioteksväsendet i enlighet med 18 § bibliotekslagen (2013:801).
+
+Myndigheten ska tillhandahålla informationssystem och verka för utveckling och samordning av digitala tjänster inom det allmänna biblioteksväsendet. *Förordning (2022:1311)*.
+
+## Ledning
+
+### 4 §
+
+Myndigheten leds av en myndighetschef. *Förordning (2018:15)*.
+
+### 5 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst tio ledamöter. *Förordning (2018:15)*.
+
+## Anställningar och uppdrag
+
+### 6 §
+
+Riksbibliotekarien är myndighetschef. *Förordning (2018:15)*.
+
+## Personalansvarsnämnd
+
+### 7 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+*Förordning (2018:15)*.
+
+## Tillämpligheten av vissa förordningar
+
+### 8 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101). *Förordning (2018:15)*.
+
+## Undantag från myndighetsförordningen
+
+### 9 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+27 § om myndighetens rätt att företräda staten vid domstol.
+
+*Förordning (2018:15)*.
+
+10 § /Ny beteckning genom *förordning (2018:15)*./
+
+11 § /Ny beteckning genom *förordning (2018:15)*./
+
+12 § /Ny beteckning genom *förordning (2018:15)*./

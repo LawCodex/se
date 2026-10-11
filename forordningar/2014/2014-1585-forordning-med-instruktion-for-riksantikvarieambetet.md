@@ -1,0 +1,183 @@
+---
+title: "Förordning (2014:1585) med instruktion för Riksantikvarieämbetet"
+identifier: "SFS 2014:1585"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-12-22
+amended_through: "SFS 2026:1476"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-1585.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:1585"
+retrieved: 2026-10-11
+---
+# Förordning (2014:1585) med instruktion för Riksantikvarieämbetet
+
+## Uppgifter
+
+### 1 §
+
+Riksantikvarieämbetet ansvarar för frågor om kulturarvet. Ansvaret omfattar i första hand frågor om kulturlandskap, kulturmiljöer, kulturföremål och museer.
+
+Riksantikvarieämbetet har till uppgift att med utgångspunkt i de nationella kulturpolitiska målen och de nationella målen för kulturmiljöarbetet vara pådrivande och stödjande inom sitt verksamhetsområde. *Förordning (2017:304)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. verka för ett hållbart samhälle med en mångfald av kulturmiljöer som bevaras, används och utvecklas,
+
+2. verka för att kulturvärdena i bebyggelsen och i landskapet tas till vara samt bevaka kulturmiljöintresset vid samhällsplanering och byggande,
+
+3. följa och stödja det regionala kulturmiljöarbetet,
+
+4. främja utveckling och samarbete på museiområdet,
+
+5. följa upp och utvärdera styrmedel och arbetssätt inom sitt verksamhetsområde och vid behov föreslå åtgärder för utveckling av detta,
+
+6. verka för ökad kunskap grundad på forskning och samverkan med andra, exempelvis universitet och högskolor, och samla in och förmedla kunskap inom sitt verksamhetsområde,
+
+7. främja kunskapsförsörjning och metodutveckling samt bedriva informations- och rådgivningsverksamhet inom sitt verksamhetsområde,
+
+8. erbjuda teknik och metodstöd till museer,
+
+9. förvalta nationella databaser för kulturhistorisk information,
+
+10. verka för internationellt och interkulturellt utbyte och samarbete inom sitt verksamhetsområde, och
+
+11. integrera ett jämställdhets-, mångfalds- och barnperspektiv i sin verksamhet. *Förordning (2026:1476)*.
+
+### 3 §
+
+Myndigheten får även tillhandahålla varor och åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde.
+
+### 3 a §
+
+Myndigheten är beredskapsmyndighet enligt förordningen (2022:524) om statliga myndigheters beredskap.
+
+*Förordning (2025:720)*.
+
+### 4 §
+
+Myndigheten ska verka för att det generationsmål för miljöarbetet och de miljökvalitetsmål som riksdagen har fastställt nås och ska vid behov föreslå åtgärder för miljöarbetets utveckling. *Förordning (2026:1476)*.
+
+### 5 §
+
+Myndigheten har ett samlat ansvar, sektorsansvar, för funktionshindersfrågor med anknytning till myndighetens verksamhetsområde.
+
+Myndigheten ska inom ramen för detta ansvar vara samlande, stödjande och pådrivande i förhållande till övriga parter.
+
+### 6 §
+
+Riksantikvarieämbetet ska för myndigheter och andra som förvaltar kulturarv tillhandahålla vissa museitjänster som förvaring och förebyggande föremålsvård.
+
+### 7 §
+
+Vid myndigheten ska det finnas ett centrum för utveckling av kulturarvsarbetet. *Förordning (2017:304)*.
+
+### 8 §
+
+Myndigheten ska samordna och stödja arbetet med digitalisering, digitalt bevarande och digital förmedling inom kulturarvsområdet. *Förordning (2017:304)*.
+
+### 9 §
+
+Myndigheten ska ha ett specialbibliotek för forskning och utveckling inom områdena kulturmiljö, arkeologi, medeltidens konsthistoria och numismatik.
+
+Myndigheten förvaltar Kungl. Vitterhets Historie och Antikvitets Akademiens arkiv från tiden före den 1 juli 1975 och dess bibliotek. *Förordning (2017:304)*.
+
+### 9 a §
+
+Myndigheten ska delta i det samverkansråd vid Statens kulturråd som ska samordna de nationella kulturpolitiska intressena inom ramen för kultursamverkansmodellen.
+
+*Förordning (2026:1476)*.
+
+## Rapportering
+
+### 10 §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2017:304)*.
+
+### 10 a §
+
+Myndigheten ska rapportera sitt miljöarbete till Naturvårdsverket. Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2026:1476)*.
+
+### 10 b §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter, och
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1476)*.
+
+## Samverkan
+
+### 11 §
+
+Myndighetens samverkan med myndigheter och andra aktörer ska omfatta det civila samhällets organisationer.
+
+*Förordning (2017:304)*.
+
+## Ledning
+
+### 12 §
+
+Myndigheten leds av en myndighetschef. *Förordning (2017:304)*.
+
+Överantikvarien är riksantikvariens ställföreträdare.
+
+### 13 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst nio ledamöter. *Förordning (2020:870)*.
+
+## Anställningar och uppdrag
+
+### 14 §
+
+Riksantikvarien är myndighetschef. *Förordning (2017:304)*.
+
+### 15 §
+
+Överantikvarien anställs genom beslut av regeringen.
+
+*Förordning (2017:304)*.
+
+## Personalansvarsnämnd
+
+### 16 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+*Förordning (2017:304)*.
+
+## Tillämplighet av vissa förordningar
+
+### 17 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101). *Förordning (2017:304)*.
+
+## Avgifter
+
+### 18 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 2 § 7 och 9.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 3 och 6 §§.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1476)*.
+
+### 19 §
+
+Har upphävts genom *förordning (2026:1476)*.
+
+Myndigheten får disponera avgiftsinkomsterna.
+
+*Förordning (2017:304)*.

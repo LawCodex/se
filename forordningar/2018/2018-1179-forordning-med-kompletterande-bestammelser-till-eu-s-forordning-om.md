@@ -1,0 +1,79 @@
+---
+title: "Förordning (2018:1179) med kompletterande bestämmelser till EU:s förordning om gasanordningar"
+identifier: "SFS 2018:1179"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-06-20
+amended_through: "SFS 2025:1153"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1179.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1179"
+retrieved: 2026-10-11
+---
+# Förordning (2018:1179) med kompletterande bestämmelser till EU:s förordning om gasanordningar
+
+## Tillämpningsområde
+
+### 1 §
+
+I denna förordning finns bestämmelser i anslutning till lagen (2018:1178) med kompletterande bestämmelser till EU:s förordning om gasanordningar. Förordningen innehåller också bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2016/426 av den 9 mars 2016 om anordningar för förbränning av gasformiga bränslen och om upphävande av direktiv 2009/142/EG (EU:s förordning om gasanordningar).
+
+## Marknadskontrollmyndigheter
+
+### 2 §
+
+Myndigheten för civilt försvar
+
+1. ska utöva marknadskontroll enligt lagen (2018:1178) med kompletterande bestämmelser till EU:s förordning om gasanordningar, och
+
+2. är marknadskontrollmyndighet och utövar marknadskontroll enligt Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011 över att produkter överensstämmer med kraven i EU:s förordning om gasanordningar.
+
+Första stycket gäller i den utsträckning något annat inte följer av 3 §. *Förordning (2025:1153)*.
+
+### 3 §
+
+Elsäkerhetsverket
+
+1. ska utöva marknadskontroll enligt lagen (2018:1178) med kompletterande bestämmelser till EU:s förordning om gasanordningar, och
+
+2. är marknadskontrollmyndighet och utövar marknadskontroll enligt förordning (EU) 2019/1020 över att produkter överensstämmer med kraven i EU:s förordning om gasanordningar.
+
+Ansvaret för marknadskontroll omfattar gasrelaterade risker som orsakas av faror av elektriskt eller elektromagnetiskt ursprung. *Förordning (2022:1200)*.
+
+### 4 §
+
+Bestämmelser om en marknadskontrollmyndighets befogenhet att besluta om åtgärder enligt förordning (EU) 2019/1020 finns i lagen (2018:1178) med kompletterande bestämmelser till EU:s förordning om gasanordningar. *Förordning (2022:1200)*.
+
+### 5 §
+
+Myndigheten för civilt försvar ska ha en samordnande funktion när det gäller marknadskontroll av anordningar och tillbehör. *Förordning (2025:1153)*.
+
+## Marknadskontroll
+
+### 6 §
+
+Bestämmelser om information och samarbete mellan myndigheter när det gäller marknadskontroll finns i förordningen (2014:1039) om marknadskontroll av varor och annan närliggande tillsyn. *Förordning (2021:701)*.
+
+### 7 §
+
+Marknadskontrollmyndigheterna ska på sina respektive områden fullgöra de uppgifter som ankommer på medlemsstaterna enligt artiklarna 37.6, 37.8, 38.1, 38.2, 39.1, 39.3, 39.4 och 40 i EU:s förordning om gasanordningar.
+
+Om en marknadskontrollmyndighet för Sveriges räkning invänt mot ett beslut som en marknadskontrollmyndighet i en annan medlemsstat har fattat om en anordning eller ett tillbehör ska den svenska marknadskontrollmyndigheten skyndsamt informera regeringen.
+
+## Uppgiftsskyldighet
+
+### 8 §
+
+Marknadskontrollmyndigheterna ska lämna de uppgifter till varandra som behövs för att de ska kunna utföra sin marknadskontroll enligt EU:s förordning om gasanordningar, lagen (2018:1178) med kompletterande bestämmelser till EU:s förordning om gasanordningar och denna förordning.
+
+Elsäkerhetsverket ska lämna de uppgifter till Myndigheten för civilt försvar som denna myndighet behöver för att utföra sin samordnande funktion. *Förordning (2025:1153)*.
+
+## Språk
+
+### 9 §
+
+Sådana bruksanvisningar och säkerhetsföreskrifter för anordningar som avses i artiklarna 7.7 och 9.4 i EU:s förordning om gasanordningar ska skrivas på svenska.
+
+En sådan EU-försäkran om överensstämmelse som avses i artikel 15 i EU:s förordning om gasanordningar ska skrivas på svenska eller engelska. Detsamma gäller för den information som enligt artiklarna 7.7, 9.4 och 10.2 i EU:s förordning om gasanordningar ska lämnas i den EU-försäkran om överensstämmelse som ska följa med ett tillbehör.

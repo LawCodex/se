@@ -1,0 +1,53 @@
+---
+title: "Förordning (2008:748) med instruktion för Svenska institutet för europapolitiska studier"
+identifier: "SFS 2008:748"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-09-04
+amended_through: "SFS 2019:643"
+department: "Statsrådsberedningen"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-748.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:748"
+retrieved: 2026-10-11
+---
+# Förordning (2008:748) med instruktion för Svenska institutet för europapolitiska studier
+
+## Uppgifter
+
+### 1 §
+
+Svenska institutet för europapolitiska studier ska
+
+1. ta fram forskningsbaserade analyser och annat underlag i frågor om utvecklingen av Europeiska unionen och Sveriges europapolitik,
+
+2. göra analyser och underlag tillgängliga för regeringen och övriga aktörer i den politiska beslutsprocessen i Sverige och självständigt och objektivt bidra till en allsidig belysning av aktuella europapolitiska frågor,
+
+3. delta i internationellt utbyte inom sitt verksamhetsområde, och
+
+4. tillhandahålla utbildningar i ämnen som rör Europeiska unionen som en del av kompetensförsörjningen i offentlig verksamhet. *Förordning (2013:1005)*.
+
+## Ledning
+
+### 2 §
+
+Myndigheten leds av en myndighetschef.
+
+## Organisation
+
+### 3 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst tio ledamöter. *Förordning (2019:643)*.
+
+## Anställningar och uppdrag
+
+### 4 §
+
+Direktören är myndighetschef.
+
+## Avgifter
+
+### 5 §
+
+Svenska institutet för europapolitiska studier får ta ut avgifter upp till full kostnadstäckning för den verksamhet som myndigheten bedriver enligt 1 § 4 och disponera intäkterna i verksamheten. *Förordning (2014:1100)*.

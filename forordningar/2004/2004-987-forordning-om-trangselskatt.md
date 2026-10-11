@@ -1,0 +1,81 @@
+---
+title: "Förordning (2004:987) om trängselskatt"
+identifier: "SFS 2004:987"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2004-11-11
+amended_through: "SFS 2019:391"
+department: "Finansdepartementet S2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2004-987.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2004:987"
+retrieved: 2026-10-11
+---
+# Förordning (2004:987) om trängselskatt
+
+### Tillämpningsområde och definitioner
+
+#### 1 §
+
+Denna förordning gäller vid tillämpning av lagen (2004:629) om trängselskatt.
+
+#### 2 §
+
+Uttryck som används i denna förordning har samma betydelse som i lagen (2004:629) om trängselskatt.
+
+### De beslutande myndigheternas uppgifter
+
+### Skatteverkets uppgifter
+
+#### 3 §
+
+Skatteverket ska, utöver vad som framgår av lagen (2004:629) om trängselskatt,
+
+1. samordna kontrollen av trängselskatt, och
+
+2. fastställa formulär som behövs för tillämpningen av lagen om trängselskatt.
+
+Skatteverket får meddela de föreskrifter som behövs för debitering och betalning av trängselskatt.
+
+Skatteverkets uppgifter enligt första stycket 2 och andra stycket ska utföras efter samråd med Transportstyrelsen.
+
+*Förordning (2008:1189)*.
+
+### Transportstyrelsens uppgifter
+
+#### 4 §
+
+Transportstyrelsen ska, utöver vad som framgår av lagen (2004:629) om trängselskatt och vägtrafikdataförordningen (2019:382), svara för
+
+1. att återbetalning sker i enlighet med beskattningsmyndighetens beslut enligt 18 § lagen om trängselskatt, och
+
+2. att en obetald fordran lämnas för indrivning enligt 23 § lagen om trängselskatt.
+
+Transportstyrelsens uppgifter enligt första stycket utförs för Skatteverkets räkning.
+
+Vid indrivning gäller 3-9 §§ indrivningsförordningen (1993:1229).
+
+Indrivning behöver inte begäras för en fordran som understiger 100 kronor om indrivningen inte krävs från allmän synpunkt.
+
+*Förordning (2019:391)*.
+
+### Omhändertagna registreringsskyltar
+
+#### 5 §
+
+Registreringsskyltar som har tagits om hand enligt 18 c § första stycket lagen (2004:629) om trängselskatt ska förvaras hos Polismyndigheten under en vecka efter omhändertagandet.
+
+Skyltarna får under denna tid återlämnas till bilens ägare, om det visas att användningsförbud inte längre råder för bilen enligt 18 a och 18 b §§ lagen om trängselskatt. Om skyltarna inte återlämnas, ska Polismyndigheten förstöra dem. *Förordning (2014:1512)*.
+
+#### 6 §
+
+Vid färd med en bil vars registreringsskyltar har tagits om hand enligt 18 c § lagen (2004:629) om trängselskatt ska det finnas ett bevis i bilen om en polismans eller en bilinspektörs medgivande att bilen förs till närmaste lämpliga avlastningsplats eller uppställningsplats.
+
+*Förordning (2014:1512)*.
+
+## Övergångsbestämmelser
+
+**2008:380**
+
+Denna förordning träder i kraft den 1 juli 2008. Äldre bestämmelser gäller fortfarande i fråga om förhållanden som hänför sig till tiden före ikraftträdandet.

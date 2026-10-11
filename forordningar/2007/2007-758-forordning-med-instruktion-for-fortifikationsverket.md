@@ -1,0 +1,109 @@
+---
+title: "Förordning (2007:758) med instruktion för Fortifikationsverket"
+identifier: "SFS 2007:758"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-01
+amended_through: "SFS 2025:1051"
+department: "Finansdepartementet OU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-758.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:758"
+retrieved: 2026-10-11
+---
+# Förordning (2007:758) med instruktion för Fortifikationsverket
+
+### Uppgifter
+
+#### 1 §
+
+Fortifikationsverket ansvarar för att förvalta en viss del av statens fasta egendom, såsom fastigheter avsedda för försvarsändamål.
+
+Fastigheterna ska förvaltas så att en god resurshushållning och en hög kostnadseffektivitet uppnås. Underhållet på fastigheterna ska inte dras ned för att frigöra medel för hyresgästen. *Förordning (2011:1528)*.
+
+#### 2 §
+
+Myndigheten ska på uppdrag av regeringen genomföra nybyggnation och ombyggnation av fast egendom samt för statens räkning förvärva fast egendom.
+
+#### 3 §
+
+Myndigheten ska bistå Försvarsmakten i lokalförsörjningsfrågor.
+
+#### 4 §
+
+Myndigheten ska ansvara för anskaffning av mark samt för etablering, förvaltning och avyttring av byggnader, anläggningar m.m. för försvarets behov i samband med internationella fredsbevarande och humanitära insatser.
+
+#### 5 §
+
+Myndigheten ska bedriva fortifikatoriskt utvecklingsarbete så att kompetens för det svenska samhällets behov inom skydds- och anläggningsteknik kan utvecklas och säkerställas.
+
+#### 6 §
+
+Myndigheten ska på uppdrag av Försvarsmakten lämna underlag för inriktningen av och genomföra utvecklingsprojekt avseende skydds- och anläggningsteknik.
+
+#### 7 §
+
+Myndigheten har inom sitt verksamhetsområde rätt att bedriva uppdragsverksamhet.
+
+### Samverkan
+
+#### 8 §
+
+Myndigheten ska utbyta erfarenheter och information med andra myndigheter i syfte att öka civila och militära synergieffekter inom Fortifikationsverkets verksamhetsområde.
+
+### Ledning
+
+#### 9 §
+
+Myndigheten leds av en styrelse. *Förordning (2014:529)*.
+
+#### 10 §
+
+Styrelsen ska bestå av högst sju ledamöter.
+
+*Förordning (2014:529)*.
+
+### Anställningar och uppdrag
+
+#### 11 §
+
+Generaldirektören är myndighetschef.
+
+#### 11 a §
+
+Vid myndigheten ska det finnas en överdirektör.
+
+*Förordning (2025:1051)*.
+
+#### 12 §
+
+I fråga om anställning vid Fortifikationsverket av en militär tjänsteman i Försvarsmakten tillämpas inte 6 § anställningsförordningen (1994:373).
+
+### Personalansvarsnämnd
+
+#### 13 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+### Tillämpligheten av vissa förordningar
+
+#### 14 §
+
+Myndigheten ska tillämpa internrevisionsförordningen (2006:1228) och personalföreträdarförordningen (1987:1101).
+
+*Förordning (2014:529)*.
+
+### Avgifter
+
+#### 15 §
+
+Fortifikationsverket ska ta ut avgifter för fastighetsförvaltningen och den verksamhet som avses i 7 §.
+
+Verket beslutar om avgifternas storlek utom i de fall som avses enligt 15 § avgiftsförordningen (1992:191). Verket får disponera avgiftsinkomsterna. *Förordning (2011:1528)*.
+
+## Övergångsbestämmelser
+
+**2014:529**
+
+Denna förordning träder i kraft den 1 januari 2015 i fråga om 14 § och i övrigt den 1 september 2014.

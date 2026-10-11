@@ -1,0 +1,31 @@
+---
+title: "Förordning (2010:1857) om ersättning för kostnader i vissa mål om handräckning"
+identifier: "SFS 2010:1857"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-12-09
+amended_through: "SFS 2026:1033"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1857.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1857"
+retrieved: 2026-10-11
+---
+# Förordning (2010:1857) om ersättning för kostnader i vissa mål om handräckning
+
+### 1 §
+
+*/Upphör att gälla U:2026-11-20/* Ersättning enligt 40 § femte stycket konsumentkreditlagen (2010:1846) och 9 § femte stycket lagen (1978:599) om avbetalningsköp mellan näringsidkare m.fl. lämnas med högst trehundratio kronor, om det inte finns särskilda skäl till annat.
+
+### 1 §
+
+*/Träder i kraft I:2026-11-20/* Ersättning enligt 7 kap. 3 § femte stycket konsumentkreditlagen (2026:1011) och 9 § femte stycket lagen (1978:599) om avbetalningsköp mellan näringsidkare m.fl. lämnas med högst trehundratio kronor, om det inte finns särskilda skäl till annat. *Förordning (2026:1033)*.
+
+## Övergångsbestämmelser
+
+**2010:1857**
+
+1. Denna förordning träder i kraft den 1 januari 2011, då förordningen (1992:1013) om ersättning för kostnader i mål om handräckning enligt konsumentkreditlagen (1992:830) m.m. ska upphöra att gälla.
+
+2. Den nya förordningen ska tillämpas även i fråga om ersättning enligt 27 § femte stycket konsumentkreditlagen (1992:830) när handräckning sker med tillämpning av den lagen.

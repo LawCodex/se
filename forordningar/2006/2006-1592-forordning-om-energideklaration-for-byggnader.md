@@ -1,0 +1,425 @@
+---
+title: "Förordning (2006:1592) om energideklaration för byggnader"
+identifier: "SFS 2006:1592"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-12-21
+amended_through: "SFS 2026:1264"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-1592.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:1592"
+retrieved: 2026-10-11
+---
+# Förordning (2006:1592) om energideklaration för byggnader
+
+> Rättelseblad 2016:178 har iakttagits.
+
+### Definitioner
+
+#### 1 §
+
+Termer och uttryck som används i denna förordning har samma betydelse som i lagen (2006:985) om energideklaration för byggnader.
+
+### Tillsynsmyndighet
+
+#### 1 a §
+
+Boverket är tillsynsmyndighet enligt lagen (2006:985) om energideklaration för byggnader. *Förordning (2012:400)*.
+
+### Undantag från skyldigheten att energideklarera byggnader
+
+#### 2 §
+
+Följande typer av byggnader är undantagna från skyldigheten att energideklareras och från de skyldigheter som anges i 13 § lagen (2006:985) om energideklaration för byggnader.
+
+1. Byggnader som huvudsakligen används för andakt eller religiös verksamhet.
+
+2. Industrianläggningar och verkstäder.
+
+3. Bostadshus som används eller är avsedda för användning
+
+a) mindre än fyra månader per år, eller
+
+b) under en begränsad del av året, om energianvändningen beräknas vara mindre än 25 procent av en helårsanvändning.
+
+4. Tillfälliga byggnader som är avsedda att användas högst två år.
+
+5. Ekonomibyggnader med ett lågt energibehov som är avsedda för jordbruk, skogsbruk och därmed jämförlig näring.
+
+6. Fristående byggnader med en total användbar golvarea som är mindre än 50 kvadratmeter.
+
+7. Byggnader som är avsedda för totalförsvaret och som på grund av byggnadens utformning eller den verksamhet som bedrivs där är av hemlig natur. *Förordning (2016:7)*.
+
+#### 3 §
+
+Har upphävts genom *förordning (2016:7)*.
+
+#### 4 §
+
+Har upphävts genom *förordning (2016:7)*.
+
+#### 5 §
+
+Boverket får meddela närmare föreskrifter om undantagen i 2 §. *Förordning (2016:7)*.
+
+### Besiktning och undantag från kravet på besiktning
+
+#### 5 a §
+
+Boverket får meddela föreskrifter om besiktning av byggnad enligt 8 § lagen (2006:985) om energideklaration för byggnader. *Förordning (2012:400)*.
+
+#### 6 §
+
+En energideklaration får upprättas utan besiktning, om
+
+1. byggnaden är ett enbostadshus och har liknande utformning, storlek och energiegenskaper som en annan byggnad som har besiktats och överensstämmelsen garanteras av den oberoende experten,
+
+2. energideklarationen avser en del av en byggnad som har samma utformning, storlek och energiegenskaper som en annan del av byggnaden och den delen har besiktats,
+
+3. byggnaden är ny eller har dokumenterat god energiprestanda, eller
+
+4. den som upprättar energideklarationen bedömer att kostnaden för besiktningen kommer att motsvara minst hälften av försäljningspriset för byggnaden.
+
+Boverket får meddela ytterligare föreskrifter om undantag från kravet på besiktning. *Förordning (2026:869)*.
+
+### Energideklaration
+
+#### 7 §
+
+En byggnads energiprestanda ska fastställas med utgångspunkt i byggnadens tekniska egenskaper och en normal användning av byggnaden. När en uppgift om en byggnads energiprestanda anges i en energideklaration ska byggnadens uppvärmningsformer, eventuella kylsystem och annan energianvändning redovisas.
+
+Boverket får meddela närmare föreskrifter om hur en byggnads energiprestanda ska fastställas och anges i en energideklaration. Innan sådana föreskrifter meddelas ska Boverket ge Statens energimyndighet tillfälle att yttra sig. *Förordning (2016:7)*.
+
+#### 7 a §
+
+*/Upphör att gälla U:2027-01-01/* Utöver vad som framgår av 9 § första stycket lagen (2006:985) om energideklaration för byggnader, ska en energideklaration innehålla uppgifter om
+
+1. byggnadens energiklass,
+
+2. byggnadens primärenergianvändning uttryckt i kWh/m2år och i kWh/år eller MWh/år,
+
+3. byggnadens energianvändning uttryckt i kWh/m2år och i kWh/år eller MWh/år,
+
+4. förnybar energi som alstras på byggnaden eller dess tomt i kWh/år eller MWh/år och i procent av energianvändningen,
+
+5. byggnadens driftsrelaterade växthusgasutsläpp i kg CO2/m2år och, om tillgängligt, byggnadens globala uppvärmningspotential under hela livscykeln,
+
+6. byggnadens energibehov för uppvärmning och kylning i kWh/år eller MWh/år,
+
+7. huruvida byggnaden har kapacitet att reagera på externa signaler och kunna anpassa energianvändningen, och
+
+8. huruvida värmedistributionssystemet i byggnaden kan fungera vid låga eller effektivare temperaturnivåer.
+
+De rekommendationer som enligt 9 § första stycket 4 lagen (2006:985) om energideklaration för byggnader lämnas i en energideklaration ska vara av betydelse för den aktuella byggnaden, tekniskt genomförbara och inkludera åtgärder på klimatskärm eller installationssystem med eller utan samband med ändring eller ombyggnad. I rekommendationerna ska det även anges hur byggnadens driftsrelaterade växthusgasutsläpp kan minskas och en uppskattning av energibesparingen om åtgärderna genomförs.
+
+Energideklarationen ska också innehålla uppgifter om var det finns ytterligare information om de rekommenderade åtgärderna och vad som krävs för att genomföra dem samt om beräkningen av åtgärdernas kostnadseffektivitet. Det ska också finnas uppgifter om en kontaktpunkt som kan ge tekniskt stöd och rådgivning om genomförandet av åtgärderna. *Förordning (2026:869)*.
+
+#### 7 a §
+
+*/Träder i kraft I:2027-01-01/* Utöver vad som framgår av 9 § första stycket lagen (2006:985) om
+
+energideklaration för byggnader, ska en energideklaration innehålla uppgifter om
+
+1. byggnadens energiklass,
+
+2. byggnadens primärenergianvändning uttryckt i kWh/m2år och i kWh/år eller MWh/år,
+
+3. byggnadens energianvändning uttryckt i kWh/m2år och i kWh/år eller
+
+MWh/år,
+
+4. förnybar energi som alstras på byggnaden eller dess tomt i kWh/år eller
+
+MWh/år och i procent av energianvändningen,
+
+5. byggnadens driftsrelaterade växthusgasutsläpp i kg CO2/m2år och, om tillgängligt, byggnadens globala uppvärmningspotential under hela livscykeln,
+
+6. byggnadens energibehov för uppvärmning och kylning i kWh/år eller MWh/år,
+
+7. huruvida byggnaden har kapacitet att reagera på externa signaler och kunna anpassa energianvändningen, och
+
+8. huruvida värmedistributionssystemet i byggnaden kan fungera vid låga eller effektivare temperaturnivåer.
+
+De rekommendationer som enligt 9 § första stycket 4 lagen (2006:985) om energideklaration för byggnader lämnas i en energideklaration ska vara av betydelse för den aktuella byggnaden, tekniskt genomförbara och inkludera åtgärder på klimatskärm eller installationssystem med eller utan samband med ändring eller en sådan större byggnadsändring som avses i 1 kap. 4 § plan- och bygglagen (2010:900). I rekommendationerna ska det även anges hur byggnadens driftsrelaterade växthusgasutsläpp kan minskas och en uppskattning av energibesparingen om åtgärderna genomförs.
+
+Energideklarationen ska också innehålla uppgifter om var det finns ytterligare information om de rekommenderade åtgärderna och vad som krävs för att genomföra dem samt om beräkningen av åtgärdernas kostnadseffektivitet. Det ska också finnas uppgifter om en kontaktpunkt som kan ge tekniskt stöd och rådgivning om genomförandet av åtgärderna.
+
+*Förordning (2026:1264)*.
+
+#### 7 b §
+
+Med en avgränsad åtgärd enligt 6 c § lagen (2006:985) om energideklaration för byggnader avses att en del av en byggnad uppgraderas genom en åtgärd eller att en etapp i en energirenoveringsplan genomförs.
+
+Boverket får meddela föreskrifter om förenklad uppdatering av en energideklaration. *Förordning (2026:869)*.
+
+#### 8 §
+
+Boverket får meddela föreskrifter om
+
+1. vad som avses med nominell effekt och värmegenerator enligt 3 § lagen (2006:985) om energideklaration för byggnader,
+
+2. när en energideklaration enligt 4 § samma lag senast ska vara upprättad,
+
+3. beräkning av total användbar golvarea enligt 5 § första stycket 1 samma lag,
+
+4. vilka referensvärden som ska användas enligt 9 § första stycket 5 samma lag och om energiklassning av byggnader,
+
+5. vad som avses med en betydande del av byggnadens klimatskärm, och
+
+6. vilka andra uppgifter än de som anges i 9 § samma lag och 7 a § denna förordning som en energideklaration ska innehålla.
+
+Innan Boverket meddelar föreskrifter om referensvärden med stöd av första stycket 4 ska verket ge Statens energimyndighet tillfälle att yttra sig. *Förordning (2026:869)*.
+
+### Energirenoveringsplan
+
+#### 8 a §
+
+En energirenoveringsplan ska innehålla
+
+1. uppgifter om byggnadens nuvarande energiprestanda,
+
+2. uppgifter om vilka minimikrav för byggnaders energiprestanda som gäller,
+
+3. en färdplan med etapper för en stegvis renovering av byggnaden,
+
+4. uppgifter om etappernas innehåll och i vilken ordning de bör genomföras inför en stegvis totalrenovering,
+
+5. uppgifter om möjligheten att ansluta fjärrvärme och fjärrkyla,
+
+6. uppgifter om beräknad andel förnybar energi efter renoveringen,
+
+7. allmän information om vilka alternativ som finns för att förbättra byggprodukternas cirkularitet och minska deras växthusgasutsläpp under hela livscykeln,
+
+8. allmän information om åtgärdernas potentiella fördelar för hälsa och komfort, inomhusmiljön och byggnadens klimatanpassningsförmåga, och
+
+9. uppgifter om var byggnadsägaren kan hitta mer information om finansiering, teknisk rådgivning och rådgivningstjänster.
+
+För varje etapp i en energirenoveringsplan ska det anges
+
+1. vilka renoveringsåtgärder som ingår i etappen och vilka alternativ som finns för den teknik, de metoder och de material som kan användas,
+
+2. de uppskattade energibesparingarna i primär och levererad energi uttryckta i kWh/år och i procentuell förbättring jämfört med energianvändningen före genomförandet av etappen,
+
+3. de beräknade kostnaderna för att genomföra etappen,
+
+4. hur stor minskning av driftsrelaterade växthusgasutsläpp som etappen uppskattas medföra,
+
+5. de beräknade besparingarna i form av minskade energikostnader som ett genomförande av etappen förväntas medföra, och
+
+6. vilken energiklass som byggnaden bedöms uppnå efter slutförandet av etappen.
+
+Boverket får meddela föreskrifter om vilka ytterligare uppgifter som ska lämnas i en energirenoveringsplan.
+
+*Förordning (2026:869)*.
+
+### Undantag från kraven på inspektion av uppvärmnings-, ventilations- och luftkonditioneringssystem
+
+#### 8 b §
+
+Kraven på inspektion enligt 10 § lagen (2006:985) om energideklaration för byggnader gäller inte
+
+1. om de system som anges i den paragrafen omfattas av ett avtal om energiprestanda som kan anses ha motsvarande effekt som en inspektion enligt samma paragraf,
+
+2. byggnader som har ett system för fastighetsautomation och fastighetsstyrning,
+
+3. bostadshus som är utrustade med
+
+a) en funktion för kontinuerlig elektronisk övervakning som mäter systemets effektivitet och lämnar information när effektiviteteten sjunker väsentligt och när systemet kräver service,
+
+b) effektiva regleringsfunktioner för att säkerställa optimal produktion, distribution, lagring och användning av energi, och
+
+c) kapacitet för att reagera på externa signaler och anpassa energianvändningen,
+
+4. byggnader som är avsedda för totalförsvaret eller som annars är av betydelse för Sveriges säkerhet.
+
+Boverket får meddela närmare föreskrifter om undantagen. *Förordning (2026:869)*.
+
+### Inspektion av uppvärmnings-, ventilations- och luftkonditioneringssystem
+
+#### 8 c §
+
+Ett inspektionsprotokoll ska innehålla
+
+1. en bedömning av värme- och kylgeneratorns eller generatorernas och huvudkomponenternas verkningsgrad och storlek i förhållande till byggnadens uppvärmnings- eller kylbehov,
+
+2. en bedömning av om systemet kan fungera med effektivare temperaturinställningar för vattenbaserade system med säkerställande av en säker drift,
+
+3. en bedömning av möjligheten att minska användningen av fossil energi,
+
+4. rekommendationer om kostnadseffektiva åtgärder för att förbättra systemets energiprestanda, och
+
+5. uppgifter om eventuella säkerhetsproblem som upptäckts under inspektionen. *Förordning (2026:869)*.
+
+#### 9 §
+
+Boverket får i fråga om sådana inspektioner som avses i 10 § lagen (2006:985) om energideklaration för byggnader meddela föreskrifter om inspektionens omfattning och om vilka uppgifter som ska lämnas i inspektionsprotokollet.
+
+*Förordning (2026:869)*.
+
+### Utredning om alternativa energiförsörjningssystem
+
+#### 9 a §
+
+En utredning av alternativa energiförsörjningssystem enligt 23 § lagen (2006:985) om energideklaration för byggnader ska omfatta högeffektiva energiförsörjningssystem, om sådana finns att tillgå.
+
+Boverket får meddela ytterligare föreskrifter om
+
+1. utredning av högeffektiva alternativa energiförsörjningssystem, och
+
+2. undantag från kravet på sådan utredning.
+
+*Förordning (2020:273)*.
+
+### Oberoende experter
+
+#### 10 §
+
+Den oberoende expert som ska upprätta en energideklaration eller ett inspektionsprotokoll ska ha särskild sakkunskap om energianvändning och inomhusmiljö i byggnader och ha certifierats för uppgiften för viss tid av ett certifieringsorgan som är ackrediterat enligt Europaparlamentets och rådets förordning (EG) nr 765/2008 av den 9 juli 2008 om krav för ackreditering och upphävande av förordning (EEG) nr 339/93 och 5 § lagen (2011:791) om ackreditering och teknisk kontroll.
+
+Energideklarationen eller inspektionsprotokollet ska upprättas på ett oberoende sätt, vilket innebär att den oberoende experten
+
+1. inte får vara närstående till den som har anlitat honom eller henne, och
+
+2. ska lämna sådana objektiva rekommendationer om kostnadseffektiva åtgärder för att förbättra byggnadens energiprestanda som är anpassade efter byggnadens behov och inte för att tillgodose egna eller närståendes kommersiella intressen.
+
+En oberoende expert som är anställd hos den som har en skyldighet att se till att det finns en energideklaration eller ett inspektionsprotokoll får anlitas för att upprätta deklarationen eller protokollet. Det ska i så fall framgå av deklarationen eller protokollet att det finns ett sådant anställningsförhållande. *Förordning (2022:1164)*.
+
+#### 10 a §
+
+Bestämmelser om tillfällig yrkesutövning och erkännande av yrkeskvalifikationer som har förvärvats eller erkänts i en annan stat än Sverige inom Europeiska ekonomiska samarbetsområdet eller i Schweiz finns i lagen (2016:145) om erkännande av yrkeskvalifikationer och i de föreskrifter som meddelas i anslutning till den lagen. *Förordning (2016:178)*.
+
+#### 11 §
+
+Boverket får meddela ytterligare föreskrifter om särskild sakkunskap och om oberoende. *Förordning (2013:774)*.
+
+#### 11 a §
+
+Boverket ska föra ett register över dem som har certifierats enligt 10 § för att upprätta energideklarationer. Boverket ska hålla detta register tillgängligt på sin webbplats. *Förordning (2026:869)*.
+
+### Tillgång till energideklarationerna
+
+#### 12 §
+
+Den energideklaration som ska visas enligt 13 § första stycket 1 och 2 lagen (2006:985) om energideklaration för byggnader får sammanfattas och visas utan sådana rekommendationer som avses i 9 § första stycket 4 samma lag. Sammanfattningen ska åtminstone innehålla de uppgifter som anges i 7 a § första stycket 1-5 denna förordning.
+
+Boverket får meddela föreskrifter om
+
+1. hur en sådan energideklaration får sammanfattas, och
+
+2. placering av en energideklaration eller en sammanfattning av en energideklaration som har upprättats för en sådan byggnad som avses i 5 § första stycket 3 lagen om energideklaration för byggnader.
+
+Om kraven på sammanfattningens utformning har ändrats genom nya föreskrifter som har meddelats med stöd av andra stycket 1, får byggnadens ägare låta ta fram en ny sammanfattning av en befintlig energideklaration. Sammanfattningen ska tas fram med utgångspunkt från uppgifterna i den befintliga energideklarationen. Dessa uppgifter får kompletteras om det är nödvändigt för att uppfylla kraven på vad sammanfattningen ska innehålla. *Förordning (2026:869)*.
+
+#### 12 a §
+
+Den uppgift om en byggnads energiprestanda som avses i 13 § tredje stycket lagen (2006:985) om energideklaration för byggnader ska, i förekommande fall, anges vid annonsering i kommersiella medier såsom dagstidningar eller på internet med beaktande av det använda kommunikationsmediets begränsningar i utrymme.
+
+Boverket får meddela föreskrifter om hur en sådan uppgift ska anges vid annonsering enligt första stycket.
+
+*Förordning (2012:400)*.
+
+### Överlämnande av energideklarationer och inspektionsprotokoll till Boverket
+
+#### 13 §
+
+Boverket får meddela föreskrifter om
+
+1. elektronisk överföring av energideklarationer och inspektionsprotokoll, och
+
+2. behörighet att överföra energideklarationer och inspektionsprotokoll. *Förordning (2020:273)*.
+
+### Energideklarationsregister
+
+#### 14 §
+
+Uppgifter som har hämtats från energideklarationer och besiktningsprotokoll får registreras i energideklarationsregistret. En sammanfattning som Boverket har gjort av en energideklaration enligt 12 § tredje stycket får registreras i energideklarationsregistret.
+
+*Förordning (2013:774)*.
+
+#### 15 §
+
+Vid urval eller bearbetningar av personuppgifter som Boverket gör för någon annans räkning för direkt marknadsföring får uppgifter i energideklarationsregistret om personnummer, fastighetsbeteckning, byggnadsbeteckning, adress, en byggnads energiprestanda, referensvärden eller radonmätning inte behandlas.
+
+#### 16 §
+
+Sådana uppgifter som anges i 15 § får lämnas ut på medium för automatiserad behandling endast för de ändamål som anges i 18 § 1-4 lagen (2006:985) om energideklaration för byggnader.
+
+#### 17 §
+
+Boverket får i det enskilda fallet medge direktåtkomst till energideklarationsregistret för
+
+1. den eller de kommunala nämnder som fullgör kommunens uppgifter inom plan- och byggväsendet, om det sker för det ändamål som anges i 18 § 4 lagen (2006:985) om energideklaration för byggnader,
+
+2. kommuners verksamhet enligt förordningen (2016:385) om bidrag till kommunal energi- och klimatrådgivning,
+
+3. Statens energimyndighet,
+
+4. oberoende experter för sökningar på byggnader som omfattas av deras uppdrag, och
+
+5. byggnadsägare, för sökningar på byggnader som de äger.
+
+*Förordning (2026:869)*.
+
+#### 18 §
+
+Boverket ska i fråga om en byggnad som har energideklarerats hålla följande uppgifter i energideklarationsregistret tillgängliga på sin webbplats:
+
+1. uppgift om byggnadens energiprestanda,
+
+2. uppgift om huruvida obligatorisk funktionskontroll av ventilationssystemet enligt 8 kap. 25 § plan- och bygglagen (2010:900) har utförts,
+
+3. uppgift om huruvida radonmätning har utförts,
+
+4. energideklarationens identitetsnummer och uppgift om var den finns att tillgå. *Förordning (2012:400)*.
+
+#### 18 a §
+
+Boverket ska på sin webbplats publicera information om andelen byggnader i byggnadsbeståndet som har giltig energideklaration. Denna information ska uppdateras minst två gånger per år. *Förordning (2026:869)*.
+
+#### 18 b §
+
+Boverket ska överföra informationen i energideklarationsregistret till EU:s observatorium för byggnadsbeståndet minst en gång per år.
+
+*Förordning (2026:869)*.
+
+### Tillsyn och kontroll
+
+#### 19 §
+
+Boverket ska ha ett oberoende kontrollsystem för energideklarationer, energirenoveringsplaner och inspektionsprotokoll. *Förordning (2026:869)*.
+
+#### 19 a §
+
+För det oberoende kontrollsystemet för energideklarationer gäller att en årlig kontroll ska göras för att säkerställa att minst 90 procent av de upprättade energideklarationerna är giltiga. Boverket ska bedöma vad som inom kontrollsystemet ska avses med en energideklarations giltighet på grundval av åtminstone
+
+1. en validitetskontroll av indata som använts för upprättandet av energideklarationer och de resultat som anges i energideklarationen,
+
+2. beräkningarnas giltighet,
+
+3. en maximal avvikelse för en byggnads energiprestanda, och
+
+4. minsta antal element som avviker från normal- eller standardvärden.
+
+Den statistiska konfidensgraden ska vara 95 procent och den utvärderade perioden får inte överstiga ett år. Boverket ska vidta förebyggande och reaktiva åtgärder för att säkerställa kvaliteten på den övergripande ramen för energideklarationer. Kvalitetsnivån och konfidensnivån hos det oberoende kontrollsystemet för energideklarationer ska mätas med hjälp av ett slumpmässigt urval och ska beakta alla element som ingår i bedömningen av vad som avses med en giltig energideklaration. I minst 10 procent av energideklarationerna i det slumpmässiga urvalet ska giltigheten hos indata verifieras genom besök på plats, vilka får genomföras virtuellt där så är lämpligt. Giltigheten hos indata ska i övriga fall verifieras med information från den oberoende experten. *Förordning (2026:869)*.
+
+#### 20 §
+
+Den person som enligt 10 § har certifierats för uppgiften att upprätta energideklarationer eller som med stöd av 11 § upprättar sådana deklarationer ska se till att det underlag som verifierar uppgifterna som angivits i energideklarationen sparas i tio år från det att energideklarationen upprättades.
+
+Den som avses i första stycket ska på Boverkets begäran lämna de upplysningar och de handlingar som verket behöver för tillsyn och kontroll. *Förordning (2013:774)*.
+
+## Övergångsbestämmelser
+
+**2012:400**
+
+1. Denna förordning träder i kraft den 8 juli 2012.
+
+2. Bestämmelsen i 9 a § tillämpas endast på ansökningar om bygglov eller på anmälningar enligt plan- och byggförordningen (2011:338) som har kommit in till byggnadsnämnden efter ikraftträdandet av denna förordning.
+
+**2013:774**
+
+1. Denna förordning träder i kraft den 1 januari 2014.
+
+2. Ackrediteringar enligt 10 § i dess äldre lydelse upphör att gälla den 1 januari 2014. Sådana ackrediteringar ger dock behörighet att upprätta energideklarationer till och med den 30 juni 2014.

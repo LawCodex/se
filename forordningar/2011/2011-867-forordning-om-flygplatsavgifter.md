@@ -1,0 +1,51 @@
+---
+title: "Förordning (2011:867) om flygplatsavgifter"
+identifier: "SFS 2011:867"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-06-22
+amended_through: "SFS 2021:666"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-867.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:867"
+retrieved: 2026-10-11
+---
+# Förordning (2011:867) om flygplatsavgifter
+
+### 1 §
+
+I denna förordning finns bestämmelser i anslutning till lagen (2011:866) om flygplatsavgifter. *Förordning (2017:308)*.
+
+### 2 §
+
+Transportstyrelsen ska årligen offentliggöra en rapport som beskriver den verksamhet Transportstyrelsen bedrivit med stöd av lagen (2011:866) om flygplatsavgifter. Rapporten får lämnas i samband med Transportstyrelsens verksamhetsberättelse.
+
+### 3 §
+
+Transportstyrelsen prövar efter ansökan frågan huruvida en sammanslutning av flygplatser ska utses som ett flygplatsnät enligt lagen (2011:866) om flygplatsavgifter.
+
+En sådan ansökan ska innehålla uppgift om vilka flygplatser som ingår i sammanslutningen och om vilka personer som ska ingå i flygplatsnätets ledningsenhet.
+
+### 4 §
+
+Transportstyrelsen får meddela föreskrifter om avgifter för tillsyn enligt lagen (2011:866) om flygplatsavgifter.
+
+*Förordning (2017:308)*.
+
+### 5 §
+
+Transportstyrelsen får meddela föreskrifter om verkställigheten av lagen (2011:866) om flygplatsavgifter och denna förordning. *Förordning (2021:666)*.
+
+### 6 §
+
+Flygplatsavgifter som avser start eller landning av luftfartyg ska differentieras i förhållande till luftfartygs klimatpåverkan. Differentieringen ska göras så att flygets klimatpåverkan minskar. *Förordning (2021:666)*.
+
+## Övergångsbestämmelser
+
+**2021:666**
+
+1. Denna förordning träder i kraft den 1 augusti 2021.
+
+2. Bestämmelserna om differentierade flygplatsavgifter i 6 § tillämpas första gången vid beslut om 2022 års avgifter.

@@ -1,0 +1,69 @@
+---
+title: "Förordning (2020:730) om tillfälligt anpassat sjöfartsstöd"
+identifier: "SFS 2020:730"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-07-16
+amended_through: "SFS 2021:567"
+department: "Infrastrukturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-730.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:730"
+retrieved: 2026-10-11
+---
+# Förordning (2020:730) om tillfälligt anpassat sjöfartsstöd
+
+### 1 §
+
+Tillfälligt anpassat sjöfartsstöd lämnas enligt denna förordning till arbetsgivare för skatteavdrag på inkomst och för kostnader för arbetsgivaravgifter och allmän löneavgift i fråga om sjömän som med anledning av spridningen av det virus som orsakar sjukdomen covid-19 permitterats eller sysselsatts med underhåll av fartyget eller liknande arbetsuppgifter.
+
+Stöd enligt första stycket lämnas inte för kostnader som kan ersättas eller redan har ersatts av staten med stöd av lagen (2013:948) om stöd vid korttidsarbete.
+
+### 1 a §
+
+Stöd enligt denna förordning får lämnas i enlighet med Europeiska kommissionens beslut av den 4 juni 2021 angående statligt stöd i ärende SA.62726 (2021/N).
+
+Det sammanlagda stöd som lämnas till en arbetsgivare får uppgå till högst 1,8 miljoner euro.
+
+Stöd får inte lämnas till en arbetsgivare som
+
+1. per den 31 december 2019 var i ekonomiska svårigheter i den mening som avses i artikel 2.18 i Europeiska kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget, eller
+
+2. är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarat ett stöd olagligt och oförenligt med den inre marknaden. *Förordning (2021:567)*.
+
+### 2 §
+
+Stöd enligt 1 § lämnas till fysiska och juridiska personer samt till partrederier som har förklarats berättigade till sjöfartsstöd enligt 2 eller 3 § förordningen (2001:770) om sjöfartsstöd.
+
+### 3 §
+
+I fråga om stödets storlek, ansökan och handläggning av ärenden om tillfälligt anpassat sjöfartsstöd gäller 5 och 8-14 §§ förordningen (2001:770) om sjöfartsstöd. I stället för vad som anges i 8 § andra stycket i den förordningen ska en ansökan dock senast ha kommit in inom sex månader efter den månad som stödet avser.
+
+## Övergångsbestämmelser
+
+**2020:730**
+
+1. Denna förordning träder i kraft den 20 juli 2020.
+
+2. Tillfälligt anpassat sjöfartsstöd lämnas dock för tid från och med den 13 mars 2020.
+
+3. Förordningen upphör att gälla vid utgången av 2020.
+
+4. Den upphävda förordningen gäller dock fortfarande för tillfälligt anpassat sjöfartsstöd som avser tid före utgången av 2020.
+
+**2020:1296**
+
+1. Denna förordning träder i kraft den 1 januari 2021.
+
+2. Förordningen upphör att gälla den 1 juli 2021.
+
+3. Den upphävda förordningen gäller dock fortfarande för tillfälligt anpassat sjöfartsstöd som avser tid före den 1 juli 2021.
+
+**2021:567**
+
+1. Denna förordning träder i kraft den 1 juli 2021.
+
+2. Förordningen upphör att gälla den 1 oktober 2021.
+
+3. Den upphävda förordningen gäller dock fortfarande för tillfälligt anpassat sjöfartsstöd som avser tid före den 1 oktober 2021.

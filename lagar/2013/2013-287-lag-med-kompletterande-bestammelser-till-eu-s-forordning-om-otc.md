@@ -1,0 +1,187 @@
+---
+title: "Lag (2013:287) med kompletterande bestämmelser till EU:s förordning om OTC-derivat, centrala motparter och transaktionsregister"
+identifier: "SFS 2013:287"
+type: act
+jurisdiction: se
+language: sv
+date: 2013-05-16
+amended_through: "SFS 2026:614"
+department: "Finansdepartementet FMA V"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-287.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:287"
+retrieved: 2026-10-11
+---
+# Lag (2013:287) med kompletterande bestämmelser till EU:s förordning om OTC-derivat, centrala motparter och transaktionsregister
+
+## 1 kap. Inledande bestämmelser
+
+#### 1 §
+
+Denna lag kompletterar Europaparlamentets och rådets förordning (EU) nr 648/2012 om OTC-derivat, centrala motparter och transaktionsregister.
+
+Termer och uttryck i denna lag har samma betydelse som i förordning (EU) nr 648/2012.
+
+### Behörig myndighet
+
+#### 2 §
+
+Finansinspektionen är behörig myndighet enligt förordning (EU) nr 648/2012.
+
+### Riksbanken
+
+#### 3 §
+
+Riksbanken får besluta om krav på en central motpart från tredjeland som avses i artikel 25.2b b i förordning (EU) nr 648/2012. *Lag (2022:1582)*.
+
+## 2 kap. Clearingskyldighet, rapporteringsskyldighet och riskbegränsning för OTC-derivat
+
+### Särskild avgift
+
+#### 1 §
+
+Finansinspektionen ska besluta att en särskild avgift ska tas ut av den som åsidosätter sina skyldigheter enligt Europaparlamentets och rådets förordning (EU) nr 648/2012 genom att
+
+1. inte överlämna OTC-derivatkontrakt för clearing hos central motpart (artikel 4),
+
+2. inte tillämpa rättvisa, skäliga, icke-diskriminerande och transparenta handelsvillkor vid tillhandahållandet av clearingtjänster (artikel 4.3a),
+
+3. inte vidta alla rimliga åtgärder för att identifiera, förebygga, hantera och övervaka intressekonflikter vid tillhandahållandet av clearingtjänster (artikel 4.3a),
+
+4. inte underrätta Europeiska värdepappers- och marknadsmyndigheten och Finansinspektionen om att positioner i OTC-derivatkontrakt inte har beräknats eller att positionerna överskrider relevanta tröskelvärden (artiklarna 4a.1 och 10.1),
+
+5. inte upprätta clearingarrangemang (artiklarna 4a.1 och 10.1),
+
+6. inte uppfylla de skyldigheter som följer av kravet om aktivt konto i enlighet med det som anges i artikel 7a,
+
+7. inte beräkna sina aktiviteter och riskexponeringar i enlighet med det som anges i artikel 7b,
+
+8. inte rapportera till Finansinspektionen i enlighet med det som anges i artiklarna 7b, 7d och 9.1,
+
+9. inte informera kunder och offentliggöra uppgifter i enlighet med det som anges i artikel 7c,
+
+10. inte se till att uppgifter om derivatkontrakt rapporteras eller tillhandahålls för rapportering till transaktionsregister (artikel 9.1 och 9.1a),
+
+11. inte införa lämpliga förfaranden och arrangemang för att säkerställa kvaliteten på de uppgifter som rapporteras (artikel 9.1),
+
+12. inte föra register över alla ingångna derivatkontrakt och varje ändring under minst fem år efter avslutande av kontraktet (artikel 9.2),
+
+13. inte se till att uppgifter om derivatkontrakt rapporteras eller tillhandahålls för rapportering till Europeiska värdepappers- och marknadsmyndigheten i de fall ett transaktionsregister inte är tillgängligt (artikel 9.3),
+
+14. inte införa lämpliga förfaranden och system för att mäta, övervaka och begränsa operativa risker och kreditrisker (artikel 11), eller
+
+15. inte ansöka om auktorisation hos Finansinspektionen innan användande eller antagande av en ändring av en modell för beräkning av initialsäkerhet (artikel 11.3).
+
+Den särskilda avgiften ska uppgå till lägst 5 000 kronor och högst 50 miljoner kronor.
+
+Avgiften tillfaller staten. *Lag (2026:614)*.
+
+#### 2 §
+
+En särskild avgift får bara tas ut om den som avgiften gäller, inom två år från det att överträdelsen ägde rum, har delgetts en upplysning om att frågan om särskild avgift har tagits upp av Finansinspektionen.
+
+#### 3 §
+
+Om överträdelsen är ringa eller ursäktlig eller det annars finns särskilda skäl, får en särskild avgift efterges helt eller delvis.
+
+#### 4 §
+
+En särskild avgift ska betalas till Finansinspektionen inom trettio dagar efter det att beslutet om att ta ut avgiften har vunnit laga kraft eller den längre tid som anges i beslutet.
+
+5 § Om den särskilda avgiften inte har betalats inom den tid som anges i 4 §, ska Finansinspektionen lämna den obetalda avgiften för indrivning.
+
+### Bestämmelser om indrivning finns i lagen (1993:891) om indrivning av statliga fordringar m.m.
+
+#### 6 §
+
+Ett beslut om särskild avgift får verkställas enligt utsökningsbalken, om avgiften inte har betalats inom den tid som anges i 4 §.
+
+#### 7 §
+
+En särskild avgift faller bort i den utsträckning verkställighet inte har skett inom fem år från det att beslutet att ta ut avgiften vann laga kraft.
+
+## 3 kap. Transaktionsregister
+
+### Handräckning
+
+#### 1 §
+
+Finansinspektionen får begära handräckning av Kronofogdemyndigheten för att en kontroll på plats enligt artikel 63 i förordning (EU) nr 648/2012 ska kunna genomföras.
+
+Vid handräckning gäller bestämmelserna i utsökningsbalken om verkställighet av förpliktelser som inte avser betalningsskyldighet eller avhysning. Om Finansinspektionen begär det, ska Kronofogdemyndigheten inte i förväg underrätta den hos vilken kontrollen ska genomföras.
+
+### Verkställighet
+
+#### 2 §
+
+Kronofogdemyndigheten är ansvarig myndighet för äkthetskontroll enligt artikel 68 i förordning (EU) nr 648/2012.
+
+Beslut om avgifter eller viten enligt förordningen får verkställas enligt utsökningsbalken på samma sätt som en svensk dom som har vunnit laga kraft, om inte något annat följer av förordningen.
+
+## 4 kap. Gemensamma bestämmelser
+
+### Tillsyn
+
+#### 1 §
+
+För tillsynen över att förordning (EU) nr 648/2012 följs får Finansinspektionen förelägga
+
+1. ett företag eller någon annan att tillhandahålla uppgifter, handlingar, eller annat, och
+
+2. den som förväntas kunna lämna upplysningar i saken att inställa sig till förhör på tid och plats som inspektionen bestämmer.
+
+Första stycket gäller inte i den utsträckning uppgiftslämnandet skulle strida mot den i lag reglerade tystnadsplikten för advokater.
+
+#### 2 §
+
+Finansinspektionen får också förelägga den som har åsidosatt sina skyldigheter enligt förordning (EU) nr 648/2012 att inom viss tid vidta en viss åtgärd för att komma till rätta med situationen eller upphöra med ett visst agerande.
+
+#### 3 §
+
+Ett föreläggande enligt denna lag får förenas med vite.
+
+### Avgifter till Finansinspektionen
+
+#### 4 §
+
+Finansinspektionen får ta ut avgifter för prövning av ansökningar och anmälningar enligt förordning (EU) nr 648/2012.
+
+För Finansinspektionens övervakning enligt denna lag ska institut som står under inspektionens tillsyn betala en årlig avgift.
+
+Regeringen får meddela föreskrifter om avgifter enligt första och andra styckena.
+
+### Överklagande
+
+#### 5 §
+
+Finansinspektionens och Riksbankens beslut enligt denna lag och enligt förordning (EU) nr 648/2012 får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2022:1582)*.
+
+#### 6 §
+
+Finansinspektionen får bestämma att ett beslut ska gälla omedelbart, om annat inte följer av förordning (EU) nr 648/2012.
+
+## Övergångsbestämmelser
+
+**2013:287**
+
+1. Denna lag träder i kraft den 1 juni 2013.
+
+2. Särskild avgift får tas ut endast för överträdelser som har skett efter ikraftträdandet.
+
+**2020:909**
+
+1. Denna lag träder i kraft den 1 december 2020.
+
+2. Ingripande enligt 2 kap. 1 § första stycket 2 eller 3 i den nya lydelsen får inte ske för överträdelser som har ägt rum före den 18 juni 2021.
+
+3. Äldre bestämmelser gäller för överträdelser som har ägt rum före ikraftträdandet.
+
+**2026:614**
+
+1. Denna lag träder i kraft den 25 juni 2026.
+
+2. Äldre bestämmelser gäller för överträdelser som har ägt rum före ikraftträdandet.

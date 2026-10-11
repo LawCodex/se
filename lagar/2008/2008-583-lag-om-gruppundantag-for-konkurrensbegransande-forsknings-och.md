@@ -1,0 +1,51 @@
+---
+title: "Lag (2008:583) om gruppundantag för konkurrensbegränsande forsknings- och utvecklingsavtal"
+identifier: "SFS 2008:583"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-06-18
+amended_through: "SFS 2024:708"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-583.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:583"
+retrieved: 2026-10-11
+---
+# Lag (2008:583) om gruppundantag för konkurrensbegränsande forsknings- och utvecklingsavtal
+
+#### 1 §
+
+Denna lag tillämpas på forsknings- och utvecklingsavtal som innehåller sådana konkurrensbegränsningar som omfattas av 2 kap. 1 § konkurrenslagen (2008:579) (konkurrensbegränsande forsknings- och utvecklingsavtal).
+
+Det som i lagen sägs om avtal ska även tillämpas på beslut av en sammanslutning av företag och på samordnade förfaranden av företag. *Lag (2024:708)*.
+
+#### 2 §
+
+Termer och uttryck i denna lag har samma betydelse som i förordning (EU) 2023/1066 av den 1 juni 2023 om tillämpningen av artikel 101.3 i fördraget om Europeiska unionens funktionssätt på vissa grupper av forsknings- och utvecklingsavtal. *Lag (2024:708)*.
+
+#### 3 §
+
+De villkor och begränsningar som följer av artikel 3-9 i förordning (EU) 2023/1066 ska tillämpas på konkurrensbegränsande forsknings- och utvecklingsavtal. I de fall det i artiklarna anges att en omständighet gäller på den inre marknaden ska dock motsvarande i stället gälla i landet. När det i artiklarna hänvisas till artikel 2 gäller i stället undantaget i 4 §. *Lag (2024:708)*.
+
+#### 4 §
+
+Konkurrensbegränsande forsknings- och utvecklingsavtal som uppfyller förutsättningarna i artikel 3-9 i förordning (EU) 2023/1066 och som inte har följder som är oförenliga med 2 kap. 2 § konkurrenslagen är undantagna från förbudet mot konkurrensbegränsande samarbete mellan företag i 2 kap. 1 § konkurrenslagen.
+
+### Undantaget i första stycket gäller även för forsknings- och utvecklingsavtal som innehåller bestämmelser om överlåtelse eller licensiering av immateriella rättigheter till en eller flera av parterna, eller till en enhet som
+
+parterna upprättat för att utföra den gemensamma eller beställda forskningen och utvecklingen eller det gemensamma utnyttjandet av resultaten, under förutsättning att dessa bestämmelser är direkt knutna till och nödvändiga för genomförandet av avtalet men inte utgör det primära syftet med avtalet. *Lag (2024:708)*.
+
+## Övergångsbestämmelser
+
+**2011:874**
+
+1. Denna lag träder i kraft den 1 augusti 2011.
+
+2. Äldre föreskrifter gäller till utgången av december 2012 för avtal som var i kraft den 1 augusti 2011. Äldre föreskrifter gäller dock inte för avtal som vid ikraftträdandet uppfyller villkoren för gruppundantag enligt de nya föreskrifterna.
+
+**2024:708**
+
+1. Denna lag träder i kraft den 1 december 2024.
+
+2. Äldre föreskrifter gäller dock till utgången av juni 2025 för konkurrensbegränsande avtal om forskning och utveckling som ingåtts före ikraftträdandet och som vid ikraftträdandet inte uppfyller villkoren för gruppundantag enligt de nya föreskrifterna.

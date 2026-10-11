@@ -1,0 +1,85 @@
+---
+title: "Förordning (2004:1333) om administration av den svenska avgiften till Europeiska unionens budget"
+identifier: "SFS 2004:1333"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2004-12-16
+amended_through: "SFS 2025:1205"
+department: "Finansdepartementet BA EU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2004-1333.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2004:1333"
+retrieved: 2026-10-11
+---
+# Förordning (2004:1333) om administration av den svenska avgiften till Europeiska unionens budget
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om vilka myndigheter som ansvarar för administration m.m. av den svenska avgiften till EU:s allmänna budget.
+
+Bestämmelser om beräkning, redovisning, betalning m.m. av avgiften till EU finns i rådets förordning (EG, Euratom) nr 1150/2000 av den 22 maj 2000 om genomförande av rådets beslut 2007/436/EG, Euratom om systemet för gemenskapernas egna medel, rådets förordning (EEG, Euratom) nr 1553/89 av den 29 maj 1989 om den slutliga enhetliga ordningen för uppbörd av egna medel som härrör från mervärdeskatt samt rådets förordning (EG, Euratom) nr 1287/2003 av den 15 juli 2003 om harmonisering av bruttonationalinkomsten till marknadspriser.
+
+*Förordning (2010:1163)*.
+
+### 2 §
+
+Riksgäldskontoret samordnar betalningarna till Europeiska kommissionen och administrerar ett konto i kommissionens namn för kreditering av avgiften. *Förordning (2010:1163)*.
+
+### 3 §
+
+En myndighet som enligt 4-7 §§ administrerar en viss del av den svenska avgiften till EU ska för den delen, om inte annat anges i 6 eller 7 §, vidta de åtgärder som avser den delen och som behövs för att fullgöra de skyldigheter som följer av de förordningar som anges i 1 § andra stycket.
+
+*Förordning (2010:1163)*.
+
+## Traditionella egna medel
+
+## Tullavgifter
+
+### 4 §
+
+Tullverket administrerar den del av den svenska avgiften till EU som härrör från tullmedel. Kommerskollegium, Statens jordbruksverk och Statistiska centralbyrån ska bistå Tullverket med de uppgifter verket behöver. *Förordning (2010:1163)*.
+
+## Sockeravgifter
+
+### 5 §
+
+Statens jordbruksverk administrerar den del av den svenska avgiften till EU som härrör från produktionsavgifter för socker. *Förordning (2010:1163)*.
+
+## Mervärdesskattebaserad avgift
+
+### 6 §
+
+Skatteverket administrerar den mervärdesskattebaserade delen av den svenska avgiften till EU. Statistiska centralbyrån administrerar dock, med bistånd från Skatteverket, beräkningen av den viktade genomsnittssatsen för mervärdesskatten. Vidare sammanställer Statskontoret statens inkomster av mervärdesskatt. *Förordning (2025:1205)*.
+
+## Avgift baserad på bruttonationalinkomsten
+
+### 7 §
+
+Kammarkollegiet administrerar de delar av den svenska avgiften till EU som baseras på bruttonationalinkomsten.
+
+Statistiska centralbyrån svarar dock för den årliga redovisningen av föregående års bruttonationalinkomst.
+
+*Förordning (2010:1163)*.
+
+### 8 §
+
+Har upphävts genom *förordning (2010:1163)*.
+
+## Övriga bestämmelser
+
+### 9 §
+
+Regeringskansliet svarar för att informera Europeiska kommissionen om sådana förhållanden som avses i artikel 4 förordning (EG, Euratom) nr 1150/2000. *Förordning (2010:1163)*.
+
+### 10 §
+
+I anslagsförordningen (2011:223) finns bestämmelser om redovisning mot anslag och inkomsttitlar.
+
+I förordningen (2000:606) om myndigheters bokföring finns bestämmelser om bokföringsskyldighet för myndigheter som lyder omedelbart under regeringen. *Förordning (2011:226)*.
+
+### 11 §
+
+Myndigheterna som enligt denna förordning administrerar den svenska avgiften till EU:s allmänna budget ska utan dröjsmål informera Regeringskansliet om ärenden som rör avgiften och som enligt 20 § förordningen (1996:1515) med instruktion för Regeringskansliet faller inom Regeringskansliets ansvarsområde. *Förordning (2010:1163)*.

@@ -1,0 +1,39 @@
+---
+title: "Lag (2014:341) om beslut i särskilda regeringsärenden"
+identifier: "SFS 2014:341"
+type: act
+jurisdiction: se
+language: sv
+date: 2014-05-15
+amended_through: "SFS 2026:423"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-341.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:341"
+retrieved: 2026-10-11
+---
+# Lag (2014:341) om beslut i särskilda regeringsärenden
+
+## 1 §
+
+Denna lag innehåller bestämmelser om när beslut i ett regeringsärende får fattas av ett statsråd i enlighet med 7 kap. 3 § andra stycket regeringsformen.
+
+## 2 §
+
+I 3 § anges i vilka frågor beslut får fattas enligt denna lag. Ett sådant beslut får fattas endast om ärendet är brådskande och beslutsformen inte är olämplig med hänsyn till det som ärendet avser eller av andra skäl.
+
+## 3 §
+
+Beslut enligt denna lag får fattas i frågor om
+
+1. Försvarsmaktens krigsorganisering och mobilisering,
+
+2. totalförsvarspliktigas inkallelse och tjänstgöring i Försvarsmakten,
+
+3. utbildning i utlandet enligt lagen (1994:588) om utbildning inom ramen för internationellt militärt samarbete,
+
+4. svenska örlogsbesök i utlandet och flygningar till utlandet med svenska militära luftfartyg,
+
+5. tillträde till svenskt territorium för utländska statsfartyg, statsluftfartyg och militära fordon samt uppehåll på svenskt territorium för utländska statsfartyg, och
+
+6. övningar av en främmande stats militära styrka på svenskt territorium samt undantag från vapenlagen (2026:408) enligt 20 kap. 3 § vapenlagen. *Lag (2026:423)*.

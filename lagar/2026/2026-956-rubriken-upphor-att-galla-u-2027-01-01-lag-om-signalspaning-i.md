@@ -1,0 +1,161 @@
+---
+title: "/Rubriken upphör att gälla U:2027-01-01/ Lag (2026:956) om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara /Rubriken träder i kraft I:2027-01-01/ Lag (2026:956) om signalspaning i utrikesunderrättelseverksamhet i krig eller krigsfara"
+identifier: "SFS 2026:956"
+type: act
+jurisdiction: se
+language: sv
+date: 2026-06-04
+amended_through: "SFS 2026:1597"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2026-956.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2026:956"
+retrieved: 2026-10-11
+---
+# /Rubriken upphör att gälla U:2027-01-01/ Lag (2026:956) om signalspaning i försvarsunderrättelseverksamhet i krig eller krigsfara /Rubriken träder i kraft I:2027-01-01/ Lag (2026:956) om signalspaning i utrikesunderrättelseverksamhet i krig eller krigsfara
+
+## Lagens tillämpning
+
+### 1 §
+
+Om Sverige är i krig ska 5-13 §§ tillämpas.
+
+### 2 §
+
+Om Sverige är i krigsfara eller om det råder sådana extraordinära förhållanden som är föranledda av krig eller av krigsfara som Sverige har befunnit sig i, får regeringen meddela föreskrifter om att 5-13 §§ helt eller delvis ska tillämpas från den tidpunkt som regeringen bestämmer.
+
+En sådan föreskrift ska underställas riksdagens prövning inom en månad från utfärdandet. Föreskriften upphör att gälla om den inte underställs riksdagen i rätt tid eller om riksdagen inte godkänner den inom två månader från det att den underställdes.
+
+### 3 §
+
+Under den tid som 5-13 §§ tillämpas gäller dessa bestämmelser, eller föreskrifter som meddelats med stöd av dem, i stället för avvikande bestämmelser i någon annan lag eller författning.
+
+Regeringen ska föreskriva att bestämmelserna i 5-13 §§ inte ska tillämpas, när det inte längre råder sådana förhållanden som avses i 1 § eller 2 § första stycket.
+
+## Signalspaningens omfattning
+
+### 4 §
+
+*/Upphör att gälla U:2027-01-01/* Med signalspaningsmyndighet och kontrollmyndighet i denna lag avses samma myndigheter som i lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+### 4 §
+
+*/Träder i kraft I:2027-01-01/* Med signalspaningsmyndighet och kontrollmyndighet i denna lag avses samma myndigheter som i lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet.
+
+*Lag (2026:1597)*.
+
+### 5 §
+
+*/Upphör att gälla U:2027-01-01/* Bestämmelsen i 2 a § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet ska inte tillämpas om inhämtningen är av betydelse för att hantera yttre hot mot Sveriges säkerhet.
+
+### 5 §
+
+*/Träder i kraft I:2027-01-01/* Bestämmelsen i 2 a § lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet ska inte tillämpas om inhämtningen är av betydelse för att hantera yttre hot mot Sveriges säkerhet. *Lag (2026:1597)*.
+
+## Inriktning
+
+### 6 §
+
+*/Upphör att gälla U:2027-01-01/* Regeringen får meddela föreskrifter om att andra myndigheter än de som anges i 4 § första stycket lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet får inrikta signalspaning i försvarsunderrättelseverksamhet.
+
+Regeringen får också besluta om detta i ett enskilt fall.
+
+### 6 §
+
+*/Träder i kraft I:2027-01-01/* Regeringen får meddela föreskrifter om att andra myndigheter än de som anges i 4 § första stycket lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet får inrikta signalspaning i utrikesunderrättelseverksamhet.
+
+Regeringen får också besluta om detta i ett enskilt fall.
+
+*Lag (2026:1597)*.
+
+## Tillstånd
+
+### 7 §
+
+*/Upphör att gälla U:2027-01-01/* Tillstånd till signalspaning enligt 1 § eller 1 a § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet får ges av den befattningshavare vid signalspaningsmyndigheten som regeringen föreskriver.
+
+### 7 §
+
+*/Träder i kraft I:2027-01-01/* Tillstånd till signalspaning enligt 1 § eller 1 a § lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet får ges av den befattningshavare vid signalspaningsmyndigheten som regeringen föreskriver. *Lag (2026:1597)*.
+
+## Rådighet över signalbärare
+
+### 8 §
+
+*/Upphör att gälla U:2027-01-01/* Signalspaningsmyndigheten ska ha rådigheten över sådana signalbärare som avses i 12 § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+Signalspaningsmyndigheten ska begränsa sin tillgång till signalbärare till det som följer av tillstånd enligt 7 §.
+
+### 8 §
+
+*/Träder i kraft I:2027-01-01/* Signalspaningsmyndigheten ska ha rådigheten över sådana signalbärare som avses i 12 § lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet.
+
+Signalspaningsmyndigheten ska begränsa sin tillgång till signalbärare till det som följer av tillstånd enligt 7 §.
+
+*Lag (2026:1597)*.
+
+## Överföring av personuppgifter till en mottagare utomlands
+
+### 9 §
+
+Regeringen får meddela föreskrifter om att personuppgifter som behandlas enligt lagen (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt får överföras till ett annat land eller en internationell organisation även om förutsättningarna i 2 kap. 20 § första stycket 3 den lagen inte är uppfyllda.
+
+Regeringen får också besluta om detta i ett enskilt fall.
+
+## Enskilds rätt till information
+
+### 10 §
+
+Bestämmelserna om skyldighet att lämna information till en enskild enligt 5 kap. 2 § lagen (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt ska inte tillämpas.
+
+## Kontroll och tillsyn
+
+### 11 §
+
+*/Upphör att gälla U:2027-01-01/* Bestämmelserna om kontroll enligt 10 § första och andra styckena och 10 a § första och andra styckena lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet ska inte tillämpas.
+
+### 11 §
+
+*/Träder i kraft I:2027-01-01/* Bestämmelserna om kontroll enligt 10 § första och andra styckena och 10 a § första och andra styckena lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet ska inte tillämpas. *Lag (2026:1597)*.
+
+### 12 §
+
+*/Upphör att gälla U:2027-01-01/* Integritetsskyddsrådets uppgifter enligt 11 § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet ska inte utföras.
+
+### 12 §
+
+*/Träder i kraft I:2027-01-01/* Integritetsskyddsrådets uppgifter enligt 11 § lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet ska inte utföras. *Lag (2026:1597)*.
+
+### 13 §
+
+Tillsyn enligt lagen (2021:1172) om behandling av personuppgifter vid Försvarets radioanstalt ska inte utövas.
+
+### 14 §
+
+*/Upphör att gälla U:2027-01-01/* När det inte längre råder sådana förhållanden som anges i 1 § eller 2 § första stycket, ska kontrollmyndigheten kontrollera att denna lag har följts.
+
+Vid en sådan kontroll ska 10 § första och andra styckena lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet tillämpas.
+
+### 14 §
+
+*/Träder i kraft I:2027-01-01/* När det inte längre råder sådana förhållanden som anges i 1 § eller 2 § första stycket, ska kontrollmyndigheten kontrollera att denna lag har följts.
+
+Vid en sådan kontroll ska 10 § första och andra styckena lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet tillämpas. *Lag (2026:1597)*.
+
+### 15 §
+
+*/Upphör att gälla U:2027-01-01/* När det inte längre råder sådana förhållanden som anges i 1 § eller 2 § första stycket, ska det särskilda beslutandeorganet i kontrollmyndigheten tillämpa bestämmelserna i 10 a § första och andra styckena lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet på meddelanden och lagrade uppgifter som inhämtats i samband med signalspaning enligt denna lag och på tillstånd som lämnats enligt denna lag.
+
+### 15 §
+
+*/Träder i kraft I:2027-01-01/* När det inte längre råder sådana förhållanden som anges i 1 § eller 2 § första stycket, ska det särskilda beslutandeorganet i kontrollmyndigheten tillämpa bestämmelserna i 10 a § första och andra styckena lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet på meddelanden och lagrade uppgifter som inhämtats i samband med signalspaning enligt denna lag och på tillstånd som lämnats enligt denna lag. *Lag (2026:1597)*.
+
+### 16 §
+
+Signalspaningsmyndigheten ska vidta de åtgärder som behövs för att underlätta kontroll enligt 14 och 15 §§.
+
+## Överklagande
+
+### 17 §
+
+Beslut enligt denna lag får inte överklagas.

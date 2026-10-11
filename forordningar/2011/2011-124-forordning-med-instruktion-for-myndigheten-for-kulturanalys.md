@@ -1,0 +1,123 @@
+---
+title: "Förordning (2011:124) med instruktion för Myndigheten för kulturanalys"
+identifier: "SFS 2011:124"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-02-10
+amended_through: "SFS 2026:1474"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-124.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:124"
+retrieved: 2026-10-11
+---
+# Förordning (2011:124) med instruktion för Myndigheten för kulturanalys
+
+### Uppgifter
+
+#### 1 §
+
+Myndigheten för kulturanalys har till uppgift att, med utgångspunkt i de nationella kulturpolitiska målen, utvärdera, analysera och redovisa effekter av förslag och genomförda åtgärder inom kulturområdet. I uppgiften ingår att analysera utvecklingen både inom detta område och inom andra samhällsområden som har betydelse för kulturlivet.
+
+Myndigheten ska inom sitt ansvarsområde bistå regeringen med underlag och rekommendationer som kan ligga till grund för utveckling och omprövning av politiken.
+
+#### 2 §
+
+Myndigheten ska särskilt
+
+1. bedriva omvärldsbevakning inom kulturområdet och andra relevanta samhällsområden, såväl nationellt som internationellt,
+
+2. analysera kulturområdets samlade finansiering,
+
+3. bedöma effekterna av den statliga verksamhetsstyrningen och bidragen inom kulturpolitiken,
+
+4. följa forskningen inom kulturområdet, såväl nationellt som internationellt,
+
+5. bedöma utvecklingen när det gäller mångfald, tillgänglighet och jämställdhet inom kulturområdet,
+
+6. löpande utvärdera den modell för samverkan som följer av förordningen (2010:2012) om fördelning av vissa statsbidrag till regional kulturverksamhet och analysera modellens långsiktiga effekter, och
+
+7. ansvara för officiell statistik enligt förordningen (2001:100) om den officiella statistiken.
+
+*Förordning (2011:1235)*.
+
+#### 3 §
+
+Myndigheten ska integrera ett jämställdhets-, mångfalds- och barnperspektiv i sin verksamhet. *Förordning (2026:1474)*.
+
+#### 4 §
+
+Utöver de uppgifter myndigheten har enligt 1 och 2 §§ får den tillhandahålla Kulturdatabasen och utföra uppdrag inom sitt verksamhetsområde under förutsättning att det inte påverkar förtroendet för myndighetens självständiga ställning.
+
+*Förordning (2021:849)*.
+
+#### 5 §
+
+Myndigheten ska sprida kunskap, erfarenheter och resultat från sin verksamhet till andra myndigheter och intressenter.
+
+Vidare ska myndigheten främja utvecklingen av utvärderings- och analysmetoder inom sitt verksamhetsområde.
+
+#### 6 §
+
+Har upphävts genom *förordning (2026:1474)*.
+
+### Ledning
+
+#### 7 §
+
+Myndigheten leds av en myndighetschef.
+
+#### 8 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst fem ledamöter.
+
+### Anställningar och uppdrag
+
+#### 9 §
+
+Direktören är myndighetschef.
+
+### Undantag från myndighetsförordningen
+
+#### 10 §
+
+Myndigheten ska inte tillämpa 29 § myndighetsförordningen (2007:515) om ärendeförteckning.
+
+### Avgifter
+
+#### 11 §
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 4 §. Avgifter för att tillhandahålla Kulturdatabasen ska dock tas ut upp till full kostnadstäckning.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1474)*.
+
+### Rapportering
+
+#### 12 §
+
+Utöver en löpande rapportering ska myndigheten senast den 1 april vart fjärde år till regeringen redovisa en samlad uppföljning av de kulturpolitiska målen, baserad på de analyser, utvärderingar och bedömningar som myndigheten har gjort. *Förordning (2025:554)*.
+
+#### 13 §
+
+Utöver rapportering enligt 12 § ska myndigheten senast den 30 juni varje år till regeringen redovisa en samlad uppföljning och analys av utfallet av svenska projekt med kulturanknytning som beviljats stöd från europeiska struktur- och investeringsfonderna 2021-2027 inklusive projekt inom de territoriella samarbetsprogrammen. *Förordning (2021:849)*.
+
+#### 14 §
+
+Myndigheten ska i årsredovisningen redovisa fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ. Redovisningen ska göras i noter till resultaträkningen.
+
+*Förordning (2026:1474)*.
+
+## Övergångsbestämmelser
+
+**2020:840**
+
+1. Denna förordning träder i kraft den 12 november 2020.
+
+2. Den första redovisningen enligt 12 § i den nya lydelsen ska lämnas senast den 1 mars 2022.
+
+**2025:554**
+
+1. Denna förordning träder i kraft den 1 juli 2025.
+
+2. Den första redovisningen enligt 12 § i den nya lydelsen ska lämnas senast den 1 april 2027.

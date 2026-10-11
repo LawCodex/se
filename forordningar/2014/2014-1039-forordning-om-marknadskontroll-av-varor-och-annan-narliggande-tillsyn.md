@@ -1,0 +1,305 @@
+---
+title: "Förordning (2014:1039) om marknadskontroll av varor och annan närliggande tillsyn"
+identifier: "SFS 2014:1039"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-07-17
+amended_through: "SFS 2026:1496"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-1039.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:1039"
+retrieved: 2026-10-11
+---
+# Förordning (2014:1039) om marknadskontroll av varor och annan närliggande tillsyn
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning kompletterar följande EU-förordningar:
+
+1. Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011,
+
+2. Europaparlamentets och rådets förordning (EU) 2019/515 av den 19 mars 2019 om ömsesidigt erkännande av varor som är lagligen saluförda i en annan medlemsstat och om upphävande av förordning (EG) nr 764/2008,
+
+3. rådets förordning (EG) nr 2679/98 av den 7 december 1998 om den inre marknadens sätt att fungera i samband med den fria rörligheten för varor mellan medlemsstaterna, och
+
+4. Europaparlamentets och rådets förordning (EU) 2024/2747 av den 9 oktober 2024 om inrättande av en ram med åtgärder relaterade till krissituationer på den inre marknaden och till resiliensen på den inre marknaden och om ändring av rådets förordning (EG) nr 2679/98 (förordningen om krissituationer och resiliens på den inre marknaden).
+
+Förordningen innehåller även andra bestämmelser om marknadskontroll och om underrättelse- och rådgivningsskyldighet i vissa fall. *Förordning (2026:665)*.
+
+### Uttryck i förordningen
+
+#### 2 §
+
+I denna förordning betyder
+
+- marknadskontroll: den verksamhet som en statlig myndighet bedriver och de åtgärder som den vidtar för att se till att en vara som tillhandahålls på marknaden uppfyller gällande krav,
+
+- marknadskontrollmyndighet: en statlig myndighet som ansvarar för att utföra marknadskontroll, och
+
+- samordnande myndighet: en statlig marknadskontrollmyndighet som enligt andra författningar har det centrala ansvaret för vägledning eller samordning inom ett visst sakområde.
+
+*Förordning (2022:1189)*.
+
+### Program för marknadskontroll och information till allmänheten
+
+#### 3 §
+
+Marknadskontrollmyndigheter ska årligen utarbeta och genomföra program för marknadskontroll och följa upp tidigare års program. Myndigheterna ska ge in dessa till Styrelsen för ackreditering och teknisk kontroll.
+
+Kommuner som bedriver verksamhet för att kontrollera varor ska bistå samordnande myndigheter med underlag för program enligt första stycket. *Förordning (2022:1189)*.
+
+#### 4 §
+
+Marknadskontrollmyndigheter ska informera allmänheten om sin verksamhet och lämna motsvarande information till Styrelsen för ackreditering och teknisk kontroll.
+
+*Förordning (2024:132)*.
+
+### Centralt samordningskontor
+
+#### 4 a §
+
+Styrelsen för ackreditering och teknisk kontroll är centralt samordningskontor enligt artikel 10.3 i förordning (EU) 2019/1020. *Förordning (2021:694)*.
+
+#### 4 b §
+
+Styrelsen för ackreditering och teknisk kontroll ska i egenskap av centralt samordningskontor
+
+1. ta fram förslag till en samordnad ståndpunkt enligt artikel 10.4 i förordning (EU) 2019/1020 och lämna förslaget till Regeringskansliet,
+
+2. åtminstone vart fjärde år ta fram och lämna ett förslag till en nationell strategi för marknadskontroll enligt artikel 13 i förordning (EU) 2019/1020 till regeringen, och
+
+3. årligen följa upp den nationella strategin för marknadskontroll. *Förordning (2021:694)*.
+
+#### 4 c §
+
+Marknadskontrollmyndigheter ska på begäran av Styrelsen för ackreditering och teknisk kontroll lämna det underlag som styrelsen behöver för att kunna utföra uppgifterna i 4 b §.
+
+*Förordning (2024:132)*.
+
+#### 4 d §
+
+Styrelsen för ackreditering och teknisk kontroll ska i egenskap av centralt samordningskontor administrera det informations- och kommunikationssystem som avses i artikel 34 i förordning (EU) 2019/1020. *Förordning (2021:694)*.
+
+### Marknadskontrollrådet
+
+#### 5 §
+
+Vid Styrelsen för ackreditering och teknisk kontroll finns ett råd för marknadskontroll (marknadskontrollrådet).
+
+Styrelsen för ackreditering och teknisk kontroll ansvarar för ordförandeskapet och sekretariatsfunktionen i marknadskontrollrådet.
+
+Marknadskontrollrådet ska besluta en arbetsordning.
+
+*Förordning (2021:694)*.
+
+#### 6 §
+
+Marknadskontrollrådet består av de statliga myndigheter som anges i bilagan till denna förordning. Även andra än de statliga myndigheterna får på inbjudan av marknadskontrollrådet delta vid möten i rådet.
+
+*Förordning (2021:694)*.
+
+#### 7 §
+
+Marknadskontrollrådet ska
+
+1. fungera som ett nationellt samordningsorgan i frågor om marknads-kontroll,
+
+2. främja samverkan och effektivitet i kontrollen,
+
+3. organisera kontinuerligt erfarenhetsutbyte,
+
+4. ansvara för spridning av allmän information om marknadskontroll,
+
+5. underlätta allmänhetens och näringslivets kontakter med marknadskontrollmyndigheterna, och
+
+6. årligen utarbeta en handlingsplan för 1-5.
+
+*Förordning (2021:694)*.
+
+#### 8 §
+
+Marknadskontrollrådet ska samråda med och inhämta synpunkter av betydelse för marknadskontroll från myndigheter, företrädare för näringsliv, konsumenter och andra intressenter.
+
+### Prioritering av marknadskontroll vid aktivering av krisförfaranden för krisnödvändiga varor
+
+#### 8 a §
+
+Marknadskontrollmyndigheter ska prioritera marknadskontroll av sådana krisnödvändiga varor som anges i en genomförandeakt som kommissionen antagit enligt artikel 28 i Europaparlamentets och rådets förordning (EU) 2024/2747.
+
+Om kommissionen har antagit en sådan genomförandeakt som anges i första stycket ska marknadskontrollmyndigheter bistå varandra i största möjliga utsträckning. *Förordning (2026:665)*.
+
+### Godkännande av utsläppande av krisnödvändiga varor
+
+#### 8 b §
+
+Marknadskontrollmyndigheter får, efter en motiverad begäran av en ekonomisk aktör, godkänna utsläppande på marknaden, ibruktagande eller användning för tillverkarens egna ändamål inom svenskt territorium av sådana krisnödvändiga varor som anges i en genomförandeakt som kommissionen antagit enligt artikel 28 i Europaparlamentets och rådets förordning (EU) 2024/2747, trots att ett anmält organ inte har deltagit i ett förfarande för bedömning av överensstämmelse.
+
+Ett beslut om godkännande enligt första stycket får endast meddelas om
+
+1. den ekonomiska aktören intygar att den specifika produkten överensstämmer med de relevanta kraven i respektive produktlagstiftning och beskriver den eller de förfaranden som produkten har genomgått för att bedöma överensstämmelse,
+
+2. produkten har betecknats som krisnödvändig vara enligt artikel 18.4 i Europaparlamentet och rådets förordning (EU) 2024/2747, och
+
+3. det råder ett sådant krisläge för den inre marknaden som har aktiverats i enlighet med artikel 18 i Europaparlamentets och rådets förordning (EU) 2024/2747.
+
+Marknadskontrollmyndigheter får meddela närmare föreskrifter om villkor och krav för att ett godkännande enligt första stycket ska kunna ges, samt närmare förutsättningar avseende intyg av tillverkare, krav på information och märkning, samt om innehållet i och handläggningen av en ansökan som avses i första stycket. *Förordning (2026:1496)*.
+
+### Informationsutbyte mellan myndigheter och Europeiska kommissionen
+
+#### 9 §
+
+Konsumentverket ska ansvara för att skyndsamt lämna information till Europeiska kommissionen i systemet för snabbt informationsutbyte enligt artikel 19.1 och artikel 20 i förordning (EU) 2019/1020. *Förordning (2024:132)*.
+
+#### 10 §
+
+Marknadskontrollmyndigheter ska skyndsamt lämna den information till Konsumentverket som verket behöver för att kunna fullgöra sina skyldigheter enligt 9 §. *Förordning (2024:132)*.
+
+#### 11 §
+
+Förvaltningsmyndigheter under regeringen och kommuner som har fattat beslut enligt artikel 5.9 i förordning (EU) 2019/515 ska omgående anmäla beslutet till Kommerskollegium, med undantag för beslut som avses i artikel 7 i förordningen.
+
+Kommerskollegium ska inom 20 arbetsdagar från att det anmälda beslutet fattades anmäla beslutet till Europeiska kommissionen och övriga medlemsstater genom det system som anges i 10 § tredje stycket. *Förordning (2020:146)*.
+
+#### 12 §
+
+Förvaltningsmyndigheter under regeringen och kommuner som har fattat beslut om tillfälligt upphävande av marknadstillträde enligt artikel 6.1 i förordning (EU) 2019/515 ska omgående anmäla beslutet till Kommerskollegium, med undantag för beslut som avses i artikel 7 i förordningen.
+
+Kommerskollegium ska omgående anmäla det anmälda beslutet till Europeiska kommissionen och övriga medlemsstater genom det system som anges i 10 § tredje stycket. *Förordning (2020:146)*.
+
+#### 12 a §
+
+Marknadskontrollmyndigheter ska omedelbart underrätta kommissionen och övriga medlemsstater om varje godkännande av utsläppande på marknaden eller ibruktagande inom Sverige av sådana krisnödvändiga varor som anges i en genomförandeakt som antagits av kommissionen enligt artikel 28 i Europaparlamentets och rådets förordning (EU) 2024/2747.
+
+Marknadskontrollmyndigheter ska även underrätta kommissionen om de anser att en standard eller gemensam specifikation som antagits av kommissionen i en genomförandeakt avseende en krisnödvändig vara inte uppfyller relevanta krav enligt respektive produktlagstiftning. En sådan underrättelse ska innehålla en närmare redogörelse för på vilket sätt kraven inte är uppfyllda.
+
+Marknadskontrollmyndigheter ska även underrätta kommissionen och marknadskontrollmyndigheterna i alla andra medlemsstater om korrigerande och begränsande åtgärder som de vidtagit avseende sådana krisnödvändiga varor som anges i en genomförandeakt som kommissionen antagit enligt artikel 28 i Europaparlamentets och rådets förordning (EU) 2024/2747. *Förordning (2026:1496)*.
+
+#### 13 §
+
+Om Kommerskollegium bedömer att ett anmält beslut enligt 11 eller 12 § riskerar att störa Sveriges handelspolitiska förbindelser, ska kollegiet omgående anmäla beslutet till Regeringskansliet. *Förordning (2020:146)*.
+
+### Uppgiftsskyldighet
+
+#### 13 a §
+
+Marknadskontrollmyndigheter ska lämna de uppgifter till varandra som behövs för att de ska kunna utföra sin marknadskontroll enligt förordning (EU) 2019/1020.
+
+*Förordning (2022:1189)*.
+
+### Kommerskollegiums ansvar som kontaktpunkt
+
+#### 14 §
+
+Kommerskollegium ska vara kontaktpunkt för produkter enligt artikel 9 i förordning (EU) 2019/515. *Förordning (2020:146)*.
+
+#### 15 §
+
+Förvaltningsmyndigheter under regeringen och kommuner ska utan dröjsmål lämna den information som Kommerskollegium behöver för att i egenskap av kontaktpunkt kunna tillhandahålla information enligt artikel 9 i förordning (EU) 2019/515. *Förordning (2020:146)*.
+
+#### 15 a §
+
+Kommerskollegium ska i egenskap av kontaktpunkt ge ekonomiska aktörer information i enlighet med artikel 8.2 i förordning (EU) 2019/1020.
+
+Förvaltningsmyndigheter under regeringen ska skyndsamt lämna den information som Kommerskollegium behöver för att kunna ge aktörerna informationen. *Förordning (2021:694)*.
+
+### Förfaranden vid åtgärder med anledning av faktiska hinder för den fria rörligheten av varor
+
+#### 16 §
+
+Kommerskollegium ska för Sveriges räkning
+
+1. fullgöra den informationsskyldighet för medlemsstaterna som anges i artiklarna 3-5 i förordning (EG) nr 2679/98, och 2. ta emot sådan information som avses i artiklarna 4.2 och 5.1 i samma förordning.
+
+#### 17 §
+
+Polismyndigheten, Tullverket och Kustbevakningen ska utan dröjsmål underrätta Kommerskollegium om
+
+1. hinder som avses i artikel 1 i förordning (EG) nr 2679/98 och som de får kännedom om i sin verksamhet, och
+
+2. de åtgärder som har vidtagits eller planeras för att undanröja hindren.
+
+De myndigheter som anges i första stycket ska på begäran lämna sådan information till Kommerskollegium som är nödvändig för att myndigheten ska kunna fullgöra sina uppgifter enligt 16 §. *Förordning (2014:1304)*.
+
+### Underrättelse- och rådgivningsskyldighet
+
+### Underrättelse till regeringen och andra myndigheter
+
+#### 18 §
+
+Kommerskollegium, Styrelsen för ackreditering och teknisk kontroll och Konsumentverket ska hålla regeringen och berörda myndigheter underrättade om information av särskild betydelse för tillämpningen av denna förordning.
+
+### Underrättelse om formell invändning mot standard
+
+#### 19 §
+
+En marknadskontrollmyndighet ska informera Kommerskollegium om det finns anledning att invända mot en harmoniserad standard enligt artikel 11 i Europaparlamentets och rådets förordning (EU) nr 1025/2012 av den 25 oktober 2012 om europeisk standardisering och om ändring av rådets direktiv 89/686/EEG och 93/15/EEG samt av Europaparlamentets och rådets direktiv 94/9/EG, 94/25/EG, 95/16/EG, 97/23/EG, 98/34/EG, 2004/22/EG, 2007/23/EG, 2009/23/EG och 2009/105/EG samt om upphävande av rådets beslut 87/95/EEG och Europaparlamentets och rådets beslut 1673/2006/EG, eller ett förslag till en sådan standard på den grunden att standarden inte uppfyller de krav som den syftar till att uppfylla. *Förordning (2024:132)*.
+
+### Rådgivningsskyldighet
+
+#### 20 §
+
+Kommerskollegium, Styrelsen för ackreditering och teknisk kontroll och Konsumentverket ska, inom ramen för sina respektive ansvarsområden, ge råd till andra myndigheter om tillämpningen av denna förordning.
+
+### Varningsinformation
+
+#### 20 a §
+
+Tillämpligt språk för varningsinformation enligt artikel 16.3 e och 16.3 g i förordning (EU) 2019/1020 är svenska eller engelska. *Förordning (2021:694)*.
+
+### Bemyndigande
+
+#### 21 §
+
+Kommerskollegium får meddela föreskrifter om verkställighet av 11-12, 15 §§ och 17 § andra stycket.
+
+## Övergångsbestämmelser
+
+**2021:694**
+
+1. Denna förordning träder i kraft den 16 juli 2021.
+
+2. Det första förslaget till en nationell strategi för marknadskontroll enligt 4 b § 2 ska lämnas till regeringen senast den 16 mars 2022.
+
+### Bilaga
+
+Förteckning över statliga myndigheter som ingår i marknadskontrollrådet
+
+- Arbetsmiljöverket
+
+- Boverket
+
+- Elsäkerhetsverket
+
+- Folkhälsomyndigheten
+
+- Inspektionen för vård och omsorg
+
+- Kemikalieinspektionen
+
+- Kommerskollegium
+
+- Konsumentverket
+
+- Läkemedelsverket
+
+- Myndigheten för civilt försvar
+
+- Naturvårdsverket
+
+- Post- och telestyrelsen
+
+- Statens energimyndighet
+
+- Strålsäkerhetsmyndigheten
+
+- Styrelsen för ackreditering och teknisk kontroll
+
+- Transportstyrelsen
+
+- Tullverket.
+
+*Förordning (2025:1142)*.

@@ -1,0 +1,105 @@
+---
+title: "Förordning (2007:842) med instruktion för Krigsförsäkringsnämnden"
+identifier: "SFS 2007:842"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-08
+amended_through: "SFS 2016:1103"
+department: "Finansdepartementet FMA FPM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-842.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:842"
+retrieved: 2026-10-11
+---
+# Förordning (2007:842) med instruktion för Krigsförsäkringsnämnden
+
+## Uppgifter
+
+### 1 §
+
+Krigsförsäkringsnämnden ansvarar för frågor om försäkring mot krigsrisker m.m. enligt 4 kap. lagen (1999:890) om försäkringsverksamhet under krig eller krigsfara m.m.
+
+### 2 §
+
+Myndigheten ska
+
+1. följa försäkringsmarknadens utveckling, särskilt när det gäller behovet av statlig krigsförsäkring,
+
+2. fastställa villkoren för sådan försäkring som nämnden meddelar,
+
+3. kontinuerligt se över gällande krigsutbrottsavtal och återförsäkringsavtal,
+
+4. årligen senast den 1 mars lämna verksamhetsberättelse till regeringen för det senast avslutade kalenderåret, och
+
+5. årligen senast den 1 mars lämna budgetunderlag till regeringen för kommande kalenderår. *Förordning (2016:1103)*.
+
+## Ledning
+
+### 3 §
+
+Myndigheten leds av en nämnd.
+
+### 4 §
+
+Nämnden ska bestå av högst sju ledamöter. För ledamöterna ska det finnas ersättare.
+
+## Organisation
+
+### 5 §
+
+Finansinspektionen utför administrativa och handläggande uppgifter åt myndigheten.
+
+## Anställningar och uppdrag
+
+### 6 §
+
+Ledamöter och ersättare utses av regeringen efter förslag av nämnden. En av ledamötena ska utses till ordförande och en till vice ordförande. Förordnandena ges för en bestämd tid.
+
+Nämndens förslag ska beakta jämn könsfördelning och ges in till regeringen senast tre månader innan förordnandena går ut. *Förordning (2016:1103)*.
+
+## Ärendenas handläggning
+
+### 7 §
+
+Om det framkommer skiljaktiga meningar vid en överläggning, tillämpas föreskrifterna i 16 kap. rättegångsbalken om omröstning i tvistemål.
+
+### 8 §
+
+Ärendena avgörs efter föredragning. Nämnden får i arbetsordningen bestämma eller i ett enskilt fall besluta att ärenden som avgörs enligt 10 § inte behöver föredras.
+
+### 9 §
+
+Vid sammanträdena ska protokoll föras.
+
+## Delegering
+
+### 10 §
+
+Nämnden får i arbetsordningen eller i särskilda beslut lämna över till ordföranden eller till någon som utför uppgifter åt nämnden att avgöra ärenden som är av det slaget att de inte behöver prövas av nämnden.
+
+## Undantag från myndighetsförordningen
+
+### 11 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+20 § om föredragning, och
+
+24 § om myndighetschef.
+
+*Förordning (2016:1103)*.
+
+## Tillämpligheten av vissa förordningar
+
+### 12 §
+
+Förordningen (2000:605) om årsredovisning och budgetunderlag ska inte tillämpas på myndigheten.
+
+*Förordning (2016:1103)*.
+
+## Överklagande
+
+### 13 §
+
+Myndighetens beslut i försäkringsärenden får enligt 5 kap. 1 § andra stycket lagen (1999:890) om försäkringsverksamhet under krig eller krigsfara m.m. inte överklagas. Myndighetens beslut i andra ärenden överklagas hos regeringen med undantag av beslut i anställningsärenden. *Förordning (2016:1103)*.

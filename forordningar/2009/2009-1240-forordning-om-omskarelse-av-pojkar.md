@@ -1,0 +1,41 @@
+---
+title: "Förordning (2009:1240) om omskärelse av pojkar"
+identifier: "SFS 2009:1240"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-11-19
+amended_through: "SFS 2013:191"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-1240.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:1240"
+retrieved: 2026-10-11
+---
+# Förordning (2009:1240) om omskärelse av pojkar
+
+### 1 §
+
+Inspektionen för vård och omsorg ska fatta beslut om tillstånd enligt 6 § lagen (2001:499) om omskärelse av pojkar inom två månader från det att en fullständig ansökan har kommit in till inspektionen. Om det är nödvändigt på grund av utredningen av ärendet får handläggningstiden vid högst ett tillfälle förlängas med högst två månader. Sökanden ska informeras om skälen för att handläggningstiden förlängs innan den ursprungliga tidsfristen har gått ut.
+
+Ett beslut om att förlänga handläggningstiden får inte överklagas.
+
+I 8 § lagen (2009:1079) om tjänster på den inre marknaden finns bestämmelser om att mottagningsbevis ska skickas till sökanden när en fullständig ansökan har kommit in och om innehållet i ett sådant bevis. *Förordning (2013:191)*.
+
+### 2 §
+
+Om Inspektionen för vård och omsorg i ett ärende om tillstånd enligt 6 § lagen (2001:499) om omskärelse av pojkar begär att sökanden ska ge in certifikat, intyg eller andra liknande dokument som visar att ett visst tillståndskrav är uppfyllt, ska inspektionen godta motsvarande dokument från en annan stat inom Europeiska ekonomiska samarbetsområdet.
+
+Inspektionen får dock begära att dokumentet ges in i original eller i en bestyrkt kopia eller i form av en auktoriserad översättning till svenska. *Förordning (2013:191)*.
+
+### 3 §
+
+I 3 § förordningen (1985:796) med vissa bemyndiganden för Socialstyrelsen att meddela föreskrifter m.m. finns bestämmelser om att Socialstyrelsens får meddela föreskrifter som avses i 11 § lagen (2001:499) om omskärelse av pojkar.
+
+## Övergångsbestämmelser
+
+**2009:1240**
+
+1. Denna förordning träder i kraft den 27 december 2009.
+
+2. Ansökningar om tillstånd enligt 6 § lagen (2001:499) om omskärelse av pojkar som kommit in till Socialstyrelsen före ikraftträdandet men som ännu inte har avgjorts handläggs enligt äldre föreskrifter.

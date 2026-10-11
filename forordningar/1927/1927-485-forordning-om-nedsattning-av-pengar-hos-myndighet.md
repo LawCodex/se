@@ -1,0 +1,51 @@
+---
+title: "Förordning (1927:485) om nedsättning av pengar hos myndighet"
+identifier: "SFS 1927:485"
+type: regulation
+jurisdiction: se
+language: sv
+date: 1927-12-16
+amended_through: "SFS 2025:1183"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1927-485.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1927:485"
+retrieved: 2026-10-11
+---
+# Förordning (1927:485) om nedsättning av pengar hos myndighet
+
+## 1 §
+
+Nedsättning av pengar enligt lagen (1927:56) om nedsättning av pengar hos myndighet får ske hos länsstyrelserna i Norrbottens, Örebro, Stockholms, Östergötlands, Västra Götalands eller Skåne län.
+
+*Förordning (2024:205)*.
+
+## 2 §
+
+Över ärenden som avses i lagen (1927:56) om nedsättning av pengar hos myndighet skall vederbörande länsstyrelse föra särskild dagbok.
+
+I dagboken skall antecknas tiden då ett ärende har anhängiggjorts eller en skrivelse i ärendet har kommit in.
+
+Dagboken skall även innehålla en kortfattad redogörelse för vilka åtgärder som har vidtagits i ärendet och när de har vidtagits. Ärendena skall tas upp i fortlöpande nummerföljd för varje år. Ett ärende skall ända tills det avförs ha det nummer under vilket det först har tagits upp.
+
+Till dagboken skall i varje ärende såsom bilagor fogas de handlingar som hör till ärendet samt, i fall då nedsatta medel har placerats på ett räntebärande konto, bevis över insättningen. *Förordning (2012:367)*.
+
+## 3 §
+
+Belopp som har nedsatts hos länsstyrelse enligt lagen (1927:56) om nedsättning av pengar hos myndighet ska bokföras under ett särskilt konto i de till Statskontoret ingående räkenskaperna.
+
+Under året upplupen ränta ska tas upp i räkenskaperna så snart som möjligt under påföljande år. *Förordning (2025:1183)*.
+
+## 4 §
+
+Har upphävts genom *förordning (1994:943)*.
+
+## 5 §
+
+Bestämmelser om hur nedsatta medel ska placeras finns i 3 kap. 4 § kapitalförsörjningsförordningen (2011:210).
+
+*Förordning (2011:233)*.
+
+## 6 §
+
+Har upphävts genom *förordning (1989:931)*.

@@ -1,0 +1,39 @@
+---
+title: "Förordning (2007:701) om allmänna vattentjänster"
+identifier: "SFS 2007:701"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-08-30
+amended_through: "SFS 2023:195"
+department: "Klimat- och näringslivsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-701.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:701"
+retrieved: 2026-10-11
+---
+# Förordning (2007:701) om allmänna vattentjänster
+
+## 1 §
+
+Denna förordning är meddelad med stöd av
+
+- 23 § lagen (2006:412) om allmänna vattentjänster i fråga om 2 §,
+
+- 8 kap. 7 § regeringsformen i fråga om 3 och 4 §§.
+
+*Förordning (2023:195)*.
+
+## 2 §
+
+Kommunen får meddela ytterligare föreskrifter om användningen av allmänna va-anläggningar.
+
+## 3 §
+
+Havs- och vattenmyndigheten ska ge tillsynsvägledning till länsstyrelsen i frågor om tillämpningen av 6 § lagen (2006:412) om allmänna vattentjänster.
+
+*Förordning (2023:195)*.
+
+## 4 §
+
+Länsstyrelsen ska på begäran lämna den information som Havs- och vattenmyndigheten behöver för sin tillsynsvägledning. *Förordning (2023:195)*.

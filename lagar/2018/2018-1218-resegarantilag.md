@@ -1,0 +1,365 @@
+---
+title: "Resegarantilag (2018:1218)"
+identifier: "SFS 2018:1218"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-06-20
+amended_through: "SFS 2026:97"
+department: "Finansdepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1218.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1218"
+retrieved: 2026-10-11
+---
+# Resegarantilag (2018:1218)
+
+### Lagens tillämpningsområde
+
+#### 1 §
+
+Denna lag innehåller bestämmelser om resegaranti för paketresor och sammanlänkade researrangemang som omfattas av paketreselagen (2018:1217).
+
+#### 2 §
+
+Med resegaranti avses i denna lag ett skydd mot ekonomisk skada som kan drabba resenärer till följd av insolvens hos arrangörer av paketresor eller näringsidkare som genom förmedling eller på annat sätt underlättat uppkomsten av sammanlänkade researrangemang.
+
+Resegaranti enligt denna lag ska ordnas dels i form av en individuell garanti, dels i form av en kollektiv resegarantifond. *Lag (2026:96)*.
+
+#### 3 §
+
+De definitioner av resetjänst, paketresa, sammanlänkat researrangemang, resenär, näringsidkare, arrangör och återförsäljare som anges i 1 kap. 2-5 §§ paketreselagen (2018:1217) har samma innebörd i denna lag.
+
+### Skyldighet att ordna resegaranti
+
+#### 4 §
+
+Den som är arrangör av en paketresa är skyldig att se till att paketresan omfattas av resegaranti enligt denna lag. Skyldigheten ska fullgöras innan paketresan erbjuds till försäljning.
+
+Om paketresan har satts ihop av en arrangör som är etablerad i ett land utanför Europeiska ekonomiska samarbetsområdet (EES), är den återförsäljare som är etablerad i ett land inom EES och erbjuder paketresan till försäljning skyldig att se till att paketresan omfattas av resegaranti enligt denna lag.
+
+Paketresor som inte innefattar någon passagerartransport och för vilka betalning inte heller görs förrän efter det att paketresan har genomförts behöver inte omfattas av resegaranti. *Lag (2026:96)*.
+
+#### 5 §
+
+Den näringsidkare som genom förmedling eller på annat sätt underlättar uppkomsten av ett sammanlänkat researrangemang är skyldig att se till att researrangemanget omfattas av resegaranti enligt denna lag. Skyldigheten ska fullgöras innan näringsidkaren vidtar åtgärder som möjliggör bokning av ett sammanlänkat researrangemang.
+
+Om näringsidkaren inte ansvarar för någon passagerartransport som ingår i det sammanlänkade researrangemanget och inte heller tar emot betalning förrän efter det att researrangemanget har genomförts, behöver researrangemanget inte omfattas av resegaranti. *Lag (2026:96)*.
+
+### Resegarantins omfattning och villkor
+
+#### 6 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Resegarantin för en paketresa ska säkerställa att de betalningar som görs för paketresan betalas tillbaka till resenären i den utsträckning som paketreseavtalet inte fullgörs till följd av arrangörens insolvens.
+
+Om en passagerartransport ingår i paketresan ska resegarantin också säkerställa hemtransport, och inkvartering om det behövs i avvaktan på hemtransporten, i den utsträckning som passagerartransporten inte fullgörs till följd av arrangörens insolvens.
+
+#### 6 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Resegarantin för en paketresa ska säkerställa att de betalningar som görs för paketresan betalas tillbaka till resenären i den utsträckning som paketreseavtalet inte fullgörs till följd av arrangörens insolvens.
+
+Resegarantin ska även säkerställa att en resenär får ersättning för ett återbetalningskrav som omfattas av 3 kap. 9 § första stycket paketreselagen (2018:1217), i den utsträckning som betalningsskyldigheten inte fullgörs till följd av arrangörens insolvens.
+
+Resegarantin ska vidare säkerställa att resenären får ersättning för värdebevis som resenären har godtagit som alternativ till sådan ersättning som han eller hon har rätt till enligt 3 kap. 9 § första stycket paketreselagen, i den utsträckning som värdebeviset inte kan utnyttjas till följd av arrangörens insolvens. Sådan ersättning från resegarantin ska dock vara begränsad till det belopp som resenären skulle ha haft rätt att få tillbaka om värdebeviset inte hade godtagits. Endast värdebevis som inte är äldre än ett år ska omfattas av resegarantin.
+
+Om en passagerartransport ingår i paketresan ska resegarantin också säkerställa hemtransport, och inkvartering om det behövs i avvaktan på hemtransporten, i den utsträckning som passagerartransporten inte fullgörs till följd av arrangörens insolvens. *Lag (2026:97)*.
+
+#### 7 §
+
+Resegarantin för ett sammanlänkat researrangemang ska säkerställa att de betalningar som görs till den näringsidkare som genom förmedling eller på annat sätt underlättar uppkomsten av det sammanlänkade researrangemanget betalas tillbaka till resenären i den utsträckning som de resetjänster som ingår i researrangemanget inte fullgörs till följd av näringsidkarens insolvens.
+
+Om näringsidkaren ansvarar för en passagerartransport som ingår i researrangemanget ska resegarantin också säkerställa hemtransport, och inkvartering om det behövs i avvaktan på hemtransporten, i den utsträckning som passagerartransporten inte fullgörs till följd av näringsidkarens insolvens.
+
+#### 8 §
+
+/Upphör att gälla U:den dag som regeringen bestämmer genom *lag (2026:97)*./ Resegarantin enligt 6 och 7 §§ ska omfatta rimligt förutsebara kostnader.
+
+#### 9 §
+
+Resegarantin ska ge resenären rätt till ersättning som utan onödigt dröjsmål betalas ut när det står klart att en resetjänst som ingår i paketresan eller det sammanlänkade researrangemanget inte kommer att fullgöras inom skälig tid och det framstår som sannolikt att det beror på insolvens hos arrangören eller den näringsidkare som genom förmedling eller på annat sätt har underlättat uppkomsten av det sammanlänkade researrangemanget.
+
+#### 10 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* För en individuellt ordnad garanti gäller att
+
+1. ersättningen får betalas ut till den som erbjuder en fortsättning på paketresan eller tillhandahåller inkvartering eller hemtransport åt resenären,
+
+2. ersättningen ska minskas med det belopp som resenären har fått i ersättning på annat sätt för att resetjänsten inte fullgjorts,
+
+3. ersättningen får krävas tillbaka i den utsträckning resenären genom att lämna oriktiga uppgifter har fått högre ersättning än vad som annars skulle ha betalats ut, och
+
+4. rätten till ersättning från garantin upphör om begäran om ersättning inte har framställts inom en viss tid, dock inte kortare än tre månader från det att arrangören av en paketresa eller den näringsidkare som genom förmedling eller på annat sätt underlättat uppkomsten av sammanlänkade researrangemang har försatts i konkurs.
+
+Garantin får förenas med villkor om att det som sägs i första stycket 1-3 helt eller delvis inte ska gälla. *Lag (2026:96)*.
+
+#### 10 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* För en individuellt ordnad garanti gäller att
+
+1. ersättningen får betalas ut till den som erbjuder en fortsättning på paketresan eller tillhandahåller inkvartering eller hemtransport åt resenären,
+
+2. ersättningen till en resenär ska minskas med det belopp som resenären har fått i ersättning på annat sätt för att resetjänsten inte fullgjorts,
+
+3. ersättningen får krävas tillbaka i den utsträckning resenären genom att lämna oriktiga uppgifter har fått högre ersättning än vad som annars skulle ha betalats ut,
+
+4. rätten till ersättning från garantin upphör om begäran om ersättning inte har framställts inom en viss tid, dock inte kortare än tre månader från det att arrangören av en paketresa eller den näringsidkare som genom förmedling eller på annat sätt underlättat uppkomsten av sammanlänkade researrangemang har försatts i konkurs, och
+
+5. ersättningen får betalas ut till en juridisk person som, i enlighet med en skyldighet som följer av lag eller avtal, har ersatt en resenär för en fordran som resenären annars hade kunnat få ersättning för enligt denna lag.
+
+Garantin får förenas med villkor om att det som sägs i första stycket 1-3 och 5 helt eller delvis inte ska gälla.
+
+*Lag (2026:97)*.
+
+### Skyldighet att anmäla verksamhet
+
+#### 11 §
+
+En näringsidkare ska anmäla sin verksamhet till den myndighet som avses i 12 §, om näringsidkaren avser att
+
+1. bedriva verksamhet som arrangör,
+
+2. genom förmedling eller på annat sätt underlätta uppkomsten av sammanlänkade researrangemang, eller
+
+3. bedriva verksamhet som återförsäljare för en arrangör som är etablerad i ett land utanför EES.
+
+Näringsidkaren ska lämna de uppgifter om sin verksamhet som är nödvändiga för att frågan om skyldighet att ordna resegaranti ska kunna prövas. *Lag (2026:96)*.
+
+### Prövning av skyldighet att ordna resegaranti
+
+#### 12 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Den myndighet som regeringen bestämmer prövar om det finns en skyldighet att ordna resegaranti enligt denna lag. Myndigheten ska också pröva om det utifrån de krav som föreskrivs i denna lag och föreskrifter som har meddelats i anslutning till lagen finns förutsättningar för att godkänna en individuellt ordnad garanti och om nivån på garantin ska justeras enligt 12 a §.
+
+Vid prövningen ska hänsyn tas till
+
+1. storleken på de sammanlagda betalningar som gjorts av resenärer för paketresor respektive sammanlänkade researrangemang,
+
+2. tidsperioden mellan delbetalning och slutbetalning och fullgörandet av resetjänsten, och
+
+3. i förekommande fall, den uppskattade kostnaden för hemtransporter.
+
+Myndigheten får bestämma att ett beslut om resegaranti ska gälla omedelbart. *Lag (2026:96)*.
+
+#### 12 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Den myndighet som regeringen bestämmer prövar om det finns en skyldighet att ordna resegaranti enligt denna lag. Myndigheten ska också pröva om det utifrån de krav som föreskrivs i denna lag och föreskrifter som har meddelats i anslutning till lagen finns förutsättningar för att godkänna en individuellt ordnad garanti och om nivån på garantin ska justeras enligt 12 a § andra stycket.
+
+Myndigheten får bestämma att ett beslut om resegaranti ska gälla omedelbart. *Lag (2026:97)*.
+
+#### 12 a §
+
+/Upphör att gälla U:den dag som regeringen bestämmer genom *lag (2026:97)*./ Vid prövningen enligt 12 § ska myndigheten godta att nivån på den individuellt ordnade garantin sänks med
+
+- 20 procent när resegarantifonden för första gången nått ett kapital om trehundra miljoner kronor,
+
+- 40 procent när resegarantifonden för första gången nått ett kapital om sexhundra miljoner kronor,
+
+- 60 procent när resegarantifonden för första gången nått ett kapital om niohundra miljoner kronor, och
+
+- 80 procent när resegarantifonden för första gången nått ett kapital om 1,2 miljarder kronor. *Lag (2026:96)*.
+
+#### 12 a §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Den individuella garanti som en arrangör eller en näringsidkare som genom förmedling eller på annat sätt underlättar uppkomsten av sammanlänkade researrangemang ordnar ska uppgå till 6,25 procent av den resegarantipliktiga årsomsättningen.
+
+Om det finns en särskild risk för att resegarantifonden kommer att behöva tas i anspråk ska reseaktören ordna en högre garanti än 6,25 procent av den resegarantipliktiga årsomsättningen. Om det i stället saknas risk för att resegarantifonden kommer att behöva tas i anspråk får en lägre garanti än 6,25 procent av den resegarantipliktiga årsomsättningen godtas.
+
+Vid myndighetens prövning av om nivån på garantin ska justeras enligt andra stycket ska myndigheten utgå från reseaktörens ekonomiska förhållanden. *Lag (2026:97)*.
+
+#### 13 §
+
+En individuellt ordnad garanti ska bestå av
+
+1. en betalningsutfästelse som har utfärdats av en bank, ett kreditmarknadsföretag eller ett försäkringsbolag och som fullgörs efter uppmaning,
+
+2. en försäkring,
+
+3. deponerade medel, eller
+
+4. något annat liknande åtagande.
+
+Vid bedömningen av om det finns förutsättningar för att godkänna en garanti enligt 12 § ska det beaktas vilka krav på soliditet, likviditet, riskhantering och tillsyn som gäller för den som står för garantin. *Lag (2026:96)*.
+
+#### 13 a §
+
+Resegarantifonden består av särskilt avsatta medel som endast får användas i enlighet med denna lag.
+
+När resegarantifondens kapital uppgår till 1,5 miljarder kronor ska fonden anses vara fullt uppbyggd. *Lag (2026:96)*.
+
+#### 13 b §
+
+Arrangörer av paketresor och näringsidkare som genom förmedling eller på annat sätt underlättar uppkomsten av sammanlänkade researrangemang ska betala en avgift till resegarantifonden.
+
+För paketresor ska avgiften uppgå till ett belopp motsvarande 0,6 procent av paketresans pris. För sammanlänkade researrangemang ska avgiften uppgå till ett belopp motsvarande 0,6 procent av de betalningar som näringsidkaren, som underlättar det sammanlänkade researrangemanget, mottar från resenären.
+
+Skyldigheten att betala avgift ska gälla till dess resegarantifonden anses vara fullt uppbyggd enligt 13 a § andra stycket. Skyldigheten att betala avgift ska dock alltid gälla under de första tolv månader som en reseaktör är skyldig att ordna resegaranti enligt denna lag. *Lag (2026:96)*.
+
+#### 13 c §
+
+Om resegarantifondens kapital, efter att ha varit fullt uppbyggt, minskar till under en miljard kronor, ska den myndighet som regeringen bestämmer besluta att skyldigheten att betala avgift enligt 13 b § åter ska gälla. *Lag (2026:96)*.
+
+#### 14 §
+
+En resegaranti som en näringsidkare har ordnat i enlighet med de bestämmelser som gäller för skydd vid insolvens i det land inom EES där näringsidkaren är etablerad ska erkännas som resegaranti enligt denna lag.
+
+En resegaranti som en näringsidkare som inte är etablerad i ett land inom EES har ordnat får erkännas som resegaranti enligt denna lag om den innebär ett skydd mot ekonomisk skada vid insolvens som är likvärdigt med en resegaranti ordnad i enlighet med lagen. *Lag (2026:96)*.
+
+#### 15 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om de förutsättningar som ska gälla för att en individuellt ordnad garanti ska godkännas. *Lag (2026:96)*.
+
+### Förvaltning av resegarantifonden
+
+#### 15 a §
+
+Den myndighet som regeringen bestämmer ska förvalta resegarantifonden.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om resegarantifondens finansiering och förvaltning. *Lag (2026:96)*.
+
+#### 15 b §
+
+Kostnaderna för att förvalta resegarantifonden och för att handlägga ärenden om finansiering av och ersättning ur fonden ska betalas ur fonden enligt de grunder som regeringen bestämmer. *Lag (2026:96)*.
+
+/Rubriken upphör att gälla U:Den dag som regeringen bestämmer/ Skyldighet att anmäla ändrade förutsättningar
+
+#### 16 §
+
+/Upphör att gälla U:den dag som regeringen bestämmer genom *lag (2026:97)*./ Om de förutsättningar som legat till grund för ett beslut att godkänna en individuellt ordnad garanti enligt 12 § ändras, ska näringsidkaren utan dröjsmål underrätta den myndighet som meddelat beslutet. Näringsidkaren ska lämna de uppgifter som är nödvändiga för att frågan ska kunna prövas på nytt. *Lag (2026:96)*.
+
+### Ersättning från resegarantin
+
+#### 17 §
+
+Om inte annat följer av de villkor som gäller för en individuellt ordnad garanti, ska den myndighet som regeringen bestämmer pröva en begäran om ersättning från resegarantin som innebär att en individuellt ordnad garanti tas i anspråk. Vid myndighetens prövning ska 10 § första stycket tillämpas om inte annat följer av sådana villkor som avses i 10 § andra stycket. *Lag (2026:96)*.
+
+#### 17 a §
+
+Den myndighet som regeringen bestämmer ska pröva en begäran om ersättning som innebär att resegarantifonden tas i anspråk. Vid prövningen ska 10 § första stycket tillämpas.
+
+*Lag (2026:96)*.
+
+#### 18 §
+
+När en begäran om ersättning ska prövas av en myndighet enligt 17 eller 17 a §, ska resegarantin tas i anspråk för att ersätta resenären i den utsträckning som framgår av 6-9 §§.
+
+*Lag (2026:96)*.
+
+#### 18 a §
+
+Vid utbetalningar av ersättning enligt denna lag ska en individuellt ordnad garanti tas i anspråk i första hand.
+
+*Lag (2026:96)*.
+
+### Tillsyn
+
+#### 19 §
+
+Den myndighet som regeringen bestämmer utövar tillsyn över att denna lag och föreskrifter som har meddelats i anslutning till lagen följs.
+
+#### 20 §
+
+Tillsynsmyndigheten har rätt att göra inspektion hos näringsidkaren och ta del av de handlingar som behövs för tillsynen. Näringsidkaren ska lämna de upplysningar om verksamheten som begärs för tillsynen.
+
+Om näringsidkaren inte tillhandahåller handlingarna eller lämnar upplysningarna, får tillsynsmyndigheten förelägga näringsidkaren att fullgöra sin skyldighet.
+
+Ett beslut om föreläggande får förenas med vite.
+
+#### 21 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Sådana uppgifter som anges i 11, 16 och 20 §§ ska lämnas av näringsidkaren på heder och samvete. *Lag (2026:96)*.
+
+#### 21 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Sådana uppgifter som anges i 11 och 20 §§ ska lämnas av näringsidkaren på heder och samvete. *Lag (2026:97)*.
+
+#### 22 §
+
+Om en näringsidkare som är skyldig att se till att resegaranti ordnas enligt denna lag inte gör det, får tillsynsmyndigheten förelägga denne att fullgöra sin skyldighet.
+
+Ett beslut om föreläggande får förenas med vite.
+
+#### 23 §
+
+Tillsynsmyndigheten får bestämma att beslut enligt 20 eller 22 § ska gälla omedelbart.
+
+### Sanktioner
+
+#### 24 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Om en näringsidkare, i strid med 4 eller 5 §, inte ser till att en paketresa eller ett sammanlänkat researrangemang omfattas av resegaranti enligt denna lag, ska en sanktionsavgift tas ut.
+
+En sanktionsavgift ska också tas ut av en näringsidkare som inte har underrättat myndigheten enligt 16 § om att de förutsättningar som legat till grund för beslutet att godkänna en individuellt ordnad garanti har ändrats.
+
+Sanktionsavgiften tillfaller staten. *Lag (2026:96)*.
+
+#### 24 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Om en näringsidkare, i strid med 4 eller 5 §, inte ser till att en paketresa eller ett sammanlänkat researrangemang omfattas av resegaranti enligt denna lag, ska en sanktionsavgift tas ut.
+
+Sanktionsavgiften tillfaller staten. *Lag (2026:97)*.
+
+#### 25 §
+
+Sanktionsavgiften ska bestämmas till lägst femtusen kronor och högst tio miljoner kronor.
+
+Avgiften får inte överstiga tio procent av näringsidkarens omsättning närmast föregående räkenskapsår. Om överträdelsen har skett under näringsidkarens första verksamhetsår, eller om uppgifter om omsättningen annars saknas eller är bristfälliga, får omsättningen uppskattas.
+
+När avgiftens storlek bestäms ska hänsyn tas till hur allvarlig överträdelsen är.
+
+#### 26 §
+
+Hel eller delvis befrielse från en sanktionsavgift ska beslutas om det är oskäligt att ta ut avgiften med fullt belopp. Vid denna bedömning ska det särskilt beaktas
+
+1. om överträdelsen har berott på sjukdom som medfört att den avgiftsskyldige inte kunnat göra det som ålegat honom eller henne och inte heller kunnat uppdra åt någon annan att göra det,
+
+2. om överträdelsen annars berott på en omständighet som den avgiftsskyldige varken förutsåg eller borde ha förutsett eller inte kunnat påverka, eller
+
+3. vad den avgiftsskyldige har gjort för att undvika överträdelsen.
+
+#### 27 §
+
+En sanktionsavgift får inte tas ut för en överträdelse som omfattas av ett föreläggande som har förenats med vite enligt denna lag om överträdelsen ligger till grund för en ansökan om utdömande av vitet.
+
+#### 28 §
+
+Tillsynsmyndigheten prövar frågor om sanktionsavgifter.
+
+En sanktionsavgift får inte beslutas senare än fem år från den tidpunkt då överträdelsen upphörde.
+
+#### 29 §
+
+Sanktionsavgiften ska betalas till tillsynsmyndigheten inom trettio dagar från det att beslutet fick laga kraft eller inom den längre tid som anges i beslutet.
+
+Om avgiften inte betalas inom den tid som anges i första stycket, ska tillsynsmyndigheten lämna den obetalda avgiften för indrivning. Bestämmelser om indrivning finns i lagen (1993:891) om indrivning av statliga fordringar m.m.
+
+Avgiften faller bort i den utsträckning som verkställighet inte har skett inom fem år från det att beslutet fick laga kraft.
+
+### Överklagande
+
+#### 30 §
+
+Beslut enligt denna lag får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+## Övergångsbestämmelser
+
+**2018:1218**
+
+1. Denna lag träder i kraft den 1 augusti 2018.
+
+2. Genom lagen upphävs resegarantilagen (1972:204).
+
+3. Den upphävda lagen gäller dock fortfarande för resor där reseavtalet har ingåtts före ikraftträdandet. Ärenden om ianspråktagande av säkerhet enligt 9 § och 15 § fjärde stycket i den lagen ska dock prövas av Kammarkollegiet. Det som föreskrivs i 15 § tredje stycket i den lagen om överklagande av sådana ärenden ska även gälla Kammarkollegiets beslut.
+
+**2026:96**
+
+1. Denna lag träder i kraft den 1 april 2026.
+
+2. Äldre bestämmelser gäller dock fortfarande för resor där avtalet om resan har ingåtts före ikraftträdandet.
+
+**2026:97**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer.
+
+2. Bestämmelserna i 24 § i den äldre lydelsen gäller dock fortfarande för överträdelser som har begåtts före ikraftträdandet.

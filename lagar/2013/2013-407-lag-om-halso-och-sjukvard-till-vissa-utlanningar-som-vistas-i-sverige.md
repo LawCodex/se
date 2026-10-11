@@ -1,0 +1,109 @@
+---
+title: "Lag (2013:407) om hälso- och sjukvård till vissa utlänningar som vistas i Sverige utan nödvändiga tillstånd"
+identifier: "SFS 2013:407"
+type: act
+jurisdiction: se
+language: sv
+date: 2013-05-30
+amended_through: "SFS 2026:1159"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-407.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:407"
+retrieved: 2026-10-11
+---
+# Lag (2013:407) om hälso- och sjukvård till vissa utlänningar som vistas i Sverige utan nödvändiga tillstånd
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna lag innehåller bestämmelser om skyldighet för regioner att, utöver vad som följer av hälso- och sjukvårdslagen (2017:30) och tandvårdslagen (1985:125), erbjuda hälso- och sjukvård samt tandvård till vissa utlänningar som vistas inom en region utan att vara bosatta där. *Lag (2019:958)*.
+
+### 2 §
+
+I lagen (2008:344) om hälso- och sjukvård åt asylsökande m.fl. finns bestämmelser om skyldighet för regioner att erbjuda hälso- och sjukvård samt tandvård åt bl.a. asylsökande, personer som beviljats uppehållstillstånd med tillfälligt skydd och personer som hålls i förvar.
+
+*Lag (2019:958)*.
+
+### 3 §
+
+De föreskrifter som gäller för sådan vård som ges med stöd av hälso- och sjukvårdslagen (2017:30) och tandvårdslagen (1985:125) ska tillämpas även för vård som ges enligt denna lag, om inte något annat föreskrivs.
+
+*Lag (2017:64)*.
+
+## Personkrets
+
+### 4 §
+
+En regions skyldigheter enligt denna lag gäller endast för utlänningar som vistas inom regionen.
+
+Med region avses i denna lag även en kommun som inte ingår i en region. *Lag (2019:958)*.
+
+### 5 §
+
+Denna lag omfattar utlänningar som vistas i Sverige utan stöd av myndighetsbeslut eller författning.
+
+Lagen omfattar dock inte utlänningar vars vistelse i Sverige är avsedd att vara tillfällig.
+
+## Vårdens omfattning
+
+### 6 §
+
+En region ska erbjuda sådana utlänningar som avses i 5 § och som inte har fyllt 18 år vård i samma omfattning som erbjuds dem som är bosatta inom regionen. *Lag (2019:958)*.
+
+### 7 §
+
+En region ska erbjuda sådana utlänningar som avses i 5 § och som har fyllt 18 år
+
+1. vård som inte kan anstå,
+
+2. mödrahälsovård,
+
+3. vård vid abort, och
+
+4. preventivmedelsrådgivning.
+
+*Lag (2019:958)*.
+
+### 8 §
+
+En region får erbjuda utlänningar som har fyllt 18 år och som omfattas av denna lag vård utöver vad som följer av 7 §.
+
+*Lag (2019:958)*.
+
+## Läkemedel och andra varor
+
+### 9 §
+
+En region ska erbjuda utlänningar som omfattas av denna lag sådana läkemedel som ingår i läkemedelsförmånerna enligt lagen (2002:160) om läkemedelsförmåner m.m. En region ska även erbjuda utlänningar som omfattas av denna lag och som inte har fyllt 18 år sådana varor som avses i 18 § lagen om läkemedelsförmåner m.m.
+
+Första stycket gäller endast de läkemedel och andra varor som förskrivs i samband med vård som ges med stöd av denna lag.
+
+*Lag (2019:958)*.
+
+## Hälsoundersökning
+
+### 10 §
+
+En region ska erbjuda utlänningar som omfattas av denna lag en hälsoundersökning, om det inte är uppenbart obehövligt.
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar närmare föreskrifter om sådana hälsoundersökningar.
+
+*Lag (2019:958)*.
+
+## Avgifter
+
+### 11 §
+
+Regeringen får meddela föreskrifter om vårdavgifter samt avgifter för läkemedel och andra varor enligt denna lag.
+
+*Lag (2016:524)*.
+
+## Hälsokontroll
+
+### 12 §
+
+Regionerna ansvarar för att utföra sådan hälsokontroll som avses i 17 kap. 5 § utlänningslagen (2005:716), i fråga om utlänningar som omfattas av denna lag.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om det närmare innehållet i hälsokontrollen. *Lag (2026:1159)*.

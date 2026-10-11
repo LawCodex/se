@@ -1,0 +1,341 @@
+---
+title: "Förordning (2015:218) om statsbidrag till folkbildningen"
+identifier: "SFS 2015:218"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2015-04-16
+amended_through: "SFS 2025:1464"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2015-218.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:218"
+retrieved: 2026-10-11
+---
+# Förordning (2015:218) om statsbidrag till folkbildningen
+
+> Rättelseblad 2017:275 har iakttagits.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag till folkbildningen.
+
+Syftet med statens stöd till folkbildningen är att
+
+1. stödja verksamhet som bidrar till att stärka och utveckla demokratin,
+
+2. bidra till att göra det möjligt för en ökad mångfald människor att påverka sin livssituation och skapa engagemang att delta i samhällsutvecklingen,
+
+3. bidra till att utjämna utbildningsklyftor och höja bildnings- och utbildningsnivån i samhället, och
+
+4. bidra till att bredda intresset för och öka delaktigheten i kulturlivet.
+
+Statsbidrag lämnas i den mån det finns tillgång på medel.
+
+#### 2 §
+
+Folkhögskolor och studieförbund bedriver utbildnings-, bildnings- och kulturverksamhet. Studerandeorganisationer inom folkhögskolan bevakar de studerandes intressen.
+
+#### 3 §
+
+Studieförbundet SISU Idrottsutbildarna bedriver utbildnings- och bild- ningsverksamhet.
+
+#### 4 §
+
+Folkbildningsrådet är en ideell organisation, där organisationer som företräder folkhögskolor och studieförbund är medlemmar. Enligt organisationens stadgar har Folkbildningsrådet i uppgift att sprida kunskap om folkbildningen och bevaka folkhögskolan som utbildningsform i utbildningssystemet. I dokument som antagits av organisationen ger Folkbildningsrådet anvisningar för folkhögskolornas studieomdömen och intyg. *Förordning (2017:275)*.
+
+### Förutsättningar för statsbidrag
+
+#### 5 §
+
+Statsbidrag enligt denna förordning får lämnas till folkhögskolor, studieförbund och studerandeorganisationer inom folkhögskolan.
+
+Folkbildningsrådet beslutar vilka som ska få statsbidrag och fördelar tillgängliga medel till folkhögskolor, till studieförbund och till studerandeorganisationer inom folkhögskolan.
+
+Folkbildningsrådet får besluta att en mottagare av bidrag inte längre ska få statsbidrag om mottagaren inte uppfyller villkoren för att få statsbidrag. *Förordning (2023:890)*.
+
+#### 6 §
+
+Statsbidrag enligt denna förordning får också lämnas till idrottens studie-, bildnings- och utbildningsverksamhet.
+
+Studieförbundet SISU Idrottsutbildarna beslutar vilka som ska få statsbidrag och fördelar tillgängliga medel mellan dem.
+
+#### 7 §
+
+För att statsbidrag ska lämnas för en verksamhet ska verksamheten ha den inriktning som anges i 1 §.
+
+Statsbidrag får inte användas till verksamheter med kommersiellt syfte eller för kostnader som inte har ett direkt samband med verksamhet som har den inriktning som anges i 1 §.
+
+Bidrag får inte användas för kostnader som något statligt bidrag redan har lämnats för. *Förordning (2025:1464)*.
+
+#### 7 a §
+
+Bidrag får inte lämnas till en mottagare som
+
+1. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål,
+
+2. är i likvidation, eller
+
+3. är försatt i konkurs.
+
+Bidrag får inte heller lämnas till en mottagare som har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna. *Förordning (2025:1464)*.
+
+#### 7 b §
+
+En ansökan om att få statsbidrag ska göras skriftligen av en behörig företrädare för organisationen.
+
+Den som ansöker om bidrag ska på begäran av Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna lämna de uppgifter och handlingar som organisationen behöver för att kunna pröva ansökan och för att statsbidrag ska kunna lämnas.
+
+*Förordning (2025:1464)*.
+
+#### 7 c §
+
+En mottagare av statsbidrag enligt denna förordning ska ha en intern styrning och kontroll som fungerar på ett betryggande sätt. *Förordning (2025:1464)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (2025:1464)*.
+
+### Demokrativillkor
+
+#### 8 a §
+
+Stöd får inte lämnas till en organisation om den eller någon av dess företrädare som agerar inom ramen för verksamheten
+
+1. utövar våld, tvång eller hot mot en person eller på annat sätt kränker en persons grundläggande fri- och rättigheter,
+
+2. diskriminerar personer eller grupper av personer eller på annat sätt bryter mot principen om alla människors lika värde,
+
+3. försvarar, främjar eller uppmanar till sådana ageranden som anges i 1 eller 2, eller
+
+4. motarbetar det demokratiska styrelseskicket.
+
+Stöd får inte heller lämnas till en organisation om det framkommer att någon av dess samarbetsorganisationer, eller en företrädare för samarbetsorganisationen, agerar på ett sådant sätt som anges i första stycket. *Förordning (2025:1464)*.
+
+#### 8 b §
+
+Om en organisation, dess företrädare, organisationens samarbetsorganisation eller samarbetsorganisationens företrädare har agerat på ett sådant sätt som anges i 8 a §, får stöd ändå lämnas till organisationen om det finns särskilda skäl. Vid denna bedömning ska det särskilt beaktas om
+
+1. organisationen har tagit avstånd från agerandet,
+
+2. organisationen har vidtagit adekvata åtgärder för att säkerställa att agerandet inte upprepas,
+
+3. det är fråga om ett enstaka agerande, och
+
+4. agerandet ligger långt tillbaka i tiden.
+
+Vid allvarliga överträdelser av en samarbetsorganisation, eller dess företrädare, ska det vid bedömningen även särskilt beaktas om samarbetet har avbrutits. *Förordning (2025:1464)*.
+
+### Särskilda villkor för statsbidrag till folkhögskolor
+
+#### 9 §
+
+En folkhögskola ska ha en ansvarig styrelse. Styrelsen får vara gemensam för flera folkhögskolor.
+
+Folkhögskolan ska ha en ordning för hantering av studeranderättsliga frågor. Folkhögskolan ska även ha en ordning för att ta tillvara de studerandes intressen i övrigt. *Förordning (2018:738)*.
+
+#### 10 §
+
+Undervisningen ska vara avgiftsfri för de studerande. *Förordning (2018:738)*.
+
+#### 11 §
+
+En folkhögskola ska anordna allmänna kurser främst avsedda för studerande som saknar grundskole- eller gymnasieutbildning. Allmänna kurser ska årligen utgöra minst 15 procent av folkhögskolans verksamhet.
+
+Folkhögskolan ska för allmän kurs
+
+1. ställa krav på resultat av lärande som motsvarar de krav som ställs på motsvarande utbildning inom grundskolan respektive gymnasieskolan,
+
+2. utfärda intyg om godkänt resultat från allmän kurs på grundskolenivå från folkhögskola till en studerande som efter genomförd allmän kurs på grundskolenivå bedöms kunna tillgodogöra sig studier på gymnasial nivå, och
+
+3. utfärda intyg om godkänt resultat från allmän kurs på gymnasial nivå från folkhögskola till en studerande, som efter genomförd allmän kurs på gymnasial nivå uppnår de krav som ställs för grundläggande behörighet till högskolestudier enligt högskoleförordningen (1993:100) eller yrkeshögskolestudier enligt förordningen (2009:130) om yrkeshögskolan.
+
+Till en plats på allmän kurs som finansieras med statsbidrag enligt denna förordning får folkhögskolan anta den som har fyllt 18 år eller ska fylla 18 år under det kalenderår kursen börjar. *Förordning (2018:738)*.
+
+#### 11 a §
+
+Folkhögskolan ska för utbildning med yrkesinriktning mot arbete som undersköterska
+
+1. ställa krav på resultat av lärande som motsvarar de krav som ställs på motsvarande utbildning inom gymnasieskolan eller kommunal vuxenutbildning, och
+
+2. utfärda intyg till den studerande där omfattningen och innehållet i utbildningen framgår och i vilka delar den studerande har uppnått kunskaper som motsvarar minst godkänd nivå i gymnasieskolan eller kommunal vuxenutbildning.
+
+*Förordning (2023:289)*.
+
+### Särskilda villkor för statsbidrag till studieförbund
+
+#### 12 §
+
+Ett studieförbund ska ha en ansvarig styrelse.
+
+Studiecirkelverksamhet med gemensamma, planmässigt bedrivna studier ska utgöra basen för verksamheten.
+
+I varje studiecirkel eller kulturaktivitet ska det finnas en ledare som är godkänd av en lokal studieförbundsavdelning.
+
+### Beslut om statsbidrag
+
+#### 13 §
+
+Beslut om statsbidrag ska innehålla uppgifter om bidragsbeloppet, de villkor som är förenade med bidraget och ordningen för utbetalning.
+
+### Hinder mot utbetalning
+
+#### 13 a §
+
+Folkbildningsrådet och Studieförbundet SISU Idrottsutbildarna får besluta att ett bidrag som rådet eller studieförbundet har beslutat fördela till en mottagare helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för att få statsbidrag eller om det finns grund för återbetalning enligt 16 §. Beslutet gäller omedelbart. *Förordning (2023:611)*.
+
+### Anmälningsskyldighet
+
+#### 13 b §
+
+Den som ansöker om eller har beviljats bidrag enligt denna förordning ska snarast möjligt till Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget. *Förordning (2025:1464)*.
+
+### Uppföljning och redovisning
+
+#### 14 §
+
+Folkbildningsrådet och Studieförbundet SISU Idrottsutbildarna ska varje år lämna årsredovisning och budgetunderlag till regeringen enligt de riktlinjer som regeringen meddelar.
+
+#### 15 §
+
+Folkbildningsrådet och Studieförbundet SISU Idrottsutbildarna ska kontinuerligt följa upp och utvärdera verksamheten i förhållande till de syften som anges i 1 § och de villkor som föreskrivits för att statsbidrag ska lämnas.
+
+Folkbildningsrådet och Studieförbundet SISU Idrottsutbildarna ska, i enlighet med de riktlinjer som regeringen meddelar, lämna regeringen sådana sakuppgifter om verksamheten och sådan verksamhetsredovisning som behövs för uppföljning och utvärdering.
+
+Folkbildningsrådet ska granska kvaliteten i utbildningen inom de allmänna kurserna och folkhögskolornas eget kvalitetsarbete när det gäller denna utbildning inklusive utfärdande av intyg. Kvalitetsgranskningen ska genomföras med utgångspunkt i en behovsanalys. *Förordning (2017:275)*.
+
+#### 15 a §
+
+Den som har tagit emot statsbidrag enligt denna förordning är skyldig att lämna sådan ekonomisk och annan redovisning till Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna som rådet respektive studieförbundet begär för uppföljning och utvärdering av verksamheten.
+
+En revisor ska granska den ekonomiska redovisningen. Även annan redovisning ska granskas av revisor om rådet eller studieförbundet begär det. Revisorn ska vara en auktoriserad eller godkänd revisor. Revisorns rapport över granskningen ska bifogas redovisningen. *Förordning (2023:611)*.
+
+#### 15 b §
+
+Den som har tagit emot statsbidrag enligt denna förordning ska senast den 31 januari varje år till Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna lämna en särskild redovisning för vilka medlemsorganisationer, underföreningar till medlemsorganisationer och övriga samverkansparter som under föregående verksamhetsår har deltagit i den statsbidragsfinansierade folkbildningsverksamheten.
+
+*Förordning (2025:1464)*.
+
+### Återkrav
+
+#### 16 §
+
+Den som har tagit emot statsbidrag enligt denna förordning är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på annat sätt har förorsakat att statsbidraget har lämnats felaktigt eller med för högt belopp,
+
+2. statsbidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. statsbidraget inte används för de ändamål det har beviljats för,
+
+4. mottagaren inte lämnar sådan redovisning som avses i 15 a och 15 b §§,
+
+5. villkor i beslutet om statsbidrag inte har följts, eller
+
+6. mottagaren inte uppfyller villkoren i 8 a § och det inte finns sådana särskilda skäl enligt 8 b § som innebär att bidrag ändå får lämnas. *Förordning (2025:1464)*.
+
+#### 16 a §
+
+Om en mottagare av statsbidrag är återbetalningsskyldig enligt 16 §, ska Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna besluta att helt eller delvis kräva tillbaka bidraget.
+
+Om det finns särskilda skäl för det, får Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna besluta att helt eller delvis avstå från återkrav. *Förordning (2023:611)*.
+
+#### 16 b §
+
+På statsbidrag som krävs tillbaka ska ränta tas ut från och med den trettionde dagen efter den dag då beslutet om återkrav fattades och efter en räntesats som vid varje tidpunkt överstiger statens utlåningsränta med två procentenheter. Om det finns synnerliga skäl för det, får Folkbildningsrådet respektive Studieförbundet SISU Idrottsutbildarna besluta att helt eller delvis avstå från krav på ränta. *Förordning (2025:1464)*.
+
+### Revision
+
+#### 17 §
+
+Staten ska ges möjlighet att utse en revisor i Folkbildningsrådet och Studieförbundet SISU Idrottsutbildarna. Folkbildningsrådet och Studieförbundet SISU Idrottsutbildarna ska ersätta staten för kostnaderna för denna revision.
+
+### Behandling av känsliga personuppgifter
+
+#### 17 a §
+
+Bestämmelsen i 17 d § tillämpas vid behandling av personuppgifter hos studieförbund i den verksamhet som statsbidrag enligt denna förordning har beviljats för.
+
+*Förordning (2020:737)*.
+
+#### 17 b §
+
+Bestämmelsen i 17 d § kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskyddsförordning.
+
+Termer och uttryck i 17 d § har samma betydelse som i EU:s dataskyddsförordning *Förordning (2020:737)*.
+
+#### 17 c §
+
+Bestämmelser om behandling av personuppgifter finns även i lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och i föreskrifter som har meddelats i anslutning till den lagen. *Förordning (2020:737)*.
+
+#### 17 d §
+
+Sådana personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning (känsliga personuppgifter) som avslöjar etniskt ursprung eller som rör hälsa får med stöd av artikel 9.2 g i samma förordning behandlas av ett studieförbund.
+
+1. om behandlingen är nödvändig för en hantering som motsvarar handläggning av ett ärende hos en myndighet, eller
+
+2. i annat fall, om behandlingen är nödvändig i verksamheten och inte innebär ett otillbörligt intrång i den registrerades personliga integritet.
+
+Vid behandling som sker med stöd av första stycket är det förbjudet att utföra sökningar i syfte att få fram ett urval av personer grundat på känsliga personuppgifter.
+
+*Förordning (2020:737)*.
+
+### Förvaltningslagens tillämplighet
+
+#### 18 §
+
+Vid handläggningen av ärenden enligt denna förordning tillämpas följande bestämmelser i förvaltningslagen (2017:900):
+
+- 5 § om legalitet, objektivitet och proportionalitet,
+
+- 10 § om partsinsyn,
+
+- 16-18 §§ om jäv,
+
+- 23 § om utredningsansvaret,
+
+- 24 § om när man får lämna uppgifter muntligt,
+
+- 25 § om kommunikation,
+
+- 31 § om dokumentation av beslut,
+
+- 32 § om motivering av beslut, och
+
+- 33 och 34 §§ om underrättelse om innehållet i beslut och hur ett överklagande går till. *Förordning (2018:884)*.
+
+#### 19 §
+
+Har upphävts genom *förordning (2023:611)*.
+
+## Övergångsbestämmelser
+
+**2015:218**
+
+1. Denna förordning träder i kraft den 15 maj 2015.
+
+2. Förordningen tillämpas första gången för bidrag för 2016.
+
+3. Genom förordningen upphävs förordningen (1991:977) om statsbidrag till folkbildningen.
+
+**2017:275**
+
+1. Denna förordning träder i kraft den 1 juli 2017.
+
+2. Bestämmelserna i den nya lydelsen tillämpas första gången på intyg från utbildning som påbörjas efter den 30 juni 2017.
+
+**2023:611**
+
+1. Denna förordning träder i kraft den 1 december 2023.
+
+2. Förordningen tillämpas första gången i fråga om bidrag för 2024.
+
+**2025:1464**
+
+1. Denna förordning träder i kraft den 13 januari 2026.
+
+2. Den årliga redovisningen i 15 b § ska göras första gången 2027.
+
+3. Äldre föreskrifter gäller fortfarande för bidrag som avser tid före ikraftträdandet.

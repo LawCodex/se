@@ -1,0 +1,211 @@
+---
+title: "Lag (2006:546) om utrymning och inkvartering m.m. under höjd beredskap"
+identifier: "SFS 2006:546"
+type: act
+jurisdiction: se
+language: sv
+date: 2006-06-01
+amended_through: "SFS 2026:1006"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-546.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:546"
+retrieved: 2026-10-11
+---
+# Lag (2006:546) om utrymning och inkvartering m.m. under höjd beredskap
+
+## 1 kap. Inledande bestämmelser
+
+#### 1 §
+
+I denna lag finns bestämmelser om utrymning och inkvartering under höjd beredskap.
+
+#### 2 §
+
+Bestämmelserna i 2 och 3 kap. ska tillämpas endast under höjd beredskap. *Lag (2026:441)*.
+
+## 1 a kap. Förberedelser
+
+### Planering
+
+#### 1 §
+
+När ett beslut har meddelats om att ett område inom ett län ska planläggas för utrymning eller inkvartering, ska länsstyrelsen ta fram en inriktning för planering i fråga om utrymning eller inkvartering vid höjd beredskap för länet.
+
+Inriktningen enligt första stycket ska dokumenteras och ses över regelbundet, dock minst vart femte år, och ändras när det behövs på grund av väsentligt förändrade förhållanden.
+
+Dokumentation som tas fram enligt andra stycket ska lämnas till den länsstyrelse som är civilområdesansvarig och, på begäran, till Myndigheten för civilt försvar. *Lag (2026:441)*.
+
+#### 2 §
+
+Kommunen ska planera för utrymning eller inkvartering vid höjd beredskap på grundval av den inriktning som har tagits fram av en länsstyrelse enligt 1 §.
+
+Planeringen enligt första stycket ska dokumenteras och ses över regelbundet, dock minst vart femte år, och ändras när det behövs på grund av väsentligt förändrade förhållanden.
+
+Dokumentation som tas fram enligt andra stycket ska lämnas till den länsstyrelse som har tagit fram inriktningen.
+
+*Lag (2026:441)*.
+
+#### 3 §
+
+Regionerna ska medverka i arbetet med planering för utrymning och inkvartering vid höjd beredskap enligt 1 och 2 §§. *Lag (2026:441)*.
+
+#### 4 §
+
+Länsstyrelsen och kommunen ska ge Försvarsmakten och andra statliga myndigheter som särskilt berörs av planeringen enligt 1 och 2 §§ tillfälle att yttra sig när sådan planering tas fram eller ändras i väsentliga delar. *Lag (2026:441)*.
+
+### Information
+
+#### 5 §
+
+Kommunen ska informera sina invånare om innehållet i planeringen enligt 2 § på det sätt som kommunen bedömer är lämpligt. *Lag (2026:441)*.
+
+### Övning
+
+#### 6 §
+
+Länsstyrelsen och kommunen ska genomföra övningar av den planering som har tagits fram enligt 2 §. *Lag (2026:441)*.
+
+### Ersättning
+
+#### 7 §
+
+Kommunerna och regionerna ska få ersättning av staten för kostnader för förberedande uppgifter som de utför enligt denna lag.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om ersättningens storlek. *Lag (2026:441)*.
+
+## 2 kap. Utrymning m.m.
+
+### Utrymning
+
+#### 1 §
+
+Regeringen eller den myndighet som regeringen bestämmer får besluta att de som uppehåller sig inom ett område ska utrymma detta om
+
+1. området har blivit eller kan antas bli utsatt för stridshandlingar och utrymningen är nödvändig för att skydda befolkningen, eller
+
+2. det i området behöver vidtas militära åtgärder av väsentlig betydelse och åtgärderna allvarligt försvåras om inte utrymning sker. *Lag (2026:441)*.
+
+#### 2 §
+
+Regeringen eller den myndighet som regeringen bestämmer får besluta
+
+1. att de som omfattas av ett utrymningsbeslut ska vistas på en viss plats, och
+
+2. vilka villkor som ska gälla för vistelsen.
+
+Beslutet får inte utformas så att det inskränker den enskildes frihet mer än vad som är nödvändigt med hänsyn till syftet med utrymningen och förhållandena på vistelseplatsen.
+
+*Lag (2026:441)*.
+
+#### 3 §
+
+Kommunen ska ansvara för verkställigheten av ett beslut om utrymning enligt 1 och 2 §§.
+
+Polismyndigheten ska i nödvändig utsträckning delta i verkställigheten. *Lag (2026:441)*.
+
+#### 4 §
+
+Kommuners och regioners skyldighet att ta hand om dem som omfattas av ett utrymningsbeslut och utlänningar som söker skydd i Sverige regleras i socialtjänstlagen (2025:400), hälso- och sjukvårdslagen (2017:30) och mottagandelagen (2026:999). *Lag (2026:1006)*.
+
+#### 5 §
+
+Kommuner och regioner som befolkningen lämnar på grund av utrymning är skyldiga att i skälig omfattning lämna hjälp till de kommuner och regioner som i större omfattning får ta emot befolkningen.
+
+Vad som sägs i första stycket gäller inte om annat följer av 16 a kap. hälso- och sjukvårdslagen (2017:30).
+
+*Förordning (2025:1397)*.
+
+### Utflyttningsförbud
+
+#### 6 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela förbud för dem som uppehåller sig inom ett visst område att lämna detta om förflyttningen eller vistelsen utanför området allvarligt skulle försvåra åtgärder av väsentlig betydelse för totalförsvaret, eller vara förenad med uppenbar livsfara.
+
+### Inflyttningsförbud
+
+#### 7 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela förbud för dem som inte är bosatta inom ett visst område att annat än tillfälligt uppehålla sig inom området, om en inflyttning allvarligt skulle försvåra åtgärder av väsentlig betydelse för totalförsvaret.
+
+## 3 kap. Inkvartering
+
+### Skyldighet att upplåta inkvarteringsbostad
+
+#### 1 §
+
+En kommun får förelägga innehavaren av en byggnad eller bostadslägenhet (inkvarteringsvärd) att upplåta bostad och utrustning åt den som behöver en bostad (inkvarteringsbostad) på grund av beslut om utrymning eller på grund av att denne till följd av krigshändelser tvingats lämna sin ordinarie bostad.
+
+Ett sådant föreläggande får meddelas endast om behovet av bostad inte kan tillgodoses på annat lämpligt sätt. Beslutet får inte medföra större olägenhet för inkvarteringsvärden än vad som är nödvändigt och får inte avse utrymmen som behövs för inkvarteringsvärden och hans eller hennes familj eller någon dem närstående.
+
+#### 2 §
+
+Om inkvarteringsvärden inte följer föreläggandet enligt 1 §, får kommunen hos Polismyndigheten begära den hjälp som behövs för att den som ska inkvarteras ska få tillträde till inkvarteringsbostaden. *Lag (2014:690)*.
+
+### Ersättning
+
+#### 3 §
+
+Inkvarteringsvärden har rätt till skälig ersättning av kommunen för inkvarteringsbostaden.
+
+#### 4 §
+
+Om bostaden eller dess utrustning skadas när bostaden används som inkvarteringsbostad, är den skadelidande berättigad till ersättning av kommunen. Är skadan ringa, betalas dock ingen ersättning.
+
+#### 5 §
+
+Ersättningen enligt 3 och 4 §§ prövas på det sätt som anges i förfogandelagen (1978:262).
+
+Om taxa enligt 33 § förfogandelagen har fastställts, beslutar kommunen ersättningen. I annat fall beslutas ersättningen av den lokala värderingsnämnden.
+
+#### 6 §
+
+Den som har disponerat en inkvarteringsbostad enligt 1 § ska till kommunen betala tillbaka vad kommunen betalat till inkvarteringsvärden enligt 3 och 4 §§.
+
+Om det med hänsyn till den inkvarterades ekonomiska förhållanden eller annars är oskäligt, ska kommunen helt eller delvis befria den inkvarterade från återbetalningsskyldigheten. *Lag (2026:441)*.
+
+## 4 kap. Skyldighet att förmedla meddelanden m.m.
+
+#### 1 §
+
+Ägaren eller nyttjanderättshavaren till en byggnad eller annan anläggning eller den som i fråga om förvaltning och skötsel företräder honom eller henne är skyldig att förmedla myndigheternas beslut och meddelanden i frågor som rör verksamhet enligt denna lag till dem som bor eller bedriver verksamhet i byggnaden eller anläggningen.
+
+Samma skyldighet gäller också för arbetsgivare i fråga om de anställda.
+
+#### 2 §
+
+Var och en är skyldig att på fråga av en statlig eller kommunal myndighet ange om han eller hon har egendom som kan behöva tas i anspråk för verksamhet enligt denna lag.
+
+## 5 kap. Straff
+
+#### 1 §
+
+Den som uppsåtligen eller av oaktsamhet som inte är ringa underlåter att fullgöra sina skyldigheter enligt 4 kap. 1 och 2 §§, eller vid fullgörandet lämnar oriktiga uppgifter, döms till böter eller fängelse i högst ett år. Detsamma gäller den som inte följer ett föreläggande eller förbud som meddelats med stöd av denna lag.
+
+Har en gärning enligt första stycket begåtts under höjd beredskap och medfört avsevärt men för totalförsvaret eller är den av någon annan anledning att anse som grov, döms till fängelse i lägst sex månader och högst fyra år.
+
+## 6 kap. Överklagande m.m.
+
+#### 1 §
+
+Beslut enligt 3 kap. 1 och 6 §§ får överklagas hos allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+#### 2 §
+
+Beslut enligt 2 kap. 1, 2, 6 och 7 §§ får inte överklagas.
+
+#### 3 §
+
+Beslut av en kommun enligt 3 kap. 5 § andra stycket får överklagas till den lokala värderingsnämnden.
+
+Värderingsnämndens beslut i ett sådant ärende får inte överklagas.
+
+Den lokala värderingsnämndens beslut i andra fall enligt 3 kap. 5 § andra stycket överklagas hos Riksvärderingsnämnden.
+
+Riksvärderingsnämndens beslut får inte överklagas.
+
+#### 4 §
+
+Beslut enligt 2 eller 3 kap. som meddelas under höjd beredskap ska gälla omedelbart om inte något annat bestäms i beslutet. *Lag (2026:441)*.

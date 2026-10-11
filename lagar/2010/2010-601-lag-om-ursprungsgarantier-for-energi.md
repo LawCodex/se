@@ -1,0 +1,203 @@
+---
+title: "Lag (2010:601) om ursprungsgarantier för energi"
+identifier: "SFS 2010:601"
+type: act
+jurisdiction: se
+language: sv
+date: 2010-06-10
+amended_through: "SFS 2025:1259"
+department: "Klimat- och näringslivsdepartementet RSE"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-601.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:601"
+retrieved: 2026-10-11
+---
+# Lag (2010:601) om ursprungsgarantier för energi
+
+### Lagens innehåll
+
+#### 1 §
+
+I denna lag finns bestämmelser om utfärdande, överföring och annullering av ursprungsgarantier för el, gas, kyla eller värme. *Lag (2022:578)*.
+
+### Definition av ursprungsgaranti
+
+#### 2 §
+
+Med ursprungsgaranti avses i denna lag det elektroniska dokument som tagits fram enligt lagen och vars syfte är att garantera ursprunget på den el, gas, kyla eller värme som har producerats. *Lag (2022:578)*.
+
+### Prövning och tillsyn
+
+#### 2 a §
+
+Den myndighet som regeringen bestämmer (tillsynsmyndigheten) prövar frågor om ursprungsgarantier och utövar tillsyn över att denna lag och föreskrifter som har meddelats i anslutning till lagen följs. *Lag (2017:327)*.
+
+### Förutsättningar för utfärdande av ursprungsgarantier
+
+#### 3 §
+
+Ursprungsgarantier får utfärdas endast för sådan el, gas, kyla eller värme som har
+
+1. mätts och rapporterats till tillsynsmyndigheten enligt föreskrifter som har meddelats med stöd av 20 § andra stycket 2, och
+
+2. producerats i en anläggning med en viss lägsta effekt i de fall sådana föreskrifter har meddelats med stöd av 20 § andra stycket 3. *Lag (2022:578)*.
+
+#### 4 §
+
+Endast en ursprungsgaranti får utfärdas per energienhet.
+
+En energienhet ska omfatta en megawattimme el, gas, kyla eller värme. *Lag (2022:578)*.
+
+#### 5 §
+
+Har upphävts genom *lag (2022:578)*.
+
+### Annullering av ursprungsgarantier
+
+#### 6 §
+
+En ursprungsgaranti ska annulleras vid den tidpunkt och av den aktör som framgår av föreskrifter som har meddelats med stöd av 20 § andra stycket 1. *Lag (2022:578)*.
+
+### Register över ursprungsgarantier
+
+#### 7 §
+
+Tillsynsmyndigheten ska föra ett elektroniskt register över ursprungsgarantier. *Lag (2017:327)*.
+
+### Elektronisk hantering
+
+#### 8 §
+
+Ursprungsgarantier ska utfärdas, överföras och annulleras elektroniskt.
+
+### Utfärdande av ursprungsgarantier
+
+#### 9 §
+
+Frågor om utfärdande av ursprungsgarantier prövas av tillsynsmyndigheten efter skriftlig ansökan från producenten.
+
+*Lag (2022:578)*.
+
+#### 10 §
+
+Har upphävts genom *lag (2017:327)*.
+
+#### 11 §
+
+Har upphävts genom *lag (2017:327)*.
+
+### Överföring av ursprungsgarantier
+
+#### 12 §
+
+Om den som är antecknad som innehavare av en ursprungsgaranti i registret över sådana garantier skriftligen begär det, ska tillsynsmyndigheten registrera en överföring av en ursprungsgaranti till en annan innehavare.
+
+*Lag (2017:327)*.
+
+### Ursprungsgarantier från andra medlemsstater i Europeiska unionen eller från ett tredjeland
+
+#### 13 §
+
+En ursprungsgaranti från ett tredjeland ska erkännas, om
+
+1. Europeiska unionen har ingått ett avtal med tredjelandet om ömsesidigt erkännande av ursprungsgarantier,
+
+2. det finns kompatibla system för ursprungsgarantier inrättade i tredjelandet, och
+
+3. det förekommer direkt import eller direkt export av energi mellan Europeiska unionen och tredjelandet. *Lag (2022:578)*.
+
+#### 14 §
+
+En ursprungsgaranti från en annan medlemsstat i Europeiska unionen ska erkännas, om det inte finns skäl att tvivla på dess riktighet.
+
+Om en ursprungsgaranti inte erkänns, ska tillsynsmyndigheten
+
+1. se till att den inte kan användas för det syfte som anges i 2 §, och
+
+2. i de fall ursprungsgarantin avser högeffektiv kraftvärmeel eller sådan el, gas, kyla eller värme som är förnybar underrätta Europeiska kommissionen och ange varför garantin inte kan erkännas. *Lag (2022:578)*.
+
+### Rättelse
+
+#### 15 §
+
+En uppgift i det elektroniska registret över ursprungsgarantier ska rättas om den är uppenbart oriktig till följd av någons skrivfel, räknefel eller liknande förbiseende eller till följd av något tekniskt fel. Den som är antecknad som innehavare i registret ska ges tillfälle att yttra sig innan uppgiften rättas, om det inte är uppenbart obehövligt. *Lag (2017:327)*.
+
+### Tillsyn
+
+#### 16 §
+
+Tillsynsmyndigheten har rätt att på begäran få de upplysningar och ta del av de handlingar som behövs för tillsynen.
+
+Tillsynsmyndigheten har även rätt att på begäran få tillträde till produktionsanläggningar samt lokaler och områden som hör till sådana anläggningar i den utsträckning det behövs för tillsynen. Denna rätt omfattar inte bostäder.
+
+Tillsynsmyndigheten får meddela de förelägganden som behövs för att denna lag och de föreskrifter som har meddelats i anslutning till lagen ska följas. Sådana förelägganden får förenas med vite. *Lag (2022:578)*.
+
+### Återkallelse
+
+#### 17 §
+
+Tillsynsmyndigheten ska återkalla ett beslut om utfärdande av ursprungsgarantier
+
+1. om beslutet har fattats på grund av oriktiga eller vilseledande uppgifter och dessa har haft betydelse för rätten att tilldelas ursprungsgarantier,
+
+2. om förutsättningarna enligt denna lag eller föreskrifter som har meddelats i anslutning till lagen inte uppfylls,
+
+3. om producenten inte lämnar de upplysningar, de handlingar eller det tillträde till produktionsanläggningen som behövs för att tillsynsmyndigheten ska kunna utöva tillsyn, eller
+
+4. om producenten begär det.
+
+Ett beslut om återkallelse ska gälla omedelbart. *Lag (2022:578)*.
+
+### Skadestånd
+
+#### 18 §
+
+Den som lider skada på grund av ett tekniskt fel i registret över ursprungsgarantier har rätt till ersättning av staten.
+
+Ersättningen ska sättas ned med skäligt belopp eller helt falla bort, om den skadelidande har medverkat till skadan genom att utan skälig anledning ha låtit bli att vidta åtgärder för att bevara sin rätt eller om den skadelidande på något annat sätt har medverkat till skadan genom eget vållande.
+
+### Bemyndiganden
+
+#### 19 §
+
+Regeringen får meddela föreskrifter om
+
+1. konton för ursprungsgarantier, och
+
+2. avgifter för hantering av ursprungsgarantier enligt denna lag och enligt föreskrifter som har meddelats med stöd av lagen. *Lag (2022:578)*.
+
+#### 20 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om vilka uppgifter som en ursprungsgaranti ska innehålla.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela ytterligare föreskrifter om
+
+1. utfärdande, överföring och annullering av ursprungsgarantier,
+
+2. mätning och rapportering, och
+
+3. den lägsta effekt som en anläggning ska ha för att ursprungsgarantier ska få utfärdas. *Lag (2022:578)*.
+
+### Överklagande
+
+#### 21 §
+
+Beslut om utfärdande av ursprungsgarantier enligt 9 §, rättelse enligt 15 §, föreläggande som förenas med vite enligt 16 § tredje stycket eller återkallelse enligt 17 § får överklagas till allmän förvaltningsdomstol. Andra beslut enligt denna lag får inte överklagas.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+*Lag (2022:578)*.
+
+## Övergångsbestämmelser
+
+**2010:601**
+
+1. Denna lag träder i kraft den 1 december 2010, då lagen (2006:329) om ursprungsgarantier för högeffektiv kraftvärmeel och förnybar el ska upphöra att gälla.
+
+2. Den upphävda lagen gäller fortfarande för ursprungsgarantier som har utfärdats före den 1 december 2010.
+
+**2022:578**
+
+1. Denna lag träder i kraft den 1 juli 2022 i fråga om 13 § och i övrigt den 1 januari 2026.
+
+2. Äldre föreskrifter gäller fortfarande för ursprungsgarantier som har utfärdats för el som har producerats före den 1 juli 2022.

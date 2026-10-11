@@ -1,0 +1,55 @@
+---
+title: "Förordning (2007:630) om tävling med hästdjur"
+identifier: "SFS 2007:630"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-06-20
+amended_through: "SFS 2011:1493"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-630.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:630"
+retrieved: 2026-10-11
+---
+# Förordning (2007:630) om tävling med hästdjur
+
+## Godkännande och återkallelse av godkännande
+
+### 1 §
+
+Statens jordbruksverk beslutar om godkännande och återkallande av godkännande enligt 5 § andra och tredje styckena lagen (2007:629) om tävling med hästdjur.
+
+## Informationsskyldighet
+
+### 1 a §
+
+Jordbruksverket får meddela föreskrifter om skyldighet för en organisation som anordnar en hästtävling att lämna information till verket om sådana tävlingar eller evenemang som avses i 4 § första stycket lagen (2007:629) om tävling med hästdjur. *Förordning (2011:1493)*.
+
+### 2 §
+
+En organisation som godkänts enligt 5 § andra stycket lagen (2007:629) om tävling med hästdjur är skyldig att lämna information till Jordbruksverket i fråga om villkoren för fördelning av avsatta medel från prissumman eller annan vinst vid en hästtävling.
+
+## Tillsyn
+
+### 3 §
+
+Jordbruksverket utövar tillsynen över efterlevnaden av lagen (2007:629) om tävling med hästdjur.
+
+## Avgifter
+
+### 4 §
+
+Jordbruksverket får meddela föreskrifter om att avgifter får tas ut i ärenden enligt 5 § andra stycket lagen (2007:629) om tävling med hästdjur.
+
+## Verkställighetsföreskrifter
+
+### 5 §
+
+Jordbruksverket meddelar närmare föreskrifter om tillämpningen av bestämmelserna i 5 § lagen (2007:629) om tävling med hästdjur.
+
+## Överklagande
+
+### 6 §
+
+Bestämmelser om överklagande finns i 11 § lagen (2007:629) om tävling med hästdjur.

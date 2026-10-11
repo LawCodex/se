@@ -1,0 +1,569 @@
+---
+title: "Förordning (2016:937) om statsbidrag för regional yrkesinriktad vuxenutbildning"
+identifier: "SFS 2016:937"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-10-27
+amended_through: "SFS 2026:1271"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-937.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:937"
+retrieved: 2026-10-11
+---
+# Förordning (2016:937) om statsbidrag för regional yrkesinriktad vuxenutbildning
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag för yrkesinriktad utbildning inom kommunal vuxenutbildning på gymnasial nivå och kommunal vuxenutbildning som anpassad utbildning på gymnasial nivå som planeras, dimensioneras och erbjuds i samverkan mellan flera kommuner under medverkan av arbetslivet i de samverkande kommunerna och som syftar till att leda till kompetenser som efterfrågas på arbetsmarknaden (regionalt yrkesvux).
+
+Förordningen innehåller också bestämmelser om statsbidrag för utbildning i ämnena svenska, svenska som andraspråk, engelska, matematik, matematik - fortsättning, matematik - fördjupning, matematik - specialisering B, matematik - specialisering C och samhällskunskap inom kommunal vuxenutbildning på gymnasial nivå, i de fall utbildningen kombineras med regionalt yrkesvux. Förordningen innehåller dessutom bestämmelser om statsbidrag för orienteringskurser och lärlingsutbildning i regionalt yrkesvux.
+
+Förordningen är meddelad med stöd av 8 kap. 11 § regeringsformen i fråga om 40 § och 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser. *Förordning (2025:892)*.
+
+#### 1 a §
+
+Det som sägs om samverkande kommuner i denna förordning gäller även för kommuner som omfattas av undantag från krav på samverkan enligt 2 kap. 2 a och 2 b §§ skollagen (2010:800).
+
+*Förordning (2022:1404)*.
+
+#### 1 b §
+
+I 2 kap. 2 a och 2 b §§ och 20 kap. 16 a § skollagen (2010:800) finns bestämmelser om att kommuner ska samverka om yrkesämnen och sammanhållna yrkesutbildningar i kommunal vuxenutbildning på gymnasial nivå. I 23 kap. 21-23 §§ i samma lag finns bestämmelser om samverkan om kommunal vuxenutbildning som anpassad utbildning på gymnasial nivå.
+
+*Förordning (2022:1404)*.
+
+#### 2 §
+
+Statsbidrag lämnas i den mån det finns tillgång på medel.
+
+Statsbidrag lämnas med i 24-31 a §§ angivna belopp per årsstudieplats för den period som bidraget lämnas för. Bidraget lämnas för ett kalenderår åt gången. Omfattningen av en årsstudieplats framgår av 2 kap. 2 § förordningen (2011:1108) om vuxenutbildning.
+
+Statsbidrag lämnas i form av grundbidrag och tilläggsbidrag. Av 20 § framgår att de samverkande kommunerna ska finansiera ett antal årsstudieplatser utöver de årsstudieplatser som grundbidraget finansierar, men att det inte finns något medfinansieringskrav för tilläggsbidraget.
+
+*Förordning (2026:1271)*.
+
+### Förutsättningar för statsbidrag
+
+#### 3 §
+
+Statsbidrag får lämnas till samverkande kommuner för regionalt yrkesvux, utbildning i form av orienteringskurser och utbildning i ämnena svenska, svenska som andraspråk, engelska, matematik, matematik - fortsättning, matematik - fördjupning, matematik - specialisering B, matematik - specialisering C eller samhällskunskap inom kommunal vuxenutbildning på gymnasial nivå om villkoren i 4-9 och 17-23 §§ är uppfyllda. Om det är fråga om lärlingsutbildning ska även villkoren i 11-16 §§ vara uppfyllda.
+
+Bidrag får lämnas även för utbildning som innefattar validering. *Förordning (2024:1042)*.
+
+### Utbildningar i regionalt yrkesvux
+
+### Sammanhållna yrkesutbildningar
+
+#### 4 §
+
+I regionalt yrkesvux ska de samverkande kommunerna erbjuda sammanhållna yrkesutbildningar enligt 20 kap. 6 a § skollagen (2010:800). *Förordning (2022:1404)*.
+
+#### 5 §
+
+Det arbetsplatsförlagda lärandet i sammanhållna yrkesutbildningar som erbjuds i regionalt yrkesvux ska uppfylla de krav som anges i 2 kap. 26-30 §§ förordningen (2011:1108) om vuxenutbildning. *Förordning (2022:1404)*.
+
+### Enstaka nivåer i ämnen
+
+#### 6 §
+
+De samverkande kommunerna ska i regionalt yrkesvux erbjuda utbildning i form av enstaka nivåer i ämnen som är relevanta för ett yrkesområde utifrån elevernas behov.
+
+*Förordning (2024:1042)*.
+
+### Andra nivåer i ämnen och andra kurser
+
+#### 7 §
+
+Yrkesutbildning i regionalt yrkesvux ska organiseras så att eleverna vid behov kan kombinera utbildningen med annan utbildning inom kommunal vuxenutbildning.
+
+De samverkande kommunerna ska erbjuda elever som har behov av det möjlighet att kombinera utbildning i svenska som andraspråk på grundläggande nivå och utbildning i svenska för invandrare med yrkesutbildning i regionalt yrkesvux.
+
+*Förordning (2024:665)*.
+
+### Modersmålsstöd och studiehandledning på modersmålet
+
+#### 8 §
+
+Orienteringskurser som syftar till att ge modersmålsstöd eller studiehandledning på modersmål ska erbjudas elever som behöver det.
+
+### Beslut om betyg och betygssättning
+
+#### 9 §
+
+Beslut om betyg inom regionalt yrkesvux ska fattas och betygssättning ska göras enligt bestämmelserna i 3 kap. 16 § och 20 kap. 35-39 §§ skollagen (2010:800) samt 4 kap. 1-10 §§ förordningen (2011:1108) om vuxenutbildning.
+
+*Förordning (2022:1404)*.
+
+#### 10 §
+
+Har upphävts genom *förordning (2021:101)*.
+
+### Särskilda förutsättningar för lärlingsutbildning
+
+### Syfte och omfattning
+
+#### 11 §
+
+Sammanhållna yrkesutbildningar kan i regionalt yrkesvux ges i form av lärlingsutbildning. Lärlingsutbildning inom regionalt yrkesvux ska syfta till att ge eleverna en grundläggande yrkesutbildning, ökad arbetslivserfarenhet och en möjlighet att under en handledares ledning på en arbetsplats få kunskaper inom ett yrkesområde.
+
+En lärlingsutbildning inom kommunal vuxenutbildning på gymnasial nivå ska
+
+1. omfatta minst 400 och högst 1 600 gymnasiepoäng i ämnen som är relevanta för ett yrkesområde, och
+
+2. till minst 70 procent genomföras som arbetsplatsförlagt lärande.
+
+En lärlingsutbildning inom kommunal vuxenutbildning som anpassad utbildning på gymnasial nivå ska
+
+1. omfatta minst 400 och högst 1 600 gymnasiepoäng i anpassad gymnasieskola i ämnen som är relevanta för ett yrkesområde, och
+
+2. till övervägande del genomföras som arbetsplatsförlagt lärande. *Förordning (2022:1404)*.
+
+### Åtaganden
+
+#### 12 §
+
+Vid lärlingsutbildning inom regionalt yrkesvux ska de samverkande kommunerna se till att genom avtal med berörda arbetsplatser reglera kommunernas och arbetsplatsernas åtaganden i samband med det arbetsplatsförlagda lärandet.
+
+### Utbildningskontrakt
+
+#### 13 §
+
+Rektorn ska se till att det för varje elev som genomgår en lärlingsutbildning inom regionalt yrkesvux upprättas ett skriftligt avtal som undertecknas av den kommun som är huvudman för utbildningen, av eleven och av företrädare för den eller de arbetsplatser dit någon del av utbildningen förläggs (utbildningskontrakt). I utbildningskontraktet ska det anges
+
+1. vilka delar av utbildningen som ska genomföras på arbetsplatsen och omfattningen av dessa, och
+
+2. vilken lärare i utbildningen och vilken handledare på arbetsplatsen som ansvarar för den arbetsplatsförlagda delen av utbildningen.
+
+### Uppgifter i en individuell studieplan
+
+#### 14 §
+
+Uppgift om att en elev genomgår lärlingsutbildning inom regionalt yrkesvux ska antecknas i elevens individuella studieplan.
+
+### Uppgift i ett examensbevis eller komvuxbevis
+
+#### 15 §
+
+I en elevs examensbevis från kommunal vuxenutbildning på gymnasial nivå eller komvuxbevis från kommunal vuxenutbildning som anpassad utbildning på gymnasial nivå ska det anges om eleven har genomgått en lärlingsutbildning och omfattningen av den. *Förordning (2022:1403)*.
+
+### Om den arbetsplatsförlagda delen avbryts
+
+#### 16 §
+
+Om en elev avbryter den arbetsplatsförlagda delen av lärlingsutbildningen, ska rektorn utfärda ett intyg om eleven begär det. Intyget ska innehålla uppgifter om
+
+1. hur stor del av utbildningen som eleven har genomgått, och
+
+2. innehållet i den genomgångna delen av utbildningen.
+
+#### 16 a §
+
+Har upphävts genom *förordning (2022:1404)*.
+
+#### 16 b §
+
+Har upphävts genom *förordning (2022:1404)*.
+
+### Yrkesråd
+
+#### 17 §
+
+För regionalt yrkesvux ska det finnas ett eller flera yrkesråd för samråd mellan företrädare för utbildningen och arbetslivet. Ett yrkesråd får vara gemensamt för flera utbildningar. Det får även vara gemensamt med motsvarande funktion inom gymnasieskolan.
+
+#### 18 §
+
+Yrkesrådet ska medverka till att utveckla samverkan mellan utbildning och arbetsliv och bidra till ett lärande i arbetslivet med hög kvalitet. Yrkesrådet ska bistå kommunerna med att belysa behoven i arbetslivet och med att ordna platser för arbetsplatsförlagt lärande i utbildningen. Yrkesrådet ska också medverka vid uppföljning och utvärdering av den arbetsplatsförlagda delen av utbildningen.
+
+## Bilaga till utdrag ur betygskatalog
+
+#### 19 §
+
+Bestämmelser om utdrag ur betygskatalogen och om en bilaga till utdraget för den som har genomgått en sammanhållen yrkesutbildning finns i 4 kap. 12 § förordningen (2011:1108) om vuxenutbildning. Av en sådan bilaga ska det också framgå om utbildningen har genomförts som lärlingsutbildning.
+
+### Ytterligare villkor
+
+#### 20 §
+
+Ytterligare villkor som ska vara uppfyllda för att statsbidrag ska beviljas enligt denna förordning är följande:
+
+1. De samverkande kommunerna ska planera, dimensionera och erbjuda utbildning tillsammans i syfte att öka utbildningsutbudet för enskilda och tillgodose behoven på hela arbetsmarknaden i de samverkande kommunerna.
+
+2. När det gäller grundbidraget ska de samverkande kommunerna åta sig att finansiera ett antal årsstudieplatser utöver de årsstudieplatser som grundbidraget finansierar. De ytterligare årsstudieplatserna ska sammantaget motsvara minst 30 procent av de årsstudieplatser som grundbidraget finansierar. De ytterligare årsstudieplatserna får inte avse utbildning som enligt beslut av Statens skolinspektion enligt 26 kap. skollagen (2010:800) har en eller flera brister som allvarligt försvårar förutsättningarna för eleven att nå målen för utbildningen, om inte Skolinspektionen bedömt att bristen eller bristerna har avhjälpts.
+
+3. Tilläggsbidrag får bara beviljas om hela grundbidraget utnyttjas.
+
+4. Sammansättningen av utbildningen ska planeras efter samråd med företrädare för arbetsgivare, organisationer eller andra sammanslutningar som är verksamma inom de branscher som finns företrädda i de samverkande kommunerna.
+
+5. Utbudet ska planeras efter samråd med
+
+a) regionen i det eller de län som de samverkande kommunerna tillhör, och
+
+b) Arbetsförmedlingen.
+
+6. De samverkande kommunerna ska
+
+a) visa på ett behov av utbildningen, och
+
+b) erbjuda studie- och yrkesvägledning samt vid planeringen och genomförandet av utbildningen ta till vara elevens tidigare förvärvade kunskaper och kompetens.
+
+*Förordning (2026:1271)*.
+
+### Begränsningar när det gäller orienteringskurser och vissa ämnen
+
+#### 21 §
+
+Statsbidrag enligt denna förordning får lämnas för orienteringskurser för elever som också deltar i regionalt yrkesvux i någon av de samverkande kommunerna. Statsbidrag får lämnas för högst 200 verksamhetspoäng för en och samma person, även om personen deltar i flera orienteringskurser. För en person som deltar i utbildning enligt denna förordning som kombineras med utbildning i svenska som andraspråk på grundläggande nivå eller utbildning i svenska för invandrare får dock statsbidrag lämnas för orienteringskurser om högst 400 verksamhetspoäng. Högst 200 av dessa 400 verksamhetspoäng får avse orienteringskurser som syftar till att ge modersmålsstöd eller studiehandledning på modersmål och högst 200 får avse andra orienteringskurser.
+
+För en person som deltar i orienteringskurser för att därefter påbörja regionalt yrkesvux får statsbidrag för sådan utbildning lämnas för högst 200 verksamhetspoäng. Detta bidrag får lämnas för endast orienteringskurser samt på både grundläggande och gymnasial nivå. *Förordning (2025:892)*.
+
+#### 22 §
+
+Statsbidrag enligt denna förordning får lämnas för utbildning i ämnena svenska, svenska som andraspråk, engelska, matematik, matematik - fortsättning, matematik - fördjupning, matematik - specialisering B, matematik - specialisering C eller samhällskunskap inom kommunal vuxenutbildning på gymnasial nivå för elever som också deltar i regionalt yrkesvux i någon av de samverkande kommunerna. Utbildning i sådana ämnen får utgöra högst 25 procent av en elevs utbildning som statsbidrag lämnas för enligt denna förordning.
+
+*Förordning (2024:1042)*.
+
+### Andra begränsningar
+
+#### 23 §
+
+Statsbidrag enligt denna förordning får inte lämnas
+
+1. för individuella kurser,
+
+2. för komvuxarbete,
+
+3. för utbildning som eleven har rätt att delta i enligt 20 kap. 19, 19 a eller 19 b § skollagen (2010:800),
+
+4. för utbildning eller utbildningsplats som statsbidrag lämnas för på annat sätt,
+
+5. för utbildning som bedrivs enligt förordningen (1992:395) om uppdragsutbildning inom skolväsendet,
+
+6. för utbildning som enligt beslut av Statens skolinspektion enligt 26 kap. skollagen har en eller flera brister som allvarligt försvårar förutsättningarna för eleven att nå målen för utbildningen, till dess att Skolinspektionen bedömt att bristen eller bristerna har avhjälpts, eller
+
+7. om Skolinspektionen har fattat beslut om att förbjuda kommunen att driva en verksamhet som omfattas av bidraget vidare (verksamhetsförbud).
+
+Trots första stycket 7 får statsbidrag lämnas om ett sådant beslut har upphävts. *Förordning (2024:1318)*.
+
+#### 23 a §
+
+Statens skolverk får avslå en ansökan om tilläggsbidrag om Skolverket enligt 37 a § beslutat att kräva tillbaka eller enligt 38 a § beslutat att stoppa en utbetalning av ett statsbidrag som tidigare beviljats de samverkande kommunerna på grund av omständigheter som hänför sig till kommunerna.
+
+*Förordning (2026:1271)*.
+
+### Storleken på statsbidrag när det gäller lärlingsutbildning
+
+#### 24 §
+
+Statsbidrag för lärlingsutbildning inom regionalt yrkesvux lämnas med samma belopp som enligt 28, 29 eller 30 §.
+
+*Förordning (2025:892)*.
+
+#### 25 §
+
+Om statsbidrag lämnas för lärlingsutbildning inom regionalt yrkesvux får bidrag lämnas till de samverkande kommunerna även för ersättning till arbetsplatsen. Varje elev som tas emot på en arbetsplats för arbetsplatsförlagt lärande berättigar de samverkande kommunerna till bidrag för ersättning till arbetsplatsen med högst 40 000 kronor per årsstudieplats under den period som bidraget lämnas för.
+
+*Förordning (2024:1318)*.
+
+#### 26 §
+
+Om statsbidrag lämnas för lärlingsutbildning inom regionalt yrkesvux får bidrag även lämnas till de samverkande kommunerna för handledning på arbetsplatsen. Sådant bidrag får lämnas med högst 7 000 kronor för varje elev under den period som bidraget lämnas för och under förutsättning att handledaren fullföljt en handledarutbildning som Statens skolverk bedömer uppfyller de krav som verket har ställt upp för sådan utbildning. *Förordning (2024:1318)*.
+
+#### 27 §
+
+Om det är en enskild juridisk eller fysisk person som tillhandahåller det arbetsplatsförlagda lärandet får statsbidrag lämnas för kostnader för ersättning till denna person endast om denna är godkänd för F-skatt. För utländska enskilda juridiska eller fysiska personer gäller att de ska visa upp ett intyg eller en annan handling som visar att personen i sitt hemland genom registrering eller på annat sätt genomgår motsvarande kontroll i fråga om skatter och avgifter.
+
+*Förordning (2026:1271)*.
+
+### Yrkesämnen och andra liknande ämnen
+
+#### 28 §
+
+För utbildning i ämnen som i gymnasieskolan utgör yrkesämnen inom barn- och fritidsprogrammet, försäljnings- och serviceprogrammet, hotell- och turismprogrammet och vård- och omsorgsprogrammet samt andra liknande ämnen som är relevanta för ett yrkesområde lämnas statsbidrag med 42 000 kronor per årsstudieplats under den period som bidraget lämnas för.
+
+*Förordning (2025:892)*.
+
+#### 29 §
+
+För utbildning i ämnen som i gymnasieskolan utgör yrkesämnen inom bygg- och anläggningsprogrammet, el- och energiprogrammet, fordons- och transportprogrammet, frisör- och stylistprogrammet eller det tidigare hantverksprogrammet, industritekniska programmet, naturbruksprogrammet, restaurang- och livsmedelsprogrammet och VVS- och fastighetsprogrammet samt andra liknande ämnen som är relevanta för ett yrkesområde lämnas statsbidrag med 90 000 kronor per årsstudieplats under den period som bidraget lämnas för. *Förordning (2025:892)*.
+
+#### 30 §
+
+För utbildning i yrkesämnen inom kommunal vuxenutbildning som anpassad utbildning lämnas statsbidrag med 110 000 kronor per årsstudieplats under den period som bidraget lämnas för.
+
+*Förordning (2025:892)*.
+
+### Yrkesförarutbildningar
+
+#### 30 a §
+
+Statsbidraget för yrkesförarutbildningar lämnas med följande belopp
+
+1. 72 000 kronor för persontransportutbildning (buss) som omfattar 500 verksamhetspoäng,
+
+2. 82 800 kronor för godstransport 1 (lastbil) som omfattar 600 verksamhetspoäng, och
+
+3. 114 000 kronor för godstransport 2 (lastbil med släp) som omfattar 800 verksamhetspoäng. *Förordning (2025:892)*.
+
+### Annan utbildning
+
+#### 31 §
+
+För utbildning i form av orienteringskurser och utbildning i ämnena svenska, svenska som andraspråk, engelska, matematik, matematik - fortsättning, matematik - fördjupning, matematik - specialisering B, matematik - specialisering C eller samhällskunskap inom kommunal vuxenutbildning på gymnasial nivå lämnas statsbidrag med 36 000 kronor per årsstudieplats under den period som bidraget lämnas för.
+
+*Förordning (2025:892)*.
+
+### Kombinationsutbildningar
+
+#### 31 a §
+
+Statsbidrag lämnas med ytterligare 55 000 kronor per årsstudieplats för yrkesutbildning i regionalt yrkesvux om yrkesutbildningen kombineras med
+
+1. utbildning i svenska för invandrare eller svenska som andraspråk på grundläggande nivå, och
+
+2. stödjande insatser som syftar till att ge eleverna ökade möjligheter att nå målen för utbildningen.
+
+För att statsbidraget ska lämnas behöver utbildningen bedrivas kombinerat eller integrerat. Det innebär att språk- och yrkeslärare behöver samordna utbildningen och samplanera undervisningen.
+
+Statsbidrag enligt första stycket lämnas inte till lärlingsutbildning. *Förordning (2025:892)*.
+
+### Statsbidrag för elever med funktionsnedsättning
+
+#### 31 b §
+
+För elever med funktionsnedsättning kan statsbidrag lämnas med ytterligare 55 000 kronor per årsstudieplats för regionalt yrkesvux. För att bidrag ska lämnas måste eleven till följd av sin funktionsnedsättning vara i behov av ett omfattande stöd för att nå målen med utbildningen.
+
+Statsbidraget ska användas till de extra personalresurser som behövs för att ge en enskild elev eller en grupp elever aktuellt stöd. Resurserna kan exempelvis bestå i personal med särskild kompetens som speciallärare, specialpedagog, elevassistent, teckentolk, skrivtolk och dövblindtolk. Det kan även avse anpassning av undervisning i form av mindre undervisningsgrupper och fler undervisningstillfällen.
+
+Sådan ersättning lämnas inte för kommunal vuxenutbildning som anpassad utbildning. *Förordning (2025:892)*.
+
+### Beslut om statsbidrag
+
+#### 32 §
+
+Statens skolverk prövar frågor om statsbidraget och betalar ut bidraget.
+
+I ett beslut om att bevilja statsbidrag ska sista dagen för redovisning enligt 36 § andra stycket anges. Beslutet får förenas med villkor. Villkoren ska framgå av beslutet.
+
+*Förordning (2026:1271)*.
+
+#### 33 §
+
+Grundbidrag betalas ut av Statens skolverk efter rekvisition. I rekvisitionen ska en behörig företrädare för de samverkande kommunerna på heder och samvete intyga att villkoren för bidraget är uppfyllda.
+
+De samverkande kommunerna ska på begäran av Skolverket lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva rekvisitionen. *Förordning (2026:1271)*.
+
+#### 33 a §
+
+En ansökan om tilläggsbidrag ska göras skriftligen av en behörig företrädare för de samverkande kommunerna. Ansökan lämnas till Statens skolverk.
+
+Ansökan ska innehålla de uppgifter och handlingar som behövs för att bedöma de samverkande kommunernas förutsättningar för att få tilläggsbidrag och med vilket belopp bidraget ska lämnas. Kommunerna ska på begäran av Skolverket lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan.
+
+Uppgifterna i ansökan ska lämnas på heder och samvete.
+
+*Förordning (2026:1271)*.
+
+#### 33 b §
+
+När det gäller fördelning av grundbidrag ska Statens skolverk för varje period som bidraget lämnas för och för varje kommun besluta en bidragsram. Vid sitt beslut om bidragsramen ska Skolverket ta hänsyn till befolkningsmängden och arbetslöshetens omfattning i kommunen.
+
+De grundbidrag som lämnas enligt denna förordning får sammanlagt uppgå till högst 3 miljarder kronor per bidragsperiod. *Förordning (2026:1271)*.
+
+#### 34 §
+
+Vid fördelning av tilläggsbidrag ska Statens skolverk ta hänsyn till behoven av kompetens på arbetsmarknaden och arbetslöshetens omfattning i de samverkande kommunerna. Bedömningen av behoven av kompetens på arbetsmarknaden ska göras med utgångspunkt i de regionala planeringsunderlag som Skolverket tar fram. *Förordning (2026:1271)*.
+
+### Särskilda villkor för finansiering från EU
+
+#### 34 a §
+
+Den som har tagit emot finansiering enligt Europaparlamentets och rådets förordning (EU) 2021/241 av den 12 februari 2021 om inrättande av faciliteten för återhämtning och resiliens ska i enlighet med artikel 34.2 i förordningen framhålla att finansieringen kommer från EU och säkerställa finansieringens synlighet. *Förordning (2021:1222)*.
+
+#### 34 b §
+
+Den som har tagit emot finansiering enligt Europaparlamentets och rådets förordning (EU) 2021/241 av den 12 februari 2021 om inrättande av faciliteten för återhämtning och resiliens ska bevara dokumentation i enlighet med artikel 132 i Europaparlamentets och rådets förordning (EU, Euratom) 2018/1046 av den 18 juli 2018 om finansiella regler för unionens allmänna budget, om ändring av förordningarna (EU) nr 1296/2013, (EU) nr 1301/2013, (EU) nr 1303/2013, (EU) nr 1304/2013, (EU) nr 1309/2013, (EU) nr 1316/2013, (EU) nr 223/2014, (EU) nr 283/2014 och beslut nr 541/2014/EU samt om upphävande av förordning (EU, Euratom) nr 966/2012.
+
+*Förordning (2021:1222)*.
+
+### Uppföljning och redovisning
+
+#### 35 §
+
+Statens skolverk ska följa upp vilka utbildningar statsbidraget har använts till och hur bidraget har använts uppdelat på kön, ålder, tidigare utbildningsnivå, andel utrikes och inrikes födda och, för utrikes födda, vistelsetid i Sverige. Av uppföljningen ska det även framgå i vilken utsträckning elever som slutfört regionalt yrkesvux är sysselsatta i arbete.
+
+Kommuner som har tagit emot statsbidrag enligt denna förordning ska medverka i den uppföljning av utbildningsverksamheten som bestäms av Skolverket och lämna de uppgifter som verket begär.
+
+Kommunerna ska också medverka i den uppföljning av utbildningsverksamheten som bestäms av Statskontoret, Europeiska kommissionen, Europeiska byrån för bedrägeribekämpning (Olaf) och Europeiska revisionsrätten och lämna de uppgifter som de begär. *Förordning (2025:1221)*.
+
+#### 36 §
+
+Statens skolverk ska i samband med sin årsredovisning till Regeringskansliet redogöra för hur bidraget har använts.
+
+Kommuner som har tagit emot statsbidrag enligt denna förordning ska lämna sådan ekonomisk och annan redovisning till Skolverket som verket begär.
+
+Kommunerna ska också lämna sådan ekonomisk och annan redovisning till Statskontoret, Europeiska kommissionen, Europeiska byrån för bedrägeribekämpning (Olaf) och Europeiska revisionsrätten som de begär. *Förordning (2025:1221)*.
+
+### Anmälningsskyldighet
+
+#### 36 a §
+
+Den som ansöker om eller har beviljats statsbidrag enligt denna förordning ska anmäla ändrade förhållanden som kan påverka rätten till eller storleken på bidraget till Statens skolverk snarast möjligt. *Förordning (2024:1318)*.
+
+### Återbetalning och återkrav
+
+#### 37 §
+
+Kommuner som har tagit emot statsbidrag enligt denna förordning är återbetalningsskyldiga om
+
+1. något av villkoren för bidraget i väsentlig mån har åsidosatts,
+
+2. bidraget har lämnats på felaktig grund eller med för högt belopp,
+
+3. bidraget helt eller delvis inte har utnyttjats eller inte har använts för det ändamål det har lämnats för, eller
+
+4. kommunen inte har medverkat i sådan uppföljning som anges i 35 § eller lämnat sådana uppgifter som anges i 35 eller 36 §.
+
+*Förordning (2026:1271)*.
+
+#### 37 a §
+
+Statens skolverk ska besluta att helt eller delvis kräva tillbaka ett statsbidrag om någon är återbetalningsskyldig enligt 37 §. Skolverket ska besluta att helt kräva tillbaka ett tilläggsbidrag om de samverkande kommunerna inte har utnyttjat hela grundbidraget.
+
+Skolverket ska avstå från återkrav om arbetsplatsförlagt lärande inte har kunnat tillhandahållas på grund av omständigheter som anges i 2 kap. 29 § första stycket förordningen (2011:1108) om vuxenutbildning och de samverkande kommunerna har vidtagit de åtgärder som anges i 2 kap. 29 § andra och tredje styckena samma förordning.
+
+Om det finns särskilda skäl för det, får Skolverket besluta att helt eller delvis avstå från återkrav även i andra fall än dem som avses i andra stycket. *Förordning (2026:1271)*.
+
+#### 38 §
+
+På statsbidrag som krävs tillbaka ska ränta enligt 6 § räntelagen (1975:635) betalas från och med den trettionde dagen efter den dag då beslutet om återkrav fattades.
+
+Om det finns särskilda skäl för det, får Statens skolverk besluta att helt eller delvis avstå från krav på ränta.
+
+*Förordning (2026:1271)*.
+
+### Hinder mot utbetalning
+
+#### 38 a §
+
+Statens skolverk ska besluta att ett beviljat statsbidrag helt eller delvis inte ska betalas ut om mottagarna av bidraget inte längre bedöms uppfylla villkoren för det eller om det finns grund för återbetalning enligt 37 §. Beslutet gäller omedelbart. *Förordning (2026:1271)*.
+
+### Omfördelning
+
+#### 39 §
+
+Statens skolverk får besluta att fördela de medel som har återbetalats enligt 37 a § eller inte betalats ut enligt 38 a § till andra samverkande kommuner som har ansökt om statsbidrag enligt denna förordning, om kommunerna
+
+1. inte har fått bidrag eller inte har fått bidrag för så många årsstudieplatser som kommunerna har ansökt om, och
+
+2. har gett eller bedöms ha möjlighet att ge utbildning i regionalt yrkesvux utöver vad kommunerna tidigare har fått bidrag för enligt denna förordning. *Förordning (2026:1271)*.
+
+### Bemyndigande
+
+#### 40 §
+
+Statens skolverk får meddela de föreskrifter som behövs för verkställighet av denna förordning.
+
+### Överklagande
+
+#### 41 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 37 a och 38 a §§ får dock inte överklagas. *Förordning (2026:1271)*.
+
+## Övergångsbestämmelser
+
+**2016:937**
+
+1. Denna förordning träder i kraft den 1 januari 2017.
+
+2. Genom förordningen upphävs
+
+a) förordningen (2009:43) om statsbidrag för yrkesinriktad och viss teoretisk vuxenutbildning på gymnasial nivå, och
+
+b) förordningen (2010:2016) om statsbidrag för lärlingsutbildning för vuxna.
+
+3. De upphävda förordningarna gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.
+
+**2020:469**
+
+1. Denna förordning träder i kraft den 1 juli 2020.
+
+2. Äldre föreskrifter gäller fortfarande för statsbidrag som avser tid före ikraftträdandet.
+
+**2020:591**
+
+1. Denna förordning träder i kraft den 27 juli 2020.
+
+2. De nya bestämmelserna ska dock tillämpas för tid från och med den 1 januari 2020.
+
+**2021:27**
+
+1. Denna förordning träder i kraft den 1 april 2021.
+
+2. Förordningen tillämpas första gången i fråga om statsbidrag för bidragsåret 2022.
+
+**2021:101**
+
+1. Denna förordning träder i kraft den 1 juli 2021.
+
+2. Äldre föreskrifter gäller fortfarande för statsbidrag som avser tid före ikraftträdandet.
+
+**2021:745**
+
+1. Denna förordning träder i kraft den 1 augusti 2021.
+
+2. Äldre bestämmelser gäller fortfarande för ansökningar om statsbidrag som har getts in till Statens skolverk före ikraftträdandet.
+
+3. Efter ny ansökan får statsbidrag beviljas enligt de nya bestämmelserna för en viss årsstudieplats som avser yrkesutbildning trots att statsbidrag redan har beviljats för samma årsstudieplats enligt äldre bestämmelser. Det samlade bidraget för yrkesutbildningen får dock inte överstiga 110 000 kronor per årsstudieplats.
+
+**2021:1222**
+
+1. Denna förordning träder i kraft den 10 januari 2022.
+
+2. Äldre föreskrifter gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.
+
+**2022:1403**
+
+Denna förordning träder i kraft den 5 oktober 2022 i fråga om 3 och 28 §§ och i övrigt den 2 juli 2023.
+
+**2022:1404**
+
+1. Denna förordning träder i kraft den 3 juli 2023.
+
+2. Förordningen tillämpas första gången i fråga om statsbidrag för bidragsåret 2025.
+
+3. Äldre föreskrifter gäller fortfarande för statsbidrag som avser tid före den 1 januari 2025.
+
+**2024:1042**
+
+1. Denna förordning träder i kraft den 20 december 2024.
+
+2. Förordningen tillämpas första gången i fråga om utbildning som påbörjas efter den 30 juni 2025.
+
+3. Äldre bestämmelser gäller fortfarande för utbildning som påbörjats före den 1 juli 2025.
+
+**2024:1318**
+
+1. Denna förordning träder i kraft den 21 januari 2025.
+
+2. Förordningen ska dock tillämpas för tid från och med den 1 januari 2025.
+
+**2025:892**
+
+1. Denna förordning träder i kraft den 4 november 2025.
+
+2. Bestämmelserna i 1, 21, 28-31 och 31 b §§ tillämpas första gången i fråga om statsbidrag för bidragsåret 2026.
+
+3. Bestämmelserna i 24 och 31 a §§ tillämpas första gången i fråga om statsbidrag för bidragsåret 2027.
+
+4. Äldre föreskrifter gäller fortfarande för statsbidrag som avser tid före ikraftträdandet.
+
+**2026:1271**
+
+1. Denna förordning träder i kraft den 22 juli 2026.
+
+2. Förordningen tillämpas första gången i fråga om statsbidrag för bidragsåret 2028.
+
+3. Äldre föreskrifter gäller fortfarande för statsbidrag som avser tid före bidragsåret 2028.

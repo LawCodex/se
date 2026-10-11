@@ -1,0 +1,141 @@
+---
+title: "Lag (2008:344) om hälso- och sjukvård åt asylsökande m.fl."
+identifier: "SFS 2008:344"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-05-22
+amended_through: "SFS 2026:1550"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-344.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:344"
+retrieved: 2026-10-11
+---
+# Lag (2008:344) om hälso- och sjukvård åt asylsökande m.fl.
+
+### Inledande bestämmelser
+
+#### 1 §
+
+I denna lag finns bestämmelser om regionernas skyldigheter att, utöver vad som följer av hälso- och sjukvårdslagen (2017:30) och tandvårdslagen (1985:125), erbjuda hälso- och sjukvård och tandvård åt sökande av internationellt skydd och vissa andra utlänningar. *Lag (2026:1155)*.
+
+#### 1 a §
+
+Särskilda bestämmelser om regionernas skyldighet att erbjuda hälso- och sjukvård samt tandvård till personer som vistas i Sverige utan stöd av myndighetsbeslut eller författning finns i lagen (2013:407) om hälso- och sjukvård till vissa utlänningar som vistas i Sverige utan nödvändiga tillstånd. *Lag (2019:930)*.
+
+#### 2 §
+
+De föreskrifter som gäller för vård som ges med stöd av hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125) gäller även för vård som ges enligt denna lag, om inte något annat föreskrivs. *Lag (2017:59)*.
+
+#### 3 §
+
+En regions skyldigheter enligt denna lag gäller endast utlänningar som vistas inom regionen.
+
+Med region avses i denna lag även kommun som inte ingår i en region. *Lag (2019:930)*.
+
+#### 4 §
+
+Denna lag omfattar utlänningar som
+
+1. har ansökt om internationellt skydd enligt Europaparlamentets och rådets förordning (EU) 2024/1348 av den 14 maj 2024 om upprättande av ett gemensamt förfarande för internationellt skydd i unionen och om upphävande av direktiv 2013/32/EU, även om de har meddelats ett beslut om avvisning, utvisning eller återvändande,
+
+2. har ansökt om uppehållstillstånd med tillfälligt skydd eller uppehållstillstånd efter tillfälligt skydd med stöd av bestämmelserna i 21 kap. 2, 3, 4 eller 6 § utlänningslagen (2005:716), även om de har meddelats ett beslut om avvisning eller utvisning,
+
+3. hålls i förvar enligt 10 kap. utlänningslagen och som inte har placerats i kriminalvårdsanstalt, häkte eller polisarrest,
+
+4. vistas här med stöd av tidsbegränsat uppehållstillstånd enligt 5 kap. 15 eller 15 d § utlänningslagen, eller
+
+5. har meddelats ett beslut om inhibition av verkställigheten enligt 12 kap. 16 e § första stycket eller 17 a § första stycket utlänningslagen.
+
+En utlänning som avses i första stycket 1 eller 2 omfattas dock inte av lagen, om han eller hon
+
+1. har uppehållstillstånd och är folkbokförd här i landet, eller
+
+2. håller sig undan så att ett beslut om avvisning, utvisning eller återvändande inte kan verkställas. *Lag (2026:1430)*.
+
+### Vårdens omfattning
+
+#### 5 §
+
+En region ska erbjuda sådana utlänningar som avses i 4 § första stycket 1-3 och 5 och som inte har fyllt 18 år, vård i samma omfattning som erbjuds den som är bosatt inom regionen.
+
+Vård i den omfattning som avses i första stycket ska även erbjudas utlänningar som avses i 4 § första stycket 4.
+
+*Lag (2026:386)*.
+
+#### 6 §
+
+En region ska erbjuda utlänningar som avses i 4 § första stycket 1-3 och 5 och som har fyllt 18 år, vård som inte kan anstå, mödrahälsovård, vård vid abort och preventivmedelsrådgivning. *Lag (2026:386)*.
+
+### Läkemedel och andra varor
+
+6 a § /Ny beteckning 6 c § U:2027-01-02/ En region ska erbjuda utlänningar som avses i 4 § sådana läkemedel som ingår i läkemedelsförmånerna enligt lagen (2002:160) om läkemedelsförmåner m.m. En region ska även erbjuda utlänningar som inte har fyllt 18 år sådana varor som avses i 18 § lagen om läkemedelsförmåner m.m.
+
+Första stycket gäller endast de läkemedel och andra varor som förskrivs i samband med vård som ges med stöd av denna lag.
+
+*Lag (2026:1007)*.
+
+*/Rubriken träder i kraft I:2027-01-02/*
+
+### Skyldighet att betala ersättning
+
+#### 6 a §
+
+*/Träder i kraft I:2027-01-02/* En utlänning som avses i 4 § första stycket 1, 3 eller 5 ska betala skälig ersättning till Migrationsverket för tandvård som inte kan anstå, om utlänningen har fyllt 18 år och har inkomst eller egna tillgångar.
+
+Beslut om ersättning fattas av Migrationsverket. Vid verkets handläggning gäller följande bestämmelser i mottagandelagen (2026:999):
+
+1. 9 kap. 3 § om delgivning, och
+
+2. 10 kap. 1 och 2 §§ om överklagande.
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om grunderna för beräkningen av ersättningen. *Lag (2026:1550)*.
+
+#### 6 b §
+
+*/Träder i kraft I:2027-01-02/* En region ska lämna uppgifter till Migrationsverket som verket behöver för bedömningen av en utlännings ersättningsskyldighet enligt 6 a §. *Lag (2026:1550)*.
+
+*/Rubriken träder i kraft I:2027-01-02/*
+
+### Läkemedel och andra varor
+
+#### 6 c §
+
+*/Träder i kraft I:2027-01-02/* En region ska erbjuda utlänningar som avses i 4 § sådana läkemedel som ingår i läkemedelsförmånerna enligt lagen (2002:160) om läkemedelsförmåner m.m. En region ska även erbjuda utlänningar som inte har fyllt 18 år sådana varor som avses i 18 § lagen om läkemedelsförmåner m.m.
+
+Första stycket gäller endast de läkemedel och andra varor som förskrivs i samband med vård som ges med stöd av denna lag.
+
+*Lag (2026:1550)*.
+
+### Hälsoundersökning
+
+#### 7 §
+
+En region ska, om det inte är uppenbart obehövligt, erbjuda utlänningar som avses i 4 § en hälsoundersökning. Ett sådant erbjudande ska lämnas när en utlänning som avses i 4 § första stycket 1 eller 2 har etablerat boende inom regionen. Övriga utlänningar ska erbjudas hälsoundersökning så snart det lämpligen kan ske. *Lag (2019:930)*.
+
+#### 8 §
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar föreskrifter om hälsoundersökningar.
+
+### Hälsokontroll
+
+#### 9 §
+
+Regionerna ansvarar för att utföra sådan hälsokontroll som avses i 17 kap. 5 § utlänningslagen (2005:716), i fråga om utlänningar som omfattas av denna lag.
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om det närmare innehållet i hälsokontrollen. *Lag (2026:1155)*.
+
+## Övergångsbestämmelser
+
+**2026:1155**
+
+1. Denna lag träder i kraft den 12 juli 2026.
+
+2. För en utlänning som har ansökt om uppehållstillstånd som flykting enligt 4 kap. 1 § utlänningslagen (2005:716) i dess lydelse före den 12 juli 2026 eller som alternativt skyddsbehövande enligt 4 kap. 2 § utlänningslagen i dess lydelse före den 12 juli 2026 gäller 4 § i den äldre lydelsen.
+
+**2026:1550**
+
+1. Denna lag träder i kraft den 2 januari 2027.
+
+2. Äldre bestämmelser gäller fortfarande för tandvårdsbehandlingar som har påbörjats före ikraftträdandet.

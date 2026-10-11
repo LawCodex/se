@@ -1,0 +1,107 @@
+---
+title: "Förordning (2008:892) om europeiskt betalningsföreläggande"
+identifier: "SFS 2008:892"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-11-06
+amended_through: "SFS 2026:181"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-892.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:892"
+retrieved: 2026-10-11
+---
+# Förordning (2008:892) om europeiskt betalningsföreläggande
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning innehåller föreskrifter som kompletterar Europaparlamentets och rådets förordning (EG) nr 1896/2006 av den 12 december 2006 om införande av ett europeiskt betalningsföreläggande.
+
+### Ansökan
+
+#### 2 §
+
+Om en uppgift om parterna, som sökanden har lämnat i ansökan eller på något annat sätt, behöver ändras eller kompletteras, ska detta genast anmälas till Kronofogdemyndigheten.
+
+#### 3 §
+
+Vid inbetalning av ansökningsavgiften ska sökanden ange svarandens personnummer eller organisationsnummer.
+
+#### 4 §
+
+Kronofogdemyndigheten får besluta att ansökningar görs på medium för automatisk databehandling.
+
+Sådant tillstånd får ges en ingivare som kan antas på ett betryggande och tekniskt ändamålsenligt sätt ge in ett stort antal ansökningar. Tillståndet får återkallas, om det finns skäl för det.
+
+#### 5 §
+
+Om en ansökan avser någon som inte har fyllt 18 år, ska Kronofogdemyndigheten genast sända en underrättelse om detta till överförmyndaren tillsammans med en kopia av ansökan.
+
+### Föreläggande för svaranden
+
+#### 6 §
+
+Ett föreläggande enligt artikel 12 i förordning (EG) nr 1896/2006 om införande av ett europeiskt betalningsföreläggande ska innehålla information om förenklad delgivning enligt 11 a § lagen (2008:879) om europeiskt betalningsföreläggande. *Förordning (2017:415)*.
+
+### Bestridande av ansökan
+
+#### 7 §
+
+Om standardformulär F inte används vid bestridande, ska bestridandet avfattas på svenska.
+
+#### 8 §
+
+Har upphävts genom *förordning (2013:1064)*.
+
+### Utfärdande av intyg
+
+#### 9 §
+
+Kronofogdemyndigheten ska, om någon begär det, på en kopia av ett europeiskt betalningsföreläggande som har utfärdats av myndigheten intyga att föreläggandet är äkta.
+
+### Verkställighet
+
+#### 10 §
+
+Vid ansökan om verkställighet i Sverige av ett europeiskt betalningsföreläggande som förklarats verkställbart i en annan medlemsstat ska betalningsföreläggandet vara översatt till svenska eller engelska.
+
+### Bestyrkande av översättningar
+
+#### 11 §
+
+En auktoriserad translator är behörig att bestyrka översättningar enligt artikel 21.2 b) i förordning (EG) nr 1896/2006 om införande av ett europeiskt betalningsföreläggande.
+
+### Dagbok och aktbildning
+
+#### 12 §
+
+Kronofogdemyndigheten får meddela föreskrifter om hur dagbok i målen ska föras. *Förordning (2026:181)*.
+
+#### 13 §
+
+Skriftliga ansökningar och yttranden från parterna i målet ska föras samman till en akt. Delgivningsbevis ska föras samman för sig eller föras till akten.
+
+#### 14 §
+
+Om ett mål överlämnas till en domstol med stöd av 10 § lagen (2008:879) om europeiskt betalningsföreläggande, ska Kronofogdemyndigheten lämna över alla handlingar i målet inklusive delgivningsbevis. Vid behov ska Kronofogdemyndigheten ta fram utskrift av ansökan, förelägganden, beslut, dagbok och andra uppgifter som kan vara av betydelse för den fortsatta handläggningen. Handlingarna ska sedan ingå i den mottagande domstolens akt.
+
+*Förordning (2026:181)*.
+
+### Underrättelse till kreditupplysningsföretag
+
+#### 15 §
+
+Om en uppgift i ett mål om europeiskt betalningsföreläggande har lämnats ut till ett kreditupplysningsföretag, ska Kronofogdemyndigheten genast underrätta kreditupplysningsföretaget om uppgiften blockeras med stöd av 18 § kronofogdedatalagen (2026:128).
+
+*Förordning (2026:181)*.
+
+## Övergångsbestämmelser
+
+**2026:181**
+
+1. Denna förordning träder i kraft den 2 april 2026.
+
+2. Äldre bestämmelser gäller fortfarande för uppgifter som har blockerats av Kronofogdemyndigheten med stöd av 3 kap. 3 a § den upphävda lagen (2001:184) om behandling av uppgifter i Kronofogdemyndighetens verksamhet.

@@ -1,0 +1,37 @@
+---
+title: "Förordning (2018:357) om myndighetsgemensam infrastruktur för digital post"
+identifier: "SFS 2018:357"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-04-26
+amended_through: "SFS 2023:711"
+department: "Finansdepartementet DOF"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-357.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:357"
+retrieved: 2026-10-11
+---
+# Förordning (2018:357) om myndighetsgemensam infrastruktur för digital post
+
+## 1 §
+
+Myndigheten för digital förvaltning ska tillhandahålla en myndighetsgemensam infrastruktur för digital post från offentliga aktörer till enskilda. *Förordning (2023:711)*.
+
+## 2 §
+
+Denna förordning innehåller bestämmelser som kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning).
+
+Vid behandling av personuppgifter enligt denna förordning gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna förordning eller föreskrifter som har meddelats i anslutning till den. *Förordning (2023:711)*.
+
+## 3 §
+
+Till infrastrukturen ska de avsändande offentliga aktörerna, de enskilda som begärt att få ta del av digital post från offentliga aktörer samt leverantörer av elektroniska postbefordringstjänster och elektroniska brevlådor anslutas. *Förordning (2023:711)*.
+
+## 4 §
+
+Myndigheten för digital förvaltning får föra register över dem som anslutit sig till infrastrukturen. Myndigheten är personuppgiftsansvarig för registret. Personuppgifterna i registret får behandlas dels för att föra en aktuell förteckning över sådana enskilda som anges i 3 §, dels för att expediera digital post från offentliga aktörer. *Förordning (2023:711)*.
+
+## 5 §
+
+Myndigheten för digital förvaltning får meddela de föreskrifter som behövs för inrättande och drift av infrastrukturen. *Förordning (2018:1493)*.

@@ -1,0 +1,73 @@
+---
+title: "Lag (2013:315) om intelligenta transportsystem vid vägtransporter"
+identifier: "SFS 2013:315"
+type: act
+jurisdiction: se
+language: sv
+date: 2013-05-23
+amended_through: "SFS 2026:1587"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2013-315.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2013:315"
+retrieved: 2026-10-11
+---
+# Lag (2013:315) om intelligenta transportsystem vid vägtransporter
+
+### 1 §
+
+Denna lag gäller sådana intelligenta transportsystem för vägtransporter, och systemens gränssnitt mot andra trafikslag, som
+
+1. förmedlar information i syfte att underlätta transporter och resande eller bidra till trafiksäkerhet, effektivitet och hållbar mobilitet, och
+
+2. tillhandahålls i syfte att kunna användas i Sverige och gränsöverskridande inom Europeiska unionen. *Lag (2025:1016)*.
+
+### 2 §
+
+*/Upphör att gälla U:2027-01-01/* Lagen gäller inte verksamhet som bedrivs av Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut, Försvarets radioanstalt eller Säkerhetspolisen. *Lag (2025:1016)*.
+
+### 2 §
+
+*/Träder i kraft I:2027-01-01/* Lagen gäller inte verksamhet som bedrivs av Försvarsmakten, Försvarets materielverk, Totalförsvarets forskningsinstitut, Försvarets radioanstalt, Sveriges utrikes underrättelsetjänst eller Säkerhetspolisen. *Lag (2026:1587)*.
+
+### 3 §
+
+I denna lag betyder
+
+intelligenta transportsystem: system där informations- och kommunikationsteknik tillämpas på vägtransportområdet, inklusive infrastruktur, fordon och användare, och för trafikledning och mobilitetshantering samt för gränssnitt mot andra trafikslag, och
+
+gränssnitt: teknik eller tjänst som möjliggör koppling och interaktion mellan system. *Lag (2025:1016)*.
+
+### 4 §
+
+Det ska finnas en digital nationell åtkomstpunkt för data som används i intelligenta transportsystem. Den myndighet som regeringen bestämmer ska ansvara för den nationella åtkomstpunkten. *Lag (2025:1016)*.
+
+### 5 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om intelligenta transportsystem, om data och tjänster som används i systemen och om den nationella åtkomstpunkten. *Lag (2025:1016)*.
+
+### 6 §
+
+Regeringen får meddela föreskrifter om undantag från lagens tillämpningsområde för andra verksamheter som avser försvaret eller den nationella säkerheten än de som anges i 2 §. Regeringen får också meddela föreskrifter om undantag från lagens tillämpningsområde som avser fordon.
+
+*Lag (2025:1016)*.
+
+### 7 §
+
+Har upphävts genom *lag (2025:1016)*.
+
+### 8 §
+
+Har upphävts genom *lag (2025:1016)*.
+
+### 9 §
+
+Har upphävts genom *lag (2025:1016)*.
+
+## Övergångsbestämmelser
+
+**2013:315**
+
+1. Denna lag träder i kraft den 1 juli 2013.
+
+2. Lagen ska inte tillämpas på fordon som har typgodkänts enligt fordonslagen (2002:574) eller tagits i bruk före ikraftträdandet.

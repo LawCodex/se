@@ -1,0 +1,417 @@
+---
+title: "Lag (2018:1699) om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område"
+identifier: "SFS 2018:1699"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-11-15
+amended_through: "SFS 2026:1679"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1699.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1699"
+retrieved: 2026-10-11
+---
+# Lag (2018:1699) om kriminalvårdens behandling av personuppgifter inom brottsdatalagens område
+
+## 1 kap. Allmänna bestämmelser
+
+### Lagens tillämpningsområde
+
+#### 1 §
+
+Denna lag gäller utöver brottsdatalagen (2018:1177) när någon av myndigheterna inom kriminalvården i egenskap av behörig myndighet enligt den lagen behandlar personuppgifter i syfte att verkställa häktning eller straffrättsliga påföljder eller biträda en annan behörig myndighet när den utför uppgifter för ett syfte som anges i 1 kap. 2 § brottsdatalagen.
+
+### Personuppgiftsansvar
+
+#### 2 §
+
+Kriminalvården är personuppgiftsansvarig för den behandling av personuppgifter som myndigheten utför.
+
+En övervakningsnämnd är personuppgiftsansvarig för den behandling av personuppgifter som nämnden utför.
+
+## 2 kap. Grundläggande bestämmelser om behandling av personuppgifter
+
+### Rättsliga grunder
+
+#### 1 §
+
+Personuppgifter får behandlas om det är nödvändigt för att en myndighet som nämns i 1 kap. 1 § ska kunna utföra följande uppgifter:
+
+1. verkställa häktning eller straffrättsliga påföljder,
+
+2. förebygga, förhindra eller upptäcka brottslig verksamhet i samband med sådan verkställighet som anges i 1,
+
+3. biträda andra myndigheter när de fullgör uppgifter för ett syfte som anges i 1 kap. 2 § brottsdatalagen (2018:1177), eller
+
+4. fullgöra förpliktelser som följer av internationella åtaganden.
+
+### Behandling för nya ändamål
+
+#### 2 §
+
+Förutsättningarna för att behandla personuppgifter som behandlas med stöd av 1 § för nya ändamål regleras i 2 kap. 4 och 22 §§ brottsdatalagen (2018:1177).
+
+### Känsliga personuppgifter
+
+#### 3 §
+
+Kriminalvården får behandla biometriska uppgifter om det är absolut nödvändigt för ändamålet med behandlingen.
+
+### Utlämnande av personuppgifter
+
+#### 4 §
+
+Kriminalvården får till en utländsk myndighet eller internationell organisation lämna ut de personuppgifter som behövs för
+
+1. prövning och genomförande av överflyttning av straffverkställighet,
+
+2. transitering och förvaring av en person som är frihetsberövad för utredning av eller lagföring för brott eller straffverkställighet, eller
+
+3. tillfällig överflyttning av en frihetsberövad person för utredning av eller lagföring för brott eller straffverkställighet.
+
+#### 5 §
+
+Regeringskansliet, Polismyndigheten, Säkerhetspolisen och Tullverket har, trots sekretess enligt 18 kap. 11 §, 21 kap. 3 § första stycket och 35 kap. 15 § offentlighets- och sekretesslagen (2009:400), rätt att ta del av personuppgifter som har gjorts gemensamt tillgängliga hos Kriminalvården med stöd av 3 kap. 2 eller 3 §, om den mottagande myndigheten behöver uppgifterna för ett syfte som anges i 1 kap. 2 § brottsdatalagen (2018:1177). *Lag (2026:102)*.
+
+#### 6 §
+
+Polismyndigheten, Säkerhetspolisen, Tullverket, Ekobrottsmyndigheten och Åklagarmyndigheten har, trots sekretess enligt 18 kap. 11 §, 21 kap. 3 § första stycket och 35 kap. 15 § offentlighets- och sekretesslagen (2009:400), rätt att ta del av personuppgifter i säkerhetsregistret som förs enligt 4 kap., om den mottagande myndigheten behöver uppgifterna för ett syfte som anges i 1 kap. 2 § brottsdatalagen (2018:1177). *Lag (2026:102)*.
+
+#### 7 §
+
+Elektroniskt utlämnande genom direktåtkomst är tillåtet bara i den utsträckning som anges i 3 kap. 6 § och 4 kap. 6 §.
+
+*Lag (2026:102)*.
+
+### Rätt att meddela föreskrifter
+
+#### 8 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om
+
+1. vilka personuppgifter som får behandlas enligt 1 §, och
+
+2. utlämnande av personuppgifter i andra fall än som anges i 4-6 §§. *Lag (2026:102)*.
+
+## 3 kap. Gemensamt tillgängliga uppgifter
+
+### Allmän bestämmelse
+
+#### 1 §
+
+Detta kapitel innehåller särskilda bestämmelser för behandling av personuppgifter som görs eller har gjorts gemensamt tillgängliga med stöd av 2 eller 3 §. Uppgifter som endast ett fåtal personer har rätt att ta del av anses inte som gemensamt tillgängliga.
+
+Detta kapitel gäller inte när personuppgifter behandlas med stöd av 2 kap. 2 § brottsdatalagen (2018:1177). *Lag (2026:102)*.
+
+### Personuppgifter som får göras gemensamt tillgängliga
+
+#### 2 §
+
+Personuppgifter får göras gemensamt tillgängliga om uppgifterna avser en person som
+
+1. är häktad, anhållen eller gripen med anledning av misstanke om brott eller verkställighet av påföljd eller utvisning,
+
+2. är dömd till en påföljd som ska verkställas inom Kriminalvården,
+
+3. genom en utländsk dom eller ett utländskt beslut är dömd till en påföljd som kan komma att verkställas i Sverige,
+
+4. genom en svensk dom eller ett svenskt beslut är dömd till en annan påföljd än som avses i 2 som kan komma att verkställas i ett annat land,
+
+5. annars är frihetsberövad inom Kriminalvården för något av de syften som anges i 2 kap. 1 §, eller
+
+6. är föremål för personutredning enligt 1 § lagen (1991:2041) om särskild personutredning i brottmål, m.m. *Lag (2026:102)*.
+
+#### 3 §
+
+När personuppgifter om en person som anges i 2 § behandlas, får uppgifter om följande personer göras gemensamt tillgängliga:
+
+1. närstående och andra som har nära förbindelse med den registrerade,
+
+2. personer som på grund av tjänst eller uppdrag eller av annan anledning har kontakt med den registrerade, och
+
+3. målsägande. *Lag (2026:102)*.
+
+### Särskild upplysning
+
+#### 4 §
+
+Om det inte framgår av sammanhanget eller på annat sätt att personuppgifter som har gjorts gemensamt tillgängliga avser en person som inte är häktad eller avtjänar en påföljd inom Kriminalvården, ska det tydliggöras genom en särskild upplysning. *Lag (2026:102)*.
+
+### Känsliga personuppgifter
+
+#### 5 §
+
+Sökförbudet i 2 kap. 14 § brottsdatalagen (2018:1177) hindrar inte sökningar i syfte att få fram ett urval av personer grundat på etniskt ursprung, politiska åsikter, religiös eller filosofisk övertygelse eller uppgifter som rör hälsa, sexualliv eller sexuell läggning, om sökningen görs i personuppgifter som har gjorts gemensamt tillgängliga med stöd av 2 § 1, 2, 3 eller 5. *Lag (2026:102)*.
+
+### Direktåtkomst
+
+#### 6 §
+
+Regeringskansliet, Polismyndigheten, Säkerhetspolisen och Tullverket får för ett syfte som anges i 1 kap. 2 § brottsdatalagen (2018:1177) medges direktåtkomst till personuppgifter som har gjorts gemensamt tillgängliga hos Kriminalvården.
+
+Regeringskansliet får dock medges direktåtkomst endast till sådana uppgifter som behövs i ärenden om nåd. *Lag (2026:102)*.
+
+### Rätt att meddela föreskrifter
+
+#### 7 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om
+
+1. vilka personuppgifter som får göras gemensamt tillgängliga, och
+
+2. omfattningen av direktåtkomst till uppgifter som har gjorts gemensamt tillgängliga och om behörighet och säkerhet vid sådan åtkomst. *Lag (2026:102)*.
+
+#### 8 §
+
+Har betecknats 4 kap. 8 § genom *lag (2026:102)*.
+
+## 4 kap. Säkerhetsregister
+
+### Rätten att föra register
+
+#### 1 §
+
+Kriminalvården får föra ett säkerhetsregister. I säkerhetsregistret får personuppgifter behandlas i syfte att
+
+1. förebygga, förhindra eller upptäcka brott eller brottslig verksamhet på häkten och i kriminalvårdsanstalter eller i samband med annan straffverkställighet, och
+
+2. säkerställa ordning och säkerhet på häkten, i kriminalvårdsanstalter och i annan verksamhet som Kriminalvården bedriver. *Lag (2026:102)*.
+
+### Säkerhetsregistrets innehåll
+
+#### 2 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* I säkerhetsregistret får personuppgifter behandlas om en person som är häktad eller dömd till fängelse och som är eller har varit placerad på eller uppfyller kraven för att placeras på en säkerhetsavdelning.
+
+I registret får även personuppgifter behandlas om en person som är häktad eller avtjänar ett fängelsestraff, om det finns risk för att han eller hon
+
+1. under häktning eller verkställighet av fängelsestraff begår brott som inte är ringa eller utövar brottslig verksamhet som innefattar brott för vilket det är föreskrivet fängelse i två år eller mer,
+
+2. förbereder rymning eller försöker rymma,
+
+3. blir föremål för fritagning,
+
+4. bidrar till att allvarligt störa ordningen eller säkerheten på ett häkte, i en kriminalvårdsanstalt eller i en annan lokal där Kriminalvården bedriver verksamhet,
+
+5. under häktning eller verkställighet av ett fängelsestraff utsätts för våld eller hot, eller
+
+6. utövar våld eller hot mot eller otillbörlig påverkan på personal eller andra personer som uppehåller sig i Kriminalvårdens lokaler. *Lag (2026:102)*.
+
+#### 2 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* I säkerhetsregistret får personuppgifter behandlas om en person som är häktad eller dömd till ovillkorligt fängelse och som är eller har varit placerad på eller uppfyller kraven för att placeras på en säkerhetsavdelning.
+
+I registret får även personuppgifter behandlas om en person som är häktad eller avtjänar ett ovillkorligt fängelsestraff, om det finns risk för att han eller hon
+
+1. under häktning eller verkställighet av fängelsestraff begår brott som inte är ringa eller utövar brottslig verksamhet som innefattar brott för vilket det är föreskrivet fängelse i två år eller mer,
+
+2. förbereder rymning eller försöker rymma,
+
+3. blir föremål för fritagning,
+
+4. bidrar till att allvarligt störa ordningen eller säkerheten på ett häkte, i en kriminalvårdsanstalt eller i en annan lokal där Kriminalvården bedriver verksamhet,
+
+5. under häktning eller verkställighet av ett fängelsestraff utsätts för våld eller hot, eller
+
+6. utövar våld eller hot mot eller otillbörlig påverkan på personal eller andra personer som uppehåller sig i Kriminalvårdens lokaler. *Lag (2026:1679)*.
+
+#### 3 §
+
+I säkerhetsregistret får även personuppgifter behandlas om en person som avtjänar en annan påföljd än fängelse inom Kriminalvården, om det finns risk för att han eller hon
+
+1. bidrar till att allvarligt störa ordningen eller säkerheten i Kriminalvårdens lokaler,
+
+2. under verkställighet utsätts för våld eller hot, eller
+
+3. utövar våld eller hot mot eller otillbörlig påverkan på personal eller andra personer som uppehåller sig i Kriminalvårdens lokaler.
+
+*Lag (2026:102)*.
+
+#### 3 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* I säkerhetsregistret får även personuppgifter behandlas om en person som avtjänar en annan påföljd än ovillkorligt fängelse inom Kriminalvården, om det finns risk för att han eller hon
+
+1. bidrar till att allvarligt störa ordningen eller säkerheten i Kriminalvårdens lokaler,
+
+2. under verkställighet utsätts för våld eller hot, eller
+
+3. utövar våld eller hot mot eller otillbörlig påverkan på personal eller andra personer som uppehåller sig i Kriminalvårdens lokaler. *Lag (2026:1679)*.
+
+#### 4 §
+
+Om det är absolut nödvändigt för ändamålet med behandlingen enligt 1 §, får Kriminalvården i säkerhetsregistret behandla personuppgifter om en person som är närstående till eller har annan nära förbindelse med en person som anges i 2 §. Om personen inte är häktad eller avtjänar en påföljd inom Kriminalvården ska det framgå genom en särskild upplysning. *Lag (2026:102)*.
+
+#### 4 a §
+
+Om det är absolut nödvändigt för att Kriminalvården ska kunna upprätthålla säkerheten på ett häkte eller i en kriminalvårdsanstalt, får myndigheten i säkerhetsregistret behandla personuppgifter om en person som kan antas tillhöra eller verka för en organisation eller grupp som utövar allvarlig brottslig verksamhet. Om personen inte är häktad eller avtjänar en påföljd inom Kriminalvården ska det framgå genom en särskild upplysning. *Lag (2026:102)*.
+
+### Känsliga personuppgifter
+
+#### 5 §
+
+Sökförbudet i 2 kap. 14 § brottsdatalagen (2018:1177) hindrar inte sökning i personuppgifter i säkerhetsregistret i syfte att få fram ett urval av personer grundat på etniskt ursprung, politiska åsikter, religiös eller filosofisk övertygelse eller uppgifter som rör hälsa, sexualliv eller sexuell läggning. *Lag (2026:102)*.
+
+### Direktåtkomst
+
+#### 6 §
+
+Polismyndigheten, Säkerhetspolisen, Tullverket, Ekobrottsmyndigheten och Åklagarmyndigheten får för ett syfte som anges i 1 kap. 2 § brottsdatalagen (2018:1177) medges direktåtkomst till personuppgifter i säkerhetsregistret.
+
+*Lag (2026:102)*.
+
+### Längsta tid som personuppgifter får behandlas
+
+#### 7 §
+
+Personuppgifter i säkerhetsregistret får inte behandlas längre än fem år efter det att
+
+1. den registrerade blivit villkorligt frigiven från ett fängelsestraff eller annars helt har avtjänat straffet eller, utan att ha dömts till sådan påföljd, har frigetts från häkte,
+
+2. den registrerade helt har avtjänat en sådan påföljd som avses i 3 §,
+
+3. den person som en registrerad är närstående till eller har annan nära förbindelse med enligt 4 §, har blivit villkorligt frigiven från ett fängelsestraff eller annars helt har avtjänat straffet eller, utan att ha dömts till sådan påföljd, har frigetts från häkte, eller
+
+4. den senaste registreringen om en persons anknytning till brottslig verksamhet enligt 4 a § gjordes.
+
+Om personuppgifter om en person som dömts till fängelse behandlas enligt 2 § första stycket och personen inte slutligt döms till fängelse och inte har påbörjat verkställigheten, får uppgifterna inte behandlas längre än tre månader efter det att domen eller beslutet fick laga kraft. Detsamma gäller personuppgifter om en person som den registrerade är närstående till eller har annan nära förbindelse med enligt 4 §.
+
+Bestämmelsen i 2 kap. 17 § andra stycket brottsdatalagen (2018:1177) gäller inte vid tillämpningen av denna paragraf.
+
+*Lag (2026:102)*.
+
+### Rätt att meddela föreskrifter
+
+#### 8 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om
+
+1. innehållet i säkerhetsregistret, och
+
+2. omfattningen av direktåtkomst till uppgifter i registret och om behörighet och säkerhet vid sådan åtkomst.
+
+*Lag (2026:102)*.
+
+## 5 kap. Längsta tid som personuppgifter får behandlas
+
+### Allmänna bestämmelser
+
+#### 1 §
+
+Detta kapitel gäller bara för automatiserad behandling.
+
+Av 2 kap. 17 § första stycket brottsdatalagen (2018:1177) framgår att personuppgifter inte får behandlas under längre tid än vad som är nödvändigt med hänsyn till ändamålet med behandlingen.
+
+I 4 kap. 7 § finns bestämmelser om hur länge personuppgifter i säkerhetsregistret får behandlas. *Lag (2026:102)*.
+
+#### 2 §
+
+Bestämmelsen i 2 kap. 17 § andra stycket brottsdatalagen (2018:1177) gäller inte vid tillämpningen av detta kapitel.
+
+*Lag (2026:102)*.
+
+### Personuppgifter som inte har gjorts gemensamt tillgängliga
+
+#### 3 §
+
+Personuppgifter som inte har gjorts gemensamt tillgängliga får inte behandlas längre än
+
+1. ett år efter det att ärendet avslutades, om uppgifterna behandlades i ett ärende, eller
+
+2. ett år efter det att de behandlades automatiserat första gången, om de inte kan hänföras till ett ärende.
+
+*Lag (2026:102)*.
+
+### Personuppgifter som har gjorts gemensamt tillgängliga
+
+#### 4 §
+
+Personuppgifter om en person som har varit häktad och som inte har dömts till en påföljd som ska verkställas inom Kriminalvården får, om uppgifterna har gjorts gemensamt tillgängliga, inte behandlas längre än fem år efter det att häktningen hävdes. *Lag (2026:102)*.
+
+#### 5 §
+
+Personuppgifter om en person som har varit föremål för personutredning enligt lagen (1991:2041) om särskild personutredning i brottmål, m.m. och som inte har varit häktad eller dömts till en påföljd som ska verkställas inom Kriminalvården får, om uppgifterna har gjorts gemensamt tillgängliga, inte behandlas längre än två år efter att det mål i vilket personutredningen gjordes har avgjorts genom en dom eller ett beslut som har fått laga kraft. *Lag (2026:102)*.
+
+#### 6 §
+
+Personuppgifter om en person som har dömts till en påföljd som ska verkställas inom Kriminalvården får, om uppgifterna har gjorts gemensamt tillgängliga, inte behandlas längre än tio år efter det att den senaste påföljden helt har verkställts eller upphört av annat skäl.
+
+Om personen inte slutligt döms till en påföljd som ska verkställas inom Kriminalvården, får uppgifter som behandlas med anledning av den tidigare utdömda påföljden inte behandlas längre än tre månader efter det att domen eller beslutet fick laga kraft. Om verkställigheten har påbörjats tillämpas i stället första stycket. *Lag (2026:102)*.
+
+#### 7 §
+
+Personuppgifter som har gjorts gemensamt tillgängliga med stöd av 3 kap. 3 § får inte behandlas längre än vad uppgifterna om den registrerade behandlas. *Lag (2026:102)*.
+
+#### 8 §
+
+Andra personuppgifter än sådana som avses i 4-7 §§, och som har gjorts gemensamt tillgängliga, får inte behandlas längre än tio år efter det att den senaste påföljden eller åtgärden avseende den registrerade helt har verkställts eller upphört. *Lag (2026:102)*.
+
+### Särskilda bestämmelser om vissa uppgifter
+
+#### 9 §
+
+Personuppgifter som har tagits fram genom elektronisk övervakning vid verkställighet av en påföljd får inte behandlas längre än tre månader efter det att de behandlades automatiserat första gången. Om uppgifterna behövs vid prövning av fråga om verkställighet får de dock behandlas till dess beslutet har fått laga kraft. *Lag (2026:102)*.
+
+#### 10 §
+
+Biometriska uppgifter som har tagits fram för biometrisk autentisering av en person som dömts till fängelse, får inte behandlas längre än tre månader efter det att det senaste fängelsestraffet helt har verkställts eller upphört av annat skäl. *Lag (2026:102)*.
+
+### Rätt att meddela föreskrifter
+
+#### 11 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om
+
+1. att vissa kategorier av personuppgifter får behandlas för ändamål inom denna lags tillämpningsområde under längre tid än vad som anges i lagen,
+
+2. att personuppgifter får behandlas för arkivändamål av allmänt intresse eller vetenskapliga, statistiska eller historiska ändamål under längre tid än vad som anges i någon av 3-5 §§, 6 § första stycket eller 8 §, och
+
+3. begränsning av behandlingen av personuppgifter för ändamål inom denna lags tillämpningsområde vid digital arkivering.
+
+*Lag (2026:102)*.
+
+## 6 kap. Övriga bestämmelser
+
+### Administrativa sanktionsavgifter
+
+#### 1 §
+
+En sanktionsavgift får tas ut av den personuppgiftsansvarige vid överträdelse av bestämmelserna i
+
+1. 2 kap. 1 § om rättsliga grunder för behandling av personuppgifter,
+
+2. 3 kap. 4 § eller 4 kap. 4 eller 4 a § om särskilda upplysningar, eller
+
+3. 4 kap. 7 § eller någon av 5 kap. 3-10 §§ om den längsta tid som personuppgifter får behandlas.
+
+En sanktionsavgift får också tas ut vid överträdelse av föreskrifter som har meddelats i anslutning till denna lag om särskild upplysning eller om längsta tid som personuppgifter får behandlas.
+
+Sanktionsavgiften ska bestämmas till högst 10 000 000 kronor.
+
+*Lag (2026:102)*.
+
+### Skadestånd
+
+#### 2 §
+
+Bestämmelsen om skadestånd i 7 kap. 1 § brottsdatalagen (2018:1177) ska tillämpas vid behandling av personuppgifter i strid med denna lag eller föreskrifter som har meddelats i anslutning till den. *Lag (2026:102)*.
+
+### Överklagande
+
+#### 3 §
+
+Bestämmelser om överklagande finns i 7 kap. brottsdatalagen (2018:1177). *Lag (2026:102)*.
+
+## Övergångsbestämmelser
+
+**2018:1699**
+
+1. Denna lag träder i kraft den 1 januari 2019.
+
+2. Genom lagen upphävs lagen (2001:617) om behandling av personuppgifter inom kriminalvården.
+
+3. En sanktionsavgift enligt 4 kap. 1 § får beslutas endast för överträdelser som har skett efter ikraftträdandet.
+
+4. Den upphävda lagen gäller fortfarande för överträdelser som har skett före ikraftträdandet.
+
+5. Den upphävda lagen gäller fortfarande för överklagande av beslut som meddelats före ikraftträdandet och som rör behandling av personuppgifter vid verkställighet av häktning eller straffrättsliga påföljder eller biträde till andra behöriga myndigheter.

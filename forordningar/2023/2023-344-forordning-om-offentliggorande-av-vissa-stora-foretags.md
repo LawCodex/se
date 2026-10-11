@@ -1,0 +1,54 @@
+---
+title: "Förordning (2023:344) om offentliggörande av vissa stora företags inkomstskatterapporter"
+identifier: "SFS 2023:344"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2023-06-01
+department: "Justitiedepartementet L1"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2023-344.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2023:344"
+retrieved: 2026-10-11
+---
+# Förordning (2023:344) om offentliggörande av vissa stora företags inkomstskatterapporter
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning innehåller bestämmelser som kompletterar lagen (2023:340) om offentliggörande av vissa stora företags inkomstskatterapporter.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+## Inlämnande till Bolagsverket
+
+### 2 §
+
+Bolagsverket får meddela närmare föreskrifter om
+
+1. elektronisk överföring till Bolagsverket, och
+
+2. bestyrkande av att en elektronisk kopia överensstämmer med originalet.
+
+## Kungörande
+
+### 3 §
+
+När en inkomstskatterapport eller ett sådant uttalande som avses i 5 eller 8 § lagen (2023:340) om offentliggörande av vissa stora företags inkomstskatterapporter har lämnats in, ska Bolagsverket kungöra detta i Post- och Inrikes Tidningar. Kungörandet ska ske senast månaden efter den månad då rapporten eller uttalandet har registrerats av myndigheten.
+
+Kungörelsen ska innehålla följande uppgifter:
+
+1. namn och organisationsnummer på det företag eller den filial som har lämnat in inkomstskatterapporten eller uttalandet,
+
+2. sista dagen av det räkenskapsår som handlingarna avser, och
+
+3. den tidpunkt då inkomstskatterapporten eller uttalandet lämnades in till Bolagsverket och diarienummer eller motsvarande ärendebeteckning.
+
+En kungörelse ska ske på samma språk som registreringen i det register som företaget i fråga är registrerat i.
+
+## Förvaring av inlämnade handlingar
+
+### 4 §
+
+En inkomstskatterapport eller ett uttalande som har lämnats in till Bolagsverket får föras över till ett maskinläsbart medium. Handlingarna ska hållas tillgängliga hos Bolagsverket.

@@ -1,0 +1,175 @@
+---
+title: "Förordning (2011:317) om statsbidrag till nyskapande kultur"
+identifier: "SFS 2011:317"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-03-24
+amended_through: "SFS 2025:915"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-317.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:317"
+retrieved: 2026-10-11
+---
+# Förordning (2011:317) om statsbidrag till nyskapande kultur
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om statsbidrag till nyskapande kultur.
+
+Statsbidrag lämnas i mån av tillgång på medel.
+
+### Ändamålet med statsbidraget
+
+#### 2 §
+
+Ändamålet med statsbidraget är att främja förnyelse och utveckling inom kulturområdet i hela landet med utgångspunkt i de nationella kulturpolitiska målen.
+
+*Förordning (2014:1417)*.
+
+### Villkor för statsbidrag
+
+#### 3 §
+
+Statsbidrag får ges till
+
+1. sådan nyskapande kulturell verksamhet av professionell art och hög kvalitet som bedrivs i projektform,
+
+2. samverkansprojekt som syftar till att utveckla nya former för att bedriva kulturell verksamhet, eller
+
+3. projekt som syftar till att utveckla nya sätt att finansiera kulturell verksamhet.
+
+Projekten kan avse ett enskilt konst- eller kulturområde eller vara konstområdesöverskridande. De kan också bygga på samverkan mellan kultursektorn och andra samhällsområden.
+
+*Förordning (2012:904)*.
+
+#### 4 §
+
+Statsbidrag får lämnas till fysiska eller juridiska personer som är verksamma i Sverige. *Förordning (2025:915)*.
+
+#### 5 §
+
+Vid fördelningen av bidrag ska det fria kulturlivet prioriteras.
+
+#### 6 §
+
+Krav på finansiering även från annan part bör ställas som villkor för statsbidrag. Sådant krav behöver inte ställas om bidrag ges för att påbörja en försöksverksamhet eller för att vidareutveckla en projektidé.
+
+Vid fördelning av statsbidrag får vidare beaktas om sökanden redan har beviljats annat statligt bidrag för samma verksamhet eller projekt som en ansökan enligt denna förordning avser.
+
+*Förordning (2025:915)*.
+
+#### 6 a §
+
+Statsbidrag får inte lämnas till den som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Kulturbryggan vid konstnärsnämnden. *Förordning (2025:915)*.
+
+### Ärendenas handläggning
+
+#### 7 §
+
+Kulturbryggan vid Konstnärsnämnden prövar frågor om statsbidrag enligt denna förordning. *Förordning (2015:541)*.
+
+#### 8 §
+
+Den som ansöker om bidrag ska på begäran av Kulturbryggan lämna de uppgifter och handlingar som behövs för att kunna pröva ansökan.
+
+En ansökan om statsbidrag ska göras skriftligen hos Kulturbryggan av sökanden eller behörig företrädare för sökanden. *Förordning (2025:915)*.
+
+#### 9 §
+
+Innan ett bidrag beviljas ska Kulturbryggan låta minst en extern bedömare med kunskap inom relevanta konst- och kulturområden yttra sig över ansökan.
+
+#### 10 §
+
+Kulturbryggan ska i beslut om bidrag ange vilket ändamål bidraget beviljas för och vilka villkor som ska gälla för bidraget. I beslutet ska också sista dag för redovisning anges.
+
+#### 11 §
+
+Bidrag beviljas för högst ett år i taget.
+
+### Anmälningsskyldighet
+
+#### 11 a §
+
+Den som ansöker om eller har beviljats statsbidrag enligt denna förordning ska snarast möjligt till Kulturbryggan anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget. *Förordning (2025:915)*.
+
+### Redovisning
+
+#### 12 §
+
+En bidragsmottagare ska senast vid den tidpunkt som anges i beslutet till Kulturbryggan lämna en ekonomisk redovisning av det mottagna statsbidraget samt en redogörelse för vad bidraget har använts till, vilka resultat som har uppnåtts och hur resultaten förhåller sig till de ändamål som bidraget beviljats för.
+
+Bidragsmottagaren ska även lämna de övriga uppgifter och handlingar som Kulturbryggan begär för granskningen av redovisningen. *Förordning (2025:915)*.
+
+#### 12 a §
+
+Kulturbryggan får i beslutet om statsbidrag föreskriva att en revisor ska granska redovisningen enligt 12 §. Revisorns rapport över granskningen ska bifogas redovisningen.
+
+Om det bidrag som har tagits emot uppgår till minst 5 prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, ska alltid en auktoriserad eller godkänd revisor granska redovisningen. *Förordning (2025:915)*.
+
+### Hinder mot utbetalning
+
+#### 13 §
+
+Kulturbryggan ska besluta om att ett beviljat statsbidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 14 §. Ett sådant beslut gäller omedelbart. *Förordning (2025:915)*.
+
+### Återbetalning och återkrav
+
+#### 14 §
+
+En bidragsmottagare är skyldig att betala tillbaka bidraget om
+
+1. mottagaren av bidraget genom att lämna oriktiga uppgifter eller på annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget inte har utnyttjats eller använts för det ändamål som det har beviljats för,
+
+4. mottagaren inte har lämnat en sådan redovisning eller sådana uppgifter och handlingar som avses i 12 §, eller
+
+5. villkor i beslutet inte har följts. *Förordning (2025:915)*.
+
+#### 15 §
+
+Kulturbryggan ska besluta att helt eller delvis kräva tillbaka bidraget, om bidragsmottagaren är återbetalningsskyldig enligt 14 §. *Förordning (2025:915)*.
+
+#### 16 §
+
+Om ett belopp som har återkrävts enligt 15 § inte betalas i rätt tid, ska dröjsmålsränta tas ut på beloppet. För uttag av dröjsmålsränta gäller i tilllämpliga delar räntelagen (1975:635). *Förordning (2025:915)*.
+
+#### 16 a §
+
+Om det finns särskilda skäl, får Kulturbryggan besluta att helt eller delvis avstå från ett krav på återbetalning enligt 15 § eller ett krav på ränta enligt 16 §.
+
+*Förordning (2025:915)*.
+
+### Bemyndigande
+
+#### 16 b §
+
+Konstnärsnämnden får, efter samråd med Kulturbryggan, meddela föreskrifter om verkställigheten av denna förordning.
+
+*Förordning (2025:915)*.
+
+### Överklagande
+
+#### 17 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om hinder mot utbetalning enligt 13 § och beslut om återkrav enligt 15 § får dock inte överklagas. *Förordning (2025:915)*.
+
+## Övergångsbestämmelser
+
+**2025:915**
+
+1. Denna förordning träder i kraft den 18 november 2025.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.

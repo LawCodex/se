@@ -1,0 +1,263 @@
+---
+title: "Förordning (2019:1269) om statsbidrag till konstnärer"
+identifier: "SFS 2019:1269"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-12-11
+amended_through: "SFS 2025:1059"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-1269.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:1269"
+retrieved: 2026-10-11
+---
+# Förordning (2019:1269) om statsbidrag till konstnärer
+
+### Inledande bestämmelser
+
+#### 1 §
+
+I denna förordning finns bestämmelser om statsbidrag till konstnärer.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+### Syftet med statsbidraget
+
+#### 2 §
+
+Syftet med statsbidraget är att främja yrkesverksamma konstnärers möjligheter att bedriva, fördjupa och utveckla sin konstnärliga verksamhet.
+
+### I vilka former statsbidrag får lämnas
+
+#### 3 §
+
+Statsbidrag får lämnas i form av stipendier, projektbidrag och bidrag för internationellt utbyte.
+
+### Vem statsbidrag får lämnas till
+
+#### 4 §
+
+Statsbidrag får lämnas till en fysisk person.
+
+#### 5 §
+
+Statsbidrag får lämnas till en yrkesverksam konstnär som
+
+1. har sin huvudsakliga konstnärliga verksamhet i Sverige,
+
+2. skriver på eller översätter till svenska, eller
+
+3. vistas tillfälligt i landet inom ramen för ett internationellt utbyte.
+
+### Förutsättningar för statsbidrag
+
+#### 6 §
+
+Statsbidrag lämnas i mån av tillgång på medel.
+
+#### 7 §
+
+Statsbidrag får endast lämnas i enlighet med kommissionens förordning (EU) 2023/2831 av den 13 december 2023 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse.
+
+*Förordning (2024:291)*.
+
+#### 8 §
+
+Statsbidrag får inte lämnas till den vars huvudsakliga sysselsättning är studier. Statsbidrag får inte heller lämnas för genomförandet av utvecklings- eller forskningsprojekt vid statliga universitet och högskolor som omfattas av högskolelagen (1992:1434) eller enskilda utbildningsanordnare som har tillstånd att utfärda examina enligt lagen (1993:792) om tillstånd att utfärda vissa examina.
+
+#### 9 §
+
+Statsbidrag får inte lämnas till den som
+
+1. är försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs som allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av styrelsen för Sveriges författarfond eller Konstnärsnämnden. *Förordning (2025:913)*.
+
+### Särskilda förutsättningar för stipendier
+
+#### 10 §
+
+Arbetsstipendium får lämnas för högst fem år i taget för att ge en konstnär möjlighet att bedriva och fördjupa sin konstnärliga verksamhet.
+
+#### 11 §
+
+Långtidsstipendium får lämnas för högst tio år för att ge en konstnär, som under längre tid bedrivit konstnärlig verksamhet av god kvalitet, möjlighet att långsiktigt utveckla sitt konstnärskap.
+
+Långtidsstipendium får lämnas endast en gång till samma person.
+
+Långtidsstipendium lämnas med ett årligt belopp motsvarande tre prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken.
+
+#### 12 §
+
+Det får beslutas att ett långtidsstipendium ska upphöra om mottagaren
+
+1. upphör med sin konstnärliga verksamhet,
+
+2. påbörjar en tillsvidareanställning, ett förordnande eller ett uppdrag som avser mer än halvtid, eller
+
+3. får sjukersättning, aktivitetsersättning eller ålderspension enligt socialförsäkringsbalken.
+
+### Särskilda förutsättningar för projektbidrag
+
+#### 13 §
+
+Projektbidrag får lämnas för ett tidsbegränsat och målinriktat projekt som främjar konstnärlig utveckling.
+
+### Särskilda förutsättningar för bidrag för internationellt utbyte
+
+#### 14 §
+
+Bidrag för internationellt utbyte får lämnas för tidsbegränsad medverkan i internationellt utbyte, i Sverige eller i ett annat land, som syftar till att bedriva, fördjupa eller utveckla konstnärlig verksamhet.
+
+### Ärendenas handläggning
+
+#### 15 §
+
+Frågor om statsbidrag enligt denna förordning prövas av
+
+1. styrelsen för Sveriges författarfond i fråga om statsbidrag till konstnärer inom litteratur- och ordområdet, och
+
+2. Konstnärsnämnden i fråga om andra konstnärer.
+
+#### 16 §
+
+En ansökan om statsbidrag ska vara skriftlig och lämnas in till den myndighet som ska pröva ansökan. Ansökan ska innehålla de uppgifter som behövs för prövningen samt en redogörelse för
+
+1. stöd av mindre betydelse som den sökande fått under den senaste treårsperioden, och
+
+2. stöd som denne tidigare ansökt om eller beviljats och som avser samma stödberättigande kostnader som det stöd som omfattas av ansökan. *Förordning (2024:291)*.
+
+#### 17 §
+
+Statsbidrag i form av stipendium och bidrag för internationellt kulturutbyte får lämnas även utan ansökan.
+
+Innan ett beslut om statsbidrag utan ansökan fattas ska de uppgifter som behövs för prövningen inhämtas från den som kan komma att beviljas statsbidrag. Det ska även inhämtas en redogörelse för
+
+1. stöd av mindre betydelse som den som kan komma att beviljas statsbidrag fått under den senaste treårsperioden, och
+
+2. stöd som denne tidigare ansökt om eller beviljats och som avser samma stödberättigande kostnader som det stöd som omfattas av ansökan. *Förordning (2024:291)*.
+
+#### 18 §
+
+Innan statsbidrag beviljas ska den myndighet som prövar frågan lämna de upplysningar till mottagaren av statsbidraget som framgår av artikel 7.4 i kommissionens förordning (EU) 2023/2831. *Förordning (2024:291)*.
+
+#### 19 §
+
+Statsbidrag får inte beviljas förrän den kontroll som ska göras enligt artikel 6.4 i kommissionens förordning (EU) 2023/2831 har utförts. *Förordning (2024:291)*.
+
+#### 19 a §
+
+En ansökan om projektbidrag får avslås om sökanden har fått annat statligt bidrag för samma projekt som en ansökan enligt denna förordning avser. *Förordning (2025:913)*.
+
+#### 20 §
+
+Vid fördelningen av statsbidrag ska hänsyn tas till konstnärlig kvalitet och den sökandes behov av ekonomiskt stöd. Det ska även eftersträvas att sökande bosatta i olika delar av landet och som är verksamma inom olika genrer och tekniker kommer i fråga vid fördelningen av statsbidrag.
+
+#### 21 §
+
+Styrelsen för Sveriges författarfond och Konstnärsnämnden ska fortlöpande och i lämpliga former samarbeta med varandra i frågor som rör principerna för statsbidrag enligt denna förordning.
+
+#### 22 §
+
+Ett beslut om statsbidrag får förenas med villkor. Dessa ska framgå av beslutet. I beslutet ska även sista dag för redovisning enligt 23 § anges.
+
+### Redovisning
+
+#### 23 §
+
+Den som har beviljats projektbidrag ska senast vid den tidpunkt som anges i beslutet till den myndighet som har beviljat statsbidraget lämna en ekonomisk redovisning av det mottagna bidraget samt en redogörelse för vad bidraget har använts till, vilka resultat som har uppnåtts och hur resultaten förhåller sig till det ändamål som bidraget beviljats för. Bidragsmottagaren ska även lämna de övriga uppgifter och handlingar som den myndighet som har beviljat statsbidraget begär för granskningen av redovisningen.
+
+Beslut om stipendium och bidrag för internationellt utbyte får förenas med villkor om en redovisning, i likhet med den som anges i första stycket. *Förordning (2025:913)*.
+
+#### 23 a §
+
+Den myndighet som har beviljat statsbidraget får i beslutet om bidrag föreskriva att en revisor ska granska redovisningen enligt 23 §. Revisorns rapport över granskningen ska bifogas redovisningen. *Förordning (2025:913)*.
+
+### Anmälningsskyldighet
+
+#### 24 §
+
+Den som ansöker om eller har beviljats bidrag enligt denna förordning ska snarast möjligt till den myndighet som har beviljat statsbidraget anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget.
+
+*Förordning (2025:913)*.
+
+### Hinder mot utbetalning
+
+#### 25 §
+
+Den myndighet som har beviljat statsbidraget ska besluta om att ett beviljat bidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 26 §. Ett sådant beslut gäller omedelbart. *Förordning (2025:913)*.
+
+### Återbetalning och återkrav
+
+#### 26 §
+
+Mottagaren av ett statsbidrag enligt denna förordning är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget helt eller delvis inte har utnyttjats eller inte har använts för det ändamål som det har beviljats för,
+
+4. mottagaren inte har lämnat sådan redovisning eller sådana handlingar som avses i 23 §, eller
+
+5. villkor i beslutet om bidrag inte har följts.
+
+*Förordning (2025:913)*.
+
+#### 27 §
+
+Om någon är återbetalningsskyldig enligt 26 §, ska den myndighet som har beviljat statsbidraget besluta att helt eller delvis kräva tillbaka statsbidraget.
+
+#### 28 §
+
+Om ett belopp som har återkrävts med stöd av 27 § inte betalas i rätt tid, ska dröjsmålsränta enligt räntelagen (1975:635) tas ut på beloppet.
+
+#### 29 §
+
+Om det finns särskilda skäl får den myndighet som beviljat statsbidraget besluta att helt eller delvis efterge ett krav på återbetalning enligt 27 § eller ett krav på ränta enligt 28 §.
+
+### Bemyndigande
+
+#### 30 §
+
+Konstnärsnämnden får, efter att ha gett Styrelsen för Sveriges författarfond tillfälle att yttra sig, meddela föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 31 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om hinder mot utbetalning enligt 25 § och återkrav enligt 27 § får dock inte överklagas. *Förordning (2025:913)*.
+
+#### 32 §
+
+Har upphävts genom *förordning (2025:1059)*.
+
+## Övergångsbestämmelser
+
+**2019:1269**
+
+1. Denna förordning träder i kraft den 1 mars 2020.
+
+2. Genom förordningen upphävs
+
+a) förordningen (1976:528) om bidrag till konstnärer, och
+
+b) förordningen (1989:500) om vissa särskilda insatser på kulturområdet.
+
+3. De upphävda förordningarna gäller dock fortfarande för statsbidrag som har beviljats före ikraftträdandet.
+
+**2025:913**
+
+1. Denna förordning träder i kraft den 18 november 2025.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.
+
+**2025:1059**
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Den upphävda paragrafen gäller dock för uppgifter som registrerats före ikraftträdandet.

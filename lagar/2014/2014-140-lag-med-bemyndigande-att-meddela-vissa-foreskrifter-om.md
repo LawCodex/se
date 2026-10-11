@@ -1,0 +1,33 @@
+---
+title: "Lag (2014:140) med bemyndigande att meddela vissa föreskrifter om marknadskontroll av varor och annan närliggande tillsyn"
+identifier: "SFS 2014:140"
+type: act
+jurisdiction: se
+language: sv
+date: 2014-03-20
+amended_through: "SFS 2022:1129"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-140.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:140"
+retrieved: 2026-10-11
+---
+# Lag (2014:140) med bemyndigande att meddela vissa föreskrifter om marknadskontroll av varor och annan närliggande tillsyn
+
+## 1 §
+
+Regeringen får meddela föreskrifter om skyldighet för en kommun att i verksamhet som kommunen bedriver för att kontrollera varor
+
+1. informera de myndigheter som regeringen bestämmer vid beslut om en åtgärd som rör den fria rörligheten för varor och om den vidtar eller avser att vidta en sådan åtgärd i händelse av allvarlig risk,
+
+2. bidra med underlag i fråga om program för marknadskontroll till de myndigheter som regeringen bestämmer,
+
+3. bidra med information till allmänna informationssystem till de myndigheter som regeringen bestämmer, och
+
+4. bidra med information till de myndigheter som regeringen bestämmer för att de ska kunna fullgöra sina skyldigheter som kontaktpunkter.
+
+## 2 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om avgifter för marknadskontroll enligt Europaparlamentets och rådets förordning (EU) 2019/1020 av den 20 juni 2019 om marknadskontroll och överensstämmelse för produkter och om ändring av direktiv 2004/42/EG och förordningarna (EG) nr 765/2008 och (EU) nr 305/2011.
+
+En kommun får meddela föreskrifter om sådana avgifter som avses i första stycket när det gäller en kommunal myndighets verksamhet. *Lag (2022:1129)*.

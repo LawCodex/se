@@ -1,0 +1,57 @@
+---
+title: "Förordning (2015:476) om behandling av personuppgifter i Nationellt forensiskt centrums uppdragsverksamhet"
+identifier: "SFS 2015:476"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2015-06-25
+amended_through: "SFS 2019:445"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2015-476.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2015:476"
+retrieved: 2026-10-11
+---
+# Förordning (2015:476) om behandling av personuppgifter i Nationellt forensiskt centrums uppdragsverksamhet
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna förordning gäller vid helt eller delvis automatiserad behandling av personuppgifter vid undersökningar som Nationellt forensiskt centrum i Polismyndigheten utför på uppdrag av andra än de myndigheter eller organ som anges i 6 kap. 1 § lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område. *Förordning (2018:1950)*.
+
+## Förhållande till annan reglering
+
+### 2 §
+
+Denna förordning kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskydds- förordning).
+
+Vid behandling av personuppgifter enligt denna förordning gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna förordning. *Förordning (2019:445)*.
+
+## Personuppgiftsansvar
+
+### 3 §
+
+Polismyndigheten är personuppgiftsansvarig för den behandling av personuppgifter som utförs enligt denna förordning.
+
+## Ändamål med behandling av personuppgifter
+
+### 4 §
+
+Personuppgifter får behandlas vid Nationellt forensiskt centrum om det behövs för diarieföring eller handläggning av ett sådant uppdrag som anges i 1 §.
+
+Personuppgifter som behandlas för de ändamål som anges i första stycket får också behandlas för att fullgöra uppgiftslämnande som sker i överensstämmelse med lag eller förordning.
+
+Personuppgifter får inte behandlas för något annat ändamål än de som anges i första och andra styckena.
+
+## Tillgången till personuppgifter
+
+### 5 §
+
+Tillgången till personuppgifter ska begränsas till vad varje tjänsteman behöver för att kunna fullgöra sina arbetsuppgifter.
+
+## Rättelse och skadestånd
+
+### 6 §
+
+Har upphävts genom *förordning (2019:445)*.

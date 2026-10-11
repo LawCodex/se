@@ -1,0 +1,55 @@
+---
+title: "Kriminalvårdsdataförordning (2018:1236)"
+identifier: "SFS 2018:1236"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-06-20
+amended_through: "SFS 2020:1143"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1236.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1236"
+retrieved: 2026-10-11
+---
+# Kriminalvårdsdataförordning (2018:1236)
+
+### 1 §
+
+I denna förordning finns kompletterande föreskrifter om sådan behandling av personuppgifter som omfattas av kriminalvårdsdatalagen (2018:1235).
+
+## Behandling av personuppgifter vid verkställighet av frihetsberövanden
+
+### 2 §
+
+Om det är nödvändigt för att verkställa frihetsberövanden får Kriminalvården, i fråga om den som är frihetsberövad, behandla personuppgifter i en sådan journal som avses i 5 § häktesförordningen (2010:2011). Journalen får innehålla uppgifter om alla beslut som har fattats, viktiga händelser under frihetsberövandet och väsentliga uppgifter om vidtagna eller planerade åtgärder som gäller personen. Den får även innehålla uppgifter om omständigheter i övrigt som är av betydelse för frihetsberövandet.
+
+### 3 §
+
+Personuppgifter som avses i 2 § ska gallras senast två år efter det att frihetsberövandet har upphört.
+
+## Behandling av personuppgifter vid genomförande av transporter
+
+### 4 §
+
+Om det är nödvändigt för att genomföra transporter får Kriminalvården, i fråga om den som transporteras, behandla personuppgifter i en sådan journal som avses i 6 § andra stycket förordningen (2007:1172) med instruktion för Kriminalvården. Journalen får innehålla uppgifter om alla beslut som har fattats, viktiga händelser under transporten och väsentliga uppgifter om vidtagna eller planerade åtgärder som gäller personen. Den får även innehålla uppgifter om omständigheter i övrigt som är av betydelse för transporten.
+
+### 5 §
+
+Personuppgifter som avses i 4 § ska gallras senast två år efter det att transporten har utförts.
+
+## Direktåtkomst
+
+### 6 §
+
+Polismyndigheten och Säkerhetspolisen får medges direktåtkomst till personuppgifter som behandlas med stöd av kriminalvårdsdatalagen (2018:1235).
+
+## Föreskrifter
+
+### 7 §
+
+Kriminalvården får meddela ytterligare föreskrifter om verkställigheten av kriminalvårdsdatalagen (2018:1235) och föreskrifter om verkställigheten av denna förordning.
+
+Innan Kriminalvården meddelar föreskrifter ska Integritetsskyddsmyndigheten ges tillfälle att yttra sig.
+
+*Förordning (2020:1143)*.

@@ -1,0 +1,175 @@
+---
+title: "Förordning (2006:519) om särskilt personsäkerhetsarbete m.m."
+identifier: "SFS 2006:519"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-06-01
+amended_through: "SFS 2026:1219"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-519.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:519"
+retrieved: 2026-10-11
+---
+# Förordning (2006:519) om särskilt personsäkerhetsarbete m.m.
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om särskilt personsäkerhetsarbete enligt 2 a § polislagen (1984:387). I förordningen finns också bestämmelser om statlig ersättning till följd av andra säkerhetsåtgärder som Polismyndigheten eller Säkerhetspolisen har beslutat om.
+
+Den som blir föremål för särskilt personsäkerhetsarbete ska få hjälp med de säkerhetsåtgärder som bedöms möjliga och nödvändiga att genomföra. Han eller hon ska även få hjälp med myndighetskontakter och annat som krävs för att personsäkerhetsarbetet ska kunna bedrivas.
+
+Polismyndigheten och, i den omfattning som anges i denna förordning, Kriminalvården får bedriva särskilt personsäkerhetsarbete. *Förordning (2026:1219)*.
+
+## Förutsättningar för särskilt personsäkerhetsarbete
+
+### 2 §
+
+Särskilt personsäkerhetsarbete får bedrivas beträffande
+
+1. misstänkta, tilltalade, målsägande, vittnen och andra som medverkar eller har medverkat i en förundersökning eller rättegång som rör grov eller organiserad brottslighet (bevispersoner),
+
+2. personer som fortlöpande lämnar eller har lämnat information till Polismyndigheten eller Säkerhetspolisen i frågor som rör grov eller organiserad brottslighet,
+
+3. anställda inom rättsväsendet, eller
+
+4. närstående till personer som anges i 1-3.
+
+Om det finns särskilda skäl, får särskilt personsäkerhetsarbete bedrivas även beträffande andra personer. *Förordning (2014:1173)*.
+
+### 3 §
+
+En person får bli föremål för särskilt personsäkerhetsarbete om det finns en påtaglig risk för att allvarlig brottslighet riktas mot hans eller hennes eller en närståendes liv, hälsa, frihet eller frid.
+
+### 4 §
+
+För att särskilt personsäkerhetsarbete ska få bedrivas beträffande en bevisperson krävs, utöver vad som följer av 3 §, att
+
+1. de uppgifter som bevispersonen lämnar eller har lämnat bedöms ha betydelse för förundersökningen eller rättegången,
+
+2. det finns ett samband mellan risken för brott och de uppgifter som bevispersonen lämnar eller har lämnat,
+
+3. bevispersonen samtycker till att medverka i säkerhetsarbetet och bedöms kunna följa de villkor som han eller hon kan bli skyldig att följa,
+
+4. bevispersonen har eller kan förväntas få rätt att stadigvarande vistas i Sverige, och
+
+5. andra säkerhetsåtgärder bedöms vara otillräckliga.
+
+För att särskilt personsäkerhetsarbete ska få bedrivas beträffande andra personer än bevispersoner krävs att de förutsättningar som anges i första stycket 3-5 är uppfyllda.
+
+Därutöver krävs, när det gäller personer som fortlöpande lämnar eller har lämnat information till Polismyndigheten eller Säkerhetspolisen, att det finns ett samband mellan risken för brott och informationslämnandet. När det gäller anställda inom rättsväsendet krävs i stället att det finns ett samband mellan risken för brott och den tjänst som den anställde innehar eller har innehaft. *Förordning (2014:1173)*.
+
+## Ansvaret för det särskilda personsäkerhetsarbetet
+
+### 5 §
+
+Polismyndigheten ansvarar för det särskilda personsäkerhetsarbetet. Kriminalvården ansvarar dock för särskilt personsäkerhetsarbete avseende den som avtjänar fängelsestraff eller säkerhetsförvaring och som inte
+
+1. avtjänar en del av fängelsestraffet utanför anstalt enligt 11 kap. fängelselagen (2010:610) och har sin dygnsvila utanför anstalten,
+
+2. verkställer påföljden utanför anstalt enligt 4 kap. 1 § lagen (2026:252) om verkställighet av säkerhetsförvaring, om verkställigheten utanför anstalt är varaktig, eller
+
+3. verkställer dom på fängelse enligt lagen (2025:1053) om verkställighet av fängelsestraff med elektronisk övervakning.
+
+*Förordning (2026:930)*.
+
+### 6 §
+
+Inom Polismyndigheten ska det finnas särskilda enheter för särskilt personsäkerhetsarbete som bedrivs enligt denna förordning (personsäkerhetsenheter). Polismyndigheten ansvarar även för det särskilda personsäkerhetsarbetet som rör Säkerhetspolisen.
+
+Inom Kriminalvården ska det finnas en eller flera tjänstemän som ansvarar för frågor som rör sådant arbete.
+
+*Förordning (2014:1173)*.
+
+### 7 §
+
+I ärenden om särskilt personsäkerhetsarbete ska Polismyndigheten och Kriminalvården samarbeta med varandra och med andra myndigheter och samhällsorgan som berörs.
+
+*Förordning (2026:1219)*.
+
+## Inledning av särskilt personsäkerhetsarbete
+
+### 8 §
+
+När en fråga om särskilt personsäkerhetsarbete väcks inom Polismyndigheten eller Kriminalvården ska en personsäkerhetsenhet skyndsamt pröva frågan om sådant säkerhetsarbete ska bedrivas i ett visst fall.
+
+*Förordning (2014:1173)*.
+
+### 9 §
+
+Den myndighet som enligt 5 § ansvarar för det särskilda personsäkerhetsarbetet beslutar vilka säkerhetsåtgärder som skall vidtas och hur personsäkerhetsarbetet i övrigt skall utformas i det enskilda fallet.
+
+Efter samråd med den som skall omfattas av personsäkerhetsarbetet får myndigheten ställa upp villkor för arbetet som han eller hon är skyldig att följa.
+
+## Avslutande av särskilt personsäkerhetsarbete
+
+### 10 §
+
+Om förutsättningarna för att bedriva särskilt personsäkerhetsarbete beträffande en enskild inte längre finns, skall den personsäkerhetsenhet som handlägger ärendet besluta att personsäkerhetsarbetet skall upphöra.
+
+Om det i ett sådant fall är Kriminalvården som ansvarar för personsäkerhetsarbetet, skall Kriminalvården underrätta personsäkerhetsenheten om att förutsättningar för att bedriva arbetet inte längre finns.
+
+## Personsäkerhetsersättning
+
+### 11 §
+
+Den som enligt denna förordning är föremål för särskilt personsäkerhetsarbete kan, efter särskilt beslut, få ekonomisk ersättning från staten (personsäkerhetsersättning).
+
+Frågor om sådan ersättning prövas av den personsäkerhetsenhet som handlägger personsäkerhetsärendet.
+
+### 12 §
+
+Personsäkerhetsersättning får lämnas i skälig utsträckning för utgifter, förlorad arbetsförtjänst, intrång i näringsverksamhet och förlust vid avyttring av egendom som orsakats av åtgärder till följd av de villkor som uppställts för personsäkerhetsarbetet.
+
+### 13 §
+
+Personsäkerhetsersättningen ska, om det inte finns särskilda skäl, bestämmas till ett engångsbelopp.
+
+Personsäkerhetsersättningen får uppgå till högst ett belopp som motsvarar tio gånger det prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken som gäller då ersättningen beslutas. Om det finns synnerliga skäl får ersättningen bestämmas till ett högre belopp.
+
+Har ett beslut om personsäkerhetsersättning redan fattats, får ett nytt beslut om ytterligare ersättning fattas, om det finns synnerliga skäl. *Förordning (2010:1729)*.
+
+### 14 §
+
+Ansökan om personsäkerhetsersättning skall göras inom två år från det att den utgift, förlust eller annan ekonomiska skada som anges i 12 § uppstod.
+
+Om det finns synnerliga skäl kan en fråga om personsäkerhetsersättning prövas även om ansökan har kommit in efter den tidpunkt som anges i första stycket.
+
+## Ersättning till följd av andra säkerhetsåtgärder
+
+### 14 a §
+
+Anställda vid Polismyndigheten eller Säkerhetspolisen och deras närstående kan, efter särskilt beslut, få ekonomisk ersättning från staten till följd av andra säkerhetsåtgärder som myndigheten har beslutat om. Det som sägs om personsäkerhetsersättning i 12-14 §§ gäller även för sådan ersättning.
+
+Frågor om ersättning enligt första stycket prövas av den myndighet som har beslutat om säkerhetsåtgärden. *Förordning (2026:1219)*.
+
+## Överklagande och omprövning av beslut
+
+### 15 §
+
+Beslut enligt denna förordning får inte överklagas.
+
+Finner den myndighet som har fattat ett beslut att detta är oriktigt på grund av nya omständigheter eller av någon annan anledning, får myndigheten ändra beslutet, om det kan ske utan att det blir till nackdel för den som beslutet avser.
+
+## Bemyndiganden
+
+### 16 §
+
+Polismyndigheten får, efter att ha hört Säkerhetspolisen, meddela närmare föreskrifter om
+
+1. verkställigheten av denna förordning när det gäller det särskilda personsäkerhetsarbete som bedrivs inom polisen, och
+
+2. hur personsäkerhetsersättningen och ersättningen enligt 14 a § närmare ska bestämmas. *Förordning (2026:1219)*.
+
+### 17 §
+
+Kriminalvården får meddela närmare föreskrifter om verkställigheten av denna förordning när det gäller det särskilda personsäkerhetsarbete som bedrivs inom myndigheten.
+
+## Överenskommelse om samarbete
+
+### 18 §
+
+Rikspolischefen eller chefen för Nationella operativa avdelningen vid Polismyndigheten får för Polismyndighetens räkning ingå en överenskommelse med en utländsk brottsbekämpande myndighet om samarbete angående särskilt personsäkerhetsarbete. *Förordning (2014:1173)*.

@@ -1,0 +1,97 @@
+---
+title: "Brottsskadeförordning (2014:327)"
+identifier: "SFS 2014:327"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2014-05-15
+amended_through: "SFS 2026:1220"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-327.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:327"
+retrieved: 2026-10-11
+---
+# Brottsskadeförordning (2014:327)
+
+## Förordningens tillämpningsområde
+
+### 1 §
+
+Denna förordning innehåller bestämmelser om brottsskadeersättning och europeisk brottsskadeersättning.
+
+## Brottsskadeersättning
+
+### 2 §
+
+En ansökan om brottsskadeersättning görs på en särskild blankett. Ansökan ges in till Brottsoffermyndigheten.
+
+Till ansökan bör brottsanmälan, läkarutlåtande och andra handlingar som behövs för prövningen bifogas. Om skadevållaren har dömts för brott som avses med ansökan eller dömts att betala skadestånd, bör också domen bifogas. Om polisutredning inte har ägt rum, ska annan utredning om skadans uppkomst lämnas.
+
+### 3 §
+
+Har upphävts genom *förordning (2020:285)*.
+
+### 4 §
+
+Brottsoffermyndigheten betalar ut brottsskadeersättning och ersättning för kostnader enligt brottsskadelagen (2014:322).
+
+### 5 §
+
+Brottsoffermyndigheten ska skyndsamt underrätta Kronofogdemyndigheten om ett beslut att bevilja brottsskadeersättning.
+
+Innan brottsskadeersättning betalas ut till någon som inte har fyllt 18 år, ska Brottsoffermyndigheten underrätta överförmyndaren. *Förordning (2026:1220)*.
+
+## Europeisk brottsskadeersättning
+
+## Biståndsmyndighet
+
+### 6 §
+
+Brottsoffermyndigheten är biståndsmyndighet enligt artikel 3 i rådets direktiv 2004/80/EG av den 29 april 2004 om ersättning till brottsoffer, i den ursprungliga lydelsen.
+
+### 7 §
+
+Som biståndsmyndighet ska Brottsoffermyndigheten på begäran
+
+1. lämna den enskilde grundläggande information om hur man i en annan medlemsstat i Europeiska unionen ansöker om ersättning av den staten för skada till följd av brott,
+
+2. tillhandahålla de särskilda ansökningsformulär som i ett sådant ärende kan föreskrivas av den andra statens myndigheter, och
+
+3. ge vägledning i fråga om hur formulären ska fyllas i och vilka handlingar som bör bifogas ansökan.
+
+### 8 §
+
+Om en ansökan om brottsskadeersättning ska behandlas som en ansökan om europeisk brottsskadeersättning enligt 36 § brottsskadelagen (2014:322), ska Brottsoffermyndigheten vidta de åtgärder som behövs för att den enskildes ansökan ska kunna behandlas av en myndighet i den andra staten.
+
+### 9 §
+
+Enligt 37 § första stycket brottsskadelagen (2014:322) ska Brottsoffermyndigheten överlämna en ansökan om europeisk brottsskadeersättning till den myndighet i den andra staten som är behörig att handlägga ärendet. Vid överlämnandet ska en särskild blankett användas.
+
+Om den utländska myndigheten begär kompletterande upplysningar av sökanden, ska Brottsoffermyndigheten på begäran hjälpa honom eller henne med att lämna sådana upplysningar och ge in dem till den utländska myndigheten.
+
+### 10 §
+
+Om den utländska myndigheten beslutar att hålla sammanträde i ärendet, ska Brottsoffermyndigheten på begäran lämna den utländska myndigheten sådant bistånd att sökanden kan höras per telefon eller genom videokonferens.
+
+## Beslutsmyndighet
+
+### 11 §
+
+Brottsoffermyndigheten är beslutsmyndighet enligt artikel 3 i rådets direktiv 2004/80/EG av den 29 april 2004 om ersättning till brottsoffer, i den ursprungliga lydelsen.
+
+### 12 §
+
+När Brottsoffermyndigheten tar emot en ansökan om brottsskadeersättning som har översänts från en biståndsmyndighet i en annan medlemsstat i Europeiska unionen, ska Brottsoffermyndigheten snarast
+
+1. lämna uppgift om namnet på den tjänsteman som handlägger ärendet,
+
+2. utfärda ett bevis om att ansökan har tagits emot, och
+
+3. lämna uppgift om den handläggningstid som ärendet kan komma att kräva.
+
+Uppgifterna och beviset enligt första stycket ska sändas till den enskilde och den utländska myndigheten.
+
+### 13 §
+
+Brottsoffermyndigheten ska underrätta den enskilde och biståndsmyndigheten i den andra medlemsstaten om innehållet i det beslut genom vilket ärendet avgörs. Vid underrättelsen ska en särskild blankett användas.

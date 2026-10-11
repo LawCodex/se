@@ -1,0 +1,125 @@
+---
+title: "Lag (2021:1256) om riskskatt för kreditinstitut"
+identifier: "SFS 2021:1256"
+type: act
+jurisdiction: se
+language: sv
+date: 2021-12-16
+amended_through: "SFS 2025:1373"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2021-1256.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2021:1256"
+retrieved: 2026-10-11
+---
+# Lag (2021:1256) om riskskatt för kreditinstitut
+
+### Lagens tillämpningsområde
+
+#### 1 §
+
+Kreditinstitut ska betala riskskatt till staten enligt denna lag.
+
+### Ord och uttryck i lagen
+
+#### 2 §
+
+Ord och uttryck som används i denna lag har samma betydelse och tillämpningsområde som i inkomstskattelagen (1999:1229), om inte annat anges.
+
+#### 3 §
+
+Med koncern avses vid tillämpningen av denna lag en koncern av sådant slag som anges i 1 kap. 4 § årsredovisningslagen (1995:1554).
+
+### Skattskyldighet
+
+#### 4 §
+
+Ett svenskt kreditinstitut är skattskyldigt enligt denna lag om summan av kreditinstitutets skulder vid beskattningsårets ingång överstiger gränsvärdet enligt 5 §.
+
+Ett utländskt kreditinstitut är skattskyldigt enligt denna lag om
+
+1. kreditinstitutet har skulder vid beskattningsårets ingång som är hänförliga till verksamhet som kreditinstitutet bedriver från filial i Sverige, och
+
+2. summan av dessa skulder vid beskattningsårets ingång överstiger gränsvärdet.
+
+Vid beräkningen av om ett kreditinstituts skulder överstiger gränsvärdet ska inte avsättningar eller obeskattade reserver beaktas.
+
+#### 5 §
+
+Gränsvärdet uppgår till 150 miljarder kronor för beskattningsår som påbörjas under år 2022.
+
+För beskattningsår som påbörjas under år 2023 och senare år uppgår gränsvärdet till gränsvärdet för beskattningsår som påbörjas året före det år under vilket det aktuella beskattningsåret påbörjas multiplicerat med jämförelsetalet enligt fjärde stycket uttryckt i procent med två decimaler avrundat nedåt plus två procentenheter. Gränsvärdet avrundas nedåt och uttrycks i hela miljarder kronor.
+
+Regeringen fastställer före november månads utgång det gränsvärde som ska gälla för beskattningsår som påbörjas under det påföljande året.
+
+Med jämförelsetal avses det värde som anger förhållandet mellan prisbasbeloppet för det år under vilket det aktuella beskattningsåret påbörjas och prisbasbeloppet året före det år under vilket det aktuella beskattningsåret påbörjas. Med prisbasbelopp avses prisbasbeloppet enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken. *Lag (2023:163)*.
+
+#### 6 §
+
+Om kreditinstitutet ingår i en koncern med flera kreditinstitut, ska de ingående kreditinstitutens sammanlagda skulder vid ingången av kredit-institutets beskattningsår beaktas vid tillämpningen av 4 § första och andra styckena. För ett utländskt kreditinstitut som ingår i koncernen ska dock endast skulder hänförliga till verksamhet som kreditinstitutet bedriver från filial i Sverige beaktas vid beräkningen av de sammanlagda skulderna.
+
+Vid beräkningen av de sammanlagda skulderna ska inte avsättningar eller obeskattade reserver beaktas. Inte heller ska följande skulder beaktas:
+
+1. skulder till ett svenskt kreditinstitut som ingår i samma koncern som kreditinstitutet,
+
+2. skulder till ett utländskt kreditinstitut som ingår i samma koncern som kreditinstitutet, till den del de fordringar som motsvarar skulderna är hänförliga till verksamhet som det utländska kreditinstitutet bedriver från filial i Sverige.
+
+### Beskattningsunderlag
+
+#### 7 §
+
+Beskattningsunderlaget för ett svenskt kreditinstitut utgörs av summan av kreditinstitutets skulder vid beskattningsårets ingång.
+
+Beskattningsunderlaget för ett utländskt kreditinstitut utgörs av summan av kreditinstitutets skulder vid beskattningsårets ingång, hänförliga till verksamhet som kreditinstitutet bedriver från filial i Sverige.
+
+Vid beräkningen av beskattningsunderlaget ska inte avsättningar eller obeskattade reserver beaktas. Inte heller ska följande skulder beaktas:
+
+1. skulder till ett svenskt kreditinstitut som ingår i samma koncern som kreditinstitutet,
+
+2. skulder till ett utländskt kreditinstitut som ingår i samma koncern som kreditinstitutet, till den del de fordringar som motsvarar skulderna är hänförliga till verksamhet som det utländska kreditinstitutet bedriver från filial i Sverige,
+
+3. skulder som avses i 21 kap. 15 § 2 a, 2 b, 3 a och 3 b lagen (2015:1016) om resolution.
+
+#### 7 a §
+
+Ett svenskt kreditinstitut eller ett utländskt kreditinstitut ska från beskattningsunderlaget göra ett grundavdrag som beloppsmässigt motsvarar det gränsvärde för skattskyldighet som gäller för det aktuella beskattningsåret.
+
+Om kreditinstitutet ingår i en koncern med flera kreditinstitut ska ett grundavdrag fördelas mellan de ingående kreditinstituten och göras av respektive kreditinstitut i proportion till dess andel av kreditinstitutens sammanlagda beskattningsunderlag. *Lag (2025:1373)*.
+
+#### 8 §
+
+Om beskattningsåret är längre eller kortare än tolv månader, ska beskattningsunderlaget, beräknat enligt 7 och 7 a §§, justeras i motsvarande mån. *Lag (2025:1373)*.
+
+### Skattesats
+
+#### 9 §
+
+Riskskatt ska betalas med 0,07 procent av beskattningsunderlaget, beräknat enligt 7-8 §§.
+
+*Lag (2025:1373)*.
+
+### Förfarandet vid uttag av riskskatt
+
+#### 10 §
+
+I fråga om förfarandet vid beskattningen gäller skatteförfarandelagen (2011:1244).
+
+## Övergångsbestämmelser
+
+**2021:1256**
+
+1. Denna lag träder i kraft den 1 januari 2022.
+
+2. Lagen tillämpas första gången på beskattningsår som börjar efter den 31 december 2021.
+
+**2021:1257**
+
+1. Denna lag träder i kraft den 1 januari 2023.
+
+2. Lagen tillämpas första gången på beskattningsår som börjar efter den 31 december 2022.
+
+**2025:1373**
+
+1. Denna lag träder i kraft den 1 januari 2026.
+
+2. Lagen tillämpas första gången på beskattningsår som börjar efter den 31 december 2025.

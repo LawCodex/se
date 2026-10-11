@@ -1,0 +1,133 @@
+---
+title: "Lag (2012:741) om behandling av personuppgifter vid Institutet för arbetsmarknads- och utbildningspolitisk utvärdering"
+identifier: "SFS 2012:741"
+type: act
+jurisdiction: se
+language: sv
+date: 2012-11-22
+amended_through: "SFS 2026:1230"
+department: "Arbetsmarknadsdepartementet SV"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-741.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:741"
+retrieved: 2026-10-11
+---
+# Lag (2012:741) om behandling av personuppgifter vid Institutet för arbetsmarknads- och utbildningspolitisk utvärdering
+
+## Lagens tillämpningsområde
+
+### 1 §
+
+Denna lag gäller vid behandling av personuppgifter i sådan verksamhet hos Institutet för arbetsmarknads- och utbildningspolitisk utvärdering som avser att främja, stödja och genom forskning genomföra studier, uppföljningar och utvärderingar.
+
+Lagen gäller inte behandling av personuppgifter vid tilldelning av forskningsbidrag.
+
+Lagen tillämpas endast på helt eller delvis automatiserad behandling av personuppgifter och annan behandling av personuppgifter som ingår eller kommer att ingå i ett register. *Lag (2018:261)*.
+
+## Förhållandet till annan reglering
+
+### 2 §
+
+Denna lag kompletterar Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning), här benämnd EU:s dataskyddsförordning.
+
+Vid behandling av personuppgifter enligt denna lag gäller lagen (2018:218) med kompletterande bestämmelser till EU:s dataskyddsförordning och föreskrifter som har meddelats i anslutning till den lagen, om inte annat följer av denna lag eller föreskrifter som har meddelats i anslutning till lagen. *Lag (2018:261)*.
+
+## Rätten att göra invändningar
+
+### 3 §
+
+Artikel 21.1 i EU:s dataskyddsförordning om rätten att göra invändningar gäller inte vid sådan behandling som är tillåten enligt denna lag eller föreskrifter som har meddelats i anslutning till lagen.
+
+Första stycket gäller dock inte när personuppgifterna samlas in direkt från den enskilde. *Lag (2018:261)*.
+
+## Samtycke när uppgifter har samlats in direkt från den enskilde
+
+### 3 a §
+
+Om personuppgifterna har samlats in direkt från den enskilde, får uppgifterna behandlas endast om han eller hon har lämnat sitt uttryckliga samtycke till behandlingen.
+
+Den registrerade har rätt att när som helst återkalla ett lämnat samtycke. Ytterligare personuppgifter om den registrerade får därefter inte behandlas. *Lag (2018:261)*.
+
+## Personuppgiftsansvar
+
+### 4 §
+
+Institutet är personuppgiftsansvarigt för den behandling av personuppgifter som institutet utför.
+
+## Ändamål
+
+### 5 §
+
+Personuppgifter får endast behandlas om det är nödvändigt för att fullgöra institutets uppdrag att främja, stödja och genom forskning genomföra studier, uppföljningar och utvärderingar. *Lag (2018:261)*.
+
+### 6 §
+
+Personuppgifter som behandlas för de ändamål som anges i 5 § får också behandlas för att fullgöra uppgiftslämnande som sker i överensstämmelse med lag eller förordning.
+
+*Lag (2018:261)*.
+
+### 6 a §
+
+Personuppgifter som behandlas enligt 5 § får behandlas även för andra ändamål, under förutsättning att uppgifterna inte behandlas på ett sätt som är oförenligt med det ändamål för vilket uppgifterna samlades in.
+
+*Lag (2018:261)*.
+
+## Känsliga personuppgifter
+
+### 7 §
+
+*/Upphör att gälla U:2027-07-01/* Inga andra personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning (känsliga personuppgifter) än sådana som avslöjar etniskt ursprung, medlemskap i fackförening eller som rör hälsa eller en persons sexuella läggning får behandlas för de ändamål som anges i 5 §.
+
+Av lagen (2003:460) om etikprövning av forskning som avser människor följer att forskning som innefattar behandling av känsliga personuppgifter eller personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, straffprocessuella tvångsmedel eller administrativa frihetsberövanden måste etikprövas. *Lag (2018:261)*.
+
+### 7 §
+
+*/Träder i kraft I:2027-07-01/* Inga andra personuppgifter som avses i artikel 9.1 i EU:s dataskyddsförordning (känsliga personuppgifter) än sådana som avslöjar etniskt ursprung, medlemskap i fackförening eller som rör hälsa eller en persons sexuella läggning får behandlas för de ändamål som anges i 5 §.
+
+I lagen (2003:460) om etikprövning av forskning som avser människor finns bestämmelser om etikprövning av forskning som innefattar behandling av känsliga personuppgifter eller personuppgifter om lagöverträdelser som innefattar brott, domar i brottmål, straffprocessuella tvångsmedel eller admini- strativa frihetsberövanden. *Lag (2026:1230)*.
+
+## Samlingar av personuppgifter
+
+### 8 §
+
+Om det är nödvändigt för de ändamål som anges i 5 §, får det hos institutet finnas samlingar av personuppgifter som behandlas automatiserat, under förutsättning att uppgifterna inte direkt kan hänföras till en person. Uppgifterna får dock vara försedda med en beteckning som den myndighet uppgifterna kommer från kan hänföra till ett personnummer eller motsvarande identitetsbeteckning.
+
+*Lag (2018:261)*.
+
+### 9 §
+
+Om det är nödvändigt för de ändamål som anges i 5 §, får det hos institutet finnas samlingar av personuppgifter som behandlas automatiserat och som inte är sådana personuppgifter som avses i 8 §, om uppgifterna är nödvändiga för en viss avgränsad studie, uppföljning eller utvärdering. *Lag (2018:261)*.
+
+## Begränsningar i behandlingen av personuppgifter
+
+### 10 §
+
+Personuppgifter som inte direkt kan hänföras till en person och som ingår i samlingar av personuppgifter som behandlas automatiserat får inte behandlas i syfte att röja en persons identitet.
+
+### 11 §
+
+Personuppgifter som behandlas enligt 9 § och som har samlats in för att behandlas inom olika avgränsade studier, uppföljningar eller utvärderingar får inte sambearbetas med varandra.
+
+Denna begränsning gäller inte för en sådan sambearbetning av personuppgifter som är nödvändig för att kunna upprepa eller följa upp en sådan studie, uppföljning eller utvärdering som har genomförts tidigare.
+
+## Tillgång till personuppgifter
+
+### 12 §
+
+Tillgången till personuppgifter ska begränsas till vad var och en behöver för att kunna fullgöra sina arbetsuppgifter.
+
+### 13 §
+
+Har upphävts genom *lag (2018:261)*.
+
+## Gallring
+
+### 14 §
+
+Personuppgifter ska gallras så snart uppgifterna inte längre är nödvändiga för det ändamål som de behandlas för, om inte regeringen eller den myndighet som regeringen bestämmer har meddelat föreskrifter eller i ett enskilt fall beslutat att gallring ska ske senast vid en viss tidpunkt eller att uppgifter får bevaras för vetenskapliga eller historiska forskningsändamål eller statistiska ändamål.
+
+*Lag (2018:261)*.
+
+### 15 §
+
+Har upphävts genom *lag (2018:261)*.

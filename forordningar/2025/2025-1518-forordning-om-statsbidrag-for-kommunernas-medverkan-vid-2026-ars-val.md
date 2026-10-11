@@ -1,0 +1,42 @@
+---
+title: "Förordning (2025:1518) om statsbidrag för kommunernas medverkan vid 2026 års val till riksdagen, region- och kommunfullmäktige"
+identifier: "SFS 2025:1518"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2025-12-11
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-1518.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:1518"
+retrieved: 2026-10-11
+---
+# Förordning (2025:1518) om statsbidrag för kommunernas medverkan vid 2026 års val till riksdagen, region- och kommunfullmäktige
+
+### 1 §
+
+För sin medverkan vid 2026 års val till riksdagen, region- och kommunfullmäktige ska kommunerna få statsbidrag med
+
+1. 30 000 kronor per kommun, och
+
+2. ett belopp per kommun som motsvarar kommunens andel av det totala antalet röstberättigade i riket vid val till kommunfullmäktige, beräknat efter en fingerad valdag den 2 mars 2026, multiplicerat med 341 300 000 kronor, varvid brutet tal ska avrundas nedåt till helt krontal.
+
+### 2 §
+
+För inköp av förstoringshjälpmedel och belysningsförstärkning på röstmottagningsställen ska kommunerna få statsbidrag med ett belopp som motsvarar kommunens andel av det totala antalet röstberättigade i riket vid val till kommunfullmäktige, beräknat efter en fingerad valdag den 2 mars 2026, multiplicerat med 3 000 000 kronor, varvid brutet tal ska avrundas nedåt till helt krontal.
+
+### 3 §
+
+Valmyndigheten ska besluta om statsbidragen och betala ut bidragen till kommunerna senast den 29 april 2026.
+
+### 4 §
+
+Beslut i ärenden om statsbidrag får inte överklagas.
+
+## Övergångsbestämmelser
+
+**2025:1518**
+
+1. Denna förordning träder i kraft den 1 februari 2026.
+
+2. Förordningen upphör att gälla vid utgången av 2026.

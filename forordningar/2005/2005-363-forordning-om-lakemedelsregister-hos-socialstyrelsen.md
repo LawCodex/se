@@ -1,0 +1,67 @@
+---
+title: "Förordning (2005:363) om läkemedelsregister hos Socialstyrelsen"
+identifier: "SFS 2005:363"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2005-05-26
+amended_through: "SFS 2021:68"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-363.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:363"
+retrieved: 2026-10-11
+---
+# Förordning (2005:363) om läkemedelsregister hos Socialstyrelsen
+
+## Inledning
+
+### 1 §
+
+Socialstyrelsen får föra hälsodataregister enligt 1 § lagen (1998:543) om hälsodataregister i form av ett läkemedelsregister.
+
+## Personuppgiftsansvarig
+
+### 2 §
+
+Av 1 § lagen (1998:543) om hälsodataregister följer att Socialstyrelsen är personuppgiftsansvarig för behandlingen av personuppgifter.
+
+## Ändamål för behandling av personuppgifter
+
+### 3 §
+
+Personuppgifter i läkemedelsregistret får behandlas för epidemiologiska undersökningar, forskning, framställning av statistik, uppföljning, utvärdering och kvalitetssäkring inom hälso- och sjukvårdsområdet. *Förordning (2017:909)*.
+
+## Personuppgifter som får behandlas
+
+### 4 §
+
+I läkemedelsregistret får endast följande uppgifter registreras:
+
+1. datum för expediering, vara, mängd, dosering, kostnad och kostnadsreducering enligt lagen (2002:160) om läkemedelsförmåner m.m.,
+
+2. ordinationsorsak,
+
+3. patientens personnummer eller samordningsnummer samt folkbokföringsort, och
+
+4. förskrivarens yrke, specialitet och arbetsplatskod.
+
+Ordinationsorsak ska anges med en kod.
+
+*Förordning (2021:68)*.
+
+### 5 §
+
+Har upphävts genom *förordning (2009:634)*.
+
+## Information
+
+### 6 §
+
+Utöver vad som framgår av artiklarna 13 och 14 i Europaparlamentets och rådets förordning (EU) 2016/679 av den 27 april 2016 om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning) ska den som är personuppgiftsansvarig enligt denna förordning lämna information till den registrerade om
+
+1. innebörden och omfattningen av det sekretess- och säkerhetsskydd som gäller för registret, och
+
+2. vad som gäller i fråga om sökbegrepp, direktåtkomst och utlämnande på medium för automatiserad behandling.
+
+Socialstyrelsen ska på lämpligt sätt informera allmänheten om registret. *Förordning (2018:462)*.

@@ -1,0 +1,143 @@
+---
+title: "Förordning (2007:759) med instruktion för Konjunkturinstitutet"
+identifier: "SFS 2007:759"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-01
+amended_through: "SFS 2025:1431"
+department: "Finansdepartementet E2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-759.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:759"
+retrieved: 2026-10-11
+---
+# Förordning (2007:759) med instruktion för Konjunkturinstitutet
+
+## Uppgifter
+
+### 1 §
+
+Konjunkturinstitutet har till uppgift att
+
+1. följa och analysera den ekonomiska utvecklingen inom och utom landet,
+
+2. regelbundet, med beaktande av förslag och aviseringar i ekonomiska propositioner, göra prognoser för den ekonomiska utvecklingen, inklusive de svenska offentliga finanserna, omfattande en tidsperiod om minst fyra år,
+
+3. för prognoserna i 2 redogöra för vilka antaganden som för åren efter budgetåret görs för den offentliga förvaltningens finansiella och strukturella sparande samt för kommunsektorns resultat,
+
+4. analysera finans- och penningpolitiken vid framtagandet av prognoser,
+
+5. analysera budgetutrymmet med utgångspunkt i det finanspolitiska ramverket och redogöra för hur utrymmet förhåller sig till de förslag och aviseringar som har presenterats i ekonomiska propositioner,
+
+6. analysera finanspolitiken med särskild tonvikt på hur de offentliga finanserna förhåller sig till budgetpolitiska mål och restriktioner,
+
+7. utvärdera myndighetens prognoser,
+
+8. genomföra långsiktiga framskrivningar av de offentliga finanserna och bedöma de offentliga finansernas långsiktiga hållbarhet,
+
+9. ta fram makroekonomiska långsiktsscenarier för utvecklingen av den svenska ekonomin omfattande en tidsperiod på minst 30 år och publicera dessa i samband med att myndigheten lämnar underlag enligt 14 a och 32 §§ klimatrapporteringsförordningen (2014:1434),
+
+10. ta fram det analysunderlag som Finanspolitiska rådet behöver för att bedöma regeringens prognoser över den makroekonomiska utvecklingen och för att yttra sig enligt 6 § förordningen (2011:446) med instruktion för Finanspolitiska rådet,
+
+11. göra samhällsekonomiska analyser, som ska omfatta miljö- och klimatpolitiska styrmedel, och andra miljöekonomiska analyser av relevans för svensk miljö- och klimatpolitik,
+
+12. utvärdera miljö- och klimatpolitikens effekter på kort och lång sikt, analysera olika strategier för att nå de av riksdagen beslutade miljömålen på ett samhällsekonomiskt effektivt sätt samt utveckla miljöekonomiska modeller,
+
+13. regelbundet uppdatera myndighetens sammanställning av relevanta kort- och långsiktiga elasticiteter inom miljö- och energiområdet med nya relevanta skattningar allteftersom de blir tillgängliga,
+
+14. följa den vetenskapliga diskussionen inom de områden som berör myndighetens verksamhet och bedriva forskning i syfte att utveckla analys- och prognosmetoder,
+
+15. underhålla och utveckla metoder och modeller så att kvaliteten på prognoser, kalkyler och analyser förbättras,
+
+16. bistå Regeringskansliet (Finansdepartementet) med prognosmodeller, utfalls- och prognosdata för Regeringskansliets makroekonomiska och offentligfinansiella prognosverksamhet samt miljöekonomiska analyser,
+
+17. förse Regeringskansliet (Finansdepartementet) med bedömningar av hur makroekonomiska risker som är en följd av klimatförändringar påverkar de offentliga finansernas medel- och långfristiga hållbarhet,
+
+18. framställa rapporter om de samhällsekonomiska förutsättningarna för lönebildningen,
+
+19. framställa en årlig rapport om miljö- och klimatpolitikens samhällsekonomiska aspekter,
+
+20. framställa månatlig statistik om svenska företags och hushålls syn på ekonomin,
+
+21. varje månad upprätta och publicera en indikator som sammanfattar företagens och hushållens syn på ekonomin,
+
+22. bistå Regeringskansliet (Finansdepartementet) vid bedömning av om kriterierna enligt 5 § andra stycket lagen (2013:948) om stöd vid korttidsarbete är uppfyllda,
+
+23. ansvara för officiell statistik enligt förordningen (2001:100) om den officiella statistiken, och
+
+24. inom sitt verksamhetsområde utföra uppdrag samt tillhandahålla varor och tjänster. *Förordning (2025:1431)*.
+
+## Samverkan
+
+### 2 §
+
+Har upphävts genom *förordning (2025:1431)*.
+
+### 3 §
+
+Myndigheten ska samverka med Riksgäldskontoret när det gäller prognoser över statens lånebehov.
+
+## Ledning
+
+### 4 §
+
+Myndigheten leds av en myndighetschef.
+
+## Organisation
+
+### 4 a §
+
+Myndigheten får upplåta lokaler och utföra administrativa uppgifter åt Finanspolitiska rådet enligt överenskommelse mellan myndigheterna. *Förordning (2023:681)*.
+
+## Särskilda organ
+
+## Rådgivande organ
+
+### 4 b §
+
+Vid myndigheten finns ett vetenskapligt råd. Rådet ska bistå myndigheten i frågor om metoder och relevanta modeller när det gäller myndighetens miljöekonomiska verksamhet samt den ekonomiska politikens lång- och kortsiktiga effekter på riksdagens mål för miljökvalitet och på en i övrigt miljömässigt hållbar utveckling.
+
+Rådet består av högst sex ledamöter som ska vara erfarna akademiskt verksamma forskare. Inom rådet ska minst en av ledamöterna vara verksam inom ämnesområdet ekonomi, minst en av ledamöterna vara verksam inom ämnesområdet naturvetenskap och minst en av ledamöterna vara verksam inom ämnesområdet statskunskap. Jämn könsfördelning ska eftersträvas.
+
+*Förordning (2023:681)*.
+
+## Anställningar och uppdrag
+
+### 5 §
+
+Generaldirektören är myndighetschef.
+
+### 5 a §
+
+Ledamöterna i det vetenskapliga rådet utses av myndigheten. *Förordning (2011:473)*.
+
+## Personalansvarsnämnd
+
+### 6 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 7 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 8 §
+
+Myndigheten får ta ut avgifter för varor och tjänster samt för uppdrag åt andra än regeringen. Myndigheten beslutar om avgifternas storlek.
+
+### 8 a §
+
+Myndigheten får ta ut avgifter från Finanspolitiska rådet för lokaler och för de administrativa uppgifter myndigheten utför åt rådet. Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten.
+
+*Förordning (2023:681)*.
+
+## Undantag från myndighetsförordningen
+
+### 9 §
+
+Myndigheten ska inte tillämpa 29 § myndighetsförordningen (2007:515).

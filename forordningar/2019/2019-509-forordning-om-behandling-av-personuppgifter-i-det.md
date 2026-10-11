@@ -1,0 +1,59 @@
+---
+title: "Förordning (2019:509) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar"
+identifier: "SFS 2019:509"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-06-27
+amended_through: "SFS 2026:1382"
+department: "Finansdepartementet ESA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-509.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:509"
+retrieved: 2026-10-11
+---
+# Förordning (2019:509) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar
+
+## Uppgiftsskyldighet
+
+### 1 §
+
+En förvaltningsmyndighet under regeringen ska på begäran av Statistiska centralbyrån lämna de uppgifter som Statistiska centralbyrån behöver för de ändamål som anges i 4 och 5 §§ lagen (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar.
+
+### 1 a §
+
+Den som är uppgiftsskyldig enligt 8 a § lagen (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar ska på begäran av Statistiska centralbyrån lämna följande uppgifter:
+
+1. kreditgivarens organisationsnummer,
+
+2. kredittagarens personnummer,
+
+3. kreditens utestående nominella belopp,
+
+4. kredittagarens andel av krediten,
+
+5. typ av kredit,
+
+6. värdet på säkerheten,
+
+7. räntesats,
+
+8. start- och slutdatum för räntan,
+
+9. amorteringskrav i kronor,
+
+10. genomsnittlig amortering under de senaste 12 månaderna, och
+
+11. krediter som har bedömts vara kreditförsämrade enligt International Financial Reporting Standards 9, i tillämpliga fall. *Förordning (2026:1382)*.
+
+### 1 b §
+
+Statistiska centralbyrån får meddela föreskrifter om verkställigheten av bestämmelserna om uppgiftsskyldighet i 8 a § lagen (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar och 1 a § denna förordning. *Förordning (2026:1382)*.
+
+## Bevarande och gallring
+
+### 2 §
+
+Innan Statistiska centralbyrån gallrar uppgifter enligt 13 § lagen (2019:508) om behandling av personuppgifter i det fördelningsanalytiska statistiksystemet för inkomster och transfereringar ska myndigheten underrätta Riksarkivet.
+
+Riksarkivet får meddela föreskrifter om undantag från gallring av personuppgifter om en gallring skulle äventyra arkivens roll som en del av det nationella kulturarvet eller strida mot forskningens behov.

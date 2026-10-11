@@ -1,0 +1,129 @@
+---
+title: "Förordning (2016:1363) om länsstyrelsernas uppdrag avseende insatser för asylsökande och vissa nyanlända invandrare"
+identifier: "SFS 2016:1363"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-12-22
+amended_through: "SFS 2026:1726"
+department: "Arbetsmarknadsdepartementet IU"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-1363.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:1363"
+retrieved: 2026-10-11
+---
+# Förordning (2016:1363) om länsstyrelsernas uppdrag avseende insatser för asylsökande och vissa nyanlända invandrare
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna förordning är meddelad med stöd av 8 kap. 7 § regeringsformen och innehåller bestämmelser om länsstyrelsernas uppdrag när det gäller
+
+1. insatser för asylsökande m.fl.,
+
+2. mottagandet av ensamkommande barn, och
+
+3. mottagandet av vissa nyanlända invandrare.
+
+Med ensamkommande barn avses barn under 18 år som vid ankomsten till Sverige är skilda från båda sina föräldrar eller från någon annan vuxen person som får anses ha trätt i föräldrarnas ställe, eller som efter ankomsten står utan sådan ställföreträdare.
+
+## Insatser för asylsökande m.fl.
+
+### 2 §
+
+Länsstyrelsen ska verka för att det inom länet finns insatser för personer som har fyllt 18 år och som omfattas av mottagandelagen (2026:999).
+
+Med insatser enligt första stycket avses verksamhet som har till syfte att främja
+
+1. kunskaper i svenska språket,
+
+2. kunskaper om det svenska samhället och den svenska arbetsmarknaden, eller
+
+3. hälsa. *Förordning (2026:1726)*.
+
+### 3 §
+
+Länsstyrelsen ska verka för
+
+1. en jämn fördelning av likartade insatser i hela landet, med utgångspunkt i regionala och lokala förutsättningar,
+
+2. att tillgången på insatser för asylsökande m.fl. motsvarar det behov som finns i länet och att personer som avses i 2 § första stycket har möjlighet att delta, och
+
+3. att kvinnor och män kan delta i insatser på lika villkor och i samma utsträckning.
+
+### 4 §
+
+Länsstyrelsen ska även verka för regional samverkan mellan kommuner, statliga myndigheter, organisationer i det civila samhället och andra relevanta aktörer.
+
+### 5 §
+
+Länsstyrelsen ska på regional och kommunal nivå följa upp organisering och genomförande av insatser.
+
+### 6 §
+
+Länsstyrelsen ska lämna uppgifter till Migrationsverket om vilka insatser som finns inom länet. Länsstyrelsen ska även hålla information om sådana insatser tillgänglig för allmänheten.
+
+## Mottagandet av ensamkommande barn
+
+### 7 §
+
+Länsstyrelsen ska verka för att det finns beredskap och kapacitet hos kommunerna att ta emot ensamkommande barn som omfattas av mottagandelagen (2026:999) eller som har beviljats uppehållstillstånd.
+
+Länsstyrelsen ska föra dialog med kommunerna om mottagandet av ensamkommande barn och verka för samverkan mellan kommuner inom länet.
+
+Länsstyrelsen ska i sitt arbete enligt första och andra styckena verka för långsiktighet och hållbarhet i mottagandet.
+
+*Förordning (2026:1726)*.
+
+### 8 §
+
+Länsstyrelsen ska på regional och kommunal nivå följa upp kommunernas beredskap och kapacitet avseende mottagandet av ensamkommande barn.
+
+## Mottagandet av vissa nyanlända invandrare
+
+### 9 §
+
+*/Upphör att gälla U:2027-01-01/* Länsstyrelsen ska verka för att det finns beredskap och kapacitet hos kommunerna att ta emot personer som omfattas av lagen (2016:38) om mottagande av vissa nyanlända invandrare för bosättning. Myndigheten ska i det sammanhanget verka för regional samverkan.
+
+Länsstyrelsen ska även verka för regional samverkan mellan kommuner, statliga myndigheter och andra relevanta aktörer i planering, organisering och genomförande av insatser för personer som avses i första stycket.
+
+### 9 §
+
+*/Träder i kraft I:2027-01-01/* Länsstyrelsen ska verka för att det finns beredskap och kapacitet hos kommunerna att ta emot personer som omfattas av lagen (2026:1326) om bosättning för vissa nyanlända invandrare. Myndigheten ska i det sammanhanget verka för regional samverkan.
+
+Länsstyrelsen ska även verka för regional samverkan mellan kommuner, statliga myndigheter och andra relevanta aktörer i planering, organisering och genomförande av insatser för personer som avses i första stycket. *Förordning (2026:1333)*.
+
+### 10 §
+
+*/Upphör att gälla U:2027-01-01/* Länsstyrelsen ska på regional och kommunal nivå följa upp kommunernas beredskap och kapacitet för mottagande av personer som omfattas av lagen (2016:38) om mottagande av vissa nyanlända invandrare för bosättning. Länsstyrelsen ska även följa upp organisering och genomförande av insatser för dessa personer.
+
+### 10 §
+
+*/Träder i kraft I:2027-01-01/* Länsstyrelsen ska på regional och kommunal nivå följa upp kommunernas beredskap och kapacitet för mottagande av personer som omfattas av lagen (2026:1326) om bosättning för vissa nyanlända invandrare. Länsstyrelsen ska även följa upp organisering och genomförande av insatser för dessa personer.
+
+*Förordning (2026:1333)*.
+
+## Övriga uppgifter för länsstyrelserna
+
+### 11 §
+
+Länsstyrelsen ska verka för att stärka det civila samhällets roll när det gäller insatser enligt denna förordning.
+
+## Uppgifter för Migrationsverket
+
+### 12 §
+
+Migrationsverket ska hålla sådan information tillgänglig för länsstyrelsen som behövs för länsstyrelsens uppdrag om insatser enligt 2 §, till exempel information om
+
+1. antal personer inom varje kommun i respektive län, och
+
+2. fördelningen av dessa personer i fråga om kön och åldersintervall.
+
+### 13 §
+
+Migrationsverket ska hålla information om insatser enligt 2 § andra stycket tillgänglig för personer enligt 2 § första stycket.
+
+### 14 §
+
+Migrationsverket ska beakta möjligheten för personer som avses i 2 § första stycket att delta i insatser enligt 2 § andra stycket.

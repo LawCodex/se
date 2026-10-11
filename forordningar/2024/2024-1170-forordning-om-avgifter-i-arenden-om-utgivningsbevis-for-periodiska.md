@@ -1,0 +1,48 @@
+---
+title: "Förordning (2024:1170) om avgifter i ärenden om utgivningsbevis för periodiska skrifter och databaser"
+identifier: "SFS 2024:1170"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2024-11-28
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-1170.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:1170"
+retrieved: 2026-10-11
+---
+# Förordning (2024:1170) om avgifter i ärenden om utgivningsbevis för periodiska skrifter och databaser
+
+### 1 §
+
+Denna förordning är meddelad med stöd av 2 kap. 4 § lagen (1991:1559) med föreskrifter på tryckfrihetsförordningens och yttrandefrihetsgrundlagens områden i fråga om 2 § och med stöd av 3 kap. 28 § samma lag i fråga om 3 §.
+
+### 2 §
+
+I ärenden om utgivningsbevis för periodiska skrifter enligt tryckfrihetsförordningen ska Mediemyndigheten ta ut följande avgifter:
+
+1. 4 000 kronor för ansökan om eller förnyelse av utgivningsbevis,
+
+2. 2 000 kronor för ändring av den periodiska skriftens titel, utgivningsort eller utgivningsplan, och
+
+3. 1 000 kronor för ändring av vem som ägare, utgivare eller ställföreträdande utgivare.
+
+### 3 §
+
+I ärenden om utgivningsbevis för databaser enligt yttrandefrihetsgrundlagen ska Mediemyndigheten ta ut följande avgifter:
+
+1. 4 000 kronor för ansökan om eller förnyelse av utgivningsbevis,
+
+2. 2 000 kronor för ändring av databasens namn, den ort som informationen tillhandahålls från eller den tekniska beskrivningen av verksamheten, och
+
+3. 1 000 kronor för ändring av vem som bedriver verksamheten, är utgivare eller ställföreträdande utgivare.
+
+## Övergångsbestämmelser
+
+**2024:1170**
+
+1. Denna förordning träder i kraft den 1 januari 2025.
+
+2. Genom förordningen upphävs förordningen (2002:916) om avgifter i vissa yttrandefrihetsärenden.
+
+3. Den upphävda förordningen gäller dock fortfarande för ansökningar som har getts in till Mediemyndigheten före den 1 januari 2025.

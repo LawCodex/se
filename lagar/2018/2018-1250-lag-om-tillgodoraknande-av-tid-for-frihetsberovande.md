@@ -1,0 +1,89 @@
+---
+title: "Lag (2018:1250) om tillgodoräknande av tid för frihetsberövande"
+identifier: "SFS 2018:1250"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-06-20
+amended_through: "SFS 2026:1677"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1250.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1250"
+retrieved: 2026-10-11
+---
+# Lag (2018:1250) om tillgodoräknande av tid för frihetsberövande
+
+### Inledande bestämmelse
+
+#### 1 §
+
+Denna lag innehåller bestämmelser om när tid för frihetsberövande i Sverige och utomlands ska eller får tillgodoräknas som verkställighet av påföljd.
+
+### Tillgodoräknande av tid för frihetsberövande i Sverige och utomlands
+
+#### 2 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Om någon har dömts till fängelse på viss tid eller till säkerhetsförvaring och den dömde med anledning av de brott som prövats i målet eller som påföljden avser har varit frihetsberövad i Sverige eller utomlands under en sammanhängande tid av minst 24 timmar, ska tiden för frihetsberövandet tillgodoräknas den dömde som verkställighet av påföljden.
+
+Tillgodoräknande ska dock inte ske om
+
+1. tiden för frihetsberövandet redan tillgodoräknats den dömde, eller
+
+2. den dömde samtidigt avtjänat sådan frihetsberövande påföljd i annat mål.
+
+Villkor som uppställts vid överförande av verkställighet från en annan stat till Sverige ska gälla vid tillämpning av denna paragraf. *Lag (2026:533)*.
+
+#### 2 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Om någon har dömts till ovillkorligt fängelse på viss tid eller till säkerhetsförvaring och den dömde med anledning av de brott som prövats i målet eller som påföljden avser har varit frihetsberövad i Sverige eller utomlands under en sammanhängande tid av minst 24 timmar, ska tiden för frihets- berövandet tillgodoräknas den dömde som verkställighet av påföljden. Detsamma gäller om rätten har upphävt ett beslut om att ett fängelsestraff ska vara villkorligt.
+
+Tillgodoräknande ska dock inte ske om
+
+1. tiden för frihetsberövandet redan tillgodoräknats den dömde, eller
+
+2. den dömde samtidigt avtjänat sådan frihetsberövande påföljd i annat mål.
+
+Villkor som uppställts vid överförande av verkställighet från en annan stat till Sverige ska gälla vid tillämpning av denna paragraf. *Lag (2026:1677)*.
+
+### Beslut om att påföljd ska anses helt eller delvis verkställd
+
+#### 3 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Om någon döms till fängelse på viss tid och med anledning av de brott som prövats i målet eller som påföljden avser har varit frihetsberövad på ett sätt som enligt 2 § ska tillgodoräknas som verkställighet av påföljd, får rätten besluta att påföljden ska anses helt verkställd genom frihetsberövandet. En förutsättning för ett sådant beslut är att den tid som den utdömda påföljden överstiger frihetsberövandet med är ringa.
+
+Om någon döms till böter, ungdomstjänst eller ungdomsövervakning och med anledning av de brott som prövats i målet eller som påföljden avser har varit frihetsberövad på ett sätt som enligt 2 § ska tillgodoräknas som verkställighet av påföljd, får rätten besluta att påföljden ska anses helt eller delvis verkställd genom frihetsberövandet.
+
+*Lag (2026:533)*.
+
+#### 3 §
+
+*/Träder i kraft I:den dag som regeringen bestämmer/* Om någon döms till ovillkorligt fängelse på viss tid, eller om rätten har upphävt ett beslut om att ett fängelsestraff ska vara villkorligt, och med anledning av de brott som prövats i målet eller som påföljden avser har varit frihetsberövad på ett sätt som enligt 2 § ska tillgodoräknas som verkställighet av påföljd, får rätten besluta att påföljden ska anses helt verkställd genom frihetsberövandet. En förutsättning för ett sådant beslut är att den tid som den utdömda påföljden överstiger frihetsberövandet med är ringa.
+
+Om någon döms till böter, ungdomstjänst eller ungdomsövervakning och med anledning av de brott som prövats i målet eller som påföljden avser har varit frihetsberövad på ett sätt som enligt 2 § ska tillgodoräknas som verkställighet av påföljd, får rätten besluta att påföljden ska anses helt eller delvis verkställd genom frihetsberövandet.
+
+*Lag (2026:1677)*.
+
+### Övriga bestämmelser
+
+#### 4 §
+
+Vid prövning i högre rätt av ett överklagande av utdömd påföljd får beslut i en fråga som avses i 3 § ändras även om det beslutet inte överklagats.
+
+#### 5 §
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela närmare föreskrifter om tillämpningen av denna lag.
+
+## Övergångsbestämmelser
+
+**2018:1250**
+
+1. Denna lag träder i kraft den 1 april 2019.
+
+2. Äldre bestämmelser gäller fortfarande för frihetsberövanden som ägt rum före ikraftträdandet.
+
+**2026:533**
+
+1. Denna lag träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller fortfarande för beslut i fråga om den som har dömts till sluten ungdomsvård.

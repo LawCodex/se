@@ -1,0 +1,89 @@
+---
+title: "Förordning (2004:331) om valutaväxling och annan finansiell verksamhet"
+identifier: "SFS 2004:331"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2004-05-19
+amended_through: "SFS 2023:837"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2004-331.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2004:331"
+retrieved: 2026-10-11
+---
+# Förordning (2004:331) om valutaväxling och annan finansiell verksamhet
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning avses med
+
+1. valutaväxling och annan finansiell verksamhet: sådana verksamheter som anges i 1 § lagen (1996:1006) om valutaväxling och annan finansiell verksamhet, och
+
+2. kvalificerat innehav: sådant innehav som anges i 3 § andra stycket lagen om valutaväxling och annan finansiell verksamhet. *Förordning (2017:670)*.
+
+## Register över registrerade fysiska eller juridiska personer
+
+### 2 §
+
+Hos Finansinspektionen ska det föras register över fysiska eller juridiska personer som har registrerats enligt lagen (1996:1006) om valutaväxling och annan finansiell verksamhet. *Förordning (2017:670)*.
+
+### 3 §
+
+Registret förs med hjälp av automatiserad behandling. Registret ska hållas tillgängligt hos Finansinspektionen.
+
+*Förordning (2017:670)*.
+
+### 4 §
+
+Registret ska ge offentlighet åt den information som ingår i registret.
+
+I fråga om personuppgifter ska registret ha till ändamål att tillhandahålla uppgifter för
+
+1. den tillsyn som Finansinspektionen enligt lagen (1996:1006) om valutaväxling och annan finansiell verksamhet utövar över fysiska eller juridiska personer som ägnar sig åt valutaväxling eller annan finansiell verksamhet, eller
+
+2. information till allmänheten om de fysiska eller juridiska personer som registrerats i registret. *Förordning (2023:837)*.
+
+### 5 §
+
+Finansinspektionen är personuppgiftsansvarig för registret. *Förordning (2018:336)*.
+
+### 6 §
+
+Finansinspektionen skall se till att det inte uppkommer något otillbörligt intrång i de registrerades personliga integritet eller några risker från säkerhetssynpunkt. För dessa syften får myndigheten i enskilda fall ställa upp villkor för behandlingen av personuppgifter.
+
+### 7 §
+
+Har upphävts genom *förordning (2018:336)*.
+
+### 8 §
+
+Har upphävts genom *förordning (2018:336)*.
+
+### 9 §
+
+I registret registreras uppgifter för varje person. Registret ska innehålla uppgift om personens namn eller företagsnamn och om personnummer eller organisationsnummer.
+
+*Förordning (2018:1830)*.
+
+### 10 §
+
+Finansinspektionen ska underrätta Bolagsverket när en fysisk eller juridisk person registrerats i registret. Detsamma gäller när inspektionen stryker personen ur registret. *Förordning (2017:670)*.
+
+### 11 §
+
+Finansinspektionen ska anteckna i registret när myndigheten har fattat beslut om föreläggande att upphöra med verksamheten. *Förordning (2017:670)*.
+
+## Bemyndiganden
+
+### 12 §
+
+Finansinspektionen får meddela föreskrifter om
+
+1. vilka uppgifter en ansökan om registrering enligt lagen (1996:1006) om valutaväxling och annan finansiell verksamhet ska innehålla samt vilka handlingar som samtidigt ska ges in till Finansinspektionen, och
+
+2. vilka upplysningar ett finansiellt institut ska lämna till inspektionen för dess tillsyn enligt 12 § första stycket lagen om valutaväxling och annan finansiell verksamhet.
+
+*Förordning (2023:837)*.

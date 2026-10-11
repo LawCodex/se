@@ -1,0 +1,53 @@
+---
+title: "Lag (2018:9) om bistånd till enskilda efter evakueringar till Sverige"
+identifier: "SFS 2018:9"
+type: act
+jurisdiction: se
+language: sv
+date: 2018-01-18
+amended_through: "SFS 2025:451"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-9.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:9"
+retrieved: 2026-10-11
+---
+# Lag (2018:9) om bistånd till enskilda efter evakueringar till Sverige
+
+## Tillämpningsområde och syfte
+
+### 1 §
+
+Denna lag gäller när evakuerade ankommer till Sverige vid en konsulär katastrofinsats enligt lagen (2010:813) om konsulära katastrofinsatser.
+
+### 2 §
+
+Syftet med lagen är att underlätta för den kommun i Sverige dit de evakuerade ankommer (ankomstkommunen) att ge insatser till de evakuerade utifrån kommunens ansvar enligt 4 kap. 1 § socialtjänstlagen (2025:400). *Lag (2025:451)*.
+
+## Bistånd till enskilda
+
+### 3 §
+
+När en kommun ger insatser utifrån sitt ansvar enligt 4 kap. 1 § socialtjänstlagen (2025:400) till evakuerade i samband med ankomsten till Sverige, får kommunen ge ekonomiskt bistånd och andra insatser till de evakuerade utan föregående individuell prövning (nödvändigt bistånd). Ett sådant nödvändigt bistånd får inte förenas med villkor om återbetalning. *Lag (2025:451)*.
+
+## Samverkan mellan kommuner
+
+### 4 §
+
+En kommun får hjälpa en ankomstkommun som ger stöd och hjälp till evakuerade i samband med ankomsten till Sverige, om ankomstkommunen begär sådan hjälp. En kommun som hjälper en ankomstkommun får även lämna nödvändigt bistånd enligt 3 §.
+
+## Ersättning till kommuner
+
+### 5 §
+
+En kommun har efter ansökan rätt till ersättning av staten för skäliga kostnader som är direkt hänförliga till det stöd och den hjälp som de evakuerade har fått i samband med ankomsten till Sverige.
+
+Regeringen eller den myndighet som regeringen bestämmer kan med stöd av 8 kap. 7 § regeringsformen meddela föreskrifter om ersättningen.
+
+## Överklagande
+
+### 6 §
+
+Beslut enligt 5 § denna lag får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.

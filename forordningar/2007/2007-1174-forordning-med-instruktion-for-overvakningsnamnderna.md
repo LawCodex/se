@@ -1,0 +1,145 @@
+---
+title: "Förordning (2007:1174) med instruktion för övervakningsnämnderna"
+identifier: "SFS 2007:1174"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-29
+amended_through: "SFS 2025:1327"
+department: "Justitiedepartementet KRIM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1174.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1174"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1174) med instruktion för övervakningsnämnderna
+
+## Uppgifter
+
+### 1 §
+
+Övervakningsnämndernas verksamhetsområden beslutas av regeringen.
+
+Bestämmelser om övervakningsnämndernas sammansättning och upp- gifter finns i
+
+- 26, 28 och 37 kap. brottsbalken,
+
+- passlagen (1978:302),
+
+- fängelselagen (2010:610),
+
+- lagen (2025:1053) om verkställighet av fängelsestraff med elektronisk övervakning,
+
+- förordningen (1998:642) om verkställighet av frivårdspåföljder,
+
+- fängelseförordningen (2010:2010), och
+
+- förordningen (2025:1323) om verkställighet av fängelsestraff med elektronisk övervakning. *Förordning (2025:1327)*.
+
+## Ledning
+
+### 2 §
+
+En övervakningsnämnd leds av en nämnd.
+
+## Organisation
+
+### 3 §
+
+Ordförande och vice ordförande i övervakningsnämnderna förordnas av Domarnämnden. Nämndens beslut om förordnande får inte överklagas. *Förordning (2008:431)*.
+
+### 4 §
+
+En övervakningsnämnd biträds av en sekreterare, som förordnas av nämnden. Mer än en sekreterare får förordnas endast om Kriminalvården medger det.
+
+Det ingår i sekreterarens uppgifter att ansvara för att ärenden och inkommande handlingar diarieförs.
+
+### 5 §
+
+Övervakningsnämnderna ska varje år före den 1 mars ge in en berättelse till Kriminalvården om sin verksamhet under det senaste budgetåret.
+
+## Ärendenas handläggning
+
+### 6 §
+
+Ärendena avgörs efter föredragning av sekreteraren, eller om en övervakningsnämnd så beslutar, av en kriminalvårdstjänsteman.
+
+En övervakningsnämnd får bestämma att en kriminalvårdstjänsteman ska närvara vid ett sammanträde för att lämna upplysningar. En kriminalvårdstjänsteman har alltid rätt att vara närvarande, när nämnden behandlar ett ärende som han eller hon handlägger.
+
+Chefen för kriminalvårdsregionen har också rätt att närvara vid övervakningsnämndens sammanträden.
+
+### 7 §
+
+Den som är ersättare för ledamot ska få tillfälle att genom information följa arbetet i övervakningsnämnden.
+
+När det är lämpligt bör ersättaren kallas till sammanträde även när inte någon ordinarie ledamot har förfall.
+
+Vid behov ska särskilda informationsmöten för ledamöter och ersättare anordnas.
+
+### 8 §
+
+Vid övervakningsnämndernas sammanträden ska det föras protokoll, som ska justeras av ordföranden.
+
+### 9 §
+
+En underrättelse om en övervakningsnämnds beslut ska sändas till Kriminalvården. Har en övervakningsnämnd ändrat villkoren i en behandlingsplan som har beslutats enligt 28 kap. 6 b § brottsbalken, ska en underrättelse om beslutet också sändas till åklagaren. *Förordning (2020:291)*.
+
+### 10 §
+
+En övervakningsnämnd ska genom besök i de kriminalvårdsanstalter som hör till nämndens verksamhetsområde skaffa sig kännedom om förhållandena i anstalterna. Vid sådana besök ska de intagna få tillfälle till samtal med nämnden eller någon av ledamöterna.
+
+### 11 §
+
+Ordföranden och sekreteraren samt den eller de kriminalvårdstjänstemän som ordföranden utser får pröva frågor om utlämnande av allmänna handlingar och frågor som uppkommer i samband med att nämndens beslut överklagas eller att omprövning begärs av ett sådant beslut.
+
+### 12 §
+
+För arbete i en övervakningsnämnd ska följande ersättning lämnas.
+
+```
+Befattning              Ersättning
+Ordförande              21 000 kronor per år samt  
+                        240 kronor per dag under vilken arbete 
+                        utförts för nämndens räkning
+Vice ordförande         10 000 kronor per år samt 
+                        240 kronor per dag under vilken arbete 
+                        utförts för nämndens räkning
+Tillfällig ersättare
+för en ordförande       1 600 kronor per sammanträde
+```
+
+Ordförande som har beredskap enligt 2 kap. 9 a § förordningen (1998:642) om verkställighet av frivårdspåföljder eller 4 kap. 5 § förordningen (2025:1323) om verkställighet av fängelsestraff med elektronisk övervakning 1 000 kronor per dag
+
+Kriminalvården beslutar om ersättning till övriga ledamöter i en övervakningsnämnd. *Förordning (2025:1327)*.
+
+### 13 §
+
+Kallelser och andra handlingar får tillställas den dömde genom delgivning.
+
+## Undantag från myndighetsförordningen
+
+### 14 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på övervakningsnämnderna:
+
+3 § om ledningens ansvar,
+
+4 § första stycket 3 och 4 om verksamhetsplan och intern styrning och kontroll,
+
+5 § om delegering,
+
+8 § om arbetsgivarpolitik,
+
+15 § om beslutförhet,
+
+16 § om brådskande ärenden,
+
+20 § om föredragning,
+
+22-24 §§ om anställningar och uppdrag,
+
+27 § om myndighetens rätt att företräda staten vid domstol,
+
+28 § om åtgärder med anledning av Riksrevisionens revisionsberättelse, och
+
+29 § om ärendeförteckning till Justitiekanslern.

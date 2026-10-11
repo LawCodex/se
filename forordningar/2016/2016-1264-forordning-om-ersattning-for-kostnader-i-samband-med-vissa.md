@@ -1,0 +1,103 @@
+---
+title: "Förordning (2016:1264) om ersättning för kostnader i samband med vissa identitetskontroller vid transporter som utförs med buss, tåg eller passagerarfartyg till Sverige från en annan stat"
+identifier: "SFS 2016:1264"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-12-14
+amended_through: "SFS 2018:908"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-1264.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:1264"
+retrieved: 2026-10-11
+---
+# Förordning (2016:1264) om ersättning för kostnader i samband med vissa identitetskontroller vid transporter som utförs med buss, tåg eller passagerarfartyg till Sverige från en annan stat
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna förordning innehåller bestämmelser om en transportörs rätt till ersättning för kostnader som denne har haft för identitetskontroller som utförs enligt föreskrifter som regeringen har meddelat med stöd av 3 § lagen (2015:1073) om särskilda åtgärder vid allvarlig fara för den allmänna ordningen eller den inre säkerheten i landet.
+
+De termer som används i denna förordning har samma betydelse som i lagen om särskilda åtgärder vid allvarlig fara för den allmänna ordningen eller den inre säkerheten i landet och i föreskrifter som regeringen har meddelat med stöd av den lagen.
+
+#### 2 §
+
+Denna förordning är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+### Mottagare och villkor
+
+#### 3 §
+
+Ersättning lämnas till transportören.
+
+#### 4 §
+
+Ersättning lämnas, i mån av tillgång på medel, för skäliga kostnader som en transportör har haft för identitetskontroller som utförs enligt föreskrifter som regeringen har meddelat med stöd av 3 § lagen (2015:1073) om särskilda åtgärder vid allvarlig fara för den allmänna ordningen eller den inre säkerheten i landet. Ersättningen lämnas endast för kostnader som har uppkommit under giltighetstiden för sådana föreskrifter.
+
+Ersättning lämnas även, i mån av tillgång på medel, för skäliga avvecklingskostnader som en transportör har haft på grund av identitetskontroller som har utförts enligt sådana föreskrifter som avses i första stycket. Ersättningen lämnas endast för kostnader som har uppkommit senast tre månader efter det att giltighetstiden för sådana föreskrifter som har gått ut. *Förordning (2017:574)*.
+
+### Ansökan och beslut
+
+#### 5 §
+
+En ansökan om ersättning ska ges in till och prövas av Trafikverket. Ansökan om ersättning ska ske skriftligen på en blankett som Trafikverket tillhandahåller.
+
+#### 6 §
+
+En ansökan om ersättning ska ha kommit in till Trafikverket senast inom den tid som Trafikverket beslutar. Tiden får dock inte vara längre än nio månader, räknat från det att giltighetstiden för de föreskrifter som regeringen har meddelat med stöd av 3 § lagen (2015:1073) om särskilda åtgärder vid allvarlig fara för den allmänna ordningen eller den inre säkerheten i landet har gått ut.
+
+#### 7 §
+
+När ansökningstiden enligt 6 § har gått ut ska Trafikverket pröva samtliga inkomna ansökningar.
+
+Om tillgängliga medel understiger den ersättning som kan beviljas, ska ersättningen sättas ned i lika mån för alla som ska beviljas ersättning.
+
+Trafikverket betalar ut ersättningen.
+
+#### 8 §
+
+Den som ansöker om ersättning ska på begäran av Trafikverket inom viss tid som verket bestämmer lämna de ytterligare uppgifter som behövs för prövningen. Om sökanden inte följer en sådan begäran, får ansökan prövas i befintligt skick.
+
+### Återbetalning och återkrav
+
+#### 9 §
+
+Den som fått ersättning är återbetalningsskyldig om
+
+1. denne, genom att lämna oriktiga uppgifter, har förorsakat att ersättningen beviljats felaktigt eller med för högt belopp, eller
+
+2. ersättningen av något annat skäl har beviljats felaktigt eller med för högt belopp och mottagaren skäligen borde ha insett detta.
+
+På beloppet ska ränta enligt räntelagen (1975:635) betalas.
+
+Om någon är återbetalningsskyldig, ska Trafikverket besluta att helt eller delvis kräva tillbaka ersättningen jämte ränta. Om det finns särskilda skäl får Trafikverket besluta att sätta ned räntekravet helt eller delvis.
+
+### Bemyndigande
+
+#### 10 §
+
+Trafikverket får meddela föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 11 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 7 § får dock inte överklagas.
+
+*Förordning (2018:908)*.
+
+## Övergångsbestämmelser
+
+**2016:1264**
+
+1. Denna förordning träder i kraft den 11 januari 2017.
+
+2. Ersättning enligt förordningen lämnas dock för tid från och med den 4 januari 2016.
+
+**2017:574**
+
+1. Denna förordning träder i kraft den 1 augusti 2017.
+
+2. Ersättning för avvecklingskostnader enligt 4 § i den nya lydelsen lämnas dock för tid från och med den 4 maj 2017.

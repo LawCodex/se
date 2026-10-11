@@ -1,0 +1,57 @@
+---
+title: "Förordning (2006:1577) om statsbidrag för icke statliga flygplatser"
+identifier: "SFS 2006:1577"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-12-21
+amended_through: "SFS 2017:944"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TP"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-1577.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:1577"
+retrieved: 2026-10-11
+---
+# Förordning (2006:1577) om statsbidrag för icke statliga flygplatser
+
+### 1 §
+
+I denna förordning finns bestämmelser om fördelning av anslaget "Ersättning avseende icke statliga flygplatser" inom utgiftsområde 22.
+
+Bidrag enligt denna förordning får bara lämnas för flygplatser där det utförs flygtrafik som omfattas av allmän trafikplikt enligt artikel 16 i Europaparlamentets och rådets förordning (EU) nr 1008/2008 av den 24 september 2008 om gemensamma regler för tillhandahållande av lufttrafik i gemenskapen, i den ursprungliga lydelsen.
+
+Som villkor för bidrag gäller att bidraget används för att finansiera driften av flygplatsen på ett sätt som är förenligt med Europeiska kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget, i lydelsen enligt kommissionens förordning (EU) 2017/1084. Bidraget lämnas till den kommun där flygplatsen ligger.
+
+Om kommunen enligt 2 § första stycket lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler återkräver stöd från flygplatsen som lämnats för förordnandet enligt tredje stycket, ska bidraget återbetalas till staten. *Förordning (2017:944)*.
+
+### 2 §
+
+Trafikverket beslutar årligen om fördelningen av bidraget i enlighet med denna förordning och med vad regeringen i övrigt bestämmer. *Förordning (2016:129)*.
+
+### 3 §
+
+Trafikverket får besluta att ge bidrag för att täcka det faktiska underskottet för det aktuella verksamhetsåret vid flygplatsen. Eventuellt överskott ska återbetalas eller avräknas påföljande verksamhetsår. *Förordning (2016:129)*.
+
+### 4 §
+
+Har upphävts genom *förordning (2011:1224)*.
+
+### 5 §
+
+Vid handläggningen av ärenden om bidrag för icke statliga flygplatser får Trafikverket biträdas av företrädare för de icke statliga flygplatserna.
+
+Trafikverket utser företrädarna och beslutar självständigt när man vill biträdas av dem. *Förordning (2016:129)*.
+
+### 6 §
+
+Trafikverket får meddela de ytterligare verkställighetsföreskrifter som behövs. *Förordning (2010:155)*.
+
+### 7 §
+
+Trafikverkets beslut om fördelning av bidrag för icke statliga flygplatser får överklagas till regeringen. *Förordning (2016:129)*.
+
+## Övergångsbestämmelser
+
+**2006:1577**
+
+Denna förordning träder i kraft den 1 februari 2007, och skall tillämpas första gången vid fördelning av driftbidrag till icke statliga flygplatser under budgetåret 2007.

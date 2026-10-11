@@ -1,0 +1,69 @@
+---
+title: "Förordning (2004:332) om utgivning av säkerställda obligationer"
+identifier: "SFS 2004:332"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2004-05-19
+amended_through: "SFS 2026:645"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2004-332.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2004:332"
+retrieved: 2026-10-11
+---
+# Förordning (2004:332) om utgivning av säkerställda obligationer
+
+## Bemyndiganden
+
+### 1 §
+
+*/Upphör att gälla U:2030-01-10/* Finansinspektionen får meddela föreskrifter om
+
+1. innehållet i de planer som krävs enligt 2 kap. 1 § första stycket 3 och 4 lagen (2003:1223) om utgivning av säkerställda obligationer,
+
+2. fast egendom, tomträtt och bostadsrätt som avses i 3 kap. 1 § tredje stycket lagen om utgivning av säkerställda obligationer,
+
+3. hur värdering av säkerheterna enligt 3 kap. 5 § lagen om utgivning av säkerställda obligationer ska utföras,
+
+4. hur kontrollen av marknadsvärdet enligt 3 kap. 7 § lagen om utgivning av säkerställda obligationer ska utföras,
+
+5. hur schablonbeloppet för kostnader för förvaltning och avveckling av säkerställda obligationer enligt 3 kap. 8 § andra stycket lagen om utgivning av säkerställda obligationer ska bestämmas,
+
+6. villkor för derivatavtal samt beräkning av och villkor för riskexponering och räntebetalningar enligt 3 kap. 9 § lagen om utgivning av säkerställda obligationer,
+
+7. hur registret ska föras enligt 3 kap. 10 § lagen om utgivning av säkerställda obligationer,
+
+8. den oberoende granskarens kompetens, uppgifter och rapporteringsskyldighet enligt 3 kap. 12 och 13 §§ lagen om utgivning av säkerställda obligationer,
+
+9. vilken information ett emittentinstitut ska tillhandahålla enligt 3 kap. 16 § första stycket lagen om utgivning av säkerställda obligationer, och
+
+10. sådana avgifter som avses i 5 kap. 7 § lagen om utgivning av säkerställda obligationer. *Förordning (2022:806)*.
+
+### 1 §
+
+*/Träder i kraft I:2030-01-10/* Finansinspektionen får meddela föreskrifter om
+
+1. innehållet i de planer som krävs enligt 2 kap. 1 § första stycket 3 och 4 lagen (2003:1223) om utgivning av säkerställda obligationer,
+
+2. fast egendom, tomträtt och bostadsrätt som avses i 3 kap. 1 § tredje stycket lagen om utgivning av säkerställda obligationer,
+
+3. hur värdering av säkerheterna enligt 3 kap. 5 § lagen om utgivning av säkerställda obligationer ska utföras,
+
+4. hur kontrollen av marknadsvärdet enligt 3 kap. 7 § lagen om utgivning av säkerställda obligationer ska utföras,
+
+5. hur schablonbeloppet för kostnader för förvaltning och avveckling av säkerställda obligationer enligt 3 kap. 8 § andra stycket lagen om utgivning av säkerställda obligationer ska bestämmas,
+
+6. villkor för derivatavtal samt beräkning av och villkor för riskexponering och räntebetalningar enligt 3 kap. 9 § lagen om utgivning av säkerställda obligationer,
+
+7. hur registret ska föras enligt 3 kap. 10 § lagen om utgivning av säkerställda obligationer,
+
+8. den oberoende granskarens kompetens, uppgifter och rapporteringsskyldighet enligt 3 kap. 12 och 13 §§ lagen om utgivning av säkerställda obligationer,
+
+9. vilken information ett emittentinstitut ska tillhandahålla enligt 3 kap. 16 § första stycket lagen om utgivning av säkerställda obligationer och om information som ska lämnas till Finansinspektionen enligt 3 kap. 16 § tredje stycket samma lag, och
+
+10. sådana avgifter som avses i 5 kap. 7 § lagen om utgivning av säkerställda obligationer. *Förordning (2026:645)*.
+
+### 2 §
+
+Finansinspektionen får meddela föreskrifter om verkställigheten av denna förordning. *Förordning (2022:806)*.

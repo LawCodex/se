@@ -1,0 +1,103 @@
+---
+title: "Lag (2017:151) om meddelarskydd i vissa enskilda verksamheter"
+identifier: "SFS 2017:151"
+type: act
+jurisdiction: se
+language: sv
+date: 2017-02-23
+amended_through: "SFS 2026:1649"
+department: "Justitiedepartementet L6"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-151.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:151"
+retrieved: 2026-10-11
+---
+# Lag (2017:151) om meddelarskydd i vissa enskilda verksamheter
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna lag innehåller bestämmelser som ger anställda, uppdragstagare och andra som på liknande grund deltar i sådan verksamhet som avses i 2 § skydd mot efterforskning och ingripanden från verksamhetsutövarens sida när de lämnar uppgifter om verksamheten för offentliggörande i medier som omfattas av tryckfrihetsförordningen eller yttrandefrihetsgrundlagen eller medverkar till framställningar i sådana medier.
+
+Lagen medför inte någon rätt att lämna ut handlingar.
+
+### 2 §
+
+*/Upphör att gälla U:2027-01-01/* Lagen gäller i yrkesmässigt bedriven enskild verksamhet som till någon del är offentligt finansierad och som
+
+1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
+
+2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125), eller
+
+3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av missbrukare i vissa fall, lagen (1990:52) med särskilda bestämmelser om vård av unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller utgör personlig assistans som utförs med assistansersättning enligt 51 kap. socialförsäkringsbalken.
+
+Upphör verksamheten att vara en sådan verksamhet som avses i första stycket, gäller skyddet fortfarande i fråga om uppgifter som lämnas om den tidigare verksamheten för offentliggörande. *Lag (2025:447)*.
+
+### 2 §
+
+*/Träder i kraft I:2027-01-01/**/Upphör att gälla U:2027-01-02/*
+
+Lagen gäller i yrkesmässigt bedriven enskild verksamhet som till någon del är offentligt finansierad och som
+
+1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
+
+2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125), eller
+
+3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av missbrukare i vissa fall, lagen (2026:1600) om omhändertagande för vård av barn och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller utgör personlig assistans som utförs med assistansersättning enligt 51 kap. socialförsäkringsbalken.
+
+Upphör verksamheten att vara en sådan verksamhet som avses i första stycket, gäller skyddet fortfarande i fråga om uppgifter som lämnas om den tidigare verksamheten för offentliggörande. *Lag (2026:1624)*.
+
+### 2 §
+
+*/Träder i kraft I:2027-01-02/* Lagen gäller i yrkesmässigt bedriven enskild verksamhet som till någon del är offentligt finansierad och som
+
+1. tillhör skolväsendet, de särskilda utbildningsformerna eller annan pedagogisk verksamhet enligt 1 kap., 24 kap. eller 25 kap. skollagen (2010:800),
+
+2. utgör hälso- och sjukvård eller tandvård enligt hälso- och sjukvårdslagen (2017:30) eller tandvårdslagen (1985:125), eller
+
+3. bedrivs enligt socialtjänstlagen (2025:400), lagen (1988:870) om vård av missbrukare i vissa fall, lagen (2026:1637) om insatser inom socialtjänsten när samtycke saknas, lagen (2026:1600) om omhändertagande för vård av barn och unga, lagen (1993:387) om stöd och service till vissa funktionshindrade eller utgör personlig assistans som utförs med assistansersättning enligt 51 kap. socialförsäkringsbalken.
+
+Upphör verksamheten att vara en sådan verksamhet som avses i första stycket, gäller skyddet fortfarande i fråga om uppgifter som lämnas om den tidigare verksamheten för offentliggörande. *Lag (2026:1649)*.
+
+### 3 §
+
+*/Upphör att gälla U:2027-01-01/* Lagen gäller inte för aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där kommuner, regioner eller kommunalförbund utövar eller har utövat ett rättsligt bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen (2009:400) och inte heller för de organ som anges i bilagan till offentlighets- och sekretesslagen beträffande den verksamhet som anges där. *Lag (2019:974)*.
+
+### 3 §
+
+*/Träder i kraft I:2027-01-01/* Lagen gäller inte för
+
+1. aktiebolag, handelsbolag, ekonomiska föreningar och stiftelser där kommuner, regioner eller kommunalförbund utövar eller har utövat ett rättsligt bestämmande inflytande enligt 2 kap. 3 § offentlighets- och sekretesslagen (2009:400),
+
+2. sådana enskilda huvudmän inom skolväsendet som avses i 2 kap. 3 a § offentlighets- och sekretesslagen beträffande den verksamhet som anges där, och
+
+3. de organ som anges i bilagan till offentlighets- och sekretesslagen beträffande den verksamhet som anges där.
+
+*Lag (2026:717)*.
+
+## Rätt att lämna uppgifter och förbud mot ingripande och efterforskning
+
+### 4 §
+
+I förhållandet mellan en verksamhetsutövare som bedriver sådan verksamhet som avses i 2 § och de personer som avses i 1 § gäller, i fråga om uppgifter om verksamheten, det som föreskrivs i tryckfrihetsförordningen och yttrandefrihetsgrundlagen om
+
+1. rätt att lämna uppgifter för offentliggörande,
+
+2. förbud mot att ingripa mot bruk eller missbruk av tryckfriheten eller yttrandefriheten eller medverkan till sådant bruk eller missbruk, och
+
+3. förbud mot att efterforska upphovsman, meddelare, den som har utgett eller avsett att utge en framställning i tryckt skrift, den som har tillhandahållit eller avsett att tillhandahålla en framställning för offentliggörande i ett radioprogram eller en teknisk upptagning och den som har framträtt i en sådan framställning.
+
+Första stycket 1 gäller inte verkställande direktör, vice verkställande direktör, styrelseledamot eller styrelsesuppleant i en juridisk person som bedriver verksamheten.
+
+## Inskränkningar i rätten att lämna uppgifter
+
+### 5 §
+
+Rätten enligt denna lag att lämna uppgifter gäller inte om det föreskrivs i lag att uppgifterna omfattas av tystnadsplikt. Detsamma gäller för tystnadsplikt som avtalats eller förordnats med stöd av 9 a § lagen (1974:358) om förtroendemans ställning på arbetsplatsen eller 21 § lagen (1976:580) om medbestämmande i arbetslivet.
+
+## Straff
+
+### 6 §
+
+Den som uppsåtligen ingriper i strid med 4 § första stycket 2 döms, om åtgärden utgör avskedande, uppsägning, meddelande av disciplinpåföljd eller en liknande åtgärd, till böter eller fängelse i högst ett år. Detsamma gäller den som uppsåtligen efterforskar i strid med 4 § första stycket 3.

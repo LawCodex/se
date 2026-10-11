@@ -1,0 +1,97 @@
+---
+title: "Lag (2006:45) om omvandling av fängelse på livstid"
+identifier: "SFS 2006:45"
+type: act
+jurisdiction: se
+language: sv
+date: 2006-02-16
+amended_through: "SFS 2025:1418"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-45.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:45"
+retrieved: 2026-10-11
+---
+# Lag (2006:45) om omvandling av fängelse på livstid
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna lag gäller omvandling av fängelse på livstid till fängelse på viss tid.
+
+Lagen gäller inte för personer som har överförts hit för verkställighet av fängelsestraff med stöd av lagen (1994:569) om Sveriges samarbete med de internationella tribunalerna för brott mot internationell humanitär rätt eller lagen (2002:329) om samarbete med Internationella brottmålsdomstolen.
+
+Att regeringen genom nåd får efterge eller mildra en brottspåföljd framgår av 12 kap. 9 § regeringsformen.
+
+*Lag (2010:1435)*.
+
+## Ansökan om omvandling
+
+### 2 §
+
+En ansökan om omvandling får göras av den dömde eller, när det finns särskilda skäl, av Kriminalvården. Kriminalvårdens beslut att ansöka om omvandling får inte överklagas.
+
+### 3 §
+
+En ansökan får göras när den dömde har avtjänat minst tolv år av livstidsstraffet. Om ansökan avslås, får en ny ansökan göras tidigast ett år efter det att beslutet fick laga kraft.
+
+*Lag (2025:1418)*.
+
+### 4 §
+
+Vid prövning av omvandling skall särskilt beaktas den tid som den dömde har avtjänat, vad som av domen framgår om de omständigheter som legat till grund för straffmätningen, om det finns risk för att den dömde återfaller i brottslighet av allvarligt slag, om den dömde har åsidosatt vad som gäller för verkställigheten och om den dömde har medverkat till att främja sin anpassning i samhället.
+
+Om ansökan bifalls skall det utdömda livstidsstraffet omvandlas till fängelse på viss tid.
+
+Fängelsestraffets längd skall bestämmas med utgångspunkt från den tid som den dömde har avtjänat och med beaktande av reglerna om villkorlig frigivning samt den dömdes behov av åtgärder för att underlätta övergången till ett liv i frihet.
+
+Fängelsestraffets längd får inte understiga det längsta tidsbestämda straff som kan dömas ut.
+
+### 5 §
+
+Vid prövning av omvandling skall sådana villkor följas som har uppställts vid överförande av verkställighet av straffet från en annan stat till Sverige.
+
+## Handläggning
+
+### 6 §
+
+En ansökan om omvandling tas upp av Örebro tingsrätt.
+
+Ansökan skall vara skriftlig.
+
+### 7 §
+
+Åklagaren skall vara den dömdes motpart.
+
+### 8 §
+
+För den dömde skall offentligt biträde förordnas, om det inte måste antas att behov av biträde saknas.
+
+### 9 §
+
+Rätten skall, om det inte är uppenbart obehövligt, inhämta yttrande från Kriminalvården.
+
+### 10 §
+
+Rätten får inhämta en utredning med utlåtande om risken för att den dömde återfaller i brottslighet. Föreskrifter om genomförande av en sådan utredning meddelas av regeringen eller den myndighet som regeringen bestämmer.
+
+En ansökan får inte bifallas utan att en utredning enligt första stycket har inhämtats. En sådan utredning behöver dock inte inhämtas om det är uppenbart obehövligt.
+
+### 11 §
+
+Sådana uppgifter om den dömde som behövs för genomförandet av en utredning enligt 10 § ska lämnas ut från en verksamhet där sekretess annars gäller enligt 25 kap. 1-5 §§, 26 kap. 1 § eller 35 kap. 15 eller 16 § offentlighets- och sekretesslagen (2009:400). *Lag (2009:512)*.
+
+### 12 §
+
+Begär den dömde att bli hörd muntligen, skall han eller hon ges tillfälle till det om det inte är uppenbart obehövligt.
+
+Parterna skall ges tillfälle att yttra sig över det som tillförts ärendet genom någon annan.
+
+### 13 §
+
+När tingsrätten avgör en fråga om omvandling skall den bestå av en lagfaren domare och tre nämndemän. Rättens avgörande sker genom beslut.
+
+### 14 §
+
+I övrigt gäller vad som föreskrivs om brottmål i rättegångsbalken.

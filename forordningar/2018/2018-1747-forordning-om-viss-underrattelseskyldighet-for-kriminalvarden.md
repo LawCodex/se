@@ -1,0 +1,278 @@
+---
+title: "Förordning (2018:1747) om viss underrättelseskyldighet för Kriminalvården"
+identifier: "SFS 2018:1747"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-11-22
+amended_through: "SFS 2026:1234"
+department: "Justitiedepartementet L5"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1747.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1747"
+retrieved: 2026-10-11
+---
+# Förordning (2018:1747) om viss underrättelseskyldighet för Kriminalvården
+
+### 1 §
+
+Kriminalvården ska lämna underrättelse till nedan angivna myndigheter i följande fall.
+
+```
+Uppgift lämnas till     Uppgift lämnas om
+1. Totalförsvarets  plikt- och
+prövningsverk           Intagning i eller avgång från 
+                        kriminalvårdsanstalt av svenska 
+                        medborgare som under kalenderåret 
+                        fyller 17-47 år.
+
+                        Beslut om förlängning av 
+                        verkställighetstid med minst en månad 
+                        för intagen om vilken underrättelse har 
+                        lämnats tidigare.
+
+                        Verkställighetens början vid 
+                        verkställighet av fängelsestraff med 
+                        elektronisk övervakning och tidpunkt 
+                        för verkställighetens slut för svenska 
+                        medborgare som under kalenderåret 
+                        fyller 17-47 år.
+
+                        Verkställighetens början vid 
+                        verkställighet av säkerhetsförvaring 
+                        och tidpunkt för verkställighetens slut 
+                        för venska medborgare som under 
+                        kalenderåret fyller 18-47 år.
+2. Försäkringskassan    Tidpunkt för frihetsberövande på grund 
+                        av häktning eller hävande av 
+                        häktningsbeslut.
+
+                        Tidpunkt för intagning i eller avgång 
+                        från kriminalvårdsanstalt eller tidpunkt 
+                        då verkställighet av fängelsestraff på 
+                        annat sätt påbörjades och beslutad 
+                        tidpunkt ör avgång från 
+                        kriminalvårdsanstalt.
+
+                        Verkställighetens början vid 
+                        verkställighet av fängelsestraff med 
+                        elektronisk övervakning i kontrollerat 
+                        boende enligt 1 kap. 2 § lagen 
+                        (2025:1053) om verkställighet av 
+                        fängelsestraff med elektronisk 
+                        övervakning och tidpunkt för 
+                        verkställighetens slut. 
+
+                        Verkställighetens början vid 
+                        verkställighet av säkerhetsförvaring 
+                        och tidpunkt för verkställighetens 
+                        slut.
+
+                        Tidpunkt för påbörjad eller avslutad 
+                        verkställighet utanför anstalt som 
+                        innebär att den dömde enligt 11 kap. 
+                        fängelselagen (2010:610) har sin 
+                        dygnsvila i ett sådant hem som avses i 
+                        9 kap. 1 § socialtjänstlagen (2025:400) 
+                        eller i sin bostad.
+
+                        Tidpunkt för påbörjad verkställighet 
+                        utanför anstalt enligt 4 kap. 1 § lagen 
+                        (2026:252) om verkställighet av 
+                        säkerhetsförvaring som innebär att den 
+                        dömde avtjänar påföljden i sin bostad 
+                        eller i ett sådant hem som avses i 
+                        9 kap. 1 § socialtjänstlagen eller som 
+                        i övrigt innebär att verkställigheten 
+                        utanför anstalt är varaktig.
+
+                        Tidpunkt för avvikelse från 
+                        kriminalvårdsanstalt, från 
+                        verkställighet utanför anstalt som 
+                        innebär att den dömde enligt 11 kap. 
+                        fängelselagen har sin dygnsvila i ett 
+                        sådant hem som avses i 9 kap. 1 § 
+                        socialtjänstlagen, eller från 
+                        kontrollerat boende enligt lagen om 
+                        verkställighet av fängelsestraff med 
+                        elektronisk vervakning och tidpunkt för
+                        återupptagande av sådan verkställighet 
+                        efter avvikelse.
+
+                        Tidpunkt för påbörjad eller avslutad 
+                        vistelse på statens bekostnad i ett 
+                        sådant familjehem eller hem för vård 
+                        eller boende som avses i 
+                        socialtjänstlagen till följd av dom på 
+                        skyddstillsyn med särskild 
+                        behandlingsplan.
+
+                        Tidpunkt för utebliven inställelse vid 
+                        kriminalvårdsanstalt för verkställighet 
+                        av fängelsestraff eller 
+                        säkerhetsförvaring.
+
+                        Tidpunkt för utebliven inställelse vid 
+                        kontrollerat boende för verkställighet 
+                        av fängelsestraff med elektronisk 
+                        övervakning.
+3. Polismyndigheten     Intagning i eller avgång från 
+                        kriminalvårdsanstalt eller förflyttning 
+                        till annan anstalt.
+
+                        Verkställighetens början vid 
+                        verkställighet av fängelsestraff med 
+                        elektronisk övervakning och tidpunkt 
+                        för verkställighetens slut. 
+
+                        Verkställighetens början vid 
+                        verkställighet utanför anstalt som 
+                        innebär att den dömde enligt 11 kap. 
+                        fängelselagen har sin dygnsvila utanför 
+                        anstalt och tidpunkt för 
+                        verkställighetens slut.
+
+                        Verkställighetens början vid 
+                        verkställighet av säkerhetsförvaring 
+                        och tidpunkten för verkställighetens 
+                        slut.
+
+                        Verkställighetens början i 
+                        kriminalvårdsanstalt när den 
+                        sammanlagda tiden att avtjäna är 
+                        fängelse i minst ett år.
+
+                        Permission eller avgång från 
+                        kriminalvårdsanstalt, om underrättelsen 
+                        kan antas vara av betydelse för 
+                        myndighetens verksamhet.
+
+                        Tidpunkt för påbörjad verkställighet 
+                        utanför anstalt enligt 4 kap. 1 § lagen 
+                        om verkställighet av säkerhetsförvaring.
+4. Säkerhetspolisen     Intagning i eller avgång från 
+                        kriminalvårdsanstalt och permission 
+                        eller förflyttning till annan anstalt, 
+                        om underrättelsen kan antas vara av
+                        betydelse för Säkerhetspolisens 
+                        verksamhet.
+
+                        Verkställighetens början vid 
+                        verkställighet av säkerhetsförvaring 
+                        och tidpunkten för verkställighetens 
+                        slut, om underrättelsen kan antas vara 
+                        av betydelse för Säkerhetspolisens 
+                        verksamhet.
+
+                        Verkställighetens början vid 
+                        verkställighet utanför anstalt som 
+                        innebär att den dömde enligt 11 kap. 
+                        fängelselagen har sin dygnsvila utanför 
+                        anstalt samt uppgift om var den dömde 
+                        har sin dygnsvila och tidpunkt för 
+                        verkställighetens slut, om 
+                        underrättelsen kan antas vara av 
+                        betydelse för Säkerhetspolisens 
+                        verksamhet.
+
+                        Tidpunkt för verkställighet utanför 
+                        anstalt enligt 4 kap. 1 § lagen om 
+                        verkställighet av säkerhetsförvaring, 
+                        om nderrättelsen kan antas vara av 
+                        betydelse för Säkerhetspolisens 
+                        verksamhet.
+5. Pensionsmyndigheten  Tidpunkt för frihetsberövande på grund
+                        av häktning eller hävande av 
+                        häktningsbeslut.
+
+                        Tidpunkt för intagning i eller avgång 
+                        från kriminalvårdsanstalt eller tidpunkt 
+                        då verkställighet av fängelsestraff på 
+                        annat sätt påbörjades och beslutad 
+                        tidpunkt för avgång från 
+                        kriminalvårdsanstalt.
+
+                        Verkställighetens början vid 
+                        verkställighet av fängelsestraff med 
+                        elektronisk övervakning i kontrollerat 
+                        boende enligt 1 kap. 2 § lagen om 
+                        verkställighet av fängelsestraff med 
+                        elektronisk övervakning och tidpunkt 
+                        för erkställighetens slut.
+
+                        Verkställighetens början vid 
+                        verkställighet av säkerhetsförvaring 
+                        och tidpunkt för verkställighetens slut.
+
+                        Tidpunkt för påbörjad eller avslutad 
+                        verkställighet utanför anstalt som 
+                        innebär att den dömde enligt 11 kap. 
+                        fängelselagen har sin dygnsvila i ett 
+                        sådant hem som avses i  kap. 1 § 
+                        socialtjänstlagen eller i sin bostad.
+
+                        Tidpunkt för påbörjad verkställighet 
+                        utanför anstalt enligt 4 kap. 1 § lagen 
+                        om verkställighet av säkerhetsförvaring 
+                        som innebär att den dömde avtjänar 
+                        påföljden i ett sådant hem som avses i 
+                        9 kap. 1 § socialtjänstlagen eller som 
+                        i övrigt innebär att verkställigheten 
+                        utanför anstalt är varaktig.
+
+                        Tidpunkt för avvikelse från 
+                        kriminalvårdsanstalt, från 
+                        verkställighet utanför anstalt som 
+                        innebär att den dömde enligt 11 kap. 
+                        fängelselagen har sin dygnsvila i ett 
+                        sådant hem som avses i 9 kap. 1 § 
+                        socialtjänstlagen eller i sin bostad, 
+                        eller från kontrollerat boende enligt 
+                        lagen om verkställighet av 
+                        fängelsestraff med elektronisk 
+                        övervakning och tidpunkt för 
+                        återupptagande av sådan verkställighet 
+                        efter avvikelse.
+
+                        Tidpunkt för påbörjad eller avslutad 
+                        vistelse på statens bekostnad i ett 
+                        sådant familjehem eller hem för vård 
+                        eller boende som avses i 
+                        socialtjänstlagen till följd av dom på 
+                        skyddstillsyn med särskild 
+                        behandlingsplan.
+
+                        Tidpunkt för utebliven inställelse vid 
+                        kriminalvårdsanstalt för verkställighet 
+                        av fängelsestraff eller 
+                        säkerhetsförvaring.
+
+                        Tidpunkt för utebliven inställelse vid 
+                        kontrollerat boende för verkställighet 
+                        av fängelsestraff med elektronisk 
+                        övervakning.
+```
+
+*Förordning (2026:1234)*.
+
+### 2 §
+
+Kriminalvården ska på Tullverkets begäran underrätta verket om var en person är häktad, intagen i kriminalvårdsanstalt eller, enligt 11 kap. fängelselagen (2010:610), har sin dygnsvila i ett sådant hem som avses i 9 kap. 1 § socialtjänstlagen (2025:400). *Förordning (2026:934)*.
+
+### 3 §
+
+Bestämmelser om skyldighet för Kriminalvården att i andra fall lämna uppgifter till Polismyndigheten finns i 30 § förordningen (1999:1134) om belastningsregister.
+
+### 4 §
+
+Kriminalvården får, efter att ha gett berörd myndighet tillfälle att yttra sig, meddela föreskrifter om omfattningen av uppgiftsskyldigheten i 1 § och om tiden och sättet för att fullgöra den.
+
+Innan Kriminalvården meddelar föreskrifter ska Integritetsskyddsmyndigheten ges tillfälle att yttra sig över Kriminalvårdens förslag. *Förordning (2020:1147)*.
+
+## Övergångsbestämmelser
+
+**2026:556**
+
+1. Denna förordning träder i kraft den 1 juli 2026.
+
+2. Äldre bestämmelser gäller i fråga om domar på sluten ungdomsvård.

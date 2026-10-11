@@ -1,0 +1,141 @@
+---
+title: "Lag (2023:456) om skyldighet att lämna uppgifter till Utbetalningsmyndigheten"
+identifier: "SFS 2023:456"
+type: act
+jurisdiction: se
+language: sv
+date: 2023-06-22
+amended_through: "SFS 2026:756"
+department: "Finansdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2023-456.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2023:456"
+retrieved: 2026-10-11
+---
+# Lag (2023:456) om skyldighet att lämna uppgifter till Utbetalningsmyndigheten
+
+## Lagens innehåll
+
+### 1 §
+
+Denna lag innehåller bestämmelser om skyldigheter för statliga myndigheter, kommuner och andra aktörer att i vissa fall lämna uppgifter till Utbetalningsmyndigheten.
+
+*Lag (2026:755)*.
+
+## Uppgifter av betydelse för administrationen av systemet med transaktionskonto
+
+### 2 §
+
+De myndigheter vars utbetalningar ska administreras via systemet med transaktionskonto enligt lagen (2023:454) om transaktionskonto vid Utbetalningsmyndigheten ska lämna de uppgifter till Utbetalningsmyndigheten som den behöver för att administrera systemet med transaktionskonto. *Lag (2025:35)*.
+
+## Uppgifter av betydelse för dataanalyser och urval
+
+### 3 §
+
+Arbetsförmedlingen, Centrala studiestödsnämnden, Försäkringskassan, Pensionsmyndigheten och arbetslöshetskassorna ska lämna uppgifter till Utbetalningsmyndigheten om
+
+1. beslut som rör ekonomiska förmåner eller ekonomiska stöd och de omständigheter som har legat till grund för ett sådant beslut eller som har haft betydelse för verkställigheten av det,
+
+2. kontaktuppgifter för fysiska och juridiska personer som omfattas av ett beslut om ekonomiska förmåner eller ekonomiska stöd samt uppgivna kontaktpersoner och ombud, och
+
+3. arbetsgivare, intygsgivare, kontaktperson, sökande och kontaktuppgifter till dessa, i de fall uppgifterna gäller arbetsgivarintyg.
+
+Arbetsförmedlingen ska även lämna uppgifter om leverantörer som utför arbetsmarknadspolitiska insatser på uppdrag av Arbetsförmedlingen samt företrädare, kontaktpersoner och kontaktuppgifter för dessa.
+
+Arbetslöshetskassorna ska även lämna uppgifter om ägande, ledningsuppdrag och annat engagemang i en näringsverksamhet som sökanden har lämnat vid en anmälan om arbetslöshet samt identifikations- och kontaktuppgifter för näringsverksamheten.
+
+*Lag (2025:35)*.
+
+### 3 a §
+
+*/Upphör att gälla U:2029-07-01/* En kommun ska på begäran av Utbetalningsmyndigheten lämna uppgifter om
+
+1. beslut som rör ekonomiska förmåner till en enskild person eller ekonomiska stöd som avser en enskild person och de omständigheter som har legat till grund för ett sådant beslut eller som har haft betydelse för verkställigheten av det, och
+
+2. kontaktuppgifter för fysiska och juridiska personer som omfattas av ett beslut enligt 1 samt uppgivna kontaktpersoner och ombud. *Lag (2026:755)*.
+
+### 3 a §
+
+*/Träder i kraft I:2029-07-01/* En kommun ska lämna uppgifter till Utbetalningsmyndigheten om
+
+1. beslut som rör ekonomiska förmåner till en enskild person eller ekonomiska stöd som avser en enskild person och de omständigheter som har legat till grund för ett sådant beslut eller som har haft betydelse för verkställigheten av det, och
+
+2. kontaktuppgifter för fysiska och juridiska personer som omfattas av ett beslut enligt 1 samt uppgivna kontaktpersoner och ombud. *Lag (2026:756)*.
+
+### 4 §
+
+Bolagsverket ska på begäran av Utbetalningsmyndigheten lämna uppgifter om
+
+1. vem som har lämnat uppgifter till Bolagsverket och uppgiftslämnarens kontaktuppgifter,
+
+2. vem som har gjort en viss inbetalning till Bolagsverket, och
+
+3. förseningsavgifter beslutade av Bolagsverket.
+
+### 5 §
+
+Inspektionen för vård och omsorg ska lämna uppgifter till Utbetalningsmyndigheten om
+
+1. tillstånd till och anmälan om att yrkesmässigt bedriva verksamhet med personlig assistans samt om ägare och ledning för sådan verksamhet, och
+
+2. anmälan av den som har beviljats ekonomiskt stöd för personlig assistans eller assistansersättning enligt 23 § femte stycket lagen (1993:387) om stöd och service till vissa funktionshindrade.
+
+### 6 §
+
+Migrationsverket ska på begäran av Utbetalningsmyndigheten lämna uppgifter om
+
+1. beslut om uppehållstillstånd, arbetstillstånd och uppehållskort,
+
+2. ansökan om förlängning av uppehållstillstånd och arbetstillstånd,
+
+3. arbetsgivare, intygsgivare, kontaktperson, sökande och kontaktuppgifter till dessa, och
+
+4. anställningsavtal i ärende om arbetstillstånd.
+
+### 7 §
+
+Skatteverket ska på begäran av Utbetalningsmyndigheten lämna uppgifter om
+
+1. registrering för arbetsgivaravgifter och mervärdesskatt samt godkännande för F-skatt,
+
+2. redovisad omsättning i inkomstdeklaration för juridiska personer och enskilda näringsidkare,
+
+3. redovisning av skatter och avgifter i skattedeklaration samt individuppgifter i arbetsgivardeklaration,
+
+4. betalning av skatter och avgifter för betalningsskyldiga som ska lämna skattedeklaration eller är godkända för F-skatt,
+
+5. beslut om debiterad preliminär skatt,
+
+6. omprövningsbeslut till nackdel för juridiska personer och enskilda näringsidkare samt beslut om återkallelse av godkännande för F-skatt,
+
+7. beslut om företrädaransvar och ansvar för delägare i ett svenskt handelsbolag,
+
+8. kontaktuppgifter till juridiska personer och enskilda näringsidkare samt uppgivna kontaktpersoner och ombud, och
+
+9. arbetsgivare, intygsgivare, kontaktperson, den som har gjort anmälan, kontaktuppgifter till dessa och intyg om arbete som har getts in i ärende om folkbokföring.
+
+### 8 §
+
+Uppgiftsskyldigheten i 3-7 §§ gäller i den utsträckning som uppgifterna behövs för Utbetalningsmyndighetens dataanalyser och urval.
+
+## Uppgifter av betydelse för fördjupad granskning
+
+### 9 §
+
+Statliga myndigheter, kommuner och arbetslöshetskassorna ska på begäran av Utbetalningsmyndigheten lämna uppgifter som avser en namngiven fysisk eller juridisk person och som behövs vid en fördjupad granskning enligt lagen (2023:455) om Utbetalningsmyndighetens granskning av utbetalningar.
+
+En kommun är dock inte skyldig att lämna uppgifter som omfattas av sekretess enligt 25 kap. 1-5 och 8 §§ och 26 kap. 1 a § första stycket och 3, 4 och 6 §§ offentlighets- och sekretesslagen (2009:400). *Lag (2026:755)*.
+
+### 10 §
+
+Kreditinstitut ska på begäran av Utbetalningsmyndigheten lämna uppgifter som avser en namngiven fysisk eller juridisk persons förhållande till institutet om uppgifterna är nödvändiga vid en fördjupad granskning enligt lagen (2023:455) om Utbetalningsmyndighetens granskning av utbetalningar. Uppgifterna ska lämnas snarast och i elektronisk form.
+
+Med kreditinstitut avses kreditinstitut enligt lagen (2004:297) om bank-och finansieringsrörelse samt utländska kreditinstitut enligt samma lag om institutet har filial i Sverige.
+
+## Återkoppling på underrättelser
+
+### 11 §
+
+En statlig myndighet eller en arbetslöshetskassa som har mottagit en underrättelse från Utbetalningsmyndigheten om en felaktig utbetalning ska på begäran lämna uppgifter till Utbetalningsmyndigheten om vilka åtgärder som har vidtagits med anledning av underrättelsen och resultatet av dessa.
+
+*Lag (2025:35)*.

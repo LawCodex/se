@@ -1,0 +1,159 @@
+---
+title: "Förordning (2007:1181) med instruktion för Institutet för språk och folkminnen"
+identifier: "SFS 2007:1181"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2026:1469"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1181.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1181"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1181) med instruktion för Institutet för språk och folkminnen
+
+## Uppgifter
+
+### 1 §
+
+Institutet för språk och folkminnen har till uppgift att bedriva språkvård och på vetenskaplig grund öka, levandegöra och sprida kunskaper om språk, dialekter, folkminnen, namn och immateriella kulturarv i Sverige.
+
+Myndigheten ska främja utvecklingen inom sitt verksamhetsområde genom fördelning av statliga bidrag.
+
+Myndigheten ska bedriva forskning inom sitt verksamhetsområde och verka för ökad kunskap i samverkan med andra, exempelvis universitet och högskolor. *Förordning (2012:309)*.
+
+### 2 §
+
+Myndigheten ska särskilt
+
+1. samla in, bevara, vetenskapligt bearbeta samt sprida kunskap och material om det svenska språket, de nationella minoritetsspråken finska, jiddisch, meänkieli och romani chib, det svenska teckenspråket samt dialekter, folkminnen, folkmusik och namn i Sverige,
+
+2. samla kunskap om och följa användningen av även andra språk i Sverige,
+
+3. ansvara för språkcentrum för finska, jiddisch, meänkieli och romani chib som ska främja ökad användning av språken, stärka enskildas förutsättningar för att återta språken och sprida kunskap om revitalisering,
+
+4. initiera och samordna lexikaliskt arbete i fråga om de främmande språk som är aktuella för tolk- och översättarutbildning samt vara engagerad i terminologiskt arbete som rör invandrarspråk,
+
+5. ge råd och upplysningar i språkfrågor,
+
+6. yttra sig i ärenden om fastställande av ortnamn och granska förslag till namn på allmänna kartor,
+
+7. yttra sig i frågor om personnamn,
+
+8. yttra sig i ärenden av språkpolitisk betydelse,
+
+9. följa tillämpningen av språklagen (2009:600) och verka för att den offentliga förvaltningen använder svenska som huvudspråk och de nationella minoritetsspråken enligt gällande lagar och förordningar,
+
+10. verka för att den offentliga förvaltningen använder ett vårdat, enkelt och begripligt språk, bland annat genom att ge ut skrivregler för den offentliga förvaltningen,
+
+11. följa och utvärdera klarspråksarbetet inom den offentliga förvaltningen,
+
+12. främja språkteknologisk och terminologisk utveckling,
+
+13. verka för att den nordiska språkgemenskapen stärks,
+
+14. verka för internationellt och interkulturellt utbyte och samarbete inom sitt verksamhetsområde, och
+
+15. samordna det nationella arbetet med Unescos konvention om tryggande av det immateriella kulturarvet.
+
+*Förordning (2026:1469)*.
+
+### 2 a §
+
+Myndigheten ska integrera ett jämställdhets-, mångfalds- och barnperspektiv i sin verksamhet. *Förordning (2026:1469)*.
+
+### 3 §
+
+Utöver de uppgifter som myndigheten har enligt 1-2 a §§ får den tillhandahålla varor och åta sig att utföra undersökningar, utredningar och andra tjänster inom sitt verksamhetsområde. *Förordning (2026:1469)*.
+
+## Rapportering
+
+### 3 a §
+
+Myndigheten ska följa upp det regionala utfallet av sin verksamhet och rapportera det till Statens kulturråd.
+
+Myndigheterna ska samråda om vilken rapportering som behövs. *Förordning (2014:171)*.
+
+### 4 §
+
+Myndigheten ska i årsredovisningen redovisa
+
+1. lokalkostnader uppdelat i kategorierna hyra, el och uppvärmning, reparationer och underhåll samt övriga driftkostnader,
+
+2. sponsringsintäkter,
+
+3. fördelningen av bidragsintäkter mellan statliga bidrag, icke-statliga bidrag respektive bidrag från mellanstatliga organ, och
+
+4. klarspråksarbetet under det gångna året.
+
+Om myndigheten har flera hyresvärdar ska kostnadsredovisningen enligt första stycket 1 fördelas per hyresvärd.
+
+Redovisningen enligt första stycket 2 och 3 ska göras i noter till resultaträkningen. *Förordning (2026:1469)*.
+
+## Samverkan
+
+### 4 a §
+
+Myndighetens samverkan med myndigheter och andra aktörer ska omfatta det civila samhällets organisationer.
+
+*Förordning (2014:171)*.
+
+## Ledning
+
+### 5 §
+
+Myndigheten leds av en myndighetschef.
+
+## Särskilda organ
+
+### 6 §
+
+Inom myndigheten ska det finnas en rådgivande nämnd för klarspråksfrågor.
+
+Nämnden ska bestå av högst nio ledamöter.
+
+## Anställningar och uppdrag
+
+### 7 §
+
+Generaldirektören är myndighetschef.
+
+### 8 §
+
+Fyra ledamöter i nämnden för klarspråksfrågor utses av regeringen. Övriga ledamöter utses av myndigheten.
+
+## Personalansvarsnämnd
+
+### 9 §
+
+Vid myndigheten ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av vissa förordningar
+
+### 10 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Avgifter
+
+### 11 §
+
+Myndigheten får upp till full kostnadstäckning ta ut avgifter för den verksamhet som anges i 2 § 1 och 2, med undantag för att myndigheten inte får ta ut avgifter för rådgivning som är ett led i språkvårdande verksamhet.
+
+Myndigheten ska ta ut avgifter för den verksamhet som anges i 3 §.
+
+Myndigheten får besluta om avgifternas storlek och disponera intäkterna i verksamheten. *Förordning (2026:1469)*.
+
+### 12 §
+
+Har upphävts genom *förordning (2026:1469)*.
+
+## Undantag från myndighetsförordningen
+
+### 13 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning.

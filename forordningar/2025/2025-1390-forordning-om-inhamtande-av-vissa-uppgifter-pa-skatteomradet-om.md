@@ -1,0 +1,44 @@
+---
+title: "Förordning (2025:1390) om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar"
+identifier: "SFS 2025:1390"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2025-11-27
+department: "Finansdepartementet S3"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-1390.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:1390"
+retrieved: 2026-10-11
+---
+# Förordning (2025:1390) om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar
+
+## 1 §
+
+Denna förordning är meddelad med stöd av
+
+- 8 kap. 2 § lagen (2025:1377) om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar i fråga om 2 §,
+
+- 9 kap. 5 § lagen om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar i fråga om 3 §, och
+
+- 8 kap. 7 § regeringsformen i fråga om övriga bestämmelser.
+
+## 2 §
+
+Skatteverket får meddela föreskrifter om vilket format, vilka uppgifter och vilken dokumentation en anmälan enligt 8 kap. 1 § lagen (2025:1377) om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar ska innehålla.
+
+En anmälan enligt första stycket ska göras enligt ett av Skatteverket fastställt formulär.
+
+## 3 §
+
+Skatteverket får meddela ytterligare föreskrifter om vilket format, vilka uppgifter och vilken dokumentation en ansökan enligt 9 kap. 1 § lagen (2025:1377) om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar ska innehålla.
+
+En ansökan enligt första stycket ska göras enligt ett av Skatteverket fastställt formulär.
+
+## 4 §
+
+Ett intygande enligt 7 kap. lagen (2025:1377) om inhämtande av vissa uppgifter på skatteområdet om kryptotillgångar ska tillhandahållas elektroniskt eller i annan form och lämnas på annat sätt än muntligen.
+
+Om intygandet tillhandahålls elektroniskt ska det elektroniska systemet säkerställa att den mottagna informationen är den information som skickats och dokumentera alla tillfällen av användares åtkomst för inlämning, förnyelse eller ändring av intygandet.
+
+Utformningen och driften av det elektroniska systemet, inklusive procedur för åtkomst, måste säkerställa att den person som har tillgång till systemet och lämnar intygandet antingen är den person som anges i intygandet eller en person som har rätt att företräda den person som anges i intygandet. Det måste vara möjligt att på begäran lämna papperskopia av alla intyganden som lämnats elektroniskt.

@@ -1,0 +1,55 @@
+---
+title: "Lag (2006:343) om Försvarsmaktens stöd till polisen vid terrorismbekämpning"
+identifier: "SFS 2006:343"
+type: act
+jurisdiction: se
+language: sv
+date: 2006-05-18
+amended_through: "SFS 2025:1066"
+department: "Justitiedepartementet L4"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-343.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:343"
+retrieved: 2026-10-11
+---
+# Lag (2006:343) om Försvarsmaktens stöd till polisen vid terrorismbekämpning
+
+## 1 §
+
+I denna lag finns bestämmelser om Försvarsmaktens stöd till Polismyndigheten och Säkerhetspolisen vid terrorismbekämpning i form av insatser som kan innebära användning av våld eller tvång mot enskilda.
+
+Polismyndigheten eller Säkerhetspolisen får begära sådant stöd om
+
+1. stödet behövs för att förhindra eller på annat sätt ingripa mot en handling som kan utgöra terroristbrott enligt 4 § terroristbrottslagen (2022:666) eller försök, förberedelse eller stämpling till eller underlåtenhet att avslöja eller förhindra sådant brott,
+
+2. ingripandet kräver resurser av särskilt slag som varken Polismyndigheten eller Säkerhetspolisen har tillgång till, och
+
+3. regeringen har lämnat sitt medgivande.
+
+Polismyndigheten och Säkerhetspolisen ska samråda med varandra innan regeringens medgivande begärs.
+
+Regeringens medgivande behövs inte i sådana brådskande fall som kan innebära fara för människors liv eller hälsa eller för omfattande förstörelse av egendom. Polismyndigheten eller Säkerhetspolisen ska i ett sådant fall omedelbart underrätta regeringen om att stöd har begärts. Den myndighet som begärt stödet ska även underrätta den andra myndigheten om detta. Regeringen ska pröva om beslutet att begära stöd ska undanröjas eller bestå. *Lag (2022:675)*.
+
+## 2 §
+
+Försvarsmakten skall ge stöd om den har resurser som är lämpliga och det inte medför synnerligt hinder i myndighetens ordinarie verksamhet.
+
+## 3 §
+
+En enhet inom Försvarsmakten som ger stöd enligt denna lag ska stå under befäl av en militär chef. När en stödinsats görs, ska enheten och dess chef stå under direkt ledning av den myndighet som har begärt stödet. *Lag (2014:596)*.
+
+## 4 §
+
+Vid en stödinsats får endast sådan personal från Försvarsmakten som har lämplig utbildning och erfarenhet för uppgiften medverka. Försvarsmakten skall se till att den medverkande personalen har nödvändig kunskap om de särskilda förhållanden som kan gälla för uppgiften.
+
+## 5 §
+
+Den som tillhör Försvarsmaktens personal och som uppfyller de krav som föreskrivs av regeringen eller den myndighet regeringen bestämmer i fråga om tjänsteställning och kvalifikationer i övrigt har de befogenheter som en polisman har enligt polislagen (1984:387) och lagen (2025:1062) om polisens användning av skjutvapen när han eller hon deltar i en stödinsats som sker med stöd av denna lag. Han eller hon har också vid en stödinsats samma befogenhet som en polisman att gripa personer enligt 24 kap. 7 § första stycket rättegångsbalken. Vid utövandet av dessa befogenheter gäller vad som föreskrivs i 8 § polislagen om behov och proportionalitet. *Lag (2025:1066)*.
+
+## 6 §
+
+Den som fullgör grundutbildning eller repetitionsutbildning med totalförsvarsplikt är skyldig att delta i verksamhet enligt denna lag endast om förutsättningarna i 5 kap. 3 § lagen (1994:1809) om totalförsvarsplikt är uppfyllda. Han eller hon får inte användas för uppgifter som kan medföra en inte obetydlig risk för att han eller hon kommer att skadas.
+
+## 7 §
+
+Regeringen eller den myndighet som regeringen bestämmer meddelar närmare föreskrifter om verkställigheten av denna lag.

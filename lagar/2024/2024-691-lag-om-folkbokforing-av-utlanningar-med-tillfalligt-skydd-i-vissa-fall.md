@@ -1,0 +1,57 @@
+---
+title: "Lag (2024:691) om folkbokföring av utlänningar med tillfälligt skydd i vissa fall"
+identifier: "SFS 2024:691"
+type: act
+jurisdiction: se
+language: sv
+date: 2024-10-03
+amended_through: "SFS 2026:1166"
+department: "Finansdepartementet SKA"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2024-691.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2024:691"
+retrieved: 2026-10-11
+---
+# Lag (2024:691) om folkbokföring av utlänningar med tillfälligt skydd i vissa fall
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Denna lag innehåller bestämmelser om krav för folkbokföring av en utlänning som omfattas av rådets genomförandebeslut (EU) 2022/382 av den 4 mars 2022 om fastställande av att det föreligger massiv tillströmning av fördrivna personer från Ukraina i den mening som avses i artikel 5 i direktiv 2001/55/EG, med följden att tillfälligt skydd införs, och som har beviljats uppehållstillstånd med tillfälligt skydd, eller uppehållstillstånd efter tillfälligt skydd, enligt 21 kap. 2, 3, 4 eller 6 § utlänningslagen (2005:716).
+
+#### 2 §
+
+Denna lag ska tillämpas i stället för 4 § andra stycket folkbokföringslagen (1991:481). I övrigt tillämpas folkbokföringslagens bestämmelser för en person som omfattas av denna lag.
+
+#### 3 §
+
+Lagen gäller inte för en utlänning som har beviljats internationellt skydd med stöd av Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU eller om det i övrigt finns sådana synnerliga skäl för folkbokföring som avses i 4 § andra stycket folkbokföringslagen (1991:481). *Lag (2026:1166)*.
+
+#### 4 §
+
+De uttryck som används i denna lag har samma betydelse och tillämpningsområde som i folkbokföringslagen (1991:481).
+
+### När folkbokföring ska ske
+
+#### 5 §
+
+En utlänning som har beviljats uppehållstillstånd med tillfälligt skydd, eller uppehållstillstånd efter tillfälligt skydd, enligt 21 kap. 2, 3, 4 eller 6 § utlänningslagen (2005:716) får inte folkbokföras under de första tolv månaderna av uppehållstillståndens sammanlagda giltighetstid. Därefter ska utlänningen folkbokföras om han eller hon kan antas komma att regelmässigt tillbringa sin nattvila eller motsvarande vila (dygnsvilan) i landet under ytterligare minst sex månader.
+
+#### 6 §
+
+För ett barn som föds levande här i landet och beviljas uppehållstillstånd med tillfälligt skydd, eller uppehållstillstånd efter tillfälligt skydd, enligt 21 kap. 2, 3, 4 eller 6 § utlänningslagen (2005:716) gäller följande. Om barnet inte har folkbokförts vid födseln enligt 2 § folkbokföringslagen (1991:481) får barnet, trots det som anges i 5 §, folkbokföras om modern folkbokförs. Det som sägs om modern gäller även fadern eller barnets förälder enligt 1 kap. 9 § föräldrabalken om han eller hon är vårdnadshavare.
+
+## Övergångsbestämmelser
+
+**2024:691**
+
+1. Denna lag träder i kraft den 1 november 2024.
+
+2. En utlänning som har beviljats uppehållstillstånd med tillfälligt skydd enligt 21 kap. 2, 3 eller 4 § utlänningslagen (2005:716) före den 1 november 2023 ska folkbokföras om han eller hon kan antas komma att regelmässigt tillbringa sin nattvila eller motsvarande vila (dygnsvilan) i landet åtminstone till och med den 4 mars 2025. En anmälan om inflyttning enligt 26 § folkbokföringslagen (1991:481) ska lämnas till Skatteverket inom fyra veckor från ikraftträdandet.
+
+**2026:1166**
+
+1. Denna lag träder i kraft den 12 juli 2026.
+
+2. För en utlänning som har beviljats flyktingstatusförklaring enligt 4 kap. 3 c § utlänningslagen (2005:716) i dess lydelse före den 12 juli 2026 eller ett resedokument enligt 4 kap. 4 § utlänningslagen i dess lydelse före den 12 juli 2026 gäller 3 § i den äldre lydelsen.

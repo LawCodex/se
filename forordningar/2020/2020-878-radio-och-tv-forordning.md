@@ -1,0 +1,277 @@
+---
+title: "Radio- och tv-förordning"
+identifier: "SFS 2020:878"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-10-29
+amended_through: "SFS 2026:1713"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-878.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:878"
+retrieved: 2026-10-11
+---
+# Radio- och tv-förordning
+
+### Inledande bestämmelser
+
+#### 1 §
+
+I denna förordning finns kompletterande bestämmelser till radio- och tv-lagen (2010:696). Begrepp och uttryck som används i förordningen har samma innebörd som i lagen.
+
+### Behörig myndighet
+
+#### 2 §
+
+Mediemyndigheten är behörig myndighet vid sådant samarbete mellan myndigheter som avses i 16 kap. 15 och 16 §§ radio- och tv-lagen (2010:696). *Förordning (2023:856)*.
+
+### Kontaktpunkt online
+
+#### 3 §
+
+Mediemyndigheten ska tillhandahålla en kontaktpunkt online enligt artikel 7.4 i Europaparlamentets och rådets direktiv 2010/13/EU av den 10 mars 2010 om samordning av vissa bestämmelser som fastställs i medlemsstaternas lagar och andra författningar om tillhandahållande av audiovisuella medietjänster (direktiv om audiovisuella medietjänster), i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/1808. *Förordning (2023:856)*.
+
+### Granskningsnämnden för radio och tv
+
+3 a § /Ny beteckning 4 § U:2027-01-01/ Granskningsnämnden för radio och tv granskar program efter anmälan eller på initiativ av Mediemyndigheten. *Förordning (2023:856)*.
+
+3 b § /Ny beteckning 5 § U:2027-01-01/ Granskningen efter anmälan ska främst avse de anmälningar vars prövning bidrar till en effektiv kontroll och till att radio- och tv-lagen (2010:696), lagen (2025:986) om public service och de programrelaterade villkor som kan gälla för tjänsterna följs.
+
+Granskningsnämnden för radio och tv ska alltid pröva anmälningar som berör en enskild persons intressen, liknande intressen för företag eller frågor av principiell betydelse.
+
+*Förordning (2025:993)*.
+
+3 c § /Ny beteckning 6 § U:2027-01-01/ Med granskningsärende avses i denna förordning ett ärende i vilket granskningsnämnden för radio och tv prövar om den som ansvarar för sändningen eller tillhandahållandet har fullgjort sina skyldigheter enligt radio- och tv-lagen (2010:696), lagen (2025:986) om public service eller de programrelaterade villkor som kan gälla för tjänsten.
+
+*Förordning (2025:993)*.
+
+3 d § /Ny beteckning 7 § U:2027-01-01/ Om en anmälan har kommit in till Mediemyndigheten senare än tre månader efter det att programmet sändes, ska granskningsnämnden för radio och tv endast granska programmet om det finns särskilda skäl.
+
+Vad som sägs i första stycket gäller även tillhandahållanden av program som omfattas av villkor enligt lagen (2025:986) om public service. Tiden ska då räknas från att programmet gjorts tillgängligt för allmänheten. *Förordning (2025:993)*.
+
+3 e § /Ny beteckning 8 § U:2027-01-01/ Granskningsnämnden för radio och tv får endast pröva frågor om intrång i en enskilds privatliv om den enskilde skriftligen medger det. *Förordning (2023:856)*.
+
+3 f § /Ny beteckning 9 § U:2027-01-01/ Granskningsnämnden för radio och tv får begära in yttranden i granskningsärenden. *Förordning (2023:856)*.
+
+3 g § /Ny beteckning 10 § U:2027-01-01/ Information om ett beslut i ett granskningsärende ska lämnas till den som har ansvaret för sändningen eller tillhandahållandet. *Förordning (2023:856)*.
+
+3 h § /Ny beteckning 11 § U:2027-01-01/ Granskningsnämnden för radio och tv bedömer årligen i efterhand, utifrån redovisningar av Sveriges Television AB, Sveriges Radio AB och Sveriges Utbildningsradio AB, om bolagen uppfyllt sina uppdrag enligt villkor i beslut av regeringen som meddelats med stöd av radio- och tv-lagen (2010:696) eller lagen (2025:986) om public service. *Förordning (2025:993)*.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+### Ansökningsavgift
+
+4 § /Ny beteckning 18 § U:2027-01-01/ Mediemyndigheten har enligt 4 kap. 17 § och 13 kap. 14 § radio- och tv-lagen (2010:696) rätt att ta ut en avgift av den som hos myndigheten ansöker om tillstånd att sända tv, sökbar text-tv eller kommersiell radio och av den som ansöker om medgivande till överlåtelse av ett sådant tillstånd.
+
+Avgiftens storlek ska vara
+
+- 45 000 kronor för varje sökt programtjänst vid ansökan om tillstånd, och
+
+- 25 000 kronor för ansökan om medgivande till överlåtelse av tillstånd.
+
+Avgiften ska betalas in till myndigheten inom den tid som myndigheten beslutar. *Förordning (2025:898)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Granskning av program
+
+#### 4 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv granskar program efter anmälan eller på initiativ av Mediemyndigheten. *Förordning (2026:1713)*.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+### Sändningsavgift
+
+4 a § /Ny beteckning 19 § U:2027-01-01/ Mediemyndigheten ska enligt 13 kap. 15 § radio- och tv- lagen (2010:696) ta ut en årlig sändningsavgift av den som har fått tillstånd att sända analog kommersiell radio.
+
+Vid beräkningen av sändningsavgifternas storlek ska beloppet enligt 13 kap. 15 § andra stycket radio- och tv-lagen fördelas mellan samtliga tillgängliga tillstånd enligt följande:
+
+1. 18 procent för ett nationellt tillstånd,
+
+2. 3,6 procent för ett regionalt eller lokalt tillstånd där sändningsområdet omfattar storstadsområdena Stockholm, Göteborg eller Malmö,
+
+3. 0,55 procent för ett regionalt eller lokalt tillstånd som omfattar ett annat sändningsområde än i punkt 2, om folkmängden i området överstiger 300 000,
+
+4. 0,3 procent för ett regionalt eller lokalt tillstånd som omfattar ett annat sändningsområde än i punkt 2, om folkmängden i området understiger 300 000.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+### Bemyndiganden
+
+5 § /Ny beteckning 20 § U:2027-01-01/ Mediemyndigheten får meddela föreskrifter om följande i radio- och tv-lagen (2010:696):
+
+1. vad som ska ingå i en handlingsplan om ökad tillgänglighet som en leverantör av medietjänster ska upprätta enligt 5 kap. 12 §,
+
+2. undantag från kravet på medgivande från en leverantör av en medietjänst som gäller enligt 8 kap. 17 § första stycket,
+
+3. sådan redovisning av program med europeiskt ursprung som avses i 16 kap. 5 och 6 §§, och
+
+4. sådan redovisning av hur en tjänst har gjorts tillgänglig som avses i 16 kap. 6 a §.
+
+#### 5 §
+
+*/Träder i kraft I:2027-01-01/* Granskningen efter anmälan ska främst avse de anmälningar vars prövning bidrar till en effektiv kontroll och till att radio- och tv-lagen (2010:696), lagen (2025:986) om public service och de programrelaterade villkor som kan gälla för tjänsterna följs.
+
+Granskningsnämnden för radio och tv ska alltid pröva anmälningar som berör en enskild persons intressen, liknande intressen för företag eller frågor av principiell betydelse.
+
+*Förordning (2026:1713)*.
+
+6 § /Ny beteckning 21 § U:2027-01-01/ Mediemyndigheten får meddela föreskrifter om verkställigheten av bestämmelserna i radio- och tv-lagen (2010:696) om ansökningsförfarandet och vad en ansökan ska innehålla när det gäller frågor om tillstånd och överlåtelse av tillstånd att sända tv, sökbar text-tv och kommersiell radio samt om sändningsavgift för analog kommersiell radio.
+
+#### 6 §
+
+*/Träder i kraft I:2027-01-01/* Med granskningsärende avses i denna förordning ett ärende i vilket granskningsnämnden för radio och tv prövar om den som ansvarar för sändningen eller tillhandahållandet har fullgjort sina skyldigheter enligt radio- och tv-lagen (2010:696), lagen (2025:986) om public service eller de programrelaterade villkor som kan gälla för tjänsten.
+
+*Förordning (2026:1713)*.
+
+7 § /Ny beteckning 22 § U:2027-01-01/ Mediemyndigheten får meddela ytterligare föreskrifter om verkställigheten av denna förordning.
+
+#### 7 §
+
+*/Träder i kraft I:2027-01-01/* Om en anmälan har kommit in till Mediemyndigheten senare än tre månader efter det att programmet sändes, ska granskningsnämnden för radio och tv endast granska programmet om det finns särskilda skäl.
+
+Vad som sägs i första stycket gäller även tillhandahållanden av program som omfattas av villkor enligt lagen (2025:986) om public service. Tiden ska då räknas från att programmet gjorts tillgängligt för allmänheten. *Förordning (2026:1713)*.
+
+#### 8 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv får endast pröva frågor om intrång i en enskilds privatliv om den enskilde skriftligen medger det. *Förordning (2026:1713)*.
+
+#### 9 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv får begära in yttranden i granskningsärenden. *Förordning (2026:1713)*.
+
+#### 10 §
+
+*/Träder i kraft I:2027-01-01/* Information om ett beslut i ett granskningsärende ska lämnas till den som har ansvaret för sändningen eller tillhandahållandet. *Förordning (2026:1713)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Årlig uppföljning av public service
+
+#### 11 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv bedömer årligen i efterhand, utifrån redovisningar av Sveriges Television AB, Sveriges Radio AB och Sveriges Utbildningsradio AB, om bolagen har uppfyllt sina uppdrag enligt lagen (2025:986) om public service eller beslut av regeringen som meddelats med stöd av den lagen eller radio- och tv-lagen (2010:696). *Förordning (2026:1713)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Tvistlösning
+
+#### 12 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv ska efter ansökan om tvistlösning lämna ett rådgivande yttrande i en tvist mellan en användare och en leverantör av en videodelningsplattform, om tvisten avser
+
+1. om leverantören har vidtagit lämpliga åtgärder för skydd mot visst innehåll enligt 9 a kap. 1 eller 3 § radio- och tv- lagen (2010:696), eller
+
+2. behandling av personuppgifter enligt 9 a kap. 2 § radio- och tv-lagen. *Förordning (2026:1713)*.
+
+#### 13 §
+
+*/Träder i kraft I:2027-01-01/* En ansökan om tvistlösning ska vara skriftlig och ges in till Mediemyndigheten inom sex månader från den dag då sökanden framförde sitt klagomål till motparten i den fråga som tvisten rör.
+
+Mediemyndigheten får begära in de kompletterande uppgifter från sökanden som behövs för handläggningen. *Förordning (2026:1713)*.
+
+#### 14 §
+
+*/Träder i kraft I:2027-01-01/* Mediemyndigheten ska ge motparten tillfälle att yttra sig över en ansökan om tvistlösning. Ärendet får avgöras även om motparten inte har svarat. *Förordning (2026:1713)*.
+
+#### 15 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv ska avvisa en ansökan om tvistlösning om
+
+1. nämnden inte är behörig att pröva tvisten,
+
+2. sökanden inte har framfört sitt klagomål till motparten innan ansökan gavs in till nämnden,
+
+3. ansökan har kommit in senare än sex månader efter det att sökanden framförde sitt klagomål till motparten och det saknas särskilda skäl att ändå pröva tvisten, eller
+
+4. en sådan komplettering som avses i 13 § andra stycket inte har kommit in till Mediemyndigheten inom angiven tid och bristen medför att ärendet inte kan prövas i sak. *Förordning (2026:1713)*.
+
+#### 16 §
+
+*/Träder i kraft I:2027-01-01/* Granskningsnämnden för radio och tv får i ett ärende om tvistlösning bistås av en sakkunnig som utses av Mediemyndigheten. *Förordning (2026:1713)*.
+
+#### 17 §
+
+*/Träder i kraft I:2027-01-01/* Ett rådgivande yttrande eller ett beslut om avvisning får inte överklagas. *Förordning (2026:1713)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Ansökningsavgift
+
+#### 18 §
+
+*/Träder i kraft I:2027-01-01/* Mediemyndigheten har enligt 4 kap. 17 § och 13 kap. 14 § radio- och tv-lagen (2010:696) rätt att ta ut en avgift av den som hos myndigheten ansöker om tillstånd att sända tv, sökbar text-tv eller kommersiell radio och av den som ansöker om medgivande till överlåtelse av ett sådant tillstånd.
+
+Avgiftens storlek ska vara
+
+- 45 000 kronor för varje sökt programtjänst vid ansökan om tillstånd, och
+
+- 25 000 kronor för ansökan om medgivande till överlåtelse av tillstånd.
+
+Avgiften ska betalas in till myndigheten inom den tid som myndigheten beslutar. *Förordning (2026:1713)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Sändningsavgift
+
+#### 19 §
+
+*/Träder i kraft I:2027-01-01/* Mediemyndigheten ska enligt 13 kap. 15 § radio- och tv- lagen (2010:696) ta ut en årlig sändningsavgift av den som har fått tillstånd att sända analog kommersiell radio.
+
+Vid beräkningen av sändningsavgifternas storlek ska beloppet enligt 13 kap. 15 § andra stycket radio- och tv-lagen fördelas mellan samtliga tillgängliga tillstånd enligt följande:
+
+1. 18 procent för ett nationellt tillstånd,
+
+2. 3,6 procent för ett regionalt eller lokalt tillstånd där sändningsområdet omfattar storstadsområdena Stockholm, Göteborg eller Malmö,
+
+3. 0,55 procent för ett regionalt eller lokalt tillstånd som omfattar ett annat sändningsområde än i punkt 2, om folkmängden i området överstiger 300 000,
+
+4. 0,3 procent för ett regionalt eller lokalt tillstånd som omfattar ett annat sändningsområde än i punkt 2, om folkmängden i området understiger 300 000. *Förordning (2026:1713)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Bemyndiganden
+
+#### 20 §
+
+*/Träder i kraft I:2027-01-01/* Mediemyndigheten får meddela föreskrifter om följande i radio- och tv-lagen (2010:696):
+
+1. vad som ska ingå i en handlingsplan om ökad tillgänglighet som en leverantör av medietjänster ska upprätta enligt 5 kap. 12 §,
+
+2. undantag från kravet på medgivande från en leverantör av en medietjänst som gäller enligt 8 kap. 17 § första stycket,
+
+3. sådan redovisning av program med europeiskt ursprung som avses i 16 kap. 5 och 6 §§, och
+
+4. sådan redovisning av hur en tjänst har gjorts tillgänglig som avses i 16 kap. 6 a §. *Förordning (2026:1713)*.
+
+#### 21 §
+
+*/Träder i kraft I:2027-01-01/* Mediemyndigheten får meddela föreskrifter om verkställigheten av bestämmelserna i radio- och tv-lagen (2010:696) om ansökningsförfarandet och vad en ansökan ska innehålla när det gäller frågor om tillstånd och överlåtelse av tillstånd att sända tv, sökbar text-tv och kommersiell radio samt om sändningsavgift för analog kommersiell radio. *Förordning (2026:1713)*.
+
+#### 22 §
+
+*/Träder i kraft I:2027-01-01/* Mediemyndigheten får meddela ytterligare föreskrifter om verkställigheten av denna förordning. *Förordning (2026:1713)*.
+
+## Övergångsbestämmelser
+
+**2023:856**
+
+1. Denna förordning träder i kraft den 1 januari 2024.
+
+2. Bestämmelsen i 3 d § andra stycket tillämpas inte i fråga om tillhandahållanden som tillgängliggjorts före ikraftträdandet.
+
+**2025:898**
+
+1. Denna förordning träder i kraft den 15 november 2025.
+
+2. Äldre föreskrifter gäller fortfarande för tillstånd som har beviljats före ikraftträdandet.
+
+**2025:993**
+
+1. Denna förordning träder i kraft den 2 december 2025.
+
+2. Förordningen tillämpas första gången i fråga om sändningstillstånd och beslut av regeringen enligt 2 kap. 3 § lagen (2025:986) om public service som avser tid efter den 31 december 2025 och sändningar och tillhandahållanden av program efter den 31 december 2025.
+
+3. Äldre föreskrifter gäller fortfarande i fråga om sändningstillstånd som avser tid före den 1 januari 2026 och sändningar och tillhandahållanden av program före den 1 januari 2026.

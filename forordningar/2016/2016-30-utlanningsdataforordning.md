@@ -1,0 +1,197 @@
+---
+title: "Utlänningsdataförordning (2016:30)"
+identifier: "SFS 2016:30"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2016-02-04
+amended_through: "SFS 2026:1362"
+department: "Justitiedepartementet L7"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2016-30.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2016:30"
+retrieved: 2026-10-11
+---
+# Utlänningsdataförordning (2016:30)
+
+### Allmän bestämmelse
+
+#### 1 §
+
+I denna förordning finns kompletterande föreskrifter om sådan behandling av personuppgifter som omfattas av utlänningsdatalagen (2016:27).
+
+De uttryck som används i denna förordning har samma innebörd och tillämpningsområde som i lagen.
+
+### Migrationsverkets register över fingeravtryck och fotografier
+
+#### 2 §
+
+Migrationsverkets register över fingeravtryck och fotografier får endast innehålla fingeravtryck och fotografier samt uppgifter om den registrerades namn, person- eller samordningsnummer, födelsetid, kön, medborgarskap eller annan identifieringsuppgift.
+
+#### 3 §
+
+En uppgift i Migrationsverkets register över fingeravtryck och fotografier ska gallras senast tio år efter det att den registrerades om inget annat följer av andra-fjärde styckena.
+
+Om den registrerade har ett gällande uppehållstillstånd i Sverige ska uppgifterna om den registrerade gallras först när den registrerade blir svensk medborgare. Om ett uppehållstillstånd har upphört att gälla utan att ett nytt uppehållstillstånd har beviljats ska uppgifterna om den registrerade gallras senast tio år efter det att uppehållstillståndet upphörde att gälla, om inget annat anges i tredje stycket.
+
+Om den registrerade har meddelats ett beslut om avvisning, utvisning eller beslut om återvändande i ett ärende om internationellt skydd enligt asylprocedurförordningen ska uppgifterna om den registrerade gallras senast tio år efter det att beslutet upphörde att gälla. Om beslutet om avvisning eller utvisning har förenats med ett återreseförbud ska uppgifterna om den registrerade dock gallras senast tio år efter det att återreseförbudet upphörde att gälla.
+
+En uppgift i Migrationsverkets register över fingeravtryck och fotografier ska alltid gallras senast när den registrerade blir svensk medborgare. *Förordning (2026:1345)*.
+
+### Tillgången till personuppgifter
+
+#### 4 §
+
+För tilldelning av behörighet för tillgång till personuppgifter ska det särskilt beaktas att det, utöver behovet av uppgifterna, ställs krav på utbildning och erfarenhet.
+
+#### 5 §
+
+Migrationsverket får meddela närmare föreskrifter om tillgången till personuppgifter för personer som är verksamma inom myndigheten.
+
+Migrationsverket får även, efter att ha gett Regeringskansliet (Utrikesdepartementet) tillfälle att yttra sig, meddela närmare föreskrifter om tillgången till personuppgifter som behandlas av utlandsmyndigheterna under Migrationsverkets personuppgiftsansvar enligt 9 § andra meningen utlänningsdatalagen (2016:27).
+
+#### 6 §
+
+Polismyndigheten får meddela närmare föreskrifter om tillgången till personuppgifter för personer som är verksamma inom myndigheten.
+
+#### 7 §
+
+Migrationsverket, Polismyndigheten och utlandsmyndigheterna ansvarar för att det inom den egna myndigheten finns rutiner för tilldelning, förändring, borttagning och regelbunden uppföljning av behörigheter för tillgång till personuppgifter. Migrationsverket ansvarar också för att det finns sådana rutiner hos utlandsmyndigheterna för den behandling av personuppgifter som sker under Migrationsverkets personuppgiftsansvar enligt 9 § andra meningen utlänningsdatalagen (2016:27).
+
+### Direktåtkomst
+
+#### 8 §
+
+Direktåtkomst till personuppgifter hos Migrationsverket enligt 19 § utlänningsdatalagen (2016:27) får medges endast i den utsträckning som anges i 9-13 §§.
+
+#### 9 §
+
+*/Upphör att gälla U:2026-12-01/* Polismyndighetens direktåtkomst ska begränsas till de personuppgifter som myndigheten behöver för de ändamål som anges i 11 § första stycket 1-4 och andra stycket samt 15 § andra stycket 2 och 6-8 utlänningsdatalagen (2016:27).
+
+*Förordning (2026:1195)*.
+
+#### 9 §
+
+*/Träder i kraft I:2026-12-01/* Polismyndighetens direktåtkomst ska begränsas till de personuppgifter som myndigheten behöver för
+
+1. de ändamål som anges i 11 § första stycket 1-4 och andra stycket samt 15 § andra stycket 2 och 6-8 utlänningsdatalagen (2016:27), och
+
+2. handläggning av en ansökan enligt lagen (2026:1358) om statlig e-legitimation och elektronisk identifiering.
+
+Direktåtkomsten enligt första stycket 2 får endast avse uppgift om
+
+1. namn och personnummer,
+
+2. längd,
+
+3. fotografi,
+
+4. underskrift,
+
+5. typ av resehandling, resehandlingens nummer och giltighetstid, och
+
+6. bevis om uppehållstillstånd.
+
+*Förordning (2026:1362)*.
+
+#### 10 §
+
+Utlandsmyndigheternas direktåtkomst ska begränsas till de personuppgifter som myndigheterna behöver för de ändamål som anges i 11 § 1 utlänningsdatalagen (2016:27).
+
+#### 11 §
+
+Säkerhetspolisens direktåtkomst till personuppgifter som Migrationsverket behandlar enligt 11 § utlänningsdatalagen (2016:27) ska begränsas till de personuppgifter som myndigheten behöver för att fullgöra sådana uppgifter som avses i 2 kap. 1 § 1 a och b, 2, 3 a och c och 4 lagen (2019:1182) om Säkerhetspolisens behandling av personuppgifter. Direktåtkomsten för att fullgöra uppgifterna i 2 kap. 1 § 2 lagen om Säkerhetspolisens behandling av personuppgifter gäller enbart sådana brott som avses i 2 kap. 1 § 1 a och b samma lag.
+
+Säkerhetspolisens direktåtkomst till personuppgifter som Migrationsverket behandlar enligt 15 § utlänningsdatalagen ska begränsas till de personuppgifter som myndigheten behöver för att fullgöra sådana uppgifter som avses i 2 kap. 1 § 3 c lagen om Säkerhetspolisens behandling av personuppgifter samt för att fullgöra uppgifter inom ramen för beslut som regeringen har meddelat om överföring av skyddsbehövande till Sverige (vidarebosättning). *Förordning (2026:1345)*.
+
+#### 12 §
+
+Försäkringskassans och Pensionsmyndighetens direktåtkomst ska begränsas till de personuppgifter som myndigheterna behöver i sin verksamhet som underlag för att bedöma eller fastställa en förmån, en ersättning eller ett annat stöd åt en enskild eller som behövs i ett ärende om motsvarande stöd.
+
+Direktåtkomsten får endast avse uppgift om
+
+1. namn, personnummer och i förekommande fall samordningsnummer,
+
+2. bevis om uppehållstillstånd, arbetstillstånd, uppehållsrätt eller uppehållsstatus,
+
+3. dag för beslut om uppehållstillstånd, arbetstillstånd, uppehållsstatus eller utfärdande av uppehållskort och uppgift om varje period som uppehållstillstånd eller arbetstillstånd har beviljats för eller uppehållskort eller bevis om uppehållsstatus har utfärdats för,
+
+4. inresedatum,
+
+5. datum för ansökan om uppehållstillstånd, arbetstillstånd, uppehållskort eller uppehållsstatus,
+
+6. särskilt bevis enligt 5 kap. 4 § tredje stycket utlänningsförordningen (2006:97),
+
+7. att status som flykting eller subsidiärt skyddsbehövande har beviljats den enskilde med stöd av Europaparlamentets och rådets förordning (EU) 2024/1347 av den 14 maj 2024 om normer för när tredjelandsmedborgare eller statslösa personer ska anses berättigade till internationellt skydd, för en enhetlig status för flyktingar eller personer som uppfyller kraven för att betecknas som subsidiärt skyddsbehövande och för innehållet i det beviljade skyddet, om ändring av rådets direktiv 2003/109/EG och om upphävande av Europaparlamentets och rådets direktiv 2011/95/EU eller motsvarande äldre bestämmelser, samt dag för beslut om internationellt skydd och datum för ansökan om internationellt skydd,
+
+8. att uppehållstillstånd har beviljats den enskilde för studier eller som familjemedlem till en sådan person,
+
+9. beslut om återkallelse av uppehållstillstånd eller arbetstillstånd, uppgift om från och med vilket datum internationellt skydd, uppehållstillstånd eller arbetstillstånd har återkallats och uppgift om vilket datum beslut om återkallelse av internationellt skydd, uppehållstillstånd eller arbetstillstånd har fått laga kraft, och
+
+10. beslut om inhibition av verkställigheten enligt 12 kap. 16 e § första stycket eller 17 a § första stycket utlänningslagen (2005:716), datum för ett sådant beslut och uppgift om vilket datum ett sådant beslut har fått verkan mot utlänningen. *Förordning (2026:1185)*.
+
+#### 13 §
+
+Skatteverkets direktåtkomst ska begränsas till de personuppgifter som myndigheten behöver för handläggning av en ansökan om identitetskort enligt lagen (2015:899) om identitetskort för folkbokförda i Sverige.
+
+Direktåtkomsten får endast avse uppgift om
+
+1. namn och personnummer,
+
+2. längd,
+
+3. fotografi,
+
+4. underskrift,
+
+5. typ av resehandling, resehandlingens nummer och giltighetstid, och
+
+6. bevis om uppehållstillstånd.
+
+#### 14 §
+
+Migrationsverket får meddela
+
+1. ytterligare föreskrifter om begränsningar av möjligheterna att lämna ut personuppgifter genom direktåtkomst, och
+
+2. föreskrifter om vad som krävs i fråga om behörighet och säkerhet för att direktåtkomst till personuppgifter hos Migrationsverket ska kunna medges de myndigheter som anges i 19 § utlänningsdatalagen (2016:27). Direktåtkomst till uppgifterna får inte medges innan Migrationsverket har försäkrat sig om att den mottagande myndigheten uppfyller uppställda krav på behörighet och säkerhet.
+
+### Överföring av personuppgifter till tredjeland
+
+#### 15 §
+
+Personuppgifter som behandlas för ändamål som anges i 12 § 1 utlänningsdatalagen (2016:27) får föras över till tredjeland endast om uppgifterna inte direkt pekar ut den registrerade.
+
+### Avskiljande
+
+#### 16 §
+
+Migrationsverket får, efter att ha gett Regeringskansliet (Utrikesdepartementet) tillfälle att yttra sig, meddela föreskrifter om avskiljande av personuppgifter som behandlas av utlandsmyndigheterna under Migrationsverkets personuppgiftsansvar enligt 9 § andra meningen utlänningsdatalagen (2016:27).
+
+### Säkerhetsåtgärder
+
+#### 17 §
+
+Migrationsverket får, efter att ha gett Regeringskansliet (Utrikesdepartementet) tillfälle att yttra sig, meddela föreskrifter om säkerhetsåtgärder till skydd för personuppgifter som behandlas av utlandsmyndigheterna under Migrationsverkets personuppgiftsansvar enligt 9 § andra meningen utlänningsdatalagen (2016:27).
+
+### Övriga bestämmelser
+
+#### 18 §
+
+Migrationsverket får meddela ytterligare föreskrifter om verkställighet av utlänningsdatalagen (2016:27) och denna förordning inom verkets ansvarsområde.
+
+#### 19 §
+
+Polismyndigheten får meddela ytterligare föreskrifter om verkställighet av utlänningsdatalagen (2016:27) och denna förordning inom myndighetens ansvarsområde.
+
+#### 20 §
+
+Innan Migrationsverket eller Polismyndigheten meddelar föreskrifter med stöd av denna förordning i frågor som berör särskilda risker för intrång i den personliga integriteten, ska myndigheten ge Integritetsskyddsmyndigheten tillfälle att yttra sig. *Förordning (2020:1136)*.
+
+## Övergångsbestämmelser
+
+**2021:803**
+
+1. Denna förordning träder i kraft den 20 juli 2021.
+
+2. Äldre föreskrifter gäller fortfarande för uppgift om att uppehållstillstånd har beviljats en enskild som övrig skyddsbehövande.

@@ -1,0 +1,85 @@
+---
+title: "Förordning (2008:437) om statligt stöd av mindre betydelse inom jordbrukssektorn och sektorn för fiskeri och vattenbruk"
+identifier: "SFS 2008:437"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-05-22
+amended_through: "SFS 2024:442"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-437.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:437"
+retrieved: 2026-10-11
+---
+# Förordning (2008:437) om statligt stöd av mindre betydelse inom jordbrukssektorn och sektorn för fiskeri och vattenbruk
+
+## Inledande bestämmelser
+
+### 1 §
+
+Denna förordning ska tillämpas på stöd av mindre betydelse som lämnas till företag som är verksamma inom primärproduktion av
+
+1. jordbruksprodukter, eller
+
+2. fiskeri- och vattenbruksprodukter. *Förordning (2024:442)*.
+
+### 2 §
+
+Stöd får endast lämnas i enlighet med
+
+1. kommissionens förordning (EU) nr 1408/2013 av den 18 december 2013 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse inom jordbrukssektorn, och
+
+2. kommissionens förordning (EU) nr 717/2014 av den 27 juni 2014 om tillämpningen av artiklarna 107 och 108 i fördraget om Europeiska unionens funktionssätt på stöd av mindre betydelse inom fiskeri- och vattenbrukssektorn. *Förordning (2024:442)*.
+
+### 3 §
+
+Ord och uttryck i denna förordning har samma betydelse som i kommissionens förordning (EU) nr 1408/2013 och kommissionens förordning (EU) nr 717/2014. *Förordning (2024:442)*.
+
+### 4 §
+
+Har upphävts genom *förordning (2024:442)*.
+
+### 5 §
+
+Har upphävts genom *förordning (2024:442)*.
+
+## Ansökan och handläggning av stödärenden
+
+### 6 §
+
+En ansökan om stöd ska innehålla en redogörelse för
+
+1. allt annat stöd av mindre betydelse som företaget fått under de två föregående beskattningsåren och det innevarande beskattningsåret, och
+
+2. allt annat stöd som företaget tidigare ansökt om eller beviljats och som avser samma stödberättigande kostnader som ansökan omfattar. *Förordning (2024:442)*.
+
+### 7 §
+
+Innan ett stöd lämnas ska det organ som beviljar stödet
+
+1. lämna de upplysningar till sökanden som följer av artikel 6.1 i kommissionens förordning (EU) nr 1408/2013 och artikel 6.1 i kommissionens förordning (EU) nr 717/2014, och
+
+2. genomföra den kontroll som följer av artikel 6.3 i kommissionens förordning (EU) nr 1408/2013 och artikel 6.3 i kommissionens förordning (EU) nr 717/2014. *Förordning (2024:442)*.
+
+### 8 §
+
+Har upphävts genom *förordning (2015:554)*.
+
+### 9 §
+
+Det organ som beviljar stödet ska föra de register som avses i artikel 6.4 i kommissionens förordningar (EU) nr 1408/2013 och 717/2014.
+
+I fråga om stöd som Nordiska ministerrådet beviljar svenska företag ska de register som avses i första stycket föras av Statens jordbruksverk. *Förordning (2016:387)*.
+
+### 10 §
+
+Har upphävts genom *förordning (2013:476)*.
+
+## Verkställighetsföreskrifter
+
+### 11 §
+
+Jordbruksverket får meddela de föreskrifter som behövs för verkställigheten av denna förordning.
+
+*Förordning (2011:649)*.

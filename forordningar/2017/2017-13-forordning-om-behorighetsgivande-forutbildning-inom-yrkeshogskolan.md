@@ -1,0 +1,115 @@
+---
+title: "Förordning (2017:13) om behörighetsgivande förutbildning inom yrkeshögskolan"
+identifier: "SFS 2017:13"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-01-26
+amended_through: "SFS 2026:965"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-13.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:13"
+retrieved: 2026-10-11
+---
+# Förordning (2017:13) om behörighetsgivande förutbildning inom yrkeshögskolan
+
+### Inledande bestämmelser
+
+#### 1 §
+
+Den som anordnar ett program inom yrkeshögskolan får ansöka om att även anordna en utbildning i form av behörighetsgivande förutbildning för programmet. En behörighetsgivande förutbildning inom yrkeshögskolan syftar till att ge den studerande kunskaper som motsvarar de krav på behörighet som är uppställda för programmet.
+
+Förutbildningen får erbjudas i anslutning till ett program inom yrkeshögskolan, om det finns eller kan antas finnas brist på behöriga sökande till programmet och det behövs kvalificerad arbetskraft med sådan kompetens som programmet syftar till att ge. Förutbildningen ska bedrivas som hel- tidsstudier. *Förordning (2026:965)*.
+
+### Ansökan
+
+#### 2 §
+
+Ansökan om att en behörighetsgivande förutbildning ska ingå i yrkeshögskolan får göras samtidigt som ansökan om att programmet ska ingå i yrkeshögskolan. Ansökan om att en behörighetsgivande förutbildning ska ingå i yrkeshögskolan får även göras vid en annan tidpunkt. *Förordning (2026:965)*.
+
+#### 3 §
+
+Har upphävts genom *förordning (2026:965)*.
+
+### Beslut
+
+#### 4 §
+
+Myndigheten för yrkeshögskolan beslutar om en behörighetsgivande förutbildning ska ingå i yrkeshögskolan.
+
+### Tillämpning av andra författningar
+
+#### 5 §
+
+När det gäller förutbildning ska lagen (2009:128) om yrkeshögskolan tillämpas med undantag av 5 och 6 §§. Vidare ska förordningen (2009:130) om yrkeshögskolan tillämpas med undantag av 1 kap. 1 och 3 §§ och 6 § andra och tredje styckena samt 2 kap. 1-6, 7-11 och 13-16 §§ och 17 § första stycket.
+
+När det gäller förutbildning som bedrivs som uppdragsutbildning finns det ytterligare undantag från förordningen om yrkeshögskolan och undantag från denna förordning i 5 § förordningen (2009:131) om utbildning inom yrkeshögskolan som uppdragsutbildning. *Förordning (2026:965)*.
+
+### Utbildningsplan
+
+#### 6 §
+
+För varje förutbildning ska det finnas en utbildningsplan. Av planen ska följande framgå:
+
+1. utbildningens benämning,
+
+2. utbildningsanordnaren och, i förekommande fall, övriga som samverkar i anordnandet, utvecklingen eller bedrivandet av utbildningen,
+
+3. den yrkeshögskoleutbildning som utbildningen förbereder för,
+
+4. om undervisningen helt eller delvis bedrivs på engelska,
+
+5. utbildningens omfattning, huvudsakliga uppläggning och organisation,
+
+6. de krav på behörighet som gäller för att bli antagen till utbildningen, och
+
+7. de grunder som ska användas vid urval bland behöriga sökande till utbildningen. *Förordning (2026:965)*.
+
+### Betyg och utbildningsbevis
+
+#### 7 §
+
+Betyg ska sättas på en genomförd förutbildning.
+
+#### 8 §
+
+Som betyg ska något av uttrycken Icke godkänt, Godkänt och Väl godkänt användas.
+
+#### 9 §
+
+Den som genomgått en förutbildning och vill få sina kunskaper dokumenterade på annat sätt än genom betyg ska få ett utbildningsbevis. I beviset ska utbildningens innehåll och de mål som den studerande har uppnått anges.
+
+Utbildningsanordnaren ansvarar för att de studerande informeras om möjligheten att få ett utbildningsbevis.
+
+### Antagning till programmet
+
+#### 10 §
+
+Den som har genomgått en förutbildning med godkänt resultat ska antas till det program inom yrkeshögskolan som förutbildningen förbereder för. *Förordning (2026:965)*.
+
+### Bemyndiganden
+
+#### 11 §
+
+Myndigheten för yrkeshögskolan får meddela föreskrifter om
+
+1. utbildningsplaner,
+
+2. betyg och utbildningsbevis,
+
+3. fördelning av statsbidrag och särskilda medel, och
+
+4. verkställigheten av denna förordning.
+
+Myndighetens föreskrifter med stöd av första stycket 3 får avvika från vad som anges i 5 kap. 5 § förordningen (2009:130) om yrkeshögskolan.
+
+## Övergångsbestämmelser
+
+**2017:853**
+
+1. Denna förordning träder i kraft den 20 september 2017.
+
+2. Bestämmelserna i den nya lydelsen tillämpas första gången på utbildning som påbörjas efter den 31 december 2017.
+
+3. Äldre bestämmelser gäller fortfarande för utbildning som påbörjats före den 1 januari 2018.

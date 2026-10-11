@@ -1,0 +1,63 @@
+---
+title: "Förordning (2006:1213) om hamnskydd"
+identifier: "SFS 2006:1213"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-11-23
+amended_through: "SFS 2014:1278"
+department: "Landsbygds- och infrastrukturdepartementet RSIB TM"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-1213.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:1213"
+retrieved: 2026-10-11
+---
+# Förordning (2006:1213) om hamnskydd
+
+## 1 §
+
+Denna förordning innehåller föreskrifter som ansluter till lagen (2006:1209) om hamnskydd.
+
+## 2 §
+
+Transportstyrelsen skall vara sambandspunkt för hamnskyddet.
+
+Sambandspunkten skall utföra de uppgifter som ankommer på detta organ enligt Europaparlamentets och rådets direktiv 2005/65/EG av den 26 oktober 2005 om ökat hamnskydd. *Förordning (2008:1169)*.
+
+## 3 §
+
+Transportstyrelsen skall godkänna hamnskyddsutredningar och hamnskyddsplaner samt utöva annan tillsyn enligt 6 kap. 2 § lagen (2006:1209) om hamnskydd. *Förordning (2008:1169)*.
+
+## 4 §
+
+Transportstyrelsen får meddela föreskrifter om att tillsyn ska utövas av Polismyndigheten och Kustbevakningen i den utsträckning som de berörda myndigheterna kommer överens om. *Förordning (2014:1278)*.
+
+## 5 §
+
+När en myndighet utövar tillsyn med stöd av 3 eller 4 § ska Transportstyrelsen, Polismyndigheten, Kustbevakningen eller Tullverket på begäran av den myndighet som utövar tillsyn biträda vid tillsynen och lämna de upplysningar som tillsynsmyndigheten behöver för att utöva tillsynen.
+
+*Förordning (2014:1278)*.
+
+## 6 §
+
+Transportstyrelsen får meddela föreskrifter om
+
+1. tillsyn,
+
+2. avgifter till staten för hamnskyddet,
+
+3. skyddsnivåer,
+
+4. hamnskyddsutredningar,
+
+5. hamnskyddsplaner,
+
+6. hamnskyddsövningar,
+
+7. hamnskyddschefer,
+
+8. erkända skyddsorganisationer, och
+
+9. samråd enligt 3 kap. 4 § lagen (2006:1209) om hamnskydd.
+
+Polismyndigheten får meddela föreskrifter om ansökan om förordnande enligt 4 kap. 3 § lagen om hamnskydd och om tillhörande utbildning. För ansökningsavgift gäller bestämmelserna i 9-14 §§ avgiftsförordningen (1992:191), varvid avgiftsklass 2 tillämpas. *Förordning (2014:1278)*.

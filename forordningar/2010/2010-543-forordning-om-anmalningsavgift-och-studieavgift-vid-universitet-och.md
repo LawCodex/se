@@ -1,0 +1,177 @@
+---
+title: "Förordning (2010:543) om anmälningsavgift och studieavgift vid universitet och högskolor"
+identifier: "SFS 2010:543"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-05-27
+amended_through: "SFS 2026:1719"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-543.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:543"
+retrieved: 2026-10-11
+---
+# Förordning (2010:543) om anmälningsavgift och studieavgift vid universitet och högskolor
+
+#### 1 §
+
+I denna förordning finns det bestämmelser om anmälningsavgift och studieavgift för studenter vid de universitet och högskolor som omfattas av högskolelagen (1992:1434).
+
+Med högskola avses i denna förordning både universitet och högskolor.
+
+### Anmälningsavgift
+
+#### 2 §
+
+För sin prövning av en anmälan om utbildning på grundnivå och avancerad nivå ska högskolan ta ut en anmälningsavgift om 900 kronor av den som vid tidpunkten för anmälan inte är medborgare i en stat som omfattas av avtalet om Europeiska ekonomiska samarbetsområdet (EES) eller i Schweiz (tredjelandsmedborgare).
+
+Anmälningsavgift ska dock inte tas ut av en tredjelandsmedborgare som vid tidpunkten för anmälan
+
+1. är familjemedlem till en medborgare i en EES-stat och har uppehållsrätt eller permanent uppehållsrätt i Sverige enligt 3 a kap. 4 eller 7 § utlänningslagen (2005:716),
+
+2. är familjemedlem till en schweizisk medborgare och har uppehållstillstånd i Sverige enligt 4 kap. 16 § utlänningsförordningen (2006:97),
+
+3. har permanent uppehållstillstånd i Sverige,
+
+4. har tidsbegränsat uppehållstillstånd i Sverige på annan grund än studier, och det inte är fråga om uppehållstillstånd som familjemedlem till en tredje-landsmedborgare med tidsbegränsat uppehållstillstånd för studier som bedrivs på lägre nivå än utbildning på forskarnivå,
+
+5. har ställning som varaktigt bosatt i Sverige enligt 5 a kap. utlänningslagen,
+
+6. har ställning som varaktigt bosatt i en annan stat inom Europeiska unionen och har uppehållstillstånd i Sverige enligt 4 kap. 9 § utlänningsförordningen,
+
+7. är student vid en utländsk högskola men genomför en begränsad del av sin utbildning vid en svensk högskola inom ramen för ett utbytesavtal som innebär att studieavgift inte ska tas ut av den mottagande högskolan,
+
+8. söker till eller studerar på en utbildning inom ramen för ett sådant utbytesprogram eller samarbetsprogram som studieavgift enligt beslut av regeringen inte ska tas ut för,
+
+9. söker till en utbildning inom ramen för ett sådant utbytesprogram eller samarbetsprogram som anmälningsavgift enligt beslut av regeringen inte ska tas ut för,
+
+10. är registrerad på en utbildning vid en svensk högskola, eller
+
+11. inte har ett uppehållstillstånd men tidigare på annan grund än studier har beviljats ett tidsbegränsat uppehållstillstånd som har upphört att gälla, och det inte var fråga om uppehållstillstånd som familjemedlem till en tredje- landsmedborgare med tidsbegränsat uppehållstillstånd för studier som bedrivs på lägre nivå än utbildning på forskarnivå, under förutsättning att en ansökan om fortsatt uppehållstillstånd har kommit in till Migrationsverket innan det tidigare tillståndet har upphört att gälla.
+
+*Förordning (2026:1719)*.
+
+#### 2 a §
+
+Anmälningsavgift ska inte tas ut av brittiska medborgare och deras familjemedlemmar som omfattas av artikel 10 i avtalet om Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen och Europeiska atomenergigemenskapen (EUT L 29, 31.1.2020, s. 7).
+
+*Förordning (2020:762)*.
+
+#### 3 §
+
+Om anmälningsavgiften inte betalas senast vid den tidpunkt som högskolan bestämmer, ska anmälan inte prövas.
+
+#### 4 §
+
+Högskolan får betala tillbaka anmälningsavgiften om det finns särskilda skäl.
+
+### Studieavgift
+
+#### 5 §
+
+En högskola ska ta ut en studieavgift för utbildning på grundnivå och avancerad nivå av den som inte är medborgare i en stat inom EES eller i Schweiz (tredjelandsmedborgare).
+
+Studieavgift ska dock inte tas ut av tredjelandsmedborgare som avses i 2 § andra stycket 1-8.
+
+Studieavgift ska inte heller tas ut av tredjelandsmedborgare som avses i 2 § andra stycket 11. Om ansökan om uppehållstillstånd som avses där avslås, ska studieavgift inte tas ut för tiden fram till dess att tidsfristen för frivillig avresa enligt 8 kap. 21 § första stycket utlänningslagen (2005:716) har löpt ut. Om avslagsbeslutet inte innehåller någon tidsfrist för frivillig avresa ska studieavgift inte tas ut för tiden fram till dess att beslutet har fått laga kraft. *Förordning (2017:861)*.
+
+#### 5 a §
+
+Studieavgift ska inte tas ut av brittiska medborgare och deras familjemedlemmar som omfattas av artikel 10 i avtalet om Förenade konungariket Storbritannien och Nordirlands utträde ur Europeiska unionen och Europeiska atomenergigemenskapen (EUT L 29, 31.1.2020, s. 7). *Förordning (2020:762)*.
+
+#### 5 b §
+
+Har upphävts genom *förordning (2020:762)*.
+
+#### 5 c §
+
+Har upphävts genom *förordning (2020:762)*.
+
+#### 6 §
+
+Högskolan ska beräkna studieavgifterna så att full kostnadstäckning uppnås för den studieavgiftsfinansierade verksamheten i sin helhet.
+
+Studieavgiften ska vara densamma för alla studieavgiftsskyldiga studenter som går samma utbildning vid samma tillfälle. Detta gäller dock inte om något annat följer av ett beslut av regeringen i fråga om studieavgift för den som studerar inom ramen för ett utbytesprogram eller samarbetsprogram.
+
+Om högskolan har tilldelat en sökande eller en student ett stipendium som avser studieavgiften, får studieavgiften sättas ned med ett belopp som motsvarar stipendiet.
+
+*Förordning (2011:303)*.
+
+#### 6 a §
+
+Högskolan får meddela föreskrifter om studieavgiftens storlek. *Förordning (2011:303)*.
+
+#### 7 §
+
+Högskolan ska efter att ha hört Migrationsverket bestämma tidpunkt för betalning av studieavgiften.
+
+#### 8 §
+
+För att bli antagen till utbildningen ska en studieavgiftsskyldig sökande betala studieavgiften senast vid den tidpunkt som avses i 7 §.
+
+Om utbildningen omfattar mer än 30 högskolepoäng, får högskolan besluta att studieavgiften får betalas genom delbetalningar och att en första delbetalning är tillräcklig för att bli antagen. Den första delbetalningen ska inte understiga studieavgiften för utbildningens första 30 högskolepoäng.
+
+#### 9 §
+
+En student som har betalat en sådan första delbetalning som avses i 8 § andra stycket och har påbörjat utbildningen, ska betala återstående delar av studieavgiften inom den tid som högskolan beslutar.
+
+#### 10 §
+
+Om återstående delar av studieavgiften inte betalas inom angiven tid, ska högskolan påminna studenten om att betala avgiften inom en viss tid. Betalas inte avgiften inom den tid som anges i påminnelsen, ska högskolan stänga av studenten från utbildningen till dess att avgiften har betalats.
+
+Studenten ska upplysas om detta i påminnelsen.
+
+Ett beslut om avstängning innebär att studenten inte får delta i undervisning, prov eller annan verksamhet inom ramen för utbildningen vid högskolan. Högskolan får även i ett enskilt fall besluta att examensbevis och kursbevis inte får lämnas ut förrän avgiften har betalats.
+
+#### 11 §
+
+Beslut om avstängning av en student som inte har betalat studieavgiften gäller omedelbart.
+
+#### 12 §
+
+Om en student har betalat studieavgiften men inte längre är avgiftsskyldig enligt 5 §, får högskolan betala tillbaka den del av avgiften som avser den del av utbildningen som studenten inte är avgiftsskyldig för.
+
+Högskolan får även i andra fall betala tillbaka hela eller en del av studieavgiften om studenten av särskilda skäl är förhindrad att delta i utbildningen.
+
+#### 13 §
+
+Beslut att avstänga en student som inte har betalat studieavgiften får överklagas till Överklagandenämnden för högskolan. Nämndens beslut får inte överklagas.
+
+### Utlämnande av uppgifter
+
+#### 14 §
+
+Migrationsverket ska på begäran av högskolan eller Universitets- och högskolerådet, utifrån de uppgifter som finns i Migrationsverkets verksamhetsregister, lämna ut uppgift om huruvida en sökande eller student tillhör den personkrets som enligt denna förordning ska betala anmälnings- avgift eller studieavgift. *Förordning (2020:762)*.
+
+### Undantag från avgiftsförordningen
+
+#### 15 §
+
+För anmälningsavgifter och studieavgifter gäller inte 7 § första stycket avgiftsförordningen (1992:191).
+
+## Övergångsbestämmelser
+
+**2010:543**
+
+1. Denna förordning träder i kraft den 1 juli 2010 och tillämpas första gången på utbildning som avses bedrivas efter den 31 juli 2011.
+
+2. En student som ska betala studieavgift enligt 5 § får slutföra en kurs eller ett utbildningsprogram utan att betala studieavgift, om kursen eller utbildningsprogrammet har påbörjats före den 1 juli 2011. Om studierna inte har slutförts den 31 december 2018, ska avgift dock betalas för tid därefter.
+
+3. En student som ska betala anmälningsavgift enligt 2 § eller studieavgift enligt 5 § får antas till och slutföra en kurs utan att betala anmälningsavgift eller studieavgift, om kursen påbörjas efter den 1 juni 2011 men ska avslutas senast den 31 augusti 2011.
+
+**2020:762**
+
+1. Denna förordning träder i kraft den 14 september 2020.
+
+2. Bestämmelsen i 2 a § i den nya lydelsen tillämpas första gången i fråga om antagning till utbildning som påbörjas efter den 31 december 2020.
+
+3. Bestämmelsen i 5 a § i den nya lydelsen tillämpas första gången i fråga om utbildning som påbörjas eller bedrivs efter den 31 december 2020.
+
+**2026:468**
+
+1. Denna förordning träder i kraft den 11 juni 2026.
+
+2. Förordningen tillämpas första gången vid antagning till höstterminen 2027.
+
+3. Äldre bestämmelser gäller fortfarande i fråga om antagning till utbildning som börjar före höstterminen 2027.

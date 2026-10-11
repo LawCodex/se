@@ -1,0 +1,63 @@
+---
+title: "Förordning (2020:711) om undantag från vissa bestämmelser om sjukpenning med anledning av sjukdomen covid-19"
+identifier: "SFS 2020:711"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2020-07-02
+amended_through: "SFS 2021:577"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2020-711.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2020:711"
+retrieved: 2026-10-11
+---
+# Förordning (2020:711) om undantag från vissa bestämmelser om sjukpenning med anledning av sjukdomen covid-19
+
+### Inledande bestämmelser
+
+#### 1 §
+
+I denna förordning finns bestämmelser om undantag från bestämmelserna om sjukpenning i 27 kap. 48 och 49 §§ socialförsäkringsbalken.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen.
+
+Bedömning av arbetsförmågans nedsättning efter dag 180 och dag 365 i rehabiliteringskedjan
+
+#### 2 §
+
+Om den försäkrades vård eller rehabilitering har försenats på grund av effekter av sjukdomen covid-19 och övervägande skäl talar för att han eller hon kan förväntas återgå i sitt vanliga arbete i samma omfattning som före sjukfallet när vården eller rehabiliteringen har slutförts, gäller inte bestämmelserna om bedömning av arbetsförmågans nedsättning i 27 kap. 48 och 49 §§ socialförsäkringsbalken. För en försäkrad som är arbetstagare ska annat tillgängligt arbete hos arbetsgivaren likställas med den försäkrades vanliga arbete.
+
+För tid efter det att vården eller rehabiliteringen har slutförts gäller dock 27 kap. 48 och 49 §§ socialförsäkringsbalken.
+
+En försening av vård eller rehabilitering ska anses vara orsakad av effekter av sjukdomen covid-19, om inte utredningen i ärendet visar något annat. *Förordning (2021:141)*.
+
+#### 3 §
+
+Har upphävts genom *förordning (2021:141)*.
+
+## Övergångsbestämmelser
+
+**2020:711**
+
+1. Denna förordning träder i kraft den 17 juli 2020.
+
+2. Förordningen tillämpas dock på sjukpenning som avser tid från och med den 2 april 2020.
+
+3. Förordningen upphör att gälla vid utgången av 2020.
+
+4. Den upphävda förordningen gäller dock fortfarande för sjukpenning som avser tid före utgången av 2021. *Förordning (2021:577)*.
+
+**2021:59**
+
+1. Denna förordning träder i kraft den 8 februari 2021.
+
+2. De nya bestämmelserna i 2 och 3 §§ ska dock tillämpas på sjukpenning som avser tid från och med den 21 december 2020.
+
+3. För sjukpenning som avser tid före den 21 december 2020 gäller 2 § i den äldre lydelsen.
+
+**2021:141**
+
+1. Denna förordning träder i kraft den 15 mars 2021.
+
+2. Äldre bestämmelser gäller fortfarande för sjukpenning som avser tid före ikraftträdandet.

@@ -1,0 +1,51 @@
+---
+title: "Förordning (2011:595) om hävning av en registrering av ett företagsnamn"
+identifier: "SFS 2011:595"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-05-26
+amended_through: "SFS 2021:984"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-595.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:595"
+retrieved: 2026-10-11
+---
+# Förordning (2011:595) om hävning av en registrering av ett företagsnamn
+
+## 1 §
+
+Denna förordning tillämpas i fråga om hävning av en registrering av ett företagsnamn enligt 3 kap. 4-18 §§ lagen (2018:1653) om företagsnamn. *Förordning (2018:1841)*.
+
+## 2 §
+
+En ansökan om administrativ hävning av en registrering av ett företagsnamn och de handlingar som bifogas ansökan ska ges in i två exemplar. *Förordning (2018:1841)*.
+
+## 3 §
+
+Om en uppgift som lämnats enligt 3 kap. 5 § första stycket 1 lagen (2018:1653) om företagsnamn ändras under tiden för registreringsmyndighetens handläggning, ska sökanden genast anmäla ändringen till registreringsmyndigheten. *Förordning (2018:1841)*.
+
+## 4 §
+
+Ett föreläggande till innehavaren enligt 3 kap. 9 § lagen (2018:1653) om företagsnamn ska, utöver vad som anges i den paragrafen, innehålla upplysningar om följden av att yrkandet bestrids eller medges eller att bestridandet inte görs i rätt tid. *Förordning (2018:1841)*.
+
+## 5 §
+
+Vid överlämnande av ett ärende till tingsrätt med stöd av 3 kap. 12 eller 15 § lagen (2018:1653) om företagsnamn ska alla handlingar i ärendet inklusive delgivningsbevis samt relevanta utskrifter ur det register där företagsnamnet är registrerat överlämnas till tingsrätten. Även utskrifter av andra uppgifter som kan vara av betydelse för den fortsatta handläggningen ska överlämnas. Handlingarna ska ingå i tingsrättens akt. *Förordning (2018:1841)*.
+
+## 6 §
+
+Registreringsmyndigheten får meddela föreskrifter om att en ansökan om administrativ hävning och andra handlingar i ärendet får överföras elektroniskt till myndigheten och på vilket sätt detta ska ske.
+
+Myndigheten får också meddela föreskrifter om i vilka fall en handling ska vara undertecknad med en elektronisk underskrift och vilka elektroniska underskrifter som får användas.
+
+Registreringsmyndigheten får meddela närmare föreskrifter om vad en ansökan om administrativ hävning och ett föreläggande som avses i 4 § i övrigt ska innehålla. *Förordning (2016:594)*.
+
+## 7 §
+
+I ett ärende om administrativ hävning av en registrering av ett företagsnamn tas en ansökningsavgift ut med 900 kronor. Avgiften ska betalas när ansökan ges in. Avgiften betalas inte tillbaka om handläggningen av ärendet har påbörjats. *Förordning (2021:984)*.
+
+## 8 §
+
+Ett förfarande som avses i 3 kap. 4 § andra stycket lagen (2018:1653) om företagsnamn får inledas av Åklagarmyndigheten. *Förordning (2018:1841)*.

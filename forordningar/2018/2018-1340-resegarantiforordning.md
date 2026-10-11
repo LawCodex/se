@@ -1,0 +1,175 @@
+---
+title: "Resegarantiförordning (2018:1340)"
+identifier: "SFS 2018:1340"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-06-20
+amended_through: "SFS 2026:98"
+department: "Finansdepartementet KO"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1340.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1340"
+retrieved: 2026-10-11
+---
+# Resegarantiförordning (2018:1340)
+
+### Tillämpningsområde
+
+#### 1 §
+
+Förordningen gäller sådana resegarantier som omfattas av resegarantilagen (2018:1218).
+
+Termer och uttryck som används i resegarantilagen har samma betydelse i denna förordning.
+
+### Anmälan av verksamhet
+
+#### 2 §
+
+En näringsidkares anmälan av verksamhet enligt 11 § resegarantilagen (2018:1218) ska innehålla uppgifter om
+
+- näringsidkarens företagsnamn och organisationsnummer eller, om sådana inte finns, uppgifter om namn och personnummer eller samordningsnummer,
+
+- näringsidkarens kontaktuppgifter, och
+
+- de paketresor eller sammanlänkade researrangemang som näringsidkaren avser att sälja eller underlätta uppkomsten av, vilka betalningsvillkor som gäller för dessa samt, i förekommande fall, den uppskattade kostnaden för hemtransport av resenärerna och för inkvartering i avvaktan på hemtransporten i händelse av insolvens.
+
+Om en individuell garanti har ordnats för paketresorna eller de sammanlänkade researrangemangen ska anmälan innehålla uppgifter om garantins omfattning och villkor. *Förordning (2026:98)*.
+
+#### 3 §
+
+Kammarkollegiet får meddela ytterligare föreskrifter om vilka uppgifter som ska lämnas till myndigheten i en anmälan av verksamhet enligt 11 § resegarantilagen (2018:1218) och i en anmälan om ändrade förutsättningar enligt 16 § samma lag. Kammarkollegiet får även meddela närmare föreskrifter om hur dessa uppgifter ska lämnas. *Förordning (2026:98)*.
+
+### Prövning av skyldighet att ordna resegaranti
+
+#### 4 §
+
+Kammarkollegiet ska pröva om det finns en skyldighet att ordna resegaranti. *Förordning (2026:98)*.
+
+### De individuellt ordnade garantierna
+
+#### 4 a §
+
+Kammarkollegiet ska pröva om en individuellt ordnad garanti kan godkännas enligt 12 § resegarantilagen (2018:1218) och om nivån på garantin ska justeras enligt 12 a § samma lag.
+
+*Förordning (2026:98)*.
+
+#### 5 §
+
+Om en individuellt ordnad garanti består av en betalningsutfästelse ska den vara ställd till Kammarkollegiet.
+
+*Förordning (2026:98)*.
+
+#### 6 §
+
+Om en individuellt ordnad garanti består av en försäkring ska den vara tecknad hos en försäkringsgivare som har tillstånd att bedriva försäkringsrörelse i ett land inom EES eller i ett land som är medlem i Organisationen för ekonomiskt samarbete och utveckling (OECD).
+
+Kammarkollegiet får dock godkänna en individuellt ordnad garanti i form av en försäkring som ordnas av någon annan än en sådan försäkringsgivare som avses i första stycket om de krav som gäller för den som står för garantin är tillräckliga för att anta att denne kan infria sina åtaganden.
+
+*Förordning (2026:98)*.
+
+#### 7 §
+
+Om en individuellt ordnad garanti består av deponerade medel ska dessa vara deponerade hos Kammarkollegiet, hos ett kreditinstitut som har tillstånd att driva bank- eller finansieringsrörelse enligt lagen (2004:297) om bank- och finansieringsrörelse eller hos ett sådant utländskt kreditinstitut som avses i artikel 4.1.1 a i Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012 och som är auktoriserat och står under tillsyn av behöriga myndigheter i ett annat land inom EES.
+
+Deponerade medel ska kunna tas i anspråk av Kammarkollegiet efter beslut om ersättning ur resegarantin enligt 17 § resegarantilagen (2018:1218). *Förordning (2026:98)*.
+
+#### 8 §
+
+En betalningsutfästelse eller deponerade medel ska återgå när en individuellt ordnad garanti inte längre behövs.
+
+*Förordning (2026:98)*.
+
+### Resegarantifonden
+
+#### 8 a §
+
+Kammarkollegiet får meddela föreskrifter om vilka uppgifter som arrangörer av paketresor och näringsidkare som genom förmedling eller på annat sätt underlättar uppkomsten av sammanlänkade researrangemang ska lämna till myndigheten för att inbetalningar till resegarantifonden enligt 13 b § resegarantilagen (2018:1218) ska kunna beräknas och hur dessa uppgifter ska ges in. Kammarkollegiet får även meddela föreskrifter om hur och när inbetalningar till fonden ska ske.
+
+*Förordning (2026:98)*.
+
+#### 8 b §
+
+Resegarantifonden ska förvaltas av Kammarkollegiet.
+
+Kostnader för att förvalta resegarantifonden och för handläggningen av ärenden om finansiering av och ersättning ur fonden ska betalas med högst de belopp som regeringen bestämmer för varje år. Beloppen fastställs efter en bedömning av vad som utgör rimliga administrativa kostnader i förhållande till fondens medel och ärendehandläggningens omfattning.
+
+Kammarkollegiet ska varje år före augusti månads utgång till regeringen lämna ett kostnadsförslag för det kommande årets verksamhet. *Förordning (2026:98)*.
+
+#### 8 c §
+
+Kammarkollegiet ska meddela beslut om att avgiftsskyldighet åter ska gälla enligt 13 c § resegarantilagen (2018:1218). *Förordning (2026:98)*.
+
+### Ersättning från resegarantin
+
+#### 9 §
+
+Om inte annat följer av de villkor som gäller för en individuellt ordnad garanti ska Kammarkollegiet pröva en begäran om ersättning enligt 17 § resegarantilagen (2018:1218).
+
+Om Kammarkollegiet förfogar över garantin ska myndigheten genomföra de utbetalningar som den har beslutat om.
+
+*Förordning (2026:98)*.
+
+#### 9 a §
+
+Kammarkollegiet ska pröva en begäran om ersättning enligt 17 a § resegarantilagen (2018:1218). Kammarkollegiet ska genomföra de utbetalningar som myndigheten har beslutat om. *Förordning (2026:98)*.
+
+#### 9 b §
+
+Kammarkollegiet får meddela närmare föreskrifter om de uppgifter som ska lämnas i en sådan begäran om ersättning från resegarantin som ska prövas av myndigheten.
+
+*Förordning (2026:98)*.
+
+#### 10 §
+
+Om näringsidkaren har försatts i konkurs ska Kammarkollegiet underrätta konkursförvaltaren om att ersättning har begärts från resegarantin.
+
+### Tillsyn
+
+#### 11 §
+
+Kammarkollegiet är tillsynsmyndighet enligt 19 § resegarantilagen (2018:1218).
+
+#### 12 §
+
+Kammarkollegiet ska föra ett register över arrangörer, återförsäljare och näringsidkare som underlättar uppkomsten av sammanlänkade researrangemang och som fullgör sin skyldighet att ordna en resegaranti enligt 4 eller 5 § resegarantilagen (2018:1218). Registret ska göras tillgängligt för allmänheten genom en publik webbplats.
+
+#### 13 §
+
+Om Kammarkollegiet begär att en arrangör, återförsäljare eller näringsidkare som underlättar uppkomsten av sammanlänkade researrangemang ska ge in ett certifikat, intyg eller liknande dokument som visar att kravet på resegaranti har uppfyllts, ska myndigheten godta motsvarande dokument från ett annat land inom EES. Myndigheten får dock begära en översättning av dokumentet till svenska. *Förordning (2026:98)*.
+
+### Administrativt samarbete
+
+#### 14 §
+
+Kammarkollegiet ska vara central kontaktpunkt för det administrativa samarbetet och tillsynen av arrangörer, återförsäljare och näringsidkare som underlättar uppkomsten av sammanlänkade researrangemang i andra länder inom EES enligt artikel 18.2 i Europaparlamentets och rådets direktiv (EU) 2015/2303 av den 25 november 2015 om paketresor och sammanlänkade researrangemang, om ändring av förordning (EG) nr 2006/2004 och Europaparlamentets och rådets direktiv 2011/83/EU samt om upphävande av rådets direktiv 90/314/EEG, i den ursprungliga lydelsen.
+
+#### 15 §
+
+Kammarkollegiet ska på förfrågan från centrala kontaktpunkter i andra länder inom EES lämna information om och i vilken utsträckning resegaranti har ordnats av arrangörer, återförsäljare och näringsidkare som underlättar uppkomsten av sammanlänkade researrangemang.
+
+Förfrågningar enligt första stycket ska besvaras snarast möjligt. Ett första svar ska alltid lämnas inom 15 arbetsdagar från det att förfrågan mottagits. *Förordning (2026:98)*.
+
+#### 16 §
+
+Kammarkollegiet ska samverka med Konsumentverket i frågor som rör resegarantier. Kammarkollegiet ska vid behov även inhämta synpunkter från branschorganisationer inom reseområdet och organisationer som företräder konsumentintressen.
+
+### Överklagande
+
+#### 17 §
+
+I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om att stryka näringsidkare från det register som förs med stöd av 12 § får dock inte överklagas.
+
+## Övergångsbestämmelser
+
+**2018:1340**
+
+1. Denna förordning träder i kraft den 1 augusti 2018.
+
+2. Genom förordningen upphävs
+
+a) förordningen (2007:1039) med instruktion för Resegarantinämnden,
+
+b) förordningen (2009:1076) om godkännande av dokument i ärenden om säkerhet för resegaranti.
+
+3. Ärenden om resegarantier som har inletts hos Resegarantinämnden före ikraftträdandet ska efter ikraftträdandet handläggas av Kammarkollegiet. Resegarantinämnden ska överlämna handlingarna till Kammarkollegiet.

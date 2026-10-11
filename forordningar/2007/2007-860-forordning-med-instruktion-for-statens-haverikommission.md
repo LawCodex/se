@@ -1,0 +1,83 @@
+---
+title: "Förordning (2007:860) med instruktion för Statens haverikommission"
+identifier: "SFS 2007:860"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-08
+amended_through: "SFS 2014:1381"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-860.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:860"
+retrieved: 2026-10-11
+---
+# Förordning (2007:860) med instruktion för Statens haverikommission
+
+### Uppgifter
+
+#### 1 §
+
+Statens haverikommission genomför undersökningar enligt lagen (1990:712) om undersökning av olyckor och samverkar med berörda myndigheter i deras olycksförebyggande verksamhet. Haverikommissionen samverkar även med myndigheter och organisationer i andra länder i frågor som ligger inom myndighetens verksamhetsområde.
+
+Haverikommissionen är behörig myndighet för säkerhetsutredningar enligt Europaparlamentets och rådets förordning (EU) nr 996/2010 av den 20 oktober 2010 om utredning och förebyggande av olyckor och tillbud inom civil luftfart och om upphävande av direktiv 94/56/EG.
+
+*Förordning (2014:1381)*.
+
+### Ledning
+
+#### 2 §
+
+Statens haverikommission leds av en myndighetschef.
+
+### Organisation
+
+#### 3 §
+
+Vid haverikommissionen ska det finnas haveriutredare.
+
+#### 4 §
+
+Minst en av haveriutredarna vid myndigheten ska vara jurist och ha domarerfarenhet.
+
+I övrigt ska det finnas haveriutredare med flygoperativ, flygteknisk, sjöoperativ, sjöteknisk, järnvägsoperativ, järnvägsteknisk och allmän teknisk sakkunskap, sakkunskap inom området befolkningsskydd och räddningstjänst samt beteendevetenskaplig sakkunskap.
+
+#### 5 §
+
+För uppdrag att biträda med sådana undersökningar och säkerhetsutredningar som avses i 1 § får haverikommissionen anlita experter och sakkunniga. *Förordning (2012:616)*.
+
+### Handläggningen av haverikommissionens undersökningar
+
+#### 6 §
+
+Sådana undersökningar och säkerhetsutredningar som avses i 1 § leds av myndighetschefen eller av en haveriutredare som är jurist och har domarerfarenhet. *Förordning (2012:616)*.
+
+#### 7 §
+
+När haverikommissionen ska genomföra en sådan undersökning eller säkerhetsutredning som avses i 1 § får den som leder undersökningen eller säkerhetsutredningen tillkalla de experter och sakkunniga som behövs. *Förordning (2012:616)*.
+
+#### 8 §
+
+Har upphävts genom *förordning (2012:616)*.
+
+#### 9 §
+
+Vid sådana undersökningar och säkerhetsutredningar som avses i 1 § är haverikommissionen beslutför när den som leder undersökningen eller säkerhetsutredningen och minst en haveriutredare är närvarande.
+
+Om det framkommer skiljaktiga meningar vid överläggning i en sådan undersökning eller säkerhetsutredning tillämpas föreskrifterna i 16 kap. rättegångsbalken om omröstning i tvistemål. *Förordning (2012:616)*.
+
+### Anställningar och uppdrag
+
+#### 10 §
+
+Generaldirektören är myndighetschef. Generaldirektören ska vara jurist och ha domarerfarenhet.
+
+En av haveriutredarna är generaldirektörens ställföreträdare.
+
+## Övergångsbestämmelser
+
+**2007:860**
+
+1. Denna förordning träder i kraft den 1 januari 2008, då förordningen (1996:282) med instruktion för Statens haverikommission ska upphöra att gälla.
+
+2. Den upphävda förordningen gäller fortfarande för överklagande av beslut som har meddelats före den 1 januari 2008.

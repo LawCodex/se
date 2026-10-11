@@ -1,0 +1,85 @@
+---
+title: "Förordning (2007:948) med instruktion för Skolväsendets överklagandenämnd"
+identifier: "SFS 2007:948"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-15
+amended_through: "SFS 2019:411"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-948.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:948"
+retrieved: 2026-10-11
+---
+# Förordning (2007:948) med instruktion för Skolväsendets överklagandenämnd
+
+## Uppgifter
+
+### 1 §
+
+Skolväsendets överklagandenämnd ska pröva överklaganden av vissa beslut på skolväsendets område. I 28 kap. skollagen (2010:800) finns bestämmelser om vilka beslut som får överklagas till nämnden. *Förordning (2011:557)*.
+
+## Ledning
+
+### 2 §
+
+Myndigheten leds av en nämnd.
+
+### 3 §
+
+I 27 kap. skollagen (2010:800) finns bestämmelser om nämndens sammansättning. *Förordning (2011:557)*.
+
+## Organisation
+
+### 4 §
+
+Har upphävts genom *förordning (2013:30)*.
+
+### 5 §
+
+Statens skolinspektion upplåter lokaler och utför administrativa och handläggande uppgifter åt nämnden.
+
+*Förordning (2013:30)*.
+
+## Ärendenas handläggning
+
+### 6 §
+
+Nämnden är beslutsför när ordföranden eller en vice ordförande, och minst två andra ledamöter är närvarande.
+
+*Förordning (2019:411)*.
+
+### 7 §
+
+Nämnden får i arbetsordningen meddela föreskrifter om att ordföranden eller en vice ordförande får avgöra ärenden om överklaganden som är av sådant slag att nämndens vägledande avgöranden kan tillämpas eller som annars är av det slaget att de inte behöver avgöras av nämnden. *Förordning (2019:411)*.
+
+### 8 §
+
+Nämnden får i arbetsordningen meddela föreskrifter om att den som utför handläggande uppgifter enligt 5 § får fatta beslut om handläggningen av ett ärende eller avgöra ärenden som är av administrativ art. *Förordning (2013:30)*.
+
+### 9 §
+
+Ärendena ska avgöras efter föredragning.
+
+Nämnden får i arbetsordningen meddela föreskrifter om eller i ett enskilt fall besluta att ärenden som avgörs enligt 7 eller 8 § inte behöver föredras. *Förordning (2013:30)*.
+
+### 10 §
+
+Har upphävts genom *förordning (2013:30)*.
+
+## Undantag från myndighetsförordningen
+
+### 11 §
+
+Följande bestämmelser i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+- 5 § om delegering,
+
+- 15 och 16 §§ om beslutförhet,
+
+- 20 § om föredragning, och
+
+- 24 § om ställföreträdare.
+
+*Förordning (2013:30)*.

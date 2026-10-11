@@ -1,0 +1,61 @@
+---
+title: "Förordning (2009:1175) med vissa bemyndiganden för Pensionsmyndigheten"
+identifier: "SFS 2009:1175"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-11-19
+amended_through: "SFS 2022:768"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-1175.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:1175"
+retrieved: 2026-10-11
+---
+# Förordning (2009:1175) med vissa bemyndiganden för Pensionsmyndigheten
+
+### 1 §
+
+Utöver de föreskrifter med bemyndiganden för Pensionsmyndigheten som finns i andra författningar gäller vad som föreskrivs i denna förordning.
+
+### 2 §
+
+Pensionsmyndigheten får meddela föreskrifter om i vilken utsträckning en enskild inom myndighetens verksamhetsområde får använda självbetjäningstjänster enligt 111 kap. 4 § socialförsäkringsbalken, samt om användningen av elektroniska underskrifter, certifikat och andra metoder för identifiering enligt 111 kap. 5 och 6 §§ samma balk. *Förordning (2016:588)*.
+
+### 3 §
+
+Pensionsmyndigheten får meddela ytterligare föreskrifter om verkställighet av socialförsäkringsbalken när det gäller
+
+1. allmän ålderspension, särskilt pensionstillägg och inkomstpensionstillägg,
+
+2. efterlevandepension, efterlevandestöd och efterlevandeskydd i form av premiepension,
+
+3. äldreförsörjningsstöd och bostadstillägg när det gäller
+
+- ansökningsförfarandet, utom när det gäller bostadstillägg till sjukersättning och aktivitetsersättning,
+
+- beräkning av bostadskostnad,
+
+- beräkning av årsinkomst,
+
+- beräkning av förmögenhet samt avkastning därav,
+
+- ändrad folkbokföring,
+
+- utbetalning,
+
+- anmälan om ändrade förhållanden när det gäller inkomster och förmögenhet enligt 110 kap. 46 §,
+
+4. bevis enligt 110 kap. 15 §.
+
+Innan Pensionsmyndigheten meddelar föreskrifter om bostadstillägg eller bevis enligt första stycket 4 ska myndigheten inhämta ett yttrande från Försäkringskassan, om föreskrifterna gäller frågor som rör även den myndighetens verksamhet. *Förordning (2020:1245)*.
+
+### 4 §
+
+Pensionsmyndigheten får meddela föreskrifter om valarkitekturen för premiepensionssystemet enligt 64 kap. 26 a-26 d §§ socialförsäkringsbalken. *Förordning (2022:768)*.
+
+## Övergångsbestämmelser
+
+**2010:1738**
+
+Denna förordning träder i kraft den 1 januari 2011. Det som föreskrivs i 3 § tillämpas också i fråga om bestämmelserna i lagen (2010:111) om införande av socialförsäkringsbalken om samma förmåner samt om särskild efterlevandepension.

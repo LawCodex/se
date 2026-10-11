@@ -1,0 +1,263 @@
+---
+title: "Förordning (2023:844) med instruktion för Mediemyndigheten"
+identifier: "SFS 2023:844"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2023-12-07
+amended_through: "SFS 2026:1477"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2023-844.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2023:844"
+retrieved: 2026-10-11
+---
+# Förordning (2023:844) med instruktion för Mediemyndigheten
+
+### Uppgifter
+
+#### 1 §
+
+Mediemyndigheten ska inom sitt verksamhetsområde verka för yttrandefrihet, medie- och informationskunnighet samt möjligheterna till mediemångfald och tillgänglighet. Myndigheten ska också verka för att stärka barn och unga som medvetna medieanvändare, ta tillvara deras erfarenheter samt verka för att skydda barn från skadlig mediepåverkan.
+
+Myndigheten ansvarar för frågor om mediestöd, tillstånd, registrering och tillsyn på medieområdet. Myndigheten ansvarar även för frågor om utgivningsbevis för periodiska skrifter och databaser. *Förordning (2024:1171)*.
+
+#### 2 §
+
+Myndigheten har uppgifter enligt
+
+1. lagen (1991:1559) med föreskrifter på tryckfrihetsförordningens och yttrandefrihetsgrundlagens områden,
+
+2. lagen (1998:31) om standarder för digital radio och tv,
+
+3. radio- och tv-lagen (2010:696),
+
+4. lagen (2010:1882) om åldersgränser för film som ska visas offentligt,
+
+5. lagen (2023:254) om vissa produkters och tjänsters tillgänglighet,
+
+6. lagen (2023:664) om mediestöd,
+
+7. lagen (2024:954) med kompletterande bestämmelser till EU:s förordning om digitala tjänster,
+
+8. lagen (2025:986) om public service,
+
+9. lagen (2025:1242) med kompletterande bestämmelser till EU:s mediefrihetsförordning,
+
+10. kungörandeförordningen (1977:827),
+
+11. förordningen (1998:32) om standarder för digital radio och tv,
+
+12. förordningen (2010:1925) om åldersgränser för film som ska visas offentligt,
+
+13. radio- och tv-förordningen (2020:878),
+
+14. förordningen (2021:1205) om stöd för tidningsdistribution med anledning av övergången till utdelning av post varannan dag,
+
+15. förordningen (2023:676) om vissa produkters och tjänsters tillgänglighet,
+
+16. förordningen (2023:740) om mediestöd,
+
+17. förordningen (2024:958) med kompletterande bestämmelser till EU:s förordning om digitala tjänster,
+
+18. förordningen (2025:987) om public service,
+
+19. förordningen (2025:1244) med kompletterande bestämmelser till EU:s mediefrihetsförordning, och
+
+20. förordningen (2025:1410) med kompletterande bestämmelser till EU:s förordning om politisk reklam.
+
+*Förordning (2025:1411)*.
+
+#### 3 §
+
+Myndigheten ska även
+
+1. följa, analysera och sprida kunskap om utvecklingen inom medieområdet, särskilt i fråga om redaktionella mediers förutsättningar att verka samt barns och ungas medieanvändning,
+
+2. följa svensk, nordisk och annan internationell forskning inom sitt verksamhetsområde,
+
+3. publicera statistik och annan information om ägande- och branschstruktur, teknik, tillgång och konsumtion samt ekonomiska förhållanden inom medieområdet,
+
+4. följa utvecklingen av och sprida kunskap om journalisters säkerhet i Sverige och föra dialog med nationella aktörer som arbetar för att stärka skyddet för journalister och som ger stöd till utsatta journalister,
+
+5. samordna det nationella arbetet med medie- och informationskunnighet,
+
+6. upprätta och föra register över utgivare som har anmälts enligt lagen (1991:1559) med föreskrifter på tryckfrihetsförordningens och yttrande-frihetsgrundlagens områden,
+
+7. verka för mediebranschens självreglering,
+
+8. medverka till ett gemensamt branschsystem för hur varningar enligt radio- och tv-lagen (2010:696) ska lämnas, och
+
+9. medverka till samreglering när det gäller sådana lämpliga åtgärder som leverantörer av videodelningsplattformar ska vidta enligt radio- och tv-lagen. *Förordning (2026:1477)*.
+
+#### 4 §
+
+Myndigheten är nationell tillsynsmyndighet enligt artikel 30 i Europaparlamentets och rådets direktiv 2010/13/EU av den 10 mars 2010 om samordning av vissa bestämmelser som fastställs i medlemsstaternas lagar och andra författningar om tillhandahållande av audiovisuella medietjänster (direktiv om audiovisuella medietjänster), i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/1808.
+
+Myndigheten ska även kartlägga och redovisa vilka åtgärder som har vidtagits för att främja medie- och informationskunnighet i Sverige i enlighet med artikel 33a i samma direktiv.
+
+*Förordning (2024:1171)*.
+
+#### 4 a §
+
+Myndigheten ska delta i Europeiska nämnden för medietjänster. *Förordning (2024:1171)*.
+
+#### 5 §
+
+Myndigheten ska företräda Sverige i Europeiska audiovisuella observatoriet.
+
+#### 6 §
+
+Myndigheten ska ha ett barnrätts-, jämställdhets- och mångfaldsperspektiv i sin verksamhet.
+
+### Rapportering
+
+#### 6 a §
+
+Myndigheten ska årligen till regeringen redovisa den ekonomiska utvecklingen av och förutsättningarna för nyhetsmedier och deras distribution av nyhetsjournalistik samt övriga väsentliga förändringar inom mediebranschen.
+
+*Förordning (2026:1477)*.
+
+### Samverkan
+
+#### 7 §
+
+Myndigheten ska inför beslut om tillstånd att sända tv, sökbar text-tv och kommersiell radio samråda med Konkurrensverket och Post- och telestyrelsen i konkurrensfrågor. Myndigheten ska samråda med Post- och telestyrelsen i frågor om sändningsstandarder.
+
+#### 8 §
+
+Har upphävts genom *förordning (2026:1477)*.
+
+#### 9 §
+
+Myndigheten ska samråda med Konsumentverket i frågor om sådana lämpliga åtgärder kopplade till audiovisuella kommersiella meddelanden som leverantörer av videodelningsplattformar ska vidta enligt radio- och tv-lagen (2010:696).
+
+#### 10 §
+
+Myndigheten ska medverka till informationsutbyte med andra behöriga tillsynsmyndigheter i enlighet med artikel 30a i Europaparlamentets och rådets direktiv 2010/13/EU, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2018/1808.
+
+#### 11 §
+
+Har upphävts genom *förordning (2026:1477)*.
+
+### Ledning
+
+#### 12 §
+
+Myndigheten leds av en myndighetschef.
+
+#### 13 §
+
+Vid myndigheten finns ett insynsråd som består av högst sex ledamöter.
+
+### Filmgranskare
+
+#### 14 §
+
+Vid myndigheten finns filmgranskare som prövar frågor om godkännande av en framställning i en film som är avsedd att visas offentligt för barn under 15 år.
+
+### Granskningsnämnden för radio och tv
+
+#### 15 §
+
+Inom myndigheten finns ett särskilt beslutsorgan som benämns granskningsnämnden för radio och tv. Nämnden har de uppgifter och den sammansättning och beslutsförhet som framgår av radio- och tv-lagen (2010:696), lagen (2025:986) om public service, radio- och tv-förordningen (2020:878) och förordningen (2025:1244) med kompletterande bestämmelser till EU:s mediefrihetsförordning. *Förordning (2025:1411)*.
+
+#### 16 §
+
+Myndigheten får i arbetsordningen meddela föreskrifter om eller i enskilda fall besluta att ärenden som prövas av ordföranden eller en vice ordförande får avgöras utan föredragning.
+
+#### 17 §
+
+Granskningsnämnden för radio och tv ansvarar för sina beslut.
+
+Granskningsnämnden för radio och tv ansvarar för sin verksamhet inför myndighetens ledning.
+
+#### 18 §
+
+Myndighetens ledning ansvarar inför regeringen för att granskningsnämnden för radio och tv tilldelas resurser för sin verksamhet samt för att verksamheten bedrivs författningsenligt och effektivt och redovisas på ett tillförlitligt sätt.
+
+### Mediestödsnämnden
+
+#### 19 §
+
+Inom myndigheten finns ett särskilt beslutsorgan som benämns mediestödsnämnden. Nämnden har den sammansättning och de uppgifter som framgår av lagen (2023:664) om mediestöd, förordningen (2023:740) om mediestöd samt förordningen (2021:1205) om stöd för tidningsdistribution med anledning av övergången till utdelning av post varannan dag.
+
+#### 20 §
+
+Mediestödsnämnden är beslutsför när ordföranden eller en vice ordförande och minst hälften av de andra ledamöterna är närvarande.
+
+Om ett ärende är så brådskande att mediestödsnämnden inte hinner sammanträda för att behandla det, får ärendet avgöras genom kontakter mellan ordföranden och de andra ledamöterna. Om inte heller detta hinns med eller är lämpligt, får ordföranden ensam avgöra ärendet. Ett sådant beslut ska anmälas vid nästa sammanträde i nämnden.
+
+Ärenden som uppenbart inte är av större vikt eller principiell betydelse får avgöras av ordföranden eller en vice ordförande.
+
+#### 21 §
+
+Mediestödsnämnden ansvarar för sina beslut.
+
+Mediestödsnämnden ansvarar för sin verksamhet inför myndighetens ledning.
+
+#### 22 §
+
+Myndighetens ledning ansvarar inför regeringen för att mediestödsnämnden tilldelas resurser för sin verksamhet och för att verksamheten bedrivs författningsenligt och effektivt och redovisas på ett tillförlitligt sätt.
+
+### Anställningar och uppdrag
+
+#### 23 §
+
+Generaldirektören är myndighetschef.
+
+Myndighetschefen anställs för en bestämd tid av sex år, om inte särskilda skäl föranleder en kortare tid. Anställningen får förlängas.
+
+#### 24 §
+
+Regeringen utser ordförande, vice ordförande samt andra ledamöter och ersättare i granskningsnämnden för radio och tv för en bestämd tid.
+
+Nämndens ledamöter ska utses för en tid av fyra år, om inte särskilda skäl föranleder en kortare tid. Minst tre och högst fyra ledamöter ska utses vartannat år.
+
+Om en ledamot entledigas innan förordnandet löper ut ska en ny ledamot utses för den tid som återstår av den entledigade ledamotens förordnade.
+
+#### 25 §
+
+Regeringen utser ordförande, vice ordförande samt andra ledamöter och ersättare i mediestödsnämnden för en bestämd tid.
+
+### Personalansvarsnämnd
+
+#### 26 §
+
+Vid myndigheten finns en personalansvarsnämnd.
+
+### Tillämpligheten av vissa förordningar
+
+#### 27 §
+
+Myndigheten ska tillämpa personalföreträdarförordningen (1987:1101).
+
+### Avgifter
+
+#### 28 §
+
+Myndigheten disponerar avgifter som tas ut enligt förordningen (2024:1170) om avgifter i ärenden om utgivningsbevis för periodiska skrifter och databaser. Avgifterna ska täcka direkta kostnader för verksamheten när det gäller utgivningsbevis. *Förordning (2024:1171)*.
+
+#### 29 §
+
+Myndigheten disponerar avgifter som tas ut enligt 4 kap. 17 § och 13 kap. 14 § radio- och tv-lagen (2010:696).
+
+*Förordning (2025:899)*.
+
+### Undantag från myndighetsförordningen
+
+#### 30 §
+
+Myndigheten ska inte tillämpa 29 § myndighetsförordningen (2007:515) på filmgranskningsärenden eller ärenden som beslutas av granskningsnämnden för radio och tv.
+
+## Övergångsbestämmelser
+
+**2023:844**
+
+1. Denna förordning träder i kraft den 1 januari 2024.
+
+2. Genom förordningen upphävs
+
+a) förordningen (2010:1923) med instruktion för Statens medieråd,
+
+b) förordningen (2020:879) med instruktion för Myndigheten för press, radio och tv.

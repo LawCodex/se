@@ -1,0 +1,165 @@
+---
+title: "/Rubriken upphör att gälla U:2027-01-01/ Lag (2009:966) om Försvarsunderrättelsedomstol /Rubriken träder i kraft I:2027-01-01/ Lag (2009:966) om Underrättelsedomstol"
+identifier: "SFS 2009:966"
+type: act
+jurisdiction: se
+language: sv
+date: 2009-10-15
+amended_through: "SFS 2026:1581"
+department: "Försvarsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-966.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:966"
+retrieved: 2026-10-11
+---
+# /Rubriken upphör att gälla U:2027-01-01/ Lag (2009:966) om Försvarsunderrättelsedomstol /Rubriken träder i kraft I:2027-01-01/ Lag (2009:966) om Underrättelsedomstol
+
+*/Rubriken upphör att gälla U:2027-01-01/* Försvarsunderrättelsedomstolens uppgifter
+
+### 1 §
+
+*/Upphör att gälla U:2027-01-01/* Försvarsunderrättelsedomstolen ska pröva frågor om tillstånd till signalspaning enligt lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+## Underrättelsedomstolens uppgifter
+
+### 1 §
+
+*/Träder i kraft I:2027-01-01/* Underrättelsedomstolen ska pröva frågor om tillstånd till signalspaning enligt lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet. *Lag (2026:1581)*.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+## Försvarsunderrättelsedomstolens sammansättning
+
+### 2 §
+
+*/Upphör att gälla U:2027-01-01/* Försvarsunderrättelsedomstolen består av en ordförande, en eller högst två vice ordförande samt minst två och högst åtta särskilda ledamöter.
+
+Ledamöterna ska vara svenska medborgare och får inte vara underåriga eller i konkurstillstånd eller ha förvaltare enligt 11 kap. 7 § föräldrabalken. Innan en ledamot börjar tjänstgöra i domstolen, ska han eller hon ha avlagt domared.
+
+I lagen (2010:1390) om utnämning av ordinarie domare finns be- stämmelser om utnämning av ordförande i domstolen. Vice ordförande och särskilda ledamöter förordnas av regeringen för högst fyra år i sänder. *Lag (2026:958)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+## Underrättelsedomstolens sammansättning
+
+### 2 §
+
+*/Träder i kraft I:2027-01-01/* Underrättelsedomstolen består av en ordförande, en eller högst två vice ordförande samt minst två och högst åtta särskilda ledamöter.
+
+Ledamöterna ska vara svenska medborgare och får inte vara underåriga eller i konkurstillstånd eller ha förvaltare enligt 11 kap. 7 § föräldrabalken. Innan en ledamot börjar tjänstgöra i domstolen, ska han eller hon ha avlagt domared.
+
+I lagen (2010:1390) om utnämning av ordinarie domare finns bestämmelser om utnämning av ordförande i domstolen. Vice ordförande och särskilda ledamöter förordnas av regeringen för högst fyra år i sänder. *Lag (2026:1581)*.
+
+### 3 §
+
+Ordföranden och vice ordförandena ska vara lagfarna och ha erfarenhet av tjänstgöring som domare. Övriga ledamöter ska ha särskild kunskap om förhållanden av betydelse för domstolens verksamhet.
+
+### 4 §
+
+Är ordföranden förhindrad att tjänstgöra, inträder en vice ordförande i ordförandens ställe.
+
+## Integritetsskyddsombud
+
+### 5 §
+
+Ett integritetsskyddsombud ska bevaka enskildas integritetsintresse i mål vid domstolen. Ombudet har rätt att ta del av det som förekommer i målet och att yttra sig.
+
+### 6 §
+
+Regeringen förordnar för högst fyra år i sänder personer som kan tjänstgöra som integritetsskyddsombud.
+
+Ett integritetsskyddsombud ska vara svensk medborgare och ska vara eller ha varit advokat eller ha varit ordinarie domare. Ett integritetsskyddsombud får inte vara i konkurstillstånd eller ha förvaltare enligt 11 kap. 7 § föräldrabalken.
+
+Regeringen ska inhämta förslag på lämpliga kandidater från Sveriges advokatsamfund och Domarnämnden. *Lag (2026:958)*.
+
+### 7 §
+
+I fråga om ersättning till integritetsskyddsombud tillämpas 21 kap. 10 § första och andra styckena rättegångsbalken.
+
+### 8 §
+
+Den som förordnats som integritetsskyddsombud i ett mål får inte obehörigen röja vad han eller hon har fått kännedom om i målet.
+
+## Domförhet
+
+### 9 §
+
+*/Upphör att gälla U:2027-01-01/* Försvarsunderrättelsedomstolen är domför med ordförande och två särskilda ledamöter. Fler än tre ledamöter får inte delta i ett avgörande.
+
+### 9 §
+
+*/Träder i kraft I:2027-01-01/* Underrättelsedomstolen är domför med ordförande och två särskilda ledamöter. Fler än tre ledamöter får inte delta i ett avgörande. *Lag (2026:1581)*.
+
+### 10 §
+
+*/Upphör att gälla U:2027-01-01/* Ordföranden får ensam på Försvarsunderrättelsedomstolens vägnar
+
+1. vidta förberedande åtgärder och besluta om avskrivning,
+
+2. pröva frågor enligt 5 a § tredje stycket lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet om tillstånd i pågående och tillståndsprövade inhämtningsuppdrag, om prövningen är av enkel beskaffenhet och endast avser tillgång till signalbärare eller användning av sökbegrepp som inte är direkt hänförliga till en viss fysisk person, och
+
+3. fatta beslut om ersättning till integritetsskyddsombud.
+
+Ordföranden får förordna en lagfaren tjänsteman vid domstolen att ensam på domstolens vägnar vidta förberedande åtgärder.
+
+*Lag (2026:958)*.
+
+### 10 §
+
+*/Träder i kraft I:2027-01-01/* Ordföranden får ensam på Underrättelsedomstolens vägnar
+
+1. vidta förberedande åtgärder och besluta om avskrivning,
+
+2. pröva frågor enligt 5 a § tredje stycket lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet om tillstånd i pågående och tillståndsprövade inhämtningsuppdrag, om prövningen är av enkel beskaffenhet och endast avser tillgång till signalbärare eller användning av sökbegrepp som inte är direkt hänförliga till en viss fysisk person, och
+
+3. fatta beslut om ersättning till integritetsskyddsombud.
+
+Ordföranden får förordna en lagfaren tjänsteman vid domstolen att ensam på domstolens vägnar vidta förberedande åtgärder.
+
+*Lag (2026:1581)*.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+## Handläggningen i Försvarsunderrättelsedomstolen
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+## Handläggningen i Underrättelsedomstolen
+
+### 11 §
+
+Om inte annat följer av denna lag gäller 3-5, 8, 14, 16-26, 29-32 och 38-53 §§ förvaltningsprocesslagen (1971:291) i tillämpliga delar vid förfarandet i domstolen.
+
+### 12 §
+
+När en ansökan om tillstånd till signalspaning har kommit in till domstolen, ska domstolen så snart som möjligt hålla ett sammanträde. Vid sammanträdet ska ansökande myndighet och det integritetsskyddsombud som domstolen utser närvara. Domstolen får besluta att någon annan som kan lämna upplysningar av betydelse för prövningen får närvara vid sammanträdet.
+
+Om ärendet är så brådskande att ett dröjsmål allvarligt skulle riskera syftet med ansökan, får sammanträde hållas och beslut fattas utan att ett integritetsskyddsombud har varit närvarande eller annars fått tillfälle att yttra sig.
+
+När ett beslut enligt andra stycket har fattats ska ett integritetsskyddsombud underrättas. När ett beslut enligt 10 § första stycket 2 har fattats av ordföranden på domstolens vägnar ska det integritetsskyddsombud som varit närvarande vid prövningen av det inhämtningsuppdrag som beslutet är hänförligt till underrättas. Om det integritetsskyddsombudets förordnande har upphört får ett annat integritetsskyddsombud underrättas. *Lag (2026:958)*.
+
+### 13 §
+
+*/Upphör att gälla U:2027-01-01/* Det förfarande som föreskrivs i 12 § ska tillämpas även i fråga om ansökningar om kompletterande tillstånd enligt 5 a § tredje stycket lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet och vid anmälan enligt 5 b § andra stycket samma lag.
+
+### 13 §
+
+*/Träder i kraft I:2027-01-01/* Det förfarande som föreskrivs i 12 § ska tillämpas även i fråga om ansökningar om kompletterande tillstånd enligt 5 a § tredje stycket lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet och vid anmälan enligt 5 b § andra stycket samma lag. *Lag (2026:1581)*.
+
+### 14 §
+
+Utöver vad som följer av 16 § förvaltningsprocesslagen (1971:291) om möjlighet för rätten att förordna om begränsningar av offentligheten vid muntlig förhandling, får rättens ordförande innan en förhandling inleds förordna att förhandlingen ska hållas inom stängda dörrar, om det står klart att en uppgift för vilken det hos domstolen gäller sådan sekretess som avses i offentlighets- och sekretesslagen (2009:400) kommer att uppenbaras om förhandlingen är offentlig.
+
+### 15 §
+
+I fråga om omröstning gäller 16 kap. rättegångsbalken i tillämpliga delar.
+
+### 16 §
+
+*/Upphör att gälla U:2027-01-01/* Att Försvarsunderrättelsedomstolens beslut i frågor som rör signalspaning inte får överklagas framgår av 13 § lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet. Inte heller domstolens beslut i övrigt enligt denna lag får överklagas.
+
+### 16 §
+
+*/Träder i kraft I:2027-01-01/* Att Underrättelsedomstolens beslut i frågor som rör signalspaning inte får överklagas framgår av 13 § lagen (2008:717) om signalspaning i utrikesunderrättelseverksamhet. Inte heller domstolens beslut i övrigt enligt denna lag får överklagas. *Lag (2026:1581)*.

@@ -1,0 +1,115 @@
+---
+title: "Internrevisionsförordning (2006:1228)"
+identifier: "SFS 2006:1228"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2006-11-23
+amended_through: "SFS 2025:1208"
+department: "Finansdepartementet BA ToT"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2006-1228.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2006:1228"
+retrieved: 2026-10-11
+---
+# Internrevisionsförordning (2006:1228)
+
+### Tillämpningsområde
+
+#### 1 §
+
+Denna förordning gäller för förvaltningsmyndigheter under regeringen i den omfattning som regeringen föreskriver i myndighetens instruktion eller i någon annan förordning eller beslutar särskilt.
+
+### Organisering
+
+#### 2 §
+
+Vid myndigheten skall det finnas en internrevision.
+
+Internrevisionen skall ledas av en chef som skall vara anställd i myndigheten.
+
+#### 2 a §
+
+Statens ansvarsnämnd beslutar i frågor om disciplinansvar, åtalsanmälan, avstängning och avskedande, när det gäller chefen för internrevisionen. *Förordning (2025:1033)*.
+
+### Uppgifter
+
+### Allmänna uppgifter
+
+#### 3 §
+
+Internrevisionen ska granska och lämna förslag till förbättringar av myndighetens process för intern styrning och kontroll. *Förordning (2007:1283)*.
+
+### Granskningens inriktning
+
+#### 4 §
+
+Internrevisionen ska utifrån en analys av verksamhetens risker självständigt granska om ledningens interna styrning och kontroll är utformad så att myndigheten med rimlig säkerhet fullgör sina uppgifter, uppnår verksamhetens mål och uppfyller kraven i 3 § myndighetsförordningen (2007:515). *Förordning (2018:1344)*.
+
+### Råd och stöd
+
+#### 5 §
+
+Internrevisionen skall ge råd och stöd till styrelsen och chefen för myndigheten.
+
+### Omfattning
+
+#### 6 §
+
+Internrevisionen skall omfatta den verksamhet som myndigheten bedriver eller ansvarar för.
+
+### Bedrivande
+
+#### 7 §
+
+Internrevision skall bedrivas enligt såväl god internrevisionssed som god internrevisorssed.
+
+### Samordning
+
+#### 8 §
+
+En myndighet får samordna sin internrevision med en annan myndighet.
+
+### Rapportering
+
+#### 9 §
+
+Resultatet av internrevisionens granskning skall redovisas i form av iakttagelser och rekommendationer. Dessa skall rapporteras till styrelsen.
+
+### Internrevisionens uppdragsgivare
+
+#### 10 §
+
+Myndighetens styrelse skall besluta om
+
+1. riktlinjer för internrevisionen,
+
+2. revisionsplan för internrevisionen, och
+
+3. åtgärder med anledning av internrevisionens iakttagelser och rekommendationer.
+
+### Tillgång till uppgifter
+
+#### 11 §
+
+Styrelsen skall, i den utsträckning det inte möter hinder på grund av bestämmelse om sekretess, se till att internrevisionen får tillgång till de uppgifter och upplysningar som den behöver för att fullgöra sitt uppdrag.
+
+### Övriga bestämmelser
+
+#### 12 §
+
+Om myndigheten saknar styrelse, skall det som anges i 9-11 §§ om styrelsen i stället gälla chefen för myndigheten.
+
+### Tillämpningsföreskrifter
+
+#### 13 §
+
+Statskontoret får meddela de föreskrifter som behövs för tillämpningen av denna förordning. *Förordning (2025:1208)*.
+
+## Övergångsbestämmelser
+
+**2009:1321**
+
+1. Denna förordning träder i kraft den 1 januari 2010.
+
+2. För ärenden som har påbörjats före ikraftträdandet ska äldre bestämmelser gälla.

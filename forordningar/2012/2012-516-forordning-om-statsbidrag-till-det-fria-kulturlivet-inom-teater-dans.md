@@ -1,0 +1,249 @@
+---
+title: "Förordning (2012:516) om statsbidrag till det fria kulturlivet inom teater-, dans- och musikområdet"
+identifier: "SFS 2012:516"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2012-06-28
+amended_through: "SFS 2026:1714"
+department: "Kulturdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2012-516.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2012:516"
+retrieved: 2026-10-11
+---
+# Förordning (2012:516) om statsbidrag till det fria kulturlivet inom teater-, dans- och musikområdet
+
+*/Rubriken upphör att gälla U:2027-01-01/* Inledande bestämmelse
+
+#### 1 §
+
+*/Upphör att gälla U:2027-01-01/* Denna förordning innehåller föreskrifter om statsbidrag till det fria kulturlivet inom teater-, dans- och musikområdet.
+
+Statsbidrag enligt förordningen lämnas i mån av tillgång på medel.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Inledande bestämmelser
+
+#### 1 §
+
+*/Träder i kraft I:2027-01-01/* Denna förordning innehåller bestämmelser om statsbidrag till det fria kulturlivet inom teater-, dans- och musikområdet.
+
+Statsbidrag lämnas om det finns medel.
+
+Förordningen är meddelad med stöd av 8 kap. 7 § regeringsformen. *Förordning (2026:1714)*.
+
+#### 1 a §
+
+Statsbidrag enligt denna förordning får endast lämnas i enlighet med de villkor som anges i kapitel I och artikel 53 i kommissionens förordning (EU) nr 651/2014 av den 17 juni 2014 genom vilken vissa kategorier av stöd förklaras förenliga med den inre marknaden enligt artiklarna 107 och 108 i fördraget.
+
+*Förordning (2021:1318)*.
+
+### Ändamålet med statsbidraget
+
+#### 2 §
+
+Ändamålet med statsbidraget är att främja mångfald, kvalitet och förnyelse samt annan kulturpolitiskt värdefull utveckling inom det fria kulturlivet.
+
+### Förutsättningar för statsbidrag
+
+#### 3 §
+
+Statsbidrag enligt denna förordning får lämnas till en
+
+1. aktör som är verksam i Sverige inom teater, dans och musik eller annan scenkonstrelaterad verksamhet,
+
+2. fonogramproducent som är verksam i Sverige,
+
+3. fonogramproducent som är verksam i ett annat nordiskt land och som ger ut samisk musik,
+
+4. aktör enligt 1 samt lokala och regionala teater-, dans- och musikinstitutioner för samverkan med komponister, och
+
+5. fonogramproducent eller annan aktör verksam i Sverige som deltar i internationell eller interkulturell kulturverksamhet.
+
+Med internationell kulturverksamhet avses verksamhet som berör Sverige och minst ett annat land. Med interkulturell kulturverksamhet avses verksamhet som främjar etnisk och kulturell mångfald i Sverige.
+
+#### 4 §
+
+Statsbidrag får lämnas till verksamhet av professionell art i form av verksamhetsbidrag eller projektbidrag.
+
+#### 5 §
+
+Statsbidrag får lämnas endast till juridiska personer och enskilda näringsidkare.
+
+#### 6 §
+
+Statsbidrag får lämnas endast till verksamhet som har även annan finansiering. Vid fördelning av statsbidrag ska hänsyn tas till om verksamheten redan beviljats annat statligt stöd.
+
+#### 7 §
+
+*/Upphör att gälla U:2027-01-01/* Statsbidrag får inte lämnas till den som har skulder för svenska skatter eller avgifter hos Kronofogdemyndigheten eller som är i likvidation eller konkurs.
+
+#### 7 §
+
+*/Träder i kraft I:2027-01-01/* Statsbidrag får inte lämnas till den som
+
+1. är i likvidation eller försatt i konkurs,
+
+2. har skatte- eller avgiftsskulder eller andra skulder som har överlämnats till Kronofogdemyndigheten och som vid indrivning handläggs i allmänt mål, eller
+
+3. har en skuld som inte betalats i rätt tid och som avser återkrav av bidrag som har lämnats av Statens kulturråd.
+
+*Förordning (2026:1714)*.
+
+#### 7 a §
+
+Om uppgifter om ett stöd till ett företag ska offentliggöras enligt artikel 9 i kommissionens förordning (EU) nr 651/2014, får stödet endast beviljas om företaget samtycker till offentliggörandet. *Förordning (2021:1318)*.
+
+### Ärendenas handläggning
+
+#### 8 §
+
+Statens kulturråd prövar frågor om statsbidrag enligt denna förordning.
+
+#### 9 §
+
+*/Upphör att gälla U:2027-01-01/* En ansökan om statsbidrag ska vara skriftlig och ges in till Statens kulturråd.
+
+#### 9 §
+
+*/Träder i kraft I:2027-01-01/* En ansökan om statsbidrag ska göras skriftligen av sökanden eller en behörig företrädare för sökanden.
+
+Den som ansöker om statsbidrag ska på begäran av Statens kulturråd lämna de uppgifter och handlingar som myndigheten behöver för att kunna pröva ansökan. *Förordning (2026:1714)*.
+
+#### 10 §
+
+*/Upphör att gälla U:2027-01-01/* Ett beslut om statsbidrag får förenas med villkor. Dessa ska framgå av beslutet. I beslutet ska även sista dag för redovisning enligt 11 § anges.
+
+#### 10 §
+
+*/Träder i kraft I:2027-01-01/* Ett beslut om statsbidrag får förenas med villkor. Villkoren ska framgå av beslutet. *Förordning (2026:1714)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Anmälningsskyldighet
+
+#### 10 a §
+
+*/Träder i kraft I:2027-01-01/* Den som ansöker om eller har beviljats bidrag enligt denna förordning ska snarast möjligt till Statens kulturråd anmäla sådana ändrade förhållanden som kan påverka rätten till eller storleken på bidraget. *Förordning (2026:1714)*.
+
+### Redovisning
+
+#### 11 §
+
+*/Upphör att gälla U:2027-01-01/* Den som har beviljats statsbidrag enligt denna förordning ska till Statens kulturråd redovisa hur medlen har använts och vilka resultat som har uppnåtts.
+
+#### 11 §
+
+*/Träder i kraft I:2027-01-01/* En bidragsmottagare ska senast vid den tidpunkt som anges i beslutet till Statens kulturråd lämna en ekonomisk redovisning av det mottagna bidraget samt en redogörelse för vad bidraget har använts till, vilka resultat som har uppnåtts och hur resultaten förhåller sig till det ändamål som bidraget beviljats för.
+
+Bidragsmottagaren ska även lämna de övriga uppgifter och handlingar som myndigheten begär för granskningen av redovisningen. *Förordning (2026:1714)*.
+
+*/Rubriken upphör att gälla U:2027-01-01/*
+
+### Hinder mot utbetalning
+
+11 a § /Ny beteckning 11 b § U:2027-01-01/ Statsbidrag får inte betalas ut till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarar ett stöd beviljat av en svensk stödgivare olagligt och oförenligt med den inre marknaden. *Förordning (2021:1318)*.
+
+#### 11 a §
+
+*/Träder i kraft I:2027-01-01/* Statens kulturråd får i beslutet om statsbidrag föreskriva att en revisor ska granska den ekonomiska redovisningen enligt 11 §. Revisorns rapport över granskningen ska bifogas redovisningen.
+
+Om det bidrag som har tagits emot uppgår till minst 5 prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, ska alltid en auktoriserad eller godkänd revisor granska redovisningen. *Förordning (2026:1714)*.
+
+*/Rubriken träder i kraft I:2027-01-01/*
+
+### Hinder mot utbetalning
+
+#### 11 b §
+
+*/Träder i kraft I:2027-01-01/* Statsbidrag får inte betalas ut till ett företag som är föremål för betalningskrav på grund av ett beslut av Europeiska kommissionen som förklarar ett stöd beviljat av en svensk stödgivare olagligt och oförenligt med den inre marknaden. *Förordning (2026:1714)*.
+
+#### 12 §
+
+*/Upphör att gälla U:2027-01-01/* Statens kulturråd får besluta att ett beviljat statsbidrag tills vidare inte ska betalas ut, om det kan antas att bidraget har beviljats på grund av felaktiga uppgifter.
+
+#### 12 §
+
+*/Träder i kraft I:2027-01-01/* Statens kulturråd ska besluta om att ett beviljat bidrag helt eller delvis inte ska betalas ut om mottagaren av bidraget inte längre uppfyller villkoren för det eller om det finns grund för återbetalning enligt 13 §. Ett sådant beslut gäller omedelbart. *Förordning (2026:1714)*.
+
+### Återbetalning och återkrav
+
+#### 13 §
+
+*/Upphör att gälla U:2027-01-01/* Mottagaren av ett statsbidrag enligt denna förordning är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget inte använts för det ändamål som det har beviljats för,
+
+4. den som har tagit emot bidraget inte lämnar sådan redovisning som avses i 11 §, eller
+
+5. villkor i beslutet om bidrag inte har följts.
+
+#### 13 §
+
+*/Träder i kraft I:2027-01-01/* Mottagaren av ett statsbidrag enligt denna förordning är återbetalningsskyldig om
+
+1. mottagaren genom att lämna oriktiga uppgifter eller på något annat sätt har förorsakat att bidraget har lämnats felaktigt eller med för högt belopp,
+
+2. bidraget av något annat skäl än vad som sägs i 1 har lämnats felaktigt eller med för högt belopp och mottagaren borde ha insett detta,
+
+3. bidraget inte har utnyttjats eller använts för det ändamål som det har beviljats för,
+
+4. mottagaren inte lämnar en sådan redovisning eller sådana uppgifter och handlingar som avses i 11 §, eller
+
+5. mottagaren inte har följt de villkor som framgår av beslutet om bidrag. *Förordning (2026:1714)*.
+
+#### 14 §
+
+Om någon är återbetalningsskyldig enligt 13 §, ska Statens kulturråd besluta att helt eller delvis kräva tillbaka statsbidraget.
+
+#### 15 §
+
+Om ett belopp som har återkrävts med stöd av 14 § inte betalas i rätt tid, ska dröjsmålsränta enligt räntelagen (1975:635) tas ut på beloppet.
+
+#### 16 §
+
+Om det finns särskilda skäl, får Statens kulturråd helt eller delvis efterge ett krav på återbetalning enligt 14 § eller ett krav på ränta enligt 15 §.
+
+### Offentliggörande, rapportering och registerföring
+
+#### 16 a §
+
+I 12 a § lagen (2013:388) om tillämpning av Europeiska unionens statsstödsregler och i förordningen (2016:605) om tillämpning av Europeiska unionens statsstödsregler finns bestämmelser om offentliggörande, rapportering och registerföring. *Förordning (2021:1318)*.
+
+### Bemyndigande
+
+#### 17 §
+
+Statens kulturråd får meddela föreskrifter om verkställigheten av denna förordning.
+
+### Överklagande
+
+#### 18 §
+
+*/Upphör att gälla U:2027-01-01/* I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut enligt 11 a och 12 §§ får dock inte överklagas.
+
+*Förordning (2021:1318)*.
+
+#### 18 §
+
+*/Träder i kraft I:2027-01-01/* I 40 § förvaltningslagen (2017:900) finns bestämmelser om överklagande till allmän förvaltningsdomstol. Andra beslut än beslut om hinder mot utbetalning enligt 11 b och 12 §§ och beslut om återkrav enligt 14 § får dock inte överklagas. *Förordning (2026:1714)*.
+
+## Övergångsbestämmelser
+
+**2012:516**
+
+1. Denna förordning träder i kraft den 1 januari 2013, då förordningen (1974:452) om statsbidrag till teater-, dans- och musikverksamhet i mindre ensembler och fria grupper och förordningen (1982:505) om statsbidrag för framställning och utgivning av fonogram ska upphöra att gälla.
+
+2. De upphävda förordningarna gäller dock fortfarande för statsbidrag som har beviljats före den 1 januari 2013.
+
+**2026:1714**
+
+1. Denna förordning träder i kraft den 1 januari 2027.
+
+2. Äldre bestämmelser gäller fortfarande för statsbidrag som har beviljats före ikraftträdandet.

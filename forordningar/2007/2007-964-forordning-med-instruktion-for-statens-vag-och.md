@@ -1,0 +1,97 @@
+---
+title: "Förordning (2007:964) med instruktion för Statens väg- och transportforskningsinstitut"
+identifier: "SFS 2007:964"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2016:1263"
+department: "Landsbygds- och infrastrukturdepartementet RSIB US"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-964.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:964"
+retrieved: 2026-10-11
+---
+# Förordning (2007:964) med instruktion för Statens väg- och transportforskningsinstitut
+
+## Uppgifter
+
+### 1 §
+
+Statens väg- och transportforskningsinstitut har till huvuduppgift att bedriva forskning och utveckling som avser infrastruktur, trafik och transporter. Institutet ska verka för att de transportpolitiska målen uppnås genom att bidra till att kunskapen om transportsektorn kontinuerligt förbättras.
+
+I institutets uppgifter ingår att
+
+1. bedriva samhällsmotiverad tillämpad forskning,
+
+2. tillhandahålla tvärvetenskapliga forskningsmiljöer,
+
+3. samverka med universitet och högskolor som bedriver näraliggande forskning och utbildning.
+
+Institutet får medverka i internationellt samarbete på områden som hör till dess uppgifter.
+
+*Förordning (2011:554)*.
+
+### 2 §
+
+Institutet utför forsknings- och utvecklingsarbete åt myndigheter och andra uppdragsgivare. Institutet får ta ut avgifter för uppdragen, besluta om avgifternas storlek och disponera inkomsterna.
+
+Institutet får mot avgift bedriva tjänsteexport som är direkt kopplad till myndighetens verksamhetsområde och som ligger inom ramen för det uppdrag som anges i denna instruktion eller i annan förordning. Institutet får besluta om avgifternas storlek och disponera inkomsterna. *Förordning (2012:13)*.
+
+## Ledning
+
+### 3 §
+
+Institutet leds av en styrelse.
+
+### 4 §
+
+Styrelsen ska bestå av högst nio personer.
+
+## Anställningar och uppdrag
+
+### 5 §
+
+Generaldirektören är myndighetschef.
+
+### 6 §
+
+Institutet får anställa forskare som professorer inom områdena för institutets verksamhet.
+
+Beslut om sådana anställningar fattas av styrelsen. *Förordning (2016:1263)*.
+
+### 7 §
+
+Behörig att anställas som professor är den som har vetenskaplig skicklighet. I fråga om bedömningsgrunder vid anställning som professor gäller 4 kap. 3 § högskoleförordningen (1993:100) i tillämpliga delar.
+
+*Förordning (2010:1358)*.
+
+### 8 §
+
+Har upphävts genom *förordning (2010:1358)*.
+
+### 9 §
+
+Vid anställning av en professor ska styrelsen hämta in yttrande från minst tre personer som är särskilt förtrogna med anställningens ämnesområde. Högst en av dessa får vara anställd vid institutet. Både män och kvinnor ska vara representerade, om inte synnerliga skäl talar emot det.
+
+Institutets forskningschefskollegium ska få tillfälle att yttra sig i ärendet.
+
+Var och en av de personer som avses i första stycket ska lämna ett skriftligt yttrande till styrelsen. Yttrandet ska innehålla en redogörelse för skickligheten hos de sökande som främst bör komma i fråga för anställning, ordningen mellan dem samt en motivering av valet. De sökande ska få tillfälle att yttra sig över de sakkunnigas yttranden.
+
+## Personalansvarsnämnd
+
+### 10 §
+
+Vid institutet ska det finnas en personalansvarsnämnd.
+
+## Tillämpligheten av viss förordning
+
+### 11 §
+
+Institutet ska tillämpa personalföreträdarförordningen (1987:1101).
+
+## Undantag från myndighetsförordningen
+
+### 12 §
+
+Institutet ska inte tillämpa 29 § om ärendeförteckning i myndighetsförordningen (2007:515).

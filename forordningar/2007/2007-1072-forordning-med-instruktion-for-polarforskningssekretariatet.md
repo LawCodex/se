@@ -1,0 +1,99 @@
+---
+title: "Förordning (2007:1072) med instruktion för Polarforskningssekretariatet"
+identifier: "SFS 2007:1072"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2026:369"
+department: "Utbildningsdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-1072.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:1072"
+retrieved: 2026-10-11
+---
+# Förordning (2007:1072) med instruktion för Polarforskningssekretariatet
+
+## Uppgifter
+
+### 1 §
+
+Polarforskningssekretariatet har till uppgift att främja förutsättningarna för och samordna svensk forskning och utveckling i polarområdena. Myndigheten ska när det gäller polarområdena
+
+1. bedriva långsiktig planering för forskning och utveckling,
+
+2. organisera och genomföra forskningsexpeditioner,
+
+3. fortlöpande följa nationell och internationell forskning och utveckling,
+
+4. främja ökad förståelse och förbättrat skydd för miljön,
+
+5. ansvara för infrastruktur för forskning,
+
+6. följa, främja och bistå med nödvändig expertis vid internationella förhandlingar, internationellt samarbete och samarbete inom Europeiska unionen,
+
+7. verka för att data från svensk forskning och relaterad verksamhet bevaras och tillhandahålls,
+
+8. främja jämställdhet mellan kvinnor och män inom forskning, och
+
+9. ansvara för kommunikation om expeditionsverksamhet och forskning.
+
+Myndigheten fullgör också uppgifter enligt lagen (2006:924) om Antarktis och förordningen (2006:1111) om Antarktis.
+
+Myndigheten ska i sin verksamhet beakta Sveriges utrikes-, säkerhets- och försvarspolitiska intressen.
+
+*Förordning (2025:726)*.
+
+## Samverkan
+
+### 2 §
+
+Myndigheten ska samverka med myndigheter och andra organ vars verksamhet har anknytning till forskning i polarområdena.
+
+Myndigheten ska vid planering av forskning i polarområdena samverka med Vetenskapsrådet och andra forskningsfinansiärer.
+
+Myndigheten ska i frågor med teknisk och industriell inriktning samverka med organisationer och företag som har kompetens och verksamhet i extremt klimat. *Förordning (2010:360)*.
+
+## Ledning
+
+### 3 §
+
+Myndigheten leds av en myndighetschef.
+
+### 4 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst sju ledamöter.
+
+## Anställningar och uppdrag
+
+### 5 §
+
+Direktören är myndighetschef. *Förordning (2017:1271)*.
+
+## Avgifter
+
+### 5 a §
+
+Myndigheten får ta ut avgifter för
+
+1. polarforskningsexpeditioner,
+
+2. drift av matsal, boendet för personal, studenter, gästforskare och
+
+andra användare vid Abisko naturvetenskapliga station, och
+
+3. drift av matsal, boendet för studenter, gästforskare och andra
+
+användare, lokalhyror samt användning av forskningsinfrastruktur, teknisk infrastruktur och utrustning vid Kristineberg marina forskningsstation.
+
+Myndigheten ska ta ut avgifter med full kostnadstäckning för polarforskningsexpeditioner och upp till full kostnadstäckning för drift av matsal, boendet för personal, studenter, gästforskare och andra användare vid Abisko naturvetenskapliga station. Myndigheten får även ta ut avgifter upp till full kostnadstäckning för drift av matsal, boendet för studenter, gästforskare och andra användare, lokalhyror samt användning av forskningsinfrastruktur, teknisk infrastruktur och utrustning vid Kristineberg marina forskningsstation. Myndigheten får disponera intäkterna i verksamheten.
+
+*Förordning (2026:369)*.
+
+## Undantag från myndighetsförordningen
+
+### 6 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+27 § om myndighetens rätt att företräda staten vid domstol.

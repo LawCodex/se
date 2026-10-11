@@ -1,0 +1,42 @@
+---
+title: "Förordning (2025:608) om insamling och delning av försäkringsinformation för vissa utländska fartyg"
+identifier: "SFS 2025:608"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2025-05-28
+department: "Justitiedepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2025-608.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2025:608"
+retrieved: 2026-10-11
+---
+# Förordning (2025:608) om insamling och delning av försäkringsinformation för vissa utländska fartyg
+
+## 1 §
+
+Syftet med denna förordning är att främja sjösäkerheten och skyddet för miljön genom att, tillsammans med andra stater, samla in och dela information om försäkringsförhållanden för vissa fartyg.
+
+## 2 §
+
+När ett utländskt fartyg passerar svenskt sjöterritorium eller Sveriges ekonomiska zon, får Sjöfartsverket och Kustbevakningen, inom sina respektive ansvarsområden, begära de upplysningar och handlingar som behövs för att bedöma om fartyget har sådana försäkringar eller betryggande säkerheter som avses i 7 kap. 2 § andra stycket, 10 kap. 13 §, 10 a kap. 12 § och 11 a kap. 21 § sjölagen (1994:1009) eller motsvarande regler i en annan stat. Det finns ingen skyldighet att lämna de upplysningar eller tillhandahålla de handlingar som Sjöfartsverket eller Kustbevakningen begär.
+
+Sjöfartsverket ska även ta emot sådan information som avses i första stycket från Kustbevakningen, utländska myndigheter och mellanfolkliga organisationer.
+
+## 3 §
+
+Sjöfartsverket ska ansvara för att dokumentera den information som samlas in eller tas emot.
+
+## 4 §
+
+Sjöfartsverket och Kustbevakningen ska samverka för att fullgöra sina uppgifter enligt denna förordning. Sjöfartsverket och Kustbevakningen får också samverka med Transportstyrelsen, med utländska myndigheter och med mellanfolkliga organisationer.
+
+## 5 §
+
+Kustbevakningen ska lämna uppgifter om försäkringsförhållanden som samlats in enligt denna förordning till Transportstyrelsen och Sjöfartsverket, om det behövs för att stärka sjösäkerheten och skyddet för miljön.
+
+Sjöfartsverket ska lämna uppgifter om försäkringsförhållanden som samlats in eller tagits emot enligt denna förordning till Transportstyrelsen och Kustbevakningen, om det behövs för att stärka sjösäkerheten och skyddet för miljön.
+
+## 6 §
+
+Sjöfartsverket och Kustbevakningen får lämna uppgifter om sådana försäkringsförhållanden som samlats in eller tagits emot enligt denna förordning till en utländsk myndighet eller mellanfolklig organisation, om det bedöms stärka sjösäkerheten och skyddet för miljön.

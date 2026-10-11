@@ -1,0 +1,45 @@
+---
+title: "Lag (2008:584) om gruppundantag för vertikala konkurrensbegränsande avtal inom motorfordonssektorn"
+identifier: "SFS 2008:584"
+type: act
+jurisdiction: se
+language: sv
+date: 2008-06-18
+amended_through: "SFS 2010:1354"
+department: "Klimat- och näringslivsdepartementet RSN"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-584.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:584"
+retrieved: 2026-10-11
+---
+# Lag (2008:584) om gruppundantag för vertikala konkurrensbegränsande avtal inom motorfordonssektorn
+
+### 1 §
+
+Denna lag tillämpas på vertikala avtal, om de avser de villkor enligt vilka parterna kan köpa, sälja eller återförsälja reservdelar till motorfordon eller tillhandahålla reparations- och underhållstjänster för motorfordon.
+
+Bestämmelsen i 1 kap. 6 § konkurrenslagen (2008:579) ska även tillämpas på avtal enligt denna lag.
+
+*Lag (2010:1354)*.
+
+### 2 §
+
+Under de villkor som följer av 3 § gäller för sådana avtal som avses i 1 § vilka innehåller konkurrensbegränsningar (vertikala begränsningar) och som omfattas av 2 kap. 1 § konkurrenslagen (2008:579) undantag från förbudet i samma paragraf mot sådana avtal. Undantag gäller dock endast för sådana grupper av avtal som uppfyller förutsättningarna för undantag i 2 kap. 2 § konkurrenslagen.
+
+Av 2 kap. 3 § konkurrenslagen följer att Konkurrensverket kan besluta att ett enskilt avtal, som till följd av ett gruppundantag enligt denna lag är undantaget från förbudet i 2 kap. 1 § samma lag, inte ska omfattas av undantaget om avtalet har följder som är oförenliga med 2 kap. 2 § konkurrenslagen.
+
+### 3 §
+
+I fråga om avtalen tillämpas bestämmelserna i kommissionens förordning (EU) nr 461/2010 av den 27 maj 2010 om tillämpningen av artikel 101.3 i fördraget om Europeiska unionens funktionssätt på grupper av vertikala avtal och samordnade förfaranden inom motorfordonssektorn på motsvarande sätt, med undantag av artiklarna 2-4 och 6-8. Dock ska hänvisningar till undantaget avse 2 § i förening med 1 §.
+
+För avtalen gäller att kraven för undantag enligt lagen (2008:581) om gruppundantag för vertikala konkurrensbegränsande avtal ska vara uppfyllda.
+
+*Lag (2010:1354)*.
+
+## Övergångsbestämmelser
+
+**2010:1354**
+
+1. Denna lag träder i kraft den 1 januari 2011.
+
+2. Äldre föreskrifter gäller till utgången av maj 2013 för vertikala avtal, om de avser villkoren för parternas inköp, försäljning eller återförsäljning av nya motorfordon.

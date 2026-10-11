@@ -1,0 +1,85 @@
+---
+title: "Förordning (2009:929) om handel med vissa receptfria läkemedel"
+identifier: "SFS 2009:929"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2009-09-17
+amended_through: "SFS 2024:993"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2009-929.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2009:929"
+retrieved: 2026-10-11
+---
+# Förordning (2009:929) om handel med vissa receptfria läkemedel
+
+## Inledande bestämmelser
+
+### 1 §
+
+I denna förordning finns föreskrifter som ansluter till lagen (2009:730) om handel med vissa receptfria läkemedel. De termer och uttryck som används i lagen har samma betydelse i denna förordning. *Förordning (2015:463)*.
+
+## Läkemedelsverkets beslut
+
+### 2 §
+
+Läkemedelsverket ska inom 60 dagar från det att ett läkemedel har klassificerats som receptfritt besluta om huruvida läkemedlet ska få säljas på andra försäljningsställen än öppenvårdsapotek.
+
+## Läkemedelsverkets underrättelse till kommunerna
+
+### 3 §
+
+Läkemedelsverket ska underrätta de kommuner där detaljhandeln bedrivs om en anmälan enligt 9 eller 10 § lagen (2009:730) om handel med vissa receptfria läkemedel.
+
+## Avgift
+
+### 4 §
+
+Den som bedriver detaljhandel enligt lagen (2009:730) om handel med vissa receptfria läkemedel ska till Läkemedelsverket betala en årsavgift för verkets tillsyn med 2 700 kronor per försäljningsställe. *Förordning (2024:993)*.
+
+## Uppgiftslämnande
+
+### 5 §
+
+För att E-hälsomyndigheten ska kunna föra statistik enligt 16 § 4 lagen (2009:730) om handel med vissa receptfria läkemedel, ska den som bedriver detaljhandel enligt samma lag varje månad lämna uppgifter till myndigheten om de läkemedel som har sålts föregående månad.
+
+Uppgifterna ska innehålla information om
+
+1. läkemedlets namn,
+
+2. läkemedelsform,
+
+3. styrka,
+
+4. förpackningsstorlek,
+
+5. antalet försålda förpackningar,
+
+6. försäljningsdatum, och
+
+7. försäljningspris.
+
+Vid distansförsäljning ska dessutom kundens postnummer anges.
+
+De uppgifter som anges i första stycket ska redovisas per försäljningstransaktion separat för varje försäljningsställe.
+
+Uppgifterna ska vara E-hälsomyndigheten till handa inom sju dagar räknat från den sista dagen i den månad som följer på den månad som redovisningen avser. Uppgifterna ska överföras elektroniskt. *Förordning (2013:1043)*.
+
+## Bemyndiganden
+
+### 6 §
+
+Läkemedelsverket får meddela föreskrifter om
+
+1. egenkontroll enligt 16 § 1 lagen (2009:730) om handel med vissa receptfria läkemedel,
+
+2. lokaler enligt 16 § 2 lagen om handel med vissa receptfria läkemedel,
+
+3. tillhandahållande enligt 16 § 3 lagen om handel med vissa receptfria läkemedel, och
+
+4. utformning och kontroll av den EU-logotyp som avses i 16 a § 2 lagen (2009:730) om handel med vissa receptfria läkemedel. *Förordning (2015:202)*.
+
+### 7 §
+
+Läkemedelsverket får meddela föreskrifter om verkställigheten av lagen (2009:730) om handel med vissa receptfria läkemedel och av denna förordning.

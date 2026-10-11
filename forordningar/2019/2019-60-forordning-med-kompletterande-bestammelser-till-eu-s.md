@@ -1,0 +1,57 @@
+---
+title: "Förordning (2019:60) med kompletterande bestämmelser till EU:s geoblockeringsförordning"
+identifier: "SFS 2019:60"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2019-02-21
+amended_through: "SFS 2020:346"
+department: "Utrikesdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2019-60.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2019:60"
+retrieved: 2026-10-11
+---
+# Förordning (2019:60) med kompletterande bestämmelser till EU:s geoblockeringsförordning
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna förordning kompletterar Europaparlamentets och rådets förordning (EU) 2018/302 av den 28 februari 2018 om åtgärder mot omotiverad geoblockering och andra former av diskriminering på grund av kunders nationalitet, bosättningsort eller etableringsort på den inre marknaden och om ändring av förordningarna (EG) nr 2006/2004 och (EU) 2017/2394 samt direktiv 2009/22/EG, här benämnd EU:s geoblockeringsförordning, och lagen (2019:59) med kompletterande bestämmelser till EU:s geoblockeringsförordning.
+
+## Ansvariga myndigheter
+
+### 2 §
+
+Konsumentverket utövar tillsyn enligt lagen (2019:59) med kompletterande bestämmelser till EU:s geoblockeringsförordning, när det gäller överträdelser som drabbar kunder som är konsumenter. *Förordning (2020:346)*.
+
+### 3 §
+
+Konsumentverket prövar frågor om sanktionsavgifter enligt 13 § lagen (2019:59) med kompletterande bestämmelser till EU:s geoblockeringsförordning, när det gäller överträdelser som drabbar kunder som är konsumenter. *Förordning (2020:346)*.
+
+### 4 §
+
+Konsumentverket ska ge praktiskt stöd till konsumenter i händelse av en tvist mellan en konsument och en näringsidkare enligt artikel 8 i EU:s geoblockeringsförordning. *Förordning (2020:346)*.
+
+## Uppgiftsskyldighet
+
+### 5 §
+
+Kommerskollegium ska informera näringsidkare om bestämmelserna i EU:s geoblockeringsförordning.
+
+*Förordning (2020:346)*.
+
+## Sanktionsavgift
+
+### 6 §
+
+Kommerskollegium ska till Konsumentverket lämna de uppgifter som behövs för att Konsumentverket ska kunna utföra sina uppgifter enligt lagen (2019:59) med kompletterande bestämmelser till EU:s geoblockeringsförordning och denna förordning.
+
+Konsumentverket ska till Kommerskollegium lämna de uppgifter som behövs för att Kommerskollegium ska kunna utföra sina uppgifter enligt lagen med kompletterande bestämmelser till EU:s geoblockeringsförordning och denna förordning.
+
+*Förordning (2020:346)*.
+
+### 7 §
+
+En sanktionsavgift enligt 9 § lagen (2019:59) med kompletterande bestämmelser till EU:s geoblockeringsförordning ska betalas till Kammarkollegiet. *Förordning (2020:346)*.

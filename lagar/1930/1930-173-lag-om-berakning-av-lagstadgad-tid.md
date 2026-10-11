@@ -1,0 +1,71 @@
+---
+title: "Lag (1930:173) om beräkning av lagstadgad tid"
+identifier: "SFS 1930:173"
+type: act
+jurisdiction: se
+language: sv
+date: 1930-05-30
+amended_through: "SFS 2026:1659"
+department: "Justitiedepartementet DÅ"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-1930-173.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=1930:173"
+retrieved: 2026-10-11
+---
+# Lag (1930:173) om beräkning av lagstadgad tid
+
+### 1 §
+
+Då enligt lag eller särskild författning tid skall räknas efter vecka, månad eller år, varde den dag för slutdag ansedd som genom sitt namn i veckan eller sitt tal i månaden motsvarar den, från vilken tidräkningen börjas. Finnes ej motsvarande dag i slutmånaden, varde den månadens sista dag ansedd för slutdag.
+
+### 2 §
+
+*/Upphör att gälla U:den dag som regeringen bestämmer/* Infaller den tid, då enligt lag eller särskild författning en åtgärd senast ska vidtas, på en söndag, annan allmän helgdag, lördag, midsommarafton, julafton eller nyårsafton, får åtgärden vidtas nästa vardag.
+
+Första stycket gäller inte i fråga om
+
+1. de frister för häktningsframställning och häktningsförhandling som anges i 24 kap. 12 och 13 §§, 17 § fjärde stycket och 19 § rättegångsbalken,
+
+2. den frist för sammanträde som anges i 19 § andra stycket lagen (1988:688) om kontaktförbud och som gäller
+
+a) i ärende om kontaktförbud avseende gemensam bostad, och
+
+b) i ärende om förbud enligt 3 kap. 5 § första stycket 2 lagen (2015:642) om europeisk skyddsorder, och
+
+3. den frist för övervakningsnämndens prövning av Kriminalvårdens beslut om tillfälligt omhändertagande som anges i 26 kap. 22 § och 28 kap. 11 § brottsbalken.
+
+*Lag (2022:931)*.
+
+### 2 §
+
+Infaller den tid, då enligt lag eller särskild författning en åtgärd senast ska vidtas, på en söndag, annan allmän helgdag, lördag, midsommarafton, julafton eller nyårsafton, får åtgärden vidtas nästa vardag.
+
+Första stycket gäller inte i fråga om
+
+1. de frister för häktningsframställning och häktningsförhandling som anges i 24 kap. 12 och 13 §§, 17 § fjärde stycket och 19 § rättegångsbalken,
+
+2. den frist för sammanträde som anges i 19 § andra stycket lagen (1988:688) om kontaktförbud och som gäller
+
+a) i ärende om kontaktförbud avseende gemensam bostad, och
+
+b) i ärende om förbud enligt 3 kap. 5 § första stycket 2 lagen (2015:642) om europeisk skyddsorder, och
+
+3. den frist för övervakningsnämndens prövning av Kriminalvårdens beslut om tillfälligt omhändertagande som anges i 26 kap. 22 § och 27 kap. 9 § brottsbalken.
+
+*Lag (2026:1659)*.
+
+## Övergångsbestämmelser
+
+**1930:173**
+
+Denna lag skall träda i kraft den 1 juli 1930.
+
+Genom denna lag upphävas punkt 42 i förklaringen den 23 mars 1807 över allmänna lagens stadganden i åtskilliga rum och vad i vissa ämnen, som därmed äga gemenskap, blivit tid efter annan särskilt förordnat, lagen den 28 maj 1897 (nr 51) om beräkning i vissa fall av tid, som avses i förordningen angående patent och i lagen om skydd för varumärken, lagen den 10 juli 1899 (nr 59 s. 7) om beräkning i vissa fall av tid, som avses i lagen om skydd för vissa mönster och modeller, lagen den 14 juni 1901 (nr 38 s. 47) om beräknande av fatalietid i visst fall, så ock vad i övrigt finnes i lag eller författning stridande mot denna lags bestämmelser.
+
+Där i lag eller särskild författning förekommer hänvisning till lagrum som ersatts genom bestämmelse i nya lagen, skall denna i stället tillämpas.
+
+**2026:1659**
+
+1. Denna lag träder i kraft den dag som regeringen bestämmer.
+
+2. Äldre bestämmelser gäller för frist för övervakningsnämndens prövning av Kriminalvårdens beslut om tillfälligt omhändertagande i fråga om undanröjande av skyddstillsyn.

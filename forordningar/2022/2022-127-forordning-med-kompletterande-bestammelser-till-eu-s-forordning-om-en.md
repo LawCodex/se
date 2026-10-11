@@ -1,0 +1,45 @@
+---
+title: "Förordning (2022:127) med kompletterande bestämmelser till EU:s förordning om en gemensam digital ingång"
+identifier: "SFS 2022:127"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2022-02-24
+amended_through: "SFS 2024:146"
+department: "Finansdepartementet DOF"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2022-127.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2022:127"
+retrieved: 2026-10-11
+---
+# Förordning (2022:127) med kompletterande bestämmelser till EU:s förordning om en gemensam digital ingång
+
+## 1 §
+
+I denna förordning finns bestämmelser som kompletterar lagen (2022:126) med kompletterande bestämmelser till EU:s förordning om en gemensam digital ingång.
+
+Termer och uttryck i förordningen har samma betydelse som i den lagen.
+
+## 2 §
+
+Myndigheten för digital förvaltning är nationell samordnare enligt Europaparlamentets och rådets förordning (EU) 2018/1724 av den 2 oktober 2018 om inrättande av en gemensam digital ingång för tillhandahållande av information, förfaranden samt hjälp- och problemlösningstjänster och om ändring av förordning (EU) nr 1024/2012 (EU-förordningen).
+
+Myndigheten ska
+
+1. samordna de behöriga myndigheterna när de utför sina uppgifter enligt EU-förordningen,
+
+2. ansvara för kontakter med Europeiska kommissionen i alla frågor när det gäller den gemensamma digitala ingången, och
+
+3. ingå i den samordningsgrupp för ingången som har inrättats enligt artikel 29 i EU-förordningen.
+
+## 3 §
+
+Myndigheten för digital förvaltning ska tillhandahålla allmänt åtkomlig information om de behöriga myndigheternas ansvarsområden enligt bilagorna I-III till EU-förordningen.
+
+*Förordning (2024:146)*.
+
+## 4 §
+
+Myndigheten för digital förvaltning får meddela föreskrifter om verkställigheten av 5 § lagen (2022:126) med kompletterande bestämmelser till EU:s förordning om en gemensam digital ingång.
+
+Bilaga Har upphävts genom *förordning (2024:146)*.

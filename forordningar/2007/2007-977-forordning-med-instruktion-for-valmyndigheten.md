@@ -1,0 +1,112 @@
+---
+title: "Förordning (2007:977) med instruktion för Valmyndigheten"
+identifier: "SFS 2007:977"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-11-22
+amended_through: "SFS 2021:230"
+reprinted: "SFS 2016:102"
+department: "Justitiedepartementet D"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-977.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:977"
+retrieved: 2026-10-11
+---
+# Förordning (2007:977) med instruktion för Valmyndigheten
+
+### Uppgifter
+
+#### 1 §
+
+Valmyndigheten ansvarar för frågor om val och landsomfattande folkomröstningar.
+
+#### 2 §
+
+Myndigheten ska
+
+- ansvara centralt för genomförandet av val och folkomröstningar, och
+
+- i övrigt fullgöra de uppgifter som den centrala valmyndigheten har enligt lag eller förordning.
+
+Myndigheten ska även vara nationell kontaktpunkt och behörig myndighet för kontroll och intygande av antalet giltiga stödförklaringar som har gjorts av svenska medborgare enligt Europaparlamentets och rådets förordning (EU) 2019/788 av den 17 april 2019 om det europeiska medborgarinitiativet.
+
+*Förordning (2021:230)*.
+
+### Ledning
+
+#### 3 §
+
+Myndigheten leds av en nämnd.
+
+#### 4 §
+
+Nämnden består av en ordförande, en vice ordförande och tre andra ledamöter. För andra ledamöter än ordföranden och vice ordföranden ska det finnas ersättare.
+
+### Organisation
+
+#### 5 §
+
+Vid nämnden finns ett kansli och en sekreterare. För sekreteraren ska det finnas en ersättare. *Förordning (2016:102)*.
+
+#### 6 §
+
+Nämndens sekreterare ansvarar för kansliet. *Förordning (2016:102)*.
+
+#### 7 §
+
+Skatteverket upplåter lokaler och sköter administrativa och handläggande uppgifter åt Valmyndigheten. *Förordning (2016:102)*.
+
+### Anställningar och uppdrag
+
+#### 8 §
+
+Vice ordförande utses av regeringen. *Förordning (2016:102)*.
+
+#### 9 §
+
+Skatteverket uppdrar, i samråd med nämnden, åt någon som är anställd vid Skatteverket att vara nämndens sekreterare och utser en ersättare för denne. *Förordning (2016:102)*.
+
+### Ärendenas handläggning
+
+#### 10 §
+
+När ärenden av större vikt handläggs ska om möjligt samtliga ledamöter i nämnden vara närvarande.
+
+Myndigheten får i arbetsordningen eller i särskilda beslut lämna över till nämndens sekreterare att avgöra ärenden som inte är av det slaget att de bör avgöras av nämnden. Sådana beslut ska anmälas vid nästa sammanträde med nämnden. *Förordning (2016:102)*.
+
+### Årlig redogörelse
+
+#### 11 §
+
+Myndigheten ska senast den 22 februari varje år lämna en redogörelse till regeringen om sin verksamhet under det senaste kalenderåret och om kostnaderna för verksamheten. Eventuella förändringar av kostnaderna ska förklaras. Vidare ska myndigheten senast den 1 mars varje år lämna ett budgetunderlag till regeringen. Budgetunderlaget ska innehålla myndighetens förslag till finansiering av verksamheten för de tre närmast följande budgetåren.
+
+*Förordning (2016:1040)*.
+
+### Tillämpligheten av vissa förordningar
+
+#### 12 §
+
+Förordningen (2000:605) om årsredovisning och budgetunderlag ska inte tillämpas på myndigheten.
+
+*Förordning (2016:1040)*.
+
+### Rätt att meddela föreskrifter
+
+#### 13 §
+
+Myndigheten får meddela de närmare föreskrifter som behövs för verkställighet av
+
+1. lagen (2001:183) om behandling av personuppgifter i verksamhet med val och folkomröstningar,
+
+2. folkomröstningslagen (1979:369), och
+
+3. annan lag med föreskrifter om rådgivande folkomröstning i hela landet. *Förordning (2016:1040)*.
+
+## Övergångsbestämmelser
+
+**2019:1142**
+
+1. Denna förordning träder i kraft den 1 januari 2020.
+
+2. Äldre föreskrifter gäller fortfarande för medborgarinitiativ som registrerats före ikraftträdandet.

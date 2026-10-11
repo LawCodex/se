@@ -1,0 +1,63 @@
+---
+title: "Förordning (2010:1855) om beräkning av effektiv ränta vid konsumentkrediter"
+identifier: "SFS 2010:1855"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2010-12-09
+amended_through: "SFS 2026:1031"
+department: "Justitiedepartementet L2"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2010-1855.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2010:1855"
+retrieved: 2026-10-11
+---
+# Förordning (2010:1855) om beräkning av effektiv ränta vid konsumentkrediter
+
+## 1 §
+
+*/Upphör att gälla U:2026-11-20/* Denna förordning innehåller bestämmelser om beräkning av effektiv ränta enligt konsumentkreditlagen (2010:1846).
+
+Förordningen gäller inte bostadskrediter enligt konsumentkreditlagen. Bestämmelser om beräkning av den effektiva räntan vid sådana konsumentkrediter finns i förordningen (2016:1034) om standardiserat EU-faktablad och beräkning av effektiv ränta vid bostadskrediter.
+
+*Förordning (2016:1039)*.
+
+## 1 §
+
+*/Träder i kraft I:2026-11-20/* Denna förordning innehåller bestämmelser om beräkning av effektiv ränta enligt konsumentkreditlagen (2026:1011).
+
+Förordningen gäller inte bostadskrediter enligt konsumentkreditlagen. Bestämmelser om beräkning av den effektiva räntan vid sådana konsumentkrediter finns i förordningen (2016:1034) om standardiserat EU-faktablad och beräkning av effektiv ränta vid bostadskrediter.
+
+*Förordning (2026:1031)*.
+
+## 2 §
+
+*/Upphör att gälla U:2026-11-20/* Den effektiva räntan enligt konsumentkreditlagen (2010:1846) ska beräknas i enlighet med den matematiska formel som anges i del I av bilaga I till Europaparlamentets och rådets direktiv 2008/48/EG av den 23 april 2008 om konsumentkreditavtal och om upphävande av rådets direktiv 87/102/EG. *Förordning (2016:1039)*.
+
+## 2 §
+
+*/Träder i kraft I:2026-11-20/* Den effektiva räntan enligt konsumentkreditlagen (2026:1011) ska beräknas i enlighet med den matematiska formel som anges i del I av bilaga III till Europaparlamentets och rådets direktiv (EU) 2023/2225 av den 18 oktober 2023 om konsumentkreditavtal och om upphävande av direktiv 2008/48/EG, i den ursprungliga lydelsen (konsumentkreditdirektivet).
+
+*Förordning (2026:1031)*.
+
+## 3 §
+
+För beräkningen av den effektiva räntan ska kreditkostnaden bestämmas. När kreditkostnaden bestäms enligt denna paragraf ska inte sådana avgifter tas med som ska betalas av konsumenten på grund av att en skyldighet enligt kreditavtalet inte har fullgjorts. Vid kreditköp ska inte heller sådana avgifter tas med som skulle ha tagits ut även om varan eller tjänsten hade betalats kontant. Som en del av kreditkostnaden ska anses kostnader för hantering av ett konto för registrering av utnyttjade krediter och gjorda betalningar, kostnader för användning av ett betalningsmedel anknutet till kontot samt andra kostnader för betalningar över kontot, om det inte är frivilligt att öppna kontot och kostnaderna tydligt och separat anges i kreditavtalet eller i något annat avtal som ingås med konsumenten.
+
+*Förordning (2016:1039)*.
+
+## 4 §
+
+*/Upphör att gälla U:2026-11-20/* Vid beräkningen av den effektiva räntan ska det antas att kreditavtalet gäller under den tid som har avtalats och att avtalsparterna fullgör sina skyldigheter enligt de villkor och vid de tidpunkter som anges i kreditavtalet.
+
+Om kreditavtalet innehåller villkor som tillåter ändringar av krediträntan eller avgifter, som inte kan förutses när den effektiva räntan beräknas, ska krediträntan och avgifterna antas vara fasta och gälla tills kreditavtalet löper ut.
+
+Härutöver ska de antaganden beaktas som anges i del II av bilaga I till Europaparlamentets och rådets direktiv 2008/48/EG av den 23 april 2008 om konsumentkreditavtal och om upphävande av rådets direktiv 87/102/EEG, ändrat genom kommissionens direktiv 2011/90/EU. Vid beaktandet av antagandena avses med kontokredit endast en kontokredit i form av ett uttryckligt kreditavtal genom vilket en kreditgivare ger en konsument tillgång till medel som överskrider det aktuella saldot på konsumentens konto. *Förordning (2016:1039)*.
+
+## 4 §
+
+*/Träder i kraft I:2026-11-20/* Vid beräkningen av den effektiva räntan ska det antas att kreditavtalet gäller under den tid som har avtalats och att avtalsparterna fullgör sina skyldigheter enligt de villkor och vid de tidpunkter som anges i kreditavtalet.
+
+Om kreditavtalet innehåller villkor som tillåter ändringar av krediträntan eller avgifter, som inte kan förutses när den effektiva räntan beräknas, ska krediträntan och avgifterna antas vara fasta och gälla tills kreditavtalet löper ut.
+
+Härutöver ska de antaganden beaktas som anges i del II av bilaga III till konsumentkreditdirektivet. Vid beaktandet av antagandena avses med kontokredit endast en kontokredit i form av ett uttryckligt kreditavtal genom vilket en kreditgivare ger en konsument tillgång till medel som överskrider det aktuella saldot på konsumentens konto. *Förordning (2026:1031)*.

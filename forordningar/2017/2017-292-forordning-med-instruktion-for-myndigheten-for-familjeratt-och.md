@@ -1,0 +1,139 @@
+---
+title: "Förordning (2017:292) med instruktion för Myndigheten för familjerätt och föräldraskapsstöd"
+identifier: "SFS 2017:292"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2017-04-20
+amended_through: "SFS 2026:672"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2017-292.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2017:292"
+retrieved: 2026-10-11
+---
+# Förordning (2017:292) med instruktion för Myndigheten för familjerätt och föräldraskapsstöd
+
+## Uppgifter
+
+### 1 §
+
+Myndigheten för familjerätt och föräldraskapsstöd ska bedriva och främja ett kunskapsbaserat arbete och ansvara för kunskapsförmedling i frågor som rör socialnämndernas familjerättsliga ärenden om
+
+1. barns vårdnad, boende och umgänge,
+
+2. fastställande av faderskap och föräldraskap,
+
+3. informationssamtal,
+
+4. samarbetssamtal som sker på uppdrag av domstol, och
+
+5. föräldraförberedelse, medgivandeutredning och stöd till barn och föräldrar vid internationell adoption.
+
+*Förordning (2021:535)*.
+
+### 1 a §
+
+Myndigheten ska främja samordning av sådana insatser efter adoption som avses i 18 kap. 10 § socialtjänstlagen (2025:400) och samordna den föräldrautbildning som socialnämnden ska anvisa inför adoption enligt 24 kap. 2 § samma lag. *Förordning (2025:500)*.
+
+### 2 §
+
+Myndigheten ska även bedriva och främja ett kunskapsbaserat arbete och ansvara för kunskapsförmedling av förebyggande insatser inom områdena
+
+1. samarbetssamtal som inte sker på uppdrag av domstol,
+
+2. familjerådgivning, och
+
+3. stöd till föräldrar i föräldraskapet för att främja barnets utveckling och hälsa (föräldraskapsstöd).
+
+### 3 §
+
+Myndigheten ska i frågor om internationella adoptioner särskilt
+
+1. övervaka att de svenska auktoriserade sammanslutningarnas arbete med internationell adoptionsförmedling sker i enlighet med lag och Haagkonventionen om skydd av barn och samarbete vid internationella adoptioner samt på ett i övrigt etiskt godtagbart sätt,
+
+2. följa den internationella utvecklingen och samla information i frågor som rör adoption av utländska barn, och
+
+3. följa utvecklingen av kostnaderna för adoption av utländska barn.
+
+### 4 §
+
+Myndigheten ansvarar i fråga om internationella adoptioner även för de uppgifter som åligger myndigheten enligt
+
+1. lagen (1997:191) med anledning av Sveriges tillträde till Haagkonventionen om skydd av barn och samarbete vid internationella adoptioner,
+
+2. lagen (1997:192) om internationell adoptionsförmedling,
+
+3. förordningen (2008:1239) om statsbidrag till auktoriserade adoptionssammanslutningar och till riksorganisationer för adopterade, och
+
+4. förordningen (2018:1296) om adoption i internationella situationer. *Förordning (2018:1298)*.
+
+### 4 a §
+
+Myndigheten ska ha ett övergripande ansvar på ställföreträdarområdet i vilket ingår att
+
+1. föra och ansvara för ställföreträdarregistret enligt 18 kap. föräldrabalken,
+
+2. tillhandahålla utbildning för gode män och förvaltare,
+
+3. se till att utbildningen av överförmyndare, ledamöter i överförmyndarnämnder och deras ersättare är tillfredsställande,
+
+4. ansvara för metodstöd till överförmyndare samt den som är god man, förvaltare och förordnad förmyndare,
+
+5. stödja överförmyndare i deras uppdrag,
+
+6. tillhandahålla information till överförmyndare och till den som är eller har en förordnad förmyndare, god man eller förvaltare, och
+
+7. följa och främja utvecklingen på området. *Förordning (2026:672)*.
+
+### 5 §
+
+Myndigheten ska ansvara för de uppgifter som åligger myndigheten i fråga om officiell statistik enligt förordningen (2001:100) om den officiella statistiken.
+
+### 6 §
+
+Myndigheten ska i all sin verksamhet främja barnets rättigheter med utgångspunkt i Förenta nationernas konvention om barnets rättigheter. Myndigheten ska även främja jämställdhet och ett jämställt föräldraskap.
+
+## Rapportering
+
+### 7 §
+
+Myndigheten ska i sin årsredovisning rapportera om utvecklingen inom sitt verksamhetsområde, belysa aktuella problem och redovisa vilka åtgärder som myndigheten har vidtagit.
+
+## Samverkan
+
+### 8 §
+
+Myndigheten ska samverka med andra myndigheter och organisationer som är verksamma i sådan verksamhet som avses i 1, 2, 4 och 4 a §§. *Förordning (2026:672)*.
+
+## Ledning
+
+### 9 §
+
+Myndigheten leds av en myndighetschef.
+
+### 10 §
+
+Vid myndigheten ska det finnas ett insynsråd som består av högst nio ledamöter.
+
+## Anställningar och uppdrag
+
+### 11 §
+
+Generaldirektören är myndighetschef.
+
+## Rätt att meddela föreskrifter
+
+### 12 §
+
+Myndigheten ansvarar för föreskrifter i enlighet med vad som anges i lag och förordning samt för allmänna råd inom sitt ansvarsområde.
+
+Myndigheten kungör sina föreskrifter i Gemensamma författningssamlingen avseende hälso- och sjukvård, socialtjänst, läkemedel, folkhälsa m.m. i enlighet med bilaga 1 till författningssamlingsförordningen (1976:725).
+
+## Undantag från myndighetsförordningen
+
+### 13 §
+
+Följande bestämmelse i myndighetsförordningen (2007:515) ska inte tillämpas på myndigheten:
+
+29 § om ärendeförteckning.

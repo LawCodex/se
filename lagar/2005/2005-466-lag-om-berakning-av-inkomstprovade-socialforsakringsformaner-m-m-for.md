@@ -1,0 +1,59 @@
+---
+title: "Lag (2005:466) om beräkning av inkomstprövade socialförsäkringsförmåner m.m. för neurosedynskadade"
+identifier: "SFS 2005:466"
+type: act
+jurisdiction: se
+language: sv
+date: 2005-06-09
+amended_through: "SFS 2026:751"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2005-466.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2005:466"
+retrieved: 2026-10-11
+---
+# Lag (2005:466) om beräkning av inkomstprövade socialförsäkringsförmåner m.m. för neurosedynskadade
+
+### 1 §
+
+I denna lag finns särskilda bestämmelser för beräkning av neurosedynskadades inkomstprövade socialförsäkringsförmåner, studiestöd, kommunala bidrag och avgifter i vissa fall.
+
+### 2 §
+
+*/Upphör att gälla U:2027-01-01/* För den som enligt regeringsbeslut fått ersättning för fosterskador som antas orsakade av de i Sverige sålda läkemedlen Neurosedyn eller Noxodyn ska tillgångar uppgående till ett belopp om femhundratusen (500 000) kronor anses som förmögenhet och inte beaktas vid tillämpningen av
+
+1. 17 kap. 2 och 8 §§ hälso- och sjukvårdslagen (2017:30),
+
+2. 19 § lagen (1993:387) om stöd och service till vissa funktionshindrade,
+
+3. 97 kap. 6-10 §§ socialförsäkringsbalken,
+
+4. 2 kap. 7 § och 4 kap. 14 § studiestödslagen (1999:1395),
+
+5. 11 kap. 1 §, 12 kap. 1 § och 32 kap. 1 § socialtjänstlagen (2025:400), och
+
+6. 102 kap. 10-13 §§ socialförsäkringsbalken.
+
+*Lag (2025:428)*.
+
+### 2 §
+
+*/Träder i kraft I:2027-01-01/* För den som enligt regeringsbeslut fått ersättning för fosterskador som antas orsakade av de i Sverige sålda läkemedlen Neurosedyn eller Noxodyn ska tillgångar som uppgår till ett belopp om femhundratusen (500 000) kronor anses som förmögenhet och inte beaktas vid tillämpningen av
+
+1. 17 kap. 2 och 8 §§ hälso- och sjukvårdslagen (2017:30),
+
+2. 19 § lagen (1993:387) om stöd och service till vissa funktionshindrade,
+
+3. 97 kap. 6-10 och 13 g-13 i §§ socialförsäkringsbalken,
+
+4. 2 kap. 7 § och 4 kap. 14 § studiestödslagen (1999:1395),
+
+5. 11 kap. 1 §, 12 kap. 1 § och 32 kap. 1 § socialtjänstlagen (2025:400), och
+
+6. 102 kap. 10-13 §§ socialförsäkringsbalken. *Lag (2026:751)*.
+
+## Övergångsbestämmelser
+
+**2009:1057**
+
+Denna lag träder i kraft den 1 januari 2010 och tillämpas första gången i fråga om återbetalningsskyldighet som ska gälla från och med den 1 februari 2010.

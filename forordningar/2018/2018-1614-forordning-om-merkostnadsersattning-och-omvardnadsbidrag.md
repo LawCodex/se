@@ -1,0 +1,52 @@
+---
+title: "Förordning (2018:1614) om merkostnadsersättning och omvårdnadsbidrag"
+identifier: "SFS 2018:1614"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2018-10-25
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2018-1614.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2018:1614"
+retrieved: 2026-10-11
+---
+# Förordning (2018:1614) om merkostnadsersättning och omvårdnadsbidrag
+
+### Inledande bestämmelse
+
+#### 1 §
+
+I denna förordning finns bestämmelser om merkostnadsersättning och omvårdnadsbidrag enligt socialförsäkringsbalken.
+
+### Ansökan
+
+#### 2 §
+
+Till ansökan ska bifogas läkarutlåtande om hälsotillståndet hos den person som merkostnadsersättningen eller omvårdnadsbidraget avser. Detta gäller dock inte om särskilda skäl talar emot det.
+
+### Utbetalning
+
+#### 3 §
+
+Om den för vilken förmånen lämnas är född någon av dagarna den 1-15 i månaden ska merkostnadsersättning och omvårdnadsbidrag kunna lyftas av mottagaren den 18 i utbetalningsmånaden. Om den för vilken förmånen lämnas är född någon av dagarna den 16-31 i månaden ska förmånen kunna lyftas av mottagaren den 19 i utbetalningsmånaden.
+
+Om utbetalningsdagen infaller på en söndag eller på en omedelbart därpå följande helgdag, ska förmånen kunna lyftas närmast följande vardag. Om utbetalningsdagen infaller på en annan helgdag, på en lördag eller på midsommarafton, ska förmånen kunna lyftas närmast föregående vardag.
+
+#### 4 §
+
+Försäkringskassan ska besluta om tiden för utbetalning av
+
+1. merkostnadsersättning eller omvårdnadsbidrag till den som vistas utomlands, och
+
+2. det belopp som först förfaller till betalning efter beslut om merkostnadsersättning eller omvårdnadsbidrag.
+
+## Övergångsbestämmelser
+
+**2018:1614**
+
+1. Denna förordning träder i kraft den 1 januari 2019.
+
+2. Genom denna förordning upphävs förordningen (2000:1047) om handikappersättning och vårdbidrag.
+
+3. Bestämmelserna i den upphävda förordningen gäller fortfarande för vårdbidrag och handikappersättning enligt 22 kap. respektive 50 kap. socialförsäkringsbalken i deras lydelse före den 1 januari 2019.

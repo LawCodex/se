@@ -1,0 +1,63 @@
+---
+title: "Förordning (2011:1060) om kontroll vid export av livsmedel"
+identifier: "SFS 2011:1060"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2011-09-29
+amended_through: "SFS 2021:262"
+department: "Landsbygds- och infrastrukturdepartementet RSL"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2011-1060.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2011:1060"
+retrieved: 2026-10-11
+---
+# Förordning (2011:1060) om kontroll vid export av livsmedel
+
+## 1 §
+
+Bestämmelser om djurhälsokrav när djur eller produkter exporteras eller återexporteras från Europeiska unionen till ett tredjeland eller ett territorium finns i artikel 243.1 i Europaparlamentets och rådets förordning (EU) 2016/429 av den 9 mars 2016 om överförbara djursjukdomar och om ändring och upphävande av vissa akter med avseende på djurhälsa ("djurhälsolag").
+
+Livsmedelsverket får, om villkoren i artikel 243.2 är uppfyllda, besluta i enskilda fall att export och återexport av produkter av animaliskt ursprung i stället får ske i enlighet med bestämmelserna i tredjelandet eller territoriet.
+
+En behörig myndighet får efter ansökan besluta att en anläggning som bedriver sådan verksamhet som avses i 3 § livsmedelslagen (2006:804) för export till ett land som inte är medlem i Europeiska unionen, ska ställas under särskild kontroll med anledning av importbestämmelser i det landet.
+
+Med medlemsland i Europeiska unionen jämställs
+
+1. Island i fråga om fiskvaror, och
+
+2. Andorra, Liechtenstein, Färöarna, Norge och Schweiz i fråga om samtliga animaliska livsmedel.
+
+Behörig myndighet enligt denna förordning är den myndighet som enligt 23 § livsmedelsförordningen (2006:813) är behörig att pröva frågor om godkännande av livsmedelsanläggningar eller att registrera livsmedelsanläggningar. *Förordning (2021:262)*.
+
+## 2 §
+
+Den behöriga myndigheten utövar den kontroll som behövs för att kunna utfärda sådana intyg som avses i 3 §.
+
+## 3 §
+
+Livsmedel som exporteras från en exportkontrollerad anläggning ska åtföljas av ett exportintyg om det krävs enligt mottagarlandets importbestämmelser.
+
+Exportintyget ska utfärdas av den behöriga myndigheten och innehålla de uppgifter som mottagarlandet behöver för importen.
+
+Om mottagarlandet kräver det, ska exportintyget utfärdas på en särskild blankett.
+
+## 4 §
+
+Livsmedelsverket ska tillhandahålla sådana särskilda blanketter som avses i 3 §.
+
+Livsmedelsverket får meddela föreskrifter om de särskilda blanketterna.
+
+## 5 §
+
+Innehavaren av en exportkontrollerad anläggning ska betala en avgift till den behöriga myndigheten för kontroll samt för utfärdandet av exportintyg och andra intyg enligt denna förordning.
+
+Den behöriga myndigheten prövar frågor om sådana avgifter.
+
+Livsmedelsverket får meddela föreskrifter om de avgifter som en statlig kontrollmyndighet ska ta ut.
+
+I andra fall beslutar kommunen om avgiftens storlek och om hur avgiften ska betalas.
+
+## 6 §
+
+I 31 och 32 §§ livsmedelslagen (2006:804) finns det bestämmelser om överklagande av beslut enligt denna förordning.

@@ -1,0 +1,565 @@
+---
+title: "Förordning (2008:193) om statligt tandvårdsstöd"
+identifier: "SFS 2008:193"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2008-04-24
+amended_through: "SFS 2026:1553"
+department: "Socialdepartementet"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2008-193.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2008:193"
+retrieved: 2026-10-11
+---
+# Förordning (2008:193) om statligt tandvårdsstöd
+
+### Inledande bestämmelse
+
+#### 1 §
+
+I denna förordning ges kompletterande föreskrifter till lagen (2008:145) om statligt tandvårdsstöd.
+
+De ord och benämningar som används i förordningen har samma betydelse som i lagen.
+
+### Ersättningsberättigande tandvårdsåtgärder och referenspriser
+
+#### 2 §
+
+Tandvårds- och läkemedelsförmånsverket får meddela föreskrifter om
+
+1. vilka tandvårdsåtgärder som kan berättiga till ersättning enligt lagen (2008:145) om statligt tandvårdsstöd och under vilka förutsättningar ersättning kan lämnas för åtgärderna (ersättningsberättigande tandvårdsåtgärder), samt
+
+2. referenspriser för de ersättningsberättigande tandvårdsåtgärderna. *Förordning (2008:844)*.
+
+#### 3 §
+
+Följande tandvårdsåtgärder är inte ersättningsberättigande:
+
+1. Åtgärder som uppenbarligen har utförts i strid med vetenskap och beprövad erfarenhet och som har medfört en vårdskada eller risk för sådan skada.
+
+2. Åtgärder där amalgam har använts.
+
+3. Åtgärder där en medicinteknisk produkt har använts som inte uppfyller de krav som ställs i
+
+a) Europaparlamentets och rådets förordning (EU) 2017/745 av den 5 april 2017 om medicintekniska produkter, om ändring av direktiv 2001/83/EG, förordning (EG) nr 178/2002 och förordning (EG) nr 1223/2009 och om upphävande av rådets direktiv 90/385/EEG och 93/42/EEG, eller
+
+b) kompletterande bestämmelser till förordning (EU) 2017/745.
+
+Första stycket 3 gäller inte om behörig myndighet har beslutat om undantag enligt artikel 59 i förordning (EU) 2017/745.
+
+*Förordning (2025:1441)*.
+
+### Allmänt tandvårdsbidrag
+
+#### 4 §
+
+Allmänt tandvårdsbidrag lämnas med 300 kronor om året.
+
+Bidrag lämnas med 600 kronor om året för patienter som under det år som tandvårdsbidraget tidigast kan användas
+
+1. fyller lägst 20 år och högst 23 år, eller
+
+2. uppnår en ålder som minst motsvarar riktåldern för pension enligt 2 kap. 10 a-10 d §§ socialförsäkringsbalken.
+
+När riktåldern för pension ändras ska 2 kap. 10 c § andra stycket socialförsäkringsbalken tillämpas.
+
+*Förordning (2025:1441)*.
+
+### Särskilt tandvårdsbidrag
+
+#### 4 a §
+
+Särskilt tandvårdsbidrag får användas för betalning av ersättningsberättigande förebyggande tandvårdsåtgärder om patienten
+
+1. är muntorr på grund av långvarig läkemedelsbehandling,
+
+2. är muntorr på grund av strålbehandling i öron-, näs-, mun- eller halsregionen,
+
+3. har Sjögrens syndrom,
+
+4. har kronisk obstruktiv lungsjukdom och har ordinerats syrgas eller näringsdryck,
+
+5. har cystisk fibros,
+
+6. har ulcerös colit,
+
+7. har Crohns sjukdom,
+
+8. har tarmsvikt,
+
+9. har frätskador på tänderna och anorexia nervosa, bulimia nervosa eller gastroesofageal refluxsjukdom,
+
+10. har svårinställd diabetes,
+
+11. genomgår dialysbehandling,
+
+12. är immunosupprimerad på grund av läkemedelsbehandling, eller
+
+13. har genomgått en organtransplantation.
+
+Om det inte finns särskilda skäl, ska patienten med intyg eller på annat sätt styrka att han eller hon har en sådan sjukdom eller funktionsnedsättning som avses i första stycket. *Förordning (2011:1184)*.
+
+#### 4 b §
+
+Särskilt tandvårdsbidrag lämnas med högst 1 000 kronor per halvår. *Förordning (2025:1441)*.
+
+#### 4 c §
+
+Socialstyrelsen får meddela ytterligare föreskrifter om
+
+1. de sjukdomar och funktionsnedsättningar som anges i 4 a § första stycket, och
+
+2. det underlag som avses i 4 a § andra stycket.
+
+*Förordning (2011:1184)*.
+
+### Abonnemangstandvård
+
+#### 4 d §
+
+Ett avtal om abonnemangstandvård enligt 2 kap. 2 § lagen (2008:145) om statligt tandvårdsstöd behöver inte omfatta tandvård till följd av arbetsskada eller olycksfall i övrigt.
+
+*Förordning (2012:784)*.
+
+### Allmän tandvårdsersättning
+
+#### 5 §
+
+När patientens sammanlagda kostnader för ersättningsberättigande tandvårdsåtgärder, beräknade enligt 2 kap. 4 § andra stycket lagen (2008:145) om statligt tandvårdsstöd, under en ersättningsperiod överstiger 0,0507 prisbasbelopp enligt 2 kap. 6 och 7 §§ socialförsäkringsbalken, avrundat nedåt till närmaste femtiotal kronor, lämnas allmän tandvårdsersättning med
+
+- 50 procent av den del av de sammanlagda kostnaderna som överstiger 0,0507 prisbasbelopp, avrundat nedåt till närmaste femtiotal kronor, men inte 0,2534 prisbasbelopp, avrundat nedåt till närmaste femtiotal kronor, och
+
+- 85 procent av den del som överstiger 0,2534 prisbasbelopp, avrundat nedåt till närmaste femtiotal kronor.
+
+Det prisbasbelopp som gäller när ersättningsperioden påbörjas ska ligga till grund för beräkningen enligt första stycket under hela ersättningsperioden. *Förordning (2025:1441)*.
+
+### Särskild tandvårdsersättning
+
+#### 5 a §
+
+Särskild tandvårdsersättning får lämnas för
+
+1. behandling av sjukdoms- och smärttillstånd,
+
+2. reparativ vård, och
+
+3. rehabiliterande och habiliterande vård.
+
+Särskild tandvårdsersättning får dock inte lämnas för ny fast tand- eller implantatstödd protetik bakom tandposition 5.
+
+*Förordning (2025:1441)*.
+
+#### 5 b §
+
+Särskild tandvårdsersättning får lämnas om patienten fyller minst 67 år under det år då den ersättningsberättigande tandvårdsåtgärden har slutförts.
+
+Ersättning lämnas med 90 procent av referenspriset för tandvårdsåtgärden eller, om vårdgivarens pris för den aktuella patienten är lägre än referenspriset, med 90 procent av vårdgivarens pris för åtgärden. Patienten ska betala 10 procent av det pris som ersättningen beräknas på.
+
+*Förordning (2025:1441)*.
+
+### Protetisk behandling som behöver göras om
+
+#### 6 §
+
+Om en protetisk behandling behöver göras om får Försäkringskassan lämna ersättning till den vårdgivare som gör om behandlingen med ett belopp motsvarande det belopp som får krävas åter eller räknas av från en annan fordran enligt 4 kap. 3 § andra stycket lagen (2008:145) om statligt tandvårdsstöd, under förutsättning att den nya behandlingen
+
+1. inte är ersättningsberättigande enligt föreskrifter som meddelats med stöd av 2 § 1, och
+
+2. utförs av en annan vårdgivare än den som utförde den behandling som behöver göras om.
+
+Ersättning enligt första stycket får dock inte överstiga det lägsta av följande belopp:
+
+- vårdgivarens pris för att göra om behandlingen för den aktuella patienten, och
+
+- referenspriset för att göra om behandlingen.
+
+*Förordning (2025:1441)*.
+
+#### 6 a §
+
+Om en ny behandling enligt 6 § är mer omfattande eller i övrigt består av andra ersättningsberättigande tandvårdsåtgärder än den behandling som behöver göras om, får allmän tandvårdsersättning lämnas för kostnaderna för dessa åtgärder enligt vad som anges i 2 kap. 4 § lagen (2008:145) om statligt tandvårdsstöd. Kostnaderna får dock inte beräknas högre än ett belopp motsvarande skillnaden mellan kostnaden för den nya behandlingen och kostnaden för den behandling som behöver göras om. Beräkningen av kostnaderna för de åtgärder som ingår i behandlingarna ska ske med utgångspunkt i referenspriserna för dessa åtgärder. Om vårdgivarens pris för den aktuella patienten är lägre än referenspriset, ska dock beräkningen ske med utgångspunkt i vårdgivarens pris.
+
+Om den nya behandlingen är mer omfattande eller i övrigt består av andra tandvårdsåtgärder än den behandling som behöver göras om och dessa åtgärder berättigar patienten till särskild tandvårdsersättning, får sådan ersättning lämnas med 90 procent av ett belopp motsvarande skillnaden mellan referenspriserna för de åtgärder som ingår i den nya behandlingen och referenspriserna för de åtgärder som ingår i den behandling som behöver göras om. Om vårdgivarens pris för den aktuella patienten är lägre än referenspriset, ska dock beräkningen ske med utgångspunkt i vårdgivarens pris. *Förordning (2025:1441)*.
+
+### Ersättning vid krav på förhandsprövning
+
+#### 7 §
+
+Ersättning lämnas inte för en tandvårdsåtgärd som har utförts utan att en förhandsprövning har gjorts där sådan krävs. Detta gäller dock inte om åtgärden har varit av sådan karaktär att det av odontologiska eller medicinska skäl varit nödvändigt att genomföra den utan att invänta en förhandsprövning eller om det i övrigt funnits särskilda skäl att påbörja åtgärden innan en förhandsprövning har gjorts.
+
+### Vårdgivarens ansvar gentemot patienten
+
+#### 8 §
+
+Vårdgivaren ska tillhandahålla prislistor med uppgifter om
+
+1. vårdgivarens priser samt referenspriser för de ersättningsberättigande tandvårdsåtgärder som vårdgivaren utför,
+
+2. vilka garantier som vårdgivaren lämnar för sina arbeten, samt
+
+3. patientens rätt att på begäran få skriftlig information om vilka material som använts vid protetiska arbeten och andra behandlingar som syftat till att permanent ersätta förlorad vävnad.
+
+#### 9 §
+
+Om vårdgivaren föreslår en tandvårdsåtgärd som inte är ersättningsberättigande, ska vårdgivaren i förekommande fall upplysa patienten om vilka alternativa åtgärder som kan berättiga till statligt tandvårdsstöd.
+
+Om vårdgivaren föreslår en tandvårdsåtgärd som kan berättiga till allmän tandvårdsersättning, ska vårdgivaren i förekommande fall upplysa patienten om vilka åtgärder som kan berättiga till särskild tandvårdsersättning.
+
+*Förordning (2025:1441)*.
+
+#### 10 §
+
+Om en patient behöver behandlas vid fler än ett tillfälle, ska vårdgivaren ge patienten en preliminär skriftlig prisuppgift över den totala behandlingskostnaden. För varje tandvårdsåtgärd ska det, i förekommande fall, framgå huruvida åtgärden kan berättiga till allmän eller särskild tandvårdsersättning.
+
+Om patienten behöver en mer omfattande behandling, ska vårdgivaren även ge patienten en skriftlig behandlingsplan. Behandlingsplanen ska innehålla uppgifter om
+
+1. vilken diagnos som har ställts,
+
+2. den föreslagna behandlingen och skälen för denna,
+
+3. eventuella alternativa behandlingsförslag,
+
+4. huruvida tandvårdsåtgärderna är ersättningsberättigande, samt
+
+5. vårdgivarens priser, referenspriser och åtgärdskoder för tandvårdsåtgärderna. *Förordning (2025:1441)*.
+
+#### 11 §
+
+På det kvitto som patienten får över erlagd betalning, ska vårdgivaren ange
+
+1. sitt pris för varje utförd tandvårdsåtgärd för den aktuella patienten,
+
+2. referenspris och åtgärdskod för varje utförd tandvårdsåtgärd, samt
+
+3. i förekommande fall den ersättning som lämnas enligt lagen (2008:145) om statligt tandvårdsstöd.
+
+Om tandtekniskt arbete har ingått i behandlingen, ska det till kvittot fogas en kopia av det underlag som det tandtekniska laboratoriet lämnat över kostnaderna för det tandtekniska arbetet.
+
+#### 12 §
+
+Efter varje undersökning som inte enbart har avsett enstaka tänder eller ett enstaka problem, ska vårdgivaren upprätta ett undersökningsprotokoll. Protokollet ska lämnas till patienten direkt efter undersökningen.
+
+#### 13 §
+
+Vårdgivaren ska, om det inte finns särskilda skäl, efter utförd undersökning eller behandling erbjuda patienten att få en kallelse till en ny undersökning inom lämplig tid.
+
+### Försäkringskassans uppgiftsskyldighet mot vårdgivaren
+
+#### 14 §
+
+Försäkringskassan ska på begäran av en vårdgivare tillhandahålla uppgifter enligt 4 kap. 1 § lagen (2008:145) om statligt tandvårdsstöd om
+
+1. huruvida patienten omfattas av rätten till statligt tandvårdsstöd,
+
+2. huruvida patienten är berättigad till särskild tandvårdsersättning,
+
+3. patientens utnyttjande av tandvårdsbidrag,
+
+4. patientens sammanlagda kostnader för tandvårdsåtgärder som kan berättiga till allmän tandvårdsersättning och som har slutförts under pågående ersättningsperiod,
+
+5. vilket datum den pågående ersättningsperioden började löpa,
+
+6. vilket datum den senaste tandvårdsåtgärden som kan berättiga till allmän tandvårdsersättning slutfördes,
+
+7. det finns avtal om abonnemangstandvård enligt 2 kap. 2 § lagen om statligt tandvårdsstöd samt, i förekommande fall, abonnemangsperiod för avtalet och vilken tandvård som omfattas av det, och
+
+8. beslut i ärenden om förhandsprövning enligt 4 kap. 5 a § lagen om statligt tandvårdsstöd.
+
+Uppgifterna får endast avse patienter som vårdgivaren står i begrepp att behandla eller har behandlat.
+
+*Förordning (2025:1441)*.
+
+### Vårdgivarens uppgiftsskyldighet
+
+#### 15 §
+
+Vårdgivaren ska upprätta ett underlag för uppföljning och statistik samt för beräkning av statligt tandvårdsstöd för samtliga ersättningsberättigande tandvårdsåtgärder som vårdgivaren har utfört på en patient. Underlaget ska lämnas in till Försäkringskassan inom två veckor från det att respektive tandvårdsåtgärd har slutförts.
+
+Underlaget ska innehålla uppgifter om
+
+1. behandlarens namn, personnummer eller samordningsnummer och behörighet samt, i förekommande fall, motsvarande uppgifter för den som delegerat arbetsuppgiften,
+
+2. patientens namn och personnummer eller samordningsnummer,
+
+3. datum för när åtgärden slutfördes,
+
+4. var åtgärden utfördes,
+
+5. tillståndskod och åtgärdskod för den åtgärd som är ersättningsberättigande i det enskilda fallet,
+
+6. tillståndskod och åtgärdskod för den faktiskt utförda åtgärden, om denna inte är ersättningsberättigande i det enskilda fallet,
+
+7. tandnummer och tandposition,
+
+8. vårdgivarens pris för den utförda åtgärden för den aktuella patienten, och
+
+9. grunden för begäran om ersättning i form av särskilt tandvårdsbidrag.
+
+I samband med begäran om ersättning i form av allmänt tandvårdsbidrag ska vårdgivaren även lämna uppgift till Socialstyrelsen om patientens antal kvarvarande respektive intakta tänder.
+
+Uppgiftsskyldigheten gäller även sådan tandvård som omfattas av ett gällande abonnemangsavtal. *Förordning (2026:483)*.
+
+#### 16 §
+
+När ett avtal om abonnemangstandvård enligt 2 kap. 2 § lagen (2008:145) om statligt tandvårdsstöd har ingåtts eller upphört att gälla i förtid, ska vårdgivaren inom två veckor från det att avtalet har ingåtts eller upphört att gälla lämna uppgift om detta till Försäkringskassan.
+
+När ett avtal har ingåtts ska uppgift lämnas om
+
+1. abonnemangsperioden,
+
+2. vilken tandvård som omfattas av avtalet, och
+
+3. avgiften för abonnemanget.
+
+### Inlämnande av uppgifter
+
+#### 17 §
+
+Underlag enligt 15 § första och andra styckena, uppgifter enligt 15 § tredje stycket och 16 § samt ansökan om förhandsprövning och ansökan om ersättning enligt lagen (2008:145) om statligt tandvårdsstöd ska lämnas på elektronisk väg.
+
+Försäkringskassan får meddela föreskrifter om i vilka fall uppgifter får lämnas på annat sätt.
+
+### Anslutningen till Försäkringskassans elektroniska system för statligt tandvårdsstöd
+
+#### 18 §
+
+Ansökan om anslutning till Försäkringskassans elektroniska system för statligt tandvårdsstöd ska göras av vårdgivaren. Ansökan ska vara skriftlig och ges in till Försäkringskassan.
+
+För att bli ansluten till det elektroniska systemet ska vårdgivaren vara legitimerad tandläkare eller tandhygienist eller, genom anställning eller på annat sätt, anlita sådan personal. Vårdgivare i enskilt bedriven verksamhet ska vidare vara godkänd för F-skatt för att bli ansluten till systemet.
+
+I ansökan ska vårdgivaren lämna uppgift om följande personer:
+
+1. i aktiebolag och ekonomiska föreningar den verkställande direktören, om det finns en sådan, samtliga styrelseledamöter och styrelsesuppleanter samt andra som genom ledande ställning eller på annat sätt har ett bestämmande inflytande över verksamheten,
+
+2. i aktiebolag och ekonomiska föreningar som är fåmansföretag enligt 56 kap. 2 § inkomstskattelagen (1999:1229) samtliga delägare,
+
+3. i kommanditbolag och andra handelsbolag samtliga bolagsmän och andra som genom ledande ställning eller på annat sätt har ett bestämmande inflytande över verksamheten,
+
+4. i enskild näringsverksamhet den enskilde näringsidkaren,
+
+5. verksamhetschefen, och
+
+6. samtliga behandlande tandläkare eller tandhygienister om det finns tio eller färre sådana hos vårdgivaren.
+
+Vårdgivaren ska även ange om någon av de personer som anges i tredje stycket tidigare har varit vårdgivare eller verksamma hos en vårdgivare som varit ansluten till Försäkringskassans elektroniska system för statligt tandvårdsstöd. *Förordning (2017:432)*.
+
+#### 18 a §
+
+Om vårdgivaren efter det att en ansökan enligt 18 § har gjorts inte längre uppfyller de krav som anges i 18 § andra stycket, eller om någon sådan person som anges i 18 § tredje stycket ersätts av en annan person eller om någon annan person tillkommer, ska vårdgivaren utan dröjsmål anmäla detta till Försäkringskassan. *Förordning (2019:114)*.
+
+#### 18 b §
+
+Försäkringskassan får neka en vårdgivare anslutning till det elektroniska systemet för statligt tandvårdsstöd om vårdgivaren inte uppfyller kraven i 18 § andra-fjärde styckena.
+
+Anslutning får även nekas om någon av de personer som vårdgivaren har lämnat uppgift om enligt 18 § tredje stycket tidigare har varit vårdgivare eller verksam hos en vårdgivare som varit ansluten till Försäkringskassans elektroniska system för statligt tandvårdsstöd och den vårdgivaren allvarligt har åsidosatt bestämmelserna i lagen (2008:145) om statligt tandvårdsstöd eller i föreskrifter som har meddelats i anslutning till lagen och som avser vårdgivarens skyldigheter eller förutsättningar för ersättning.
+
+Anslutning ska nekas om
+
+1. verksamheten inte förekommer i det register som förs enligt 2 kap. 11 § första stycket patientsäkerhetslagen (2010:659),
+
+2. tillståndet för verksamheten har återkallats, eller
+
+3. verksamheten har förbjudits enligt 7 kap. 26, 27, 28 eller 28 b § samma lag. *Lag (2026:1553)*.
+
+#### 19 §
+
+Försäkringskassan får besluta att anslutningen till det elektroniska systemet för statligt tandvårdsstöd ska upphöra om vårdgivaren
+
+1. skriftligen begär att anslutningen ska upphöra,
+
+2. har upphört att bedriva tandvårdsverksamhet,
+
+3. inte längre uppfyller de krav som anges i 18 § andra stycket,
+
+4. hade nekats anslutning enligt 18 b § andra stycket om det varit fråga om en ansökan om anslutning,
+
+5. allvarligt har åsidosatt bestämmelserna i lagen (2008:145) om statligt tandvårdsstöd eller i föreskrifter som har meddelats i anslutning till den lagen och som avser vårdgivarens skyldigheter eller förutsättningar för ersättning,
+
+6. inte har påbörjat verksamheten senast sex månader efter det att Försäkringskassan meddelat beslut om anslutning, eller
+
+7. har lämnat oriktig eller vilseledande uppgift i ansökan om anslutning eller inte har lämnat uppgift på begäran i ett ärende om upphörande av anslutningen, om uppgiften är av betydelse för tillämpningen av lagen om statligt tandvårdsstöd eller föreskrifter som har meddelats i anslutning till lagen.
+
+Försäkringskassan ska besluta att anslutningen till det elektroniska systemet ska upphöra för verksamhet
+
+1. som inte förekommer i det register som förs enligt 2 kap. 11 § första stycket patientsäkerhetslagen (2010:659),
+
+2. vars tillstånd har återkallats, eller
+
+3. som har förbjudits enligt 7 kap. 26, 27, 28 eller 28 b § samma lag.
+
+Om en anslutning har upphört, får beslut om ny anslutning meddelas efter ansökan om förutsättningarna för anslutning är uppfyllda. *Förordning (2025:1441)*.
+
+#### 19 a §
+
+Har betecknats 21 § enligt *förordning (2025:1441)*.
+
+#### 19 b §
+
+Har betecknats 22 § enligt *förordning (2025:1441)*.
+
+#### 20 §
+
+Har upphävts genom *förordning (2026:1112)*.
+
+### Försäkringskassans uppgiftsskyldighet mot myndigheter
+
+#### 21 §
+
+För att Tandvårds- och läkemedelsförmånsverket ska kunna fullgöra sin verksamhet i fråga om beslut om utformningen av det statliga tandvårdsstödet och följa upp utvecklingen på tandvårdsområdet, ska Försäkringskassan lämna uppgifter till verket om
+
+1. löpnummer för patientens personnummer och i förekommande fall samordningsnummer samt patientens kön och ålder,
+
+2. tillståndskod och åtgärdskod för den utförda åtgärden, tandnummer och tandposition, datum för när åtgärden slutfördes samt i förekommande fall om patienten remitterats för åtgärden till tandläkare med bevis om specialistkompetens,
+
+3. patientens ersättningsperiod, start- och slutdatum samt nyttjande av tandvårdsbidrag,
+
+4. vårdgivarens pris för den utförda åtgärden för den aktuella patienten,
+
+5. löpnummer för behandlarens personnummer eller samordningsnummer samt behandlarens behörighet,
+
+6. i förekommande fall avtal om abonnemangstandvård enligt 2 kap. 2 § lagen (2008:145) om statligt tandvårdsstöd, abonnemangsperioden, utförd tandvård som omfattas av avtalet och avgiften för abonnemanget,
+
+7. referenspris per utförd åtgärd, med vilket belopp per åtgärd som statligt tandvårdsstöd har lämnats och om tandvårdsersättningen är allmän eller särskild, patientens pris per besök, ersättningsgrundande belopp per besök, vård- givarens pris för besök, ackumulerat ersättningsgrundande belopp under ersättningsperioden och förekommande korrigeringsbelopp,
+
+8. det län där tandvårdsmottagningen är belägen och huruvida vårdgivaren är offentlig, privat eller av annat slag, alternativt att åtgärden utfördes i ett annat EU- eller EES- land,
+
+9. löpnummer för vårdgivarens organisationsnummer och tandvårdsmottagning,
+
+10. datum för när en vårdgivares fordran mot staten uppkommer, när fordran regleras och när ärendet registreras eller ändras i databas hos Försäkringskassan,
+
+11. i förekommande fall utbetalt stöd i kronor per slutförd tandvårdsåtgärd enligt förordningen (2026:75) om statligt stöd för ökad tillgänglighet till tandvård, det län där patienten är bosatt och kommuntyp, och
+
+12. löpnummer för administrativa uppgifter som ärendenummer, radnummer från databas hos Försäkringskassan, ärendetyp och ärendestatus.
+
+Varje personnummer, samordningsnummer, organisationsnummer och tandvårdsmottagningsnummer ska innan uppgifter enligt första stycket lämnas ut vara krypterade på ett sådant sätt att identifiering inte är möjlig. *Förordning (2026:483)*.
+
+#### 22 §
+
+För att Tandvårds- och läkemedelsförmånsverket ska kunna fullgöra sin verksamhet i fråga om att tillhandahålla information i en prisjämförelsetjänst för tandvård inom det statliga tandvårdsstödet samt följa upp utvecklingen på tandvårdsområdet, ska Försäkringskassan lämna uppgifter till verket om
+
+1. åtgärdskod och tandvårdsmottagningens pris för varje utförd åtgärd samt i förekommande fall om patienten är berättigad till särskild tandvårdsersättning eller har remitterats för åtgärden till tandläkare med bevis om specialistkompetens,
+
+2. datum för när åtgärden slutfördes,
+
+3. Försäkringskassans mottagningsidentitet och tandvårdsmottagningens namn, adress, postnummer och ort,
+
+4. datum för tandvårdsmottagningens anslutning till Försäkringskassans elektroniska system för statligt tandvårdsstöd och datum för när anslutningen ska upphöra,
+
+5. vårdgivarens namn, adress, postnummer, ort och organisationsnummer samt huruvida vårdgivaren är offentlig, privat eller av annat slag, och
+
+6. administrativa uppgifter som ärendetyp, ärendestatus och åtgärdsstatus. *Förordning (2025:1441)*.
+
+#### 23 §
+
+För att Inspektionen för vård och omsorg ska kunna fullgöra sin skyldighet enligt 7 kap. 28 a § patientsäkerhetslagen (2010:659) att ompröva tillstånd att bedriva tandvårdsverksamhet, ska Försäkringskassan skyndsamt till inspektionen sända en kopia av ett beslut som innebär nekad anslutning till Försäkringskassans elektroniska system för statligt tandvårdsstöd eller att en anslutning ska upphöra. *Förordning (2025:1441)*.
+
+#### 24 §
+
+I andra fall än som avses i 23 § ska Försäkringskassan anmäla till Inspektionen för vård och omsorg om det finns anledning att anta att
+
+1. en privat vårdgivare yrkesmässigt bedriver tandvårdsverksamhet utan nödvändigt tillstånd enligt 2 kap. 4 § patientsäkerhetslagen (2010:659), eller
+
+2. en tillståndshavares lämplighet att bedriva sådan verksamhet kan ifrågasättas.
+
+Av anmälan ska det framgå vilka omständigheter som ligger till grund för ett antagande enligt första stycket.
+
+*Förordning (2025:1441)*.
+
+#### 25 §
+
+För att Inspektionen för vård och omsorg ska kunna pröva tillstånd och utöva tillsyn över tandvården, ska Försäkringskassan på begäran lämna uppgift till inspektionen om i vilken omfattning och på vilka grunder som Försäkringskassan under en angiven period har beslutat att ersättning som är hänförlig till en viss vårdgivare, mottagning eller behandlare ska återbetalas eller avräknas från en annan fordran som vårdgivaren har på ersättning.
+
+*Förordning (2025:1441)*.
+
+### Övriga bemyndiganden
+
+#### 26 §
+
+Försäkringskassan får meddela föreskrifter om
+
+1. ansökan om samt beräkning och utbetalning av ersättning enligt lagen (2008:145) om statligt tandvårdsstöd,
+
+2. abonnemangstandvård,
+
+3. anmälan om ny ersättningsperiod enligt 2 kap. 4 § lagen om statligt tandvårdsstöd och om när en sådan period ska börja löpa,
+
+4. anslutningen till Försäkringskassans elektroniska system för statligt tandvårdsstöd,
+
+5. vårdgivarens uppgiftsskyldighet enligt 3 kap. 3 § första stycket lagen om statligt tandvårdsstöd,
+
+6. ansökan om förhandsprövning,
+
+7. prislistor enligt 8 §,
+
+8. behandlingsplaner enligt 10 §, och
+
+9. undersökningsprotokoll enligt 12 §.
+
+Försäkringskassan får meddela ytterligare föreskrifter om verkställigheten av lagen om statligt tandvårdsstöd och av denna förordning. *Förordning (2026:1112)*.
+
+#### 27 §
+
+Socialstyrelsen får meddela föreskrifter om
+
+1. kraven för ersättning enligt 3 kap. 1 § första stycket 2 lagen (2008:145) om statligt tandvårdsstöd, och
+
+2. vårdgivarens uppgiftsskyldighet enligt 3 kap. 3 § andra stycket samma lag. *Förordning (2025:1441)*.
+
+#### 28 §
+
+Tandvårds- och läkemedelsförmånsverket får meddela föreskrifter om när förhandsprövning ska ske i andra fall än som avses i 4 kap. 5-6 §§ lagen (2008:145) om statligt tandvårdsstöd. *Förordning (2025:1441)*.
+
+## Övergångsbestämmelser
+
+**2008:193**
+
+1. Denna förordning träder i kraft den 1 juli 2008, då förordningen (1998:1337) om tandvårdstaxa ska upphöra att gälla.
+
+2. För tandvårdsåtgärder som har påbörjats före ikraftträdandet gäller äldre ersättningsbestämmelser.
+
+**2008:844**
+
+Denna förordning träder i kraft den 1 december 2008. De upphävda bilagorna och 5 § i sin äldre lydelse gäller dock fortfarande för sådana tandvårdsåtgärder som har påbörjats före utgången av december 2008.
+
+**2017:432**
+
+1. Denna förordning träder i kraft den 1 juli 2017.
+
+2. De krav som anges i 18 § tredje och fjärde styckena gäller endast ansökningar om anslutning till Försäkringskassans elektroniska system för statligt tandvårdsstöd som kommer in till Försäkringskassan efter ikraftträdandet.
+
+*Förordning (2019:114)*.
+
+**2018:106**
+
+1. Denna förordning träder i kraft den 15 april 2018.
+
+2. Förordningen tillämpas även för allmänt tandvårdsbidrag som kunnat användas för betalning av ersättningsberättigande tandvårdsåtgärder från och med den 1 juli 2016 eller från och med den 1 juli 2017 och som lämnas efter ikraftträdandet.
+
+**2019:114**
+
+1. Denna förordning träder i kraft den 1 maj 2019.
+
+2. För tandvårdsåtgärder som har påbörjats före ikraftträdandet gäller 3 § i den äldre lydelsen.
+
+**2024:1101**
+
+1. Denna förordning träder i kraft den 1 januari 2025.
+
+2. Äldre bestämmelser gäller fortfarande för bidrag som kunnat användas från och med den 1 juli 2023 eller från och med den 1 juli 2024.
+
+**2025:1441**
+
+1. Denna förordning träder i kraft den 1 januari 2026.
+
+2. Den som har fyllt 65 år före ikraftträdandet ska även i fortsättningen ha rätt till allmänt tandvårdsbidrag enligt 4 § med det högre beloppet.
+
+3. Äldre bestämmelser om vilket belopp som patientens sammanlagda tandvårdskostnader under en ersättningsperiod ska överstiga för att allmän tandvårdsersättning ska kunna lämnas gäller fortfarande för ersättningsperioder som har påbörjats före ikraftträdandet.
+
+4. Bestämmelserna i 18 b § tredje stycket och 19 § andra stycket tillämpas inte för en privat vårdgivare som före ikraftträdandet har påbörjat verksamhet som omfattas av tandvårdslagen (1985:125) men inte anmält denna till Inspektionen för vård och omsorg. Detta gäller dock endast till och med den 2 mars 2026 eller, om vårdgivaren har gett in en ansökan om tillstånd enligt patientsäkerhetslagen (2010:659) till inspektionen före den 3 mars 2026, till dess att ansökan har prövats slutligt.
+
+5. Bestämmelserna i 18 b § tredje stycket 1 och 19 § andra stycket 1 tillämpas, trots punkt 4, inte för en privat vårdgivare som enligt patientsäkerhetslagen (2010:659) har rätt att utan tillstånd bedriva verksamhet som omfattas av tandvårdslagen (1985:125). *Lag (2026:1553)*.
+
+## Bilaga 1 Har upphävts genom förordning (2008:844).
+
+Bilaga 2 Har upphävts genom *förordning (2008:844)*.

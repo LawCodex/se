@@ -1,0 +1,2167 @@
+---
+title: "Lag (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag"
+identifier: "SFS 2014:968"
+type: act
+jurisdiction: se
+language: sv
+date: 2014-06-26
+amended_through: "SFS 2026:1081"
+department: "Finansdepartementet FMA B"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2014-968.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2014:968"
+retrieved: 2026-10-11
+---
+# Lag (2014:968) om särskild tillsyn över kreditinstitut och värdepappersbolag
+
+## 1 kap. Inledande bestämmelser
+
+### Lagens innehåll
+
+#### 1 §
+
+*/Upphör att gälla U:2030-01-10/* I denna lag finns bestämmelser som kompletterar
+
+- Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012 (tillsynsförordningen), och
+
+- Europaparlamentets och rådets förordning (EU) 2019/2033 av den 27 november 2019 om tillsynskrav för värdepappersföretag och om ändring av förordningarna (EU) nr 1093/2010, (EU) nr 575/2013, (EU) nr 600/2014 och (EU) nr 806/2014 (värdepappersbolagsförordningen).
+
+Bestämmelserna i denna lag genomför delvis
+
+- Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiven 2006/48/EG och 2006/49/EG, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2024/1619 (kapitaltäckningsdirektivet), och
+
+- Europaparlamentets och rådets direktiv (EU) 2019/2034 av den 27 november 2019 om tillsyn av värdepappersföretag och om ändring av direktiven 2002/87/EG, 2009/65/EG, 2011/61/EU, 2013/36/EU, 2014/59/EU och 2014/65/EU, i den ursprungliga lydelsen (värdepappersbolagsdirektivet).
+
+Bestämmelser som kompletterar tillsynsförordningen och genomför kapitaltäckningsdirektivet finns i 1 a, 2, 3, 4, 5, 5 b och 7 kap.
+
+Bestämmelser som kompletterar värdepappersbolagsförordningen och genomför värdepappersbolagsdirektivet finns i 2 a, 3 a, 4 a, 5 a och 7 a kap.
+
+I övriga kapitel finns bestämmelser som kompletterar såväl tillsynsförordningen som värdepappersbolagsförordningen och som genomför såväl kapitaltäckningsdirektivet som värdepappersbolagsdirektivet. *Lag (2026:1072)*.
+
+#### 1 §
+
+*/Träder i kraft I:2030-01-10/* I denna lag finns bestämmelser som kompletterar
+
+- Europaparlamentets och rådets förordning (EU) nr 575/2013 av den 26 juni 2013 om tillsynskrav för kreditinstitut och om ändring av förordning (EU) nr 648/2012 (tillsynsförordningen), och
+
+- Europaparlamentets och rådets förordning (EU) 2019/2033 av den 27 november 2019 om tillsynskrav för värdepappersföretag och om ändring av förordningarna (EU) nr 1093/2010, (EU) nr 575/2013, (EU) nr 600/2014 och (EU) nr 806/2014 (värdepappersbolagsförordningen).
+
+Bestämmelserna i denna lag genomför delvis
+
+- Europaparlamentets och rådets direktiv 2013/36/EU av den 26 juni 2013 om behörighet att utöva verksamhet i kreditinstitut och om tillsyn av kreditinstitut, om ändring av direktiv 2002/87/EG och om upphävande av direktiven 2006/48/EG och 2006/49/EG, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2024/1619 (kapitaltäckningsdirektivet), och
+
+- Europaparlamentets och rådets direktiv (EU) 2019/2034 av den 27 november 2019 om tillsyn av värdepappersföretag och om ändring av direktiven 2002/87/EG, 2009/65/EG, 2011/61/EU, 2013/36/EU, 2014/59/EU och 2014/65/EU, i lydelsen enligt Europaparlamentet och rådets direktiv (EU) 2023/2864 (värdepappersbolagsdirektivet).
+
+Bestämmelser som kompletterar tillsynsförordningen och genomför kapitaltäckningsdirektivet finns i 1 a, 2, 3, 4, 5, 5 b och 7 kap.
+
+Bestämmelser som kompletterar värdepappersbolagsförordningen och genomför värdepappersbolagsdirektivet finns i 2 a, 3 a, 4 a, 5 a och 7 a kap.
+
+I övriga kapitel finns bestämmelser som kompletterar såväl tillsynsförordningen som värdepappersbolagsförordningen och som genomför såväl kapitaltäckningsdirektivet som värdepappersbolagsdirektivet. *Lag (2026:1081)*.
+
+### Definitioner
+
+#### 2 §
+
+I denna lag betyder
+
+1. blandat finansiellt moderholdingföretag inom EES:
+
+a) i 4 a kap., ett företag som avses i artikel 4.1.58 i värdepappersbolagsförordningen,
+
+b) i övrigt, ett företag som avses i artikel 4.1.33 i tillsynsförordningen,
+
+2. dotterföretag:
+
+a) i 3 a och 4 a kap., ett företag som avses i artikel 4.1.51 i värdepappersbolagsförordningen,
+
+b) i 6 kap. 1 §, i fråga om värdepappersföretagskoncerner som avses i artikel 7 eller 8 i värdepappersbolagsförordningen, ett företag som avses i a,
+
+c) i övrigt, ett företag som avses i artikel 4.1.16 i tillsynsförordningen,
+
+3. EES: Europeiska ekonomiska samarbetsområdet,
+
+4. holdingföretag med blandad verksamhet:
+
+a) i 6 kap. 1 och 8 §§ och 8 kap. 2 och 4 §§, i fråga om värdepappersföretagskoncerner som avses i artikel 53 i värdepappersbolagsdirektivet, ett företag som avses i artikel 4.1.26 i samma direktiv,
+
+b) i övrigt, ett företag som avses i artikel 4.1.22 i tillsynsförordningen,
+
+5. institut: ett sådant företag som avses i artikel 4.1.3 i tillsynsförordningen och ett sådant bolag som avses i 7 g,
+
+6. konsoliderad situation: detsamma som i artikel 4.1.47 i tillsynsförordningen,
+
+7. kreditinstitut:
+
+a) ett kreditinstitut enligt lagen (2004:297) om bank- och finansieringsrörelse,
+
+b) Svenska skeppshypotekskassan,
+
+c) ett värdepappersbolag med tillstånd att som sidotjänst ta emot kunders medel på konto för att underlätta värdepappersrörelsen enligt 2 kap. 2 § första stycket 8 lagen (2007:528) om värdepappersmarknaden,
+
+d) ett svenskt aktiebolag som är ett sådant värdepappersföretag som avses i artikel 1.2 a eller b i värdepappersbolagsförordningen,
+
+e) ett värdepappersbolag för vilket ett beslut av Finansinspektionen enligt 3 a § gäller,
+
+f) ett svenskt aktiebolag som är ett sådant värdepappersföretag som avses i artikel 1.5 i värdepappersbolagsförordningen, och
+
+g) ett svenskt aktiebolag som är ett sådant värdepappersföretag som avses i artikel 4.1.1 b i tillsynsförordningen och för vilket det inte finns ett beslut av Finansinspektionen enligt 8 kap. 1 d § lagen om värdepappersmarknaden,
+
+8. litet och icke-sammanlänkat värdepappersbolag: ett värdepappersbolag som anses vara ett litet och icke- sammanlänkat värdepappersföretag enligt artikel 12.1 i värdepappersbolagsförordningen,
+
+9. moderföretag:
+
+a) i 3 a och 4 a kap., 6 kap. 2 § andra stycket och 7 a kap. 1 §, ett företag som avses i 4.1.42 i värdepappersbolagsförordningen,
+
+b) i 10 kap. 2 § 10, i fråga om moderföretag som avses i 6 kap. 2 § andra stycket, ett företag som avses i a,
+
+c) i övrigt, ett företag som avses i artikel 4.1.15 i tillsynsförordningen,
+
+10. nyckelperson: den som utan att vara styrelseledamot eller verkställande direktör i ett finansiellt holdingföretag eller blandat finansiellt holdingföretag utövar ett betydande inflytande över verksamheten,
+
+11. på gruppnivå: detsamma som i artikel 4.1.48 i tillsyns- förordningen,
+
+12. på undergruppsnivå: detsamma som i artikel 4.1.49 i tillsynsförordningen,
+
+13. systemrisk: detsamma som i 1 kap. 2 § 12 lagen (2014:966) om kapitalbuffertar,
+
+14. värdepappersbolag: ett värdepappersbolag som avses i 1 kap. 4 b § lagen om värdepappersmarknaden, utom sådana värdepappersbolag som avses i 7 c-g,
+
+15. värdepappersföretagskoncern: detsamma som i artikel 4.1.25 i värdepappersbolagsförordningen,
+
+16. värdepappersinriktat holdingföretag: ett företag som avses i artikel 4.1.23 i värdepappersbolagsförordningen,
+
+17. värdepappersinriktat moderholdingföretag inom EES: ett företag som avses i artikel 4.1.57 i värdepappersbolagsförordningen.
+
+Termer och uttryck i övrigt i denna lag har samma betydelse som i tillsynsförordningen. *Lag (2026:1072)*.
+
+### Tillsynsförordningens tillämpning
+
+#### 3 §
+
+De bestämmelser i tillsynsförordningen som enligt förordningen gäller för kreditinstitut ska tillämpas även för sådana kreditinstitut enligt lagen (2004:297) om bank- och finansieringsrörelse som inte omfattas av förordningens definition av kreditinstitut.
+
+De bestämmelser i tillsynsförordningen som enligt förordningen gäller för kreditinstitut ska, med undantag av bestämmelserna om stora exponeringar, tillämpas även för Svenska skeppshypotekskassan. *Lag (2020:1213)*.
+
+#### 3 a §
+
+Finansinspektionen får besluta att tillsynsförordningen ska tillämpas i fråga om ett värdepappersbolag
+
+1. vars konsoliderade tillgångar, beräknade som ett genomsnitt för den senaste sammanhängande tolvmånadersperioden, motsvarar minst fem miljarder euro, och
+
+2. som driver verksamhet som omfattar investeringstjänster eller investeringsverksamhet som avses i 2 kap. 1 § 3 eller 6 lagen (2007:528) om värdepappersmarknaden men som inte är råvaruhandlare eller utsläppsrättshandlare.
+
+Första stycket gäller om
+
+1. värdepappersbolagets verksamhet har en sådan omfattning att en systemrisk skulle kunna uppstå om bolaget fallerar eller hamnar i kris,
+
+2. värdepappersbolaget är clearingmedlem, eller
+
+3. Finansinspektionen anser att det är motiverat mot bakgrund av värdepappersbolagets verksamhet och dess storlek, art, omfattning och komplexitet med beaktande av
+
+a) betydelsen för EES eller Sveriges ekonomi,
+
+b) betydelsen av bolagets gränsöverskridande verksamhet, eller
+
+c) bolagets sammanlänkning med det finansiella systemet.
+
+*Lag (2021:481)*.
+
+#### 3 b §
+
+Finansinspektionen får upphäva ett beslut enligt 3 a § och ska i så fall utan dröjsmål underrätta värdepappersbolaget om detta.
+
+Ett beslut enligt 3 a § upphör att gälla om värdepappersbolagets konsoliderade tillgångar understiger det belopp som anges där, beräknat som ett genomsnitt för den senaste sammanhängande tolvmånadersperioden. *Lag (2021:481)*.
+
+### Behörig myndighet
+
+#### 4 §
+
+Finansinspektionen är behörig myndighet enligt tillsynsförordningen och värdepappersbolagsförordningen och utövar tillsyn över att förordningarna och denna lag följs.
+
+Finansinspektionen är ansvarig myndighet enligt artiklarna 124, 164 och 458 i tillsynsförordningen.
+
+I fråga om tillsynen och möjlighet att ingripa mot kreditinstitut och värdepappersbolag gäller bestämmelserna i de lagar som reglerar företagens verksamhet, om inte annat följer av denna lag. *Lag (2021:481)*.
+
+### Riksbanken
+
+#### 4 a §
+
+Riksbanken får tillhandahålla och ta ut avgifter för likviditets- och kreditfaciliteter som avses i artikel 412.1 i tillsynsförordningen.
+
+Riksbanken ska fatta beslut om likviditets- och kreditfaciliteter efter att Finansinspektionen har fått tillfälle att lämna synpunkter. *Lag (2022:1584)*.
+
+### Europabolag och europakooperativ
+
+#### 5 §
+
+I fråga om europabolag och europakooperativ med sådant förvaltningsorgan som avses i artiklarna 39-42 i rådets förordning (EG) nr 2157/2001 av den 8 oktober 2001 om stadga för europabolag eller artiklarna 37-41 i rådets förordning (EG) nr 1435/2010 av den 22 juli 2003 om stadga för de europeiska kooperativa föreningarna (SCE-föreningarna) tillämpas det som sägs i 6 kap. 10 och 12 §§ om styrelseledamot på ledamot i tillsynsorganet.
+
+Att de bestämmelser som anges i första stycket ska tillämpas också på ledamot i ett europabolags eller ett europakooperativs lednings- eller förvaltningsorgan framgår av 16 § andra stycket och 22 § lagen (2004:575) om europabolag samt 21 § andra stycket och 26 § lagen (2006:595) om europakooperativ. *Lag (2020:1213)*.
+
+### Betalningsinstitut
+
+#### 6 §
+
+Att vissa bestämmelser i denna lag gäller även för betalningsinstitut framgår av 3 kap. 2 § lagen (2010:751) om betaltjänster. *Lag (2020:1213)*.
+
+### Särskilda bestämmelser om krav på godkännande av finansiella holdingföretag och blandade finansiella holdingföretag
+
+#### 7 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+#### 8 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+#### 9 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+#### 10 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+#### 11 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+#### 12 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+#### 13 §
+
+Har upphävts genom *lag (2026:1072)*.
+
+### Vinstutdelning
+
+#### 14 §
+
+Bestämmelserna om vinstutdelning på begäran av en aktieägarminoritet i 18 kap. 11 § aktiebolagslagen (2005:551) gäller inte för
+
+1. kreditinstitut,
+
+2. värdepappersbolag, eller
+
+3. sådana holdingföretag som på grupp- eller undergruppsnivå ska uppfylla kapitalbaskraven i artikel 92 i tillsynsförordningen eller artikel 11 i värdepappersbolagsförordningen. *Lag (2023:617)*.
+
+## 1 a kap. Särskilda krav på godkännande och tillstånd
+
+### Godkännande av finansiella holdingföretag och blandade finansiella holdingföretag
+
+### Företag som omfattas
+
+#### 1 §
+
+Följande företag ska hos Finansinspektionen ansöka om godkännande eller undantag från kravet på godkännande:
+
+1. ett finansiellt moderholdingföretag eller ett blandat finansiellt moderholdingföretag,
+
+2. ett annat finansiellt holdingföretag eller blandat finansiellt holdingföretag än som avses i 1 som ska uppfylla kraven i tillsynsförordningen, denna lag och lagen (2014:966) om kapitalbuffertar på grupp- eller undergruppsnivå,
+
+3. ett utländskt finansiellt moderholdingföretag eller blandat finansiellt moderholdingföretag som är etablerat i ett annat land inom EES, om Finansinspektionen är samordnande tillsynsmyndighet, och
+
+4. ett annat utländskt finansiellt holdingföretag eller blandat finansiellt holdingföretag än som avses i 3 som är etablerat i ett annat land inom EES och som ska uppfylla kraven i tillsynsförordningen och nationell lagstiftning som i hemlandet genomför kapitaltäckningsdirektivet på grupp- eller undergruppsnivå, om Finansinspektionen är samordnande tillsynsmyndighet. *Lag (2026:1072)*.
+
+### Krav på godkännande
+
+#### 2 §
+
+Finansinspektionen ska bevilja godkännande, om
+
+1. arbetsfördelningen inom gruppen är sådan att kraven i tillsynsförordningen, denna lag och lagen (2014:966) om kapitalbuffertar kan upp-fyllas på grupp- eller undergruppsnivå,
+
+2. organisationsstrukturen inte hindrar en effektiv tillsyn över att instituten inom gruppen uppfyller de krav som avses i 1 på individuell nivå och grupp- och undergruppsnivå,
+
+3. den som ska vara
+
+a) styrelseledamot, verkställande direktör eller ersättare för någon av dem är lämplig för en sådan uppgift genom att ha tillräckligt gott anseende och tillräcklig insikt, kunskap och erfarenhet för att delta i ledningen och även i övrigt agerar med ärlighet, integritet och självständigt tänkande,
+
+b) nyckelperson är lämplig för en sådan uppgift genom att ha tillräckligt gott anseende och tillräcklig insikt, kunskap och erfarenhet för att utöva ett betydande inflytande över verksamheten och även i övrigt agerar med ärlighet och integritet,
+
+4. styrelsen i sin helhet har tillräckliga kunskaper och erfarenheter för att leda företaget, och
+
+5. holdingföretaget har ett eller flera kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g eller motsvarande utländska företag inom EES som dotterföretag, samt
+
+a) information lämnas om större ägare i institutet,
+
+b) den som har eller kan förväntas komma att få ett kvalificerat innehav i institutet bedöms lämplig att utöva ett väsentligt inflytande över ledningen av institutet, och
+
+c) institutets nära förbindelser med andra företag inte hindrar en effektiv tillsyn över institutet. *Lag (2026:1072)*.
+
+### Undantag från kravet på godkännande
+
+#### 3 §
+
+Finansinspektionen ska medge undantag från kravet på god- kännande, om
+
+1. den huvudsakliga verksamheten är att
+
+a) förvärva eller inneha aktier eller andelar i dotterföretag, när det gäller ett finansiellt holdingföretag, eller
+
+b) förvärva eller inneha aktier eller andelar i dotterföretag som är institut eller finansiella institut, när det gäller ett blandat finansiellt holdingföretag,
+
+2. holdingföretaget inte har utsetts till resolutionsenhet i någon av gruppens resolutionsgrupper,
+
+3. ett dotterföretag som är ett kreditinstitut eller ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som har godkänts enligt 2 § eller ett motsvarande utländskt företag inom EES ansvarar för att säker- ställa att kraven i 3 kap. 2 § uppfylls,
+
+4. holdingföretaget inte medverkar till att påverka driften av gruppen eller dotterföretag som är institut eller finansiella institut, och
+
+5. det inte finns något som hindrar en effektiv tillsyn på gruppnivå.
+
+Finansinspektionen får undanta ett holdingföretag som omfattas av första stycket från konsolideringen enligt artikel 18 i tillsynsförordningen, om
+
+1. det inte hindrar en effektiv tillsyn över gruppen eller ett dotterföretag som är ett kreditinstitut,
+
+2. holdingföretaget inte innehar andelar i något annat företag än ett dotterföretag som är ett kreditinstitut eller ett intermediärt finansiellt moderholdingföretag eller blandat finansiellt moderholdingföretag som kontrollerar dotterföretaget,
+
+3. holdingföretaget inte har finansiella skulder i väsentlig utsträckning, och
+
+4. holdingföretaget inte har övriga skulder till andra företag än de som avses i 2. *Lag (2026:1072)*.
+
+### Tidsfrist för att fatta beslut
+
+#### 4 §
+
+Finansinspektionen ska i ärenden om godkännande enligt 2 § och om undantag från kravet på godkännande enligt 3 § fatta beslut
+
+1. inom fyra månader från det att en ansökan har tagits emot, om beslutet innebär att ansökan avslås, eller
+
+2. inom sex månader från det att ansökan har tagits emot, om beslutet innebär att godkännande eller undantag från kravet på godkännande beviljas.
+
+Om en ansökan är ofullständig gäller för ett beslut enligt första stycket 1 i stället att beslutet ska fattas inom fyra månader från det att en fullständig ansökan tagits emot, dock senast inom sex månader från det att ansökan tagits emot.
+
+*Lag (2026:1072)*.
+
+### Gränsöverskridande grupper
+
+#### 5 §
+
+Om Finansinspektionen är samordnande tillsynsmyndighet och en ansökan avser ett holdingföretag som är etablerat i ett annat land inom EES, ska inspektionen och den behöriga myndigheten i holdingföretagets hemland fatta ett gemensamt beslut om godkännande, undantag från kravet på godkännande eller undantag från konsolidering. Finansinspektionen ska då lämna en bedömning av ansökan till den behöriga myndigheten och meddela det gemensamma beslutet.
+
+Om Finansinspektionen inte är samordnande tillsynsmyndighet och en ansökan avser ett holdingföretag som är etablerat i Sverige, ska inspektionen och den samordnande tillsynsmyndigheten fatta ett gemensamt beslut om godkännande, undantag från kravet på godkännande eller undantag från konsolidering.
+
+Om en ansökan avser ett blandat finansiellt holdingföretag ska det gemensamma beslutet föregås av samtycke från den myndighet som avses i artikel 10 i Europaparlamentets och rådets direktiv 2002/87/EG av den 16 december 2002 om extra tillsyn över kreditinstitut, försäkringsföretag och värde- pappersföretag i ett finansiellt konglomerat och om ändring av rådets direktiv 73/239/EEG, 79/267/EEG, 92/49/EEG, 92/96/EEG, 93/6/EEG och 93/22/EEG samt Europaparlamentets och rådets direktiv 98/78/EG och 2000/12/EG, i den ursprungliga lydelsen.
+
+*Lag (2026:1072)*.
+
+#### 6 §
+
+Det gemensamma beslutet enligt 5 § ska fattas inom två månader från det att
+
+- den behöriga myndigheten i holdingföretagets hemland har tagit emot Finansinspektionens bedömning av ansökan, eller
+
+- Finansinspektionen har tagit emot den samordnande tillsynsmyndighetens bedömning av ansökan. *Lag (2026:1072)*.
+
+#### 7 §
+
+Om ett gemensamt beslut inte kan fattas enligt 5 § ska ärendet hänskjutas till
+
+1. Europeiska bankmyndigheten, när det gäller ett finansiellt holdingföretag, eller
+
+2. Europeiska bankmyndigheten eller Europeiska försäkrings- och tjänstepensionsmyndigheten, när det gäller ett blandat finansiellt holdingföretag.
+
+Om Finansinspektionen är samordnande tillsynsmyndighet ska inspektionen därefter fatta ett beslut i överensstämmelse med Europeiska bankmyndighetens eller Europeiska försäkrings- och tjänstepensionsmyndighetens beslut.
+
+Ärendet får inte hänskjutas till Europeiska bankmyndigheten eller Europeiska försäkrings- och tjänstepensionsmyndigheten efter det att tiden enligt 6 § har löpt ut eller ett gemensamt beslut har fattats. *Lag (2026:1072)*.
+
+### Väsentligt innehav
+
+### Ansökan om tillstånd för förvärv av ett väsentligt innehav
+
+#### 8 §
+
+Följande företag ska hos Finansinspektionen skriftligen ansöka om tillstånd för att, direkt eller indirekt, förvärva aktier eller andelar som medför att förvärvarens sammanlagda innehav utgör 15 procent eller mer av det godtagbara kapitalet enligt artikel 4.1.71 a i tillsynsförordningen (väsentligt förvärv):
+
+1. ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g, eller ett motsvarande utländskt kreditinstitut inom EES, om Finansinspektionen är samordnande tillsynsmyndighet,
+
+2. ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2, eller ett motsvarande utländskt holdingföretag inom EES, om Finansinspektionen är samordnande tillsynsmyndighet.
+
+*Lag (2026:1072)*.
+
+#### 9 §
+
+Om förvärvaren är ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g, eller ett motsvarande utländskt institut inom EES, ska det förvärv som avses i 8 § beräknas på individuell nivå och på gruppnivå.
+
+Om förvärvaren är ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2 eller ett motsvarande utländskt holdingföretag inom EES ska det väsentliga förvärvet beräknas utifrån den konsoliderade situationen. *Lag (2026:1072)*.
+
+#### 10 §
+
+Finansinspektionen får avstå från att pröva en ansökan om tillstånd till ett väsentligt förvärv om förvärvet omfattar företag som ingår i samma institutionella skyddssystem som avses i artikel 113.6 eller 113.7 i tillsynsförordningen. *Lag (2026:1072)*.
+
+### Förutsättningar för tillstånd
+
+#### 11 §
+
+Finansinspektionen ska ge förvärvaren tillstånd till ett väsentligt förvärv om förvärvaren efter förvärvet kommer att ha en tillfredsställande kontroll över sin verksamhet, särskilt när det gäller de risker som förvärvaren är eller kan komma att bli exponerad för. *Lag (2026:1072)*.
+
+Vid bedömningen ska det beaktas
+
+1. om det finns skäl att anta att förvärvarens verksamhet bedrivs på ett sätt som är förenligt med denna lag och andra författningar som reglerar dess verksamhet, och
+
+2. om det finns skäl att anta att förvärvet har samband med eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 6 § lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) finansiering av terrorism enligt 6 § terroristbrottslagen (2022:666) eller försök till sådant brott, avseende terroristbrott enligt 4 § samma lag.
+
+Inför bedömningen enligt andra stycket 2 ska berörda svenska och utländska tillsynsmyndigheter få tillfälle att inom 30 arbetsdagar lämna synpunkter. *Lag (2026:1072)*.
+
+#### 12 §
+
+Beslut om tillstånd för ett väsentligt förvärv får meddelas först efter det att utländska behöriga myndigheter inom EES har fått tillfälle att lämna synpunkter, om förvärvet avser
+
+1. ett utländskt
+
+a) försäkringsföretag,
+
+b) förvaltningsbolag,
+
+c) institut för elektroniska pengar,
+
+d) kreditinstitut, eller
+
+e) värdepappersföretag,
+
+2. ett moderföretag till ett sådant företag som avses i 1, eller
+
+3. en juridisk person som kontrollerar ett sådant företag som avses i 1. *Lag (2026:1072)*.
+
+### Tidsfrister
+
+#### 13 §
+
+Finansinspektionen ska så snart som möjligt, dock senast inom tio arbetsdagar efter det att ansökan om tillstånd för ett väsentligt förvärv har kommit in, skriftligen bekräfta att ansökan har tagits emot. *Lag (2026:1072)*.
+
+#### 14 §
+
+Finansinspektionen ska meddela beslut om tillstånd för ett väsentligt förvärv inom 60 arbetsdagar efter det att ansökan bekräftades (bedömningsperioden). Om Finansinspektionen begär kompletterande uppgifter, får be- dömningsperioden förlängas.
+
+Finansinspektionen ska anses ha beviljat tillstånd för förvärvet, om inspektionen inte inom bedömningsperioden har meddelat beslut i fråga om ansökan.
+
+Om Finansinspektionen beviljar tillstånd för ett väsentligt förvärv, får inspektionen besluta inom vilken tid förvärvet ska genomföras. *Lag (2026:1072)*.
+
+#### 15 §
+
+Om det samtidigt med en prövning av en ansökan om tillstånd för ett väsentligt förvärv pågår en prövning av en ansökan om tillstånd för ett kvalificerat innehav enligt 14 kap. lagen (2004:297) om bank- och finansieringsrörelse ska den bedömningsperiod som upphör senast gälla för båda pröv- ningarna.
+
+Om det samtidigt med en prövning av en ansökan om tillstånd för ett väsentligt förvärv pågår en prövning av en ansökan av ett finansiellt holdingföretag eller blandat finansiellt holdingföretag enligt 2 eller 3 § ska bedömningsperioden enligt 14 § löpa till dess att ett beslut i ärendet om godkännande eller undantag från kravet på godkännande har meddelats. *Lag (2026:1072)*.
+
+### Särskilda tillsynsbefogenheter
+
+#### 16 §
+
+Om någon i strid med ett beslut av Finansinspektionen har gjort ett väsentligt förvärv, får inspektionen besluta att rösträtten inte får utövas till den del innehavet står i strid med beslutet. *Lag (2026:1072)*.
+
+### Gränsöverskridande grupper
+
+#### 17 §
+
+Om Finansinspektionen är samordnande tillsynsmyndighet och en ansökan avser ett väsentligt förvärv på individuell nivå och på gruppnivå, ska inspektionen tillsammans med den behöriga myndigheten för förvärvaren fatta ett gemensamt beslut om ansökan. Finansinspektionen ska då lämna en bedömning av ansökan till den behöriga myndigheten och meddela det gemensamma beslutet.
+
+Om Finansinspektionen är behörig myndighet men inte samordnande tillsynsmyndighet och en ansökan avser ett väsentligt förvärv på individuell nivå och på gruppnivå, ska inspektionen och den samordnande tillsynsmyndigheten fatta ett gemensamt beslut om ansökan. *Lag (2026:1072)*.
+
+#### 18 §
+
+Det gemensamma beslutet enligt 17 § ska fattas inom två månader från det att
+
+1. den behöriga myndigheten i kreditinstitutets eller holdingföretagets hemland har tagit emot Finansinspektionens bedömning av ansökan, eller
+
+2. Finansinspektionen har tagit emot den samordnande myndighetens bedömning av ansökan. *Lag (2026:1072)*.
+
+#### 19 §
+
+Om ett gemensamt beslut inte kan fattas enligt 17 § ska ärendet hänskjutas till Europeiska bankmyndigheten.
+
+Om Finansinspektionen är samordnande tillsynsmyndighet eller behörig myndighet för ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g eller ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som ska ansöka om godkännande enligt 1 § och ansökan avser ett förvärv på gruppnivå, ska inspektionen därefter fatta ett beslut i överensstämmelse med Europeiska bankmyndighetens beslut.
+
+Ärendet får inte hänskjutas till Europeiska bankmyndigheten efter det att tiden enligt 18 § har löpt ut eller ett gemensamt beslut har fattats. *Lag (2026:1072)*.
+
+### Avyttring av ett väsentligt innehav
+
+#### 20 §
+
+Följande företag ska skriftligen underrätta Finansinspektionen om det avser att avyttra ett väsentligt innehav:
+
+1. ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g,
+
+2. ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2. *Lag (2026:1072)*.
+
+### Väsentlig överföring av tillgångar eller skulder
+
+#### 21 §
+
+Följande företag ska i förväg hos Finansinspektionen skriftligen ansöka om tillstånd för att genomföra överföringar motsvarande tio procent eller mer av de sammanlagda tillgångarna eller skulderna genom en försäljning eller annan transaktion (väsentlig överföring):
+
+1. ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g,
+
+2. ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2. *Lag (2026:1072)*.
+
+#### 22 §
+
+Om överföringen görs av ett finansiellt moderholdingföretag eller blandat finansiellt moderholdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2, ska den väsentliga överföringen beräknas utifrån den konsoliderade situationen. *Lag (2026:1072)*.
+
+#### 23 §
+
+Om överföringen görs mellan företag som ingår i samma grupp är överföringen väsentlig om den motsvarar 15 procent eller mer av de sammanlagda tillgångarna eller skulderna. *Lag (2026:1072)*.
+
+#### 24 §
+
+Finansinspektionen ska så snart som möjligt, dock senast inom tio arbetsdagar, bekräfta att en ansökan har tagits emot eller kompletterats. *Lag (2026:1072)*.
+
+### Fusion
+
+#### 25 §
+
+Ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g får vara överlåtande företag vid en fusion bara om det övertagande företaget är ett sådant kreditinstitut eller om det övertagande företaget är en motsvarande utländsk juridisk person inom EES. Detsamma gäller för ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2. *Lag (2026:1072)*.
+
+#### 26 §
+
+Bestämmelserna i 27-37 §§ ska tillämpas vid en fusion mellan
+
+1. bankaktiebolag,
+
+2. medlemsbanker,
+
+3. kreditmarknadsföretag,
+
+4. sådana värdepappersbolag som avses i 1 kap. 2 § första stycket 7 g,
+
+5. finansiella holdingföretag eller blandade finansiella holdingföretag som ska ansöka om godkännande enligt 1 § 1 eller 2.
+
+Vid tillämpningen av 23 kap. 45 b § aktiebolagslagen (2005:551) och 16 kap. 41 b § lagen (2018:672) om ekonomiska föreningar ska det som anges om Bolagsverket i stället avse Finansinspektionen.
+
+Vid en fusion mellan en medlemsbank eller en kreditmarknadsförening och ett helägt dotterbolag gäller 27 och 28 §§, 29 § andra stycket, 30 § första stycket 2, 32 och 33 §§ i tillämpliga delar. Det som där anges om överlåtande företag ska då i stället avse dotterbolaget. *Lag (2026:1072)*.
+
+#### 27 §
+
+När fusionsplanen har börjat gälla i samtliga företag, ska såväl det eller de överlåtande företagen som det övertagande företaget ansöka hos Finansinspektionen om tillstånd att verkställa planen. Vid en gränsöverskridande fusion ska ansökan göras av det eller de svenska företag som deltar i fusionen.
+
+Vid fusion genom kombination ska företagen dessutom ansöka om följande tillstånd eller godkännande för det övertagande företaget, om det företaget ska ha sin hemvist i Sverige:
+
+1. tillstånd enligt 3 kap. 2 § och godkännande av bolagsordningen eller stadgarna enligt 3 kap. 3 § lagen (2004:297) om bank- och finansieringsrörelse, eller
+
+2. godkännande enligt 2 § denna lag. *Lag (2026:1072)*.
+
+#### 28 §
+
+En ansökan enligt 27 § ska ges in inom en månad efter det att fusionsplanen har börjat gälla i samtliga företag. Om planen har registrerats enligt 23 kap. 14 § första stycket aktiebolagslagen (2005:551) eller 16 kap. 12 § lagen (2018:672) om ekonomiska föreningar, gäller dessutom att ansökan ska ges in senast två år efter det att en uppgift om att planen registrerats har kungjorts enligt 27 kap. 3 § aktiebolagslagen eller 19 kap. 5 § lagen om ekonomiska föreningar. *Lag (2026:1072)*.
+
+#### 29 §
+
+Finansinspektionen ska så snart som möjligt, dock senast inom tio arbetsdagar, skriftligen bekräfta att en ansökan har tagits emot.
+
+Finansinspektionen ska underrätta Bolagsverket om en mottagen ansökan och om det beslut som har meddelats med anledning av denna.
+
+Om Finansinspektionen beviljar tillstånd att verkställa fusionsplanen får inspektionen besluta inom vilken tid fusionen ska genomföras. *Lag (2026:1072)*.
+
+#### 30 §
+
+Vid behandlingen av en ansökan om tillstånd att verkställa en fusionsplan ska Finansinspektionen pröva
+
+1. om företaget efter fusionen kommer att ha en tillfredsställande kontroll över sin verksamhet, särskilt när det gäller de risker som det är eller kan bli exponerat för,
+
+2. att företagens borgenärer tillförsäkras betryggande säkerhet, om sådant skydd behövs med hänsyn till de fusionerande företagens ekonomiska förhållanden och borgenärerna inte redan har en sådan säkerhet,
+
+3. om det finns skäl att anta att företagets verksamhet efter fusionen bedrivs på ett sätt som är förenligt med denna lag och andra författningar som reglerar verksamheten, och
+
+4. om det finns skäl att anta att fusionen har samband med eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 6 § lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) finansiering av terrorism enligt 6 § terroristbrottslagen (2022:666) eller försök till sådant brott, avseende terroristbrott enligt 4 § samma lag.
+
+Vid bedömningen enligt första stycket 1 ska Finansinspektionen särskilt beakta
+
+1. företagens anseende, och
+
+2. om företagens verksamhet bedrivs på ett sätt som är sunt.
+
+Inför bedömningen enligt första stycket 4 ska berörda utländska tillsynsmyndigheter få tillfälle att inom 30 arbetsdagar lämna synpunkter. *Lag (2026:1072)*.
+
+#### 31 §
+
+Beslut om tillstånd att verkställa en fusionsplan får meddelas först efter det att utländska behöriga myndigheter inom EES har fått tillfälle att lämna synpunkter, om något av de företag som deltar i fusionen är
+
+1. ett utländskt
+
+a) försäkringsföretag,
+
+b) förvaltningsbolag,
+
+c) institut för elektroniska pengar,
+
+d) kreditinstitut, eller
+
+e) värdepappersföretag,
+
+2. ett moderföretag till ett sådant företag som avses i 1, eller
+
+3. en juridisk person som kontrollerar ett sådant företag som avses i 1. *Lag (2026:1072)*.
+
+#### 32 §
+
+Vid prövning av en ansökan om tillstånd att verkställa en fusionsplan mellan företag som ingår i samma grupp får Finansinspektionen begränsa prövningen till de omständigheter som avses i 30 § första stycket 2.
+
+Finansinspektionens beslut om tillstånd att verkställa en fusionsplan när företagen ingår i samma grupp ska meddelas inom 60 arbetsdagar efter det att mottagandet av ansökan bekräftades (bedömningsperioden). Om Finansinspektionen begär kompletterande uppgifter, får bedömningsperioden förlängas.
+
+Finansinspektionen ska anses ha beviljat tillstånd till fusionen om inspektionen inte inom bedömningsperioden har meddelat beslut i fråga om ansökan. *Lag (2026:1072)*.
+
+#### 33 §
+
+Finansinspektionen ska avslå en ansökan om tillstånd att verkställa en fusionsplan, om
+
+1. fusionsplanen inte har godkänts i behörig ordning eller till sitt innehåll strider mot lag eller annan författning eller mot bolagsordningen eller stadgarna,
+
+2. fusionen har förbjudits enligt konkurrenslagen (2008:579) eller enligt rådets förordning (EG) nr 139/2004 av den 20 januari 2004 om kontroll av företagskoncentrationer eller om prövning av fusionen pågår enligt lagen eller förordningen,
+
+3. revisorsyttrandena enligt 23 kap. 11 § aktiebolagslagen (2005:551) vid kombination inte utvisar att de överlåtande bolagens sammanlagda verkliga värde för det övertagande bolaget uppgår till minst aktiekapitalet i detta,
+
+4. företagens borgenärer inte har tillförsäkrats sådan betryggande säkerhet som avses i 30 § första stycket 2 eller de fusionerande företagens ekonomiska förhållanden i övrigt är sådana att fusionen inte kan anses förenlig med insättares eller andra fordringsägares intressen,
+
+5. förutsättningarna enligt 30 § första stycket 1, 3 eller 4 inte är uppfyllda,
+
+6. det är motiverat av hänsyn till allmänintresset,
+
+7. det enligt 23 kap. 36 c § aktiebolagslagen eller 16 kap. 30 b § lagen (2018:672) om ekonomiska föreningar finns hinder mot att ett eller flera av de svenska företagen deltar i en gränsöverskridande fusion,
+
+8. fusionen genomförs för ändamål som är brottsliga eller medför eller syftar till ett otillbörligt kringgående av unionsrätten eller nationell rätt, eller
+
+9. fusionen förutsätter ett förfarande enligt lagen (2008:9) om arbetstagares medverkan vid gränsöverskridande fusioner, delningar och ombildningar men något sådant förfarande inte har inletts.
+
+Om ansökan inte kan bifallas på grund av att prövning pågår enligt konkurrenslagen eller rådets förordning (EG) nr 139/2004 och prövningen kan antas bli avslutad inom kort tid, får tillståndsfrågan förklaras vilande under högst sex månader. *Lag (2026:1072)*.
+
+#### 34 §
+
+I stället för det som föreskrivs i 23 kap. 25 § andra stycket aktiebolagslagen (2005:551) eller 16 kap. 24 § andra stycket lagen (2018:672) om ekonomiska föreningar om tidpunkten för anmälan av fusionen för registrering, ska anmälan göras senast två månader från det att Finans- inspektionens tillstånd att verkställa fusionsplanen har fått laga kraft. *Lag (2026:1072)*.
+
+#### 35 §
+
+Fusion genom absorption av ett helägt dotterbolag eller fusion mellan en kreditmarknadsförening och ett helägt dotteraktiebolag får ske även om det i dotterbolaget finns egendom som kreditinstitutet inte får förvärva enligt lagen (2004:297) om bank- och finansieringsrörelse. Sådan egendom ska då avyttras senast ett år från registreringen. Om det finns särskilda skäl, får Finansinspektionen förlänga denna frist. *Lag (2026:1072)*.
+
+#### 36 §
+
+Vid absorption av ett helägt dotterbolag tillämpas inte 23 kap. 32 och 33 §§ aktiebolagslagen (2005:551). I stället ska moder- och dotterbolaget ansöka om tillstånd att verkställa fusionsplanen hos Finansinspektionen. Ansökan ska ges in inom en månad efter det att fusionsplanen har börjat gälla hos moderbolaget. Om fusionsplanen har registrerats enligt 23 kap. 30 § aktiebolagslagen, ska ansökan dessutom ges in senast två år efter det att en uppgift om att planen registrerats har kungjorts enligt 27 kap. 3 § samma lag.
+
+I ett ärende som avser absorption av ett helägt dotterbolag gäller 30, 32 och 33 §§ i tillämpliga delar. Det som anges om överlåtande bolag ska avse dotterbolag och det som anges om övertagande bolag ska avse moderbolag.
+
+Finansinspektionen ska underrätta Bolagsverket om en ansökan enligt första stycket och om ett beslut som har meddelats med anledning av denna. Bolagsverket ska, efter en sådan underrättelse, registrera tillståndet enligt 23 kap. 34 § aktiebolagslagen. *Lag (2026:1072)*.
+
+#### 37 §
+
+Det som anges i 23 kap. 56 § tredje stycket aktiebolagslagen (2005:551) om att väcka talan tillämpas inte. I stället gäller, utöver det som anges i 7 kap. 51 § första stycket och 23 kap. 56 § första stycket aktiebolagslagen, att talan inte får väckas efter det att Finansinspektionen eller en domstol genom ett beslut som har fått laga kraft har lämnat tillstånd att verkställa fusionsplanen. *Lag (2026:1072)*.
+
+### Delning
+
+### Inhemsk delning
+
+#### 38 §
+
+Bestämmelserna i 39-45 §§ ska tillämpas när ett bankaktiebolag, ett kreditmarknadsbolag, ett svenskt aktiebolag som är ett sådant värdepappersbolag som avses i 1 kap. 2 § första stycket 7 g eller ett finansiellt holdingbolag eller blandat finansiellt holdingbolag som ska ansöka om godkännande enligt 1 § 1 eller 2 deltar i en inhemsk delning.
+
+De bolag som avses i första stycket får inte genom inhemsk delning överlåta verksamhet som bara får bedrivas efter tillstånd eller godkännande till ett bolag som inte har tillstånd eller godkännande för sådan verksamhet.
+
+Det överlåtande bolaget ska underrätta Finansinspektionen när delningsplanen har börjat gälla i samtliga bolag. *Lag (2026:1072)*.
+
+#### 39 §
+
+Finansinspektionen ska så snart som möjligt, dock senast inom tio arbetsdagar, skriftligen bekräfta att en underrättelse enligt 38 § har tagits emot. *Lag (2026:1072)*.
+
+#### 40 §
+
+Bolagsverket ska vid behandlingen av en ansökan om tillstånd att verkställa en delningsplan inhämta ett yttrande från Finansinspektionen. *Lag (2026:1072)*.
+
+Av yttrandet ska det framgå om
+
+1. bolagen efter delningen kommer att ha en tillfredsställande kontroll över sin verksamhet, särskilt när det gäller de risker som de är eller kan bli exponerade för,
+
+2. det överlåtande bolagets borgenärer tillförsäkrats betryggande säkerhet, om sådant skydd behövs med hänsyn till de deltagande bolagens ekonomiska förhållanden och borgenärerna inte redan har en sådan säkerhet,
+
+3. de deltagande bolagens ekonomiska förhållanden i övrigt är sådana att delningen kan anses förenlig med insättares eller andra fordringsägares intressen,
+
+4. det finns skäl att anta att bolagens verksamhet bedrivs på ett sätt som är förenligt med denna lag och andra författningar som reglerar verksamheten, och
+
+5. det finns skäl att anta att delningen har samband med eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 6 § lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) finansiering av terrorism enligt 6 § terroristbrottslagen (2022:666) eller försök till sådant brott, avseende terroristbrott enligt 4 § samma lag.
+
+Vid bedömningen enligt andra stycket 1 ska Finansinspektionen särskilt beakta
+
+1. bolagens anseende, och
+
+2. om bolagens verksamhet bedrivs på ett sätt som är sunt.
+
+*Lag (2026:1072)*.
+
+#### 41 §
+
+Vid en delning mellan bolag som ingår i samma grupp ska Finansinspektionen yttra sig enligt 40 § inom 60 arbetsdagar efter det att mottagandet av underrättelsen bekräftades (bedömningsperioden). Om Finansinspektionen begär kompletterande uppgifter, får bedömningsperioden förlängas.
+
+Om Finansinspektionen inte har några synpunkter på delningen, får inspektionen ange en viss tid inom vilken delningen ska genomföras. *Lag (2026:1072)*.
+
+#### 42 §
+
+Finansinspektionens yttrande enligt 40 § ska vara skriftligt. Finansinspektionen ska underrätta de bolag som deltar i delningen inom två arbetsdagar från det att bedömningsperioden gått ut. *Lag (2026:1072)*.
+
+#### 43 §
+
+När Finansinspektionen har gett in sitt yttrande och den tid som borgenärerna kan motsätta sig ansökan enligt 24 kap. 25 § aktiebolagslagen (2005:551) har gått ut, ska Bolagsverket överlämna ärendet till tingsrätten i den ort där styrelsen i det överlåtande bolaget har sitt säte. *Lag (2026:1072)*.
+
+#### 44 §
+
+Allmän domstol ska avslå en ansökan om tillstånd att verkställa delningsplanen om
+
+1. det inte av Finansinspektionens yttrande framgår att
+
+a) det överlåtande bolagets borgenärer har tillförsäkrats sådan betryggande säkerhet som avses i 40 § andra stycket 2,
+
+b) de deltagande bolagens ekonomiska förhållanden i övrigt är sådana att delningen kan anses förenlig med insättares eller andra fordringsägares intressen, eller
+
+c) förutsättningarna enligt 40 § andra stycket 1, 4 eller 5 inte är uppfyllda, och
+
+2. det inte visas att de borgenärer som har motsatt sig ansökan har fått full betalning eller har betryggande säkerhet för sina fordringar.
+
+Att någon av det överlåtande bolagets borgenärer motsätter sig ansökan hindrar inte att ansökan bifalls, om Finansinspektionens yttrande ger grund för att ge tillstånd.
+
+Om domstolen anser det nödvändigt får den begära att Finans- inspektionen kompletterar sitt yttrande. *Lag (2026:1072)*.
+
+#### 45 §
+
+Vid tillämpningen av 24 kap. 47 § aktiebolagslagen (2005:551) ska det som anges om Bolagsverket i stället avse Finansinspektionen. *Lag (2026:1072)*.
+
+### Gränsöverskridande delning
+
+#### 46 §
+
+Bestämmelserna i 47-55 §§ ska tillämpas när ett bankaktiebolag, ett kreditmarknadsbolag, ett sådant värdepappersbolag som avses i 1 kap. 2 § första stycket 7 g eller ett finansiellt holdingbolag eller blandat finansiellt holdingbolag som ska ansöka om godkännande enligt 1 § 1 eller 2 genomför en gränsöverskridande delning. *Lag (2026:1072)*.
+
+#### 47 §
+
+När ett bolag som avses i 46 § genomför en gränsöverskridande delning ska bolaget, efter att delningsplanen börjat gälla i bolaget, ansöka hos Finansinspektionen om tillstånd att verkställa planen.
+
+Ansökan ska ges in inom en månad efter det att delningsplanen har börjat gälla i bolaget. Om delningsplanen har registrerats enligt 24 kap. 16 § första stycket aktiebolagslagen (2005:551), gäller dessutom att ansökan ska ges in senast två år efter det att en uppgift om att planen registrerats har kungjorts enligt 27 kap. 3 § samma lag. *Lag (2026:1072)*.
+
+#### 48 §
+
+Finansinspektionen ska så snart som möjligt, dock senast inom tio arbetsdagar, skriftligen bekräfta att en ansökan enligt 47 § har tagits emot.
+
+Finansinspektionen ska underrätta Bolagsverket om en ansökan enligt första stycket och om ett beslut som har meddelats med anledning av denna. *Lag (2026:1072)*.
+
+#### 49 §
+
+Vid behandlingen av en ansökan om tillstånd att verkställa en delningsplan ska Finansinspektionen pröva
+
+1. om bolagen efter delningen kommer att ha en tillfredsställande kontroll över sin verksamhet, särskilt när det gäller de risker som de är eller kan bli exponerade för,
+
+2. att bolagets borgenärer tillförsäkras betryggande säkerhet, om sådant skydd behövs med hänsyn till det delade bolagets förhållanden och borgenärerna inte redan har en sådan säkerhet,
+
+3. om det finns skäl att anta att bolagens verksamhet efter delningen bedrivs på ett sätt som är förenligt med denna lag och andra författningar som reglerar verksamheten, och
+
+4. om det finns skäl att anta att delningen har samband med eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 6 § lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) finansiering av terrorism enligt 6 § terroristbrottslagen (2022:666) eller försök till sådant brott, avseende terroristbrott enligt 4 § samma lag.
+
+Vid bedömningen enligt första stycket 1 ska Finansinspektionen särskilt beakta
+
+1. bolagens anseende, och
+
+2. om bolagens verksamhet bedrivs på ett sätt som är sunt.
+
+Inför bedömningen enligt första stycket 4 ska berörda utländska tillsynsmyndigheter få tillfälle att inom 30 arbetsdagar lämna synpunkter. *Lag (2026:1072)*.
+
+#### 50 §
+
+Beslut om tillstånd att verkställa en delningsplan får meddelas först efter det att utländska behöriga myndigheter inom EES har fått tillfälle att lämna synpunkter, om något av de bolag som deltar i delningen är
+
+1. ett utländskt
+
+a) försäkringsföretag,
+
+b) förvaltningsbolag,
+
+c) institut för elektroniska pengar,
+
+d) kreditinstitut, eller
+
+e) värdepappersföretag,
+
+2. ett moderföretag till ett sådant företag som avses i 1, eller
+
+3. en juridisk person som kontrollerar ett sådant företag som avses i 1. *Lag (2026:1072)*.
+
+#### 51 §
+
+Finansinspektionen ska avslå en ansökan om tillstånd att verkställa en delningsplan, om
+
+1. delningsplanen inte har godkänts i behörig ordning eller till sitt innehåll strider mot lag eller annan författning eller mot bolagsordningen,
+
+2. delningen har förbjudits enligt konkurrenslagen (2008:579) eller rådets förordning (EG) nr 139/2004 eller om prövning av delningen pågår enligt lagen eller förordningen,
+
+3. revisorsyttrandena enligt 24 kap. 13 § aktiebolagslagen (2005:551) inte visar att den del av det överlåtande bolaget som ska övertas av det nybildade bolaget har ett verkligt värde för detta bolag som uppgår till minst dess aktiekapital,
+
+4. revisorsyttrandena enligt 24 kap. 13 § aktiebolagslagen vid partiell delning eller delning genom separation inte visar att det överlåtande bolaget har full täckning för det bundna egna kapitalet,
+
+5. bolagets borgenärer inte har tillförsäkrats en sådan betryggande säkerhet som avses i 49 § första stycket 2 eller bolagets ekonomiska förhållanden i övrigt är sådana att delningen inte kan anses förenlig med insättares eller andra fordringsägares intressen,
+
+6. förutsättningarna enligt någon av 49 § första stycket 1, 3 och 4 inte är uppfyllda,
+
+7. det är motiverat av hänsyn till allmänintresset,
+
+8. det enligt 24 kap. 32 § aktiebolagslagen finns hinder mot att det överlåtande bolaget deltar i en gränsöverskridande delning,
+
+9. delningen genomförs för ändamål som är brottsliga eller medför eller syftar till ett otillbörligt kringgående av unionsrätten eller nationell rätt, eller
+
+10. delningen förutsätter ett förfarande enligt lagen (2008:9) om arbetstagares medverkan vid gränsöverskridande fusioner, delningar och ombildningar men något sådant förfarande inte har inletts.
+
+Om ansökan inte kan bifallas på grund av att prövning pågår enligt konkurrenslagen eller enligt rådets förordning (EG) nr 139/2004 och prövningen kan antas bli avslutad inom kort tid, får tillståndsfrågan förklaras vilande under högst sex månader. *Lag (2026:1072)*.
+
+#### 52 §
+
+Finansinspektionens beslut om tillstånd till att verkställa en delningsplan där bolagen ingår i samma grupp ska meddelas inom 60 arbetsdagar efter det att mottagandet av ansökan bekräftades (bedömningsperioden). Om Finans- inspektionen begär kompletterande uppgifter, får bedömningsperioden förlängas.
+
+Finansinspektionen ska anses ha beviljat tillstånd till delningen om inspektionen inte meddelat beslut i fråga om ansökan inom bedömningsperioden.
+
+Om Finansinspektionen beviljar tillstånd till delningen, får inspektionen besluta inom vilken tid delningen ska genomföras.
+
+*Lag (2026:1072)*.
+
+#### 53 §
+
+Vid tillämpningen av 24 kap. 47 § aktiebolagslagen (2005:551) ska det som anges om Bolagsverket i stället avse Finansinspektionen. *Lag (2026:1072)*.
+
+#### 54 §
+
+Om ett övertagande bolag som ska ha sin hemvist i Sverige ska bedriva bank- eller finansieringsrörelse enligt lagen (2004:297) om bank- och finansieringsrörelse, bedriva värdepappersrörelse enligt lagen (2007:528) om värdepappersmarknaden eller är ett finansiellt holdingbolag eller blandat finansiellt holdingbolag som ska ansöka om godkännande enligt 1 § 1 eller 2 gäller utöver det som anges i 24 kap. 53 § aktiebolagslagen (2005:551) att Bolagsverket får registrera det övertagande bolaget bara om Finansinspektionen eller en domstol genom ett beslut som har fått laga kraft har gett bolaget tillstånd att bedriva sådan rörelse eller har beviljat holdingbolaget godkännande enligt 2 §. *Lag (2026:1072)*.
+
+#### 55 §
+
+Det som anges i 24 kap. 61 § tredje stycket aktiebolagslagen (2005:551) om att väcka talan tillämpas inte. I stället gäller, utöver det som anges i 7 kap. 51 § första stycket och 24 kap. 61 § första stycket aktiebolagslagen, att talan inte får väckas efter det att Finansinspektionen eller en domstol genom ett beslut som har fått laga kraft har gett tillstånd till att verkställa delningsplanen. *Lag (2026:1072)*.
+
+### Utländska företag hemmahörande utanför EES
+
+### Tillståndsplikt
+
+#### 56 §
+
+*/Träder i kraft I:2027-01-11/* Ett företag som är etablerat utanför EES (tredjelandsföretag) får bedriva verksamhet från filial i Sverige (tredjelandsfilial) efter tillstånd från Finansinspektionen om
+
+1. företaget avser att tillhandahålla någon av tjänsterna som avses i punkterna 2 och 6 i bilaga 1 till kapitaltäckningsdirektivet och företaget skulle vara ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g om det hade varit etablerat inom EES, eller
+
+2. företaget avser att ta emot återbetalningspliktiga medel från allmänheten. *Lag (2026:1072)*.
+
+### Undantag från tillståndsplikt
+
+#### 57 §
+
+*/Träder i kraft I:2027-01-11/* Tillstånd behövs inte för att bedriva verksamhet enligt 56 § när tjänsterna tillhandahålls
+
+1. till följd av kontakter initierade av kunden,
+
+2. till ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g eller ett motsvarande utländskt företag,
+
+3. till ett företag i samma grupp som tredjelandsföretaget, eller
+
+4. i samband med att tredjelandsföretaget erbjuder den verksamhet och de tjänster som anges i bilaga I, avsnitt A till Europaparlamentets och rådets direktiv 2014/65/EU av den 15 maj 2014 om marknader för finansiella instrument och om ändring av direktiv 2002/92/EG och av direktiv 2011/61/EU, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2024/790, och eventuella kompletterande sidotjänster enligt bilaga I, avsnitt B till samma direktiv. *Lag (2026:1072)*.
+
+### Förutsättningar för tillstånd
+
+#### 58 §
+
+*/Träder i kraft I:2027-01-11/* Finansinspektionen ska bevilja tillstånd, om
+
+1. tredjelandsfilialen förfogar över tillräckligt med kapital och likviditet enligt 5 b kap. 4-7 §§,
+
+2. tredjelandsfilialen uppfyller kraven på riskhantering och dokumentation och har en tillfredsställande intern kontroll enligt 5 b kap. 8 och 9 §§,
+
+3. tredjelandsfilialens verksamhet utanför Sverige men inom EES är begränsad till finansiering av filialer i samma grupp som tredjelandsföretaget,
+
+4. tredjelandsföretaget har tillstånd i hemlandet för att tillhandahålla de tjänster och bedriva den verksamhet som ansökan avser,
+
+5. tredjelandsföretaget står under betryggande tillsyn av en tillsynsmyndighet i hemlandet och den myndigheten har informerats om att företaget etablerar sig i Sverige,
+
+6. Finansinspektionen bedömer att den kan utöva effektiv tillsyn över tredjelandsfilialen,
+
+7. det inte finns skäl att anta att verksamheten har samband med eller kan öka risken för
+
+a) penningtvätt enligt 1 kap. 6 § lagen (2017:630) om åtgärder mot penningtvätt och finansiering av terrorism, eller
+
+b) finansiering av terrorism enligt 6 § terroristbrottslagen (2022:666) eller försök till sådant brott, avseende terroristbrott enligt 4 § samma lag, och
+
+8. insättningar hos en tredjelandsfilial som avses i 56 § 1 omfattas av garanti enligt lagen (1995:1571) om insättningsgaranti eller av en utländsk garanti som
+
+a) omfattar insättningar som anges i 2 § lagen om insättningsgaranti, och
+
+b) motsvarar åtminstone garantin enligt 4 och 4 c §§ lagen om insättningsgaranti. *Lag (2026:1072)*.
+
+#### 59 §
+
+*/Träder i kraft I:2027-01-11/* Finansinspektionen ska återkalla tillståndet om tredjelandsföretaget
+
+1. inte längre uppfyller förutsättningarna för tillstånd enligt 58 §,
+
+2. har fått tillståndet genom att lämna falska uppgifter eller på något annat otillbörligt sätt,
+
+3. har förklarat sig avstå från tillståndet,
+
+4. inte inom ett år från det att tillstånd beviljades har börjat bedriva sådan rörelse som tillståndet avser, eller
+
+5. under en sammanhängande tid av sex månader inte har bedrivit sådan rörelse som tillståndet avser.
+
+Finansinspektionen ska även återkalla tillståndet i enlighet med första stycket 1 om det är sannolikt att företaget inom tolv månader inte längre kommer att uppfylla sina skyldigheter enligt denna lag eller andra författningar som reglerar företagets verksamhet.
+
+Tredjelandsfilialen ska underrätta Finansinspektionen om den inte uppfyller förutsättningarna enligt första stycket 1 eller andra stycket. *Lag (2026:1072)*.
+
+## 2 kap. Särskilda kapitalbas- och likviditetskrav för kreditinstitut
+
+### Särskilda kapitalbaskrav
+
+#### 1 §
+
+Finansinspektionen ska besluta att ett kreditinstitut utöver den kapitalbas som krävs enligt tillsynsförordningen ska uppfylla
+
+1. ett särskilt kapitalbaskrav för risken för alltför låg bruttosoliditet, och
+
+2. ett särskilt kapitalbaskrav för andra risker.
+
+Första stycket gäller om
+
+1. något av kraven i 6 kap. 1-3, 4 a, 4 b och 5 §§ lagen (2004:297) om bank- och finansieringsrörelse inte är uppfyllt och det inte är sannolikt att någon annan åtgärd är tillräcklig för att komma till rätta med bristen inom rimlig tid,
+
+2. ett särskilt kapitalbaskrav är nödvändigt för att täcka risker som institutet är eller kan bli exponerat för,
+
+3. det är sannolikt att institutet inom tolv månader inte längre kommer att uppfylla sina skyldigheter enligt 1,
+
+4. institutet vid upprepade tillfällen låtit bli att följa en underrättelse enligt 1 c §, eller
+
+5. det i övrigt har framkommit omständigheter som inger betänkligheter från tillsynssynpunkt.
+
+Beslutet ska vara skriftligt och fattas på grundval av en översyn och utvärdering av institutet. *Lag (2021:481)*.
+
+#### 1 a §
+
+Ett särskilt kapitalbaskrav enligt 1 § första stycket 1 ska uppfyllas med primärkapital.
+
+Den kapitalbas som används för att uppfylla det särskilda kapitalbaskravet får inte användas för att
+
+1. uppfylla kapitalbaskravet enligt artikel 92.1 d i tillsynsförordningen,
+
+2. uppfylla kravet på bruttosoliditetsbuffert i artikel 92.1a i tillsynsförordningen, eller
+
+3. följa en underrättelse enligt 1 c §, om den avser risken för alltför låg bruttosoliditet.
+
+Finansinspektionen får i ett enskilt fall bestämma att det särskilda kapitalbaskravet ska uppfyllas med en större andel kärnprimärkapital, om inspektionen anser att det är nödvändigt. *Lag (2020:1213)*.
+
+#### 1 b §
+
+Ett särskilt kapitalbaskrav enligt 1 § första stycket 2 ska till minst tre fjärdedelar uppfyllas med primärkapital, varav minst tre fjärdedelar ska bestå av kärnprimärkapital.
+
+Den kapitalbas som används för att uppfylla det särskilda kapitalbaskravet får inte användas för att
+
+1. uppfylla kapitalbaskraven i artikel 92.1 a-c i tillsynsförordningen,
+
+2. uppfylla det kombinerade buffertkravet i 2 kap. 2 § lagen (2014:966) om kapitalbuffertar, eller
+
+3. följa en underrättelse enligt 1 c §, om den avser andra risker än risken för alltför låg bruttosoliditet.
+
+Finansinspektionen får i ett enskilt fall bestämma att det särskilda kapitalbaskravet ska uppfyllas med en större andel primärkapital eller kärnprimärkapital, om inspektionen anser att det är nödvändigt. *Lag (2020:1213)*.
+
+#### 1 c §
+
+I samband med en översyn och utvärdering av ett kreditinstitut ska Finansinspektionen bestämma lämpliga kapitalbasnivåer för institutet. Inspektionen ska underrätta institutet om skillnaden mellan dessa nivåer och kapitalbaskraven enligt tillsynsförordningen, denna lag och lagen (2014:966) om kapitalbuffertar. *Lag (2021:481)*.
+
+#### 1 d §
+
+Den kapitalbas som används för att följa en underrättelse som avser att hantera risken för alltför låg bruttosoliditet får inte användas för att uppfylla
+
+1. kapitalbaskravet i artikel 92.1 d i tillsynsförordningen,
+
+2. ett särskilt kapitalbaskrav enligt 1 § första stycket 1, eller
+
+3. kravet på bruttosoliditetsbuffert i artikel 92.1a i tillsynsförordningen.
+
+Den kapitalbas som används för att följa en underrättelse som avser andra risker än risken för alltför låg bruttosoliditet får inte användas för att uppfylla
+
+1. kapitalbaskraven i artikel 92.1 a-c i tillsynsförordningen,
+
+2. ett särskilt kapitalbaskrav enligt 1 § första stycket 2, eller
+
+3. det kombinerade buffertkravet enligt 2 kap. 2 § lagen (2014:966) om kapitalbuffertar. *Lag (2020:1213)*.
+
+#### 1 e §
+
+Finansinspektionen får avstå från att besluta om ett särskilt kapitalbaskrav om en överträdelse är ringa eller ursäktlig, om kreditinstitutet gör rättelse eller om någon annan myndighet har vidtagit åtgärder mot institutet och dessa åtgärder bedöms tillräckliga.
+
+Bestämmelserna i 1 § gäller inte om överträdelsen är så allvarlig att verksamhetstillståndet i stället ska återkallas.
+
+*Lag (2021:481)*.
+
+#### 1 f §
+
+Finansinspektionen ska informera Riksgäldskontoret och berörda utländska resolutionsmyndigheter om
+
+1. beslut om särskilda kapitalbaskrav enligt 1 §, och
+
+2. underrättelser enligt 1 c §. *Lag (2021:481)*.
+
+### Särskilt likviditetskrav
+
+#### 2 §
+
+Finansinspektionen ska besluta att ett kreditinstitut ska uppfylla ett särskilt likviditetskrav, om det är nödvändigt för att täcka de likviditetsrisker som institutet är eller kan bli exponerat för. *Lag (2021:481)*.
+
+### Ingripande
+
+#### 3 §
+
+Finansinspektionen får tillämpa bestämmelserna om ingripande i de lagar som reglerar kreditinstitutets verksamhet, om institutet inte uppfyller ett särskilt kapitalbaskrav som beslutats enligt 1 § eller ett särskilt likviditetskrav som beslutats enligt 2 §.
+
+Om ett kreditinstitut uppfyller kapitalbaskravet enligt tillsynsförordningen och de särskilda kapitalbaskrav som följer av beslut enligt 1 §, men inte kravet på en bruttosoliditetsbuffert i artikel 92.1a i tillsynsförordningen eller kraven enligt lagen (2014:966) om kapitalbuffertar, ska bestämmelserna om ingripande i 8 kap. lagen om kapitalbuffertar tillämpas. *Lag (2021:481)*.
+
+## 2 a kap. Särskilda kapitalbas- och likviditetskrav för värdepappersbolag
+
+### Särskilt kapitalbaskrav
+
+#### 1 §
+
+Finansinspektionen ska besluta att ett värdepappersbolag ska uppfylla ett särskilt kapitalbaskrav utöver den kapitalbas som krävs enligt värdepappersbolagsförordningen, om
+
+1. något av kraven i 8 kap. 3 §, 4 § första eller tredje stycket, 4 c och 5-8 §§ lagen (2007:528) om värdepappersmarknaden inte är uppfyllt och det inte är sannolikt att någon annan åtgärd är tillräcklig för att få bolaget att rätta till bristerna inom rimlig tid,
+
+2. ett särskilt kapitalbaskrav är nödvändigt för att täcka väsentliga risker som bolaget är eller kan bli exponerat för och väsentliga risker som bolaget utsätter det finansiella systemet för,
+
+3. bolaget, under normala marknadsförhållanden, inte skulle kunna avveckla positioner i handelslagret under kort tid utan att göra betydande förluster,
+
+4. granskningen av de interna modellerna enligt 5 a kap. visar att bolagets brister avseende kraven för att tillämpa de interna modellerna sannolikt kommer att leda till otillräckliga kapitalnivåer, eller
+
+5. bolaget vid upprepade tillfällen låter bli att skaffa eller bibehålla tillräckliga nivåer av ytterligare kapital enligt 3 §.
+
+Ett beslut enligt första stycket ska vara skriftligt och grunda sig på översyn och utvärdering av värdepappersbolaget.
+
+Finansinspektionen får fatta beslut enligt denna paragraf även i fråga om ett litet och icke-sammanlänkat värdepappersbolag, om inspektionen anser att det är motiverat. *Lag (2021:481)*.
+
+#### 2 §
+
+Finansinspektionen får avstå från att besluta om ett särskilt kapitalbaskrav enligt 1 § om en överträdelse är ringa eller ursäktlig, om värdepappersbolaget gör rättelse eller om någon annan myndighet har vidtagit åtgärder mot bolaget och dessa åtgärder bedöms tillräckliga.
+
+Bestämmelserna i 1 § gäller inte om överträdelsen är så allvarlig att verksamhetstillståndet i stället ska återkallas.
+
+*Lag (2021:481)*.
+
+#### 3 §
+
+Finansinspektionen får besluta att ett värdepappersbolag ska ha en kapitalbasnivå som med tillräcklig marginal överstiger kraven enligt värdepappersbolagsförordningen, för att säkerställa att konjunktursvängningar inte leder till överträdelser av kapitalkraven eller hotar bolagets förmåga att avveckla verksamheten på ett ordnat sätt.
+
+Finansinspektionen ska granska den nivå som värdepappersbolaget har fastställt efter ett beslut enligt första stycket och meddela bolaget om nivån är tillräcklig eller behöver justeras. Om nivån behöver justeras, ska inspektionen meddela bolaget den sista dag då justeringen ska ha gjorts.
+
+Första och andra styckena gäller inte ett litet och icke- sammanlänkat värdepappersbolag. *Lag (2021:481)*.
+
+#### 4 §
+
+När det gäller sådana värdepappersbolag som avses i 2 kap. 1 § lagen (2015:1016) om resolution ska Finansinspektionen underrätta Riksgäldskontoret och berörda utländska resolutionsmyndigheter om
+
+1. beslut om särskilt kapitalbaskrav enligt 1 §, och
+
+2. krav på justeringar enligt 3 § andra stycket.
+
+*Lag (2021:481)*.
+
+### Särskilt likviditetskrav
+
+#### 5 §
+
+Finansinspektionen ska besluta att ett värdepappersbolag ska uppfylla ett särskilt likviditetskrav, om det är nödvändigt för att täcka de likviditetsrisker som bolaget är eller kan bli exponerat för.
+
+Första stycket gäller inte för ett litet och icke-sammanlänkat värdepappersbolag som omfattas av ett beslut om undantag enligt artikel 43.1 andra stycket i värdepappersbolagsförordningen. *Lag (2021:481)*.
+
+### Ingripande
+
+#### 6 §
+
+Finansinspektionen får tillämpa bestämmelserna om ingripande i de lagar som reglerar värdepappersbolagets verksamhet, om bolaget inte uppfyller ett särskilt kapitalbaskrav som beslutats enligt 1 § eller ett särskilt likviditetskrav som beslutats enligt 5 §. *Lag (2021:481)*.
+
+## 3 kap. Krav på gruppnivå
+
+### Ansvarigt företag
+
+#### 1 §
+
+För varje konsoliderad situation ska det finnas ett ansvarigt företag.
+
+Ett ansvarigt företag ska vara
+
+1. ett moderinstitut inom EES,
+
+2. ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som har godkänts enligt 1 a kap. 2 §,
+
+3. ett kreditinstitut eller ett motsvarande utländskt företag inom EES som
+
+a) är ett dotterföretag till ett finansiellt moderholdingföretag inom EES eller ett blandat finansiellt moderholdingföretag inom EES och som har medgetts undantag från kravet på godkännande enligt 1 a kap. 3 §, och
+
+b) avses i 1 a kap. 3 § första stycket 3, eller
+
+4. ett kreditinstitut eller ett motsvarande utländskt företag inom EES eller ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som avses i 8 kap. 2 a § första stycket 2 d. *Lag (2026:1072)*.
+
+### Soliditet och riskhantering
+
+#### 2 §
+
+Det ansvariga företaget enligt 1 § ska se till att kraven på soliditet och riskhantering i 6 kap. 1 § och 2 § andra stycket lagen (2004:297) om bank- och finansieringsrörelse eller 8 kap. 3 § och 4 § andra stycket lagen (2007:528) om värdepappersmarknaden uppfylls på gruppnivå i enlighet med det som följer av artiklarna 18-24 i tillsynsförordningen.
+
+*Lag (2020:1213)*.
+
+### Krav på undergruppnivå
+
+#### 3 §
+
+Även om ett kreditinstitut, ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag inte är ansvarigt företag enligt 1 §, ska det se till att kraven i 2 § tillämpas på undergruppsnivå, om
+
+1. kreditinstitutet, det finansiella holdingföretaget, det blandade finansiella holdingföretaget eller dess moderföretag, när moderföretaget är ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag, har ett dotterföretag eller har ägarintresse i ett dotterföretag, och
+
+2. dotterföretaget är etablerat i ett land utanför EES, och är
+
+a) ett företag som motsvarar ett kreditinstitut,
+
+b) ett företag som motsvarar ett finansiellt institut, eller
+
+c) ett förvaltningsbolag.
+
+Med förvaltningsbolag avses ett utländskt företag som i sitt hemland har tillstånd att förvalta fondföretag. *Lag (2021:481)*.
+
+### Krav på moder- och dotterföretag
+
+#### 4 §
+
+Ett moder- eller dotterföretag som står under tillsyn enligt denna lag ska på grupp- eller undergruppsnivå uppfylla kraven i 6 kap. 2 § första stycket och 3 § lagen (2004:297) om bank- och finansieringsrörelse om riskhantering och genomlysning.
+
+Ett sådant företag ska också införa styrformer, processer och rutiner enligt första stycket i sina dotterföretag som inte står under tillsyn enligt denna lag. Sådana dotterföretag ska uppfylla de krav som avses i första stycket på individuell nivå.
+
+Finansinspektionen ska, efter ansökan av ett ansvarigt företag enligt 1 § andra stycket, besluta om undantag från kravet i andra stycket, om företaget kan visa att ett sådant införande strider mot lagen i det land där dotterföretaget är etablerat.
+
+*Lag (2021:481)*.
+
+### Personer med ledande befattningar i ett finansiellt holdingföretag eller blandat finansiellt holdingföretag
+
+#### 5 §
+
+Den som ingår i ledningen för ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag ska ha tillräcklig insikt och erfarenhet för att delta i ledningen av företaget och även i övrigt vara lämplig för en sådan uppgift.
+
+Företagets verkställande direktör får inte vara ordförande i styrelsen. *Lag (2026:1072)*.
+
+#### 6 §
+
+Finansinspektionen har tillsyn över att lämplighetskraven i denna lag är uppfyllda för
+
+1. styrelseledamöter, verkställande direktörer och ersättare för någon av dem i finansiella holdingföretag eller blandade finansiella holdingföretag,
+
+2. nyckelpersoner i sådana finansiella holdingföretag eller blandade finansiella holdingföretag som har godkänts enligt 1 a kap. 2 §, och
+
+3. de personer som avses i 11 § första stycket 2 i sådana finansiella moderholdingföretag eller blandade finansiella moderholdingföretag som inte har medgetts undantag från kravet på godkännande enligt 1 a kap. 3 §.
+
+Företagen ska lämna Finansinspektionen de uppgifter som inspektionen begär.
+
+Om Finansinspektionen vid inspektion eller på något annat sätt har upptäckt en omständighet som kan antas ha samband med eller utgöra penningtvätt eller finansiering av terrorism, ska inspektionen särskilt kontrollera att personerna som avses i första stycket uppfyller lämplighetskraven. *Lag (2026:1072)*.
+
+#### 7 §
+
+Den som är ledamot i styrelsen för ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som har godkänts enligt 1 a kap. 2 § eller är dess verkställande direktör får ha andra uppdrag som styrelseledamot eller verkställande direktör om det bedöms lämpligt.
+
+Om företaget är betydande i fråga om storlek, intern organisation samt verksamhetens art, omfattning och komplexitet, får en styrelseledamot eller verkställande direktör bara inneha en av följande kombinationer av uppdrag:
+
+1. ett uppdrag som verkställande direktör och två uppdrag som styrelseledamot, eller
+
+2. fyra uppdrag som styrelseledamot.
+
+Om en styrelseledamot representerar staten gäller inte andra stycket. *Lag (2026:1072)*.
+
+#### 8 §
+
+Vid tillämpningen av 7 § andra stycket ska
+
+1. uppdrag inom samma grupp eller i företag där holdingföretaget har ett kvalificerat innehav räknas som ett enda uppdrag, och
+
+2. uppdrag i verksamheter och organisationer som inte huvudsakligen har ett kommersiellt syfte inte beaktas.
+
+En styrelseledamot eller verkställande direktör får, efter tillstånd av Finansinspektionen, ha ytterligare ett uppdrag som styrelseledamot utöver de uppdrag som avses i 7 § andra stycket 1 eller 2. *Lag (2026:1072)*.
+
+#### 9 §
+
+Den som är styrelseledamot eller verkställande direktör i ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som har godkänts enligt 1 a kap. 2 § ska avsätta tillräckligt med tid för att kunna utföra sitt uppdrag. *Lag (2026:1072)*.
+
+#### 10 §
+
+Om kraven i 1 a kap. 2 § 3 eller 4 inte är uppfyllda ska det finansiella holdingföretaget eller blandade finansiella holdingföretaget som har godkänts enligt 1 a kap. 2 §
+
+1. se till att en tilltänkt person inte påbörjar ett uppdrag eller en anställning som styrelseledamot, verkställande direktör eller ersättare för någon av dem eller nyckelperson, eller
+
+2. besluta att en styrelseledamot, en verkställande direktör eller en ersättare för någon av dem eller en nyckelperson inte längre får vara det.
+
+Om holdingföretaget vidtar åtgärder för att kraven i 1 a kap. 2 § 3 eller 4 ska vara uppfyllda, får personen vara styrelseledamot, verkställande direktör eller ersättare för någon av dem eller nyckelperson. *Lag (2026:1072)*.
+
+#### 11 §
+
+Ett finansiellt moderholdingföretag eller blandat finansiellt moderholdingföretag som inte har medgetts undantag från kravet på godkännande enligt 1 a kap. 3 § och i vars grupp det ingår ett eller flera stora institut ska göra en anmälan till Finansinspektionen om företaget
+
+1. avser att utse en styrelseledamot eller en verkställande direktör, eller
+
+2. utser en nyckelperson som ansvarar för
+
+a) förvaltningen av finansiella resurser, den finansiella planeringen och den finansiella rapporteringen,
+
+b) riskhanteringsfunktionen,
+
+c) funktionen för regelefterlevnad, eller
+
+d) internrevisionsfunktionen.
+
+En anmälan enligt första stycket 1 ska göras senast 30 arbetsdagar före det att uppdraget eller anställningen ska påbörjas. *Lag (2026:1072)*.
+
+## 3 a kap. Krav på värdepappersföretagskoncerner
+
+### Krav på moder- och dotterföretag
+
+#### 1 §
+
+När artikel 7 i värdepappersbolagsförordningen är tillämplig ska 8 kap. 3 §, 4 § första och tredje styckena, 4 c och 5-8 §§ lagen (2007:528) om värdepappersmarknaden tillämpas på en värdepappersföretagskoncern om inte annat följer av beslut enligt artikel 8 i samma förordning.
+
+Finansinspektionen ska, efter ansökan av ett moderföretag som avses i artikel 7 i värdepappersbolagsförordningen, besluta om undantag från kravet i första stycket, om företaget kan visa att en sådan tillämpning strider mot lagen i det land där dotterföretaget är etablerat. *Lag (2021:481)*.
+
+### Ledningen för ett värdepappersinriktat holdingföretag
+
+#### 2 §
+
+Den som ingår i ledningen för ett värdepappersinriktat holdingföretag eller blandat finansiellt holdingföretag i en koncern som avses i 1 § ska ha tillräcklig insikt och erfarenhet för att delta i ledningen av företaget och även i övrigt vara lämplig för en sådan uppgift. *Lag (2021:481)*.
+
+## 4 kap. Tillsynsansvar på gruppnivå
+
+### Tillsynsansvarig myndighet
+
+#### 1 §
+
+Finansinspektionen ska utöva tillsyn över att de gruppbaserade kraven är uppfyllda, om
+
+1. moderföretaget är ett kreditinstitut,
+
+2. moderföretaget är ett värdepappersbolag och inget av dess dotterföretag är ett kreditinstitut,
+
+3. ett utländskt värdepappersföretag inom EES är moderföretag till ett kreditinstitut och det i den konsoliderade situationen inte finns något motsvarande utländskt företag inom EES med en större total balansomslutning,
+
+4. ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag inom EES är moderföretag till ett kreditinstitut eller ett värdepappersbolag,
+
+5. ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag inom EES är moderföretag till två eller flera kreditinstitut, värdepappersbolag eller motsvarande utländska företag, och
+
+a) ett av företagen är ett kreditinstitut och det i den konsoliderade situationen inte finns något motsvarande utländskt företag inom EES,
+
+b) ett av företagen är ett kreditinstitut och det i den konsoliderade situationen inte finns något motsvarande utländskt företag inom EES med en större balansomslutning, eller
+
+c) ett av företagen är ett värdepappersbolag och det i den konsoliderade situationen inte finns något
+
+- motsvarande utländskt företag inom EES med en större balansomslutning, eller
+
+- kreditinstitut eller motsvarande utländskt företag inom EES, eller
+
+6. konsolidering krävs enligt artikel 18.3 eller 18.6 i tillsynsförordningen och
+
+a) ett kreditinstitut har den största balansomslutningen av motsvarande företag inom EES, eller
+
+b) ett värdepappersbolag har den största balansomslutningen av motsvarande företag inom EES och det inte finns något kreditinstitut eller motsvarande utländskt företag inom EES.
+
+Första stycket 3, 5 b, 5 c och 6 gäller dock inte om en annan behörig myndighet utövar tillsyn på individuell nivå över minst två utländska företag i den konsoliderade situationen och summan av de totala balansomslutningarna för dessa är högre än för det svenska företaget.
+
+Även om en annan behörig myndighet ska utöva tillsyn över att de gruppbaserade kraven uppfylls enligt artikel 111.1 tredje stycket, 111.3 b eller c eller 111.4 i kapitaltäckningsdirektivet, ska Finansinspektionen utöva sådan tillsyn om inspektionen på individuell nivå ska utöva tillsyn över minst två kreditinstitut respektive värdepappersbolag i den konsoliderade situationen och summan av de totala balansomslutningarna för dessa är högre än de för motsvarande utländska företag inom ett och samma land inom EES.
+
+*Lag (2021:481)*.
+
+#### 2 §
+
+När Finansinspektionen ska utöva tillsyn enligt 1 § första stycket 1-3, 5 och 6, får inspektionen komma överens med övriga berörda behöriga myndigheter om att en annan behörig myndighet inom EES än inspektionen ska ansvara för tillsynen. Finansinspektionen får ingå en sådan överenskommelse, om det är olämpligt att inspektionen ansvarar för tillsynen med hänsyn till de kreditinstitut, värdepappersbolag och motsvarande utländska företag det gäller och den relativa betydelsen av deras verksamheter i de olika länderna eller behovet av att säkerställa kontinuitet i tillsynen på gruppnivå.
+
+I ett sådant fall ska moderinstitutet inom EES, det finansiella moderholdingföretaget inom EES, det blandade finansiella moderholdingföretaget inom EES, eller det kreditinstitut, värdepappersbolag eller motsvarande utländska företag som har den största balansomslutningen, beroende på vad som är tillämpligt, ges tillfälle att yttra sig innan Finansinspektionen och de övriga berörda behöriga myndigheterna ingår överenskommelsen. Europeiska kommissionen och Europeiska bankmyndigheten ska underrättas om en sådan överenskommelse. *Lag (2021:481)*.
+
+#### 3 §
+
+Om det skulle vara olämpligt med hänsyn till de kreditinstitut, värdepappersbolag eller motsvarande utländska företag det gäller, den relativa betydelsen av deras verksamheter i de olika länderna eller behovet av att säkerställa kontinuitet i tillsynen på gruppnivå att tillsynen utövas av den myndighet som enligt artikel 111.1, 111.3 eller 111.4 i kapitaltäckningsdirektivet ska utöva den gruppbaserade tillsynen, får Finansinspektionen komma överens med de övriga berörda behöriga myndigheterna om att inspektionen eller någon annan behörig myndighet ska ansvara för tillsynen.
+
+I ett sådant fall ska moderinstitutet inom EES, det finansiella moderholdingföretaget inom EES, det blandade finansiella moderholdingföretaget inom EES, eller det kreditinstitut, värdepappersbolag eller motsvarande utländska företag som har den största balansomslutningen, beroende på vad som är tillämpligt, ges tillfälle att yttra sig innan Finansinspektionen och de övriga berörda behöriga myndigheterna ingår överenskommelsen. Europeiska kommissionen och Europeiska bankmyndigheten ska underrättas om en sådan överenskommelse. *Lag (2021:481)*.
+
+### Beslut på gruppnivå om kapitalbasen och särskilt likviditetskrav
+
+#### 4 §
+
+När Finansinspektionen ansvarar för tillsynen på gruppnivå enligt 1 §, ska inspektionen lämna en rapport som innehåller en riskvärdering av den konsoliderade situationen till övriga berörda behöriga myndigheter. *Lag (2020:1213)*.
+
+#### 5 §
+
+Inom fyra månader från det att Finansinspektionen har lämnat en rapport enligt 4 §, ska inspektionen försöka komma överens med övriga berörda behöriga myndigheter om vilket beslut som bör fattas
+
+1. i enlighet med 2 kap. 2 § med anledning av väsentliga resultat av likviditetstillsynen, och
+
+2. om huruvida kapitalbasen på gruppnivå är tillräcklig med hänsyn till den finansiella situationen och riskprofilen och om de kapitalbasnivåer som krävs för att tillämpa 2 kap. 1 och 1 c §§ på individuell nivå eller gruppnivå.
+
+En överenskommelse enligt första stycket 1 ska ta hänsyn till de resultat som framkommit i fråga om kreditinstitutens och de motsvarande utländska företagens organisation, riskhantering och behovet av särskilda likviditetskrav för specifika institut. *Lag (2021:481)*.
+
+#### 6 §
+
+Finansinspektionen ska härefter fatta ett beslut i enlighet med överenskommelsen. Beslutet och skälen för det ska redovisas skriftligt och skickas till övriga behöriga myndigheter och till moderinstitutet inom EES.
+
+Om en överenskommelse inte kan nås, ska Finansinspektionen på begäran av någon av de övriga behöriga myndigheterna samråda med Europeiska bankmyndigheten. Inspektionen får även samråda med Europeiska bankmyndigheten på eget initiativ.
+
+#### 7 §
+
+Om en överenskommelse enligt 5 § inte har träffats inom de angivna tidsfristerna, ska Finansinspektionen, med beaktande av de övriga behöriga myndigheternas bedömning av risken hos dotterföretagen, ensam fatta ett beslut på gruppnivå.
+
+Om Finansinspektionen ansvarar för tillsynen över dotterföretag till ett moderinstitut inom EES, ett finansiellt moderholdingföretag inom EES eller ett blandat finansiellt holdingföretag inom EES, ska inspektionen fatta ett sådant beslut som avses i 6 § på individuell nivå eller undergruppsnivå. Inför beslutet ska inspektionen beakta synpunkter som framförts av den utländska behöriga myndighet som ansvarar för den gruppvisa tillsynen.
+
+Om någon eller några av de övriga berörda behöriga myndigheterna, inom fyra månader från det att Finansinspektionen har lämnat sin rapport enligt 4 § har hänskjutit ärendet till Europeiska bankmyndigheten i enlighet med artikel 19 i förordning (EU) nr 1093/2010 av den 24 november 2010 om inrättande av en europeisk tillsynsmyndighet (Europeiska bankmyndigheten), om ändring av beslut nr 716/2009/EG och om upphävande av kommissionens beslut 2009/78/EG , ska inspektionen skjuta upp sitt beslut enligt första stycket och invänta det beslut som Europeiska bankmyndigheten kan komma att fatta enligt artikel 19.3 i samma förordning. Finansinspektionen ska följa ett beslut i saken från Europeiska bankmyndigheten.
+
+Finansinspektionen får inte hänskjuta ett ärende till Europeiska bankmyndigheten efter det att fyramånadersperioden har löpt ut eller ett gemensamt beslut har fattats.
+
+#### 8 §
+
+Ett sådant beslut som avses i 6 § som fattas av en utländsk behörig myndighet efter en överenskommelse med övriga behöriga myndigheter eller på grund av att de behöriga myndigheterna inte har kommit överens inom de tidsfrister som anges i 5 § gäller i Sverige. Beslutet är bindande för Finansinspektionen, och det ska ligga till grund för inspektionens tillsyn.
+
+#### 9 §
+
+Beslut som fattats enligt 6 eller 7 § ska omprövas årligen. Ett beslut får även, i undantagsfall, omprövas om en behörig myndighet som ansvarar för tillsynen av dotterföretag till ett moderinstitut inom EES eller ett finansiellt moderholdingföretag inom EES eller ett blandat finansiellt moderholdingföretag inom EES skriftligen begär det hos Finansinspektionen och samtidigt anger skälen för begäran.
+
+#### 10 §
+
+Om ett blandat finansiellt holdingföretag omfattas av likvärdiga bestämmelser om gruppbaserad tillsyn och tillsyn av konglomerat, särskilt när det gäller riskbaserad tillsyn, får Finansinspektionen, efter samråd med andra behöriga myndigheter med ansvar för tillsyn av dotterföretag, medge undantag från relevanta delar av denna lag och föreskrifter som meddelats med stöd av denna lag så att det blandade finansiella holdingföretaget bara behöver tilllämpa de relevanta bestämmelserna för konglomerat.
+
+Om ett blandat finansiellt holdingföretag omfattas av likvärdiga bestämmelser om gruppbaserad tillsyn och om extra tillsyn över försäkringsföretag som ingår i en försäkringsgrupp, särskilt med avseende på riskbaserad tillsyn, får Finansinspektionen, efter samråd med de berörda myndigheter som ansvarar för tillsyn av försäkringsföretag medge undantag från relevanta delar av denna lag så att det blandade holdingföretaget bara behöver tillämpa de relevanta bestämmelserna för den största sektorn enligt 2 kap. 3 § lagen (2006:531) om särskild tillsyn över finansiella konglomerat.
+
+Finansinspektionen ska underrätta Europeiska bankmyndigheten och Europeiska försäkrings- och tjänstepensionsmyndigheten om beslut som inspektionen fattar enligt första stycket.
+
+### Vissa finansiella holdingföretag och blandade finansiella holdingföretag
+
+#### 11 §
+
+När Finansinspektionen är samordnande tillsynsmyndighet, ska inspektionen utöva tillsyn över att ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag uppfyller sina skyldigheter enligt 1 a kap. 1-3 §§.
+
+*Lag (2026:1072)*.
+
+## 4 a kap. Tillsynsansvar för värdepappersföretagskoncerner
+
+#### 1 §
+
+Finansinspektionen ska utöva tillsyn över att kraven i artikel 7 eller, i tillämpliga fall, villkoren i artikel 8 i värdepappersbolagsförordningen är uppfyllda, om det i koncernen inte finns något kreditinstitut eller motsvarande utländskt företag inom EES, och
+
+1. ett värdepappersbolag är moderföretag,
+
+2. ett värdepappersinriktat holdingföretag eller ett blandat finansiellt holdingföretag inom EES är moderföretag till ett värdepappersbolag och det i koncernen inte finns något motsvarande utländskt företag inom EES,
+
+3. ett svenskt värdepappersinriktat holdingföretag eller ett svenskt blandat finansiellt holdingföretag är moderföretag till ett värdepappersbolag och minst ett motsvarande utländskt företag inom EES,
+
+4. ett värdepappersinriktat holdingföretag eller ett blandat finansiellt holdingföretag är moderföretag till ett värdepappersbolag och minst ett motsvarande utländskt företag inom EES, och
+
+- inget sådant dotterföretag är auktoriserat i samma land inom EES som moderföretaget är etablerat i, och
+
+- värdepappersbolaget har större balansomslutning än något av de motsvarande utländska företagen inom EES, eller
+
+5. det i koncernen finns två eller flera värdepappersinriktade holdingföretag eller blandade finansiella holdingföretag med huvudkontor i olika länder inom EES som är moderföretag till ett värdepappersbolag och minst ett motsvarande utländskt företag inom EES och
+
+- dotterföretagen är auktoriserade i de respektive länder inom EES som moderföretagen har huvudkontor i, och
+
+- värdepappersbolaget har större balansomslutning än något av de motsvarande utländska företagen inom EES. *Lag (2021:481)*.
+
+#### 2 §
+
+När Finansinspektionen ska utöva tillsyn enligt 1 § får inspektionen komma överens med övriga berörda behöriga myndigheter om att en annan behörig myndighet inom EES än inspektionen ska ansvara för tillsynen. Finansinspektionen får ingå en sådan överenskommelse om det är olämpligt att inspektionen ansvarar för tillsynen med hänsyn till de berörda värdepappersbolagen och värdepappersföretagen och betydelsen av deras verksamhet i de relevanta länderna inom EES.
+
+*Lag (2021:481)*.
+
+#### 3 §
+
+Om det skulle vara olämpligt med hänsyn till de värdepappersbolag eller motsvarande utländska företag det gäller i en värdepappersföretagskoncern och betydelsen av deras verksamhet i de olika länderna inom EES att tillsynen utövas av den myndighet som enligt artikel 46.3-46.5 i värdepappersbolagsdirektivet ska utöva sådan tillsyn som avses i 1 §, får Finansinspektionen komma överens med de övriga berörda behöriga myndigheterna om att inspektionen eller någon annan behörig myndighet ska ansvara för tillsynen. *Lag (2021:481)*.
+
+#### 4 §
+
+Innan Finansinspektionen och de övriga berörda behöriga myndigheterna ingår en överenskommelse enligt 2 eller 3 § ska det blandade finansiella moderholdingföretaget inom EES, det värdepappersinriktade moderholdingföretaget inom EES eller det värdepappersbolag eller motsvarande utländska företag som har den största balansomslutningen, beroende på vad som är tillämpligt, ges tillfälle att yttra sig.
+
+Europeiska kommissionen och Europeiska bankmyndigheten ska underrättas om överenskommelsen. *Lag (2021:481)*.
+
+## 5 kap. Tillsyn över interna metoder för kreditinstitut
+
+### Löpande granskning av interna metoder
+
+#### 1 §
+
+Finansinspektionen ska löpande, åtminstone vart tredje år, granska hur ett kreditinstitut uppfyller kraven på sådana metoder som kräver tillstånd från de behöriga myndigheterna innan de får användas för att beräkna kapitalbaskraven i enlighet med artiklarna 92-386 i tillsynsförordningen. Vid bedömningen ska inspektionen särskilt beakta förändringar i institutets affärsverksamhet och hur interna metoder tillämpas på nya produkter. *Lag (2021:481)*.
+
+#### 2 §
+
+Om det framkommer att ett kreditinstituts interna metoder enligt 1 § har väsentliga brister i fråga om att identifiera risker, ska Finansinspektionen se till att institutet åtgärdar bristerna eller vidtar nödvändiga åtgärder för att minska följderna av dem. *Lag (2021:481)*.
+
+#### 3 §
+
+Om ett kreditinstitut som beviljats tillstånd att använda sig av en metod som avses i 1 § inte längre uppfyller kraven för användning av metoden, ska Finansinspektionen kräva att institutet
+
+1. visar att följderna av att kraven inte uppfylls är obetydliga, eller
+
+2. presenterar en åtgärdsplan för att i god tid åter uppfylla kraven och ange en tid inom vilken planen ska genomföras.
+
+*Lag (2021:481)*.
+
+#### 4 §
+
+Om det bedöms osannolikt att den åtgärdsplan som presenteras leder till att kraven kommer att uppfyllas eller om tidsfristen för att genomföra den inte är tillfredsställande, ska Finansinspektionen kräva förbättringar av planen. Om det är osannolikt att kreditinstitutet inom en lämplig tidsfrist åter kommer att uppfylla tillämpliga krav eller om institutet inte på ett tillfredsställande sätt visar att följderna av konstaterade brister är obetydliga, ska tillståndet att använda sig av metoden antingen återkallas eller begränsas till områden där kraven kan uppfyllas inom en lämplig tidsfrist. *Lag (2021:481)*.
+
+#### 5 §
+
+Om det för en intern marknadsriskmodell förekommer upprepade överskridanden som avses i artikel 366 i tillsynsförordningen och det tyder på att modellen inte är tillräckligt exakt, ska Finansinspektionen återkalla tillståndet för kreditinstitutet att använda den modellen eller vidta lämpliga åtgärder för att säkerställa att institutet snarast förbättrar modellen. *Lag (2021:481)*.
+
+### Korrigerande åtgärder vid tillsyn över interna metoder
+
+#### 6 §
+
+Finansinspektionen får vidta korrigerande åtgärder för ett kreditinstituts interna metoder, om det klart kan fastställas att institutets metoder leder till en underskattning av kapitalbaskraven som inte kan tillskrivas skillnader i exponeringarnas eller positionernas underliggande risker.
+
+De korrigerande åtgärderna ska syfta till att målen i en intern metod upprätthålls. *Lag (2021:481)*.
+
+## 5 a kap. Tillsyn över interna modeller för värdepappersbolag
+
+#### 1 §
+
+Finansinspektionen ska löpande, åtminstone vart tredje år, granska hur ett värdepappersbolag uppfyller kraven för att få tillstånd att använda de interna modeller som avses i artikel 22 i värdepappersbolagsförordningen. Vid bedömningen ska inspektionen särskilt beakta förändringar i värdepappersbolagets affärsverksamhet och hur interna modeller används på nya produkter. *Lag (2021:481)*.
+
+#### 2 §
+
+Om det framkommer att ett värdepappersbolags interna modeller som avses i 1 § har väsentliga brister i fråga om att identifiera risker, ska Finansinspektionen se till att bolaget åtgärdar bristerna eller vidtar nödvändiga åtgärder för att minska följderna av dem. *Lag (2021:481)*.
+
+#### 3 §
+
+Om ett värdepappersbolag som beviljats tillstånd att använda interna modeller som avses i 1 § inte längre uppfyller kraven för användning av modellerna, ska Finansinspektionen kräva att bolaget
+
+1. visar att följderna av att kraven inte uppfylls är obetydliga, eller
+
+2. presenterar en åtgärdsplan för att uppfylla kraven och anger en tid inom vilken planen ska genomföras.
+
+*Lag (2021:481)*.
+
+#### 4 §
+
+Om det bedöms osannolikt att den åtgärdsplan som presenteras leder till att kraven kommer att uppfyllas eller om tidsfristen för att genomföra den inte är tillfredsställande, ska Finansinspektionen kräva förbättringar av planen. Om det är osannolikt att värdepappersbolaget inom en lämplig tidsfrist kommer att uppfylla tillämpliga krav eller om bolaget inte på ett tillfredsställande sätt visar att följderna av konstaterade brister är obetydliga, ska tillståndet att använda sig av de interna modellerna antingen återkallas eller begränsas till områden där kraven kan uppfyllas inom en lämplig tidsfrist. *Lag (2021:481)*.
+
+#### 5 §
+
+Om det för en intern marknadsriskmodell förekommer upprepade överskridanden som avses i artikel 366 i tillsynsförordningen och det tyder på att modellen inte är tillräckligt exakt, ska Finansinspektionen återkalla tillståndet för värdepappersbolaget att använda modellen eller vidta lämpliga åtgärder för att säkerställa att bolaget snarast inom en bestämd tidsram förbättrar modellen.
+
+*Lag (2021:481)*.
+
+*/Kapitlet träder i kraft I:2027-01-11/*
+
+## 5 b kap. Tillsyn över tredjelandsfilialer
+
+### Tillsynen och dess omfattning
+
+#### 1 §
+
+Finansinspektionen har tillsyn över tredjelandsfilialer. Tillsynen omfattar att verksamheten bedrivs enligt
+
+1. denna lag,
+
+2. andra författningar som reglerar filialens verksamhet, och
+
+3. interna instruktioner som har sin grund i författningar som reglerar filialens verksamhet.
+
+Finansinspektionen har dessutom tillsyn över att filialens verkställande direktörer uppfyller lämplighetskraven i denna lag. *Lag (2026:1072)*.
+
+### Klass 1- och klass 2-filialer
+
+#### 2 §
+
+En tredjelandsfilial är en klass 1-filial,
+
+1. om det totala värdet av tillgångarna hänförliga till filialverksamheten uppgår till åtminstone ett belopp som motsvarar 5 miljarder euro,
+
+2. om det i verksamheten ingår att ta emot återbetalningspliktiga medel från allmänheten som
+
+a) uppgår till minst 5 procent av värdet på skulderna hänförliga till filialverksamheten, eller
+
+b) överstiger ett belopp som motsvarar 50 miljoner euro, eller
+
+3. om den inte är en kvalificerad tredjelandsfilial enligt artikel 48b i kapitaltäckningsdirektivet.
+
+Övriga tredjelandsfilialer är klass 2-filialer.
+
+#### 3 §
+
+En filial som inte längre uppfyller kraven i 2 § första stycket är en klass 2-filial. En klass 2-filial som uppfyller något av kraven i 2 § första stycket blir en klass 1-filial först fyra månader därefter. *Lag (2026:1072)*.
+
+### Kapitalbaskrav
+
+#### 4 §
+
+Kapitalbaskravet för en klass 1-filial ska uppgå till det högsta av
+
+1. 2,5 procent
+
+a) av filialens skulder vid tidpunkten för beslut om tillstånd, eller
+
+b) av filialens genomsnittliga skulder enligt de tre föregående räkenskapsåren, eller
+
+2. ett belopp som motsvarar 10 miljarder euro.
+
+Första stycket 1 a gäller bara under de tre första räkenskapsåren. *Lag (2026:1072)*.
+
+#### 5 §
+
+Kapitalbaskravet för en klass 2-filial ska uppgå till det högsta av
+
+1. 0,5 procent
+
+a) av filialens skulder vid tidpunkten för beslut om tillstånd, eller
+
+b) av filialens genomsnittliga skulder enligt de tre föregående räkenskapsåren, eller
+
+2. ett belopp som motsvarar 5 miljarder euro.
+
+Första stycket 1 a gäller bara under de tre första räkenskapsåren. *Lag (2026:1072)*.
+
+### Likviditetskrav
+
+#### 6 §
+
+En tredjelandsfilial ska inneha ointecknade och likvida tillgångar som täcker ett likviditetsutflöde under en period av 30 dagar.
+
+En klass 1-filial ska vid tillämpningen av första stycket uppfylla kraven på likviditet i avdelning I, del 6 i tillsynsförordningen.
+
+Krav på att medel ska deponeras på konto *Lag (2026:1072)*.
+
+#### 7 §
+
+De medel som avses i 4-6 §§ ska deponeras på ett konto hos ett kreditinstitut som avses i 1 kap. 2 § första stycket 7 a eller g och som inte ingår i samma grupp som tredje- landsföretaget.
+
+Medlen ska användas om tredjelandsföretaget går i likvidation eller om filialens verksamhet upphör enligt 8 kap. 12 § lagen (2015:1016) om resolution. *Lag (2026:1072)*.
+
+### Krav på riskhantering, dokumentation och intern styrning och kontroll
+
+#### 8 §
+
+En tredjelandsfilial ska identifiera, mäta, styra, internt rapportera och ha kontroll över de risker som dess rörelse är förknippad med. Filialen ska dokumentera sina tillgångar och skulder och ha en tillfredsställande intern styrning och kontroll.
+
+Verksamheten ska bedrivas på ett sådant sätt att filialens förbindelser med andra företag kan överblickas. *Lag (2026:1072)*.
+
+### Verkställande direktörer
+
+#### 9 §
+
+Det ska finnas minst två verkställande direktörer bosatta i Sverige, med ansvar för verksamheten här.
+
+De verkställande direktörerna ska ha tillräcklig insikt och erfarenhet och även i övrigt vara lämpliga för en sådan uppgift. De ska även avsätta tillräckligt med tid för att kunna utföra uppdraget. *Lag (2026:1072)*.
+
+### Tillsynsbefogenheter
+
+#### 10 §
+
+Om det totala värdet på tillgångarna för de filialer inom EES som ingår i samma grupp som tredjelandsföretaget uppgår till ett belopp som motsvarar minst 40 miljarder euro, ska Finansinspektionen bedöma om tredjelandsfilialen är systemviktig och om dess verksamhet kan medföra allvarliga konsekvenser för stabiliteten i det finansiella systemet och den reala ekonomin i Sverige eller inom EES.
+
+Beloppet ska beräknas utifrån ett genomsnitt av tillgångarna för de tre närmast föregående räkenskapsåren eller i absoluta tal för minst tre av de fem närmast föregående räkenskapsåren. Vid bedömningen ska Finansinspektionen tillämpa artiklarna 48i.2 och 131.3 i kapitaltäckningsdirektivet. *Lag (2026:1072)*.
+
+#### 11 §
+
+Finansinspektionen ska lämna sin bedömning enligt 10 § till övriga berörda behöriga myndigheter och Europeiska bankmyndigheten.
+
+Om någon av de berörda behöriga myndigheterna invänder mot bedömningen, ska Finansinspektionen, inom tre månader och i samverkan med Europeiska bankmyndigheten, försöka komma överens med myndigheterna. *Lag (2026:1072)*.
+
+#### 12 §
+
+Finansinspektionen får härefter om inspektionen gör bedömningen att tredjelandsfilialens verksamhet medför allvarliga konsekvenser för stabiliteten i det finansiella systemet och den reala ekonomin i Sverige eller inom EES, begära att filialen
+
+1. omstrukturerar eller begränsar sin verksamhet, eller
+
+2. lämnar upplysningar enligt 6 kap. 1 § eller vidtar sådana åtgärder som avses i 8 kap. 1 a §.
+
+Om en överenskommelse enligt 11 § andra stycket inte kan nås inom den angivna tidsfristen ska Finansinspektionen ensam fatta beslut enligt första stycket.
+
+Finansinspektionen ska underrätta övriga berörda behöriga myndigheter och Europeiska bankmyndigheten, om inspektionen bedömer att en filial uppfyller förutsättningarna i 10 § första stycket men inspektionen inte vidtar åtgärder enligt första stycket. *Lag (2026:1072)*.
+
+#### 13 §
+
+Om Finansinspektionen har invändningar mot en bedömning som en annan behörig myndighet har gjort när det gäller om en filial i det landet är systemviktig, ska inspektionen invända inom tio arbetsdagar från det att bedömningen har tagits emot.
+
+*Lag (2026:1072)*.
+
+#### 14 §
+
+Om åtgärder enligt 12 § första stycket och 8 kap. 1 a § inte är eller bedöms vara tillräckliga, får Finansinspektionen, efter att Europeiska bankmyndigheten och berörda behöriga myndigheter har fått tillfälle att lämna syn- punkter, kräva att tredjelandsföretaget, om det avser att fortsätta att bedriva verksamheten i Sverige, ska bedriva verksamheten genom ett dotterföretag som har tillstånd för bank-, finansierings- eller värdepappersrörelse, om
+
+1. filialen inte längre uppfyller förutsättningarna för tillstånd enligt 1 a kap. 58 § 3,
+
+2. det totala värdet på filialens tillgångar i Sverige uppgår till ett belopp som motsvarar minst 10 miljarder euro,
+
+3. det totala värdet på tillgångarna för de filialer inom EES som ingår i samma grupp som tredjelandsföretaget uppgår till ett belopp som motsvarar minst 40 miljarder euro,
+
+4. filialens verksamhet uppfyller de krav på systemviktighet som avses i artikel 48i.2 eller 131.3 i kapitaltäckningsdirektivet och verksamheten kan få allvarliga konsekvenser för stabiliteten i det finansiella systemet och den reala ekonomin i Sverige eller inom EES, eller
+
+5. filialens verksamhet bedöms uppfylla förutsättningarna enligt 10 § första stycket.
+
+Vid tillämpning av första stycket 2 och 3 gäller artikel 48i.2 andra stycket i kapitaltäckningsdirektivet. *Lag (2026:1072)*.
+
+## 6 kap. Företags uppgiftsskyldighet till Finansinspektionen
+
+### Företag som ska lämna upplysningar
+
+#### 1 §
+
+*/Upphör att gälla U:2027-01-11/* Följande företag ska till Finansinspektionen lämna de upplysningar om sin verksamhet och därmed sammanhängande omständigheter som inspektionen begär för tillsynen:
+
+1. företag som
+
+a) står under tillsyn utifrån sin konsoliderade situation enligt denna lag eller enligt en utländsk offentlig reglering som bygger på kapitaltäckningsdirektivet,
+
+b) står under tillsyn enligt artikel 7 i värdepappersbolagsförordningen, eller
+
+c) ingår i en värdepappersföretagskoncern som omfattas av ett beslut enligt artikel 8 i värdepappersbolagsförordningen,
+
+2. andra dotterföretag till ett kreditinstitut, ett värdepappersbolag, ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag eller ett värdepappersinriktat holdingföretag än de som avses i 1,
+
+3. holdingföretag med blandad verksamhet och dotterföretag till holdingföretag med blandad verksamhet,
+
+4. blandade finansiella holdingföretag, och
+
+5. företag som fått i uppdrag av ett kreditinstitut, ett värdepappersbolag, ett finansiellt holdingföretag, holdingföretag med blandad verksamhet, blandat finansiellt holdingföretag eller värdepappersinriktat holdingföretag att utföra ett visst arbete eller vissa funktioner.
+
+Om företaget inte lämnar upplysningarna till Finansinspektionen, får inspektionen förelägga företaget att göra det. *Lag (2021:481)*.
+
+#### 1 §
+
+*/Träder i kraft I:2027-01-11/* Följande företag ska till Finansinspektionen lämna de upplysningar om sin verksamhet och därmed sammanhängande omständigheter som inspektionen begär för tillsynen:
+
+1. företag som
+
+a) står under tillsyn utifrån sin konsoliderade situation enligt denna lag eller enligt en utländsk offentlig reglering som bygger på kapitaltäckningsdirektivet,
+
+b) står under tillsyn enligt artikel 7 i värdepappersbolagsförordningen, eller
+
+c) ingår i en värdepappersföretagskoncern som omfattas av ett beslut enligt artikel 8 i värdepappersbolagsförordningen,
+
+2. andra dotterföretag till ett kreditinstitut, ett värdepappersbolag, ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag eller ett värdepappersinriktat holdingföretag än de som avses i 1,
+
+3. tredjelandsfilialer,
+
+4. holdingföretag med blandad verksamhet och dotterföretag till holdingföretag med blandad verksamhet,
+
+5. blandade finansiella holdingföretag, och
+
+6. företag som fått i uppdrag av ett kreditinstitut, ett värdepappersbolag, ett finansiellt holdingföretag, holdingföretag med blandad verksamhet, blandat finansiellt holdingföretag eller värdepappersinriktat holdingföretag att utföra ett visst arbete eller vissa funktioner.
+
+Om företaget inte lämnar upplysningarna till Finansinspektionen, får inspektionen förelägga företaget att göra det. *Lag (2026:1072)*.
+
+#### 2 §
+
+*/Upphör att gälla U:2030-01-10/* Moderföretag ska i fråga om den konsoliderade situationen offentliggöra information som rör rättslig struktur, styrning och organisationsstruktur.
+
+Moderföretag som avses i artiklarna 7 och 8 i värdepappersbolagsförordningen ska offentliggöra sådan information om en värdepappersföretagskoncern.
+
+*Lag (2021:481)*.
+
+#### 2 §
+
+*/Träder i kraft I:2030-01-10/* Moderföretag ska i fråga om den konsoliderade situationen offentliggöra information som rör rättslig struktur, styrning och organisationsstruktur.
+
+Moderföretag som avses i artiklarna 7 och 8 i värdepappersbolagsförordningen ska offentliggöra sådan information om en värdepappersföretagskoncern.
+
+Moderföretag ska även lämna informationen till Finansinspektionen. *Lag (2026:637)*.
+
+### Samarbete och utbyte av information med utländska myndigheter
+
+#### 3 §
+
+Finansinspektionen ska, i den utsträckning som följer av Sveriges medlemskap i Europeiska unionen, i sin tillsynsverksamhet samarbeta och utbyta information med
+
+1. andra behöriga myndigheter,
+
+2. Europeiska bankmyndigheten,
+
+3. Europeiska systemrisknämnden,
+
+4. Europeiska värdepappers- och marknadsmyndigheten,
+
+5. Myndigheten för bekämpning av penningtvätt och finansiering av terrorism,
+
+6. myndigheter inom EES som har tillsyn över försäkringsföretag,
+
+7. offentliga organ inom EES som avses i artikel 56 första stycket h i kapitaltäckningsdirektivet, och
+
+8. andra berörda myndigheter, om det uppstår en kritisk situation i Sverige som kan äventyra likviditeten på finansmarknaden eller stabiliteten i det finansiella systemet i något land inom EES.
+
+Finansinspektionen får, i den utsträckning som följer av artikel 58a i kapitaltäckningsdirektivet, i sin tillsynsverksamhet samarbeta och utbyta information med
+
+1. Internationella valutafonden,
+
+2. Världsbanken,
+
+3. Banken för internationell betalningsutjämning, och
+
+4. Rådet för finansiell stabilitet. *Lag (2026:1072)*.
+
+#### 4 §
+
+Finansinspektionen får hänskjuta frågor som rör ett förfarande av en annan behörig myndighet inom EES till Europeiska bankmyndigheten för tvistlösning i de fall som framgår av artiklarna 112.2, 116 och 133 i kapitaltäckningsdirektivet och artikel 48 i värdepappersbolagsdirektivet. *Lag (2021:481)*.
+
+#### 5 §
+
+Finansinspektionen får även hänskjuta sådana frågor som avses i 4 § till Europeiska bankmyndigheten för tvistlösning i enlighet med artiklarna 41.2, 43.5, 50.4 och 51.2 i kapitaltäckningsdirektivet och artikel 13.5 i värdepappersbolagsdirektivet. *Lag (2021:481)*.
+
+#### 6 §
+
+Finansinspektionen ska, efter begäran från en behörig myndighet i ett annat land inom EES, inom ramen för sin befogenhet lämna eller kontrollera information som behövs för att den utländska myndigheten ska kunna utöva sin tillsyn.
+
+Den utländska myndigheten får närvara vid en kontroll som görs av inspektionen.
+
+#### 7 §
+
+Företag som enligt tillsynsförordningen står under tillsyn utifrån sin konsoliderade situation och dotterföretag till ett kreditinstitut eller ett motsvarande utländskt företag inom EES, ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag som inte omfattas av bestämmelserna om gruppbaserad tillsyn, ska lämna de uppgifter som krävs för tillsynsredovisningen till det företag som enligt tillsynsförordningen ska upprätta gruppbaserad redovisning eller samlad information.
+
+Första stycket gäller även ett svenskt företag i förhållande till ett utländskt företag inom EES som ska upprätta och ge in en rapport enligt tillsynsförordningen. *Lag (2021:481)*.
+
+### Undersökning
+
+#### 8 §
+
+Finansinspektionen får, när inspektionen anser att det behövs för tillsynen, göra undersökningar hos
+
+1. företag som enligt 7 § ska lämna uppgifter samt hos finansiella holdingföretag, holdingföretag med blandad verksamhet, blandade finansiella holdingföretag och värdepappersinriktade holdingföretag för att kontrollera den gruppbaserade redovisningen eller samlade informationen som företagen är skyldiga att lämna,
+
+2. företag som har fått i uppdrag av ett kreditinstitut, ett värdepappersbolag eller ett holdingföretag som avses i 1 att utföra ett visst arbete eller vissa funktioner, och
+
+3. företag som Finansinspektionen enligt 4 kap. 1 § och 4 a kap. 1 § ska utöva tillsyn över. *Lag (2021:481)*.
+
+### Informationsskyldighet för ett kreditinstitut som är undantaget från gruppbaserad tillsyn
+
+#### 9 §
+
+Om ett dotterföretag som är ett kreditinstitut är undantaget från tillämpningsområdet för konsoliderad tillsyn med stöd av artikel 19 i tillsynsförordningen, ska moderföretaget till Finansinspektionen lämna de upplysningar som inspektionen anser att den behöver för sin tillsyn över institutet. *Lag (2021:481)*.
+
+### Tystnadsplikt
+
+#### 10 §
+
+En styrelseledamot eller befattningshavare hos ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag eller ett värdepappersinriktat holdingföretag som i den egenskapen får kunskap om affärsförhållanden i ett företag som enligt 7 § eller artikel 7.1 i värdepappersbolagsförordningen ska lämna uppgifter, får inte obehörigen röja vad han eller hon fått veta och inte heller utnyttja kunskapen i strid med det uppgiftslämnande företagets intresse. *Lag (2021:481)*.
+
+### Uppgiftsskyldighet
+
+#### 10 a §
+
+Ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag och ett värdepappersinriktat holdingföretag ska på begäran av Polismyndigheten, Skatteverket, Säkerhetspolisen eller Tullverket lämna uppgifter om enskildas förhållanden till företaget, om uppgifterna behövs i ett enskilt fall i myndighetens verksamhet för att förebygga, förhindra eller upptäcka brottslig verksamhet som innefattar brott för vilket det i straffskalan ingår fängelse i ett år eller mer. Uppgifterna ska lämnas utan dröjsmål och i elektronisk form.
+
+Ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag eller ett värdepappersinriktat holdingföretag eller den som är verksam i någon av de verksamheterna får inte obehörigen röja för kunden eller för någon utomstående att en myndighet har gjort en begäran eller att uppgifter har lämnats enligt första stycket.
+
+Bestämmelser om ansvar för den som bryter mot tystnadsplikten enligt andra stycket finns i 20 kap. 3 § brottsbalken.
+
+*Lag (2025:186)*.
+
+#### 11 §
+
+Ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag och ett värdepappersinriktat holdingföretag är skyldiga att lämna ut uppgifter om enskildas förhållanden till företaget om det
+
+1. under en utredning enligt bestämmelserna om förundersökning i brottmål begärs av undersökningsledaren,
+
+2. under en utredning om självständigt förverkande begärs av åklagaren,
+
+3. i ett ärende om rättslig hjälp i brottmål begärs av åklagaren på framställning av en annan stat eller en mellanfolklig domstol, eller
+
+4. i ett ärende om erkännande och verkställighet av en europeisk utredningsorder begärs av åklagaren.
+
+Uppgifterna ska lämnas ut utan dröjsmål och i elektronisk form. *Lag (2024:876)*.
+
+### Meddelandeförbud
+
+#### 12 §
+
+Den undersökningsledare eller åklagare som begär uppgifter enligt 11 § får besluta att holdingföretaget samt dess styrelseledamöter och anställda inte får röja för kunden eller för någon utomstående att uppgifter har lämnats enligt 11 § eller att det pågår en förundersökning, en utredning om självständigt förverkande, ett ärende om rättslig hjälp i brottmål eller ett ärende om erkännande och verkställighet av en europeisk utredningsorder.
+
+Ett sådant förbud får meddelas om det krävs för att en utredning om brott eller självständigt förverkande inte ska äventyras eller för att uppfylla en internationell överenskommelse som är bindande för Sverige.
+
+Förbudet ska vara tidsbegränsat, med möjlighet till förlängning, och får inte avse längre tid än vad som är motiverat med hänsyn till syftet med förbudet. I ett ärende om rättslig hjälp i brottmål eller om erkännande och verkställighet av en europeisk utredningsorder får dock förbudet tidsbegränsas bara om den stat eller mellanfolkliga domstol som ansökt om rättslig hjälp eller den utländska myndighet som har utfärdat utredningsordern samtycker till detta.
+
+Om ett förbud inte längre är motiverat med hänsyn till syftet med förbudet, ska undersökningsledaren eller åklagaren besluta att förbudet ska upphöra. *Lag (2024:876)*.
+
+## 7 kap. Moderföretag utanför EES i fråga om gruppbaserad tillsyn och intermediära holdingföretag
+
+### Gruppbaserad tillsyn
+
+#### 1 §
+
+Om ett kreditinstitut eller ett motsvarande utländskt företag inom EES inte står under gruppbaserad tillsyn enligt artikel 111 i kapitaltäckningsdirektivet och dess moderföretag är ett utländskt företag som motsvarar ett kreditinstitut, finansiellt holdingföretag eller blandat finansiellt holdingföretag som har sitt huvudkontor utanför EES, gäller 2 och 3 §§ för det fall Finansinspektionen enligt 4 kap. 1-3 §§ skulle ha utövat tillsynen över den konsoliderade situationen om de bestämmelserna hade gällt. *Lag (2021:481)*.
+
+#### 2 §
+
+Finansinspektionen ska kontrollera om den gruppbaserade tillsyn som utövas av tillsynsmyndigheten i landet utanför EES är likvärdig med den gruppbaserade tillsyn som anges i artiklarna 11-24 i tillsynsförordningen och 4 kap. denna lag.
+
+Finansinspektionen ska utföra kontrollen på begäran av moderföretaget eller av ett inom EES auktoriserat kreditinstitut eller institut för elektroniska pengar i den konsoliderade situationen. Innan Finansinspektionen tar ställning till om tillsynen är likvärdig, ska inspektionen höra övriga berörda behöriga myndigheter inom EES. Inspektionen ska också före ställningstagandet ha rådfrågat Europeiska bankmyndigheten. *Lag (2021:481)*.
+
+#### 3 §
+
+Om tillsynen inte bedöms likvärdig, ska Finansinspektionen tillämpa bestämmelserna om gruppbaserad tillsyn i artiklarna 11-24 i tillsynsförordningen och 4 kap. denna lag som om moderföretaget haft sitt huvudkontor inom EES.
+
+Efter att ha hört övriga berörda behöriga myndigheter får Finansinspektionen i stället besluta att använda sig av andra tillsynsmetoder som säkerställer att kreditinstitut och utländska företag som motsvarar kreditinstitut i den konsoliderade situationen är föremål för tillräcklig tillsyn. Inspektionen får då förelägga en ägare till ett kreditinstitut att inrätta ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag med huvudkontor inom EES och tillämpa bestämmelserna i denna lag på kreditinstitut och utländska företag som motsvarar kreditinstitut i den konsoliderade situationen, som leds av detta holdingföretag.
+
+Finansinspektionen ska underrätta de berörda behöriga myndigheterna, Europeiska kommissionen och Europeiska bankmyndigheten när sådana andra tillsynsmetoder som anges i andra stycket används. *Lag (2021:481)*.
+
+### Krav på ett intermediärt moderföretag inom EES
+
+#### 4 §
+
+En grupp ska etablera ett intermediärt moderföretag inom EES, om
+
+1. moderföretaget i gruppen är etablerat i ett land utanför EES,
+
+2. det i gruppen finns minst två kreditinstitut eller värdepappersbolag eller motsvarande utländska företag inom EES, varav åtminstone ett i Sverige, och
+
+3. det totala värdet på gruppens tillgångar inom EES uppgår till motsvarande minst 40 miljarder euro.
+
+Med det totala värdet på gruppens tillgångar inom EES avses summan av
+
+1. företagens tillgångar enligt en konsoliderad balansräkning eller, om en sådan inte finns, de individuella balansräkningarna, och
+
+2. filialernas tillgångar. *Lag (2021:481)*.
+
+#### 5 §
+
+Ett intermediärt moderföretag ska vara ett inom EES
+
+1. godkänt finansiellt holdingföretag eller blandat finansiellt holdingföretag, eller
+
+2. auktoriserat kreditinstitut eller, om det inom gruppen inte finns ett sådant institut, ett auktoriserat värdepappersföretag som omfattas av Europaparlamentets och rådets direktiv 2014/59/EU av den 15 maj 2014 om inrättande av en ram för återhämtning och resolution av kreditinstitut och värdepappersföretag och om ändring av rådets direktiv 82/891/EEG och Europaparlamentets och rådets direktiv 2001/24/EG, 2002/47/EG, 2004/25/EG, 2005/56/EG, 2007/36/EG, 2011/35/EU, 2012/30/EU och 2013/36/EU samt Europaparlamentets och rådets förordningar (EU) nr 1093/2010 och (EU) nr 648/2012, i lydelsen enligt Europaparlamentets och rådets direktiv (EU) 2019/879. *Lag (2020:1213)*.
+
+#### 6 §
+
+En grupp som avses i 4 § får ha ytterligare ett intermediärt moderföretag inom EES, om förutsättningarna i artikel 21b.2 i kapitaltäckningsdirektivet är uppfyllda.
+
+Ett sådant intermediärt moderföretag får vara ett värdepappersföretag som avses i 5 § 2. *Lag (2020:1213)*.
+
+## 7 a kap. Moderföretag utanför EES i fråga om värdepappersföretagskoncerner
+
+#### 1 §
+
+Om ett värdepappersbolag, som inte står under effektiv tillsyn enligt artikel 46 i värdepappersbolagsdirektivet, ingår i en koncern med minst ett annat värdepappersbolag eller ett motsvarande utländskt företag inom EES och deras gemensamma moderföretag har sitt huvudkontor utanför EES, ska Finansinspektionen bedöma om den tillsyn som tillsynsmyndigheten i landet utanför EES har över värdepappersföretagen är likvärdig med den tillsyn som anges i artiklarna 1-8 i värdepappersbolagsförordningen och i denna lag. *Lag (2021:481)*.
+
+#### 2 §
+
+Om tillsynen inte bedöms likvärdig, ska Finansinspektionen, för det fall den enligt 4 a kap. 1-3 §§ skulle ha utövat tillsynen över värdepappersföretagskoncernen om de bestämmelserna hade gällt, besluta om lämpliga tillsynsmetoder som uppnår tillsynsmålen enligt artikel 7 eller 8 i värdepappersbolagsförordningen. Finansinspektionen får kräva att koncernen etablerar ett värdepappersinriktat holdingföretag eller ett blandat finansiellt holdingföretag inom EES. Inspektionen får då tillämpa artikel 7 eller 8 i värdepappersbolagsförordningen på detta företag.
+
+*Lag (2021:481)*.
+
+#### 3 §
+
+Innan Finansinspektionen fattar beslut enligt 2 § ska inspektionen samråda med övriga berörda behöriga myndigheter.
+
+Finansinspektionen ska underrätta de berörda behöriga myndigheterna, Europeiska kommissionen och Europeiska bankmyndigheten om åtgärder som den vidtar med stöd av 2 §.
+
+*Lag (2021:481)*.
+
+## 8 kap. Ingripanden och ansvarsbestämmelse
+
+### Ingripanden
+
+#### 1 §
+
+Om ett företag inte uppfyller kraven i tillsynsförordningen, värdepappersbolagsförordningen, denna lag eller föreskrifter som meddelats med stöd av lagen, ska Finansinspektionen förelägga företaget att inom en viss tid begränsa rörelsen i något avseende, minska riskerna i den eller vidta någon annan åtgärd för att komma till rätta med situationen.
+
+Om ett kreditinstitut eller ett värdepappersbolag bryter mot tillsynsförordningen, värdepappersbolagsförordningen, denna lag eller föreskrifter som meddelats med stöd av lagen, gäller dessutom bestämmelserna om ingripande i de lagar som reglerar företagens verksamhet. *Lag (2021:481)*.
+
+#### 1 a §
+
+*/Träder i kraft I:2027-01-11/* Om en tredjelandsfilial inte uppfyller kraven i denna lag, föreskrifter som meddelats med stöd av lagen eller andra författningar som reglerar filialens verksamhet, ska Finansinspektionen förelägga filialen att inom en viss tid be- gränsa rörelsen i något avseende, minska riskerna i den eller vidta någon annan åtgärd för att komma till rätta med situationen.
+
+Finansinspektionen får dessutom ingripa genom att besluta att
+
+1. en filial utöver de kapital- och likviditetskrav som gäller enligt 5 b kap. 4, 5 eller 6 § ska uppfylla ett särskilt kapital- eller likviditetskrav, eller
+
+2. filialen eller någon av dess verkställande direktörer ska betala en sanktionsavgift, om det finns skäl att anta att filialens verksamhet har samband med eller kan öka risken för penningtvätt eller finansiering av terrorism enligt 1 a kap. 58 § 7 eller filialen inte uppfyller sina skyldigheter enligt 5 b kap. 8 §.
+
+Vid ingripande enligt andra stycket 2 gäller 15 kap. 1 b, 1 c och 8-9 d §§ lagen (2004:297) om bank- och finansieringsrörelse i tillämpliga delar. *Lag (2026:1072)*.
+
+#### 2 §
+
+Finansinspektionen ska förelägga ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag, ett holdingföretag med blandad verksamhet eller ett värdepappersinriktat holdingföretag att vidta åtgärder för att göra rättelse, om holdingföretaget inte uppfyller de krav som ställs på det enligt tillsynsförordningen, värdepappersbolagsförordningen, denna lag eller föreskrifter som meddelats med stöd av lagen. Ett sådant föreläggande ska också riktas mot ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag eller ett värdepappersinriktat holdingföretag, vars ledning inte uppfyller kraven i denna lag. *Lag (2021:481)*.
+
+#### 2 a §
+
+Finansinspektionen ska ingripa mot ett finansiellt holdingföretag eller blandat finansiellt holdingföretag som inte uppfyller sina skyldigheter enligt 1 a kap. 2 eller 3 § genom att
+
+1. besluta att företaget vid stämman inte får företräda sina aktier eller andelar i dotterföretag som är institut, eller
+
+2. förelägga företaget att
+
+a) inom en viss tid begränsa riskerna i något avseende,
+
+b) avyttra eller minska sitt innehav i institut eller andra dotterföretag i gruppen,
+
+c) till sina aktieägare överföra ägarintressena i dotterföretag som är institut,
+
+d) utse ett företag som tillfälligt ansvarar för att säkerställa att kraven i 3 kap. 2 § uppfylls,
+
+e) begränsa eller helt avstå från utdelning eller räntebetalningar, eller
+
+f) lämna in en plan som visar hur företaget snarast möjligt ska uppfylla kravet.
+
+Vid ingripande gäller 1 a kap. 5-7 §§ i tillämpliga delar, om
+
+1. Finansinspektionen är samordnande tillsynsmyndighet och företaget är etablerat i ett annat land inom EES, eller
+
+2. Finansinspektionen inte är samordnande tillsynsmyndighet och företaget är etablerat i Sverige. *Lag (2026:1072)*.
+
+#### 2 b §
+
+Om någon som ingår i ledningen i ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag inte uppfyller de krav som anges i 1 a kap. 2 § 3 a eller 3 kap. 5 §, får Finansinspektionen besluta att personen
+
+eller personerna inte längre får vara styrelseledamot eller verkställande direktör.
+
+Första stycket gäller också om styrelsen i sin helhet inte uppfyller de krav som anges i 1 a kap. 2 § 4.
+
+Finansinspektionen får utse en ersättare. Ersättarens uppdrag gäller till dess företaget utsett en ny styrelseledamot eller verkställande direktör. *Lag (2026:1072)*.
+
+#### 2 c §
+
+Finansinspektionen får ingripa genom att besluta att ett företag som avses i 1 a kap. 1 § eller någon som ingår i ledningen i ett sådant företag ska betala en sanktionsavgift, om
+
+1. företaget inte uppfyller sina skyldigheter enligt 1 a kap. 1, 2 eller 3 §,
+
+2. företaget inte uppfyller sina skyldigheter enligt 1 a kap. 8, 20, 21, 27, 36, 38 eller 47 §, eller
+
+3. företaget är ett finansiellt moderholdingföretag eller ett blandat finansiellt moderholdingföretag och inte uppfyller kraven i del tre, fyra, sex eller sju i tillsynsförordningen eller 2 kap. 1 eller 2 § på grupp- eller undergruppsnivå.
+
+Vid ingripande gäller 15 kap. 1 b, 1 c och 8-9 d §§ lagen (2004:297) om bank- och finansieringsrörelse i tillämpliga delar.
+
+Vid en överträdelse enligt första stycket 1 får Finansinspektionen också besluta att den eller de ägare av aktier eller andelar som medverkat till överträdelsen inte får företräda aktierna eller andelarna vid stämman. Vid en överträdelse enligt första stycket 2 eller 3 får inspektionen också besluta att någon som ingår i ledningen i ett sådant företag under en viss tid, lägst tre och högst tio år, inte får vara styrelseledamot eller verkställande direktör i ett kreditinstitut, eller ersättare för någon av dem.
+
+*Lag (2026:1072)*.
+
+#### 2 d §
+
+Om kraven i 1 a kap. 2 § 3 eller 4 inte är uppfyllda för de personer som avses i 3 kap. 11 § får Finansinspektionen, utöver det som anges i 1 § om rättelse och i 2 b § första stycket, besluta att
+
+1. en styrelseledamot eller den verkställande direktören inte får påbörja uppdraget eller anställningen, eller
+
+2. en nyckelperson som avses i 3 kap. 11 § inte längre får vara det. *Lag (2026:1072)*.
+
+### Vite
+
+#### 3 §
+
+Om Finansinspektionen meddelar föreläggande enligt denna lag, får inspektionen förena föreläggandet med vite.
+
+### Förseningsavgift
+
+#### 4 §
+
+Om ett kreditinstitut, ett värdepappersbolag, ett finansiellt holdingföretag, ett blandat finansiellt holdingföretag, ett holdingföretag med blandad verksamhet eller ett värdepappersinriktat holdingföretag med huvudkontor i Sverige inte i tid lämnar upplysningar enligt föreskrifter meddelade med stöd av tillsynsförordningen eller värdepappersbolagsförordningen, får Finansinspektionen besluta att företaget ska betala en förseningsavgift med högst 100 000 kronor.
+
+Avgiften tillfaller staten. *Lag (2021:481)*.
+
+#### 5 §
+
+Förseningsavgiften ska betalas in till Finansinspektionen inom trettio dagar efter det att beslutet fått laga kraft eller den längre tid som anges i beslutet.
+
+#### 6 §
+
+Finansinspektionens beslut att ta ut förseningsavgift får verkställas utan föregående dom eller utslag, om avgiften inte har betalats inom den tid som anges i 5 §.
+
+#### 7 §
+
+Om förseningsavgiften inte betalas in inom den tid som anges i 5 §, ska Finansinspektionen lämna den obetalda avgiften för indrivning. Bestämmelser om indrivning av statliga fordringar finns i lagen (1993:891) om indrivning av statliga fordringar m.m.
+
+#### 8 §
+
+En förseningsavgift faller bort i den utsträckning verkställighet inte har skett inom fem år efter det att beslutet fick laga kraft.
+
+### Ansvarsbestämmelse
+
+#### 9 §
+
+Till böter döms den som uppsåtligen eller av grov oaktsamhet bryter mot ett meddelandeförbud enligt 6 kap. 12 §.
+
+## 9 kap. Avgifter
+
+#### 1 §
+
+Kreditinstitut och värdepappersbolag som står under tillsyn enligt tillsynsförordningen eller värdepappersbolagsförordningen och denna lag ska med årliga avgifter bekosta Finansinspektionens verksamhet samt Statistiska centralbyråns verksamhet enligt lagen (2014:484) om en databas för övervakning av och tillsyn över finansmarknaderna.
+
+Finansinspektionen får ta ut avgifter för prövning av ansökningar och anmälningar enligt tillsynsförordningen, värdepappersbolagsförordningen och denna lag.
+
+Om Finansinspektionen behöver anlita någon med särskild fackkunskap för bedömning av en viss fråga vid tillsynen enligt denna lag, ska kostnaden för detta betalas av det kreditinstitut eller värdepappersbolag som tillsynen avser.
+
+*Lag (2021:481)*.
+
+## 10 kap. Bemyndiganden
+
+#### 1 §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter som kompletterar tillsynsförordningens bestämmelser om
+
+1. offentliggörande av information och tillsynsrapportering,
+
+2. beräkningen av kapitalbaskravet samt kapitalbasen,
+
+3. stora exponeringar,
+
+4. exponeringar i fastigheter,
+
+5. säkerställda obligationer,
+
+6. likviditetskrav,
+
+7. interna modeller för marknadsrisker,
+
+8. schablonmetoden för marknadsrisker,
+
+9. schablonmetoden för kreditrisker,
+
+10. IRK-metoden för kreditrisker,
+
+11. motpartsrisker,
+
+12. värdepapperisering,
+
+13. bruttosoliditet,
+
+14. konsolidering av de gruppbaserade kraven,
+
+15. omklassificering av positioner, och
+
+16. klassificering av kreditinstitut.
+
+*Lag (2021:481)*.
+
+#### 1 a §
+
+Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter som kompletterar värdepappersbolagsförordningens bestämmelser om
+
+1. beräkningen av kapitalbaskraven (artikel 30.1 tredje stycket), och
+
+2. koncentrationsrisker (artikel 41.2).
+
+*Lag (2021:481)*.
+
+#### 2 §
+
+*/Upphör att gälla U:2030-01-10/* Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1. vilka krav som ska ställas på den som ska ingå i ledningen i
+
+a) ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag enligt 1 a kap. 2 § 3 och 4 och 3 kap. 5 §, eller
+
+b) ett värdepappersinriktat holdingföretag eller ett blandat finansiellt holdingföretag enligt 3 a kap. 2 §,
+
+2. vilka krav som ska ställas på den som avses i 1 a kap. 2 § 3 b,
+
+3. vilka tillgångar och skulder som ska räknas med vid beräkningen av vad som utgör en väsentlig överföring enligt 1 a kap. 21 §,
+
+4. vid vilken tidpunkt, på vilken plats och med vilka intervall
+
+a) kreditinstitut ska offentliggöra sådan information som anges i artiklarna 431-455 i tillsynsförordningen, och
+
+b) värdepappersbolag ska offentliggöra sådan information som anges i artikel 46 i värdepappersbolagsförordningen,
+
+5. vilka upplysningar ett finansiellt holdingföretag eller blandat finansiellt holdingföretag ska lämna till Finansinspektionen,
+
+6. mångfaldspolicy vid tillsättandet av styrelse samt resurser för introduktion och utbildning av styrelseledamöter för sådana finansiella holdingföretag eller blandade finansiella holdingföretag som avses i 1 a kap. 2 §,
+
+7. vilka poster som får räknas in i kapitalbaskraven enligt 5 b kap. 4 och 5 §§,
+
+8. kraven på ett sådant konto som kapitalet ska deponeras på enligt 5 b kap. 7 §,
+
+9. vilka åtgärder en tredjelandsfilial ska vidta för att uppfylla de krav på riskhantering, dokumentation och intern styrning och kontroll och lämplighet som avses i 5 b kap. 8 och 9 §§,
+
+10. vilka upplysningar tredjelandsfilialer ska lämna till Finansinspektionen,
+
+11. vilken information moderföretag ska offentliggöra enligt 6 kap. 2 §,
+
+12. när kapitalbaskraven i tillsynsförordningen eller Europaparlamentets och rådets förordning (EU) 2017/2402 av den 12 december 2017 om ett allmänt ramverk för värdepapperisering och om inrättande av ett särskilt ramverk för enkel, transparent och standardiserad värdepapperisering samt om ändring av direktiven 2009/65/EG, 2009/138/EG och 2011/61/EU och förordningarna (EG) nr 1060/2009 och (EU) nr 648/2012 inte ska anses täcka en risk och hur nivån på ett särskilt kapitalbaskrav enligt 2 kap. för att täcka en sådan risk ska fastställas,
+
+13. de omständigheter som ska beaktas, dels vid prövningen enligt 2 kap. 2 § av om ett kreditinstitut eller ett värdepappersbolag ska uppfylla ett särskilt likviditetskrav, dels vid fastställandet av en lämplig nivå för ett sådant särskilt likviditetskrav i samband med en översyn och utvärdering av företaget, och
+
+14. hur uppgifter enligt 6 kap. 10 a § första stycket och 11 § ska lämnas. *Lag (2026:1072)*.
+
+#### 2 §
+
+*/Träder i kraft I:2030-01-10/* Regeringen eller den myndighet som regeringen bestämmer får meddela föreskrifter om
+
+1. vilka krav som ska ställas på den som ska ingå i ledningen i
+
+a) ett finansiellt holdingföretag eller ett blandat finansiellt holdingföretag enligt 1 a kap. 2 § 3 och 4 och 3 kap. 5 §, eller
+
+b) ett värdepappersinriktat holdingföretag eller ett blandat finansiellt holdingföretag enligt 3 a kap. 2 §,
+
+2. vilka krav som ska ställas på den som avses i 1 a kap. 2 § 3 b,
+
+3. vilka tillgångar och skulder som ska räknas med vid beräkningen av vad som utgör en väsentlig överföring enligt 1 a kap. 21 §,
+
+4. vid vilken tidpunkt, på vilken plats och med vilka intervall
+
+a) kreditinstitut ska offentliggöra sådan information som anges i artiklarna 431-455 i tillsynsförordningen, och
+
+b) värdepappersbolag ska offentliggöra sådan information som anges i artikel 46 i värdepappersbolagsförordningen,
+
+5. vilka upplysningar ett finansiellt holdingföretag eller blandat finansiellt holdingföretag ska lämna till Finansinspektionen,
+
+6. mångfaldspolicy vid tillsättandet av styrelse samt resurser för introduktion och utbildning av styrelseledamöter för sådana finansiella holdingföretag eller blandade finansiella holdingföretag som avses i 1 a kap. 2 §,
+
+7. vilka poster som får räknas in i kapitalbaskraven enligt 5 b kap. 4 och 5 §§,
+
+8. kraven på ett sådant konto som kapitalet ska deponeras på enligt 5 b kap. 7 §,
+
+9. vilka åtgärder en filial ska vidta för att uppfylla de krav på riskhantering, dokumentation och intern styrning och kontroll och lämplighet som avses i 5 b kap. 8 och 9 §§,
+
+10. vilka upplysningar tredjelandsfilialer ska lämna till Finansinspektionen,
+
+11. information som moderföretag ska offentliggöra och lämna till Finansinspektionen enligt 6 kap. 2 §,
+
+12. när kapitalbaskraven i tillsynsförordningen eller Europaparlamentets och rådets förordning (EU) 2017/2402 av den 12 december 2017 om ett allmänt ramverk för värdepapperisering och om inrättande av ett särskilt ramverk för enkel, transparent och standardiserad värdepapperisering samt om ändring av direktiven 2009/65/EG, 2009/138/EG och 2011/61/EU och förordningarna (EG) nr 1060/2009 och (EU) nr 648/2012 inte ska anses täcka en risk och hur nivån på ett särskilt kapitalbaskrav enligt 2 kap. för att täcka en sådan risk ska fastställas,
+
+13. de omständigheter som ska beaktas, dels vid prövningen enligt 2 kap. 2 § av om ett kreditinstitut eller ett värdepappersbolag ska uppfylla ett särskilt likviditetskrav, dels vid fastställandet av en lämplig nivå för ett sådant särskilt likviditetskrav i samband med en översyn och utvärdering av företaget, och
+
+14. hur uppgifter enligt 6 kap. 10 a § första stycket och 11 § ska lämnas. *Lag (2026:1081)*.
+
+#### 3 §
+
+Regeringen får meddela föreskrifter om handläggningen av ärenden enligt 1 a kap. 8, 21, 27, 36, 38 och 47 §§ och om avgifter enligt 9 kap. 1 § första och andra styckena.
+
+*Lag (2026:1072)*.
+
+#### 4 §
+
+Riksbanken får meddela föreskrifter om avgifter enligt 1 kap. 4 a §. *Lag (2022:1584)*.
+
+## 11 kap. Överklaganden
+
+#### 1 §
+
+Finansinspektionens beslut enligt denna lag eller med stöd av föreskrifter som har meddelats med stöd av lagen får överklagas till allmän förvaltningsdomstol.
+
+Prövningstillstånd krävs vid överklagande till kammarrätten.
+
+Finansinspektionen får bestämma att ett beslut ska gälla omedelbart. *Lag (2018:856)*.
+
+## Övergångsbestämmelser
+
+**2017:705**
+
+1. Denna lag träder i kraft den 1 augusti 2017.
+
+2. Äldre bestämmelser gäller för överträdelser som ägt rum före ikraftträdandet.
+
+**2020:1213**
+
+1. Denna lag träder i kraft den 29 december 2020.
+
+2. Ett företag som avses i 1 kap. 7 § får, om det var etablerat den 27 juni 2019 och har gett in en ansökan om godkännande eller undantag från godkännande till Finansinspektionen senast den 28 juni 2021, fortsätta att driva sin verksamhet till dess att ansökan har prövats slutligt.
+
+3. En grupp som avses i 7 kap. 4 § ska senast den 30 december 2023 etablera ett intermediärt moderföretag inom EES eller, i tillämpliga fall, två intermediära moderföretag inom EES, om det i gruppen den 27 juni 2019 fanns minst två institut inom EES, varav åtminstone ett i Sverige, och det totala värdet av gruppens tillgångar inom EES vid den tidpunkten uppgick till motsvarande minst 40 miljarder euro.
+
+**2026:1072**
+
+1. Denna lag träder i kraft den 11 januari 2027 i fråga om 1 a kap. 56-59 §§, 5 b kap., 6 kap. 1 § och 8 kap. 1 a § och i övrigt den 1 juli 2026.
+
+2. De nya bestämmelserna i 1 a kap. 56-59 §§ ska dock tillämpas på ansökningar om tillstånd enligt 1 a kap. 56 § som lämnas in till Finansinspektionen från och med den 1 juli 2026 och som avser tid från och med den 11 januari 2027.
+
+3. Bestämmelserna i 1 a kap. 56-59 §§ om tillståndsplikt omfattar avtal som har ingåtts efter den 10 juli 2026 och som avser nya förpliktelser.
+
+4. Äldre bestämmelser gäller för överträdelser som ägt rum före ikraftträdandet.

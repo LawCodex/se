@@ -1,0 +1,67 @@
+---
+title: "Förordning (2007:603) om intern styrning och kontroll"
+identifier: "SFS 2007:603"
+type: regulation
+jurisdiction: se
+language: sv
+date: 2007-06-14
+amended_through: "SFS 2025:1209"
+department: "Finansdepartementet BA ToT"
+status: in_force
+source: "https://data.riksdagen.se/dokument/sfs-2007-603.html"
+consolidated_text: "https://rkrattsbaser.gov.se/sfst?bet=2007:603"
+retrieved: 2026-10-11
+---
+# Förordning (2007:603) om intern styrning och kontroll
+
+## Tillämpningsområde
+
+### 1 §
+
+Denna förordning gäller för förvaltningsmyndigheter under regeringen som har skyldighet att följa internrevisionsförordningen (2006:1228).
+
+## Intern styrning och kontroll
+
+### 2 §
+
+Myndighetsledningen ansvarar för att det finns en process för intern styrning och kontroll vid myndigheten som fungerar på ett betryggande sätt. Denna process ska säkerställa att myndigheten med rimlig säkerhet fullgör sina uppgifter, uppnår verksamhetens mål och uppfyller kraven i 3 § myndighetsförordningen (2007:515).
+
+Processen för intern styrning och kontroll ska även förebygga att verksamheten utsätts för korruption, otillbörlig påverkan, bedrägeri och andra oegentligheter.
+
+Myndighetsledningen ska säkerställa att det inom myndigheten finns en god intern miljö som skapar förutsättningar för en väl fungerande process för intern styrning och kontroll. *Förordning (2018:1343)*.
+
+## Riskanalys
+
+### 3 §
+
+En riskanalys ska göras i syfte att identifiera omständigheter som utgör en väsentlig risk för att myndigheten inte ska kunna fullgöra sina uppgifter, uppnå verksamhetens mål och uppfylla kraven i 3 § myndighetsförordningen (2007:515). *Förordning (2018:1343)*.
+
+## Åtgärder
+
+### 4 §
+
+Med ledning av riskanalysen ska de åtgärder vidtas som är nödvändiga för att myndigheten med rimlig säkerhet ska kunna fullgöra sina uppgifter, uppnå verksamhetens mål och uppfylla kraven i 3 § myndighetsförordningen (2007:515).
+
+*Förordning (2018:1343)*.
+
+## Uppföljning
+
+### 5 §
+
+Den interna styrningen och kontrollen skall systematiskt och regelbundet följas upp och bedömas.
+
+Vid bedömningen skall iakttagelser som lämnas vid extern revision och internrevision beaktas.
+
+## Dokumentation
+
+### 6 §
+
+Riskanalysen och de åtgärder som vidtas med anledning av analysen ska dokumenteras i den utsträckning som är nödvändig för myndighetens uppföljning och bedömning av om den interna styrningen och kontrollen är betryggande.
+
+*Förordning (2018:1343)*.
+
+## Verkställighetsföreskrifter
+
+### 7 §
+
+Statskontoret får meddela de föreskrifter som behövs för verkställigheten av denna förordning. *Förordning (2025:1209)*.
